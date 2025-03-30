@@ -52,27 +52,6 @@ function generateRandomNumbers(
     return result;
 }
 
-
-
-if (!Array.prototype.sample) {
-    Array.prototype.sample = function <T>(this: T[]): T | undefined {
-
-        if (this.length === 0) {
-            return undefined;
-        }
-
-        const randomIndex = Math.floor(Math.random() * this.length);
-
-        return this[randomIndex];
-    };
-}
-
-declare global {
-    interface Array<T> {
-        sample(): T | undefined;
-    }
-}
-
 export function isRussianLowercase(char: string): boolean {
     if (char.length !== 1) return false;
 

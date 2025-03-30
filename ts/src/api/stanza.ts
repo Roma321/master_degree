@@ -157,32 +157,3 @@ class StanzaApi {
 }
 
 export default StanzaApi;
-
-const test = async () => {
-  const api = new StanzaApi();
-  const { lemma } = await api.getLemma("столы");
-  console.log(lemma); // "стол"
-
-  const { features } = await api.getMorphFeatures("столы");
-  console.log(features);
-  // { Case: "Nom", Number: "Plur", ... }
-
-  // Вариант 1 - через features словарь
-  const result1 = await api.inflectWord({
-    lemma: "стол",
-    features: { Case: "Dat", Number: "Plur" }
-  });
-
-  // Вариант 2 - через features_str (формат Stanza)
-  const result2 = await api.inflectWord({
-    lemma: "книга",
-    features_str: "Case=Gen|Number=Sing",
-    features: { Case: "Gen", Number: "Plur" }
-
-  });
-
-  console.log(result1.inflected); // "столам"
-  console.log(result2.inflected); // "книги"
-}
-
-test()
