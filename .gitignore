@@ -1,0 +1,67 @@
+# === Общие исключения ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+*.sqlite
+*.tmp
+*.bak
+
+# === Python (PyCharm) ===
+# Файлы PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Кэш и временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python-version
+
+# Виртуальное окружение (если есть)
+venv/
+env/
+.venv/
+
+# Артефакты сборки и установки
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# === Node.js/TypeScript (VS Code) ===
+# node_modules в любом месте внутри ts/
+ts/node_modules/
+
+# Логи npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Кэш и артефакты
+.cache/
+.temp/
+.next/
+.nuxt/
+dist/
+out/
+coverage/
+
+# Переменные окружения
+.env
+.env.local
+.env*.local
+
+# === VS Code ===
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+corpus
