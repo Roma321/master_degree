@@ -63,7 +63,7 @@ class StanzaApi {
   // Лемматизация слова
   async getLemma(word: string): Promise<LemmaResponse> {
     try {
-      const response: AxiosResponse<LemmaResponse> = await this.client.post('/process/lemma', { word });
+      const response: AxiosResponse<LemmaResponse> = await this.client.post('/api/v1/morph/lemma', { word });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -73,7 +73,7 @@ class StanzaApi {
   // Получение морфологических характеристик слова
   async getMorphFeatures(word: string): Promise<MorphFeaturesResponse> {
     try {
-      const response: AxiosResponse<MorphFeaturesResponse> = await this.client.post('/process/morph-features', { word });
+      const response: AxiosResponse<MorphFeaturesResponse> = await this.client.post('/api/v1/morph/features', { word });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -83,7 +83,7 @@ class StanzaApi {
   // Словоизменение (постановка слова в заданные грамматические характеристики)
   async inflectWord(params: InflectRequest): Promise<InflectResponse> {
     try {
-      const response: AxiosResponse<InflectResponse> = await this.client.post('/process/inflect-word', params);
+      const response: AxiosResponse<InflectResponse> = await this.client.post('/api/v1/morph/inflect', params);
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -93,7 +93,7 @@ class StanzaApi {
   // Разбиение текста на предложения (razdel)
   async splitSentences(text: string): Promise<SentenceSplitResponse> {
     try {
-      const response: AxiosResponse<SentenceSplitResponse> = await this.client.post('/process/sentence-split', { text });
+      const response: AxiosResponse<SentenceSplitResponse> = await this.client.post('/api/v1/text/sentence-split', { text });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -103,7 +103,7 @@ class StanzaApi {
   // POS-тэгинг
   async posTagging(text: string): Promise<ProcessResponse> {
     try {
-      const response: AxiosResponse<ProcessResponse> = await this.client.post('/process/pos', { text });
+      const response: AxiosResponse<ProcessResponse> = await this.client.post('/api/v1/text/pos', { text });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -113,7 +113,7 @@ class StanzaApi {
   // NER (распознавание именованных сущностей)
   async namedEntityRecognition(text: string): Promise<ProcessResponse> {
     try {
-      const response: AxiosResponse<ProcessResponse> = await this.client.post('/process/ner', { text });
+      const response: AxiosResponse<ProcessResponse> = await this.client.post('/api/v1/text/ner', { text });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -123,7 +123,7 @@ class StanzaApi {
   // Анализ зависимостей
   async dependencyParsing(text: string): Promise<ProcessResponse> {
     try {
-      const response: AxiosResponse<ProcessResponse> = await this.client.post('/process/depparse', { text });
+      const response: AxiosResponse<ProcessResponse> = await this.client.post('/api/v1/text/depparse', { text });
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -133,7 +133,7 @@ class StanzaApi {
   // Проверка здоровья сервиса
   async healthCheck(): Promise<{ status: string }> {
     try {
-      const response: AxiosResponse<{ status: string }> = await this.client.get('/health');
+      const response: AxiosResponse<{ status: string }> = await this.client.get('/api/v1/service/health');
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -176,7 +176,9 @@ const test = async () => {
   // Вариант 2 - через features_str (формат Stanza)
   const result2 = await api.inflectWord({
     lemma: "книга",
-    features_str: "Case=Gen|Number=Sing"
+    features_str: "Case=Gen|Number=Sing",
+    features: { Case: "Gen", Number: "Plur" }
+
   });
 
   console.log(result1.inflected); // "столам"
