@@ -14,6 +14,7 @@ class LemmaRequest(BaseModel):
 
 class MorphFeaturesResponse(BaseModel):
     word: str
+    pos: Optional[str]
     features: Dict[str, str]
 
 class InflectRequest(BaseModel):

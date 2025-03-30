@@ -1,52 +1,5 @@
 import axios, { AxiosInstance, AxiosResponse } from 'axios';
-
-// Типы для запросов и ответов
-type TextRequest = {
-  text: string;
-  processors?: string[];
-};
-
-type LemmaRequest = {
-  word: string;
-};
-
-type MorphFeaturesResponse = {
-  word: string;
-  features: Record<string, string>;
-};
-
-type InflectRequest = {
-  lemma: string;
-  features?: Record<string, string>;
-  features_str?: string;
-};
-
-type InflectResponse = {
-  lemma: string;
-  inflected: string;
-  requested_features: Record<string, string>;
-  normal_form: string;
-  tag: string;
-  success: boolean;
-};
-
-type LemmaResponse = {
-  lemma: string;
-};
-
-type SentenceSplitResponse = {
-  sentences: string[];
-};
-
-type ProcessResponse = {
-  result: any;
-};
-
-type ApiError = {
-  error: string;
-  detail?: string;
-  success?: boolean;
-};
+import { LemmaResponse, MorphFeaturesResponse, InflectRequest, InflectResponse, SentenceSplitResponse, ProcessResponse, ApiError } from './types';
 
 // Класс-обёртка для API
 class StanzaApi {

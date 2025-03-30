@@ -11,15 +11,15 @@ export async function isParonym(string: string) {
 }
 
 export async function makeParonymError(string: string) {
-    const lemma = (await api.getLemma(string)).lemma.toLocaleLowerCase()
-        const replaceParonym = paronyms.find(list => list.includes(lemma))?.filter(it => it != lemma).sample()
-    if (!replaceParonym) return string
+    const lemma = (await api.getLemma(string)).lemma.toLocaleLowerCase();
+    const replaceParonym = paronyms.find(list => list.includes(lemma))?.filter(it => it != lemma).sample();
+    if (!replaceParonym) return string;
 
-    const features = (await api.getMorphFeatures(string)).features
+    const features = (await api.getMorphFeatures(string)).features;
     const res = api.inflectWord({
         lemma: replaceParonym,
         features
-    })
+    });
 
     return (await res).inflected
 }

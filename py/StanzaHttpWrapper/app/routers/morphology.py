@@ -33,19 +33,28 @@ async def get_lemma(request: LemmaRequest):
 
 @router.post("/features", response_model=MorphFeaturesResponse)
 async def get_morph_features(request: LemmaRequest):
-    """Анализ морфологических признаков"""
+    """Анализ морфологических признаков и части речи"""
     try:
         doc = nlp_models.get_pipeline('lemma')(request.word)
+        pos = None
         features = {}
+
         if doc.sentences and doc.sentences[0].words:
-            for feat in doc.sentences[0].words[0].feats.split('|'):
-                if '=' in feat:
-                    key, val = feat.split('=', 1)
-                    features[key] = val
-        return MorphFeaturesResponse(word=request.word, features=features)
+            word_data = doc.sentences[0].words[0]
+            pos = word_data.upos  # Universal POS-тег (например, "NOUN", "VERB")
+
+            # Парсим морфологические признаки
+            if word_data.feats:
+                for feat in word_data.feats.split('|'):
+                    if '=' in feat:
+                        key, val = feat.split('=', 1)
+                        features[key] = val
+
+        return MorphFeaturesResponse(word=request.word, pos=pos, features=features)
+
     except Exception as e:
         logger.error(f"Features error: {str(e)}")
-        return MorphFeaturesResponse(word=request.word, features={})
+        return MorphFeaturesResponse(word=request.word, pos=None, features={})
 
 
 @router.post("/inflect", response_model=InflectResponse)
