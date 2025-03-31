@@ -1,5 +1,5 @@
 import axios, { AxiosInstance, AxiosResponse } from 'axios';
-import { LemmaResponse, MorphFeaturesResponse, InflectRequest, InflectResponse, SentenceSplitResponse, ProcessResponse, ApiError } from './types';
+import { LemmaResponse, MorphFeaturesResponse, InflectRequest, InflectResponse, SentenceSplitResponse, ProcessResponse, ApiError, SimilarityResponse } from './types';
 
 // Класс-обёртка для API
 class StanzaApi {
@@ -22,6 +22,19 @@ class StanzaApi {
       this.handleError(error);
     }
   }
+
+    // Семантическая схожесть двух слов
+    async getSemanticSimilarity(word1: string, word2: string): Promise<SimilarityResponse> {
+      try {
+        const response: AxiosResponse<SimilarityResponse> = await this.client.post(
+          '/api/v1/semantic/similarity/',
+          { word1, word2 }
+        );
+        return response.data;
+      } catch (error) {
+        this.handleError(error);
+      }
+    }
 
   // Получение морфологических характеристик слова
   async getMorphFeatures(word: string): Promise<MorphFeaturesResponse> {

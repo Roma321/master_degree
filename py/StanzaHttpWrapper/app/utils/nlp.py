@@ -3,6 +3,10 @@ import pymorphy2
 from typing import Dict, Optional
 import logging
 
+from fastapi import HTTPException
+from gensim.models import KeyedVectors
+from starlette import status
+import gensim.downloader as api
 logger = logging.getLogger(__name__)
 
 
@@ -10,6 +14,7 @@ class NLPModels:
     def __init__(self, config):
         self._pipelines: Dict[str, stanza.Pipeline] = {}
         self.morph = pymorphy2.MorphAnalyzer()
+        self.word2Vec =  KeyedVectors.load_word2vec_format('/home/roman/projects/mag/py/StanzaHttpWrapper/models/model_w2v.bin', binary=True)
         self.config = config
 
     def get_pipeline(self, name: str) -> Optional[stanza.Pipeline]:

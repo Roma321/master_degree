@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
-from app.routers import text, morphology, service
+from app.routers import text, morphology, service, semantic
 from app.config import settings
 from app.dependencies import nlp_models
 import logging
@@ -18,6 +18,7 @@ app = FastAPI(
 app.include_router(text.router)
 app.include_router(morphology.router)
 app.include_router(service.router)
+app.include_router(semantic.router)
 
 @app.on_event("startup")
 async def startup_event():

@@ -37,3 +37,7 @@ class InflectResponse(BaseModel):
     normal_form: str
     tag: str
     success: bool
+
+class CompareRequest(BaseModel):
+    word1: str
+    word2: str

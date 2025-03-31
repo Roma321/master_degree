@@ -23,6 +23,9 @@ export type InflectResponse = {
     tag: string;
     success: boolean;
 };
+export interface SimilarityResponse {
+    similarity: number;
+}
 export type LemmaResponse = {
     lemma: string;
 };
