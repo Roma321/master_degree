@@ -5,6 +5,11 @@ export type MorphFeaturesResponse = {
     pos: UniversalPOSTag
 };
 
+export type MorphFeaturesResponseWithContext = {
+    sentence: string,
+    words: MorphFeaturesResponse[]
+};
+
 export type UniversalPOSTag =
     | "NOUN" | "VERB" | "ADJ" | "ADV" | "PRON" | "DET"
     | "ADP" | "CCONJ" | "SCONJ" | "PART" | "INTJ" | "NUM"

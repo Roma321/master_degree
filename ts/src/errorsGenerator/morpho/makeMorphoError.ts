@@ -1,6 +1,16 @@
 import StanzaApi from "../../api/stanza"
 import { morphologicalFeatureValues, RussianMorphFeatures, UniversalPOSTag } from "../../api/types"
 import '../../array.polyfill'
+import { lessThan2RussianLetters } from "../generate";
+
+const isNotNoun = async (word: string) => !['NOUN', 'PROPN'].includes((await api.getMorphFeatures(word)).pos);
+// export const isNotNoun = (word: string) =>!
+
+export const isNotOkForCaseError = async (word: string) => {
+    return lessThan2RussianLetters(word) || await isNotNoun(word)
+}
+
+export const makeCaseError = (word: string, context: string) => makeMorphError(word, 'Case', true, context)
 
 const mutableFeatures: Record<UniversalPOSTag, (keyof RussianMorphFeatures)[]> = {
     NOUN: ['Case', 'Number'], // Падеж, число, одушевлённость, род (у существительных род постоянный, но учитываем для согласования)
@@ -22,26 +32,61 @@ const mutableFeatures: Record<UniversalPOSTag, (keyof RussianMorphFeatures)[]> =
 };
 
 const api = new StanzaApi()
-export async function makeMorphError(string: string) {
-    const { features, pos } = await api.getMorphFeatures(string)
-    const mutable = mutableFeatures[pos]
-    const hasFeatures = Object.keys(features).filter(Boolean) as (keyof RussianMorphFeatures)[]
+export async function makeMorphError(
+    string: string,
+    feature?: keyof RussianMorphFeatures,
+    tryUntilSuccess?: boolean,
+    context?: string
+) {
+    // Получаем морфологические данные для слова
+    const data = context
+        ? await api.getMorphFeaturesWithContext(string, context)
+        : await api.getMorphFeatures(string);
+    if (!data) return string;
+
+    const { features, pos } = data;
+    const mutable = mutableFeatures[pos];
+    const hasFeatures = Object.keys(features).filter(Boolean) as (keyof RussianMorphFeatures)[];
     const common = mutable.filter(feature =>
         hasFeatures.includes(feature)
     ) as (keyof RussianMorphFeatures)[];
 
-    const featureToChange = common.sample()
-    if (!featureToChange) return string
-    const newFetureValue = morphologicalFeatureValues[featureToChange]!.sample()
-    features[featureToChange] = newFetureValue as any
-    const lemma = (await api.getLemma(string)).lemma
+    // Выбираем признак для изменения
+    const featureToChange = feature ?? common.sample();
+    if (!featureToChange || !common.includes(featureToChange)) return string;
 
-    const word = (await api.inflectWord({
-        lemma,
-        features
-    })).inflected
+    const lemma = (await api.getLemma(string)).lemma;
 
-    return word
+    for (let i = 0; i < 20; i++) {
+        // Генерируем новое значение для выбранного признака
+        const newFeatureValue = morphologicalFeatureValues[featureToChange]!.sample();
+        features[featureToChange] = newFeatureValue as any;
+
+        // Получаем измененное слово
+        const word = (await api.inflectWord({
+            lemma,
+            features
+        })).inflected;
+
+        // Проверяем, нужно ли сохранить регистр исходного слова
+        const isCapitalized = string[0] === string[0].toUpperCase();
+        const correctedWord = isCapitalized
+            ? word.charAt(0).toUpperCase() + word.slice(1)
+            : word;
+
+        // Возвращаем слово, если не требуется дополнительная проверка
+        if (!tryUntilSuccess) return correctedWord;
+
+        // Если требуется проверка на различие, возвращаем слово только если оно отличается от исходного
+        if (correctedWord.toLocaleLowerCase() !== string.toLocaleLowerCase()) {
+            return correctedWord;
+        }
+    }
+
+    // Если цикл завершился без успеха, выбрасываем ошибку
+    throw `что-то пошло не так: ${string}, ${feature}`;
 }
 
-// makeMorphError("Кружку")
+// makeMorphError("Кружки", 'Case', true).then(console.log)
+// getMorphFeaturesWithContext
+// api.getMorphFeaturesWithContext('россию', 'Мне надо ехать в Россию').then(console.log)

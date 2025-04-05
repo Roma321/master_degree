@@ -1,5 +1,5 @@
 import axios, { AxiosInstance, AxiosResponse } from 'axios';
-import { LemmaResponse, MorphFeaturesResponse, InflectRequest, InflectResponse, SentenceSplitResponse, ProcessResponse, ApiError, SimilarityResponse } from './types';
+import { LemmaResponse, MorphFeaturesResponse, InflectRequest, InflectResponse, SentenceSplitResponse, ProcessResponse, ApiError, SimilarityResponse, MorphFeaturesResponseWithContext } from './types';
 
 // Класс-обёртка для API
 class StanzaApi {
@@ -8,7 +8,7 @@ class StanzaApi {
   constructor(baseURL: string = 'http://localhost:8000') {
     this.client = axios.create({
       baseURL,
-      timeout: 10000,
+      timeout: 100_000,
       headers: { 'Content-Type': 'application/json' },
     });
   }
@@ -23,24 +23,35 @@ class StanzaApi {
     }
   }
 
-    // Семантическая схожесть двух слов
-    async getSemanticSimilarity(word1: string, word2: string): Promise<SimilarityResponse> {
-      try {
-        const response: AxiosResponse<SimilarityResponse> = await this.client.post(
-          '/api/v1/semantic/similarity/',
-          { word1, word2 }
-        );
-        return response.data;
-      } catch (error) {
-        this.handleError(error);
-      }
+  // Семантическая схожесть двух слов
+  async getSemanticSimilarity(word1: string, word2: string): Promise<SimilarityResponse> {
+    try {
+      const response: AxiosResponse<SimilarityResponse> = await this.client.post(
+        '/api/v1/semantic/similarity/',
+        { word1, word2 }
+      );
+      return response.data;
+    } catch (error) {
+      this.handleError(error);
     }
+  }
 
   // Получение морфологических характеристик слова
   async getMorphFeatures(word: string): Promise<MorphFeaturesResponse> {
     try {
       const response: AxiosResponse<MorphFeaturesResponse> = await this.client.post('/api/v1/morph/features', { word });
       return response.data;
+    } catch (error) {
+      this.handleError(error);
+    }
+  }
+
+  // Получение морфологических характеристик слова, но с контекстом
+  async getMorphFeaturesWithContext(word: string, sentence: string): Promise<MorphFeaturesResponse | undefined> {
+    try {
+      const response: AxiosResponse<MorphFeaturesResponseWithContext> = await this.client.post('/api/v1/morph/sentence_features', { sentence });
+      // console.log(word, response.data.words)
+      return response.data.words.find(it => it.word.toLocaleLowerCase() === word.toLocaleLowerCase());
     } catch (error) {
       this.handleError(error);
     }

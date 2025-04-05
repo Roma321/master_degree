@@ -1,6 +1,8 @@
-from typing import Dict
+from typing import Dict, List
 
 from fastapi import APIRouter, HTTPException, status
+from pydantic import BaseModel
+
 from app.schemas.models import (
     LemmaRequest,
     MorphFeaturesResponse,
@@ -63,8 +65,9 @@ async def inflect_word(request: InflectRequest):
     try:
         features = parse_features(request.features, request.features_str)
         pymorphy_tags = map_tags_to_pymorphy(features)
-
+        print(pymorphy_tags)
         parsed = nlp_models.morph.parse(request.lemma)[0]
+        print(parsed)
         inflected = parsed.inflect(pymorphy_tags)
 
         if not inflected:
@@ -79,4 +82,52 @@ async def inflect_word(request: InflectRequest):
             success=True
         )
     except Exception as e:
-        logger
+        logger.error(e)
+
+class SentenceRequest(BaseModel):
+    sentence: str  # Предложение для анализа
+
+class WordMorphFeatures(BaseModel):
+    word: str
+    pos: str  # Часть речи (POS-тег)
+    features: dict  # Морфологические признаки
+
+class SentenceMorphFeaturesResponse(BaseModel):
+    sentence: str
+    words: List[WordMorphFeatures]  # Список слов с их морфологическими признаками
+
+@router.post("/sentence_features", response_model=SentenceMorphFeaturesResponse)
+async def get_sentence_morph_features(request: SentenceRequest):
+    """
+    Анализ морфологических признаков и частей речи для каждого слова в предложении.
+    """
+    try:
+        # Обработка предложения через NLP-пайплайн
+        doc = nlp_models.get_pipeline('lemma')(request.sentence)
+        words_data = []
+
+        # Проходим по всем словам в предложении
+        for sentence in doc.sentences:
+            for word_data in sentence.words:
+                pos = word_data.upos  # Universal POS-тег (например, "NOUN", "VERB")
+                features = {}
+
+                # Парсим морфологические признаки
+                if word_data.feats:
+                    for feat in word_data.feats.split('|'):
+                        if '=' in feat:
+                            key, val = feat.split('=', 1)
+                            features[key] = val
+
+                # Добавляем данные о слове в список
+                words_data.append(
+                    WordMorphFeatures(word=word_data.text, pos=pos, features=features)
+                )
+
+        # Возвращаем результат
+        return SentenceMorphFeaturesResponse(sentence=request.sentence, words=words_data)
+
+    except Exception as e:
+        # Логирование ошибки
+        logger.error(f"Sentence features error: {str(e)}")
+        return SentenceMorphFeaturesResponse(sentence=request.sentence, words=[])

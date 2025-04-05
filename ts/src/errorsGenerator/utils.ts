@@ -1,9 +1,9 @@
-export function getIndexesForErrors(sentence: string, excluseWordsFunc: (s: string) => boolean, errorRate: number = 0.1,) {
+export async function getIndexesForErrors(sentence: string, excluseWordsFunc: (s: string) => Promise<boolean>, errorRate: number = 0.1,) {
     const words = sentence.split(/\s+/).map(word => word.replace(/^[.,!?;:]+|[.,!?;:]+$/g, ''))
-    const exclusions = words.map((it, idx) => {
-        if (excluseWordsFunc(it)) return idx
+    const exclusions = (await Promise.all(words.map(async (it, idx) => {
+        if (await excluseWordsFunc(it)) return idx
         return null
-    }).filter(it => it != null)
+    }))).filter(it => it != null)
 
     const baseErrors = 1 + Math.floor(errorRate * words.length)
     const additionalErrors = -Math.floor(words.length * errorRate * Math.log2(1 - Math.random()))
@@ -68,3 +68,30 @@ export const replace = (str: string, idx: number, replacement: string) => {
     return arr.join('');
 };
 
+/**
+ * Нормализует пробелы вокруг знаков препинания:
+ * - ровно один пробел перед знаком препинания
+ * - ровно один пробел после знака препинания (если это не конец строки или другой знак препинания)
+ * @param text Входная строка
+ * @returns Строка с нормализованными пробелами вокруг знаков препинания
+ */
+export function normalizeSpacesAroundPunctuation(text: string): string {
+    // Знаки препинания, которые мы обрабатываем
+    const punctuationMarks = [',', '.', '!', '?', ':', ';', '…'];
+    const punctuationRegex = `[${punctuationMarks.map(mark => '\\' + mark).join('')}]`;
+
+    return (
+        text
+            // Удаляем все пробелы вокруг знаков препинания
+            .replace(new RegExp(`\\s*(${punctuationRegex})\\s*`, 'g'), '$1')
+            // Добавляем пробел перед знаком препинания, если его нет
+            .replace(new RegExp(`([^\\s])(${punctuationRegex})`, 'g'), '$1 $2')
+            .replace(new RegExp(`(${punctuationRegex})([^\\s])`, 'g'), '$1 $2')
+            .trim()
+    );
+}
+
+// Пример использования
+// const testString = "Привет,мир!Как дела    ?     точка.";
+// console.log(normalizeSpacesAroundPunctuation(testString));
+// Вывод: "Привет , мир ! Как дела ? Вот тебе ... многоточие : и точка ."

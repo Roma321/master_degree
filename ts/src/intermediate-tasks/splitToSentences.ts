@@ -62,9 +62,9 @@ class CorpusProcessor {
 const apiBaseUrl = 'http://localhost:8000';
 const processor = new CorpusProcessor(apiBaseUrl);
 
-processor.splitToSentences(
-    "/home/roman/projects/mag/corpus/default/batch_1",
-    "/home/roman/projects/mag/corpus/ortho"
-)
-    .then(() => console.log('Processing completed'))
-    .catch(err => console.error('Processing failed:', err));
+// processor.splitToSentences(
+//     "/home/roman/projects/mag/corpus/default/batch_1",
+//     "/home/roman/projects/mag/corpus/splitted-batch-1"
+// )
+//     .then(() => console.log('Processing completed'))
+//     .catch(err => console.error('Processing failed:', err));

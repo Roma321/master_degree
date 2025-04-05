@@ -1,4 +1,4 @@
-export type MakeErrorFunction = (text: string) => TextWithErrors
+export type MakeErrorFunction = (text: string) => Promise<TextWithErrors>
 
 export type TextWithErrors = {
     correctText: string,
@@ -8,9 +8,10 @@ export type TextWithErrors = {
 
 export type TextError = {
     type: ErrorType,
-    startIdx: number,
-    length: number,
+    wordNumber: number
+    // startIdx: number,
+    // length: number,
     correctReplacement: string
 }
 
-type ErrorType = 'ortho' | 'other'
+type ErrorType = 'ortho' | 'other' | 'case'
