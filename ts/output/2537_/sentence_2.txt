@@ -1,0 +1,11 @@
+{
+  "correctText": "\"За\" проголосовали 102 депутата , против - 1 .",
+  "errors": [
+    {
+      "correctReplacement": "депутата",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "\"За\" проголосовали 102 депутату , против - 1 ."
+}

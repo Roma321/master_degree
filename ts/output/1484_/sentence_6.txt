@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом 5 ноября сообщило агенство Reuters .",
+  "errors": [
+    {
+      "correctReplacement": "ноября",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Об этом 5 ноябрь сообщило агенство Reuters ."
+}

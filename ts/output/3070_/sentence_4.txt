@@ -1,0 +1,11 @@
+{
+  "correctText": "Он застрелил пятерых человек и ранил троих .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Он застрелил пятерых люди и ранил троих ."
+}

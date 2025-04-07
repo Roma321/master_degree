@@ -1,0 +1,11 @@
+{
+  "correctText": "В Мадриде \"Реал\" выиграл со счетом 2 : 0 .",
+  "errors": [
+    {
+      "correctReplacement": "счетом",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "В Мадриде \"Реал\" выиграл со счёт 2 : 0 ."
+}

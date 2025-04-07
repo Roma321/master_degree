@@ -1,0 +1,11 @@
+{
+  "correctText": "По сведениям агентства Reuters , в землетрясении погибли 97 человек .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 9
+    }
+  ],
+  "textWithError": "По сведениям агентства Reuters , в землетрясении погибли 97 людям ."
+}

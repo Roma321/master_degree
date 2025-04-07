@@ -1,0 +1,11 @@
+{
+  "correctText": "ОВР получил 11 , 98 процента , СПС - 8 , 63 процента .",
+  "errors": [
+    {
+      "correctReplacement": "процента",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "ОВР получил 11 , 98 процентом , СПС - 8 , 63 процента ."
+}

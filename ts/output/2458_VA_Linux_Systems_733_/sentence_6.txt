@@ -1,0 +1,11 @@
+{
+  "correctText": "9 процентов акций принадлежат корпорации Intel , 23 процента - венчурной компании Sequoia Capital .",
+  "errors": [
+    {
+      "correctReplacement": "компании",
+      "type": "case",
+      "wordNumber": 11
+    }
+  ],
+  "textWithError": "9 процентов акций принадлежат корпорации Intel , 23 процента - венчурной компанию Sequoia Capital ."
+}

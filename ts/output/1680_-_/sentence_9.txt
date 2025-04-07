@@ -1,0 +1,11 @@
+{
+  "correctText": "Часть кредитов выданы Eximbank USA под гарантии правительства России .",
+  "errors": [
+    {
+      "correctReplacement": "России",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "Часть кредитов выданы Eximbank USA под гарантии правительства Россией ."
+}

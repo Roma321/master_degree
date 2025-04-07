@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом 29 октября сообщил ИТАР-ТАСС .",
+  "errors": [
+    {
+      "correctReplacement": "октября",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Об этом 29 октябрю сообщил ИТАР-ТАСС ."
+}

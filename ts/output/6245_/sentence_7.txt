@@ -1,0 +1,11 @@
+{
+  "correctText": "Госпитализирован 21 человек , сообщает РБК .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Госпитализирован 21 людях , сообщает РБК ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Последний раз в данной категории команда Ferrari была лучшей в 1986 году .",
+  "errors": [
+    {
+      "correctReplacement": "команда",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Последний раз в данной категории команде Ferrari была лучшей в 1986 году ."
+}

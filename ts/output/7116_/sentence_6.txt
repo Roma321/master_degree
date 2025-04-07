@@ -1,0 +1,11 @@
+{
+  "correctText": "Полиция арестовала 60 человек .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Полиция арестовала 60 людях ."
+}

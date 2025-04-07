@@ -1,0 +1,11 @@
+{
+  "correctText": "\"В Москве , например , 30 тысяч домов .",
+  "errors": [
+    {
+      "correctReplacement": "домов",
+      "type": "case",
+      "wordNumber": 7
+    }
+  ],
+  "textWithError": "\"В Москве , например , 30 тысяч дома ."
+}

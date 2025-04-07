@@ -1,0 +1,11 @@
+{
+  "correctText": "Пожар в доме номер 16 начался на чердаке .",
+  "errors": [
+    {
+      "correctReplacement": "чердаке",
+      "type": "case",
+      "wordNumber": 7
+    }
+  ],
+  "textWithError": "Пожар в доме номер 16 начался на чердак ."
+}

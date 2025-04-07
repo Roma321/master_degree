@@ -1,0 +1,11 @@
+{
+  "correctText": "Это произошло 8 марта в 9 : 13 по местному времени .",
+  "errors": [
+    {
+      "correctReplacement": "марта",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Это произошло 8 мартом в 9 : 13 по местному времени ."
+}

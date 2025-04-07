@@ -1,0 +1,11 @@
+{
+  "correctText": "В воскресенье в Москве совершено два убийства .",
+  "errors": [
+    {
+      "correctReplacement": "Москве",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "В воскресенье в Москвой совершено два убийства ."
+}

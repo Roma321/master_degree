@@ -1,0 +1,11 @@
+{
+  "correctText": "Этот срок истекает в пятницу , 17 сентября .",
+  "errors": [
+    {
+      "correctReplacement": "срок",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "Этот сроку истекает в пятницу , 17 сентября ."
+}

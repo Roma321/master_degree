@@ -1,0 +1,11 @@
+{
+  "correctText": "Он собирался выехать из  России на автомобиле .",
+  "errors": [
+    {
+      "correctReplacement": "России",
+      "type": "case",
+      "wordNumber": 4
+    }
+  ],
+  "textWithError": "Он собирался выехать из Россия на автомобиле ."
+}

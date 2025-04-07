@@ -1,0 +1,11 @@
+{
+  "correctText": "Погибли пять человек , 12 получили ранения .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Погибли пять людях , 12 получили ранения ."
+}

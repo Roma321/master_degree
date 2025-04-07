@@ -1,0 +1,11 @@
+{
+  "correctText": "К ним привлечены армия , флот , добровольцы .",
+  "errors": [
+    {
+      "correctReplacement": "флот",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "К ним привлечены армия , флоту , добровольцы ."
+}

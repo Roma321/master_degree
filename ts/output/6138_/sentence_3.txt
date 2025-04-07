@@ -1,0 +1,11 @@
+{
+  "correctText": "Инцидент произошел около двух часов ночи .",
+  "errors": [
+    {
+      "correctReplacement": "ночи",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Инцидент произошел около двух часов ночь ."
+}

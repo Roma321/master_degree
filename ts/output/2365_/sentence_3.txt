@@ -1,0 +1,11 @@
+{
+  "correctText": "Абрамову 42 года .",
+  "errors": [
+    {
+      "correctReplacement": "года",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Абрамову 42 год ."
+}

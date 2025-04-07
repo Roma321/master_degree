@@ -1,0 +1,11 @@
+{
+  "correctText": "55 попали в больницы , из них 7 детей до 14 лет .",
+  "errors": [
+    {
+      "correctReplacement": "детей",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "55 попали в больницы , из них 7 детях до 14 лет ."
+}

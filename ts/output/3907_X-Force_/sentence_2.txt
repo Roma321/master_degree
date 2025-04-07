@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом сообщила служба X-Force компании ISS (Internet Security Systems) .",
+  "errors": [
+    {
+      "correctReplacement": "компании",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Об этом сообщила служба X-Force компанией ISS (Internet Security Systems) ."
+}

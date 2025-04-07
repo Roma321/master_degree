@@ -1,0 +1,11 @@
+{
+  "correctText": "\"Это плохо спланированная акция , видимо , ФСБ .",
+  "errors": [
+    {
+      "correctReplacement": "акция",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "\"Это плохо спланированная акции , видимо , ФСБ ."
+}

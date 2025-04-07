@@ -1,0 +1,11 @@
+{
+  "correctText": "Утром в понедельник Ельцин прибыл в Кремль .",
+  "errors": [
+    {
+      "correctReplacement": "понедельник",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Утром в понедельнику Ельцин прибыл в Кремль ."
+}

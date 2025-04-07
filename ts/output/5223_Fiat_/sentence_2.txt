@@ -1,0 +1,11 @@
+{
+  "correctText": "Цена сделки определена в 2 , 4 миллиарда долларов , на эту сумму General Motors получит 20 процентов акций итальянского Fiat , а тот , в свою очередь , 5 , 1 процента акций General Motors , передает Associated Press .",
+  "errors": [
+    {
+      "correctReplacement": "процентов",
+      "type": "case",
+      "wordNumber": 17
+    }
+  ],
+  "textWithError": "Цена сделки определена в 2 , 4 миллиарда долларов , на эту сумму General Motors получит 20 процентах акций итальянского Fiat , а тот , в свою очередь , 5 , 1 процента акций General Motors , передает Associated Press ."
+}

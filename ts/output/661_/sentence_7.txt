@@ -1,0 +1,11 @@
+{
+  "correctText": "На нью-йоркской бирже акции Sprint незамедлительно поднялись на 3 пункта , а BellSouth потеряла 2 .",
+  "errors": [
+    {
+      "correctReplacement": "акции",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "На нью-йоркской бирже акциях Sprint незамедлительно поднялись на 3 пункта , а BellSouth потеряла 2 ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Общий ущерб от грабежа составил 540 тысяч рублей .",
+  "errors": [
+    {
+      "correctReplacement": "тысяч",
+      "type": "case",
+      "wordNumber": 6
+    }
+  ],
+  "textWithError": "Общий ущерб от грабежа составил 540 тысячам рублей ."
+}

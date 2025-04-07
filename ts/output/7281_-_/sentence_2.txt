@@ -1,0 +1,11 @@
+{
+  "correctText": "Это капитан Андрей Уфимцев .",
+  "errors": [
+    {
+      "correctReplacement": "Андрей",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Это капитан Андрея Уфимцев ."
+}

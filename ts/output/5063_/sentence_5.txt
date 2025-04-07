@@ -1,0 +1,11 @@
+{
+  "correctText": "Вчера , 8 марта , игрались партии восьмого тура .",
+  "errors": [
+    {
+      "correctReplacement": "тура",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "Вчера , 8 марта , игрались партии восьмого туре ."
+}

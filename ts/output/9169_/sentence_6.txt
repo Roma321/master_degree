@@ -1,0 +1,11 @@
+{
+  "correctText": "Подобное сообщение поступило в суд утром 6 июня .",
+  "errors": [
+    {
+      "correctReplacement": "июня",
+      "type": "case",
+      "wordNumber": 7
+    }
+  ],
+  "textWithError": "Подобное сообщение поступило в суд утром 6 июнем ."
+}

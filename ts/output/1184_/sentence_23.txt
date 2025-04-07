@@ -1,0 +1,11 @@
+{
+  "correctText": "В авиакомпании работают более 14 тысяч человек .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 6
+    }
+  ],
+  "textWithError": "В авиакомпании работают более 14 тысяч людям ."
+}

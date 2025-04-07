@@ -1,0 +1,11 @@
+{
+  "correctText": "General Motors выпустила Cadillac Seville , воспринимающий голосовые команды (\"e-mail , \" \"stocks\" и \"weather\") .",
+  "errors": [
+    {
+      "correctReplacement": "команды",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "General Motors выпустила Cadillac Seville , воспринимающий голосовые командах (\"e-mail , \" \"stocks\" и \"weather\") ."
+}

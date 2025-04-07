@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом издатели объявили 19 октября .",
+  "errors": [
+    {
+      "correctReplacement": "октября",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Об этом издатели объявили 19 октябрь ."
+}

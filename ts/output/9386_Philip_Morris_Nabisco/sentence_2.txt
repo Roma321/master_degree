@@ -1,0 +1,11 @@
+{
+  "correctText": "Nabisco владеет , в частности , торговыми марками печенья Oreo и горчицы Gray Poupon .",
+  "errors": [
+    {
+      "correctReplacement": "печенья",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "Nabisco владеет , в частности , торговыми марками печение Oreo и горчицы Gray Poupon ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Отсчет срока идет с 27 января .",
+  "errors": [
+    {
+      "correctReplacement": "января",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Отсчет срока идет с 27 январь ."
+}

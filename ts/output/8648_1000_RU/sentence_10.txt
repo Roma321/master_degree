@@ -1,0 +1,11 @@
+{
+  "correctText": "Вот как выглядят регистрационные записи RIPN , отражающие текущее состояние некоторых имен из этого пакета : domain : NINTENDO . RUstate : Not delegatedstate : freeing date - 30-JUN-2000 domain : TATRA . RUstate : Delegated till 30-JUN-2000",
+  "errors": [
+    {
+      "correctReplacement": "пакета",
+      "type": "case",
+      "wordNumber": 14
+    }
+  ],
+  "textWithError": "Вот как выглядят регистрационные записи RIPN , отражающие текущее состояние некоторых имен из этого пакете : domain : NINTENDO . RUstate : Not delegatedstate : freeing date - 30-JUN-2000 domain : TATRA . RUstate : Delegated till 30-JUN-2000"
+}

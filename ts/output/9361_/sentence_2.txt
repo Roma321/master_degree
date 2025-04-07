@@ -1,0 +1,11 @@
+{
+  "correctText": "В аварии пострадали по меньшей мере 46 человек .",
+  "errors": [
+    {
+      "correctReplacement": "мере",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "В аварии пострадали по меньшей меру 46 человек ."
+}

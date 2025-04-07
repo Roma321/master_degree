@@ -1,0 +1,11 @@
+{
+  "correctText": "Более 5 тысяч больных  - дети .",
+  "errors": [
+    {
+      "correctReplacement": "дети",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Более 5 тысяч больных - детьми ."
+}

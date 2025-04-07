@@ -1,0 +1,11 @@
+{
+  "correctText": "Против всех проголосовало 7 , 1% избирателей .",
+  "errors": [
+    {
+      "correctReplacement": "избирателей",
+      "type": "case",
+      "wordNumber": 6
+    }
+  ],
+  "textWithError": "Против всех проголосовало 7 , 1% избирателям ."
+}

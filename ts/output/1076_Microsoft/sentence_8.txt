@@ -1,0 +1,11 @@
+{
+  "correctText": "Наибольший объем торгов на Нью-Йоркской фондовой бирже вчера был зафиксирован с выросшими в цене акциями компаний Microsoft Corp . ,Intel Corp . и подешевевшими Philip Morris Companies Inc .",
+  "errors": [
+    {
+      "correctReplacement": "акциями",
+      "type": "case",
+      "wordNumber": 14
+    }
+  ],
+  "textWithError": "Наибольший объем торгов на Нью-Йоркской фондовой бирже вчера был зафиксирован с выросшими в цене акции компаний Microsoft Corp . ,Intel Corp . и подешевевшими Philip Morris Companies Inc ."
+}

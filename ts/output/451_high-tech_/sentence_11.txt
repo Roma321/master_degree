@@ -1,0 +1,11 @@
+{
+  "correctText": "\"Лидерами\" обвала стали компании Hewlett-Packard Co . ,Alliedsignal Inc . ,IВМ Corp . ,Intel Corp . ,Dell Computer Corp . и Microsoft Corp .",
+  "errors": [
+    {
+      "correctReplacement": "компании",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "\"Лидерами\" обвала стали компаниям Hewlett-Packard Co . ,Alliedsignal Inc . ,IВМ Corp . ,Intel Corp . ,Dell Computer Corp . и Microsoft Corp ."
+}

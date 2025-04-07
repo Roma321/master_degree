@@ -1,0 +1,11 @@
+{
+  "correctText": "На тушение огня выезжали 15 пожарных нарядов .",
+  "errors": [
+    {
+      "correctReplacement": "огня",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "На тушение огне выезжали 15 пожарных нарядов ."
+}

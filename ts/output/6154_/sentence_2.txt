@@ -1,0 +1,11 @@
+{
+  "correctText": "Инцидент произошел около 9 частов утра .",
+  "errors": [
+    {
+      "correctReplacement": "частов",
+      "type": "case",
+      "wordNumber": 4
+    }
+  ],
+  "textWithError": "Инцидент произошел около 9 частых утра ."
+}

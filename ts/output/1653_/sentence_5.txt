@@ -1,0 +1,11 @@
+{
+  "correctText": "Фонд \"США-Россия\" владеет 19 , 95 процента акций ЛФЗ через оффшорные фирмы Leverick Investments и Wierdale .",
+  "errors": [
+    {
+      "correctReplacement": "фирмы",
+      "type": "case",
+      "wordNumber": 11
+    }
+  ],
+  "textWithError": "Фонд \"США-Россия\" владеет 19 , 95 процента акций ЛФЗ через оффшорные фирмах Leverick Investments и Wierdale ."
+}

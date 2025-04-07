@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом сообщила 28 сентября газета New York Times .",
+  "errors": [
+    {
+      "correctReplacement": "сентября",
+      "type": "case",
+      "wordNumber": 4
+    }
+  ],
+  "textWithError": "Об этом сообщила 28 сентябрю газета New York Times ."
+}

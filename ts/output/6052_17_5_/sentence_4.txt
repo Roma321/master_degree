@@ -1,0 +1,11 @@
+{
+  "correctText": "Объем торгов составил 85 , 253 миллиона долларов .",
+  "errors": [
+    {
+      "correctReplacement": "миллиона",
+      "type": "case",
+      "wordNumber": 6
+    }
+  ],
+  "textWithError": "Объем торгов составил 85 , 253 миллион долларов ."
+}

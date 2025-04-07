@@ -1,0 +1,11 @@
+{
+  "correctText": "Всего от взрыва пострадали 17 человек , убитых нет .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Всего от взрыва пострадали 17 люди , убитых нет ."
+}

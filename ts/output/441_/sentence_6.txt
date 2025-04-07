@@ -1,0 +1,11 @@
+{
+  "correctText": "На нью-йоркской фондовой бирже акции Philip Morris в среду упали в цене на 3% , RJR Reynolds - более чем на 4% .",
+  "errors": [
+    {
+      "correctReplacement": "бирже",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "На нью-йоркской фондовой биржа акции Philip Morris в среду упали в цене на 3% , RJR Reynolds - более чем на 4% ."
+}

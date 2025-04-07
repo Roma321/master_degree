@@ -1,0 +1,11 @@
+{
+  "correctText": "Ex-Im Bank Board of Directors Approves Loan Guarantees to Russian Oil Company - Exim Bank , 06 . 04 . 2000ТНК все-таки получит кредит от США - Lenta . Ru , 01 . 04 . 2000Госдепартамент США блокировал гарантии Эксимбанка по кредиту ТНК - Lenta . Ru , 21 . 12 . 99",
+  "errors": [
+    {
+      "correctReplacement": "ТНК",
+      "type": "case",
+      "wordNumber": 42
+    }
+  ],
+  "textWithError": "Ex-Im Bank Board of Directors Approves Loan Guarantees to Russian Oil Company - Exim Bank , 06 . 04 . 2000ТНК все-таки получит кредит от США - Lenta . Ru , 01 . 04 . 2000Госдепартамент США блокировал гарантии Эксимбанка по кредиту ТНК - Lenta . Ru , 21 . 12 . 99"
+}

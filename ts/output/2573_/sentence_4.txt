@@ -1,0 +1,11 @@
+{
+  "correctText": "Это житель города гражданин Орлов .",
+  "errors": [
+    {
+      "correctReplacement": "города",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Это житель городе гражданин Орлов ."
+}

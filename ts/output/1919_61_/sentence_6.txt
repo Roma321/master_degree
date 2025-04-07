@@ -1,0 +1,11 @@
+{
+  "correctText": "В этой паре Путин набирает 71% , Юрий Лужков - 8% .",
+  "errors": [
+    {
+      "correctReplacement": "Юрий",
+      "type": "case",
+      "wordNumber": 7
+    }
+  ],
+  "textWithError": "В этой паре Путин набирает 71% , Юрия Лужков - 8% ."
+}

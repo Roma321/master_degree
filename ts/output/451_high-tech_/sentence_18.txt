@@ -1,0 +1,11 @@
+{
+  "correctText": "В пятницу главный индекс Nikkei-225 упал на 2 , 6% .",
+  "errors": [
+    {
+      "correctReplacement": "пятницу",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "В пятницей главный индекс Nikkei-225 упал на 2 , 6% ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "По некоторым данным , их было более 1500 человек .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "По некоторым данным , их было более 1500 людях ."
+}

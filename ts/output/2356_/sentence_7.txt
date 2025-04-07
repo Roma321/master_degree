@@ -1,0 +1,11 @@
+{
+  "correctText": "Среди клиентов IMHO - Intel , Microsoft , DHL и Hewlett Packard .",
+  "errors": [
+    {
+      "correctReplacement": "клиентов",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "Среди клиентами IMHO - Intel , Microsoft , DHL и Hewlett Packard ."
+}

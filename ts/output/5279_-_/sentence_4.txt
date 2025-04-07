@@ -1,0 +1,11 @@
+{
+  "correctText": "Книга выпущена издательством Simon&Schuster .",
+  "errors": [
+    {
+      "correctReplacement": "издательством",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Книга выпущена издательстве Simon&Schuster ."
+}

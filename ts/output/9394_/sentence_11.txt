@@ -1,0 +1,11 @@
+{
+  "correctText": "Бой продолжался 20 минут .",
+  "errors": [
+    {
+      "correctReplacement": "минут",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Бой продолжался 20 минутам ."
+}

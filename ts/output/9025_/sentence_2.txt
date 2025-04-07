@@ -1,0 +1,11 @@
+{
+  "correctText": "Это произошло в городе Чехове Московской области .",
+  "errors": [
+    {
+      "correctReplacement": "Чехове",
+      "type": "case",
+      "wordNumber": 4
+    }
+  ],
+  "textWithError": "Это произошло в городе Чехов Московской области ."
+}

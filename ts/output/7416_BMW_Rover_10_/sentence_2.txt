@@ -1,0 +1,11 @@
+{
+  "correctText": "Сумма сделки составляет 10 фунтов стерлингов .",
+  "errors": [
+    {
+      "correctReplacement": "стерлингов",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Сумма сделки составляет 10 фунтов стерлингам ."
+}

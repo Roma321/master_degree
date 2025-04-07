@@ -1,0 +1,11 @@
+{
+  "correctText": "За пять минут до сирены армейцы вели 62 : 60 .",
+  "errors": [
+    {
+      "correctReplacement": "армейцы",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "За пять минут до сирены армейцах вели 62 : 60 ."
+}

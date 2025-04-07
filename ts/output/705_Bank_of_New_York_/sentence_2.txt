@@ -1,0 +1,11 @@
+{
+  "correctText": "В качестве обвиняемых названы три физических лица - Петр Берлин , Люси (Людмила) Эдвардс и Алексей Волков , а также три компании - Benex , BECS International и Torfinex .",
+  "errors": [
+    {
+      "correctReplacement": "Алексей",
+      "type": "case",
+      "wordNumber": 15
+    }
+  ],
+  "textWithError": "В качестве обвиняемых названы три физических лица - Петр Берлин , Люси (Людмила) Эдвардс и Алексея Волков , а также три компании - Benex , BECS International и Torfinex ."
+}

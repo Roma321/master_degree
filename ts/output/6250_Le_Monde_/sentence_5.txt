@@ -1,0 +1,11 @@
+{
+  "correctText": "Именно эту статью пересказала газета Le Monde .",
+  "errors": [
+    {
+      "correctReplacement": "статью",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Именно эту статьи пересказала газета Le Monde ."
+}

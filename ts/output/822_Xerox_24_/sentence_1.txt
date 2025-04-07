@@ -1,0 +1,11 @@
+{
+  "correctText": "В пятницу акции компании Xerox упали на 24% .",
+  "errors": [
+    {
+      "correctReplacement": "компании",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "В пятницу акции компания Xerox упали на 24% ."
+}

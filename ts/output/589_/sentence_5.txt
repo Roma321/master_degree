@@ -1,0 +1,11 @@
+{
+  "correctText": "Гюнтер Грасс родился в 1927 году .",
+  "errors": [
+    {
+      "correctReplacement": "году",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Гюнтер Грасс родился в 1927 годом ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Об этом сегодня утром сообщила радиостанция ВВС .",
+  "errors": [
+    {
+      "correctReplacement": "утром",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Об этом сегодня утре сообщила радиостанция ВВС ."
+}

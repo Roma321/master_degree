@@ -1,0 +1,11 @@
+{
+  "correctText": "Как известно , компанию \"Балтика\" , крупнейшего производителя пива в России , контролирует шведская Baltic Beverages Holding AB .",
+  "errors": [
+    {
+      "correctReplacement": "России",
+      "type": "case",
+      "wordNumber": 10
+    }
+  ],
+  "textWithError": "Как известно , компанию \"Балтика\" , крупнейшего производителя пива в Россией , контролирует шведская Baltic Beverages Holding AB ."
+}

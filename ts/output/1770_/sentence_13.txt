@@ -1,0 +1,11 @@
+{
+  "correctText": "\"Вот такой список\" , - заметил Борис Ельцин .",
+  "errors": [
+    {
+      "correctReplacement": "Борис",
+      "type": "case",
+      "wordNumber": 6
+    }
+  ],
+  "textWithError": "\"Вот такой список\" , - заметил Бориса Ельцин ."
+}

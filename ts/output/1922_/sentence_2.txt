@@ -1,0 +1,11 @@
+{
+  "correctText": "Документ подписали компания Blue Stream Pipeline Company B . V . ,созданная на паритетной основе \"Газпромом\" и итальянским концерном ENI , итальянская Saipem , французская Bouygus Offshore S . A . и японский консорциум в составе Mitsui and Co , Sumitomo Corporation и Itoshu Corporation .",
+  "errors": [
+    {
+      "correctReplacement": "основе",
+      "type": "case",
+      "wordNumber": 14
+    }
+  ],
+  "textWithError": "Документ подписали компания Blue Stream Pipeline Company B . V . ,созданная на паритетной основы \"Газпромом\" и итальянским концерном ENI , итальянская Saipem , французская Bouygus Offshore S . A . и японский консорциум в составе Mitsui and Co , Sumitomo Corporation и Itoshu Corporation ."
+}

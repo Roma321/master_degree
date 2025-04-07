@@ -1,0 +1,11 @@
+{
+  "correctText": "Хотя Orbiter погиб , Lander все равно сможет \"общаться\" с Землей , но гораздо менее эффективно : на станции Mars Climate Orbiter находилась более мощная радиостанция .",
+  "errors": [
+    {
+      "correctReplacement": "Землей",
+      "type": "case",
+      "wordNumber": 10
+    }
+  ],
+  "textWithError": "Хотя Orbiter погиб , Lander все равно сможет \"общаться\" с Землёй , но гораздо менее эффективно : на станции Mars Climate Orbiter находилась более мощная радиостанция ."
+}

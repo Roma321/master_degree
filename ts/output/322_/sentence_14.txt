@@ -1,0 +1,11 @@
+{
+  "correctText": "Телефон : 913-56-53 ; факс : 913-96-99 .",
+  "errors": [
+    {
+      "correctReplacement": "факс",
+      "type": "case",
+      "wordNumber": 4
+    }
+  ],
+  "textWithError": "Телефон : 913-56-53 ; факсе : 913-96-99 ."
+}

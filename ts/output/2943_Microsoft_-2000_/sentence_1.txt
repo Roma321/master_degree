@@ -1,0 +1,11 @@
+{
+  "correctText": "Корпорация Microsoft заявляет , что для ее продукции \"проблема-2000\" решена , сообщает Associated Press .",
+  "errors": [
+    {
+      "correctReplacement": "продукции",
+      "type": "case",
+      "wordNumber": 7
+    }
+  ],
+  "textWithError": "Корпорация Microsoft заявляет , что для ее продукция \"проблема-2000\" решена , сообщает Associated Press ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Он сел в машину , подъехавшую к носу самолета .",
+  "errors": [
+    {
+      "correctReplacement": "самолета",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "Он сел в машину , подъехавшую к носу самолёт ."
+}

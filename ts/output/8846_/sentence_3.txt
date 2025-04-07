@@ -1,0 +1,11 @@
+{
+  "correctText": "Экипаж , состоявший из четырех человек , погиб .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "Экипаж , состоявший из четырех люди , погиб ."
+}

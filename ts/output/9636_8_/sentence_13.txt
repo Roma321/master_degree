@@ -1,0 +1,11 @@
+{
+  "correctText": "Он продал его в 1991 году на аукционе Sotheby's за 2 , 4 миллиона долларов .",
+  "errors": [
+    {
+      "correctReplacement": "миллиона",
+      "type": "case",
+      "wordNumber": 13
+    }
+  ],
+  "textWithError": "Он продал его в 1991 году на аукционе Sotheby's за 2 , 4 миллионе долларов ."
+}

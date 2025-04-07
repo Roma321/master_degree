@@ -1,0 +1,11 @@
+{
+  "correctText": "McDonnell Douglas с 1997 года  является дочерней фирмой корпорации Boeing .",
+  "errors": [
+    {
+      "correctReplacement": "корпорации",
+      "type": "case",
+      "wordNumber": 8
+    }
+  ],
+  "textWithError": "McDonnell Douglas с 1997 года является дочерней фирмой корпорация Boeing ."
+}

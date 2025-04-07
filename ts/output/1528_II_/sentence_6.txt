@@ -1,0 +1,11 @@
+{
+  "correctText": "Это 89 зарубежная поездка Иоанна Павла II .",
+  "errors": [
+    {
+      "correctReplacement": "поездка",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Это 89 зарубежная поездке Иоанна Павла II ."
+}

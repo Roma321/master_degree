@@ -1,0 +1,11 @@
+{
+  "correctText": "За 1998 год было совершено 34 таких преступления .",
+  "errors": [
+    {
+      "correctReplacement": "год",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "За 1998 годе было совершено 34 таких преступления ."
+}

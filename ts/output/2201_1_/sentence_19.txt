@@ -1,0 +1,11 @@
+{
+  "correctText": "Этот человек летом нынешнего года умер .",
+  "errors": [
+    {
+      "correctReplacement": "человек",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "Этот человеку летом нынешнего года умер ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "Национальная доменная зона * . ua ;",
+  "errors": [
+    {
+      "correctReplacement": "зона",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Национальная доменная зоны * . ua ;"
+}

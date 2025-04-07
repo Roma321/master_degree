@@ -1,0 +1,11 @@
+{
+  "correctText": "Эти телефоны производятся , в частности , компаниями Motorola , Ericsson и Siemens .",
+  "errors": [
+    {
+      "correctReplacement": "телефоны",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "Эти телефонах производятся , в частности , компаниями Motorola , Ericsson и Siemens ."
+}

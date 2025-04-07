@@ -1,0 +1,11 @@
+{
+  "correctText": "Там счет - 3 : 2 в пользу французов .",
+  "errors": [
+    {
+      "correctReplacement": "счет",
+      "type": "case",
+      "wordNumber": 1
+    }
+  ],
+  "textWithError": "Там счёту - 3 : 2 в пользу французов ."
+}

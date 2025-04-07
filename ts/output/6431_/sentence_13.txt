@@ -1,0 +1,11 @@
+{
+  "correctText": "Бронзовый получил вишневый ликер из Ярославля .",
+  "errors": [
+    {
+      "correctReplacement": "ликер",
+      "type": "case",
+      "wordNumber": 3
+    }
+  ],
+  "textWithError": "Бронзовый получил вишневый ликёром из Ярославля ."
+}

@@ -1,0 +1,11 @@
+{
+  "correctText": "В настоящее время акции Sotheby's упали на 20 процентов .",
+  "errors": [
+    {
+      "correctReplacement": "время",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "В настоящее временем акции Sotheby's упали на 20 процентов ."
+}

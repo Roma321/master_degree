@@ -1,0 +1,11 @@
+{
+  "correctText": "USEC создана в 1992 году для закупок уранового сырья из России .",
+  "errors": [
+    {
+      "correctReplacement": "России",
+      "type": "case",
+      "wordNumber": 10
+    }
+  ],
+  "textWithError": "USEC создана в 1992 году для закупок уранового сырья из Россия ."
+}

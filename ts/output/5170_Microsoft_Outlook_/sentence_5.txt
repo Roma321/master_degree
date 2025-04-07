@@ -1,0 +1,11 @@
+{
+  "correctText": "В поле \"Тема\" пишется следующая фраза : \"Extremely URGENT : To All-E-Mail User\" .",
+  "errors": [
+    {
+      "correctReplacement": "фраза",
+      "type": "case",
+      "wordNumber": 5
+    }
+  ],
+  "textWithError": "В поле \"Тема\" пишется следующая фразы : \"Extremely URGENT : To All-E-Mail User\" ."
+}

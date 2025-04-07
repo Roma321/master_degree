@@ -1,0 +1,11 @@
+{
+  "correctText": "Это классная команда ! \" .",
+  "errors": [
+    {
+      "correctReplacement": "команда",
+      "type": "case",
+      "wordNumber": 2
+    }
+  ],
+  "textWithError": "Это классная команды ! \" ."
+}
