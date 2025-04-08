@@ -9,29 +9,30 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
 # Конфигурация
-MODEL_NAME = 'bert-base-multilingual-cased'
+# MODEL_NAME = 'bert-base-multilingual-cased'
+MODEL_NAME = 'DeepPavlov/rubert-base-cased'  # Специализированная русская модель
 BATCH_SIZE = 16
-EPOCHS = 3
-LEARNING_RATE = 2e-5
-MAX_LENGTH = 128
+EPOCHS = 8
+LEARNING_RATE = 5e-6
+MAX_LENGTH = 256
 
 # Пути к данным
 CORRECT_DIR = '/home/roman/projects/mag/ts/caseErrorsBinaryClassification/correct'
 INCORRECT_DIR = '/home/roman/projects/mag/ts/caseErrorsBinaryClassification/incorrect'
 
-
+CORPUS_VOLUME = 15000
 def load_data():
     texts = []
     labels = []
 
     # Чтение правильных предложений
-    for filename in os.listdir(CORRECT_DIR):
+    for filename in os.listdir(CORRECT_DIR)[:CORPUS_VOLUME]:
         with open(os.path.join(CORRECT_DIR, filename), 'r', encoding='utf-8') as f:
             texts.append(f.read())
             labels.append(1)
 
     # Чтение неправильных предложений
-    for filename in os.listdir(INCORRECT_DIR):
+    for filename in os.listdir(INCORRECT_DIR)[:CORPUS_VOLUME]:
         with open(os.path.join(INCORRECT_DIR, filename), 'r', encoding='utf-8') as f:
             texts.append(f.read())
             labels.append(0)
@@ -85,7 +86,14 @@ def main():
     # Загрузка данных
     print("Загрузка данных...")
     texts, labels = load_data()
+    texts, labels = load_data()
+    print("Общее количество примеров:", len(labels))
+    print("Класс 'correct':", sum(labels))
+    print("Класс 'inCorrect':", len(labels) - sum(labels))
 
+    # Примеры из каждого класса
+    print("\nПример correct:", texts[labels.index(1)])  # Первый элемент с меткой 1
+    print("Пример inCorrect:", texts[labels.index(0)])  # Первый элемент с меткой 0
     # Разделение данных
     train_texts, val_texts, train_labels, val_labels = train_test_split(
         texts, labels, test_size=0.2, random_state=42
@@ -123,7 +131,7 @@ def main():
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
             labels = batch['labels'].to(device)
-
+            # print(batch['labels'])
             outputs = model(
                 input_ids=input_ids,
                 attention_mask=attention_mask,
