@@ -38,7 +38,6 @@ class M2Parser {
             }
         }
 
-        // Добавляем последнее предложение, если оно есть
         if (currentSentence) {
             sentences.push(currentSentence);
         }
@@ -68,10 +67,34 @@ async function parse() {
     const filePath = '/home/roman/projects/mag/corpus/rozovskaya.M2'
     const m2Content = await fs.readFile(filePath, 'utf-8')
     const parsedData = M2Parser.parse(m2Content);
-    const errorTypes = uniq(parsedData.flatMap(it => it.annotations.map(a=>a.errorType)))
-    console.log(errorTypes)
-    const stat = countBy(parsedData.flatMap(it=>it.annotations), it=>it.errorType)
-    console.log(stat)
+    // console.log(parsedData[0])
+    // const errorTypes = uniq(parsedData.flatMap(it => it.annotations.map(a => a.errorType)))
+    // console.log(errorTypes)
+    // const stat = countBy(parsedData.flatMap(it => it.annotations), it => it.errorType)
+    // console.log(stat)
+
+    return parsedData
 }
 
-parse()
+async function saveOnlyCaseErrors(dir: string) {
+    const allSentences = await parse()
+    allSentences.forEach((sentence, idx) => {
+        if (!sentence.annotations.some(ann => ann.errorType.toLocaleLowerCase().includes('падеж'))) return
+
+        const sentenceParts = sentence.text.split(' ');
+        const sentencePartsButCorrect = [...sentenceParts]
+        sentence.annotations.forEach(annotation => {
+            if (annotation.end - annotation.start !== 1) return //TODO
+            sentencePartsButCorrect[annotation.start] = annotation.correction
+
+
+            if (annotation.errorType.toLocaleLowerCase().includes('падеж')) return
+            sentenceParts[annotation.start] = annotation.correction
+        });
+
+        fs.writeFile(`${dir}/incorrect/${idx}.txt`, sentenceParts.join(' '))
+        fs.writeFile(`${dir}/correct/${idx}.txt`, sentencePartsButCorrect.join(' '))
+    });
+}
+
+// saveOnlyCaseErrors('/home/roman/projects/mag/corpus/rozovskaya-case-errors')

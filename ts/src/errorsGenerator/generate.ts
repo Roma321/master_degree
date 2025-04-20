@@ -10,7 +10,7 @@ export function lessThan2RussianLetters(string: string) {
 }
 export const makeError: MakeErrorFunction = async (_text) => {
     const text = normalizeSpacesAroundPunctuation(_text)
-    const indexes = await getIndexesForErrors(text, isNotOkForCaseError, 0.0);
+    const indexes = await getIndexesForErrors(text, isNotOkForCaseError, 0.03);
     const words = text.split(/\s+/);
     const func = makeCaseError;
     let resText = '';

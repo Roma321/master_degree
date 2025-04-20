@@ -14,7 +14,7 @@ class NLPModels:
     def __init__(self, config):
         self._pipelines: Dict[str, stanza.Pipeline] = {}
         self.morph = pymorphy2.MorphAnalyzer()
-        self.word2Vec =  KeyedVectors.load_word2vec_format('/home/roman/projects/mag/py/StanzaHttpWrapper/models/model_w2v.bin', binary=True)
+        self.word2Vec =  KeyedVectors.load_word2vec_format('/home/roman/projects/mag/py/StanzaHttpWrapper/models/word_vectors.w2v')
         self.config = config
 
     def get_pipeline(self, name: str) -> Optional[stanza.Pipeline]:

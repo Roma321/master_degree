@@ -3,23 +3,35 @@ import * as path from 'path';
 import { makeError } from '../generate';
 import StanzaApi from '../../api/stanza';
 import pLimit from 'p-limit';
+import { normalizeSpacesAroundPunctuation } from '../utils';
+import { TextWithErrors } from '../types';
 
-async function processFile(inputFilePath: string, outputFilePath: string): Promise<void> {
+
+type CorpusItem = {
+    text: string,
+    annotations: TextWithErrors['errors']
+}
+async function processFile(inputFilePath: string, outputFileName: string, outDir: string): Promise<void> {
     try {
-        // Читаем содержимое файла
         const sentence = fs.readFileSync(inputFilePath, 'utf-8').trim();
 
-        // Вызываем метод makeError для строки
-        const result = await makeError(sentence);
-
-        // Создаём выходную директорию, если она не существует
-        const outputDir = path.dirname(outputFilePath);
+        const errors = await makeError(sentence);
+        const noErrorsResult: CorpusItem = {
+            text: normalizeSpacesAroundPunctuation(sentence),
+            annotations: []
+        }
+        const result: CorpusItem = {
+            text: errors.textWithError,
+            annotations: errors.errors
+        }
+        const outputDir = path.dirname(outputFileName);
         if (!fs.existsSync(outputDir)) {
             fs.mkdirSync(outputDir, { recursive: true });
         }
 
-        // Сохраняем результат в выходной файл
-        fs.writeFileSync(outputFilePath, JSON.stringify(result, null, 2));
+
+        fs.writeFileSync(`${outDir}/${outputFileName}`, JSON.stringify(result, null, 2));
+        fs.writeFileSync(`${outDir}/CORRECT---${outputFileName}`, JSON.stringify(noErrorsResult, null, 2));
 
         console.log(`Processed file: ${inputFilePath}`);
     } catch (error) {
@@ -56,10 +68,8 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
         const limit = pLimit(2);
 
         // Создаём массив задач для параллельной обработки
-        const tasks = inputFiles.map((inputFile) => {
-            const relativePath = path.relative(inputDir, inputFile);
-            const outputFile = path.join(outputDir, relativePath);
-            return limit(() => processFile(inputFile, outputFile));
+        const tasks = inputFiles.map((inputFile, idx) => {
+            return limit(() => processFile(inputFile, `${idx}.txt`, outputDir));
         });
 
         // Запускаем все задачи параллельно
@@ -72,7 +82,7 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
 }
 
 const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-1';
-const outputDirectory = './output';
+const outputDirectory = './output-several-errors';
 
 writeCorpus(inputDirectory, outputDirectory);
 // const api = new StanzaApi()
