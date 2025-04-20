@@ -1,0 +1,30 @@
+{
+  "text": "В целому по итогам торгов в четверга Dow Jones снизился на 94 , 67 пункта или на 0 , 91 процент при высоких объёмы обороту акций , который достиг 988 миллионов штук .",
+  "annotations": [
+    {
+      "correctReplacement": "целом",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "case",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "процента",
+      "type": "case",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "объемах",
+      "type": "case",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "оборота",
+      "type": "case",
+      "wordNumber": 24
+    }
+  ]
+}

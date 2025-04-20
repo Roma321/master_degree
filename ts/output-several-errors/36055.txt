@@ -1,0 +1,30 @@
+{
+  "text": "В 1962 годе ракету , которая должна была запустить американский космический зонд на Венеру , сошла с курса из-за ошибке в компьютерной программу на языке Fortran - там был потерян дефисе .",
+  "annotations": [
+    {
+      "correctReplacement": "году",
+      "type": "case",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "ракета",
+      "type": "case",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "ошибки",
+      "type": "case",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "программе",
+      "type": "case",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "дефис",
+      "type": "case",
+      "wordNumber": 30
+    }
+  ]
+}

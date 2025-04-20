@@ -1,0 +1,35 @@
+{
+  "text": "Напомним , что сейчас все товаров , продаваемые в Москвой (за исключении самых необходимых - таких , как хлебу , соль , спички и т . д . ) облагаются 2-процентным налогу с продажи .",
+  "annotations": [
+    {
+      "correctReplacement": "товары",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "исключением",
+      "type": "case",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "хлеб",
+      "type": "case",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "налогом",
+      "type": "case",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "продаж",
+      "type": "case",
+      "wordNumber": 33
+    }
+  ]
+}

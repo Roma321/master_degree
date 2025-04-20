@@ -1,0 +1,35 @@
+{
+  "text": "По словах Андерсоне , сейчас жителей города рассылаются новые счета с корректной датой , причем рассылка эта осуществляется за счёт средства консультанта-программиста , который был нанят специально для того , чтобы исправить \"ошибку-2000\" , однако не исправил ее .",
+  "annotations": [
+    {
+      "correctReplacement": "словам",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Андерсона",
+      "type": "case",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "жителям",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "case",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "средств",
+      "type": "case",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "консультанта-программиста",
+      "type": "case",
+      "wordNumber": 21
+    }
+  ]
+}

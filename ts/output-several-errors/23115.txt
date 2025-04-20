@@ -1,0 +1,30 @@
+{
+  "text": "По некоторым данные , хакер проживает в Восточной Европу : во всяком случай , он подписывался имя \"Максим\" и сам сообщает о себе , что ему девятнадцать годы , и живет он в России .",
+  "annotations": [
+    {
+      "correctReplacement": "данным",
+      "type": "case",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Европе",
+      "type": "case",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "case",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "именем",
+      "type": "case",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "case",
+      "wordNumber": 27
+    }
+  ]
+}

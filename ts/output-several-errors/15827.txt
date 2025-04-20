@@ -1,0 +1,20 @@
+{
+  "text": "В больнице был поставлен диагноз - контузия , сотрясение мозге , сильные ушибившие шейных позвонков и грудной клетку .",
+  "annotations": [
+    {
+      "correctReplacement": "мозга",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "ушибы",
+      "type": "case",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "клетки",
+      "type": "case",
+      "wordNumber": 17
+    }
+  ]
+}

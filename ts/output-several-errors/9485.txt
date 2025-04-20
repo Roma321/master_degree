@@ -1,0 +1,20 @@
+{
+  "text": "Компьютерам , на которых стоит любой почтовый клиент (скажем , Eudora) под Windows 95 или 98 , также могут быть заражены вирусом , но распространять его дальше не могут , поскольку автоматическая рассылке базируется на особенностей именно Microsoft Outlook .",
+  "annotations": [
+    {
+      "correctReplacement": "Компьютеры",
+      "type": "case",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "рассылка",
+      "type": "case",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "особенностях",
+      "type": "case",
+      "wordNumber": 35
+    }
+  ]
+}

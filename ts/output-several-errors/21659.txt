@@ -1,0 +1,25 @@
+{
+  "text": "В четверг , когда урагану только начался , скорость ветра достигала 120 км . ч . Разрушения столь сильны , что президент США Билл Клинтон объявил Северную Каролиной (а урагане начался именно в этом штате) зоной стихийного бедствия .",
+  "annotations": [
+    {
+      "correctReplacement": "ураган",
+      "type": "case",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Каролину",
+      "type": "case",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "ураган",
+      "type": "case",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "штате)",
+      "type": "case",
+      "wordNumber": 34
+    }
+  ]
+}

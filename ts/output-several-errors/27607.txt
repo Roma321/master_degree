@@ -1,0 +1,25 @@
+{
+  "text": "Пока же любой , набравший адресу из списка (например , www . balfron . co . uk) попадает на страница , которая претендует на то , чтобы быть путеводителем по указанному место , однако все ссылках ведут на главные страницы различных справочных сайтов независимо от введенного адреса .",
+  "annotations": [
+    {
+      "correctReplacement": "адрес",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "страницу",
+      "type": "case",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "месту",
+      "type": "case",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "ссылки",
+      "type": "case",
+      "wordNumber": 35
+    }
+  ]
+}

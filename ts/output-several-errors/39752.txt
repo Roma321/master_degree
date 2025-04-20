@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье ночью в американском городе Бербэнк , пригороде Лос-анджелес , штате Калифорнию , самолет Boeing-737 компании Southwest Airlines , прилетевший из Лас-Вегаса , при посадке не смог вовремя затормозить и выехал за пределы взлетно-посадочной полосы , сообщает Reuters .",
+  "annotations": [
+    {
+      "correctReplacement": "Лос-Анджелеса",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "штат",
+      "type": "case",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Калифорния",
+      "type": "case",
+      "wordNumber": 12
+    }
+  ]
+}

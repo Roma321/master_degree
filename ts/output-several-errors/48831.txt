@@ -1,0 +1,35 @@
+{
+  "text": "Просканировав все IP-пространство израильской сеть , конференция определила процентное соотношением уязвимых системах и опубликовала статистике (не называя конкретных адресов) .",
+  "annotations": [
+    {
+      "correctReplacement": "IP-пространство",
+      "type": "case",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "сети",
+      "type": "case",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "соотношение",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "систем",
+      "type": "case",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "статистику",
+      "type": "case",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "адресов)",
+      "type": "case",
+      "wordNumber": 18
+    }
+  ]
+}

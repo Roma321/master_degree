@@ -1,0 +1,30 @@
+{
+  "text": "Цена бензин Аи-92 возросла на 21% и теперь составляет 5 тысяч 500 рублей за тонну ; бензина А-76 - на 33% (5 тысяч 200 рублей за тонну) ; бензине Аи-95 - на 18% (6 тысяч 400 рублям за тонну) .",
+  "annotations": [
+    {
+      "correctReplacement": "бензина",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "тонну)",
+      "type": "case",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "бензина",
+      "type": "case",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "case",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "тонну)",
+      "type": "case",
+      "wordNumber": 38
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "У него квартира в Москва площадь 167 кв . м , два земельных участка с недостроенными дачами , а также автомобилями BMW , Skoda Felicia и две машины марки Газом .",
+  "annotations": [
+    {
+      "correctReplacement": "Москве",
+      "type": "case",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "площадью",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "автомобили",
+      "type": "case",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "ГАЗ",
+      "type": "case",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Четыре человек , пострадавшие при взрыв , находятся в больницу , двое из них - в реанимация .",
+  "annotations": [
+    {
+      "correctReplacement": "человека",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "взрыве",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "больнице",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "реанимации",
+      "type": "case",
+      "wordNumber": 16
+    }
+  ]
+}

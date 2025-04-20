@@ -1,0 +1,40 @@
+{
+  "text": "Системе Hotmail , предоставляющая всем желающим бесплатный адрес электронной почтой , ввела на своем сервере жесткую фильтрацией спаму , вызвав тем самым возмущении владельцев многих серверам , попавших в \"черный список\" (Realtime Blackhole List , RBL) системы Mail Abuse Prevention System (MAPS) .",
+  "annotations": [
+    {
+      "correctReplacement": "Система",
+      "type": "case",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "почты",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "фильтрацию",
+      "type": "case",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "спама",
+      "type": "case",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "возмущение",
+      "type": "case",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "серверов",
+      "type": "case",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "список\"",
+      "type": "case",
+      "wordNumber": 30
+    }
+  ]
+}

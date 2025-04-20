@@ -1,0 +1,35 @@
+{
+  "text": "Как выяснилось , недоступными по 80-му порту (стандартный порт для запросы по протоколу HTTP , то есть для доступе к web-страницам) оказались все серверы , доступу к которым для пользователи дальнего зарубежья обеспечивался по каналам магистрального провайдера Teleglobe (США) , предоставляющего межконтинентальные телекоммуникационные услуг в разных страны .",
+  "annotations": [
+    {
+      "correctReplacement": "запросов",
+      "type": "case",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "доступа",
+      "type": "case",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "доступ",
+      "type": "case",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "пользователей",
+      "type": "case",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "услуги",
+      "type": "case",
+      "wordNumber": 43
+    },
+    {
+      "correctReplacement": "странах",
+      "type": "case",
+      "wordNumber": 46
+    }
+  ]
+}

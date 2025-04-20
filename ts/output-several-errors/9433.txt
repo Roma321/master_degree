@@ -1,0 +1,20 @@
+{
+  "text": "После чего грузовик съехал на обочины , но , по-видимому , водитель не справился с управлением и вывел машину на полосе встречного движению .",
+  "annotations": [
+    {
+      "correctReplacement": "обочину",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "полосу",
+      "type": "case",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "case",
+      "wordNumber": 22
+    }
+  ]
+}

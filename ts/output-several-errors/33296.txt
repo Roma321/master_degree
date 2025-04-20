@@ -1,0 +1,20 @@
+{
+  "text": "Представитель CNN сказал , что не знает , как эта фразы прошла через \"фильтр\" , но система точно не была взломана , а Клинтон этой ремарки не видел и на подобного род вопросах не отвечал .",
+  "annotations": [
+    {
+      "correctReplacement": "фраза",
+      "type": "case",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "рода",
+      "type": "case",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "вопросы",
+      "type": "case",
+      "wordNumber": 32
+    }
+  ]
+}

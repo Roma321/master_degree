@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в 00 : 40 в Москве на шоссе Энтузиасты , напротив дома номер 66 , произошла авария , в результат которой четыре легковых автомобиль столкнулись с троллейбусе , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "correctReplacement": "Энтузиастов",
+      "type": "case",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "case",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "автомобиля",
+      "type": "case",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "троллейбусом",
+      "type": "case",
+      "wordNumber": 28
+    }
+  ]
+}

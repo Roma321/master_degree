@@ -1,0 +1,20 @@
+{
+  "text": "Автомобиль \"Вольво\" выехал на полосу встречного движение и столкнулся с \"Жигулями\" 99 модель и \"Ауди\" , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "correctReplacement": "движения",
+      "type": "case",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "модели",
+      "type": "case",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "case",
+      "wordNumber": 18
+    }
+  ]
+}

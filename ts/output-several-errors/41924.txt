@@ -1,0 +1,20 @@
+{
+  "text": "Атакам DDOS основаны на том , что на сервер-жертву посылается большой поток ложных запросы , которые блокируют доступа к серверу других пользователей .",
+  "annotations": [
+    {
+      "correctReplacement": "Атаки",
+      "type": "case",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "запросов",
+      "type": "case",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "доступ",
+      "type": "case",
+      "wordNumber": 17
+    }
+  ]
+}

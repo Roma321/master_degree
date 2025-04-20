@@ -1,0 +1,25 @@
+{
+  "text": "\"Компьютер вырвал эту фраза из контекста , и аналитик , к которому поступили результаты перехвату , не был уверен , что в данном случае речь идет не о террористах , поэтому он включил эту леди в списку подозреваемых\" , - сообщил бывший агент .",
+  "annotations": [
+    {
+      "correctReplacement": "фразу",
+      "type": "case",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "перехвата",
+      "type": "case",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "список",
+      "type": "case",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "подозреваемых\"",
+      "type": "case",
+      "wordNumber": 37
+    }
+  ]
+}

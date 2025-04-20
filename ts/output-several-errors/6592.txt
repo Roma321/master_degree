@@ -1,0 +1,20 @@
+{
+  "text": "Длина судна - 155 метров , ширина - 24 метру , осадка - 9 метров , дедвейт - 20 тысячам тонн , экипажа - 24 человека .",
+  "annotations": [
+    {
+      "correctReplacement": "метра",
+      "type": "case",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "case",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "экипаж",
+      "type": "case",
+      "wordNumber": 22
+    }
+  ]
+}

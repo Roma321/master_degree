@@ -1,0 +1,30 @@
+{
+  "text": "В Москва , на шоссе Энтузиастов , в районом дома №40 , на территории опытно-промышленного завод нефтепродуктов примерно в 2 часом ночь по московскому времени произошел пожар .",
+  "annotations": [
+    {
+      "correctReplacement": "Москве",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "case",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "case",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "часа",
+      "type": "case",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "ночи",
+      "type": "case",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Один предпринимателя погиб в автомобильной катастрофой , другого забили насмерть , несколько человек неожиданно умерли от болезнями .",
+  "annotations": [
+    {
+      "correctReplacement": "предприниматель",
+      "type": "case",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "катастрофе",
+      "type": "case",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "болезней",
+      "type": "case",
+      "wordNumber": 16
+    }
+  ]
+}

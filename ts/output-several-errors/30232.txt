@@ -1,0 +1,20 @@
+{
+  "text": "Эти данные не вводятся пользователем , а автоматически подставляются с помощь CGI-скрипта , когда посетитель электронного магазина кликает на название товара , добавляя его в свою корзиной .",
+  "annotations": [
+    {
+      "correctReplacement": "помощью",
+      "type": "case",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "CGI-скрипта",
+      "type": "case",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "корзину",
+      "type": "case",
+      "wordNumber": 26
+    }
+  ]
+}
