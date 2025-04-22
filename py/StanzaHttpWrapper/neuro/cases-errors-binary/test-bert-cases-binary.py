@@ -5,7 +5,6 @@ from transformers import BertTokenizer, BertForSequenceClassification
 from torch.utils.data import Dataset, DataLoader
 from tqdm import tqdm
 from cases_binary_bert import print_confusion_matrix, TextDataset
-# Конфигурация
 MODEL_PATH = 'bert_binary_classifier'
 BATCH_SIZE = 16
 MAX_LENGTH = 256
@@ -16,7 +15,6 @@ def load_test_data(test_dir):
     labels = []
     filenames = []
 
-    # Чтение правильных предложений
     correct_dir = os.path.join(test_dir, 'correct')
     for filename in os.listdir(correct_dir):
         with open(os.path.join(correct_dir, filename), 'r', encoding='utf-8') as f:
@@ -24,7 +22,6 @@ def load_test_data(test_dir):
             labels.append(1)
             filenames.append(os.path.join('correct', filename))
 
-    # Чтение неправильных предложений
     incorrect_dir = os.path.join(test_dir, 'incorrect')
     for filename in os.listdir(incorrect_dir):
         with open(os.path.join(incorrect_dir, filename), 'r', encoding='utf-8') as f:
@@ -40,7 +37,6 @@ def evaluate_model(test_dir):
     print("Загрузка тестовых данных...")
     test_texts, test_labels, test_filenames = load_test_data(test_dir)
 
-    # Инициализация токенизатора и модели
     tokenizer = BertTokenizer.from_pretrained(MODEL_PATH)
     model = BertForSequenceClassification.from_pretrained(MODEL_PATH)
 
@@ -48,11 +44,9 @@ def evaluate_model(test_dir):
     model.to(device)
     model.eval()
 
-    # Создание датасета и даталоадера
     test_dataset = TextDataset(test_texts, test_labels, tokenizer, MAX_LENGTH)
     test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE)
 
-    # Предсказания
     all_preds = []
     all_labels = []
     incorrect_predictions = []
@@ -73,7 +67,6 @@ def evaluate_model(test_dir):
             all_preds.extend(preds.cpu().numpy())
             all_labels.extend(labels.cpu().numpy())
 
-            # Сохраняем информацию о неправильных предсказаниях
             for i in range(len(preds)):
                 print(preds[i] == labels[i])
                 if preds[i] != labels[i]:
@@ -84,14 +77,12 @@ def evaluate_model(test_dir):
                         test_texts[sample_idx]
                     ))
 
-    # Вывод матрицы ошибок
     print_confusion_matrix(
         all_labels,
         all_preds,
         class_names=["inCorrect", "Correct"]
     )
 
-    # Запись ошибок в файл
     with open('log.txt', 'w', encoding='utf-8') as f:
         for filename, pred, text in incorrect_predictions:
             f.write(f"{filename} {pred} {text}\n")
@@ -100,6 +91,5 @@ def evaluate_model(test_dir):
 
 
 if __name__ == '__main__':
-    # Укажите путь к тестовой директории
     TEST_DIR = '/home/roman/projects/mag/corpus/rozovskaya-case-errors'
     evaluate_model(TEST_DIR)
