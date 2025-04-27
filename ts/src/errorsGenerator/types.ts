@@ -1,5 +1,12 @@
 export type MakeErrorFunction = (text: string) => Promise<TextWithErrors>
 
+export type MakeErrorFunction_V2 = (
+    text: string,
+    generateErrorFunc: (word: string, context: string) => Promise<string>,
+    avoidWordFunc: (word: string) => Promise<boolean>,
+    kind: string
+) => Promise<TextWithErrors>
+
 export type TextWithErrors = {
     correctText: string,
     textWithError: string,
@@ -7,7 +14,7 @@ export type TextWithErrors = {
 }
 
 export type TextError = {
-    type: ErrorType,
+    type: string,
     wordNumber: number
     // startIdx: number,
     // length: number,

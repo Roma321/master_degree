@@ -40,6 +40,10 @@ class StanzaApi {
   async getMorphFeatures(word: string): Promise<MorphFeaturesResponse> {
     try {
       const response: AxiosResponse<MorphFeaturesResponse> = await this.client.post('/api/v1/morph/features', { word });
+      if (response.data.pos === 'VERB' && 'Case' in response.data.features) {
+        response.data.pos = 'PARTICIPLE'
+      }
+
       return response.data;
     } catch (error) {
       this.handleError(error);
@@ -52,6 +56,15 @@ class StanzaApi {
       const response: AxiosResponse<MorphFeaturesResponseWithContext> = await this.client.post('/api/v1/morph/sentence_features', { sentence });
       // console.log(word, response.data.words)
       return response.data.words.find(it => it.word.toLocaleLowerCase() === word.toLocaleLowerCase());
+    } catch (error) {
+      this.handleError(error);
+    }
+  }
+
+  async getMorphFeaturesForSentence(sentence: string) {
+    try {
+      const response: AxiosResponse<MorphFeaturesResponseWithContext> = await this.client.post('/api/v1/morph/sentence_features', { sentence });
+      return response.data;
     } catch (error) {
       this.handleError(error);
     }

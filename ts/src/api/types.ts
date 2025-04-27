@@ -13,7 +13,7 @@ export type MorphFeaturesResponseWithContext = {
 export type UniversalPOSTag =
     | "NOUN" | "VERB" | "ADJ" | "ADV" | "PRON" | "DET"
     | "ADP" | "CCONJ" | "SCONJ" | "PART" | "INTJ" | "NUM"
-    | "PUNCT" | "SYM" | "X" | "PROPN";
+    | "PUNCT" | "SYM" | "X" | "PROPN" | 'PARTICIPLE';
 
 export type InflectRequest = {
     lemma: string;
@@ -110,7 +110,7 @@ export const morphologicalFeatureValues: MorphFeatureValueMap = {
     Person: ['1', '2', '3'],
     Tense: ['Past', 'Pres', 'Fut'],
     VerbForm: ['Fin', 'Inf', 'Part', 'Trans'],
-    Voice: ['Act', 'Pass', 'Mid'],
+    Voice: ['Act', 'Pass'],
     Proper: ['Yes'],
     NumType: ['Card', 'Ord', 'Frac', 'Sets'],
     NumForm: ['Digit', 'Roman', 'Word'],

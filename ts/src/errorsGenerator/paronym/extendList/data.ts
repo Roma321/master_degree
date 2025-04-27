@@ -2,8 +2,9 @@ import * as fs from 'fs/promises';
 import { levenshteinDistance } from './levenstein';
 import StanzaApi from '../../../api/stanza';
 import pLimit from 'p-limit';
+import paronyms from '../../../../data/paronyms.json';
 
-type ParonymCandidates = Record<string, Record<string, Stat>>
+export type ParonymCandidates = Record<string, Record<string, Stat>>
 type Stat = {
     levenstein: number,
     levensteinRelative: number,
@@ -60,7 +61,7 @@ async function calcLevensteinForAll() {
 
 // calcLevensteinForAll()
 
-findParonyms()
+// findParonyms()
 
 async function findParonyms() {
     const data: ParonymCandidates = JSON.parse(await fs.readFile(FILE_PATH, 'utf-8'));
@@ -77,7 +78,7 @@ async function findParonyms() {
             continue
         }
         const batchPromises = [];
-        
+
         for (let j = i + 1; j < words.length; j++) {
             const w2 = words[j];
             if (!data[w1][w2]) continue
@@ -125,3 +126,28 @@ async function saveProgress(data: ParonymCandidates) {
         console.error('Error saving progress:', error);
     }
 }
+
+// async function saveBigParonymsList() { //TODO 
+//     const newData: ParonymCandidates = JSON.parse(await fs.readFile(FILE_PATH, 'utf-8'));
+
+//     const oldData = paronyms;
+//     const wordsText = await fs.readFile('/home/roman/projects/mag/ts/src/errorsGenerator/paronym/extendList/50000-russian-words-cyrillic-only.txt', 'utf-8')
+//     const wordsTop10_000 = wordsText.split('\n').map(it => it.trim().toLocaleLowerCase()).filter(Boolean).slice(0, 10000)
+//     wordsTop10_000.forEach(word => {
+//         const closeWords = Object.keys(newData[word]).filter(key => wordsTop10_000.includes(key));
+//         for (const closeWord of closeWords) {
+//             if (oldData.find(group => group.includes(word) && group.includes(closeWord))) return
+
+//             const targetGroup = oldData.find(group=>group.includes(word) || group.includes(closeWord));
+
+//             if (targetGroup){
+//                 if (!targetGroup.includes(closeWord)){
+//                     targetGroup.push(closeWord)
+//                 }
+
+//             }
+//         }
+//     })
+// }
+
+api.getSemanticSimilarity('абонент', 'абонемент').then(console.log)

@@ -31,6 +31,8 @@ class Settings(BaseSettings):
         '1': '1per',
         '2': '2per',
         '3': '3per',
+        'Act': 'actv',
+        'Pass': 'pssv',
     }
 
     OPENAPI_TAGS: list = [

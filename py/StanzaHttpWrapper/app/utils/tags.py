@@ -18,24 +18,18 @@ def parse_features(
 
 
 def map_tags_to_pymorphy(features: Dict[str, str]) -> set:
-    # Инициализируем множество для хранения тегов pymorphy2
     pymorphy_tags = set()
 
-    # Флаг для отслеживания множественного числа
     is_plural = False
 
     for key, value in features.items():
-        # Проверяем, что ключ является одним из допустимых
-        if key in ['Case', 'Number', 'Gender', 'Tense', 'Person']:
-            # Если это число и оно множественное, устанавливаем флаг
+        if key in ['Case', 'Number', 'Gender', 'Tense', 'Person', 'Voice']:
             if key == 'Number' and value == 'Plur':
                 is_plural = True
 
-            # Проверяем, есть ли значение в маппинге
             if value in settings.TAG_MAPPING:
                 pymorphy_tags.add(settings.TAG_MAPPING[value])
 
-    # Если число множественное, удаляем все теги, связанные с родом
     if is_plural:
         pymorphy_tags = {tag for tag in pymorphy_tags if tag not in {'masc', 'femn', 'neut'}}
 

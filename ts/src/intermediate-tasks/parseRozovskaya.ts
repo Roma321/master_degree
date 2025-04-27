@@ -68,10 +68,10 @@ async function parse() {
     const m2Content = await fs.readFile(filePath, 'utf-8')
     const parsedData = M2Parser.parse(m2Content);
     // console.log(parsedData[0])
-    // const errorTypes = uniq(parsedData.flatMap(it => it.annotations.map(a => a.errorType)))
-    // console.log(errorTypes)
-    // const stat = countBy(parsedData.flatMap(it => it.annotations), it => it.errorType)
-    // console.log(stat)
+    const errorTypes = uniq(parsedData.flatMap(it => it.annotations.map(a => a.errorType)))
+    console.log(errorTypes)
+    const stat = countBy(parsedData.flatMap(it => it.annotations), it => it.errorType)
+    console.log(stat)
 
     return parsedData
 }
@@ -96,5 +96,5 @@ async function saveOnlyCaseErrors(dir: string) {
         fs.writeFile(`${dir}/correct/${idx}.txt`, sentencePartsButCorrect.join(' '))
     });
 }
-
+parse()
 // saveOnlyCaseErrors('/home/roman/projects/mag/corpus/rozovskaya-case-errors')

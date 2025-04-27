@@ -5,6 +5,7 @@ import StanzaApi from '../../api/stanza';
 import pLimit from 'p-limit';
 import { normalizeSpacesAroundPunctuation } from '../utils';
 import { TextWithErrors } from '../types';
+import { generateDifferentErrors } from '../../intermediate-tasks/finalCorpusGeneration';
 
 
 export type CorpusItem = {
@@ -16,23 +17,13 @@ async function processFile(inputFilePath: string, outputFileName: string, outDir
     try {
         const sentence = fs.readFileSync(inputFilePath, 'utf-8').trim();
 
-        const errors = await makeError(sentence);
-        const noErrorsResult: CorpusItem = {
-            text: normalizeSpacesAroundPunctuation(sentence),
-            annotations: []
-        }
-        const result: CorpusItem = {
-            text: errors.textWithError,
-            annotations: errors.errors
-        }
+        const errors = await generateDifferentErrors(sentence);
         const outputDir = path.dirname(outputFileName);
         if (!fs.existsSync(outputDir)) {
             fs.mkdirSync(outputDir, { recursive: true });
         }
 
-
-        fs.writeFileSync(`${outDir}/${outputFileName}`, JSON.stringify(result, null, 2));
-        fs.writeFileSync(`${outDir}/CORRECT---${outputFileName}`, JSON.stringify(noErrorsResult, null, 2));
+        fs.writeFileSync(`${outDir}/${outputFileName}`, JSON.stringify(errors, null, 2));
 
         console.log(`Processed file: ${inputFilePath}`);
     } catch (error) {
@@ -83,11 +74,6 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
 }
 
 const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-1';
-const outputDirectory = './output-several-errors';
+const outputDirectory = './corpus-final';
 
 writeCorpus(inputDirectory, outputDirectory);
-// const api = new StanzaApi()
-// api.inflectWord({
-//     lemma: 'Подопечный',
-//     features: { 'Animacy': 'Anim', 'Case': 'Dat', 'Gender': 'Masc', 'Number': 'Plur' }
-// })
