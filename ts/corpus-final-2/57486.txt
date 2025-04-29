@@ -1,0 +1,40 @@
+{
+  "text": "Авторы инициативы объясняли целесообразность использования школьников для работы в индейской полиции тем , что аппарат управлений стране вообще и полицейская системы в частности слишком разветвлены и бюрократизированы , количество используемых государством компьютеров ограничен , а квалифицированных специалистов , способных противостоять киберпреступлениям , не хватающий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 43,
+      "correctReplacement": "хватает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "объясняют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "ограничено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "управления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "страной"
+    },
+    {
+      "correctReplacement": "индийской",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

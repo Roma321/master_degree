@@ -1,0 +1,30 @@
+{
+  "text": "В то же время защитники Митника считают , что хакер не принес вреде , а наоборот , помогу компаниям обнадёженные дыры в системы безопасности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "обнаружить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "системе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "вреда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "помог"
+    },
+    {
+      "correctReplacement": "обнаруженные",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Многие депутат собрания предъявляли претензии к областного администрации , которая не менее 20 миллионам долларов из привлеченных средств направившая на погашение долгов по жарплате .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "направила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "областной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "зарплате",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

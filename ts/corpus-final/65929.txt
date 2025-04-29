@@ -1,0 +1,20 @@
+{
+  "text": "Свидетели сообщаете также , что слышанные полость о сервере , пожирающем картофель , в четверг в некоторых выпусках новостей по радио .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "слышали"
+    },
+    {
+      "correctReplacement": "новость",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

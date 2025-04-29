@@ -1,0 +1,30 @@
+{
+  "text": "Кроме то , миссия Мвфполучило заверения правительства , что Россию не будет и в дальнейшем вводить подобные ограничения . �ания , которое погрузившее комнату , где выступал президент , в темноту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "�анием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Россия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "МВФполучила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "погрузило"
+    }
+  ]
+}

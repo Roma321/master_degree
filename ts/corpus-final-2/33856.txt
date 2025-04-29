@@ -1,0 +1,20 @@
+{
+  "text": "Вскоре оперативники задержали 43-летнего сожителя женева , но , как выяснилось , он не был причастны к убийству .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "жертвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "причастен"
+    },
+    {
+      "correctReplacement": "жертва",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Цены га диски , по слову представителей компании , менялись случайной образом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "случайным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "слову",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

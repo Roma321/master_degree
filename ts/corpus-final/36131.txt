@@ -1,0 +1,20 @@
+{
+  "text": "По мнением спортивного комментатора агентства , киевляне могли бы выигать с большим счетом , но учитывая товарищеский характер матча , ограничившиеся евой забитыми мячами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "ограничились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "двумя",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

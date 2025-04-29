@@ -1,0 +1,25 @@
+{
+  "text": "Оперативники считаем , что украинского предпринимателя \"заказали\" - об этом свидетельствует найденный ТТ , который милиционеры называете сежду собой \"оружием киллеров\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "называют"
+    },
+    {
+      "correctReplacement": "собой",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "между",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

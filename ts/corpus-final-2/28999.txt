@@ -1,0 +1,20 @@
+{
+  "text": "В воскреснье были задержавшие пять человек , подозреваемых всовершении тракта 12 октября около здания Октябрьскогопостоянного райотдела милицией в городе Грозном .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "милиции"
+    },
+    {
+      "correctReplacement": "теракта",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

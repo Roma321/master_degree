@@ -1,0 +1,20 @@
+{
+  "text": "По последнему данным МЧС , движение поездов на аварийном участке восстановлена , сообжает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "восстановлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "последним"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

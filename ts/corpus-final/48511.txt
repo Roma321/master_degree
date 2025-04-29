@@ -1,0 +1,20 @@
+{
+  "text": "Таможенников рассудили , что речь идет о совсем новом договоре на новую партию алмазами , а \"первая\" партия осталась вовсю не обложена пошлиной .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Таможенники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "алмазов"
+    },
+    {
+      "correctReplacement": "вовсе",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

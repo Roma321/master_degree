@@ -1,0 +1,25 @@
+{
+  "text": "Напомните , что ЦИК отказал Жириновскому в регистрации , поскольку ц декларация о доходами и имуществе он не указал одну из московских квартир своего сына Игоря Лебедева .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "доходах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "декларации"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

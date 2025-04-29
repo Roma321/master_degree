@@ -1,0 +1,20 @@
+{
+  "text": "Об этомРИА \"Нгвости\" сообщил военный командарм Курчалоя генерал-майором Павел Липский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "генерал-майор"
+    },
+    {
+      "correctReplacement": "комендант",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

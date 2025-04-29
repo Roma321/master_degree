@@ -1,0 +1,20 @@
+{
+  "text": "В Петербурге , где эпидпорог составляемый 9 тысяч случаев в день , гриппом поражено более 4 тысяч человек , примеров половину из которых составляем дети .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "составляют"
+    },
+    {
+      "correctReplacement": "примерно",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

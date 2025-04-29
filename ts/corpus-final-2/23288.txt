@@ -1,0 +1,25 @@
+{
+  "text": "Представитель Air France заявленный , что согласно законодательству гражданской авиация , авиакомпания несет ответственность за ущерб , причиняемый любой предметом , выпавшей из самолета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "любым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "авиации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "выпавшим"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По словам ведущего гаучного сотруднике Института астрономии Российского академии наук Михаила Смирнова , настоящим парадом планет являюсь событие , когда все планеты , в том числе и Земля , выстраиваемся в линию по одну стороны от Солнца .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "выстраиваются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "сторону"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудника"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Российской"
+    },
+    {
+      "correctReplacement": "научного",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

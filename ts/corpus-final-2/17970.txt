@@ -1,0 +1,30 @@
+{
+  "text": "Протестующие водителями продолжают блокаду бензозаправочных станций , тщательно проверяют , куда идет той или иная цистерна , берут на заметку водителей , перевозимых бензины , - а телефонный опрос , проведенный BBC , показывает , что большая часть населения Англии эти акции поддерживаешь .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 42,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "водители"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "бензин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "та"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "перевозящих"
+    }
+  ]
+}

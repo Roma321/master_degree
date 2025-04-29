@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в 12 чанов на кортом города Малаги выйдем испанский теннисисты Алекс Корретха и россиянин Марат Сафин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "корт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "теннисист"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "выйдут"
+    },
+    {
+      "correctReplacement": "часов",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

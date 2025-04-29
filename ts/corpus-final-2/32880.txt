@@ -1,0 +1,30 @@
+{
+  "text": "Местные политологи полагают , что за погромщиками мог стоять как стремящиеся дискредитировать Рюмина люди , так и его сторонники , пытающиеся доказать слабость генераторов Люоимов , который не решился наказать хулиганов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Любимова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "могли"
+    },
+    {
+      "correctReplacement": "губернаторов",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "Любимов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

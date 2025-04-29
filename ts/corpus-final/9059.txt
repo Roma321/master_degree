@@ -1,0 +1,35 @@
+{
+  "text": "Из общего суммы кредите 17 миллионоф долларов будет выделено костинским таможенными органам , заявил начальник управления спецтехники и автоматизации таможенных технологий российского Государственного таможенного комитетов Леонид Ухлинов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кредита"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "таможенным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "комитета"
+    },
+    {
+      "correctReplacement": "российским",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

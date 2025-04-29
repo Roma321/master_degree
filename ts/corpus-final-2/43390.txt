@@ -1,0 +1,25 @@
+{
+  "text": "По местному законодательству для победы на выборы кандидат должен был набравшие 50 процннтов голоса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "набрать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "выборах"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

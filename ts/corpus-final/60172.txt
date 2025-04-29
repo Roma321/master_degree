@@ -1,0 +1,25 @@
+{
+  "text": "За минувшие сутки были обнаружены склад с боеприпасами , два блиндажа и пащера с запасом продовольствия для боевики , сообщает агентства \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "запасами"
+    },
+    {
+      "correctReplacement": "пещера",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

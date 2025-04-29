@@ -1,0 +1,30 @@
+{
+  "text": "В городе ещп не начался отопительный сезон - хотя администрации области , под чьим патронажу фестиваль проходимый , обещавшая , что к открытию фестиваля в залах будет уже тепло .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "обещала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "администрация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "патронажем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проходит"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "52-летний Ясуо Такеда привёз на микроавтобусом в полицейский участок города Гифу (в 270 километрах к западу оо Токио) тела своей 80-летней мать , 38-летней жены и двух детей : 6-летнего сына и 4-летней дочери и заявил , что это он убил их всех .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "микроавтобусе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "матери"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "привез"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

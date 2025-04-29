@@ -1,0 +1,30 @@
+{
+  "text": "В жюри сошедшие такие знаменитости , как Джефф Вин , испоьнительное директора Wired Digital и автор HotWired Style , и Дерек Сиссон , менеджер по делам пользователей электронного книжного магазинов Borders . com и владелец Philosophe . com .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "исполнительный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "магазина"
+    },
+    {
+      "correctReplacement": "вошли",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "исполнительное",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

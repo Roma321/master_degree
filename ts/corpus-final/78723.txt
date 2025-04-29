@@ -1,0 +1,30 @@
+{
+  "text": "Напомню , что именно там располагающийся оффис спецпредставителя президента России по обеспечению прав и свободы человека в Чечне Владимире Каламанова и работают эксперты Совета Европы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "свобод"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "располагается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "офис",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

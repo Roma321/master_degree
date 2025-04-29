@@ -1,0 +1,25 @@
+{
+  "text": "В одной из допущений цокольной этажа здания администрации Красноярского края произошел пожар , сообщил РИА \"Новости\" дежурный сибирского регионального центра МЧС Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "цокольного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одном"
+    },
+    {
+      "correctReplacement": "помещений",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

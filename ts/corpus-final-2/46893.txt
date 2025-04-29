@@ -1,0 +1,30 @@
+{
+  "text": "Последствий же речи были весьма впечатляющих : к концу дня индекча достиг отметки 2898 , 8 , то ели вырос на десять процентов по сравнению с предыдущим днем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "индекс"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "впечатляющими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Последствия"
+    },
+    {
+      "correctReplacement": "индекса",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

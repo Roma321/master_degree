@@ -1,0 +1,40 @@
+{
+  "text": "Полиция расследую возможную причастностью к инцидента мусульманского повстанческого двтжения , действующего на юге страны . Лидер повстанцев угрожали начать террористические акты в филиппинских городах в ответа на наступление правительственных войск на повстанческие военные база .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "инциденту"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Лидеры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "ответ"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "расследует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "причастность"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "базы"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

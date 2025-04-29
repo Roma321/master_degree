@@ -1,0 +1,25 @@
+{
+  "text": "На утверждение Сенату будут предложившие следующие кандидатуры : демократ Норман Минета - на пост министра транспорта , сенатор от штата Мичиган Спенсер Абрахам - на пост министра энергетики и Линди Чавес - на посты главы Министерства труда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Сената"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "предложены"
+    },
+    {
+      "correctReplacement": "Линда",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

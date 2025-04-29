@@ -1,0 +1,20 @@
+{
+  "text": "20 апреля студентах и преподавательские города намерены провести новую акцию на Дворцовой площади Пеьербурга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "студенты"
+    },
+    {
+      "correctReplacement": "преподаватели",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Петербурга",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

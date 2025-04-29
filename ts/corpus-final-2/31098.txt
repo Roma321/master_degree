@@ -1,0 +1,25 @@
+{
+  "text": "Идею ее создания выдвинувшие председатель Совета директоров телесетей тат Сергей Скворцового , генеральный директор ТНТ Павел Корчагин и Президент Академии Российского телевидения Владимир Познер .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выдвинули"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Скворцов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "телесети"
+    },
+    {
+      "correctReplacement": "ТНТ",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

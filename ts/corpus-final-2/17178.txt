@@ -1,0 +1,20 @@
+{
+  "text": "Действие начинается в палате роддом , где сожжение девочки у одной из героинь встречается родственниками с разочарованием , и кончается в тюрьме , где пересекаются дороги восемью женщин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "восьми"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "роддома"
+    },
+    {
+      "correctReplacement": "рождение",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

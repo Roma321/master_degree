@@ -1,0 +1,25 @@
+{
+  "text": "В минувший четверг службы безопасности Украины (СБУ) запретила въезд в страны гражданину России , генеральному директору Центра паразитическую рекламы \"Никколо-медиа\" Льву Полякову .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "служба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "страну"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "политической"
+    },
+    {
+      "correctReplacement": "политическую",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

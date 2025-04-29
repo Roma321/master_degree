@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данными , ем один пострадавшие - в больницу в шоковом состоянии госпитализирована военщина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пострадавший"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "женщина",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

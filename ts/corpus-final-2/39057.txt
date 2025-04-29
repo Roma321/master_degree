@@ -1,0 +1,30 @@
+{
+  "text": "В 1967 Уотерс снял свой первый 16-миллрметровый фильм \"Съешь свою косметику\" , рассказывавший о душевнобольное гувернантке и ее любовному , которые похищали фотомоделях и доводили их до смерть , заставляя все время позировать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "смерти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "фотомоделей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "душевнобольной"
+    },
+    {
+      "correctReplacement": "любовнике",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "16-миллиметровый",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

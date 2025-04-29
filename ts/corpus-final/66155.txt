@@ -1,0 +1,25 @@
+{
+  "text": "А Тихоненко уже встретился с руководством ВСКА и , хотя в четверги вечером официально контракт еще не был подписана , фактически заручусь поддержкой владельцев клуба .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "заручился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "подписан"
+    },
+    {
+      "correctReplacement": "ЦСКА",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

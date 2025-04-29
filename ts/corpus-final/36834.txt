@@ -1,0 +1,20 @@
+{
+  "text": "Комиссия штата Техасе по помилованию решил отказать подсудимой Битс в просьбе отсрочить или смягчить притвор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Техас"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "решила"
+    },
+    {
+      "correctReplacement": "приговор",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

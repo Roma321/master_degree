@@ -1,0 +1,25 @@
+{
+  "text": "В районном центре Кавалерово на сегодняшний день осталось лишь 420 тоннами мазут , котельные работающие в режиме самосохранения , однако и в этом режиме топлива хватит лишь на 10 сутоп .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мазута"
+    },
+    {
+      "correctReplacement": "суток",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

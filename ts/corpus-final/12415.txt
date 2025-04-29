@@ -1,0 +1,35 @@
+{
+  "text": "Если же этим нарушения совершены лицом , занимаемым государственную должность РФ или субъекта РФ , либо главой органа местном самоуправлений , они наказывались лишением свободы на срок от 2 до 6 лет с лишением права занимать определенные должности или заниматься определённого деятельностью на срок до 3 лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "самоуправления"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 40,
+      "correctReplacement": "определенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "наказываются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "занимающим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "местного"
+    }
+  ]
+}

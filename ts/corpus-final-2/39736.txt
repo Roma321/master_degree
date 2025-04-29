@@ -1,0 +1,25 @@
+{
+  "text": "облако в четверг представитель Социал-демократического партии , членом которой Климмт являющийся , объявил , что тот все-таки уходит с посту министра .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "поста"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Социал-демократической"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

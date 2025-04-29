@@ -1,0 +1,30 @@
+{
+  "text": "Президентом Чили Эдуардо Фрей выступлю с обращением к народу и заявил , что Пиночет должен ответить у себя на родине по закону . Как сообщает РБК , глава чилийской государства высказался запредании бывшей диктатора суду .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "чилийского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "запредание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    }
+  ]
+}

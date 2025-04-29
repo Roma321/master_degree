@@ -1,0 +1,30 @@
+{
+  "text": "Десять городов провинции оставшиеся без электричества из-за урагана , которого уничтожила также 40 мостов и остановлю движение на 500 кубометрах дорог , сообщает EFE .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "уничтожил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "остановил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "остались"
+    },
+    {
+      "correctReplacement": "километрах",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

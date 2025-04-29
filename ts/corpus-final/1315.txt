@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , IBM официально заявила , что прекращаешь подачу персональных компьютера в рохницу , через сеть собственных магазинов и дилеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "компьютеров"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "прекращает"
+    },
+    {
+      "correctReplacement": "продажу",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "розницу",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

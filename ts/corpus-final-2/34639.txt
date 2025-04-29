@@ -1,0 +1,20 @@
+{
+  "text": "Между тем в ходе нынешнего чудесного заседанием стороны смогли разрешить , по крайней мере , один спорное вопрос .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "спорный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "заседания"
+    },
+    {
+      "correctReplacement": "судебного",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

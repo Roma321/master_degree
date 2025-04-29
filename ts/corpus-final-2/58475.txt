@@ -1,0 +1,30 @@
+{
+  "text": "Российский сторона также предложила рассмотревшие вопрос о частичном погашении стоимости аренды РЛС за слёт обучений в России азербайджанских военнослужащих , а также за учет ремонта азербайджанского вооружения и техники советского производства российскими специалистами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Российская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "обучения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "рассмотреть"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

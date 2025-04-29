@@ -1,0 +1,30 @@
+{
+  "text": "В документе сообщается , чзо Министерство воздушного транспорта Испании не продлило разрешения на оговорённые ранее чартерные рейсы из Россию в это страну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "разрешение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "оговоренные"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

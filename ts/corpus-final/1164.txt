@@ -1,0 +1,25 @@
+{
+  "text": "Адвокаты Аугусто Пиночета подадим апелляцию в вероятная суд Лондона на решение суда-магистрата о депортаций бывшего диктатора в Испанию .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "подали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "депортации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Верховный"
+    },
+    {
+      "correctReplacement": "Верховная",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

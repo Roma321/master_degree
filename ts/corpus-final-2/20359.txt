@@ -1,0 +1,20 @@
+{
+  "text": "Как стало известно журналистам \"РТР - Петербург\" , инициатором обращения стала Людмила Милютиных , мать погипшего на АПЛ капитана 3-го ранга Андрею Милютина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Андрея"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Милютина"
+    },
+    {
+      "correctReplacement": "погибшего",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

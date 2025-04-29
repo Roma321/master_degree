@@ -1,0 +1,20 @@
+{
+  "text": "В Сенегале пираты продали 2000 тонны , после чего корабль скрылся в неизвестное направлении и рывший пойман только у берегов Керала .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "неизвестном"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

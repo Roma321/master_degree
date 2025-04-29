@@ -1,0 +1,20 @@
+{
+  "text": "9 процентов акций принадлежите корпорацию Intel , 23 процента - вычурной компании Sequoia Capital .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "принадлежат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "correctReplacement": "венчурной",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Караджич приговоривший к выплате 617 миллионом в качестве компенсации за причинённый ущерб и еще 3 , 9 миллиарда в качестве сказаний за пытки и убийства 39 человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "причиненный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "наказания"
+    },
+    {
+      "correctReplacement": "наказаний",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

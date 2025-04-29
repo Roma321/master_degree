@@ -1,0 +1,20 @@
+{
+  "text": "В этой вязи прокуратура назначенная нового гособвинителя Юрия Волгиным .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "назначила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Волгина"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

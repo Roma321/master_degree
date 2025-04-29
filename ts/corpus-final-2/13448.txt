@@ -1,0 +1,25 @@
+{
+  "text": "В пресс-центре сообщившие , что имелись сведения об активности боевиков в районе селений Алхазурово , Гойским , Чечен-аул .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "районах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Гойское"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "имеются"
+    }
+  ]
+}

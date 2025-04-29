@@ -1,0 +1,20 @@
+{
+  "text": "Компании грозили штрафу от 750 долларов до 30 тысяч за каждый случай нарушений закона .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "нарушения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "штраф"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "грозил"
+    }
+  ]
+}

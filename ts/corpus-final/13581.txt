@@ -1,0 +1,25 @@
+{
+  "text": "Договорённости об этом была достигнуто во время недавней поездки в Иран министра иностранных дел России Игоря Иванова , с которым делегация встретифшаяся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "встретилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "достигнута"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Договоренность"
+    },
+    {
+      "correctReplacement": "встретившаяся",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

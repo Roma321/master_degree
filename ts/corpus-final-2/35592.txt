@@ -1,0 +1,25 @@
+{
+  "text": "ЕЦБ обосновало очередную интервенцию необходимостями предотвратить негативный последствия низкого куеса евро для мировой экономики , а также стремлением стабилизировать цены на рынке ЕС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "обосновал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "негативные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "необходимостью"
+    },
+    {
+      "correctReplacement": "курса",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

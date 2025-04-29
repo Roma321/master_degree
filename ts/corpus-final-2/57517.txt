@@ -1,0 +1,30 @@
+{
+  "text": "Лидер оппозиционная фракция в парламенте заявил , что человек , однажды замешанный в подобных акциях не должки оставаться на посту и представлять гражданское общество , основанное на ненасильственных идеи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "фракции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "идеях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "оппозиционной"
+    },
+    {
+      "correctReplacement": "должны",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Решение о помиловании пилотах , приговорённых городской судом Калькутты к пожизненному заключению , было принято президента Индии Коверилом Раманом Нараянаном \"с учетом отношений Индии с Российской Федерацией\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пилотов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "приговоренных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "городским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "президентом"
+    },
+    {
+      "correctReplacement": "Кочерилом",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

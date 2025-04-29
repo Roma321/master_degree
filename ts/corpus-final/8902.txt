@@ -1,0 +1,25 @@
+{
+  "text": "Вирус был впервые обнаружен ива недели назад и уже успела распространиться по всему земному шару : сообщение о заражении им получены их США , Европы и Азии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "успел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "correctReplacement": "две",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

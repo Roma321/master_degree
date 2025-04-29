@@ -1,0 +1,25 @@
+{
+  "text": "Решение о несчастье Семаго е выборах мэра Москвы должна утвердившие Мосгоризбирком .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "утвердить"
+    },
+    {
+      "correctReplacement": "неучастии",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

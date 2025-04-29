@@ -1,0 +1,20 @@
+{
+  "text": "Второй матч мирского баскетбольном турниров на Олимпийских Играх в Сиднее россияне провели с испанцами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "баскетбольного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "турнира"
+    },
+    {
+      "correctReplacement": "мужского",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

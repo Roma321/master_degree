@@ -1,0 +1,25 @@
+{
+  "text": "Эта авария пополнила списки неприятностей , которые в последнее время бугвально преследует английскую железное дорогу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "железную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "список"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "преследуют"
+    },
+    {
+      "correctReplacement": "буквально",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

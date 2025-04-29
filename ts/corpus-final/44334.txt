@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшний дню сотрудничество богомольцев с партией власти ограничилось тем , что около 70 процентов членов региональными организаций РКСМ включились в работу избирательных штабов и . о . президента , утверждающий Митина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "региональных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "комсомольцев",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

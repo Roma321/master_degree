@@ -1,0 +1,25 @@
+{
+  "text": "Люди , наргдившиеся в сбитого автомобилям , также не пострадали .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "автомобилях"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сбитых"
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "народившиеся",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

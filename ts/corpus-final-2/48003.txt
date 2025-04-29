@@ -1,0 +1,20 @@
+{
+  "text": "Юристы связывают это инциденты со авоим участием в деле Поупа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "своим",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

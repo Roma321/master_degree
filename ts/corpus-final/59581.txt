@@ -1,0 +1,25 @@
+{
+  "text": "При этому были убившие несколько пассажиров , а автобус потеряю управление , врежусь в заграждения на дороге и загорелся .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "врезался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "потерял"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "убиты"
+    }
+  ]
+}

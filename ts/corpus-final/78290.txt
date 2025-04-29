@@ -1,0 +1,35 @@
+{
+  "text": "Помимо этого , он являлся автором книгам , в которых призываю соплеменников к создению писемского государств на территории Дагестана и Чечни .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "книг"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "призывает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "исламского",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "созданию",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

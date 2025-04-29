@@ -1,0 +1,25 @@
+{
+  "text": "Она весьма ядовито и вызываю отравления , часто смертельные , не только у человека , но и у домашних животного .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "вызывает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "ядовита"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "животных"
+    }
+  ]
+}

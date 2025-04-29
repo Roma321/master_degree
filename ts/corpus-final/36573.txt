@@ -1,0 +1,25 @@
+{
+  "text": "Такими образом , Сантана побила рекорд Майкла Джексона , кротовый в 1983 году ставший обладателем семи \"золотых граммофонов\" за альбом \"Thriller\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "побил"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

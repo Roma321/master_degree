@@ -1,0 +1,40 @@
+{
+  "text": "Ожидается , что в ходе этих встреч среди другого вопросов будет обсуждаться ситуации в Росмии в свете предстоящего визита Клинтона в Москвой и планирующего визита владима Путиных в Германию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Москву"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "планируемого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ситуация"
+    },
+    {
+      "correctReplacement": "Владимира",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

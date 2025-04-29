@@ -1,0 +1,20 @@
+{
+  "text": "По фактам преступления возбуждены уголовное дело по статье 105 участь вторая \"Убийство\" УК РФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "факту"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

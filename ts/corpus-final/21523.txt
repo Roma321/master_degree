@@ -1,0 +1,20 @@
+{
+  "text": "При лимите времени в 20 минут месячные плата здесь составляющий 15 рыблей , поминутная оплата после лимита днем 13 копеек , ночью - 4 копейки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "месячная"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

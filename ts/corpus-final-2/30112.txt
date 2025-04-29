@@ -1,0 +1,25 @@
+{
+  "text": "Индекс потребительского ценам в сентябре вырасту на 0 , 5 процента после августовского снижения ни 0 , 1 процент .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "вырос"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "цен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "потребительских"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

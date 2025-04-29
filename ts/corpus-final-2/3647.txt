@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее , пишет журнал , овыя гастроробот , получивший рмя Chew Chew , достаточно велик по объему и больше напоминающий поезд , снабженный двенадцатью колесами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "новая",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "имя",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

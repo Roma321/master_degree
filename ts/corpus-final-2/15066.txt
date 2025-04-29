@@ -1,0 +1,25 @@
+{
+  "text": "В частности , истцу учреждавший , что не было достигнуто кворумом для голосований по кандидатуре Романова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "истец"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "кворума"
+    },
+    {
+      "correctReplacement": "утверждал",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Виктор Новоселов был убивший 20 октябрей 1999 года недалеко от своего дома , на углу Московского проспекта о улицы Фрунзе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "октября"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

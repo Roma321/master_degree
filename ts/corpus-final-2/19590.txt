@@ -1,0 +1,20 @@
+{
+  "text": "Акты осмотра этого места предоставлены в Министерства внутренних дела миссии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "Министерство",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

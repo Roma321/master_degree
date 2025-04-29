@@ -1,0 +1,25 @@
+{
+  "text": "Ягудин , занимавшая после пегвого дней соревнований лишь третьем место , смог опередить лишь Абта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "занимавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "третье"
+    },
+    {
+      "correctReplacement": "первого",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

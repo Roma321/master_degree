@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённый генерал , комбинирование Объединенной группировки войск принимаю все возможные меры , чтобы не позволить главарями покинуть Чечню .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "принимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "главарям"
+    },
+    {
+      "correctReplacement": "командование",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

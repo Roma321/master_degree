@@ -1,0 +1,15 @@
+{
+  "text": "Мои адвоккты изучает документы , чтобы обратиться в суд .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "изучают"
+    },
+    {
+      "correctReplacement": "адвокаты",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

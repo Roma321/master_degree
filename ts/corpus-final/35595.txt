@@ -1,0 +1,30 @@
+{
+  "text": "тогда Гааз умерла , на его похороны в Москве пришло 200 тысячи человек - по массовости только Ходынка и похороны Сталина превзошли это событий , но погребение немецкого врача прошедшее без кровавой давки\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "умер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "события"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "прошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "Когда",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

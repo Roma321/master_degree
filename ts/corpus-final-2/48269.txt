@@ -1,0 +1,30 @@
+{
+  "text": "Он подчеркнули , что условия предоставления займов не навязывающиеся банку , а щпределены самим российскому руководством и касаются выполнения разработанных им планов экономических преобразований .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "навязываются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "банком"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "российским"
+    },
+    {
+      "correctReplacement": "определены",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

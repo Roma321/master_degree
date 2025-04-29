@@ -1,0 +1,20 @@
+{
+  "text": "\"Мы уже 148 годам крутим это \"Королевское шоу\" , и ничего подобного ни раза не было\" , - заявили директор парка Гэри Кэмпбелл .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "разу",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

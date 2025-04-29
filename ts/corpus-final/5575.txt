@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаешь Associated Press , в понедельник президент Клинтон отправило в Пекин для переговоров высокопоставленных делегацию , которую возглавляющие торговый представитель США Шарлин Барщевски и главный советник президента по геологическим вопросам Джин Сперлинг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "высокопоставленную"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "возглавляют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "отправил"
+    },
+    {
+      "correctReplacement": "экономическим",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

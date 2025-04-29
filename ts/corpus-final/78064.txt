@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщившие в УВТ МВД России в Чечне , 1 июля в 20 : 20 на патрульной автомашине они самостоятельно без обязательного в такими случаях доклада дежурному по роте поехавшие к стрельбищу на западной окраине районного центра Шелковская .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "поехали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "таких"
+    },
+    {
+      "correctReplacement": "УВД",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

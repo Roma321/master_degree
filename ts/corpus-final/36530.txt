@@ -1,0 +1,25 @@
+{
+  "text": "В этих связи в первую очередь упоминается имя Сергеев Степашина , заявившего в ходе траурной церемонии следующая : \"Я считаю , что ленинградцам , петербуржцам , живущим в Москве , пора возвращуть дань нашему городу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "следующее"
+    },
+    {
+      "correctReplacement": "возвращать",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

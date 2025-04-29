@@ -1,0 +1,20 @@
+{
+  "text": "Россия принимал участие в берлинском авиасалоне в четвёртым раз .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "принимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "четвертый"
+    },
+    {
+      "correctReplacement": "четвёртым",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

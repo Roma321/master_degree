@@ -1,0 +1,30 @@
+{
+  "text": "С неопасными ранениями голов он был доставивший ц больницу и после оказания мариинскую помощи вернулся домой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "головы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "медицинской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "медицинскую",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

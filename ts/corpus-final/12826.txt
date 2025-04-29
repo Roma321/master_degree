@@ -1,0 +1,25 @@
+{
+  "text": "В ночи со вторника на среды на границе Кировского области и Татарии происшедшая крупная авария на участке газопровода Уренгой-Помары-Ужгород в районе отрезка Пермь-Казань-Нижний Новгород-2 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ночь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Кировской"
+    }
+  ]
+}

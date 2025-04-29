@@ -1,0 +1,20 @@
+{
+  "text": "Летом 2000 года суд приостановил рассмотрения дкла из-за ухудшавшейся здоровья обвиняемого .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "ухудшавшегося"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

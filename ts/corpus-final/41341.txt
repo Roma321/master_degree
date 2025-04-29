@@ -1,0 +1,25 @@
+{
+  "text": "25 пролёты от выделяемой суммы пойдет на работу представительства эта организации в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "проценты",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

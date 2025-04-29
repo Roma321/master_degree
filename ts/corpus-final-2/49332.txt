@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время преступлений , связанные с незаконным оборотом наркотиков , определяемся уголовннм законодательством как среднего тяжести и менее тяжкие .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "определяются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "средней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "преступления"
+    },
+    {
+      "correctReplacement": "уголовным",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

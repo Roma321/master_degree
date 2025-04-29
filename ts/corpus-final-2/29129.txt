@@ -1,0 +1,30 @@
+{
+  "text": "Между тем во время непродолжительного перерыва в работе саммита в кулуарах распространились слухи о том , .то израильским премьером прерывал переговоры и отбываю из Египта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "израильский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "премьер"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "прерывает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "отбывает"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

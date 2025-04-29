@@ -1,0 +1,35 @@
+{
+  "text": "По указанию Министерства юстиции России судебные приставам подписавшие акт о невозможности исполнившие решение Арбитражного суда пл Выборгскому ЦБК и под охраной милиции вместе с боями спецназа покинувшие территорию комбината .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "приставы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "покинули"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "подписали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "исполнить"
+    },
+    {
+      "correctReplacement": "бойцами",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

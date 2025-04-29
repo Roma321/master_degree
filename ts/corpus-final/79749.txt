@@ -1,0 +1,30 @@
+{
+  "text": "Несмотря на работы пожарных , чкрез 20 минуты цистерна неожиданно взорвавшаяся , огонь перекинувшийся на другую цистерну , стоящую рядом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "перекинулся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "взорвалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "минут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "работу"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

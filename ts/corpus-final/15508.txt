@@ -1,0 +1,30 @@
+{
+  "text": "Накануне субботней слушания сторонникеми губернатора Яковлевых заявляли о готовности оспаривать неблагоприятное для них решение делона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "субботнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Яковлева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сторонники"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "сторонниками",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

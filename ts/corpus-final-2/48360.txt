@@ -1,0 +1,20 @@
+{
+  "text": "Секретарь Совета безопасности Сергей Иванове подписала во сторник от имени России Конвенцию ООН по борьбе с организованной преступностью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

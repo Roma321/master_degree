@@ -1,0 +1,25 @@
+{
+  "text": "Из-за этого корреспондентский не мог , например , получившие премию , которую ему присудила Парламентская ассамблея Советов Европы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Совета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "получить"
+    },
+    {
+      "correctReplacement": "корреспондент",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

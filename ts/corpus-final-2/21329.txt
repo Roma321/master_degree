@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники подмосковной РУБОПа , выехавшие для проверки информации , обнаружили в гараже , на который указала звонивший , оружие , сотни патронов , детонаторя и четыре килограмма пластита .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "указал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "подмосковного"
+    },
+    {
+      "correctReplacement": "детонаторы",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

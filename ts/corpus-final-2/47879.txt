@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь РИА \"Новости\" , в пользу нового названиф города высказались 356 депутатов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "названия"
+    },
+    {
+      "correctReplacement": "названий",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

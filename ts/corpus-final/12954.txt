@@ -1,0 +1,25 @@
+{
+  "text": "Как сошбщивший корреспонденту Агентства военных новостей источник в военном госпитале Владикавказа , только в среду сюда доставленные 40 военнослужащими .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "доставили"
+    },
+    {
+      "correctReplacement": "сообщивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

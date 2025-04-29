@@ -1,0 +1,25 @@
+{
+  "text": "Полиция предполагает самоубийство , поскольку на тела не найдено следов насилия , сообщаешь РИА \"Новости\" со смычкой на софийских радиостанцию .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "теле"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "софийскую"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

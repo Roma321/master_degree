@@ -1,0 +1,20 @@
+{
+  "text": "В сулботу в 2 : 42 по московскому времени с плавучих космодрома Sea Launch в Тихом океане успешно стартую ракета-носитель \"Зенит-3SL\" с американским спутником PanAmSat-9 , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "стартовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "плавучего"
+    },
+    {
+      "correctReplacement": "субботу",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

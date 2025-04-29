@@ -1,0 +1,25 @@
+{
+  "text": "Плмн такую : президента на специальном вертолете доставили в заранее оговоренное место , оттуда на машине отвезёте за коровой .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "отвезут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "доставят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "такой"
+    },
+    {
+      "correctReplacement": "План",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

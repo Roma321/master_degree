@@ -1,0 +1,15 @@
+{
+  "text": "Это предприятие расположено в 80 киломптре к югу от Эль-Кувейта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "километрах"
+    },
+    {
+      "correctReplacement": "километре",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

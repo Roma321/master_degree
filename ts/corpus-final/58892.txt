@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает BBC News , уполномоченный правительства Австрии Мария Шаумайер заявленная , ято поскольку жертве нацистский террора являютсялюдьми преклонного возраста , \"этот добровольный акт Австрии\"должен совершиться как можно быстрее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "нацистского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "жертвы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявила"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

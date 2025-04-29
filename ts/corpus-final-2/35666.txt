@@ -1,0 +1,20 @@
+{
+  "text": "Из-за проливных дождей , которые идём в эоих местах более двух суток , реки вышли из берега .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "берегов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "шли"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

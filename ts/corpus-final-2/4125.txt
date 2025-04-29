@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщавшая РБК омеративном дежурный Дальневосточного регионального центра МЧС России , стихия выведенная из строя восемь километров линий связи и 17 километров линий электропередач .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вывела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "оперативный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "сообщила",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "оперативном",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

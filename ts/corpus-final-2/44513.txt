@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с соглашением между \"Газпром-Медиа\" и \"Медиа-Мостом\" 25-процентный пакет акцизы НТВ должна быть проданы иностранной фирме при посредничестве Deutsche Bank .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "продан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

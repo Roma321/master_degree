@@ -1,0 +1,35 @@
+{
+  "text": "В частностях , весной этого года она купило за 10 миллиардеры долларов лицензию на работу в Великобритании в третьем поколении мобрльная связи , дающий выход в Интернет с мобильного телефона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "купила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "мобильной"
+    },
+    {
+      "correctReplacement": "миллиарды",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "мобильная",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

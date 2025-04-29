@@ -1,0 +1,25 @@
+{
+  "text": "На Гран-При Канаде первое и вторым место заняли соответственно Михаэль Шумахеру м Рубенс Баррикелло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "второе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Шумахер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Канады"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

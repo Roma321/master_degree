@@ -1,0 +1,35 @@
+{
+  "text": "По данным агентства , в течение последних суток артиллерия и авиация ОГВ наносившие массированные удары по фазами и скоплению боевиков , расположенных по кольцу вокруг Грозного на ближайших подступе п нему .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "базам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "подступах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "скоплениям"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "наносили"
+    },
+    {
+      "correctReplacement": "базами",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

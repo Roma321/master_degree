@@ -1,0 +1,20 @@
+{
+  "text": "Проанализировав ситуацию , полиции сделала вывот , что акция была направившая не на нанесение вреда , а на то чтобы вызвать панику .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "полиция"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "направлена"
+    },
+    {
+      "correctReplacement": "вывод",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

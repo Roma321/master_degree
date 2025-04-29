@@ -1,0 +1,20 @@
+{
+  "text": "В ней , в частности , ест оригинальные предложения по решение чеченского опроса , сообщил глава штаба .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "решению"
+    },
+    {
+      "correctReplacement": "вопроса",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

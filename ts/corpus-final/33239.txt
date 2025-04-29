@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщившие \"Интерфаксу\" во временном пресс-центре МВД РФ на Северном Кавказе , госпиталь был оснащен вневременной медицинской аппаратурой произвотздва фирм Philips .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "современной",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "производства",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Как передаёшь CNN , террорист скрываешься с тех пор , как в серёгиной декабря американская полиции арестовало одного из его сообщников , 32-летнего алжирца Ахмеда Рессамы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "арестовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Рессама"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "полиция"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "скрывается"
+    },
+    {
+      "correctReplacement": "середине",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

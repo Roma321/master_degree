@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратура Москвы возбуждённая уголовном дело против казино Ambassador по статье 174-й части 3-го УК РФ (\"легализация денежных средств , изобретённых незаконным путем\") .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "возбудила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "3-й"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "приобретенных",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Включить в диспозиции Зала ратной подвига Центрального музея Вооруженных Сил РФ экспонаты , связанные с жизнью и деятельностью членов экипажа атомного подводного крейсера \"Курск\" , погибших при выполнении учебно-боевого заданий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "задания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "экспозицию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "ратного"
+    },
+    {
+      "correctReplacement": "экспозиции",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

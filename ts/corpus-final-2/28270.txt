@@ -1,0 +1,25 @@
+{
+  "text": "Программа работает практически незаметно для пользователю , и , если владельцы компьютера не занимает все системный ресурсы , компьютер продолжает работать , даже когда пользователь работает , играет или блуждаешь по Интернету .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "владелец"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пользователя"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "блуждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "системные"
+    }
+  ]
+}

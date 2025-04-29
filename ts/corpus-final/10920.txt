@@ -1,0 +1,20 @@
+{
+  "text": "Вместе с тем , совокупный годовой дохнд Владимира Брынцалова за 1998 год состоял исключительно из депутатскую зарплаты и составил 124 тысяч 154 рубля , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "депутатской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "тысячи"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

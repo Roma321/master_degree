@@ -1,0 +1,25 @@
+{
+  "text": "При этом Литвиненко подчеркну , что угрозы были направлены не только в его адресу , но и в адреса его жени и ребенка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "адрес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "адрес"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "жены",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

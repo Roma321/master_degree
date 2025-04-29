@@ -1,0 +1,25 @@
+{
+  "text": "Права проголосованные за одной из 11 кандидатов или против всех имеют около 108 миллионов избирательных .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проголосовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Право"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

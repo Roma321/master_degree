@@ -1,0 +1,25 @@
+{
+  "text": "Больше шести часов они кружим под кормой корабль , затрудняф его продвижение к берегу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "затрудняя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "корабля"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "кружили"
+    },
+    {
+      "correctReplacement": "затрудняв",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Инсбруке состоявшееся специсльные заседание тирольскогопарламента - ландтага , в повесткой дня которого стоял вопрос облокаде Brenner .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "повестке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "специальное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "correctReplacement": "специальные",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

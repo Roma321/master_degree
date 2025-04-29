@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС со ссылкой на областное мвд , неизвестный вооруженный преступником открыл стрельбу по инкассаторской машине , подъехавшей к районному отделениям Сбербанком за выручкой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "преступник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "отделению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Сбербанка"
+    },
+    {
+      "correctReplacement": "УВД",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

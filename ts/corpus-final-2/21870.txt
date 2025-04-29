@@ -1,0 +1,25 @@
+{
+  "text": "В Таджткистане российских пограничники временно закроем контрольно-пропускной пункт \"Нижний Пяндж\" на границу с Афганистаном , сообщает компания НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "закрыли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "границе"
+    },
+    {
+      "correctReplacement": "Таджикистане",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

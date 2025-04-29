@@ -1,0 +1,20 @@
+{
+  "text": "Соответствующую заявку Министерства финансов РФ подам в Банк Росспи в пятницу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "подало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Министерство"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

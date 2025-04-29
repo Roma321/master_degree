@@ -1,0 +1,30 @@
+{
+  "text": "За полдней огонь охвачу лесные массивы на площадь около 150 тысяч акров , уничтожил несколько домов в городе Ьентон-Сити и теперь подбираешься к городу Ричлэнд .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "полдня"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "охватил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "подбирается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "площади"
+    },
+    {
+      "correctReplacement": "Бентон-Сити",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

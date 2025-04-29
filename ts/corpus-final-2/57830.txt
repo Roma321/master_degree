@@ -1,0 +1,20 @@
+{
+  "text": "Примечательно , что \"взрослая\" команда Чехии по хоккею оакже завоевала свой нынешнее титулом чемпиона мира на турнире , проходившем в России (в мае 2000 года в Санкт-Петербурге) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "нынешний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "титул"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

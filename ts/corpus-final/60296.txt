@@ -1,0 +1,25 @@
+{
+  "text": "Чеченские боевики обстрелянные в суббопу в районе села Самашки Ачхой-Мартановского района автомобильного колонну МЧС России , передаю РИА \"Новости\" со ссылкой на управление информации МВД России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "автомобильную"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "субботу",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

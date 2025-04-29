@@ -1,0 +1,30 @@
+{
+  "text": "Договор предусматриваю поставку американской стороной на безвозмездной основе 20 тысяч тонн семян этих культур , их реализацией путем аукционного продажи и распределение выручивших средств в Фонд развития сельспой кредитнойкооперации на поддержку фермерских хозяйств .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "предусматривает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "аукционной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "вырученных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "реализацию"
+    },
+    {
+      "correctReplacement": "сельской",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

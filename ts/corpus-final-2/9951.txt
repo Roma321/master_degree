@@ -1,0 +1,25 @@
+{
+  "text": "Посылая сразу два летательные аппарата , NASA планирует тем амой увеличенные вероятность успеха экспедиции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "самым"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "увеличить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "летательных"
+    },
+    {
+      "correctReplacement": "самой",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

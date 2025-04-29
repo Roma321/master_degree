@@ -1,0 +1,25 @@
+{
+  "text": "Ранее ТНК получил гарантии Eximbank США в размеру 292 миллионах доллароф на модернизацию Самотлорского месторождения , передает Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "получила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "размере"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

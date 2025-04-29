@@ -1,0 +1,20 @@
+{
+  "text": "Как передает Associated Press , адвокат Рэндольфа сообщила , что на этой неделе Митник получил разрешение заниматься некоторыми видами деятельности , связанными с компьютерайи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Рэндольф"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "компьютерами",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

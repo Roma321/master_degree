@@ -1,0 +1,20 @@
+{
+  "text": "Это заметившие некоторые пассажиры в салуне и поднимем тревогу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "подняли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заметили"
+    },
+    {
+      "correctReplacement": "салоне",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

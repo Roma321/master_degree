@@ -1,0 +1,30 @@
+{
+  "text": "В частности , университет штата Индиана обнаружил , что перекачиванию мудвки составляла 50 процентов всех униуерститетского траффика .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "составляло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "перекачивание"
+    },
+    {
+      "correctReplacement": "музыки",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "универститетского",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

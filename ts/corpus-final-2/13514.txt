@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , в столкновении погибнем тонька пассажиры теплоход .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "теплохода"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

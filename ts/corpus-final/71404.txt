@@ -1,0 +1,30 @@
+{
+  "text": "зам метеорит был видно в небе всего около трём секунды , а его след \"виаел\" в воздухе почти 10 минут .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "секунд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "трех"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "виден"
+    },
+    {
+      "correctReplacement": "Сам",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "\"висел\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

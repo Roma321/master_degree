@@ -1,0 +1,35 @@
+{
+  "text": "Две мирными жителя погибли в Чечне в результате взрыва жилой дома в Шали , сообщаю ИТАР-ТАСС ср ссылкой на пресс-центр Объединившей группировки войск на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "жилого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мирных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Два"
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

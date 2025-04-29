@@ -1,0 +1,20 @@
+{
+  "text": "Из этого вида оружия была убита в Санкт-петербургах депутат Госдумы галька Старовойтовым .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Санкт-Петербурге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Старовойтова"
+    },
+    {
+      "correctReplacement": "Галина",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

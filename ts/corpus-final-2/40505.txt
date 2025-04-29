@@ -1,0 +1,25 @@
+{
+  "text": "По мнению танкистам , работающих на терриьории аэропорта , теперь за стоянки \"платят только лохи\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "стоянку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "таксистов"
+    },
+    {
+      "correctReplacement": "таксистам",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "территории",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

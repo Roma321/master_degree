@@ -1,0 +1,30 @@
+{
+  "text": "По мнению экспертах фоеда , к настоящей моменту стране удамся оправиться от разрушительных последствий финансового кризиса 1998 годов и достичь определенного уровня экономической и политической стабилизации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "экспертов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "настоящему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "фонда",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "С окончанием световых дня работы , не принесшпе результата , были приостановим до утру , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "светового"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "приостановлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "утра"
+    },
+    {
+      "correctReplacement": "принесшие",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

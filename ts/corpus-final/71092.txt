@@ -1,0 +1,15 @@
+{
+  "text": "Во время драки прозвучало несколько выстрелов , водитель был раним , но сумел отобрать у нападавшего евтомат .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "ранен"
+    },
+    {
+      "correctReplacement": "автомат",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

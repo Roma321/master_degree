@@ -1,0 +1,25 @@
+{
+  "text": "Набирая высоты после взлёта , пилот направляфшегося в Бостон пассажирского авиалайнера увиденный на приборах , что прямо к самолету приближается истребитель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "высоту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "увидел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "взлета"
+    },
+    {
+      "correctReplacement": "направлявшегося",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В грамоте конференции принимаемые участие 300 экспертов со всей мира .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принимают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "всего"
+    },
+    {
+      "correctReplacement": "работе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

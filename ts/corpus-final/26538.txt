@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу , на следующий день после запретительным предписаний нью-йоркского суда , аналогичное постановление принял суд Сантов-клар (Калифорния) , где тоже рассматривается дело о распространении кода для влома DVD .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Санта-Клары"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "запретительного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "предписания"
+    },
+    {
+      "correctReplacement": "взлома",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

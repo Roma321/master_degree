@@ -1,0 +1,15 @@
+{
+  "text": "Это мясо было изъято , опечатано и хранилось в холодильника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "холодильниках"
+    },
+    {
+      "correctReplacement": "холодильники",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

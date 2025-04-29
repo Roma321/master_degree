@@ -1,0 +1,25 @@
+{
+  "text": "Экс-премьер Израилем Биньямтн Нетаниягу прибуду в четверг вечером в Москву с кратким частным визиром , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "визитом",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "Биньямин",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

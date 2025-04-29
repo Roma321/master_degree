@@ -1,0 +1,25 @@
+{
+  "text": "\"КамАЗ\" российского гонщика Владимира Чагина был первым грузовым афтомобилем , который финишировал в воскресенья вечером в Каире у подобия пирамид Гизой , оставив за собой более 2000 километров ралли \"Париж-Дакар-Каир\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Гизы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "correctReplacement": "подножья",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "автомобилем",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю Associated Press , в четверг компании Amazon . com , торгующий разнообразными продуктами , от книги до игрушек , опубликовала новые правила , связанные с приматной информацией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "торгующая"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "книг"
+    },
+    {
+      "correctReplacement": "приватной",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

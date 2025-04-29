@@ -1,0 +1,20 @@
+{
+  "text": "Две пассажирских поезда , в которых находилось в общей сложность 96 пассажиров , столкнулись во вторника на востоке Норвегии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сложности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "вторник"
+    }
+  ]
+}

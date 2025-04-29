@@ -1,0 +1,35 @@
+{
+  "text": "Следователем по особо важным делу Генеральной прокуратура , руководитель следствия по \"делу \"Аэрофлота\" Николай Волков категорически опроверг формации , изложу в последнем номере \"Литературной газеты\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Следователь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "делам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "изложенную"
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

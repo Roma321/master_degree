@@ -1,0 +1,20 @@
+{
+  "text": "Новый РВС прославившийся в 1997 году после взрява в подмосковном селе Тайнинское памятника Николаям II работы скульптора Клыкова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "прославился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Николаю"
+    },
+    {
+      "correctReplacement": "взрыва",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

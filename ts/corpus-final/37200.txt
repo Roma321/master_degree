@@ -1,0 +1,25 @@
+{
+  "text": "По предварительному данным , уничтожу 11 опорным пунктов , пять укрепрайонов , три долговременные огневые очки , одна зенитная установка , четыре автомобиля , два узла связи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "предварительным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "уничтожено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "опорных"
+    },
+    {
+      "correctReplacement": "точки",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данным , двоих солдат срочной службыпроникли в склад в надежде раздобыть там цветной металл , послечего и возникли пшжары , а затем последуем взрывы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "двое"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "последовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "пожар"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "возник"
+    },
+    {
+      "correctReplacement": "пожары",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

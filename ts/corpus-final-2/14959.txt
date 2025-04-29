@@ -1,0 +1,30 @@
+{
+  "text": "Среди держателей акций возник паника , в результате массовых продажи акций их курс в считанные минуты снизились со 113 до 65 долларов , а рыночной стоимость компании уменьшилась на 2 , 5 миллиарда долларах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "возникла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "массовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "снизился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "рыночная"
+    }
+  ]
+}

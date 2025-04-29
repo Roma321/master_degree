@@ -1,0 +1,25 @@
+{
+  "text": "Во вторники коло часа ночи в Петербурге на улице Есениных взорвался бензовоз Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Есенина"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

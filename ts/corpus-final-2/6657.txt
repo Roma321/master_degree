@@ -1,0 +1,30 @@
+{
+  "text": "Почтовая служба США объявившая о том , что собирается обеспечить адресами электронной порты реальным почтовые адреса всех американцев - то есть около 120 миллионов физических адресов , зарегистированного на сегодняшний день в базе данные почтовой службы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "данных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "реальные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "зарегистированных"
+    },
+    {
+      "correctReplacement": "почты",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

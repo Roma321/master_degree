@@ -1,0 +1,20 @@
+{
+  "text": "Причиной взрыва стало замыкание меловой кабеля в одном из канализационного колодцев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "силового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "канализационных"
+    },
+    {
+      "correctReplacement": "силовой",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

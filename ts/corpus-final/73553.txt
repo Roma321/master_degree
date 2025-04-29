@@ -1,0 +1,20 @@
+{
+  "text": "По свидетельствам очевидцеф , машина внезапный перевернулась и упала на деревья на краю территории базы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "свидетельству"
+    },
+    {
+      "correctReplacement": "внезапно",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "очевидцев",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

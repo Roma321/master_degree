@@ -1,0 +1,25 @@
+{
+  "text": "С предложениями создать квартал свободного любви , где были бы сосредоточены \"дома терпимости\" , выступил недавно вице-мэр Таллинм Иваре Виркус , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Ивар"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "предложением"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "свободной"
+    },
+    {
+      "correctReplacement": "Таллина",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

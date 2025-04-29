@@ -1,0 +1,25 @@
+{
+  "text": "Спикер заседании поинтересовавшийся у Гейтса , как он представляет себе жизнеспособностл рынка высоких технологий в стране , где большинство жителей получает менее одена доллара в день .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заседания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "поинтересовался"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "жизнеспособность",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

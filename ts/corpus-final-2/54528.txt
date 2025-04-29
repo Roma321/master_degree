@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , Путин высказался за ускорение доработки и принятие ключевого для ытраны законопроектов , таких как Земельные кодекс и другие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ключевых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Земельный"
+    },
+    {
+      "correctReplacement": "разработки",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

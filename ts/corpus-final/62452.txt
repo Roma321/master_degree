@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , нашедшая найденная на дискетах вирусная программа содержала комментарий-угрозу , где говорилось : \"Ечли я не найду работу до конца месяца , меня запущу третий вирус , который уничтожают папки на жестких дисках\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "найденная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "я"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "уничтожает"
+    },
+    {
+      "correctReplacement": "\"Если",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

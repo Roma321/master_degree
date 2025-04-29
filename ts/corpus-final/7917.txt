@@ -1,0 +1,25 @@
+{
+  "text": "По словам его соседа по комнате , Мейерс не рак говорил , что ему ненавидит стариков и что их всех надо унмчтожить .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "раз"
+    },
+    {
+      "correctReplacement": "разах",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "уничтожить",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным пресс-центма , за последних двое суток в Чечне обезврежено 14 фугасов , установленных на дорогах и вблизи военным объектов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "последние"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "военных"
+    },
+    {
+      "correctReplacement": "пресс-центра",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

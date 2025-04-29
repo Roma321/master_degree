@@ -1,0 +1,25 @@
+{
+  "text": "мишель села Амурзет в Еврейской АО погиб при попытке похищенные цветные металлы с местной подстанцию , сообщаемый \"Интерфакс\" со ссылкой на источник в западных электросетях АО \"Хабаровскэнерго\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "похитить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "подстанции"
+    },
+    {
+      "correctReplacement": "Житель",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

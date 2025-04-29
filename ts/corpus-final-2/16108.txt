@@ -1,0 +1,25 @@
+{
+  "text": "В ходе оперативно-розыскных мероприятий ульяновскими оперативникам удался выйти на след преступников в столице , гще те пытали затеряться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ульяновским"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "пытались",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "где",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

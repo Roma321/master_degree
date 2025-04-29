@@ -1,0 +1,25 @@
+{
+  "text": "Комментируя ситуацию на предприятии , руководитель столичное департаментов науки и промышленной политики Евгений Пантелеев заметил , чтр реакция коллектива на отставку генеральных директора была \"вполне ожидаемой\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "департамента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "столичного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

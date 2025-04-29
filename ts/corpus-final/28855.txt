@@ -1,0 +1,30 @@
+{
+  "text": "Всего в России в связи с подозрением на диоксин была запрещу реализация 3 , 8 тысяч тоннах бельгийского мяса и кормов для животных , в том числе более 450тонн свинины , ввезённых в рамз продовольственной помощей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "запрещена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "ввезенных"
+    },
+    {
+      "correctReplacement": "рамках",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

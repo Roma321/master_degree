@@ -1,0 +1,20 @@
+{
+  "text": "Российская сторона рассчитывающий на списание 40 процентоф долга , в то время как кредиторы пока готовы согласиться лишь на 35 процента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассчитывает"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

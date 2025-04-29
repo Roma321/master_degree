@@ -1,0 +1,30 @@
+{
+  "text": "Президент России Владимир Путин предложил мировому сообществу постепенно отаазываться от использования в мирная ядерной энергетике основных материалов , из которых производился ядерное оружие , - обогащённого уранов и чистого плутония .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "урана"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "обогащенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "мирной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "производится"
+    },
+    {
+      "correctReplacement": "отказываться",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

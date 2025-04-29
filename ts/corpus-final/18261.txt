@@ -1,0 +1,20 @@
+{
+  "text": "Он могу выгнать шефа обладминистрации и премьер-министр , и больше никого .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "премьер-министра"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

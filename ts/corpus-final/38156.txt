@@ -1,0 +1,30 @@
+{
+  "text": "То же банк , по состоянию на 20 декабрей , владел 84 процентами акций Красноярского алюминиевой завода , сообщавшее Южанов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Тот"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "алюминиевого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "сообщило",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "А нервный финальное матч завершился со счетом 2 : 1 в пользу \"Лацио\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "финальный"
+    },
+    {
+      "correctReplacement": "первый",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

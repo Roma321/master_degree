@@ -1,0 +1,25 @@
+{
+  "text": "Однако , по слову представителе компании CommerceNet , провоженной исследование совместно с Neilsen Research Media , об Интернете до сих порч не слышали 1 , 6 миллиона человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "представителя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "проводившей"
+    },
+    {
+      "correctReplacement": "пор",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

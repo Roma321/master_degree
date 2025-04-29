@@ -1,0 +1,25 @@
+{
+  "text": "В то же время генеран предупредил , что армия Пакистана прекрасно вооружён и полностью готова защищать национальный суверенитету и территориальную целостность страну .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "суверенитет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "вооружена"
+    },
+    {
+      "correctReplacement": "генерал",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

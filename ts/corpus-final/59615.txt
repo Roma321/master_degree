@@ -1,0 +1,25 @@
+{
+  "text": "Объем золотовалютных резервов Центробанка РФ по состояниям на 28 апреля составило 17 , 1 миллиардов долларов , сообщает РИА \"Новости\" Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "состоянию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "составил"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

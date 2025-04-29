@@ -1,0 +1,25 @@
+{
+  "text": "Если в этот дню победитель не определюмь , через две недели пройдет второго тур выборов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "определится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "второй"
+    },
+    {
+      "correctReplacement": "определюсь",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

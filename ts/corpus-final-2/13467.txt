@@ -1,0 +1,25 @@
+{
+  "text": "В Кении произошла автокатастрофа : пассажирская автобус , в котором находилось около 60 человек , упал с мосте в районе город Меру , сообщал Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "моста"
+    }
+  ]
+}

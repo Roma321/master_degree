@@ -1,0 +1,30 @@
+{
+  "text": "Так , в Российском архиве древних акта находитесь монастырские записи , в Российскоы пространственных библиотеке - Синодальный архив Троице-Сергиевой Лавры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "актов"
+    },
+    {
+      "correctReplacement": "государственных",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "Российской",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако имелся директива Генштабов Вооруженных сил россини , согласно которой авиация и артиллерия не наносят удары по этим объектам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Генштаба"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "имеется"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

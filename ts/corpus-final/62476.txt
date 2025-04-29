@@ -1,0 +1,35 @@
+{
+  "text": "В Приволжская федеральный округ вошетшие республики Башкортостан , Марий Эл , Мордовия , Татарстан , Удмуртия , Чувашией , а также Кировское , общегородская , Оренбургская , Пензенская , Пермская , Самарская , Саратовская и Ульяновская области , Коми-Пермяцкий автономный округ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "войдут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Чувашия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Приволжский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Кировская"
+    },
+    {
+      "correctReplacement": "Нижегородская",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "вошедшие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

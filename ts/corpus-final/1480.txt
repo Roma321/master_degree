@@ -1,0 +1,30 @@
+{
+  "text": "В соглашениях о предоставлении услуги AOL сказан , что пользователям запрещено использовать нецензурную лексику , публично выражать антипатии , оснуём на национальном , расовом , половом и т . д . признаках , а также употреблять грубые выражения , связанные с сексуального ориентацией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "услуг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сказано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 41,
+      "correctReplacement": "сексуальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "соглашении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "основанные"
+    }
+  ]
+}

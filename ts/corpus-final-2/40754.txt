@@ -1,0 +1,25 @@
+{
+  "text": "По первым , пока еще прохладительным , данным , больше всего счастливых людей жил в Колумбии , тогда как в Великобритании доволен жизнью только каждым тридцатый опросивший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "опрошенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "живет"
+    },
+    {
+      "correctReplacement": "предварительным",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

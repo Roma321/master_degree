@@ -1,0 +1,25 @@
+{
+  "text": "По информацией из дипломатических источниках , сотрудники американских ведомсив по борьбе с терроризмом встретились с высокопоставленными представителями правительства талибов , контролируемого основную часть Афганистана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "источников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "контролирующего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "информации"
+    },
+    {
+      "correctReplacement": "ведомств",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

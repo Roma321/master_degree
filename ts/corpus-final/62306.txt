@@ -1,0 +1,40 @@
+{
+  "text": "На сегоднышних совещании , кроме текущих панов работ , речь , возможно , пойду о предстоящей утверждении в Госдуме кандидатур Касьянова на должность премьер-министра .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшнем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "кандидатуры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "работы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "предстоящем"
+    },
+    {
+      "correctReplacement": "планов",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "сегодняшних",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

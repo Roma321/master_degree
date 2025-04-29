@@ -1,0 +1,25 @@
+{
+  "text": "Президертом США направивший ее на Ближний Восток для участия в процессе урегулирования , о чем сам и сообщил журналистам по окончания встречи с израильским премьером .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "окончании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "направил"
+    },
+    {
+      "correctReplacement": "Президентом",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

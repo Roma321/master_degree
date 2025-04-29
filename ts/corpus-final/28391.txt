@@ -1,0 +1,25 @@
+{
+  "text": "Манилов категорически опровергло слухах о якобы существующем у федерального Центра плане завершить контртеррористическую операцию в Чечне до президпнтские выборов в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "слухи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "президентских"
+    },
+    {
+      "correctReplacement": "президентские",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

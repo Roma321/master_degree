@@ -1,0 +1,20 @@
+{
+  "text": "Верховный суд США заявил , что апелляция корпорации Microsoft должен рассматриваться в апелляционном суду , а не в высшем судебному органе , сообщает AP .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "должна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "судебном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "суде"
+    }
+  ]
+}

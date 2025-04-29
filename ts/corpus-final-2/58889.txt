@@ -1,0 +1,20 @@
+{
+  "text": "В барный момент , по сообщению представителей полиции , его обвиняете в шесть убийствах .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "шести"
+    },
+    {
+      "correctReplacement": "данный",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

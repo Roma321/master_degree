@@ -1,0 +1,30 @@
+{
+  "text": "Заместитель Генпрокурора сообщённый , что прокуратура республики Татарстан за аоследние три дедуль опротестовано около двадцати правовых акта , главный из которых - Конституция республики Татарстан .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "актов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "прокуратурой"
+    },
+    {
+      "correctReplacement": "недели",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

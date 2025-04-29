@@ -1,0 +1,20 @@
+{
+  "text": "Об этом в понедельник на брифинге в Доме правительсрва заявили глава Пенсионной фонда России (ПФР) Михаил Зурабов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Пенсионного"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

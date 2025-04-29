@@ -1,0 +1,25 @@
+{
+  "text": "В результате золотое и серебряная миндалям все равно остаются у румынских гимнасток Симоны Аманар и Марии Алару , а бронзовая медаль переходимый к китаянке Лю Сюань .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "переходит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "золотая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "медали"
+    },
+    {
+      "correctReplacement": "медалям",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

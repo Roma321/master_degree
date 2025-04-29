@@ -1,0 +1,20 @@
+{
+  "text": "Минувшей ночью в Гудермесе расстрелявшие двое чеченских милиционеров - отёкший и сына .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "расстреляны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сын"
+    },
+    {
+      "correctReplacement": "отец",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

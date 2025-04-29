@@ -1,0 +1,30 @@
+{
+  "text": "Гарсон примет окончательное решения по поводу меры пресечения в отношении Гусинского после получение ответа и изучения претставивших российского прокуратурой документов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "получения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "представленных"
+    },
+    {
+      "correctReplacement": "представивших",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

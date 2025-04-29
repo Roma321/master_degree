@@ -1,0 +1,20 @@
+{
+  "text": "Стороны не смогли прийти к соглашению , и в среду стстоялся первое слушание суда по слушанию этого дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дела"
+    },
+    {
+      "correctReplacement": "состоялся",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

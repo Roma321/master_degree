@@ -1,0 +1,35 @@
+{
+  "text": "Личный состав столичных УФСБ заблаговременно подготовились к работа в усиленном режиме , а сотрудники некоторых опнративных подразделений даже взяли у себя на избирательных участки открепительным талоны , чтобы проголосовать по месту несения службы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "участках"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "столичного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "подготовился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "открепительные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "работе"
+    },
+    {
+      "correctReplacement": "оперативных",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

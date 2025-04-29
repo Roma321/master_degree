@@ -1,0 +1,25 @@
+{
+  "text": "Такой образом , рост за неделю составлю 700 миллионов доллароф .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "correctReplacement": "образом",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

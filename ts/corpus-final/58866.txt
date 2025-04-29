@@ -1,0 +1,25 @@
+{
+  "text": "По мнению китайских официальных лиц , аукционы пытаемся пронзающие китайцам культурные ценности , украденный ранее из императорского дворца в Пекине английскими и францусскими солдатами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "украденные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "пытаются"
+    },
+    {
+      "correctReplacement": "продать",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "французскими",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

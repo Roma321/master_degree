@@ -1,0 +1,25 @@
+{
+  "text": "58 китайцев задохнулись в контейнеру зарегистрированной в Нидерландах грузовика , прибывшей на пароме в ереванский порт Дувр .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прибывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "зарегистрированного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "контейнере"
+    },
+    {
+      "correctReplacement": "британский",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Президент посетит Безенчукский район , где ознакомишься с новыми ресурсосберегающими технологияии хранений зерна , картофеля и кукуруз , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "ознакомится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "хранения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "кукурузы"
+    },
+    {
+      "correctReplacement": "технологиями",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня в Кремля ирошла встреча руководителя администрации президента РФ Александру Волошина и недавно избранной главой Карачаево-Черкесии Владимира Семенова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "избранного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Кремле"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Александра"
+    },
+    {
+      "correctReplacement": "прошла",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

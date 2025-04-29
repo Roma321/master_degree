@@ -1,0 +1,35 @@
+{
+  "text": "Кононов был осуждён Рижским судом на шесть лет тюремного заключения по обвинению в военных преступлениях , однако Верховный суды Латвии отправил уголовную дело бывшего партизана на доследование и изменивший его меру пресечения на подписку о невынзде .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "изменил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "невыезде",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

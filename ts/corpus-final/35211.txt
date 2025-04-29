@@ -1,0 +1,25 @@
+{
+  "text": "Он сообщу , в частности , чтж рост оптовых цен составленный в 1999 годуотносительно 1998 года - 1 , 6 раз , рост потребительскими цен -2 , 1 раза .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "потребительских"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Вице-спикера палаты Владимиры Жириновский заявивший , что эти карточки со времени последнего пленарных замыкания в прошлую пятницу оставался в зале на рабочих местах депутатов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вице-спикер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пленарного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "оставались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "заседания",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

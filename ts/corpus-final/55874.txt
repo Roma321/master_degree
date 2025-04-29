@@ -1,0 +1,20 @@
+{
+  "text": "Сегодня средний россиянах потреблял 100 лит алкогольных и безалкогольных напитков в год , немцы - 400 литров , французы - 280 литров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "россиян"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "потребляет"
+    },
+    {
+      "correctReplacement": "литров",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

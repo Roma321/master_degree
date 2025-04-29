@@ -1,0 +1,25 @@
+{
+  "text": "Знаменитый аргентинский футболисты Диего Армпндо Марадону был задержан сегодня вечером в римском международном аэропорту по обвинению в уклонении от уплаты налогов в особо крупных размерах , сообщаю ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "футболист"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Марадона"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Армандо",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

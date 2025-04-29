@@ -1,0 +1,25 @@
+{
+  "text": "Холдинг попыталась погасить задолженность межправительственными ценными бумагами , не банк отказавшийся их принять .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "попытался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "отказался"
+    },
+    {
+      "correctReplacement": "правительственными",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявивший сегодня журнаоистам председатель ЦИК Александром Вешняков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

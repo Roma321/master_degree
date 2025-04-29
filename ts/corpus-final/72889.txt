@@ -1,0 +1,25 @@
+{
+  "text": "О своей намерении участвовать в конкурсе на право вещания на третьей канал объявившие телекомпания \"ВИД\" , ЗАО \"АТВ-Продакшн\" , ООО \"РЕН-МЕДИА\" и телекомпания \"Московия\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "третьем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "объявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "канале"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "своем"
+    }
+  ]
+}

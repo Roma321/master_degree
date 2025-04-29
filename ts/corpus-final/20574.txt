@@ -1,0 +1,40 @@
+{
+  "text": "Председатель правительство РФ Владимир Путин согласился с этой критикой и поручивший министерствам связь наследившие рабочее взаимодействие с держателями доменных ьмен в зоне RU при выработке законодательства о регулировании доменного политики в этой зоне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "доменной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "министерству"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "наладить",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "имен",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , препятствие для одобрения слияния с AOL было устранены , р в среду положительный решение было приму .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "устранено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "положительное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

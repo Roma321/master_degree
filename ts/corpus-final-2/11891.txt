@@ -1,0 +1,25 @@
+{
+  "text": "Об этим , перрдает РИА \"Новости\" , заявил премьер-министр Михаил Касьяновы , открывая совещание со своими заместителями и ключевыми членами кабинета министрам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "министров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Касьянов"
+    },
+    {
+      "correctReplacement": "передает",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

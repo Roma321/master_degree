@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со смычкой на данными Мособлизбиркома , за Громова проголосовали 1 . 174 . 880 избирателей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "данные"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

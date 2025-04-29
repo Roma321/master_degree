@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей УФОР , в результата рикошета один серб был убита на месте и еще одно ранен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "КФОР",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

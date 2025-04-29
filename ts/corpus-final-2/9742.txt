@@ -1,0 +1,25 @@
+{
+  "text": "Азербайджан , Армения и Грузия получили средства на обустройства беженцев , а также на оказанием первичной медицинской помощи сельскому наслоению и вакцинацию матерей и детей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "оказание"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "обустройство"
+    },
+    {
+      "correctReplacement": "населению",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в Москве была обезырежу банда налетчиков , которая в течения нескольких месяцев грабила квартиры коммесантов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обезврежена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "обезврежу",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

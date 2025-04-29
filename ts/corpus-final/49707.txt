@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщённый журналистам по окончании cовете директороф вице-премьер Виктор Христенко , сегодняшнее рассмотрение концепции положившее начало серьёзной , большому разговору о развитии \"ЕЭС России\" и энергетики страны в целом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "положило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "cовета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "серьезному"
+    },
+    {
+      "correctReplacement": "директоров",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

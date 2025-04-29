@@ -1,0 +1,25 @@
+{
+  "text": "Предложившее направить 5 , 5 уилларда рублей из средств фондх на национального оборону .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "национальную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Предложено"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "фонда",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

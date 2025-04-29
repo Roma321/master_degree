@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщили агентство Associated Press , глава российского командования в Чечне генерал Виктор Казанцев заявил в воскресенья , что российские войска займём стратегически важная высоту на юном берегу Терека , примерно в 30 километрах к северу от Грозного .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "заняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "важную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "южном",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

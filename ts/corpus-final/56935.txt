@@ -1,0 +1,30 @@
+{
+  "text": "За минувшие сутки в Грозном обнаружено четыре склада с оружием , разминировавшие два объекта , которые боевикам подготовили к взрыву . Для перемещения по городу , обстрела позиции федеральных сил и минирования зданий бортики используют городскими коммуникации , утверждают военные .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "разминированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "городские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "позиций"
+    },
+    {
+      "correctReplacement": "боевики",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

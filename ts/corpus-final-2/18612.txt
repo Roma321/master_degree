@@ -1,0 +1,25 @@
+{
+  "text": "За ке высвобождение преступники требовал выкуп в размере восьми тысяч долларах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "требовали"
+    },
+    {
+      "correctReplacement": "освобождение",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "ее",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает \"Эхо Москвы\" , во вторник на Северный Кавказ отправляется комиссмю Советов федерации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Совета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "correctReplacement": "комиссию",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

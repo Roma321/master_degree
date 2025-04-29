@@ -1,0 +1,20 @@
+{
+  "text": "К сожалению , продолжающийся пожар не позволял специалистам МЧС приступить к своей основное работе - поиску пострадавшего , которых может быть до 80 человек , оставшихся под завалами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "основной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "позволяет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пострадавших"
+    }
+  ]
+}

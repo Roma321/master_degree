@@ -1,0 +1,30 @@
+{
+  "text": "После однократного подъема индексов акций американских высокотехнологичных компаний на торгах биржи Nasdaq в минувший вторник падению курсов онять возобновилась практически по всей фронту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "падение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "всему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "возобновилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "индекса"
+    },
+    {
+      "correctReplacement": "опять",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

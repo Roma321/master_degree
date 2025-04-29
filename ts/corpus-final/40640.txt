@@ -1,0 +1,30 @@
+{
+  "text": "Самый большой производитель нефти в мире - Саудовская Аравия - выступаешь за увеличение добычи нефтей , в то время как других страны - Иран , лилия и Алжиры - хотели бы сохранить нынешние ограничения по крайней меры до лета .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "выступает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "Алжир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "Ливия",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

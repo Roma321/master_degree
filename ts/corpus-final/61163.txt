@@ -1,0 +1,20 @@
+{
+  "text": "Радиостанция \"Эхо Москвы\" сообщила , что утром в четверга офис ее петербургским фискала \"Эхо Петербурга\" был ограблен .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "петербургского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "филиала",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

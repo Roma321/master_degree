@@ -1,0 +1,30 @@
+{
+  "text": "Полковник Джордж Трофимофф , уйду в отставку в 1995 году после 35 лет служб в американского армии , был обвинен в передаче военных секретов , знание которых позволяемое Советскому Союзу \"проникать\" в плапы американского военного командования и \"нейтрализовывать военные угрозы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "ушедший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "позволяло"
+    },
+    {
+      "correctReplacement": "планы",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

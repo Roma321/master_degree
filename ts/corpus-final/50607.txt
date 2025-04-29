@@ -1,0 +1,20 @@
+{
+  "text": "Предприятие занимался строительздвом бензоколонок и арендовавший помещение с ноября 1997 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "арендует"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "занимается"
+    },
+    {
+      "correctReplacement": "строительством",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

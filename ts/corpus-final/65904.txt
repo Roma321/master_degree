@@ -1,0 +1,20 @@
+{
+  "text": "26 мая с 12 : 00 до 20 : 00 по московскому веемён на сайте бесплатной почтовой службы Mail . Ru был проведена розыгрыш автомобиля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "проведен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "времени"
+    },
+    {
+      "correctReplacement": "времён",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

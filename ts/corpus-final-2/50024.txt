@@ -1,0 +1,35 @@
+{
+  "text": "На этом кладбище покоились останки многих знаменитых деятелей русской культуры , в том числе и самого Александра Галича - опального поэта , высланного в 1974 годы из страны и потухнувших при зэгадочных обстоятельствах в своей парижской квартире в 58-летней возрасте .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "покоятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "погибшего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 38,
+      "correctReplacement": "58-летнем"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "загадочных",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

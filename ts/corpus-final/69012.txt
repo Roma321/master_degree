@@ -1,0 +1,25 @@
+{
+  "text": "При старте и работе на холостом ходу , когда обычный автомобиль выдаёт особо грязный выхлгп , вместо бензиновых двигателя включались электромоторы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "включаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "бензинового"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "выдает"
+    },
+    {
+      "correctReplacement": "выхлоп",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

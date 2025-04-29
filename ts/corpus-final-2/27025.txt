@@ -1,0 +1,20 @@
+{
+  "text": "После дебатами оба претендента на место в сенате заявили , что оставшиеся довоенные своим выступлением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "дебатов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "остались"
+    },
+    {
+      "correctReplacement": "довольны",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

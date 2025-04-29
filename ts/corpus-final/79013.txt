@@ -1,0 +1,20 @@
+{
+  "text": "В результате этой экономического дисперсии французы потеряли более 40 миллиардоф франков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "экономической"
+    },
+    {
+      "correctReplacement": "диверсии",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

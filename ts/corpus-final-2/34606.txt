@@ -1,0 +1,20 @@
+{
+  "text": "Режиссёром - Стив Карр , производство фильма занималась компаня New Line Cinema .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "производством"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Режиссер"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

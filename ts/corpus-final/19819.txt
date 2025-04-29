@@ -1,0 +1,25 @@
+{
+  "text": "В ответ Украина может повышенные плату за транспортировку российмких энергоносителей по украинской территорию в Европой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Европу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "повысить"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

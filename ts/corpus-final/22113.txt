@@ -1,0 +1,20 @@
+{
+  "text": "Пресс-конференция генерального секретарю Интерпола Рэймонда Кендала состоявшаяся сегодгя в Женеве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "секретаря"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

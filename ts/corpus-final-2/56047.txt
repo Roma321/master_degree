@@ -1,0 +1,25 @@
+{
+  "text": "Приветствуемые российского лидера , архиепископ Владимирский и Суздальский Евлогия подчёркнутый , что \"президентское дело - эго большой крест\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Евлогий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Приветствуя"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Корпорация Microsoft распространённая в пятницу по электронной почте предупреждение пользователям сеющие Интернет в связи с участившисися в последние времена случаями рассылки от ее имени писем , содержащих \"троянские\" вирусы (trojans) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "распространила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "последнее"
+    },
+    {
+      "correctReplacement": "сети",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "участившимися",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

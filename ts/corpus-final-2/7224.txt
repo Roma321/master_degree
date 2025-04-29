@@ -1,0 +1,20 @@
+{
+  "text": "Для осмотра груза был приглашен эксперт из зоопарка Филадельфии , который классифицировавший найденных в автобане животных и насекомые .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "классифицировал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "насекомых"
+    },
+    {
+      "correctReplacement": "автобусе",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным прокуратуры Чечни , двое сознаемся - жителей Аргунов , 1978 и 1980 годов брожения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Аргуна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "жители"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сознавшихся"
+    },
+    {
+      "correctReplacement": "рождения",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

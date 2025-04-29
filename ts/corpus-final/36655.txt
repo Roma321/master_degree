@@ -1,0 +1,30 @@
+{
+  "text": "По оценке прокуратуры Фрунзенского района , гражданский суд не имел права выносить орошение по исковой заявлению Григория Пасько , поскольку сразу после вынесении ему приговора в июле 1999 года военной прокуратура Тихоокеанского флота подавшая протест , а адвокаты Пасько - жалобу в Военную коллегию Верховного суда .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "военная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "подала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "вынесения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "исковому"
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

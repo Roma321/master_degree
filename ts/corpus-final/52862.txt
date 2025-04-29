@@ -1,0 +1,20 @@
+{
+  "text": "Правоохранителбным органу не удались установить номер телефона , с которого звонил \"террорист\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "органам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "Правоохранительным",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

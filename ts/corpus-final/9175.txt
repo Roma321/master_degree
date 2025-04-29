@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу заместителю министра РФ по атомной энергии Евгений Федоров заявлю , что Минатом России усиливает меры по забившей подведомстаенных министерству ядерных объектов с учетом роста угроз терроризма в стране .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "угрозы"
+    },
+    {
+      "correctReplacement": "защите",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "подведомственных",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

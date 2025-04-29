@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям агентства РБК , еще два человека также могут находиться под завалом на третьих эташ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "третьем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "этаже"
+    },
+    {
+      "correctReplacement": "этаж",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

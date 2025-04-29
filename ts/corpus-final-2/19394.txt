@@ -1,0 +1,30 @@
+{
+  "text": "На месте событий пожарные сделали заявление корееспонденту Lenta . Ru , в котором отмечалось , что большинство пожары приходится именно на осенним время года , когда люди начинают пользоваться самодельными и неисправными электронагревательными приборами , что и приводящий к пожарам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "осеннее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "пожаров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 37,
+      "correctReplacement": "приводит"
+    },
+    {
+      "correctReplacement": "событий",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "корреспонденту",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

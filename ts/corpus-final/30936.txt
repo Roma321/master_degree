@@ -1,0 +1,25 @@
+{
+  "text": "Однако , как сообщил \"Интерфаксу\" адвокат Морозова Владимиры Левин , с 1 февраля его подзащитный объявили бессрочную голодовку , требуу , чтобы ему была предоставлена возможность до концу ознакомиться с материалами уголовного дела .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "конца"
+    },
+    {
+      "correctReplacement": "требуя",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако персональное сайт Пименовых в Интернете (пь фотографии на этом сайте он и был обнаружен) сегодня оказался блокирован .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Пименова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "персональный"
+    },
+    {
+      "correctReplacement": "(по",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник , 11 январь , на Московской межбанковской валютной бирже (ММВБ) при отбытии единой торговым сессии котировки доллара поднялись до 29 рублей за доллар , сообщает агентство РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "торговой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "открытии",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

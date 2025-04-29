@@ -1,0 +1,30 @@
+{
+  "text": "По биению руководств МВД , государственная монополия позволит предотвратить хищения цветных металлов , а тагже пресечённые отток национального достояния за рубеж и в определенной мерой стабилизировать работу отечественной промышленности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "руководства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пресечь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "мере"
+    },
+    {
+      "correctReplacement": "мнению",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

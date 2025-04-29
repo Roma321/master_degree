@@ -1,0 +1,25 @@
+{
+  "text": "Но фскоре British Airways возобновлю полеты после проверки всего своих лайнеров - в среду утром самолет Concorde успешно прилетел из Лондона в Нью-Йорк .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возобновила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "вскоре",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

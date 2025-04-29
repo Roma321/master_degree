@@ -1,0 +1,20 @@
+{
+  "text": "96% пользоватеюей \"купились\" на фальшивое логотип фирмы BT , 91% — на ненастоящих Visa , и 89% — на липовую Virgin .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ненастоящую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "фальшивый"
+    },
+    {
+      "correctReplacement": "пользователей",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

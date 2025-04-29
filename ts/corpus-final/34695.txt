@@ -1,0 +1,20 @@
+{
+  "text": "На доях спортсменом вернулся из Узбекистана , где в течение двух недель тренировалась сильнейшая пятёрки борцов-тяжеловесов России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "спортсмен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пятерка"
+    },
+    {
+      "correctReplacement": "днях",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

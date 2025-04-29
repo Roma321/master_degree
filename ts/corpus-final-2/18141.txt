@@ -1,0 +1,20 @@
+{
+  "text": "Милиционеры выясняете , мак бочка с ядом могла попастб на улицу .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "выясняют"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "попасть",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

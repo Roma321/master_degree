@@ -1,0 +1,30 @@
+{
+  "text": "В ходе первых допросов задержанный подтвердила своё участие в боевых действиях к составе вооруженных формирования Руслана Гелаевой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "формирований"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Гелаева"
+    },
+    {
+      "correctReplacement": "свое",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

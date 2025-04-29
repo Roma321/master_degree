@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщу во вторник председатель Госдумы Геннадий Селезнёв , выступав на создании сотрудников аппарата нижней палаты парламента по итогам их работы в 2000 году .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Селезнев"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "выступая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "собрании",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

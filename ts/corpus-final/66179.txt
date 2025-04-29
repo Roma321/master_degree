@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что взрывы в продуктовой отделе и в отделе косметики универмага Stockmann , расположенного в цснтре Таллину , прозвучали в 5 : 00 утра 19 мая .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Таллина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "продуктовом"
+    },
+    {
+      "correctReplacement": "центре",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

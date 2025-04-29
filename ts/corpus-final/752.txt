@@ -1,0 +1,25 @@
+{
+  "text": "В результатах двое человечек погибшие , многие были ранены во времена взрывов бомб , заложенных в автомобили .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В четверг кьло 2 часов ночи в аэропорту \"Шереметьево-1\" был обнаружен предмет , напоминающий взрывную устройство , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "коло",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

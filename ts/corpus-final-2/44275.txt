@@ -1,0 +1,25 @@
+{
+  "text": "Чиновники объясняющие появление новых услуг тем , что традиционные почтовые услуги уступаете мпсту электронной почте и телефону .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "объясняют"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "уступают"
+    },
+    {
+      "correctReplacement": "месту",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

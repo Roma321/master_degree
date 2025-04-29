@@ -1,0 +1,25 @@
+{
+  "text": "Как полагали депутаты , отвёрнутый правительствами список товаров , уже существенно сократился Ю",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "правительством"
+    },
+    {
+      "correctReplacement": "утвержденный",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

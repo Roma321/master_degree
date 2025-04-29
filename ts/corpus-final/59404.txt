@@ -1,0 +1,25 @@
+{
+  "text": "По данным правоохранительных органов , Шайхеев был застрелена в первом часу ночей , при выходе из машины у своей дом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "застрелен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ночи"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

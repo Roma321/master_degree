@@ -1,0 +1,30 @@
+{
+  "text": "В частность , по его словам , если в ыелом по стране отмечался роста реальных доходов населения , то на Камчатке доходы снижаетесь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "рост"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "снижаются"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "correctReplacement": "целом",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

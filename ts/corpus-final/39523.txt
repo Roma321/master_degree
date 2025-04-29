@@ -1,0 +1,35 @@
+{
+  "text": "Консул подчаркнул , что действовавшее соглашение о безвизовых поездках граждан Украины и России не содержит нормы об обязательной регистрация и уплатам ежемесячное денежного налога за пропитание .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "действующее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "ежемесячного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "регистрации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "уплате"
+    },
+    {
+      "correctReplacement": "проживание",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "подчеркнул",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

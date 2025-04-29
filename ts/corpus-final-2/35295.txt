@@ -1,0 +1,20 @@
+{
+  "text": "Крупнейшей российская нефтяная компания \"ЛУКОЙЛ\" купила америаанскую сеть бензозаправочного станций Getty Petroleum Marketing - соответствующий контракт подписан в четверг 2 ноября в генеральном консульстве РФ в Нью-Йорке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "бензозаправочных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Крупнейшая"
+    },
+    {
+      "correctReplacement": "американскую",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

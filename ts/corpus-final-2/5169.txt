@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили в Управление МВД РФ по борьбе с преступностью в сере высоких техгологий , телефон мошенника был подключен сразу к четырем чужим номерам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Управлении"
+    },
+    {
+      "correctReplacement": "сфере",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "технологий",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

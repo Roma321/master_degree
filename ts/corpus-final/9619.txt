@@ -1,0 +1,20 @@
+{
+  "text": "По утверждению ФБР , человек , подозреваемый в подкладывании бомбы в магазины Lowe's Home Improvement и вымогательстве , был пойман в результате проведения мониторинга использоваоия им электронной почты в бесплатной попсовой службе Hotmail , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "бомб"
+    },
+    {
+      "correctReplacement": "почтовой",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "использования",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

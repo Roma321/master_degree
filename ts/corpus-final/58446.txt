@@ -1,0 +1,35 @@
+{
+  "text": "Панель памяти , используемый в различной продукция Sony , от жировых камер до последней модели аудиоплейера Walkman , претставляет собой устройству весом в 4 грамма и размером с жевательных резинку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "жевательную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "используемая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "продукции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "устройство"
+    },
+    {
+      "correctReplacement": "цифровых",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "представляет",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

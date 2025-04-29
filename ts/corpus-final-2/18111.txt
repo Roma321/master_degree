@@ -1,0 +1,20 @@
+{
+  "text": "Аль Пачино привезу на фестиваль в Торонто своё новый фильм \"Китайский кофе\" , в котором он притупивший режиссером и исполнителем главной роли .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "привез"
+    },
+    {
+      "correctReplacement": "выступил",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

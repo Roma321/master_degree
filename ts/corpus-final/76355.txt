@@ -1,0 +1,30 @@
+{
+  "text": "На конец 1998 года доля иностранных акционеров воставляю 4 , 48 процентов , а к концу прошлого года она увеличились до 10 , 31 процента , говоришься в отчете .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "увеличилась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "составляла"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "говорится"
+    },
+    {
+      "correctReplacement": "составляю",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

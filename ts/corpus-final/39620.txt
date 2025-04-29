@@ -1,0 +1,20 @@
+{
+  "text": "В компании Sony рассчитывает , что только за первые два дня будет реализовано не менее триллиона игрового приставок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "игровых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "рассчитывают"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

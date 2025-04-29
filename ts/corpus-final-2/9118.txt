@@ -1,0 +1,25 @@
+{
+  "text": "По его данным , ольше фсего нарушений в Юго-западной , Северо-Восточном округах и в Зеленограде , где ни одна из проверенных точек не пройду удовлетворительной проверки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "прошла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Юго-Западном"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "всего",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

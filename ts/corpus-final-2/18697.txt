@@ -1,0 +1,25 @@
+{
+  "text": "Договоренность о начале переговоров быоа достигнута в входу встречи между Бен Ами и помощником президента США по вопросам национальной безопасности Сэмюэлем Бергером , проходившей в среду в Вашингтоном .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Вашингтоне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "ходу",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

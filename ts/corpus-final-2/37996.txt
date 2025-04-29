@@ -1,0 +1,20 @@
+{
+  "text": "По их словам , перестрелка в Хевроне возникла после того , как арамов открывшие огонь по еврейскому кварталу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "арабы"
+    },
+    {
+      "correctReplacement": "арабов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

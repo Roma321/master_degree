@@ -1,0 +1,30 @@
+{
+  "text": "Именно на эту сумму направлю иск о взыскании авторское награждения в пользу 13 членоф общества - авторов музыки и текстов песен к фильмах \"Мама\" и \"Сибирский цирюльник\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "авторского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "направлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "фильмам"
+    },
+    {
+      "correctReplacement": "вознаграждения",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "членов",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

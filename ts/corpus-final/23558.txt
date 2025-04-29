@@ -1,0 +1,25 @@
+{
+  "text": "Голлантские власти предполагающие , что гриппом в ближайшие недели переболеетпятое чающая населения страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "переболеетпятая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "предполагают"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Голландские",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Палате претставителей нежданная \"признание в любви\" , наоборот , нанесло миндальный ущерб , хотя там были стерты \"сотни тысяч\" копий вируса , добавляет CNN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "нежданное"
+    },
+    {
+      "correctReplacement": "минимальный",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

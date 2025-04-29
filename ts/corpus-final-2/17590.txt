@@ -1,0 +1,25 @@
+{
+  "text": "В среду же ф Санкт-петербургом Клебанов проведет очередное заседание правительственной комиссии по расследованию причин гибели субмарины , унесу жизни 118 подводников , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "унесшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Санкт-Петербурге"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

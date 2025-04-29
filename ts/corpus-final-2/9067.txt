@@ -1,0 +1,30 @@
+{
+  "text": "Experience Hendrix - компания , состоявшая из девственников музыканта и владеющая всеми авторские правами на творчество Джими Хендрикса , судилась с Дэнни Хаммертоном из Миннеол , который зарегистрировал этот домен на свою имя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Миннеолы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "состоящая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "авторскими"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "свое"
+    },
+    {
+      "correctReplacement": "родственников",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

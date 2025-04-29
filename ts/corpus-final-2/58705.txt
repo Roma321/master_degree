@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты достаюц они из водопроводу , моют и хранят , чтобы потом вернуть хозяевам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "их"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "водопровода"
+    },
+    {
+      "correctReplacement": "достают",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

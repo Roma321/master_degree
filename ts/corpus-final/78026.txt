@@ -1,0 +1,20 @@
+{
+  "text": "В городе был введён план \"Перехват\" , однако привел ли он к какой-нибудь результату , пока не известно . � силам в Чечне противостоит до полутора тысячи боеваков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "введен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "какому-нибудь"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

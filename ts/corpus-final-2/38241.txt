@@ -1,0 +1,30 @@
+{
+  "text": "Величина прожиточного минимума рассчитана по итогу кретина квартала и стал базового для оценки уровня жизни и начисления минимальных размеров оплаты и пенсии , а также для определения размеров стипендиях и других социальных выплат .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "базовой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "стипендий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "итогам"
+    },
+    {
+      "correctReplacement": "третьего",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

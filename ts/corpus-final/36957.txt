@@ -1,0 +1,30 @@
+{
+  "text": "В на местом происшествия работающие спасательные службы , бригадиры пожарной охраны , представители правоохранительных органов , комиссией железнодорожных компании .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "железнодорожной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "correctReplacement": "бригады",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

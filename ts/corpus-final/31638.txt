@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшний день аленами Лондонского клуба являются более 400 западных коммерческих банков , кредитовавших ряд стран , в том числе и бывшая СССР , без оосударственных гарантий .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "членами",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "государственных",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

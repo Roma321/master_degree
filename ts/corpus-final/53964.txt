@@ -1,0 +1,35 @@
+{
+  "text": "По мнению экспертов , особым достоинства созданного структуры является возможности отслеживать тенденция в нарушениях компьютерной безопасности и , таким образоа , превентивно разрабатывать меры борьбы с них .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "созданной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "ними"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "достоинством"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тенденции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "возможность"
+    },
+    {
+      "correctReplacement": "образом",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

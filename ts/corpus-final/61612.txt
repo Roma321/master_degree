@@ -1,0 +1,25 @@
+{
+  "text": "На 16 мая намечен митинг около здания столичной мэрии в Москве в защиту студийных рынков , организую регпональным общественному движением \"Рыночная торговля и малое предпринимательство\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "общественным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "организуемый"
+    },
+    {
+      "correctReplacement": "столичных",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "региональным",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

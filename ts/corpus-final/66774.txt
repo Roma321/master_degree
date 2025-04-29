@@ -1,0 +1,20 @@
+{
+  "text": "Пт оценкам врачей , состояние доставленного в центральнуюреспубликанского больницу Анатолия Тугова тяжёлое .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "центральнуюреспубликанскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "тяжелое"
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

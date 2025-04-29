@@ -1,0 +1,25 @@
+{
+  "text": "Уже в первом периодах будние чемпионы мира сделали серьёзного заявку на победу , забросившие три шайбы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "серьезную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "забросив"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "периоде"
+    },
+    {
+      "correctReplacement": "будущие",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Эта группу людей , по словам Березофского , будет являться юридическим лицом , с которым будет заключу договор о безвозмездных передача акций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "группа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "передаче"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "заключен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "безвозмездной"
+    },
+    {
+      "correctReplacement": "Березовского",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как ожидается , в нем примет участие глава администрации Чечни Ахмады Чадыров , руководитель министерств и ведомств , а также предсказатели СМИ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Ахмад"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "руководители"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "Кадыров",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

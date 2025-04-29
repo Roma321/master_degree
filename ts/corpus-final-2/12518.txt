@@ -1,0 +1,25 @@
+{
+  "text": "Суд оставгенный в силе решение Высшей квалификационного коллегии судей от 20 июня о досрочном прекращении полномочий Локтионовой и лишениях ее судейской квалификации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "квалификационной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "оставил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "лишении"
+    },
+    {
+      "correctReplacement": "оставленный",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Как заявлю во втбрник заместитель председателя Департаментом по рыболовству Министерств сельского хозяйства России Владимир Измайлов , производство икры с 1990 года ежегодно сокращался в результате загрязнения окружающей среды и браконьерства , сообщает агентство Associated Press со ссылкой на Интерфакс .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Департамента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "сокращается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "correctReplacement": "среды",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

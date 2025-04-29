@@ -1,0 +1,25 @@
+{
+  "text": "Лидирующие позиции в рейтинге занимаемые компании информационных технологии - эта отрасль представлена 10 кампаниями из 50-ти Д",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "занимают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "технологий"
+    },
+    {
+      "correctReplacement": "компаниями",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Московское прокуратура продолжает расследование уголовного дела , возбужденного после дорожно-транспортного происшествия на Кутузовском прожекте , произошедшего 11 сентября во времена следования по проепекту президентского кортежа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Московская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "проспекте",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "проспекту",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

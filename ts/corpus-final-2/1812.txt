@@ -1,0 +1,25 @@
+{
+  "text": "Прошлогодний обладатель почетного трофея - итальянцы вновь выиграли престижный турнир , одолевшие в пятом сетах дискретной матча в Роттердаме команду России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "одолев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "воскресного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сете"
+    },
+    {
+      "correctReplacement": "воскресной",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

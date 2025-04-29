@@ -1,0 +1,20 @@
+{
+  "text": "В соответствиях с решением одного из нигерийских судов , международной нефтянка компании Royal Dutch/Shell необходимо выплатить местным жителям 40 миллионов долларов в качестве компенсации за ущерб , причиненный аварией , в результате которой разлились нефть , сообщает BBC News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "соответствии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "разлилась"
+    },
+    {
+      "correctReplacement": "нефтяной",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

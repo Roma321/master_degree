@@ -1,0 +1,25 @@
+{
+  "text": "После этого террористы скрылись на автомобиле , который был фпоследствии нашедший сгоревшей неподалёку от места преступления .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "сгоревшим"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "найден"
+    },
+    {
+      "correctReplacement": "неподалеку",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "впоследствии",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ходе операции было возьуждено 38 уголовных дел , составлена свыше трех тысяч административных протокола , наложено штрафы на два миллиона рублей , арестовано имущества на 130 тысяч , перечислившее в бюджеты разных уровней девять миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "протоколов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "штрафов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "перечислено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "составлено"
+    },
+    {
+      "correctReplacement": "возбуждено",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

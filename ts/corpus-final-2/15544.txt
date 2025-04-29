@@ -1,0 +1,20 @@
+{
+  "text": "Лечением Хуссейна запыхаемся пять европейских врачей - три француза , немце и швед .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "немец"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "занимаются"
+    },
+    {
+      "correctReplacement": "занимаемся",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

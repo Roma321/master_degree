@@ -1,0 +1,25 @@
+{
+  "text": "По данным правоохранительные органов , Бекаев имеет тесный связь с националистпческой украинской организацией УНА-УНСО , многие члены которой воевали в Чечне на стороне боевиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тесные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "националистической",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

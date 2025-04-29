@@ -1,0 +1,25 @@
+{
+  "text": "Как передаваемый РИА \"Новости\" , тако решение приняты из-за болезни судьи Катьяны Губановой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "такое",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Татьяны",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

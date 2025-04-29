@@ -1,0 +1,30 @@
+{
+  "text": "Ы Соединенных Штатах Америки травилось информация о некой правительственной системе под названием Carnivore , которая предназначены для того , чтобы следить за электронной почтой , сообщаемый газета Washington Post .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "предназначена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "появилась"
+    },
+    {
+      "correctReplacement": "появилось",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили Reuters в полиции Цюриха , при взрыве никто не пострадал , помещению офиса был нанесён многозначительный ущерб . по сведениям газеты Jerusalem Post , тем же утром офис возобновил приёму посетителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "нанесен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "прием"
+    },
+    {
+      "correctReplacement": "незначительный",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

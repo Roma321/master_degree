@@ -1,0 +1,20 @@
+{
+  "text": "Он отметил , что уголовное дело , по которому арестовафший Гусинского , расследуется уже два года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Гусинский"
+    },
+    {
+      "correctReplacement": "арестовавший",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

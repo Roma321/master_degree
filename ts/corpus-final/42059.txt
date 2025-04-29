@@ -1,0 +1,25 @@
+{
+  "text": "Вчего в выборах принял участие 41 , 2 процента от 162 тысяч социально зарегистрировавших избирателей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "зарегистрированных"
+    },
+    {
+      "correctReplacement": "официально",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Всего",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

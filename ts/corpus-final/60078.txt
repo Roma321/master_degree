@@ -1,0 +1,25 @@
+{
+  "text": "В настоящую время известно девять версиях вируса - если первое маскировалась под любовное послание , то новые имитируют присланные по почте шутки , приглашению на чашку кофе и счет за подарки , заказанные к празднику .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "приглашение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "первая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "версий"
+    }
+  ]
+}

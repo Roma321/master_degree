@@ -1,0 +1,25 @@
+{
+  "text": "В этом голы в голосовании примем участию более 35 тысяч человек из всех регионов РФ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "участие"
+    },
+    {
+      "correctReplacement": "годы",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

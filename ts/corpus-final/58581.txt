@@ -1,0 +1,20 @@
+{
+  "text": "Обстоятельства происшествия пока неясны , однако полицейская собака обнадёженная осколки гранатам югославкого производства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "гранаты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "correctReplacement": "обнаруженная",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

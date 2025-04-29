@@ -1,0 +1,20 @@
+{
+  "text": "Одна миллион долларов будет погашен в конце апреля , остальные будут выплачиваться до конце июля по согласованному ранее графику .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "конца"
+    },
+    {
+      "correctReplacement": "июня",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

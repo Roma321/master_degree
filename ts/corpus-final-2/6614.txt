@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время в России проживаю тколо 37 милтонов пенсионерам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пенсионеров"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "проживает"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "около",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Полностью разрушен стекольный завод в городке Хеллы , сотни домов выглядят бак , словно в них попали бомбу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "бомбы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Хелла"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

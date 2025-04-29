@@ -1,0 +1,30 @@
+{
+  "text": "Вместе со смещённым премьер-министром Пакистана Навазом Шарифом , который находишься под стражей , под домашний арест сегодня также были взяты все остальные члены возглавляемых им правительства , - сообщаемый CNN со ссылкой на источниках в официальном Вашингтоне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "смещенным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "источники"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "возглавляемого"
+    }
+  ]
+}

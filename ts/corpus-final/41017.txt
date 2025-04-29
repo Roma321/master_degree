@@ -1,0 +1,25 @@
+{
+  "text": "Он выразило сожаление в связи с тем , что Сергей Степашин отказался от участий в выборах губернатора Санкт-петербургоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "выразил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "участия"
+    },
+    {
+      "correctReplacement": "Санкт-петербургов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

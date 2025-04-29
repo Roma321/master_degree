@@ -1,0 +1,25 @@
+{
+  "text": "Ем также библиотека , компьютерные комната , помещенир для богослужений , спортзал и многое другая .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "другое"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "компьютерная"
+    },
+    {
+      "correctReplacement": "помещение",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

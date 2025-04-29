@@ -1,0 +1,20 @@
+{
+  "text": "подле этого состоялся допросы и ему были предъявлены новые обвинения с увеличение объема совершенных преступлений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "увеличением"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "допрос"
+    },
+    {
+      "correctReplacement": "После",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

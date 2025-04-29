@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что 17 сентября Госдума приняларешение лишить Владимира калиновского прававыступать на пленарных заседаниях в течение месяц занекорректноро поведение в отношения ряда депутатов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "отношение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "занекорректное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "месяца"
+    },
+    {
+      "correctReplacement": "Жириновского",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "занекорректного",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

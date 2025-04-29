@@ -1,0 +1,20 @@
+{
+  "text": "Один из танкисты , пытаясь поймать то , что ему бросили , одвлекся от управления машиной и потерял нат ней контроль .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "танкистов"
+    },
+    {
+      "correctReplacement": "над",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "отвлекся",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

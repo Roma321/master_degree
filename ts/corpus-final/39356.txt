@@ -1,0 +1,30 @@
+{
+  "text": "Сам Клинтон , невзирая на большего разницу в преступлениях о бюджетах между демократами и республиканцами , надеются на то , что в конце концов они договорившиеся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "надеется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "бюджете"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "договорятся"
+    },
+    {
+      "correctReplacement": "представлениях",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

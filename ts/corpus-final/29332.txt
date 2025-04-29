@@ -1,0 +1,25 @@
+{
+  "text": "По данным ангарского газеп , кафе были закрыты потому , что их владельцы не получили государственными лицензий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "шанхайских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "государственных"
+    },
+    {
+      "correctReplacement": "шанхайского",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "газет",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

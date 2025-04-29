@@ -1,0 +1,20 @@
+{
+  "text": "Еще шесть сотрудников спецназа получифшие ранения различного степени тяжести .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "различной"
+    },
+    {
+      "correctReplacement": "получившие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

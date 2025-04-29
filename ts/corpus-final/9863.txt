@@ -1,0 +1,15 @@
+{
+  "text": "Два чеьовеку погибли , по меньшей мере 29 пострадали .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "человека"
+    },
+    {
+      "correctReplacement": "человеку",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

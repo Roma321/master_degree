@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник , 30 октября , возле горотка Порто-вели , стоящего на одной из притоков Амазонки , в 2900 километрах к северо-западу от Рио-де-Жанейро , погиб офицер местной полиции , передает Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Порто-Вело"
+    },
+    {
+      "correctReplacement": "городка",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

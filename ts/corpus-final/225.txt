@@ -1,0 +1,25 @@
+{
+  "text": "Террористическая группа , активированный в Астраханской области , состояфшая из двух человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "состояла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ликвидированная"
+    },
+    {
+      "correctReplacement": "ликвидированный",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "состоявшая",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

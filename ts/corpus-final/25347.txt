@@ -1,0 +1,20 @@
+{
+  "text": "Приминусовой температура это грозит обледенением и дальнейшими обрывом проводов линтй электропередач .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дальнейшим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "температуре"
+    },
+    {
+      "correctReplacement": "линий",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

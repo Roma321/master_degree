@@ -1,0 +1,20 @@
+{
+  "text": "Строительстве первого блок реактора ВВЭР-1000 мощностью 1 млн кФт должно занять 62 месяца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Строительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "блока"
+    },
+    {
+      "correctReplacement": "кВт",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

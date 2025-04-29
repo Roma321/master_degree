@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщённые РИА \"Новости\" в правоохранительных органах столицы , преступление совершено на улице орбитальный вале возле дома 10/12 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "вал"
+    },
+    {
+      "correctReplacement": "Госпитальный",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

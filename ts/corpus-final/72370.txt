@@ -1,0 +1,25 @@
+{
+  "text": "Суд американского штата Орегон вт вторник отклонило иск против компании Microsoft , обвиняющейся в неоправданной завышении цен на операционную систему Windows 98 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "обвинявшейся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "неоправданном"
+    },
+    {
+      "correctReplacement": "во",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

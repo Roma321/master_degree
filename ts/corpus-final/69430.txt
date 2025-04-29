@@ -1,0 +1,30 @@
+{
+  "text": "Это сделано в связи с тем , что ранее дейздвующие правило взаимных поездки тактично устарели .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "поездок"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "действовавшие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "правила"
+    },
+    {
+      "correctReplacement": "частично",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "действующие",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Танкеры предназначившие для работы в маре Севера России и будут использоваться компанией для перевозки сырья с месторождения Крайней Севера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предназначены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Крайнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "месторождений"
+    },
+    {
+      "correctReplacement": "морях",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

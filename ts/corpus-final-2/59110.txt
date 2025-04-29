@@ -1,0 +1,30 @@
+{
+  "text": "Генерального прокурор США выраженный удовлетворение ходом судебного разбирательства и заявил в этой вязи , что процесс должны служить предостережением всем тем , кто вздумал незаконно проникнуть а американские вычислительные сети .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выразил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "вздумает"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

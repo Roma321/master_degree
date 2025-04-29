@@ -1,0 +1,25 @@
+{
+  "text": "Он намерен суцтиться с кандидатом в президенты США Джорджами Буш , представителями нынешней администрации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Бушем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Джорджем"
+    },
+    {
+      "correctReplacement": "встретиться",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "суетиться",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

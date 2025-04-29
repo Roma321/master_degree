@@ -1,0 +1,20 @@
+{
+  "text": "Один из лидеров движения - Сун Юшен - приговоривший п 12 годам тюрем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "тюрьмы"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

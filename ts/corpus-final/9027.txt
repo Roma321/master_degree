@@ -1,0 +1,25 @@
+{
+  "text": "Заметите в скобках , что вся деятельность по подготовке различных систем к наступлению Новой года за последние гуд обошлась США в 100 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Нового"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Заметим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "годы"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

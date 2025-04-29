@@ -1,0 +1,20 @@
+{
+  "text": "Согласно заявления предоставивших торговой сети , указанные компьютеры работали в нештатных режиме и имели неадекватные характеристики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлениям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нештатном"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

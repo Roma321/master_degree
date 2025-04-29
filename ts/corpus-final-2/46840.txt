@@ -1,0 +1,30 @@
+{
+  "text": "Астрономы из университета в Аризоне открыли новым небеснуя тело в Солнечных системе , которое , по их предположениям , является малой планетами (крупным астероидом) , то есть еще одной планетой системы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "небесное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Солнечной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "планетой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "новое"
+    },
+    {
+      "correctReplacement": "небесная",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь корреспондент Lenta . Ru , место происшествия тут же окружило толпа возбужденных и неррезвых болельщиков в количестве коло 20 человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "окружила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "нетрезвых",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

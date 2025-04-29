@@ -1,0 +1,20 @@
+{
+  "text": "В среды в подмосковном городе Долгопрудный 19-летний сыну в пьяном угаре захватил в заложницы свою мать , сообзает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сын"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

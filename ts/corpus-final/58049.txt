@@ -1,0 +1,20 @@
+{
+  "text": "АЭС в Ловиису , что к востоку от Хельсиеки , была построена в сотрудничестве с Советской Союзом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Ловиисе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Советским"
+    },
+    {
+      "correctReplacement": "Хельсинки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

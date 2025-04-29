@@ -1,0 +1,20 @@
+{
+  "text": "На тразиционное новогодний обращение президента России к народу компания Яndex предлагаешь ответить новогодним обращением народа России к президенту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "новогоднее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "предлагает"
+    },
+    {
+      "correctReplacement": "традиционное",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

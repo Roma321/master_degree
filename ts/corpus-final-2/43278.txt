@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно аресп снят еще с 25 процентов акций компаний \"Медиа-Мост\" , которые будут переданы в налог в качестве гарантий погашения вторых кредита в 262 миллиона доллары .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "второго"
+    },
+    {
+      "correctReplacement": "залог",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "арест",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

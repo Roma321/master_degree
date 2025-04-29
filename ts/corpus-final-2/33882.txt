@@ -1,0 +1,30 @@
+{
+  "text": "Медицинские заключений на 35 листы подтверждали наличие у Поупа заболевания , называли его диагноз и подтверждавшие , что в связей с этим заболеванием Поупу уже были сделавшие две операции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "листах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "сделаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "заключения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "подтверждали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "связи"
+    }
+  ]
+}

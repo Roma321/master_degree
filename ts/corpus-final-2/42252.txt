@@ -1,0 +1,20 @@
+{
+  "text": "Ограбленные инкассаторы запомнившие номер автомобиля Nissan , но в результате проверки выяснилось , что номерной знак украдены с другого машины .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "запомнили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "украден"
+    }
+  ]
+}

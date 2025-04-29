@@ -1,0 +1,20 @@
+{
+  "text": "Агентство Reuters предоставлю информацию о котировках ценных бумаг на российском фордовом рынке , ленту новостей , а также индикаторы игровых финансовых рынков .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "предоставило"
+    },
+    {
+      "correctReplacement": "мировых",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "фондовом",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

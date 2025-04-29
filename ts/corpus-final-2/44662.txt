@@ -1,0 +1,30 @@
+{
+  "text": "В концовке матча , при ычете 3 : 3 во второй сете , Сафин сначала выигравший подачу австралийца , затем проигранный свою , а потом вновь выиграю чужую .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "проиграл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "втором"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "correctReplacement": "счете",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщившая РИА \"Новости\" руководитель пресс-службы правительства КЧР Ирина Мягкова , на площади в настоящему момент находится уже около 1 , 5 тысячи человека .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "человек"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам кубинских властей , они дадим знающие береговую охране США , что 22 ноября группа кубинцеф поплыву к Флориде .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "дали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "поплыла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "знать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "береговой"
+    },
+    {
+      "correctReplacement": "кубинцев",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

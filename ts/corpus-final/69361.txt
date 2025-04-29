@@ -1,0 +1,20 @@
+{
+  "text": "Отстраненный от должности Ермилоф в настоящее время находится в больницах после сердечным приступа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "больнице"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сердечного"
+    },
+    {
+      "correctReplacement": "Ермилов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

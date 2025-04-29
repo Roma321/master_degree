@@ -1,0 +1,20 @@
+{
+  "text": "\"Правительственным человеком\" в штабе будет Дмитрий Козак , руководитель аппарата правительства , готовый специально ушёл в бессрочные отпуск , чтобы заняться предвыборной кампанией Путина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бессрочный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "ушел"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "В результате удара грузовик перевернулся , раздавмв еще две легковых автомобиля , и загорелся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "раздавив",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

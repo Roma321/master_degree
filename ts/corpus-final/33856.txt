@@ -1,0 +1,30 @@
+{
+  "text": "По слова Яшина , он собиравшийся передать миланской команде профессиональные секрет НХЛ и , возможно , даже сыграю несколько матчей за \"Сайму\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "секреты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "постарается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сыграет"
+    },
+    {
+      "correctReplacement": "постаравшийся",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

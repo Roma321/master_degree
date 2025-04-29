@@ -1,0 +1,25 @@
+{
+  "text": "В третьем россиянка поведённая в счете - 3 : 0 , но , видимо , сказалось волнение : почувствовав близость победы , Елену потеряла контроль над игрой и проиграла шесть хеймов подряд , а вместе с нрми и матч .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "повела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Елена"
+    },
+    {
+      "correctReplacement": "геймов",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "ними",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Работники телецентра отказались , опасавшись попасться при входе в башню , и взамен предложил осуществить поджог , говоришься в статье .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Работник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "опасаясь"
+    }
+  ]
+}

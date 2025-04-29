@@ -1,0 +1,25 @@
+{
+  "text": "Lufthansa уже проводило многочисленный тестирования своих систем , но до сих пор в них участвуем тощько сотрудники авиакомпании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "участвовали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "проводила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "многочисленные"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

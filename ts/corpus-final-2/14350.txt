@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям журналиста , заявление Ладена было вызвавшее новыми требованиями к немв со струны председателя талибского правительства муллы Омара .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "вызвано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "стороны",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "нему",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

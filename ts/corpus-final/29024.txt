@@ -1,0 +1,35 @@
+{
+  "text": "На встрече , в которой приняли участие госсекретарь США Мадлен Олбрайт и исполнявший обязанности президента Россию Владимир Путин , было принят решение о возобновлении пленарных заседаний многостороннего рабочих групп , чья деятельности была прерву четыре года назад .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "многосторонних"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "прервана"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "исполняющий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "деятельность"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "России"
+    }
+  ]
+}

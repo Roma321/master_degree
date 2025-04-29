@@ -1,0 +1,20 @@
+{
+  "text": "Освобождение состоюсь в присутствии сотрудника дипломатической миссии России в Боготе и представителей экономической церкви Колумбии , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "correctReplacement": "католической",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

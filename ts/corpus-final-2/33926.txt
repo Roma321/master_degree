@@ -1,0 +1,20 @@
+{
+  "text": "Соответствующее растяжения подписавший в понедельник премьер-министр России Михаил Касьянов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "распоряжение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подписал"
+    },
+    {
+      "correctReplacement": "распоряжения",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

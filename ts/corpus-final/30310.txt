@@ -1,0 +1,25 @@
+{
+  "text": "Буратаева заявленная , что решения окружной комиссии было принявшее под давлением калмыцких властей , которые \"с самого начала избирательной компании оказывали ей противодействие , делая ставку на других кандидатов\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "кампании",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

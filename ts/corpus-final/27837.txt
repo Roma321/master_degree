@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщили РБК в пресс-службе РАО . В минувшем году Московские монетный двор впервые в история России выиграл тендер на изготовление монет дея иностранного государстве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "истории"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

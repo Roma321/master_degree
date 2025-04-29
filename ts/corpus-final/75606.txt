@@ -1,0 +1,20 @@
+{
+  "text": "Ожидалось , что Путин , мастер спортов по самбо и дзю-до , примет участие в национальной татарского борьбе на поясаж \"курэш\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "татарской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "спорта"
+    },
+    {
+      "correctReplacement": "поясах",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

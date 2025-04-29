@@ -1,0 +1,30 @@
+{
+  "text": "Что касается Германии , также откажусь от импорту мяса из анемией , ей предоставлены две недель на то , чтобы пересмотреть свою позицию , сообщает информационная служба ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "импорта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отказавшейся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "недели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Англии"
+    },
+    {
+      "correctReplacement": "Англией",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

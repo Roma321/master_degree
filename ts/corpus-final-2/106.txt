@@ -1,0 +1,25 @@
+{
+  "text": "Комментируя своё решение , Путин заявил , что этот шалый сделавший в интересах 18 миллиона пенсионеров и потребует 18 миллиардов рублей только в этом году .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сделан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "шаг",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

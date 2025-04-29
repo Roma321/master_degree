@@ -1,0 +1,25 @@
+{
+  "text": "Как заявил журналистам заместитель генерального прокурора Василий Колмогоров , Гусинский , находящийся в настоящего время ща границей , уже уведомлю о вызов через близких ему людей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "вызове"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "уведомлен"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

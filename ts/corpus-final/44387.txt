@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщивший в подельник журналистам начальники Оперативно-розыскного бюро по борьбе с этническими преступными группами ОУБОП МВД РФ Михаил Сунцов , у российских спецслужб имеется видеопленка , на которой заснят Тимирбулатов во времена убийства военнослужащих федерального сил .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "начальник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "ГУБОП",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

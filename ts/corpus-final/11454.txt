@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающий Reuters со ссылкой на неназванное лицо , освобождённое о ходе событий , встреча продлишься меньше одного дня .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "продлится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "осведомленное",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

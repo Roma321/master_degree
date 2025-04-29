@@ -1,0 +1,30 @@
+{
+  "text": "На момент распадов ССЫР его строительство еще не было завершившее , а затраты на него уже превышаемые 98 миллионов долларах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "распада"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "завершено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "превышали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "СССР",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

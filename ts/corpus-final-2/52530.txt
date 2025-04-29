@@ -1,0 +1,30 @@
+{
+  "text": "Согласно полученной Горбачевым во вторник информаций , в администрации президента не знанные о решении налогового инспекции направить иски о ликвидации структурных , входящих в холдинг \"Медиа-Мост\" , в том числе НТФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "знали"
+    },
+    {
+      "correctReplacement": "структур",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

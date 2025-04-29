@@ -1,0 +1,20 @@
+{
+  "text": "Список подозреваемыми в отмыфке денег состоящий из 24 фамилий , все - российские граждане .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "состоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "подозреваемых"
+    },
+    {
+      "correctReplacement": "отмывке",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

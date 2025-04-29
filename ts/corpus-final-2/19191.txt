@@ -1,0 +1,30 @@
+{
+  "text": "16 сентября в Волгодонске у дома номера 35 по Октябрьскому шоссе , где год назад произойду взрыв , открою сквер памяти погибших в результате этого теракта , передавал новое .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "номер"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "открыт"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

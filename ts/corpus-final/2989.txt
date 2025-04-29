@@ -1,0 +1,20 @@
+{
+  "text": "В случае признания судом их вины подсудимым грозящий по пять лет тёмного заключения плюс выплата компенсации за ущерб в размерах 2 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "размере"
+    },
+    {
+      "correctReplacement": "тюремного",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

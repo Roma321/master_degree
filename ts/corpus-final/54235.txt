@@ -1,0 +1,20 @@
+{
+  "text": "По факсу похищения ребенка возбуждена уголовнге дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "correctReplacement": "факту",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "уголовное",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

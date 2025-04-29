@@ -1,0 +1,20 @@
+{
+  "text": "В Технологическом институте Санкт-петербург на Московском проспекше примерно в див часа дня произошел взрыв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "correctReplacement": "два",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "проспекте",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

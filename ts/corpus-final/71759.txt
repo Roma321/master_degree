@@ -1,0 +1,35 @@
+{
+  "text": "Специалистами , напомнила Мирзоева , проводили вакцинацию дети против инфекционных заболевания , а также осуществляли мониторинги райнер сложкой эпидемиологической обстановки в Чечне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "мониторинг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Специалисты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "заболеваний"
+    },
+    {
+      "correctReplacement": "крайне",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "сложной",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

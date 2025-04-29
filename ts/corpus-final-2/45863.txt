@@ -1,0 +1,30 @@
+{
+  "text": "За совершение этих преступлений им был приговорен к смертной казни , однако позлнее приговор был изменивший на туземный заключение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "изменен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "тюремное"
+    },
+    {
+      "correctReplacement": "тюремный",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "позднее",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

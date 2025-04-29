@@ -1,0 +1,30 @@
+{
+  "text": "В понедельние , 30 октября , там должен пройти слушания , на котором будет обсуждаться возможность проведения селии медицинскими обследований генерала .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "медицинских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "слушание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "должно"
+    },
+    {
+      "correctReplacement": "серии",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Десять человек , причастность которых к похищениям по меньшей мере пяти токийские военнослужащих доказана , задержаны дагестанвкие оперативниками в городе Кизляре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "дагестанскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "российских"
+    },
+    {
+      "correctReplacement": "российские",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "дагестанские",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

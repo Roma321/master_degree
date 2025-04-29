@@ -1,0 +1,30 @@
+{
+  "text": "В 1999 году 1 , 25 миллионов предпринимателей без образования юридической лица перешли на уплату единого налога на вмененный доход , поэтому были освободим от обязанности помахавшие декларации о доходы за 1999 год , сообщает Агентство финансовой информации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "юридического"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "освобождены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "доходах"
+    },
+    {
+      "correctReplacement": "подавать",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

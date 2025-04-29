@@ -1,0 +1,20 @@
+{
+  "text": "Председатель Центробанка Виктор Геращенко признаю главной персоной на ватном рынком России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "признан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "рынке"
+    },
+    {
+      "correctReplacement": "валютном",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

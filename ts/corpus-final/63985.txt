@@ -1,0 +1,25 @@
+{
+  "text": "Ему может быть предъявлено обвинения по статье 208 УК РФ - участие в незаконных вооруженных формированиях , сообщаю \"Интерфакс\" со ссылкой на аппарате помощника президента России Сергея Ястржемпского .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "обвинение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "аппарат"
+    },
+    {
+      "correctReplacement": "Ястржембского",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

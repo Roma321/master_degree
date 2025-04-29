@@ -1,0 +1,20 @@
+{
+  "text": "У покидающего свой пост президенте США Билла Клинтона врачи обнаружим повышенный уровень холестерина и \"подозрительные\" повреждения козы на спине , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "кожи",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

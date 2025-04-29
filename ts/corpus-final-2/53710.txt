@@ -1,0 +1,45 @@
+{
+  "text": "В качестве одной из причин падения цен на нефть аналитики называющие снижение спроса в связи с теи , что основные потребителей уже обеспечившие себе достаточное запас нефтей на земной периоды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "обеспечили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "период"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "достаточный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "называют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "потребители"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "зимний",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "тем",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

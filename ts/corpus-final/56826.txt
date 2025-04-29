@@ -1,0 +1,30 @@
+{
+  "text": "Как собщает РБК , сразу же сработала автомобильный сигнализация , жители соседних домоф выбежали на улицу , где увиденные ужасную картину : теле погибшего разорвавшее на мелкие кусочки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "автомобильная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "тело"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "разорвало"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "увидели"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

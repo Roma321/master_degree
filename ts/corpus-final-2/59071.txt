@@ -1,0 +1,20 @@
+{
+  "text": "Требует ли Тереза от матери деньги или иного возмещений ущерба не сообщается .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "денег"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "возмещения"
+    },
+    {
+      "correctReplacement": "деньги",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

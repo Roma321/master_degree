@@ -1,0 +1,25 @@
+{
+  "text": "Американский гражданин Эдмонд Поуп , арестованный в Россия по обвинению в шпионаже , более весящих раз осматривался медицинских работниками следственного изолятора и приглашенными узкопрофильными специалистом , в том числе онкологом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "медицинскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "специалистами"
+    },
+    {
+      "correctReplacement": "десяти",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

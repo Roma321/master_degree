@@ -1,0 +1,35 @@
+{
+  "text": "Обвинение сшивающий , что в ночь на 3 июля 1998 года у себя на даче в деревне Котово Наро-Фоминского района Рохлина застрелила своих мужа - депутата Госдумы генерала Львов Рохлин - из его наградных пистолета .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "наградного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "Льва"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Рохлина"
+    },
+    {
+      "correctReplacement": "считающий",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

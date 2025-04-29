@@ -1,0 +1,25 @@
+{
+  "text": "Ранее ХАМАС был официально запрещен касательством Иордании при всех симпатиях палестинской населения , составляющей в этой странах абсолютное большинство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "палестинского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "стране"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "составляющего"
+    },
+    {
+      "correctReplacement": "правительством",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

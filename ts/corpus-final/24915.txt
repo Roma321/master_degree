@@ -1,0 +1,30 @@
+{
+  "text": "Сообщающие о нескольких поварах - один из гими , во времени которого погиб человек , возник из-за использования керосиновой лампы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Сообщают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "пожарах",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "ними",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

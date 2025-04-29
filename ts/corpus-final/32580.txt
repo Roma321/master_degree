@@ -1,0 +1,25 @@
+{
+  "text": "Министр отказались назвать страну , сославшись на то , что пока операция не доведена доконец , однако отмечу , что \"сотрудниками МВД проведена конкретная работа , и коллеги из другой страны заинтересовались нашей ситуацией и бобовые оказать любую помощь .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "доконца"
+    },
+    {
+      "correctReplacement": "готовы",
+      "type": "paronym",
+      "wordNumber": 35
+    }
+  ]
+}

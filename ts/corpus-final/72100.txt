@@ -1,0 +1,30 @@
+{
+  "text": "Адвокатов не сразу пустившие к подзащитному : пришедшие из прокуратуры документы на звиданье были неправильно оформившие (отсутствовала гербовый печать) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "гербовая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "оформлены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "пустили"
+    },
+    {
+      "correctReplacement": "свидание",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "свиданье",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

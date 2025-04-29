@@ -1,0 +1,25 @@
+{
+  "text": "Сперва первому заместителю генеральному директора АО \"Аэрофлот\" по финансам Николаю лужкову а заместителю генерального директоров по коммерции Александру Красненкеру предъявлялись обвинения в незаконном предпринимательстве и отмывании денег .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "директора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "Глушкову",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

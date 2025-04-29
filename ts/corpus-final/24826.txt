@@ -1,0 +1,35 @@
+{
+  "text": "В минувший понедельник начальники Главного управления уголовного розыска МВД Россмей Вячеслав Трубников , выступающие на пресс-конференции в Воронеже , охарактеризовал общих криминальную ситуацию в стране иак \"сложную\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выступая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "общую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "начальник"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Россией",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

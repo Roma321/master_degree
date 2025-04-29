@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что ЦИК оже зарегистрировавший кандидатами на пост президента лидера КПРФ Геннадия Зюганова и председателя движения \"Духовное наследие\" Алексея Подберескина .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "зарегистрировал"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Подберезкина",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

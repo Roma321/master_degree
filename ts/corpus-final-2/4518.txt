@@ -1,0 +1,20 @@
+{
+  "text": "Президент Россией Владимир Путине отверг возможность слияния спецслужб в единое структуру , как это было во времена СССР , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "единую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Путин"
+    }
+  ]
+}

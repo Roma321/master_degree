@@ -1,0 +1,25 @@
+{
+  "text": "За последнее время корпорации Microsoft посещённые ужп несколько кандидатов в президенты США , включать Джорджа Буша .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "посетили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "корпорацию"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

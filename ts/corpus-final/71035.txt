@@ -1,0 +1,30 @@
+{
+  "text": "Согласно сообщения Associated Press , компания Network Security предупредила ФБР , что хакерская программа Serbian Badman Trojan , инсталлированная на компьютерах в разные странах под видом цифрового видеоклипа , позволяет хакерам взять эти компьютеры под кннтроль , а затем использовавшие их для распределённой атаки типа \"отказ обслуживания\" (DDoS) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "разных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 39,
+      "correctReplacement": "использовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "распределенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "correctReplacement": "контроль",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

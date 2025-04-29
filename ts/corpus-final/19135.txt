@@ -1,0 +1,50 @@
+{
+  "text": "Из Финляндии в Америку лодки была отбуксирована украинскимсудном , но в гавани американского Санкт-Петербурга оказаласьпесчаный банка , из-за которой лодка не встала к причалу итуристов пришлось подвозить к ней на специальных катерах . Несмотря на пример 200 тысячи посетителей в год , каждый изкоторых выкладывала 8 долларов за входной билет , бизнес нарусская подлодке не увенчался успехом и в феврале этого годпвзявшая ее в аренды фирма объявлю о своем банкротстве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 52,
+      "correctReplacement": "нарусской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 44,
+      "correctReplacement": "выкладывал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 66,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 64,
+      "correctReplacement": "аренду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "оказаласьпесчаная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "лодка"
+    },
+    {
+      "correctReplacement": "примерно",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "годавзявшая",
+      "type": "typo",
+      "wordNumber": 61
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На особый контроль в ФЫНП берутся жалобы на действия сотрудников налоговых полиции , хотя в среднем лишь 6 процентов из ними подтверждается .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "correctReplacement": "ФСНП",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

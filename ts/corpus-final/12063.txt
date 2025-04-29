@@ -1,0 +1,25 @@
+{
+  "text": "Представитель этой международного оргснизации подчеркнувший , что помощью беженцам из Чечни будет оказываться столько времени , сколько будет необходимо .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "помощь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "международной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "организации",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

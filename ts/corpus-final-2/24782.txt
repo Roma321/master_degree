@@ -1,0 +1,25 @@
+{
+  "text": "Главы правительства Удмуртии Николай Ганза уволил министга печати республики Сергея Васильева за злоупотребление служебным полномочиями , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "служебными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Глава"
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

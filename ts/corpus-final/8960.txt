@@ -1,0 +1,30 @@
+{
+  "text": "Так , 21 октября в Риме было достигнуто соглашение между представителями министерздф торговля Россию и США о том , что антидемпинговые пошлины на импорт российского холоднокатаного прокатов в США вводящиеся не будут , хотя и не удалось договориться о минимальный ценах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "торговли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "проката"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "вводиться"
+    },
+    {
+      "correctReplacement": "министерств",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

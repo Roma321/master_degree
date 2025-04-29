@@ -1,0 +1,20 @@
+{
+  "text": "Как считает автор статья , предположение о назначении Иванова министроы обороны имеешь под собой достаточно много оснований .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "статьи"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "министром",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

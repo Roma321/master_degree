@@ -1,0 +1,20 @@
+{
+  "text": "В красноярский формируется предвыборную штаб , призвавший обеспечить избирательную кампанию главы администрации края Александра Лебедя на выборах президента России в июне 2000 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "призванный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предвыборный"
+    },
+    {
+      "correctReplacement": "Красноярске",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В отличие от рейтинга посещаемости , с помощью \"Индекса\" можно узнать не только \"куда все ходят\" , но и \"на что все ссылаются\" , то есть речь идёшь о популярности ресурсов среди создатулей сайтов , а не среди посетителях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "посетителей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "рейтингов"
+    },
+    {
+      "correctReplacement": "создателей",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

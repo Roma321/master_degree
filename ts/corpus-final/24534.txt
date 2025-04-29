@@ -1,0 +1,40 @@
+{
+  "text": "Однако недавно судия одного из округов штата вынесшая решение , гласящая , что закон , запрещаемый запись частных телефонные разговоров без согласия все собеседников , не применим к электронной почте и чатам - то есть приватные беседы , которые ведутся с помощью этих средств , можно записывать без согласие второй стороны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "телефонных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "запрещающий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 48,
+      "correctReplacement": "согласия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "вынесла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "гласящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "судья",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

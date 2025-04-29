@@ -1,0 +1,30 @@
+{
+  "text": "В четверг цены на сырую нефти подскочившие па 98 центами после обострения ситуации на Ближнем Востоке , сообщаемый CNN .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "центов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "подскочили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

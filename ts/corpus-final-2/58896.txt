@@ -1,0 +1,25 @@
+{
+  "text": "В Москве повысившие тарифы на пригородные электричек , соответствующее решение вступило в силу со среды 10 января и касается всех регионов , которым входят в зону содействия Московской железной дороги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "электрички"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "повышены"
+    },
+    {
+      "correctReplacement": "действия",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

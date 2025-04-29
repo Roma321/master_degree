@@ -1,0 +1,30 @@
+{
+  "text": "После этого состоялся обед , в ходе которого полпред президента в Южном федеральной округе Виктор Казанцев доложит главе государздво об основных направлений развития округа , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "направлениях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "состоится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "федеральном"
+    },
+    {
+      "correctReplacement": "государство",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

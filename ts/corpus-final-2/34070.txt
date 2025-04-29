@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению правительства Тайваню , 47 пассажира самолета Boeing-747 , потерпевшего катастрофу в аэропорту города Тайбэй , погибли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пассажиров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Тайваня"
+    },
+    {
+      "correctReplacement": "катастрофу",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

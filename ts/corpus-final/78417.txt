@@ -1,0 +1,30 @@
+{
+  "text": "В частности , гражданам Россия предлагается воздержаться от прездки в Албанию , где отмечен самый высокий в Европе уровень преступностью и рост малороссийских настроений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "преступности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поездок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "антироссийских",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "поездки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

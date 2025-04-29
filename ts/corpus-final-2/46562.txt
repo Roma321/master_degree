@@ -1,0 +1,25 @@
+{
+  "text": "Итоги проверки , проведённой совместно Счетной палатой России и Счётном комиссией Мурманской огласившие , были рассмотрены на состоявшемся во вторник заседании коллегий Счетной палаты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведенной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "коллегии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Счетной"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

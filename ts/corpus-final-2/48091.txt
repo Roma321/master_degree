@@ -1,0 +1,25 @@
+{
+  "text": "Охрана в категоричной форме отказывалась пустить на территорию станции прибывшего на места второй оператиного дежурных , а также несколько мсшин пожарной охраны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дежурного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "второго"
+    },
+    {
+      "correctReplacement": "машин",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

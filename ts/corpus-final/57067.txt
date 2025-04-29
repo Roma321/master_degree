@@ -1,0 +1,25 @@
+{
+  "text": "Gazeta Ru подробно писало о том , что финансирование программы \"Мир\" закрыты , но конструкторы не спешат топить её в Тихом океане , надеясь на изыскание внебюджетных средств . Они надеются , чть правительство оплатит финальную экспедицию на \"Мир\" в феврале или марте 2000 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "ее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "писала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "закрыто"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

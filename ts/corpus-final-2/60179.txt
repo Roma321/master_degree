@@ -1,0 +1,25 @@
+{
+  "text": "Нанесён максимальный ущерб в размера около 30 тысяч доллароф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Нанесен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "размере"
+    },
+    {
+      "correctReplacement": "материальный",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

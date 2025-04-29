@@ -1,0 +1,30 @@
+{
+  "text": "После нескольких месяцев бесплодного расследования госдепартамент США назначу награду в 25 тысяч доллароф за возвращение портативной компьютера с секретного информации , исчезнувшего из госдепартамента в январе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "назначил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "секретной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "портативного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "информацией"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

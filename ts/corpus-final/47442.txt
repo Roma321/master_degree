@@ -1,0 +1,35 @@
+{
+  "text": "По сигналу военкомата органы местной властей будут принимать меры в отношении руководителей , принятых на работу граждан , которые подлежим призыву , но не состоим на конской учете .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "состоят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "воинском"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "подлежат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "принявших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "воинской",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

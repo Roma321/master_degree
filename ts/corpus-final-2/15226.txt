@@ -1,0 +1,25 @@
+{
+  "text": "Распоряжением правительство России генеральным директором Большого театра назначившиы Анатолий Иксанов , художественной руководителем - Геннадий Рождественский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "художественным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "назначен"
+    },
+    {
+      "correctReplacement": "назначивший",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

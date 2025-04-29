@@ -1,0 +1,25 @@
+{
+  "text": "Во успокоение этого решения в Бресте был задержана российское парусники \"Седов\" , который в понедельник был отпущен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "парусник"
+    },
+    {
+      "correctReplacement": "исполнение",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

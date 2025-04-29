@@ -1,0 +1,25 @@
+{
+  "text": "К КПП с 8 часов утра подэвался транспорт для переправки людей , однако до него еще надо дойти , отменявший Колоя .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "подается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Колоев"
+    },
+    {
+      "correctReplacement": "отметил",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "подавался",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

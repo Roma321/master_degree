@@ -1,0 +1,20 @@
+{
+  "text": "На следующей этаеах акт будет передан для обсуждения в Палату представителей Конгресса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "следующем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "этапе"
+    },
+    {
+      "correctReplacement": "этапах",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

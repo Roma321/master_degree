@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщённый галере New York Times доктор Дуэйн Габлер , глава отделения инфекционных болезней из американской федерального Центра по контролю и предотвращению заболевания .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "заболеваний"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "американского"
+    },
+    {
+      "correctReplacement": "газете",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

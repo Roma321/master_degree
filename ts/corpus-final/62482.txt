@@ -1,0 +1,30 @@
+{
+  "text": "Городскне власти обещаемые , что со среды цвет в жилыми домах будут включать лишь на полтора часов в день .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обещают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "жилых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "часа"
+    },
+    {
+      "correctReplacement": "свет",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Городские",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

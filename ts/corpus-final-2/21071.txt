@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , перемены , кодовый лорд Джадд заметило в ситуации в Чечне во время своей недавней поестки по республике , произвёл на него благоприятное впечатление .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "произвели"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "поездки",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В сообщении указано , что поводом к принятию положительного решения послужившее то , что России выполнила главное условие предоставления траншей , автоматизировавшие угольные предприятия по добыче 35 процентов угля в РФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Россия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "транша"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "послужило"
+    },
+    {
+      "correctReplacement": "приватизировав",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

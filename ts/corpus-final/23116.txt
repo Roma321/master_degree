@@ -1,0 +1,20 @@
+{
+  "text": "Номера кредитных карт были украдены их для того , чтобы шантажировать магазин , о чем он сообщила в письме , поссанном в Times .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "им"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "посланном",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

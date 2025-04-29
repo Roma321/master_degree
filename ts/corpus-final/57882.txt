@@ -1,0 +1,30 @@
+{
+  "text": "В среду вечером на самом многолюдном рынке Львова – Краковском - обвалившаяся кирпичную стена старого постройки , отделяемая рыноа от находящейся рядом больницы , передает Ua Today .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "кирпичная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "обвалилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "старой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "отделявшая"
+    },
+    {
+      "correctReplacement": "рынок",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

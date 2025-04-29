@@ -1,0 +1,35 @@
+{
+  "text": "Вечером накануне ареста Кузнецовых милиция Новокузнецка по приказу губернатора Амана Тулеева , как утверждает пресс-служба КАК , попыталась силой захватить Кузнецкая металлургическим комбинат , но была остановившая трудовым коллективами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "остановлена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "коллективом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Кузнецова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "Кузнецкий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "металлургический"
+    },
+    {
+      "correctReplacement": "КМК",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным на 9 сентября , у 150 больных установивший окончательного клинические диагноз - серозно-вирусный менингит .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "установлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "клинический"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "окончательный"
+    }
+  ]
+}

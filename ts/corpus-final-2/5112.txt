@@ -1,0 +1,25 @@
+{
+  "text": "В докладе , опубликованном учеными из Notre Dame University (штат Индиана) , утверждается , что случайные сбои отдельных узлы практичесаи не представляют угрозы : в каждый момент времени в отключенном состоянии находились около трех процентов серверов Интернет , что практически не сказывается на работе Сети .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "узлов"
+    },
+    {
+      "correctReplacement": "практически",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

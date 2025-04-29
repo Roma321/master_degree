@@ -1,0 +1,25 @@
+{
+  "text": "Президент и исполнительный директор компании Рик Уагонер объявило , что у обителей будешь возможность за рулем пользоваться электронной почтой , слушать музыку и отслеживать котировкам акций , прогнозы погоды и заторы на дорогах .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "котировки"
+    },
+    {
+      "correctReplacement": "водителей",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

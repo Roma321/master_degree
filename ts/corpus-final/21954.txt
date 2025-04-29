@@ -1,0 +1,20 @@
+{
+  "text": "До последней времени было известило , что бизнесмены \"находится на лечении\" в Австрии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "бизнесмен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "последнего"
+    },
+    {
+      "correctReplacement": "известно",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

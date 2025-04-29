@@ -1,0 +1,25 @@
+{
+  "text": "Его основными соперниками считаются бывшим генеральном директор ОАО \"ГАЗ\" , ныне пенсионер Борис Видяев , отстраненный от должности в 1994 году , и госсекретарь Нижегородского обкома КПРФ депутат городской Думы Нижней Новгорода Олег Котельников .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "Нижнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "секретарь",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

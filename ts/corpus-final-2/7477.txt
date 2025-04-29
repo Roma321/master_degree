@@ -1,0 +1,30 @@
+{
+  "text": "Суперкомпьютера производит два триллиона операции в секунду и может моделировать такие параметры Мирового океана , как шлубины , температуру воды , высоту волны , с недостижимой прежде тонкостью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "операций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "глубину"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Суперкомпьютер"
+    },
+    {
+      "correctReplacement": "точностью",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "глубины",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

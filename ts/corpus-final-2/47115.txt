@@ -1,0 +1,30 @@
+{
+  "text": "Группа врачей из Университета Южной Флориды представившая свои результаты свидетельствующее остпнков 69 человек , которые умрём с помощью Кеворкяна в Мичигане за период с 1990 по 1998 год .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "умерли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "освидетельствования"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "представила"
+    },
+    {
+      "correctReplacement": "освидетельствованием",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "останков",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

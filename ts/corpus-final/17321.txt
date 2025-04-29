@@ -1,0 +1,30 @@
+{
+  "text": "В станице Микенскоф Наурского района Чечни , находящегося сейчас под контролем федеральных сил , российскими органами внутренними дел была проведена эксгумация тел жителей этого станицы , убитых 8 октября этого года , сообщаешь \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Микенская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "Микенской",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

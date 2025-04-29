@@ -1,0 +1,25 @@
+{
+  "text": "Иранские агенты выпустили восемь ракет по гражданским объектами Ирака ночь с пятницы на суббота , убившие трехлетнего ребенка и раниф еще четырех человек , сообщает Reuters со ссылкой на иракских источники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "убив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "иракские"
+    },
+    {
+      "correctReplacement": "ранив",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

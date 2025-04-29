@@ -1,0 +1,25 @@
+{
+  "text": "Кварталу Вади Джоз в Восточном Иерусалиме не принадлежит к числу районов , куда человек , там не живущий , может попавшие случайно , проходя мимо : в радиусе двух километров нет ни офисов , ни магазинов , полька одно- и двухэтажные жилые дома по обе стороной дороги .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "попасть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Квартал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

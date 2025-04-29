@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-служба президент Грузии распространила сообщение о том , что освобождениям наблюдателей способствовал телефонный рузговор между Эдуардом Шеварднадзе и абхазской лидером Владиславом Ардзинбой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "освобождению"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "абхазским"
+    },
+    {
+      "correctReplacement": "разговор",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

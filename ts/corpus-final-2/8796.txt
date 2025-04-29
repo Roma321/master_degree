@@ -1,0 +1,20 @@
+{
+  "text": "Водителя и двое пассажиров \"десятки\" , а также четверо разорившихся в иномарке погмбли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Водитель"
+    },
+    {
+      "correctReplacement": "находившихся",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

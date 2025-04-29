@@ -1,0 +1,20 @@
+{
+  "text": "В среду , 3 января , в одном из жилых дор города Бийском происшедший взрыв .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Бийска"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

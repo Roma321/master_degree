@@ -1,0 +1,20 @@
+{
+  "text": "Серьезная авария произошёл в воскресенье вечером на спама мощной в Хабаровске канализационной насосной станции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "самого",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

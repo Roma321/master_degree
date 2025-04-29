@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на источники в Дальневосточной транспортной прокуратура , за пропитку незаконного вывоза из России букинистической редкости против гражданина Республики Кореи возбуждено уголовное дело .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "прокуратуре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Корея"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "попытку",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

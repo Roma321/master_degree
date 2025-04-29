@@ -1,0 +1,25 @@
+{
+  "text": "В той же программе сообщалось , что помимо пяти человек , привлекаемых к судам по делу о взрыве , в розыске находятся еще пять террористоф , чествовавших в подготовки и проведении теракта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "суду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "подготовке"
+    },
+    {
+      "correctReplacement": "участвовавших",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "террористов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

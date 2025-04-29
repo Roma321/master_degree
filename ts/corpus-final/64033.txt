@@ -1,0 +1,25 @@
+{
+  "text": "Еще одно участник этого преступления приговорен к четырем годам лишения свободе , но был освободивший от наказания по амнистии и в связи с истечениями срока давности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "истечением"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "свободы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "освобожден"
+    }
+  ]
+}

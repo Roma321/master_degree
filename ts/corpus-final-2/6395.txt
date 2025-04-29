@@ -1,0 +1,25 @@
+{
+  "text": "В местных телефонных подразделениях Verizon работаем 120 тысяч служащих , 80 процентов которых - члены профсоюзах , в то время как в подразделения беспроводных услуг из 32 тысяч сотрудников только 46 процентов входят в союзы Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "подразделениях"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "профсоюзов"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

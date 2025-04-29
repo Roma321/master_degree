@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость оправы бумажного письма или иного послания увеличивается в средних не 38 , 5 проценту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "среднем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "отправки",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

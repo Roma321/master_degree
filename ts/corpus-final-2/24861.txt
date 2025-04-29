@@ -1,0 +1,30 @@
+{
+  "text": "У правоохранительных органов ешь основания полагать , что двое мошенников - отец и сын - вместе с сотрудниками управлений муниципального жилья осинами из административных округов Москвы полгода воруем деньги , предназначенные для выплаты субсидий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "управления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "воровали"
+    },
+    {
+      "correctReplacement": "одной",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

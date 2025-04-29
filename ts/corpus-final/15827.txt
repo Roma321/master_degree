@@ -1,0 +1,15 @@
+{
+  "text": "В больнице был поставивший диагноз - контузия , соотнесение мозга , сильные ушибы шейных позвонков и грудной клетки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поставлен"
+    },
+    {
+      "correctReplacement": "сотрясение",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

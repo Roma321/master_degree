@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , cookies , которые DoubleClick оставляет на компьютерах пользователей во время посещения ими сайтоф , позволяют отследить , какие разделы сайтов посещал пользователю , даже если он ничего не заказывал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "пользователь"
+    },
+    {
+      "correctReplacement": "сайтов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

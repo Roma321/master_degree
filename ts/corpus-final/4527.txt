@@ -1,0 +1,20 @@
+{
+  "text": "Общая суммы штрафов в мольбу города составила свыше 5 миллионах рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сумма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "пользу",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

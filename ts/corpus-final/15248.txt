@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ежедневный биржевого обозрение Fortune Investor , нейтральный директор VA Linux , 37-летний Ларри Огастин в свое время отклонил заманчивом предложение стать соучредителем Yahoo ! ,чтобы возглавить VA Linux Systems (ему принадлежат 16 , 2 процента акций фирмы) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "биржевое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "заманчивое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "ежедневное"
+    },
+    {
+      "correctReplacement": "генеральный",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

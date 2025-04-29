@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщила во вторник газета USA Today , в основе спора лежал вопрос о той , чему с большим основанием можно уподобить доменное имя : участку земли , находящейся в частных владении , или обычному телефонной номерам .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "находящемуся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "номеру"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "телефонному"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "лежит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "частном"
+    }
+  ]
+}

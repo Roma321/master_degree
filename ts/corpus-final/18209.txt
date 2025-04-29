@@ -1,0 +1,25 @@
+{
+  "text": "По словам военных , подразделения армейского спецназа захватили несколько господствующих высот вдоль горной дорог , связываемой населенный пункт Итум-Кале с селением Шатили в Грузии и блокировафшей в конце прошлой недели .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "блокированной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дороги"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "связывающей"
+    },
+    {
+      "correctReplacement": "блокировавшей",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

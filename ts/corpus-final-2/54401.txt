@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем , начиная с 18 января 2000 года компания в одностороннем порядке прекращу выполнение своих обязательств по вмем четырем договорам займа , не погашенные суммы основной долга , а также начисленные проценты и страховую комиссию Минфина РФ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "прекратила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "погасив"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "основного"
+    },
+    {
+      "correctReplacement": "всем",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

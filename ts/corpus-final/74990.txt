@@ -1,0 +1,15 @@
+{
+  "text": "По сообщению полиции , 20 пассажирок спасшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "спасены"
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

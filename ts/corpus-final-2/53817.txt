@@ -1,0 +1,25 @@
+{
+  "text": "После этого Дед Мороз , Снегурочка и Юрий Лужкова отправились в Государственный Кремлевчкий Дворец , где откроем первое новогодняя представление у главной елки страны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "новогоднее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "correctReplacement": "Кремлевский",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

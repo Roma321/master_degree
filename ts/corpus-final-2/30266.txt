@@ -1,0 +1,25 @@
+{
+  "text": "Юристы пояснившие , что Кунцевский межмуниципальное суды , приняв к производству иск \"Медиа-Моста\" , нарушил определенную Гражданским процессуальным кодексе подсудность .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "межмуниципальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "кодексом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пояснили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "суд"
+    }
+  ]
+}

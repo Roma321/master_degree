@@ -1,0 +1,20 @@
+{
+  "text": "Говоря о ситуации в Чечне в целом , в пресс-центре сообщили , что по-прежнему продолжаются отстрелы временных отдела внутренних дел иподразделений милицию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "отделов"
+    },
+    {
+      "correctReplacement": "обстрелы",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

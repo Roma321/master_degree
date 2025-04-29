@@ -1,0 +1,20 @@
+{
+  "text": "Ковалев считает , что человека нельзя называть преступником до суда , и Скуратов как быфший генпрокурора не могла этого не знать .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "мог"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "генпрокурор"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

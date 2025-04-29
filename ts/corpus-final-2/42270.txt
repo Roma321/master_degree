@@ -1,0 +1,20 @@
+{
+  "text": "После повышения размер минимальной зарплат после вычета налога на 11 процентов будет превышать уровень промежуточного минимума .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "налогов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "зарплаты"
+    },
+    {
+      "correctReplacement": "прожиточного",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

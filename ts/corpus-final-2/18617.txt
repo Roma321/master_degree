@@ -1,0 +1,25 @@
+{
+  "text": "Ее прибыль превышаю 800 тысяч долларов в месяц , сообщил начальника управления . �ходы на погашение внешнего долга , передаёт Прайм-тассы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Прайм-ТАСС"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "начальник"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "превышала"
+    }
+  ]
+}

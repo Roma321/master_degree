@@ -1,0 +1,25 @@
+{
+  "text": "Министр иностранных дел Португалии Жаиме Гама , который исполнял также обязаннести министра обороны страны , дал указания подготовить воинские части для скорой переброски в район Тимор .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "исполняет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Тимора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "указание"
+    },
+    {
+      "correctReplacement": "обязанности",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

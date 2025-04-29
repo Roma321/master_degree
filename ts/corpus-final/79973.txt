@@ -1,0 +1,20 @@
+{
+  "text": "При спуске с горы водитель пытался избежать столкновения со встречному трансфертом и резко вырулили на обочину , в результате чего автобус перевернулся .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "вырулил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "встречным"
+    },
+    {
+      "correctReplacement": "транспортом",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Таким образом , декларации о доходах за 2000 оод должны подавать граждане , которые имеют более двух источников доходов и совокупный годовой доход которых превышал 50 тысяч рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "декларацию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "превышает"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

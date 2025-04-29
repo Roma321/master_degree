@@ -1,0 +1,20 @@
+{
+  "text": "Поуп , более полугода провёдший в российском Сизом , был осужден на 20 лет тюрьмы за шпионаж , но президент Владимир Путин помилую его .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проведший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "СИЗО"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "помиловал"
+    }
+  ]
+}

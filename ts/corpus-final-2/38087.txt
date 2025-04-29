@@ -1,0 +1,25 @@
+{
+  "text": "Об этом предварительном выводе Государственного комиссии по расследованию обстоятельств катастрофы сообщившие в пресс-службах СБ РФ после очередного занесения комиссии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пресс-службе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "correctReplacement": "заседания",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

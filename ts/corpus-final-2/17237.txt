@@ -1,0 +1,30 @@
+{
+  "text": "Пргводимся оперативно-розыскные мероприятия . �ным , возгорание произошло из-за неосторожного обращения с огнями или коротких замыкания в электропроводке . �яновской области , необходимо собрать 16 тысяч подписях .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Проводятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "подписей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "огнем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "короткого"
+    },
+    {
+      "correctReplacement": "Проводимся",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

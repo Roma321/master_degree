@@ -1,0 +1,20 @@
+{
+  "text": "Мэр Грозного Лечимых Дудаев утверждает , что только в частном секторе погибло свыше 260 человек , а общее количества погибших превысит 500 челомей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Леча"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "количество"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

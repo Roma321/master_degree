@@ -1,0 +1,25 @@
+{
+  "text": "Аукционные дом опубликую в The New York Times объявление , в котором говорится , что до начала весны к деклараций можно будет прицениться на сайту , а потом документ будет продан , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "сайте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "декларации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Аукционный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "опубликовал"
+    }
+  ]
+}

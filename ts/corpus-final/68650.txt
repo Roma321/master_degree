@@ -1,0 +1,25 @@
+{
+  "text": "В итальянской печати появились слухи о том , что такое приглашение может быть сделано Иоанну Павлу II президентами РФ владимом Путиными во время его предстоящем визита в Ватикан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "предстоящего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Путиным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "президентом"
+    },
+    {
+      "correctReplacement": "Владимиром",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

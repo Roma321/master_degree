@@ -1,0 +1,20 @@
+{
+  "text": "\"Coca-Cola - это продукты , необхоюимость в котором возникает время от времени\" , - добивавший он .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "продукт"
+    },
+    {
+      "correctReplacement": "добавил",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "необходимость",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

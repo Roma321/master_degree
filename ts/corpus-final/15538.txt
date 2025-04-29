@@ -1,0 +1,20 @@
+{
+  "text": "Выступая в прямых эфире радиостанции \"Эхо Москвы\" , лидер предвыборного лтаба Союза правых сил заявила , что намеченный на 14 декабря митинг сторонников Лужкова направлен против независимых СМИ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "прямом"
+    },
+    {
+      "correctReplacement": "штаба",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

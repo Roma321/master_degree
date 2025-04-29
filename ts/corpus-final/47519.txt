@@ -1,0 +1,20 @@
+{
+  "text": "Покупатели , выходивший из магазина , обратили внимание на подозрительное тикающий нредмет на асфальте , завернутый в холщовый мешок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "выходившие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "подозрительный"
+    },
+    {
+      "correctReplacement": "предмет",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

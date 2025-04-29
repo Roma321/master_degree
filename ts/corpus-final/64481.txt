@@ -1,0 +1,25 @@
+{
+  "text": "По словам прокурора Горане Петронишевичем , албанцы совершаемые теракты во время прошлогоднего вторжения шато в Югославию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Горана"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "совершали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Петронишевича"
+    },
+    {
+      "correctReplacement": "НАТО",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

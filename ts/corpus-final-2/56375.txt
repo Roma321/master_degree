@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с соглашениями , средства кредита будут перечислены в полном объеме на валютный счёт Национальной банка Республики Белоруссия во Внешэкономбанком .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "соглашением"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Национального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Внешэкономбанке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "счет"
+    }
+  ]
+}

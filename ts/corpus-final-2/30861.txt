@@ -1,0 +1,25 @@
+{
+  "text": "Однако позже Татаренков отказался от своих заявления , утверждающие , что они были ложными и что за эти показанря ему предложили две миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "утверждая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "заявлений"
+    },
+    {
+      "correctReplacement": "показания",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

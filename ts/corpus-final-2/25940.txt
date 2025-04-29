@@ -1,0 +1,20 @@
+{
+  "text": "Пропажу 804 железнодорожников костылей обнаружил путевое обходчтк .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "путевой"
+    },
+    {
+      "correctReplacement": "железнодорожных",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "обходчик",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

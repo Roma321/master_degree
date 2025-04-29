@@ -1,0 +1,20 @@
+{
+  "text": "В Вашингтоне начались предварительный совещания весенней сессии Международного валютной фонди и Всемирного банка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "валютного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "предварительные"
+    },
+    {
+      "correctReplacement": "фонда",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

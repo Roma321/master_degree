@@ -1,0 +1,25 @@
+{
+  "text": "Оперативники выяснили , что карточки , рассчитанные на пять поездок , мошенники сбываем с рук по восемь рублей за штуки , билеты на одну и два поездки - соответственный по одному и четыре рубля .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сбывали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "штуку"
+    },
+    {
+      "correctReplacement": "соответственно",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

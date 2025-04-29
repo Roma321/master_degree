@@ -1,0 +1,20 @@
+{
+  "text": "К тому же , день проведения мероприятая совпадает со священным для мусульманами Дне ниспослания Корана людям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Днем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мусульман"
+    },
+    {
+      "correctReplacement": "мероприятия",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

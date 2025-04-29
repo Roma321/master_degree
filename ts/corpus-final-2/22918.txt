@@ -1,0 +1,30 @@
+{
+  "text": "Андерсон , работая над биографией Че , получил доступу к закрытым артезианскими и советским архивам и сумел уговорить второй жену революционеру , Алейну Марч , предоставить ему личные дневники героя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "революционера"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "доступ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "американским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "вторую"
+    },
+    {
+      "correctReplacement": "американскими",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

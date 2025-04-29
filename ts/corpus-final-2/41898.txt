@@ -1,0 +1,25 @@
+{
+  "text": "Как только Волобуев , вернусь вечером с рыботы , направился к подъезду , им открыли огонь и , увижу , что жертва упала , поспешили скрыться .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "вернувшийся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "увидев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "работы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

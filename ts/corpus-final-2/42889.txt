@@ -1,0 +1,20 @@
+{
+  "text": "Вода течет в подвал и не доходил до квартир .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подвалы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "доходит"
+    },
+    {
+      "correctReplacement": "квартир",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

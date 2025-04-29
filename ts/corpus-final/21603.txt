@@ -1,0 +1,25 @@
+{
+  "text": "В среду она направила письмо претседателю Бундестага Вольфгангу Тирзе , в которой сообщал о своем намерению , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "намерении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "председателю",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

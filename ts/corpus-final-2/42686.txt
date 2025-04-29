@@ -1,0 +1,30 @@
+{
+  "text": "Так , скоро состоится четвертый ежегодная показ шляпы из мяса , а на Новое год в Центральной парке Нью-Йорка пройдёшь вечеринка для любителей мясных шляп .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "шляп"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Центральном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "ежегодный"
+    }
+  ]
+}

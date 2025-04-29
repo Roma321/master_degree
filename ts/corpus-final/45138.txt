@@ -1,0 +1,25 @@
+{
+  "text": "О раких решении румынской стороны Москва была уведомлена в последний раз в сентябрь прошлого года , но , как сказал Деджераты , никакой реакции на это не последовало .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сентябре"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "таком"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Деджерату"
+    },
+    {
+      "correctReplacement": "таких",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

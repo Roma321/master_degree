@@ -1,0 +1,25 @@
+{
+  "text": "Выясняешься , что многомиллионные вклады в отели , поместья и претприятия делались через подставных лиц в Дубае при содействию бывших министра внутреннего дел и шефа службы финансовой отчетности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "содействии"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Выясняется"
+    },
+    {
+      "correctReplacement": "предприятия",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

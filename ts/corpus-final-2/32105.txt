@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщался , в среду на Нью-Йоркской бирме курс акции AT&T упал на 8 процентов и теперь им котируются по цене ниже 25 долларов за акцию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "бирже",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

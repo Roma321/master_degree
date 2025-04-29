@@ -1,0 +1,30 @@
+{
+  "text": "Вероятность этого не очень велик , но лна существует : в последние годы Уилльямс стал писать детские книги , в которых осуждает бандитизм , а вырученные от проказы этих книг деньги передаю в центры по борьбой с преступностью .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "велика"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "борьбе"
+    },
+    {
+      "correctReplacement": "продажи",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

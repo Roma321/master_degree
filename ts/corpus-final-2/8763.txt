@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает Reuters , около 15 бандита , вооруженных ножи и пистолетиками , среди бела дня ворвались в офис представительства организации правого толка \"Софуся\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "бандитов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ножами"
+    },
+    {
+      "correctReplacement": "пистолетами",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

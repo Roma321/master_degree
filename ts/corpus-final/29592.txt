@@ -1,0 +1,30 @@
+{
+  "text": "Начальник Консульского управление Виктор Кириках заявила , кто Украина хотевшая бы , чтобы Россия не допускала такого подхода к иностранным гражданам , в том числе гражданам Украины , когда \"подозревают всех и вся\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "управления"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "хотела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Кирик"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

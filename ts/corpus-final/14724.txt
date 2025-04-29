@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщившие Федеральному агентству новостей в ГУВД столицы , инцидент происшедший примерно в 14 . 00 по московской времени .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "произошел"
+    }
+  ]
+}

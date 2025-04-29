@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в Москве началась 100-е заседание Совнт конфедерации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Совета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "началось"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Совет",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

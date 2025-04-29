@@ -1,0 +1,25 @@
+{
+  "text": "заместительный председателей избирательной комиссии Чеченской Республики Джамалы Межидов заявил в пятницу \"Интерфаксу\" , что избирком готов к выбомам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Джамал"
+    },
+    {
+      "correctReplacement": "Заместитель",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "выборам",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

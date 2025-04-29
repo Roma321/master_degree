@@ -1,0 +1,35 @@
+{
+  "text": "Учитывая это , ФСБ России считал своим долгом еще раз предупредить граждан России о реальность угроз , высказываемого чеченскими и международными экстремистами о провндении террористических актов на территории страны , и напомненные о необходимости повышенных бдительности в условиях сложной обстановки , говорится в сообщении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "реальности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "высказываемых"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "повышенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "напомнить"
+    },
+    {
+      "correctReplacement": "проведении",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На Манежную площадь для проведения смоира все же выехавшие сотрудниках милиции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выехали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "correctReplacement": "осмотра",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "смотра",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

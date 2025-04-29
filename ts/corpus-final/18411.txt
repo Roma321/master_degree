@@ -1,0 +1,20 @@
+{
+  "text": "Между тем , на улице Газопроводу продолжается поиск взрывных кстройств , сообщим сотрудники ОВД .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Газопровод"
+    },
+    {
+      "correctReplacement": "устройств",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

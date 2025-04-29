@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , чпо нефтяной компания Shell , зафрахтую танкер \"Академик Пустовойт\" , категоричность отвергла подозрения в контрабанде иракской нефти .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "зафрахтовавшая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "нефтяная"
+    },
+    {
+      "correctReplacement": "категорически",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

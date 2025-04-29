@@ -1,0 +1,25 @@
+{
+  "text": "В населивших зпунктах Капустин , Джалка , Шовда , Исти-Су и Новогрозненский была проведён проверки паспортного режима .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "проверка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "проведена"
+    },
+    {
+      "correctReplacement": "пунктах",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После того , как ветер , достигавший скорости 150 км/час , перевалил через Пиренеями , еще пяти челомей погибли в северной Испании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Пиренеи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "достигающий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "пять"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Британские рыбаки выражает крайнее недовольство требованию снизить улоы рыбы на 40 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "выражают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "требованием"
+    },
+    {
+      "correctReplacement": "улов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

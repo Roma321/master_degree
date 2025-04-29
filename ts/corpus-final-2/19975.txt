@@ -1,0 +1,25 @@
+{
+  "text": "Михаилу Горбачеву было решена поручить встретиться с президентами России Владимиром Путиным и довести до его сидения точка зрения членов Совета на события вокруг \"Медиа-Моста\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "точку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "решено"
+    },
+    {
+      "correctReplacement": "сведения",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

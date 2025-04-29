@@ -1,0 +1,25 @@
+{
+  "text": "Портретное сходство российского президента с его гипсовыми дворником удамся небегко , потому что черты Путина трудноуловимы , жалуется художник .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "гипсовым"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "двойником",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "нелегко",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

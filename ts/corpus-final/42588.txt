@@ -1,0 +1,25 @@
+{
+  "text": "Первым место по результатам опросов занял Владимир Путин , набранный 22 761 голос (41 процент) , за ним следует Григорий Явлинский - 12 393 голоса (22 процента) , трепьим по популярности стал ответ \"Никто из перечисленных\" - 10 837 голосов (20 процентов) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "опроса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Первое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "набравший"
+    },
+    {
+      "correctReplacement": "третьим",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

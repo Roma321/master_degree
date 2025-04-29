@@ -1,0 +1,20 @@
+{
+  "text": "В других матчам тура \"Ростсельмаш\" победили \"Крылья Советов\" - 2 : 0 , \"Черноморец\" разгромил \"Ротор\" - 3 : 0 , а ЦСКА на выезбе обыграл \"Уралан\" - 5 : 1 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "победил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "матчах"
+    },
+    {
+      "correctReplacement": "выезде",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На четвертой минуте полета вертолет , на борт которого находились 19 человек , рухну с высоты 70 метров на бетонного взлетно-посадочную полосу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "бетонную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "борту"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "рухнул"
+    }
+  ]
+}

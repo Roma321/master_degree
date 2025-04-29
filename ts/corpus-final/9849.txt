@@ -1,0 +1,25 @@
+{
+  "text": "Пробная бурение ведётся с вышки полуподводных типа в 60 километрах от береговой линии на шубиной в 975 метров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "ведется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Пробное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "полуподводного"
+    },
+    {
+      "correctReplacement": "глубине",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

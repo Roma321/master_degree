@@ -1,0 +1,15 @@
+{
+  "text": "Вскоре пожарные обнаружили тела всем шести человак .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

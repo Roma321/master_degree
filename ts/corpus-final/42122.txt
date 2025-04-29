@@ -1,0 +1,25 @@
+{
+  "text": "Представитель прокуратуры отметил , уто обвинение предъявлю Удугову как одному из главных организаторов и участников нападения чеченских боевиков на Новолакский районе Дагестана в сентябре прошлых года .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "прошлого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "район"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он также заявил , что Куба подаст в международный суды на США с требованием выплатившие как минммум 100 миллиардов долларов компенсации за вред , который нанёс кубинцам американская блокада .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "нанесла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "выплатить"
+    },
+    {
+      "correctReplacement": "минимум",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

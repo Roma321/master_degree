@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщавшееся , во вторник Владимир Путин подписал указ о призыве на военной службу офицера запаса в 2000 - 2005 годах Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "офицеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "военную"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

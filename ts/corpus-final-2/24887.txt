@@ -1,0 +1,35 @@
+{
+  "text": "Как отмечает HTB . Ru , выплачу компаниями цена несколько отличается от оценок стоимости московская земли : ранее сообщалось , что гектар московской земель оцениваешься в 1 миллион доллароф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "московской"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "выплаченная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "земли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "компанией"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

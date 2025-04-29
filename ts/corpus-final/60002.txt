@@ -1,0 +1,25 @@
+{
+  "text": "ЦСКА , крайне неудачно выступающий в чемпионате страны - после 6 туров армейцы занимающие последнее место , - вышел на игру с семикратным чемпионами России , как на последнем босой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "последний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "занимают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "чемпионом"
+    },
+    {
+      "correctReplacement": "бой",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По данным пресс-службы , особенно жесткому таможенной контролю подвергаетесь товары , поступающие из Азербайджана , Грузии , Саудовской Аравии , Иордании , Афганистана , Пакистана , Турции , Объединённых Арабских Эмиратов , браного , Сирию , Катару и Кипра .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "подвергаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Катара"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "Объединенных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "таможенному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "Сирии"
+    },
+    {
+      "correctReplacement": "Ирана",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

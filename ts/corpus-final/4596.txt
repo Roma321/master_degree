@@ -1,0 +1,20 @@
+{
+  "text": "Как полагаемые , \"Эшелон\" способны перехваьывать любые международные звонки , факсы , радиопередачи , а также электронную почту .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "способен"
+    },
+    {
+      "correctReplacement": "перехватывать",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

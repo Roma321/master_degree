@@ -1,0 +1,30 @@
+{
+  "text": "Остановка была произведено около 19 : 30 по москофскому времени в связей с поступившим в милицию анонимном звонком о заложенном в поезде взрывном устройство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "произведена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "анонимным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "устройстве"
+    },
+    {
+      "correctReplacement": "московскому",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

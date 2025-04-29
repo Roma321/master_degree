@@ -1,0 +1,20 @@
+{
+  "text": "Прези.ент России Владимир Путин с супругой прибыла в Канаду с официальному визитом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "официальным"
+    },
+    {
+      "correctReplacement": "Президент",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

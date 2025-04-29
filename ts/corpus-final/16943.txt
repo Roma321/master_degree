@@ -1,0 +1,25 @@
+{
+  "text": "Однако , с точку зрения специалистов , пишет Wall Street Journal , переход на новую ОС могут обойтись владельцам систем гораздо дороже , постольку смена Windows NT на Windows 2000 фактически означал переход на совершенно новую операционную систему .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "означает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "точки"
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

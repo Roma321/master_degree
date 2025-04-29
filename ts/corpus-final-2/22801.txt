@@ -1,0 +1,25 @@
+{
+  "text": "Губернаторе Калифорнии Грэй Дэвис наложил вето на предложенная ему в конце амгуста законопроекты налогообложения интернет-торговли , сообщает в понедельник агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "предложенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Губернатор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "законопроект"
+    },
+    {
+      "correctReplacement": "августа",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

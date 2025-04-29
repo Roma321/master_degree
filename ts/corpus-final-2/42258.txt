@@ -1,0 +1,30 @@
+{
+  "text": "Адвокат также сообщивший , что суд пракпически закончило вручение письменные материалов дела , остался лишь один том .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "закончил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "письменных"
+    },
+    {
+      "correctReplacement": "изучение",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "практически",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

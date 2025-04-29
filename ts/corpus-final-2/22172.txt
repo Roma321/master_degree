@@ -1,0 +1,20 @@
+{
+  "text": "По данным социологов , которые провоженные опросы граждан на выходе с участков для голосования , подавляющее большинство французов поддержали дею сокращения президентского срока .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "проводили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "опрос"
+    },
+    {
+      "correctReplacement": "идею",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

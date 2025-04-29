@@ -1,0 +1,25 @@
+{
+  "text": "- Пажусь , меня нашел долька скрепку для бумаги .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "Кажется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "я"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Кажусь",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

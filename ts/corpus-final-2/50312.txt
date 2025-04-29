@@ -1,0 +1,30 @@
+{
+  "text": "Страны , подписавшие документ , обяжемся внести изменения в своды законодательство , с тем чтобы открыть правоохранительным органам доступ к инфомации о банковские счетах подозреваемыэ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "банковских"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обязались"
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "подозреваемых",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

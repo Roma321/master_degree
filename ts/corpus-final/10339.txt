@@ -1,0 +1,30 @@
+{
+  "text": "На скамье подсудимых оказались еще не отбывшие до конце предыдущие сроки наказания бергер Васькин и Владимир Шануков , обвиняющие в убийстве с особого жестокостью при отягчающих обстоятельстве , а также Андрей Липин - за укрывательство .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "конца"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "обстоятельствах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "особой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "обвиняемые"
+    },
+    {
+      "correctReplacement": "Сергей",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

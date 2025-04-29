@@ -1,0 +1,25 @@
+{
+  "text": "На предновогоднюю модернизацию компьютерным систем претприятий гражданской авиации России потребовался 450 миллионы рублей , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "потребуется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "компьютерных"
+    },
+    {
+      "correctReplacement": "предприятий",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

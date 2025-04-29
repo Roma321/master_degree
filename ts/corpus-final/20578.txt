@@ -1,0 +1,30 @@
+{
+  "text": "Двое нарушителей общественного правопорядка были поддержанные в понедельник в Нью-Йорке за то , что как минимумы одно из них открывший накануне стрельбу в одном из ночных клубов в районе Тайм-Сквер , сообщаемый агентство Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "минимум"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "открыл"
+    },
+    {
+      "correctReplacement": "задержаны",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

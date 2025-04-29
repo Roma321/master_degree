@@ -1,0 +1,30 @@
+{
+  "text": "Березовский провел в Черкесске встречу с представителей карачаевской и черкесской общин республик , на которой сообщивший , что его уход из нижней палаты парламента не отменяемый ранее данными обещаний .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "республики"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "отменяет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "представителями"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "данных"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Президент США Биллы Клинтон , отставка которого состоится 20 января , получу в понедельник новый служебный лимузин , сделанный по заказу его секретной клумбы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Билл"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

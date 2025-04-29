@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данным , сообщаю РБК со ссылкой на источник в правоохранительных органах , в пятницу прокуратура Центральной района гьрода Новокузнецка должна предъявить Сергею Кузнецову обвинение по ст . 315 УК Российских Федерации - \"неисполнение решенья суда\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Центрального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "Российской"
+    },
+    {
+      "correctReplacement": "решения",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "города",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

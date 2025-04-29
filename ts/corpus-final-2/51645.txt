@@ -1,0 +1,35 @@
+{
+  "text": "По повешению временной парламентской следственного комиссии депутаты Головатый , Жир и Шишкин выезжаем за границу , чтобы убедиться , что обнародованные лидером Соцпартии Украины Александром Морозом 28 ноября аудиокассета с записью разговора высочайшими должностных лица Украины не фальшивка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "обнародованная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "выезжали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "следственной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "высших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "лиц"
+    },
+    {
+      "correctReplacement": "поручению",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

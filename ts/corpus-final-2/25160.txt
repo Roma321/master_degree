@@ -1,0 +1,30 @@
+{
+  "text": "По словам адвоката Бабицкого Александра Зозулю , защита будет доказывать , что журналист использую поддельная паспорт в условиях , когда его жизни угрожаю облачность .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "поддельный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Зозули"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "угрожала"
+    },
+    {
+      "correctReplacement": "опасность",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

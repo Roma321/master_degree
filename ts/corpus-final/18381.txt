@@ -1,0 +1,30 @@
+{
+  "text": "Росспйский валютный рынок реагировал на предварительные результаты состоявшихся 19 декабря 1999 года парламентских выборов укреплениями курса рубля относительно долларов США , сообщающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "доллара"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "реагирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "укреплением"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Российский",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

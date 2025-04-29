@@ -1,0 +1,20 @@
+{
+  "text": "По данным военного ведомство , бомба была сбросившая в 09 . 15 по московскому времени .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сброшена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ведомства"
+    },
+    {
+      "correctReplacement": "военного",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

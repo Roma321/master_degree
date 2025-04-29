@@ -1,0 +1,25 @@
+{
+  "text": "В аппарате помощника президента России Сергея Ястржембского журналистам подтвердили , чтодиректор так называющей Национальной службы безопасности Ичкерии добровольно здавшийся сотрудниками Федеральной служаки безопасности в Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сдался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "называемой"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "сдавшийся",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

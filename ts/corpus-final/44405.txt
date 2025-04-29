@@ -1,0 +1,30 @@
+{
+  "text": "Дело возбуждено по результатам дослетздвенная проверки , проведу сотрудником военной прокуратуры , сообщили \"Интерфаксу\" представители прокуратуры Грозному .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Грозного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "доследственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сотрудниками"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проведенной"
+    },
+    {
+      "correctReplacement": "доследственная",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

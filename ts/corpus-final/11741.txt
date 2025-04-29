@@ -1,0 +1,25 @@
+{
+  "text": "Им , в частности , предстою установить размеры причинённых пожаром ущерба . Прокуратуре области возбуждён уголовное дело , работает следственная бригада .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Прокуратурой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "причиненного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "предстоит"
+    }
+  ]
+}

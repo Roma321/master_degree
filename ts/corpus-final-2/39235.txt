@@ -1,0 +1,25 @@
+{
+  "text": "В качестве обвиняемого по этому же делу прохожу и Борис Березовский , однаао позже обвинение в незаконной предпринимательстве с него было снята .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "снято"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проходил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "незаконном"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

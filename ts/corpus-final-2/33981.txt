@@ -1,0 +1,20 @@
+{
+  "text": "Седователи прибылей в село для сбора материалов по факту массовой отравления местных жителей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "массового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прибыли"
+    },
+    {
+      "correctReplacement": "сбора",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

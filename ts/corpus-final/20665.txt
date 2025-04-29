@@ -1,0 +1,20 @@
+{
+  "text": "В конце своей речи Ельцине , говоривший без очков и отложу в сторону бумажку , скачавший : \"Я счастлив , что живу в этой стране , что почти двапрезидентских срока был президентом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "отложив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Ельцин"
+    },
+    {
+      "correctReplacement": "сказал",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

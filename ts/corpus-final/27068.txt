@@ -1,0 +1,20 @@
+{
+  "text": "В результкте взрыва пострадали три человека - сам Матросов , его родственница Маргарита Зубрилина и их соседи 11-летний школьник Борис Горячев . Все трое были госпитализировавшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сосед"
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

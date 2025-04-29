@@ -1,0 +1,20 @@
+{
+  "text": "Однако документы о судебной запрете были доставлены в редакции газеты слишком поздно - статья уже коявилась в ночном выпуске \"The Mail on Sunday\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "судебном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "редакцию"
+    },
+    {
+      "correctReplacement": "появилась",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

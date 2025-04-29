@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю Wired News , Судья Томас Пенфилды джейсон , подперев рукой подбородок , молча выслушало доводы обеими сторон , не задав ни одного вопроса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Пенфилд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "выслушал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "обеих"
+    },
+    {
+      "correctReplacement": "Джексон",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

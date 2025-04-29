@@ -1,0 +1,25 @@
+{
+  "text": "В последние годами он работавший главным тренером московского ЦСКА и , по-чидимому , в случае назначений в сборную не будет покидать клубный пост .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "годы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "работал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "назначения"
+    },
+    {
+      "correctReplacement": "по-видимому",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

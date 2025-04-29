@@ -1,0 +1,25 @@
+{
+  "text": "Президент Владимир Путин в субботу подпишу указ о назначении членом Совета безопасности России начальниуа Генштаба Вооруженных сил , первой заместителя министров обороны Анатолия Квашнина .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "министра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "начальника",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

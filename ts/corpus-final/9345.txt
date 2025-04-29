@@ -1,0 +1,30 @@
+{
+  "text": "На состоявшейся сегодня в Москве пресс-конференции бывшие шеф Службы безопасности президента РФ Александра Коржаков заявлю , что нём готов ответить на вопросы Генпрокуратуры о финансовом состоянии семьи Ьориса Ельцина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Александр"
+    },
+    {
+      "correctReplacement": "Бориса",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

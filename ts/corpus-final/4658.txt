@@ -1,0 +1,35 @@
+{
+  "text": "В связи с введением с 1 январей 2000 года на территории Российской дефекации налогового контроля за крупными расходамт физических лицами , Министерства по налогам и сборам выступлю в четверг с рядом разъяснений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Министерство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "лиц"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "выступило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "расходами",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В частностях , уборы с владельцев легковых автомобилей , оснастим двигателем до 100 лошадиных сил , планируются поднявшие с двух до трех рублей с одной \"лошадки\" , а свыше 100 л . с . - с четырех до десяти рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "поднять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "оснащенных"
+    },
+    {
+      "correctReplacement": "сборы",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

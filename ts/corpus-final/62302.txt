@@ -1,0 +1,30 @@
+{
+  "text": "В среды 17 май на пленарном заседании нижнего палате российского парламента предстоит проголосовать по предложенной президентом России кандидатуре на цельность председателем правительства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "нижней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "должность",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

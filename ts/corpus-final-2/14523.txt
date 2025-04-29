@@ -1,0 +1,20 @@
+{
+  "text": "На месте задержания были такое обнаружим листовки , содержащие антиамериканскую пропаганды .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пропаганду"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

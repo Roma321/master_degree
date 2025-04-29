@@ -1,0 +1,20 @@
+{
+  "text": "В Минске пойман квартирный воры , который заснул на месте преступники Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вор"
+    },
+    {
+      "correctReplacement": "преступления",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

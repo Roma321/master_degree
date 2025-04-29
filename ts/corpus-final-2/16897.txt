@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям HTV . ru , на 20 процентов с этого дня повысившие также тарики на проезд в пригородных поездах по Московского области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "повышены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Московской"
+    },
+    {
+      "correctReplacement": "тарифы",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

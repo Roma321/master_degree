@@ -1,0 +1,20 @@
+{
+  "text": "На территории России и стран СНК действуете несколько организаций , созданных экстремистским крылом международного исламской объединения \"Братья-мусульмане\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "исламского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "действуют"
+    },
+    {
+      "correctReplacement": "СНГ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

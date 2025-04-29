@@ -1,0 +1,25 @@
+{
+  "text": "Пи данным газет , это произошло с ведома главного тогдашнему \"переговорщика\" с МВФ Михаила касьян .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "газеты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "тогдашнего"
+    },
+    {
+      "correctReplacement": "Касьянова",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

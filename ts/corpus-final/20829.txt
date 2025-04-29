@@ -1,0 +1,25 @@
+{
+  "text": "Ударами авиации федеральных сил в минувшие сутки уничтожено штабы Аслана Масхадова , заполонённая в горных районах на юге Чечни .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "уничтожен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "расположенный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "штаб"
+    },
+    {
+      "correctReplacement": "расположенная",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Некоторчй следователь полагали , что Семен Могилевич , о связях которого с организую преступностью в России известно , отмывал какие-то доходы от своих предприятий через Bank of New York .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "следователи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Некоторые"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "Некоторый",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

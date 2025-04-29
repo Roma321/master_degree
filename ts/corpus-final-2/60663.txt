@@ -1,0 +1,25 @@
+{
+  "text": "Правительство распорядилась об индексации пенсий с 1 февраля 2001 лода , соответствующее постановление подписал в понедельник премьер-министр Михаил Касьянов , передавал Итар-тассом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "распорядилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

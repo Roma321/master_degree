@@ -1,0 +1,20 @@
+{
+  "text": "Они подчеркнули , что основной результат конкурса должно стать \"повышение роли торговой марки , как гарантии качества\" , передает РПА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "результатом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "основным"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

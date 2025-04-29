@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаемый BBC News , судья округа Леон , где находится столице штата , принял это решение после тех , как адвокаты Гора подали иск с требованием пересчета 14 тысяч бюллетеней из обоих округов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "столица"
+    }
+  ]
+}

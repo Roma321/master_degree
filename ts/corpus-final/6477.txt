@@ -1,0 +1,30 @@
+{
+  "text": "каюк утверждают эксперты Еврокомиссии , эти игрушки вредны для здоровья ребёнка и могут привести к заболеванию оаком в результатах воздействия на детский организм фталаты - химических соединений , придающих мягкость ПХВ-продукции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "фталатов"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "раком",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

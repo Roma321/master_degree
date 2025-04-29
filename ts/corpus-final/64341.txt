@@ -1,0 +1,25 @@
+{
+  "text": "Боевикам ведомые военные действия небольшими группами по пять-двадцать человек , крупного скоплений экстремистах не отмечено . По данным штаба группировки , экстремисты не оставляют планов пополнить свои ряды .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "крупных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "экстремистов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Боевики"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "ведут"
+    }
+  ]
+}

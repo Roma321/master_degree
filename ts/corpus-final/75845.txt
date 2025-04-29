@@ -1,0 +1,25 @@
+{
+  "text": "Прекрасный матч провел форвард петербуржцев Александр Панов , с которым гак т не смогшие справившиеся москвичи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "смогли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "справиться"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

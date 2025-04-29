@@ -1,0 +1,20 @@
+{
+  "text": "В результате вскрикнувших паники и давки погибли 53 человека , большинству изних - девушки в возрасте от 14 до 18 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "большинство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "возникшей"
+    },
+    {
+      "correctReplacement": "возникших",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

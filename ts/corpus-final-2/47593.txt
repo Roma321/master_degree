@@ -1,0 +1,25 @@
+{
+  "text": "В том же году подручные террориста по его трямой указанию осуществили взрывы у дипломатических представительств США в Кенией и Танзании , в результате которым погибли около 200 и были ранены около 4 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "прямому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Кении"
+    },
+    {
+      "correctReplacement": "прямой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Минимального размер оплаты труда (МРОТ) с 1 июля 2000 годоф составляет 132 рубля , с 1 января 2001 года он будет составлять 200 рублей , уточняет агентство финансовой информации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Минимальный"
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В немо , как отмечается в сообщении , указывается , что \"существование т деятельность указанного центра идет вразрез с официальными заявлениях Украину о поддержке линии руководства России на стабилизацию ситуациях в Чечне\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "ситуации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Украины"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "заявлениями"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нем"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

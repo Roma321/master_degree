@@ -1,0 +1,25 @@
+{
+  "text": "В Калифорнии четвёртый день длится энергетический кризис , вызванный поломку на одной из электростанций на север штаба .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "поломкой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "севере"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "четвертый"
+    },
+    {
+      "correctReplacement": "штата",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

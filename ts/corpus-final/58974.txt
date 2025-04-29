@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что сотрудники Организацию Объединённых Нацсй были захвачены бойцами Единого революционного фронт в Сьерра-Леоне сразу после той , как оттуда были выведены нигерийские подразделения , защищавшие правительство в ходе восьмилетней гражданской войны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "Объединенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Организации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "фронта"
+    },
+    {
+      "correctReplacement": "Наций",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

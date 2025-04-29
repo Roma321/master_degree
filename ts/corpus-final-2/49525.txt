@@ -1,0 +1,25 @@
+{
+  "text": "Верховный совет Украины рекомендовал президенау Леониду Кучме уволенные с занимающих должностей председателя Службы безопасности Украины Леонида Деркача и председателей государственной таможенной службы Юрия Соловкова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "занимаемых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "уволить"
+    },
+    {
+      "correctReplacement": "президенту",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

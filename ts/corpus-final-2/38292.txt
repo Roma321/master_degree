@@ -1,0 +1,25 @@
+{
+  "text": "Министр энергетики и шахт Венесуэлы , бывшее президент Организация стран экспортёра нефти (ОПЕК) Али Родригес-Араке назначен новым генеральным секретарем ОПЕК на трио года , начиная с 1 января 2001 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Организации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "экспортеров"
+    },
+    {
+      "correctReplacement": "три",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

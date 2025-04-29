@@ -1,0 +1,20 @@
+{
+  "text": "Спилберг сказала , что они с Кубриком были дугами в течением 18-ти лет , что означало для Спилберга огромные телефонные счета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "друзьями",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

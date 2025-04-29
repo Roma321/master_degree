@@ -1,0 +1,20 @@
+{
+  "text": "По имеющейся оперативного информации , инициаторе и вдохновителер этой акции является террорист бин Ладен\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "инициатором"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "оперативной"
+    },
+    {
+      "correctReplacement": "вдохновителем",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

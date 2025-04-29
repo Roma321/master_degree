@@ -1,0 +1,25 @@
+{
+  "text": "При просмотре такого сайту через броузер Netscape в фоновом режиме запускается апплет и незаметно для пользователя открываю доступа к файлы на жестком диске .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "доступ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "файлам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "открывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сайта"
+    }
+  ]
+}

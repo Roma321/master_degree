@@ -1,0 +1,25 @@
+{
+  "text": "Министр напомнило , что оба канала имеем по два официальных предупреждения в связи с нарушениями , допущенным в ходе предвыборного кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "допущенными"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В четверг в Чечне по всего линии франтом идут ожесточенные бои .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "фронта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "всей"
+    },
+    {
+      "correctReplacement": "фронтом",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

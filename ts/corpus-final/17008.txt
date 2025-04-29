@@ -1,0 +1,25 @@
+{
+  "text": "Суды пеьвого инстанции (низшая ступень судебной системы ЕС) вынес решение о необходящей рассмотрения иска .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "correctReplacement": "необходимости",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "первого",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

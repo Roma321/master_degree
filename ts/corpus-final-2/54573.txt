@@ -1,0 +1,20 @@
+{
+  "text": "В городские больница за эио время доставлены 151 человек с диагнозом \"переохлаждение\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "больницы"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

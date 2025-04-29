@@ -1,0 +1,25 @@
+{
+  "text": "Помимо этого , еслиб равсчет по сделку не будет завершен до 31 августа 2000 года , цена покупки могут быть увеличившая на сумму до 1 , 2 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "увеличена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "сделке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "если",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

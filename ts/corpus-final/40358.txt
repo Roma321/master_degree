@@ -1,0 +1,20 @@
+{
+  "text": "После Нестерова остались жена и двое ребёнка — девочка , 5-ти лет , и мальчик , 3-х гонах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "годах",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

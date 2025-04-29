@@ -1,0 +1,25 @@
+{
+  "text": "Красное Крест также готова осуществляющие программы медицинской помощи и содействия в организации водоснабжения и санитарно-профилактических сероприятий .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Красный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "осуществлять"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "готов"
+    },
+    {
+      "correctReplacement": "мероприятий",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

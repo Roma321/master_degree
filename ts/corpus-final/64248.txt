@@ -1,0 +1,25 @@
+{
+  "text": "Однако при досмотре машиня в прицепе были обнаружившие 88 бочек этилового спирта , используемого для производства поддельными алкогольных напитков , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "поддельных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

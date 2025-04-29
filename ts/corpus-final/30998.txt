@@ -1,0 +1,35 @@
+{
+  "text": "В американской прессе уже несколько недель циркулируют слухи , что целый ряд ключевых фигур в американских адмиоистрации подбираемые себе овыи рабочих места в связи с окончанием президентского сроков Билла Клинтона .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "подбирают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "срока"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "рабочие"
+    },
+    {
+      "correctReplacement": "новые",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

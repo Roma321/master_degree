@@ -1,0 +1,25 @@
+{
+  "text": "Приобретение \"Коминкома\" стало вторым по объему вложением Telenor в Россию после покупкой в прошлом году за 160 миллионов долларов 25 процентов акциями компании вотовой связи ОАО \"Вымпелком\" , торговая марка \"Би Лайн\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "покупки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "сотовой",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

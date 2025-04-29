@@ -1,0 +1,30 @@
+{
+  "text": "22 ноября сотрудниками уголовной розыска УВД подмосковного Серпухова за совершение серий квартирным краж был задержан 42-летнее Михаил Шавман , житель городом Чехоф .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "42-летний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "квартирных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "correctReplacement": "Чехов",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

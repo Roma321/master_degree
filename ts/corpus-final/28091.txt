@@ -1,0 +1,30 @@
+{
+  "text": "Директор ФСБ , замруководителя федеральной антитеррористического комиссией Николай Патрушев разослал телеграмм руководителям субъектов Федерации , в которых просят немедленно провести заседания антитеррористического комиссий , принять все меры по предотвращению возможных терактов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "просит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "комиссии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "антитеррористических"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "телеграммы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "антитеррористической"
+    }
+  ]
+}

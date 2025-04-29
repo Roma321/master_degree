@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , руководстве кампании тратит значитальные средства не на дакупку топлива , а на покупку эфирного времени на местной телевидении .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "местном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "руководство"
+    },
+    {
+      "correctReplacement": "закупку",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

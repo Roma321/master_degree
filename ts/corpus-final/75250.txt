@@ -1,0 +1,20 @@
+{
+  "text": "В случае положительной заключения вопрос переходящий в боровскую Думу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "положительного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "переходит"
+    },
+    {
+      "correctReplacement": "городскую",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

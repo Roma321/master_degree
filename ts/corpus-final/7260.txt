@@ -1,0 +1,25 @@
+{
+  "text": "Однако уже в 2000 году правительство Россию должно начать разрабатывать экономическую программы , основанную на пгинципе расширения налогооблагаемого базы и снижения налогового бремени .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "налогооблагаемой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "программу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "принципе",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Жертвам нацизма из Восточная Европы , пострадавшим во время Второго мировой войны , правительство Германии выплатит по 15 тысяч немецких марок в качестве компенсации за причинивший моральный ущерп .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Второй"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "причиненный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Восточной"
+    },
+    {
+      "correctReplacement": "ущерб",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

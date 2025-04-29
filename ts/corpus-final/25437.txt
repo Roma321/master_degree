@@ -1,0 +1,30 @@
+{
+  "text": "Кроме той , в Доме правительства поныне действуешь негласное распоряжение - в случае если сотрудник почувствовал , что заболевает , он должен немедленно взять больничный и не заражать звоими коллег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "своих"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "действует"
+    },
+    {
+      "correctReplacement": "отныне",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "своими",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

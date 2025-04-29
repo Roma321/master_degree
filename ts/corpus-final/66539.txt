@@ -1,0 +1,25 @@
+{
+  "text": "Ведусь поиск преступников , решается вопросик о возбуждении уголовному дела Д",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Ведется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

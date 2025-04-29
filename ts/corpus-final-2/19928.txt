@@ -1,0 +1,25 @@
+{
+  "text": "С подобными обвинениями выступили в пятничном номере газеты Miami Herald (Льоса сейчас находится в Майами) ветеран американской политической журналистики , бывшай сотрудник журфак Times Бернардом Дидерих .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Бернард"
+    },
+    {
+      "correctReplacement": "журнала",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

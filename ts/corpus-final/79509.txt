@@ -1,0 +1,25 @@
+{
+  "text": "До настоящего времени по конституцией Югославии одно и то же лицо не могло занимать президентский кресла два срока подряд , однако в четверг обе палаты югославского парламента принявшие поправку , снимающую это ограничение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "президентское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "кресло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "конституции"
+    }
+  ]
+}

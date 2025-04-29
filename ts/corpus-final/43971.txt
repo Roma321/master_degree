@@ -1,0 +1,20 @@
+{
+  "text": "Задержанному будут предъявим обвинения в незаконной ношении холодного оружия и подкреплении наркотиков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "незаконном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "предъявлены"
+    },
+    {
+      "correctReplacement": "употреблении",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

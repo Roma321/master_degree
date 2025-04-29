@@ -1,0 +1,20 @@
+{
+  "text": "А другая источник \"Интерфакса-АФИ\" , близкий к Центробанку , отметил , что Банк России не размещал заказы на печать 1000-рублевой купавшие на фабрикой \"Гознак\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "фабрике"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "другой"
+    },
+    {
+      "correctReplacement": "купюры",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

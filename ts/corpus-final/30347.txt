@@ -1,0 +1,20 @@
+{
+  "text": "Пресс-секретарь президента России Дмитрий Якушкин сморщенный журналистам , что самому Борис Ельцин работаетсегодня в резиденции Горки-9 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Сейчас Московский вокзал рабопают в обычном режиме .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "работают",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

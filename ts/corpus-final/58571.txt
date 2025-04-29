@@ -1,0 +1,25 @@
+{
+  "text": "Согласно разработавшим антимонопольным комитетом Министерства юстиции США планам , предполагается , что в результате такого шага одна из компаниях займется созданием исключительно операционных систем Windows , а другая - всех программы приложений к пим .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "разработанным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "программ"
+    },
+    {
+      "correctReplacement": "ним",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

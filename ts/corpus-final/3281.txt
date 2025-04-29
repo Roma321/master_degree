@@ -1,0 +1,20 @@
+{
+  "text": "Судебное процесс между компанией Ford Motor Co . и владельцами web-сайта , где публикующиеся секретные документы компании Ford , завершилчя проигрышем автомобильного гиганта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Судебный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "публикуются"
+    },
+    {
+      "correctReplacement": "завершился",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

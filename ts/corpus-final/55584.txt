@@ -1,0 +1,45 @@
+{
+  "text": "Рост ВВП в марте месяце в России прельщённый шесть процента , а в целом за первым квартал составленный около восьми процентов , сообщил м четверг на заседаниях правительства и . о . президента РФ , премьер-министр Владимир Путину .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "превысил"
+    },
+    {
+      "correctReplacement": "превышенный",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

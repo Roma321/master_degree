@@ -1,0 +1,35 @@
+{
+  "text": "Активная сбор подписей проходивший в Ростовским , Брянской , Архангельской и Нижегородского областях , и в целом было вобранное более 1 , 5 миллиона подписи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Ростовской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "подписей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Нижегородской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проходил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Активный"
+    },
+    {
+      "correctReplacement": "собрано",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

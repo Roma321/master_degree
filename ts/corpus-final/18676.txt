@@ -1,0 +1,20 @@
+{
+  "text": "Тем временем , в увд столицы продолжаетесь кадровые перестановки . Во вторник приказом министра внутренних дел РФ Владимира Рушайло назначены две первых заместителя начальника ГУВД Москвы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "продолжаются"
+    },
+    {
+      "correctReplacement": "ГУВД",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

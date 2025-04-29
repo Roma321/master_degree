@@ -1,0 +1,25 @@
+{
+  "text": "На главную странницу сайта преступники помещу изображение мультипликационного персонажа Дональда Дака со шприцами в руке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "шприцом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "поместил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "преступник"
+    },
+    {
+      "correctReplacement": "страницу",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

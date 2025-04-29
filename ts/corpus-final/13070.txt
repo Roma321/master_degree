@@ -1,0 +1,30 @@
+{
+  "text": "Ожидается , чьо в ночи на субботе ветер усилившийся до 20-25 м в секунду , а сила отдельных прорывов ветра будет достигать 30-35 м в секунду .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "усилится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ночь"
+    },
+    {
+      "correctReplacement": "порывов",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

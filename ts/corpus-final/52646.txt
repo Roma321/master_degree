@@ -1,0 +1,20 @@
+{
+  "text": "Учёные полагают , что этот кусок льда из Антарктики есть неоспоримому авидетельство глобального потепления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Ученые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "неоспоримое"
+    },
+    {
+      "correctReplacement": "свидетельство",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

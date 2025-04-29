@@ -1,0 +1,25 @@
+{
+  "text": "Однако эту проекту встречает серьезное сопротивление , в частности , со стороны развивающихся стран , надеющихся за счет налогообложения электронных транзакций аккумулировавшие средства мля развития национальных систем телекоммуникаций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "проект"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "аккумулировать"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

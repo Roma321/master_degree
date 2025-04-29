@@ -1,0 +1,25 @@
+{
+  "text": "Невоторые семье , квартиры сотового были разрушены , уже получили ордера на нового жилье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "новое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "семьи"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Некоторые",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

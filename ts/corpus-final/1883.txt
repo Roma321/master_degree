@@ -1,0 +1,20 @@
+{
+  "text": "Он отметил также , что больше всего таможенным платежей теряется в Москофских регионе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "таможенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Московском"
+    },
+    {
+      "correctReplacement": "Московских",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

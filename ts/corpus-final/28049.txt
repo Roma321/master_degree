@@ -1,0 +1,25 @@
+{
+  "text": "У них сопздвенная посуда , предметы обиходе , одежда , которые подвергаетесь самой желательной обработке дезинфицирующими средствами .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "подвергаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "обихода"
+    },
+    {
+      "correctReplacement": "тщательной",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "собственная",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По мнению Починкой , вопрос о необходимость разделении реестров и ведения земельной кадастра отдельно от реестра на неуязвимость не имеет однозначного решения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "земельного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "разделения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Починка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "необходимости"
+    },
+    {
+      "correctReplacement": "недвижимость",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

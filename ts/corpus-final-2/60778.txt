@@ -1,0 +1,20 @@
+{
+  "text": "На European systems trade show , проводимой в Мюнхене , компьютеры под защитой Argus тавже оказались несокрушимы , несмотря на объявлю премию в 100 000 немецких марок .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "объявленную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "проводимом"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

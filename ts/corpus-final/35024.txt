@@ -1,0 +1,25 @@
+{
+  "text": "Ужин на восемь персон , вкиючая двух знаменитостей , состоюсь там же , в любимом ресторане Павлов Буре .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "состоится"
+    },
+    {
+      "correctReplacement": "любимом",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

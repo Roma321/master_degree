@@ -1,0 +1,25 @@
+{
+  "text": "Компьютеризированную одежду предполагается использовать и для активных послеоперационному наблюденмя пациентов - она позволит сократить сроки их пребывания в стационару после хирургического вмешательства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "стационаре"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "активного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "послеоперационного"
+    },
+    {
+      "correctReplacement": "наблюдения",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Совет Федерацми в среду подтвердил полномочия шестерых сенаторов , назначенных в соответствии с новым законом о порядке формирования верхнем палата парламента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "верхней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "палаты"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

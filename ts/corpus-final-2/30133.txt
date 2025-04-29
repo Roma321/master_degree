@@ -1,0 +1,20 @@
+{
+  "text": "ельцинское обследование показало , что причиной кровотечений являющийся вполне излечимая болезнь лёгкого .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "легких"
+    },
+    {
+      "correctReplacement": "Медицинское",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

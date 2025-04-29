@@ -1,0 +1,20 @@
+{
+  "text": "Представители ответчика настаивает , что ни понятие публикации в Интернете , ни понятие ссылки в интранет юридически не определены .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "настаивают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "correctReplacement": "Интернет",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

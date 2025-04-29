@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты не вынесли воя заключения о причинах пожаре , но в первых докладах с мест происшествия речь шла о неисправной электропроводке и о дымоходах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "места"
+    },
+    {
+      "correctReplacement": "своего",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

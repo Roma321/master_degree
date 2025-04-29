@@ -1,0 +1,20 @@
+{
+  "text": "В телеобращении к нации президент заявлю , что марш пройдёт по окончании торжеств по случаю девятой годовщины независимости Туркменистана Р",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Трое налетчиков , воьвавшиеся в квартиру , угрожали хозяину оружиями и требовали немедленно выданные им 50 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выдать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "оружием"
+    },
+    {
+      "correctReplacement": "ворвавшиеся",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

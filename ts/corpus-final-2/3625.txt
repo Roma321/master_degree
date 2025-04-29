@@ -1,0 +1,25 @@
+{
+  "text": "Это позволит ему приехать в Вашингтон во вторая половине дня в воскресенье , а не пгздно ночью , как планировались ранец , и сразу же направиться в Кемп-Дэвид .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "планировалось"
+    },
+    {
+      "correctReplacement": "ранее",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "поздно",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

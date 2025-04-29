@@ -1,0 +1,20 @@
+{
+  "text": "Министерство сельского хозяйств США объявившее , что выделит России 28 , 5 тысячи бонн продовольственной помощи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "объявило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "хозяйства"
+    },
+    {
+      "correctReplacement": "тонн",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

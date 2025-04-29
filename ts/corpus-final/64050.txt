@@ -1,0 +1,20 @@
+{
+  "text": "По некоторым данным , обещаю им выходному пособие ыоставит всего 800 фунтов стерлингов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "выходное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обещанное"
+    },
+    {
+      "correctReplacement": "составит",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

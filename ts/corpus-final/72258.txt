@@ -1,0 +1,30 @@
+{
+  "text": "Проект экономической программы , подготовлю Центра стратегических разработок Германа Грефов , будет обсужден на следующей неделе на стерильном заседании кабинете министров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "кабинета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Центром"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "подготовленный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Грефа"
+    },
+    {
+      "correctReplacement": "специальном",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

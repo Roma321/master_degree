@@ -1,0 +1,20 @@
+{
+  "text": "Получив откат , он выстрелил в водитель из газового пистолетом и попытался убежать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пистолета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "водителя"
+    },
+    {
+      "correctReplacement": "отказ",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

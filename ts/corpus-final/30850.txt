@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщивший в интервью РИА \"Новости\" один из ррссийских дипломатов , находившегося на борту танкера \"Волгонефть-147\" , обстановка на российском танкере нормальная , все здоровы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "находившихся"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В четверг Индонезия официально заявила , что не разрешаешь введение миротворцев ООН в Восточное Тимор , где уже неделю продолжется резня и сотни сырные жителей убившие местной милицией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Восточный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "разрешает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "мирных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "убиты"
+    },
+    {
+      "correctReplacement": "мирные",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

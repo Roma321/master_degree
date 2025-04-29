@@ -1,0 +1,20 @@
+{
+  "text": "По данным РБК , сейчас Юрий Шэтов нахожусь в одним из СИЗО Санкт-Петербурга .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "одном"
+    },
+    {
+      "correctReplacement": "Шутов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

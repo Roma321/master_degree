@@ -1,0 +1,25 @@
+{
+  "text": "По утверждению звидетеля , именно это дипломат и лежащие рядом неких компоненты взрывного устройства он раньше вижу в кабинете последнего .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "видел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "некие"
+    },
+    {
+      "correctReplacement": "свидетеля",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

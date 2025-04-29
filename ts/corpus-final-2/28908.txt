@@ -1,0 +1,25 @@
+{
+  "text": "Местом депутата оказалось вакантным после той , как Сергей Степашин возрлавили Счетную палату РФ и сложил с себя депутатские полномочия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Место"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "возглавил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "возглавили",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

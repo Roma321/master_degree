@@ -1,0 +1,40 @@
+{
+  "text": "В настоящий моменте область сталкиваюсь с рящом серьезных проблем в сфере безопасности , таких , как распространение организованного преступность , коррупция , проституция и торговля наркотиками , угон автомобилей , нелегальное провоз лиц и поваров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "преступности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "момент"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сталкивается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "нелегальный"
+    },
+    {
+      "correctReplacement": "товаров",
+      "type": "paronym",
+      "wordNumber": 34
+    },
+    {
+      "correctReplacement": "рядом",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

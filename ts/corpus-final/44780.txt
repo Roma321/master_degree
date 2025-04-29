@@ -1,0 +1,15 @@
+{
+  "text": "В момент ввоза похищенной вооружения на четырех грузовиках офицеры были задержаны сотрудниками РУОП .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "похищенного"
+    },
+    {
+      "correctReplacement": "вывоза",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

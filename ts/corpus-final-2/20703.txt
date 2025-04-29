@@ -1,0 +1,25 @@
+{
+  "text": "Конгрессмены обвинили Клинтона в том , что с самом начала он не уделю достаточного внимания взаимоотношениям Америки и России и , таким образом , упустифший \"величайший шанс для внешней политики США со времен Второй Мировой войны\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "уделил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "самого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "упустил"
+    },
+    {
+      "correctReplacement": "упустивший",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

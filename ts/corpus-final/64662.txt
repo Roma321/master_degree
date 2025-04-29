@@ -1,0 +1,25 @@
+{
+  "text": "Ранее он отложили своё поездку в Вашиогтон , где планируюсь провести очередную консультацию с президентом США Клинтоном по вопросу о выводе израильских войск с территории Ливана .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "планировалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отложил"
+    },
+    {
+      "correctReplacement": "Вашингтон",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

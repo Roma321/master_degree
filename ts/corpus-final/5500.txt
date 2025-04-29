@@ -1,0 +1,25 @@
+{
+  "text": "Официальное сайт Леонида Кучмы появился непосредственно перед второй туром президентских выборов : единственным соперником Кучмы теперь валяется Петр Симоненко , имеющий значительные шанс на победу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "шансы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Официальный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "вторым"
+    },
+    {
+      "correctReplacement": "является",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

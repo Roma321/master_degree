@@ -1,0 +1,20 @@
+{
+  "text": "Актёры родился в 1930 году , выгребший в Эдинбурге , где ему случалось работать полировщиком гробы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "гробов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Актер"
+    },
+    {
+      "correctReplacement": "вырос",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

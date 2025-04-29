@@ -1,0 +1,20 @@
+{
+  "text": "Бывший же президент перл Фухимори , этнический японец , выписался из гостиницы в Японии , где находилась до этого времени , и скрылся в неизвестной направлении .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "неизвестном"
+    },
+    {
+      "correctReplacement": "Перу",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

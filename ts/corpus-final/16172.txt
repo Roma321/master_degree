@@ -1,0 +1,25 @@
+{
+  "text": "15 ноября США и КНР подписанные соглашение , по которому американские инвесторы получаем возможность покупать до 49 процентов акций китайских телекоммуникационных предприятий , включая компаний , работающие в облксти Интернет-технологий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "подписали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "получали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

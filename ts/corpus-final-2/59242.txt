@@ -1,0 +1,25 @@
+{
+  "text": "9 января на очередном заседании по данному дела суд так и не приступил к слушанию дела по существас , поскольку третий адвокат Сутягина Анна Ставицкая не успела ознакомиться с материалов дела .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "существу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "материалами"
+    },
+    {
+      "correctReplacement": "существам",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

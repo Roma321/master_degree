@@ -1,0 +1,20 @@
+{
+  "text": "Он заявил , что за последифшие десять дней удары по Грозным не наносились .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Грозному"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "последившие",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

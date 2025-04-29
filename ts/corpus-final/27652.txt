@@ -1,0 +1,25 @@
+{
+  "text": "Тайные голосование об отрыве Дудника состоялось 26 январю , однако протокол счетной комиссии был утвержу только в четверг .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "утвержден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Тайное"
+    },
+    {
+      "correctReplacement": "отзыве",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

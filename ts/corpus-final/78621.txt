@@ -1,0 +1,30 @@
+{
+  "text": "Об этим во вторники сообщил глава палаты Епор Строев после телефонной разговора с президентами , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "телефонного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "correctReplacement": "Егор",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

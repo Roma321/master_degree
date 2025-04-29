@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю ИТАР-ТАСС , эту информации подтвердил министр информации Югославия Горан Матич в интервью издающейся в Югославии американской газеты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Югославии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "газете"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Центр урагана беспорядочно перемещается , вызываемый им порывы ветром распространяются на территорию в радиусе до 45 километрам от центра и местами достигает 120 км/ч . Президент США Билл Клинтон объявил чрезвычайное положение в районе принадлежащих США Виргинских островоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вызываемые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "километров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ветра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "достигают"
+    },
+    {
+      "correctReplacement": "островов",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

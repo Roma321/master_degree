@@ -1,0 +1,30 @@
+{
+  "text": "Как заявил командующий Объединённой группировкой федеральных сил Валерий Баранов , на одном из блокпостов была обставившая машина , в которой нахожусь трёх человека .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "три"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "остановлена"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "находилось"
+    },
+    {
+      "correctReplacement": "остановившая",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Правоохранительные органы не установили также , бывшее ли это разбойному нападение или же целенаправленное покушение на дурналиста .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "разбойное"
+    },
+    {
+      "correctReplacement": "журналиста",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "До ареста он служил в Национальной институте чоенных исследований Управления национальной обороны Японией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Японии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Национальном"
+    },
+    {
+      "correctReplacement": "военных",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

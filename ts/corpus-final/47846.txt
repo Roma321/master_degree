@@ -1,0 +1,25 @@
+{
+  "text": "Уже в следующем годы пассажир британских авиалиний смогут пользоваться Интернетом на боьта самолетов на высоте 11 км .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "пассажиры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "борту"
+    },
+    {
+      "correctReplacement": "борта",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Проведения состязаний в Лейк-Плэсиде обошедшийся в 30 миллионов долларов , но примерно половину расхода берет на себя туристические упрмвление штата Нью-Йорк .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обойдется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Проведение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "туристическое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "расходов"
+    },
+    {
+      "correctReplacement": "управление",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

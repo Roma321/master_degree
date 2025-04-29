@@ -1,0 +1,25 @@
+{
+  "text": "Стивен Спилберг , обладатель нескольких \"Оскаров\" и лауреат огромного количества премиям , включая награду \"За достояния всей жизни\" от American Film Institute , до настоящим моментов не имел своей звезды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "настоящего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "момента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "премий"
+    },
+    {
+      "correctReplacement": "достижения",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

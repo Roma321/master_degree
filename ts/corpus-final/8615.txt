@@ -1,0 +1,30 @@
+{
+  "text": "Возможно , впрочем , что требование отстафки было отложу по этическому соображения : Геннадий Селезнев второй день находятся в Центральной Клинической больнице с острым гриппом , ему прописан постельный режим .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отложено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "этическим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "соображениям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "отставки",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

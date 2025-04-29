@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениб Reuters , два сенатора конгресса США получившие , в общей сложности , 70 тысяч писем по электронной почте от любителей формата MP3 с призыве поддержавшие Napster и MP3 . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "призывом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "поддержать"
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

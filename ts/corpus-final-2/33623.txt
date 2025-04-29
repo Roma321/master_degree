@@ -1,0 +1,30 @@
+{
+  "text": "Матч в Петербурге началось с обоюдного атак , в которых чуть острее действовали гостов Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "обоюдных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "гости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "начался"
+    },
+    {
+      "correctReplacement": "гостей",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

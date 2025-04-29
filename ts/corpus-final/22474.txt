@@ -1,0 +1,30 @@
+{
+  "text": "10 янтаря Центральной избирательный комиссия РФ постановленная образовавшие избирательную комиссию Чеченской Республики в количестве 14 человек для проведения выборов президента РФ и выборов депутата Госдумы России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "избирательная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "образовать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Центральная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "постановила"
+    },
+    {
+      "correctReplacement": "января",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

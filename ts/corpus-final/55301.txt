@@ -1,0 +1,25 @@
+{
+  "text": "Президентом организации с 1997 год являюсь Ферайдун Вердинеджад , директор-распорядитель информационного турагентства IRNA (Иран) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "являлся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "агентства",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Ферейдун",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

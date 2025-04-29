@@ -1,0 +1,30 @@
+{
+  "text": "В пятнице они провёдшие переговоры с российским руководством , в том чицло - с Владимиром Путиными (впервые после его избрания президентом России) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Путиным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "число",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

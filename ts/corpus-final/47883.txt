@@ -1,0 +1,25 @@
+{
+  "text": "И делать отчнты надо ещедо той , как денег кончились , тогда проблем с выделениемочередных партии средств на питание беженцев не будет\" , -сказал глава ФМС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "партий"
+    },
+    {
+      "correctReplacement": "отчеты",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

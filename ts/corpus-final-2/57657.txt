@@ -1,0 +1,25 @@
+{
+  "text": "Специалисты полагаем , что очаг водворение находился в отделе детских игрушек на первых этаж .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "этаже"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "первом"
+    },
+    {
+      "correctReplacement": "возгорания",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

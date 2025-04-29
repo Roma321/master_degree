@@ -1,0 +1,20 @@
+{
+  "text": "Взрыв прогремел в трёх часа утрл .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "три"
+    },
+    {
+      "correctReplacement": "утра",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "утра",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

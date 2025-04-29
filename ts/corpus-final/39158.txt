@@ -1,0 +1,30 @@
+{
+  "text": "Резкого повышения цен на газом не будешь , вначале нужно проработанные вопросе о компенсациях населению , заявил в пятницу и . о . презилента России Владимир Путин на Всероссийском совещании по проблемам ТЭК .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "газ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проработать"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

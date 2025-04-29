@@ -1,0 +1,20 @@
+{
+  "text": "Сам Горбачев будет снииаться только в первое день , затем его заменили двойником , сообщает немецкое информационное агентство DPA .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "заменят"
+    },
+    {
+      "correctReplacement": "сниматься",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

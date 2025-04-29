@@ -1,0 +1,40 @@
+{
+  "text": "Военные суды Балтийского флота признал виновной в государственной измене в форме шпионажа бывшего капитана третьей рангу Сергея Величко , и приговоривший его к пяти годам заключения с лишением воинского звания и государственных награт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Военный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "третьего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "ранга"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "виновным"
+    },
+    {
+      "correctReplacement": "наград",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

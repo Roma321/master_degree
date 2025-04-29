@@ -1,0 +1,25 @@
+{
+  "text": "Британская полиция , арестовавшая во вторник двух китайцев - мужчину и женщину - предъявил им официальное обвинение в причастности к гибелью 18 июня 58 нелегальных иммигранта из Китая , сообщают BBC .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "предъявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "гибели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "иммигрантов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

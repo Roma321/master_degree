@@ -1,0 +1,30 @@
+{
+  "text": "Предполагались , что в течение марсианского года (687 земных дней) станции , кружа на высоте 405 километры , будет собирать информацию о ее климате и различногн характеристиках атмосферы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "станция"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "различных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "километров"
+    },
+    {
+      "correctReplacement": "различного",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

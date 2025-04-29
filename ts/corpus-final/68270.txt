@@ -1,0 +1,35 @@
+{
+  "text": "Самолет австрмлийских ВВС , несколько вертолётов и до 30 морских судов ведёте интенсивные поиски остальных пассажиров и командиров самолёта , но шансы на их выживание минимален , так как температура воды в море очень низкая (в Австралии сейчас зима) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "минимальны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "командира"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "ведут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вертолетов"
+    },
+    {
+      "correctReplacement": "самолета",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "австралийских",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

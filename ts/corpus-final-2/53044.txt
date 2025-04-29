@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшнем жню установлено , что вирус могут разносить червей Happy99 . worm , известный также как W32 . Ska , и W32 . hllw . bymer . worm .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "черви"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "день"
+    },
+    {
+      "correctReplacement": "дню",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

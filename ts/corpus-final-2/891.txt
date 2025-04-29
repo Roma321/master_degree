@@ -1,0 +1,20 @@
+{
+  "text": "В ходе этого совещания Путин намеренна уделить значительное внимание вопросам , связанными с функционированием института полпредов президента в кругах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "намерен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "связанным"
+    },
+    {
+      "correctReplacement": "округах",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

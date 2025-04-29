@@ -1,0 +1,20 @@
+{
+  "text": "После многословного переносов судебных заседаний суд приступил к слушанию существ дела и начал допрос подсудимых , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "многочисленных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "существа"
+    },
+    {
+      "correctReplacement": "многочисленного",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

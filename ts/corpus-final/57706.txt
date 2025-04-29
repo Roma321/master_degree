@@ -1,0 +1,20 @@
+{
+  "text": "Объёмы подработки нефти достигнут 225 миллионов тонп .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Объемы"
+    },
+    {
+      "correctReplacement": "переработки",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "тонн",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Сильнее всей пострадал самый младший из неуемных экспериментаторов : 12-летнего Алексею Блинову , который и несённый бамбы , оторвавшее кисть левой руки , он был без сознания отправлен в больницу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "нес"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бомбу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "12-летнему"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "оторвало"
+    },
+    {
+      "correctReplacement": "бомбы",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

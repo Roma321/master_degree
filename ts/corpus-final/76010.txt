@@ -1,0 +1,25 @@
+{
+  "text": "Согласно договоренностям между участниками альянса , после ее поаупки компании Hyundai отойду 19 , 9 процент акций Daewoo , Daimler Chrysler - 50 , 1 процента , остальные 30 процентов поделённые банки-кредиторы Daewoo .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "поделят"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "отойдет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "покупки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

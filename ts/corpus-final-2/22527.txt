@@ -1,0 +1,20 @@
+{
+  "text": "Иранский штангисты Хусейн Таваколи завоевало первую золотуд медаль для своей страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "завоевал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "штангист"
+    },
+    {
+      "correctReplacement": "золотую",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

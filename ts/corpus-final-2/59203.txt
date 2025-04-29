@@ -1,0 +1,20 @@
+{
+  "text": "Наибольшими темпами разменивался немецкое экспортом , на который ориентированы треть производителей Германии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "немецкий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "экспорт"
+    },
+    {
+      "correctReplacement": "развивался",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

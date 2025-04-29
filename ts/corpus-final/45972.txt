@@ -1,0 +1,20 @@
+{
+  "text": "Канал ТВЦ направили исковое заявление в арбитражное суд , в котором опротестовал два аредупреждения , вынесенные каналу Министерством печати .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "предупреждения",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Третий день в США продолжался общенациональную катастрофа : продажа оружие по всей стране прекращена из-за ошибки в программном обеспечении компьютеров ФБР , где хранятсц база данных , использующая для проверки \"криминального прошлого\" покупателей оружия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "хранится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "используемая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "оружия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "общенациональная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "correctReplacement": "хранятся",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

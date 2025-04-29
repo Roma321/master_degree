@@ -1,0 +1,25 @@
+{
+  "text": "Остальных пострадавших после оказарий неодолимого медицинской помощи отпустили домой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "оказания"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "необходимой"
+    },
+    {
+      "correctReplacement": "необходимого",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "оказаний",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

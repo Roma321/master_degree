@@ -1,0 +1,20 @@
+{
+  "text": "Вице-премьер также сказала , что компания оудет заниматься восстановлением нефтегазового комплекса Чечни и текущей добычей нефти , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сам депутат в это время находился на лечении в Греции , доказательству чего послужившая справка из греческой клиники , предоставленный в ВР Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "доказательством"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "предоставленная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "послужила"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

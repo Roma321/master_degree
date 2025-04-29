@@ -1,0 +1,20 @@
+{
+  "text": "В интервью газете Il Messaggero Парзан поведал , как тяжело его было работать в больнице и каждую день видеть , как страдают и умирают люди .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "Тарзан",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

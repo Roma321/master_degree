@@ -1,0 +1,30 @@
+{
+  "text": "живцы сгоревшей квартиры были переселены из этого дома и , как полагали пожарные , их сосет пытались поджечь здание , чтобы ускорить улучшение собственных жилищных условия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "условий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "соседи"
+    },
+    {
+      "correctReplacement": "Жильцы",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "сосед",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

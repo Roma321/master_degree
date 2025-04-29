@@ -1,0 +1,25 @@
+{
+  "text": "Предыдущий рекорд был зафиксирован на единой торговой сессии 26 августа текущему оодов и равнялся $272 , 2 миллиона .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "торговой",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

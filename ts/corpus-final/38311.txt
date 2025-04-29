@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению агенства Assosiated Press , в Японии по малейшей мере 26 человек погибли и около 400 раним в результате восемнадцатого по счету и самого мощного в этом сезоне тайфуном , полученного имя \"Барт\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "меньшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "тайфуна"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "получившего"
+    }
+  ]
+}

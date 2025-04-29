@@ -1,0 +1,30 @@
+{
+  "text": "Когда в 1996-м году скончались его жёны , он вернулся в Грецию и поселилось код своему собственным именем в пригороде Афин вместе с детьми .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "скончалась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "поселился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "своим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "жена"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

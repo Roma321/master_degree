@@ -1,0 +1,20 @@
+{
+  "text": "На эпой неделе должна была состояться казнь на электрическом стуле преступников , обвиняемого в убийством девушки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "убийстве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "преступника"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Для рекламы только что открытого веб-сайтов своего знаменитого Книг рекордов комитет Гиннеса использовал самое нашенское в мире рекламное объявление , сообщённое в среду информационное агентство Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "веб-сайта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Книги"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "знаменитой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "маленькое",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

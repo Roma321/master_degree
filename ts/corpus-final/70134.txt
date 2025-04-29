@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , суд счёл незаконной положение алтайской конституции , согласно котором земля , недра , леса , растительный и животный миром , водный и другими природные ресурсы являются достоянием (собственностью) Республики Алтай .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "счел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "мир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "которому"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "другие"
+    }
+  ]
+}

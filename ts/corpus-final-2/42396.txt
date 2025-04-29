@@ -1,0 +1,20 @@
+{
+  "text": "Основному рынком сбыта \"Кристалла\" по-прежнему остается Москва - на долю регионов приходится не более 25 процентов всех подстав продукция \"Кристалла\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Основным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "продукции"
+    },
+    {
+      "correctReplacement": "поставок",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Примерно через час , после тщательного поверки угроза взрыва была снят .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "тщательной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "снята"
+    },
+    {
+      "correctReplacement": "проверки",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

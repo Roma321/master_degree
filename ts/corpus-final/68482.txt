@@ -1,0 +1,25 @@
+{
+  "text": "В обрашении депутат просят преаьера принять срочные меры по полному завершению финансировании неприятий в соответствии с принятыми законами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "финансирования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "мероприятий",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "премьера",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

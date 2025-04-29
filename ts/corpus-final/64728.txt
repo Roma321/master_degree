@@ -1,0 +1,30 @@
+{
+  "text": "По информаций начальника департамент комитета национальной безопасности Казахстана по Алма-Ате и Алмаатинской области Рахата Алиева , вместе с Нематовым , котором не польшовался дипломатической неприкосновенностью , под стражу взяты еще пять человек , подозреваемых в наркоторговле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "департамента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "пользуется"
+    },
+    {
+      "correctReplacement": "пользовался",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "выброса о необходимостей урегулирования этой проблемы был поставлен перед прпзидентом РФ накануне во время беседы Владимира Путина с пенсионерами во Владимире .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "необходимости"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вопрос"
+    },
+    {
+      "correctReplacement": "Вопроса",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "президентом",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

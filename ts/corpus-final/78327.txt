@@ -1,0 +1,25 @@
+{
+  "text": "По мнению журналиста , Национальная партия действия , сопоставлявшая современный мексиканский бизнес , вряд ли будет проводившие радикально новый политический курс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проводить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "представляющая"
+    },
+    {
+      "correctReplacement": "представлявшая",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

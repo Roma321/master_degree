@@ -1,0 +1,40 @@
+{
+  "text": "Черномырдиным посоветовали кандидата республиканцев готовиться к усадебному процессу по вопросу о том , на каких основаниях бн \"допустил высказывания , напрямую затрагивающие честь и деловую репутацию\" российского экс-премьера .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "кандидату"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "посоветовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Черномырдин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "основании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "каком"
+    },
+    {
+      "correctReplacement": "судебному",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

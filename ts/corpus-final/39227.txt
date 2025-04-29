@@ -1,0 +1,25 @@
+{
+  "text": "\"В эту печального статистику включены и пооери , связанные с обстрелом автоколоннами подмосковного ОМОНа вод Грозным\" , - отметил Ястржембский .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "печальную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "автоколонны"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "потери",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

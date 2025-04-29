@@ -1,0 +1,25 @@
+{
+  "text": "По данным Ребгун , свыше 88 миллионов рублям находимся в Фонде трогательной резервирования в ЦБР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "обязательного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "обязательной",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

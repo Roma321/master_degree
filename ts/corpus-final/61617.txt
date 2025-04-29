@@ -1,0 +1,25 @@
+{
+  "text": "По мнению организаторов митинга , меры московского правительства приведённые лишь к резкому повышению ценах на основные товары , что больно ударенный по кармару москвичей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "приведут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "ударит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "цен"
+    },
+    {
+      "correctReplacement": "карману",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Газета нк исключает , что именно замена топливного насоса могли стать причине пожар и последующей катастрофы рейса AF4590 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "могла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "причиной"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

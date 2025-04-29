@@ -1,0 +1,25 @@
+{
+  "text": "Женщине , проживающей в гвартире , гдр произошёл взрыв , оторвавшее руку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оторвало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "квартире",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

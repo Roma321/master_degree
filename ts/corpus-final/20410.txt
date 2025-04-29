@@ -1,0 +1,20 @@
+{
+  "text": "Неподалеку от города Кран-Монтана упавшая ёлки перерубил подвесную дорогу , в результате возвращавшаяся на базу кабина с лыжниками рухнула вниз с высотки 20 метров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "перерубила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "елка"
+    },
+    {
+      "correctReplacement": "высоты",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

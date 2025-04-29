@@ -1,0 +1,25 @@
+{
+  "text": "В минувшие воскресенье в 23 : 00 по московскому времени завершившееся голосованием на выборы депутатов в Государственную думу РФ и местные органы власти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "завершилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "голосование"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "минувшее"
+    }
+  ]
+}

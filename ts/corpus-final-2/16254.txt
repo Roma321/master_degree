@@ -1,0 +1,20 @@
+{
+  "text": "Комплекс может непрерывно эксплуатироваться до 24 часы , однако его работа ограничени погодными условиями : шторм не должен превышать трех баллов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "часы",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "ограничена",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

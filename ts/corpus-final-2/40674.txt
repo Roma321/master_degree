@@ -1,0 +1,20 @@
+{
+  "text": "Этот паркет оцениваюсь минимально в 90 мидлионов долларов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "correctReplacement": "пакет",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

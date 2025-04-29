@@ -1,0 +1,30 @@
+{
+  "text": "Пр его словам , часть задолженности должно быть погашена в четвертом кварталах этого года , остальная сумму долга будет погасившая в первом полугодии 2001 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "сумма"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "должна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "квартале"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "погашена"
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

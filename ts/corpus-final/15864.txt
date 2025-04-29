@@ -1,0 +1,20 @@
+{
+  "text": "Лидеры всем фракций и депутатских групп проголосуем .а ратификацию договора , за исключением лидера \"Яблока\" Григория Явлинского , который не принял участия в голосовании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

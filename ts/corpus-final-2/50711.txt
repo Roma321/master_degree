@@ -1,0 +1,20 @@
+{
+  "text": "Самоюет был окружна полицией , и угонщик сдалась без сопротивления .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "окружен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сдался"
+    },
+    {
+      "correctReplacement": "Самолет",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

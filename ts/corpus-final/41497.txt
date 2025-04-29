@@ -1,0 +1,25 @@
+{
+  "text": "Однако , каюк заявил в пятницу председателя Комиссии по расследованию авиапроисшествий Владимир Кофмана , никаких элементов взрывной устройства на месте катастрофы \"Як-40\" пока не нашли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Кофман"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

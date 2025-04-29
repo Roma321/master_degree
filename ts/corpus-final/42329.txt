@@ -1,0 +1,20 @@
+{
+  "text": "Их работа осложнялось тем , что рядом с пылающим резервуара находились еще четыре подобных , потому приходилось действовать крайне осторожно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "осложнялась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "резервуаром"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

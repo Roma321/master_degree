@@ -1,0 +1,30 @@
+{
+  "text": "Заявление об отказе от латвийссого гражданства 77-летнем воронов подало в мае нынешнего года в связи с тем , что в апреле ему указом президенту РФ Владимира Путина было предоставлено гражданство России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "подал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "77-летний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "Кононов",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "латвийского",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

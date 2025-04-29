@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что в 13 . 50 в милицию обратились люди , видевшие , как в трансформаторного будку , расположенную недалеко от женских сада , вошел мужчины и оставил там чемодан .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "детского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "трансформаторную"
+    },
+    {
+      "correctReplacement": "детских",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

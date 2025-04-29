@@ -1,0 +1,25 @@
+{
+  "text": "Сообщается , что арестованные террористы , прошедшие обучению и подготовку в лагерях Бин Ладена в Афганистане , планировали взрывы в густонаселенных районах Израиля , ракетные обстрелы еврейских поселений на Западном юерега реки Иордан и похищений солдат .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "похищения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "берегу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "обучение"
+    },
+    {
+      "correctReplacement": "берега",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

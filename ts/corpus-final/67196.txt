@@ -1,0 +1,25 @@
+{
+  "text": "Инцидент происшедшая на окраине села Курчалых в западной фасти Чечни .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Курчалой"
+    },
+    {
+      "correctReplacement": "произошла",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "части",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

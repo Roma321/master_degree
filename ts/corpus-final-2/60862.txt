@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , в понедельники в cекторе газа был убито израильский поселенца Ронни Сала .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "поселенец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "Газа",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

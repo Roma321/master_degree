@@ -1,0 +1,20 @@
+{
+  "text": "Это должно было приведённые к сбою графика двпжения транспорта через тоннель под Ла-машу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "привести"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Ла-Машем"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Последний варианта оказалась самой опасным - кроме керамической и звуковой информации он уничтожал файлы с помощью которых запускается компьютер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "самым"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "оказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вариант"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "уничтожает"
+    },
+    {
+      "correctReplacement": "графической",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По словам пресс-секретарей главы государству Эпп Алаталу , обращение написано иа бланке \"чрезвычайного и полномочного посла Чеченской Республики\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-секретаря"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Представитель избирательных штаба также сообщил , что в больнице Чеен пройденный обследование и теперь отдыхает \"в покон и уюте\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "избирательного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Чейни"
+    },
+    {
+      "correctReplacement": "покое",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

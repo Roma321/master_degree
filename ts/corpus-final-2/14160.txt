@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили в среду ИТАР-ТАСС информированные источники в греческой столице , этл произошла по истечении трех лет после его убийства в пригородом Афины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "пригороде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Афин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

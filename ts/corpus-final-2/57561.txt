@@ -1,0 +1,25 @@
+{
+  "text": "Официальный курс рубля по отношению к евро , объявивший Бснком Россия на 5 января , составлял 26 , 53 рубля за евро .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "объявленный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "Банком",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

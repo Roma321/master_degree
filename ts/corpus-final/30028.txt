@@ -1,0 +1,30 @@
+{
+  "text": "\"Прогресс М1-1\" доставили на \"Мир\" все необходимую : около 2 тонн грузов - для проведения 28-й длительных экспедиции , китовый стартует 31 мартов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "длительной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "марта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "необходимое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "доставил"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

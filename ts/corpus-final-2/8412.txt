@@ -1,0 +1,20 @@
+{
+  "text": "Дана Джаччетто , голливудское банановые консультант , обвинен в незаконном получении десяти миллионов долларов от своих клиентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "финансовый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "голливудский"
+    },
+    {
+      "correctReplacement": "финансовые",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

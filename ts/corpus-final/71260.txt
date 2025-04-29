@@ -1,0 +1,25 @@
+{
+  "text": "Дорогомиловская межмуниципальный суд Мозгвы вынесу в пятницу решение по делу представителя президента Чечни в Москве Майрбека Вачагаевым и его помощника Мусы Нугаева .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "вынес"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Дорогомиловский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Вачагаева"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

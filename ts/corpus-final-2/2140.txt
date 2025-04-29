@@ -1,0 +1,20 @@
+{
+  "text": "Лавина из грязи и воды обрушусь на хилый квартал в прошлая четверг , и с тех пор спасательные работы не прекращались .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прошлый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обрушилась"
+    },
+    {
+      "correctReplacement": "жилой",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

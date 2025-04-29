@@ -1,0 +1,25 @@
+{
+  "text": "Главой жюри устанут знамеоитый актер Удо Киер , среди гостей фестивалем предполагаются Кьяра Мастрояни и Кристофер Ламберт .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "фестиваля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "станет"
+    },
+    {
+      "correctReplacement": "станут",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "знаменитый",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он , в свою очереди , высказал протест руководителю стрельп капитану Томасу Клаасену , который пытавшийся оправдаться тем , что это - учебные стрельбы и поэтому не имеет особого значений , кто изображен на мишени .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "очередь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пытался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "значения"
+    },
+    {
+      "correctReplacement": "стрельб",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

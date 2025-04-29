@@ -1,0 +1,25 @@
+{
+  "text": "Министр гражданства и иммиграции Канады Элинор Каплан рассматривает пакет изменениями действующего законодательства , которому позволит стране принимать до 300 . 000 эмигранта ежегодно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "изменений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "иммигрантов"
+    },
+    {
+      "correctReplacement": "иммигранта",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

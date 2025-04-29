@@ -1,0 +1,25 @@
+{
+  "text": "Он подчеркнул , что это выплата будет осуществившая в точной соответствии с меморандумом о реструктуризации российской задолженности сроком на 20 ходов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "осуществлена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "точном"
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

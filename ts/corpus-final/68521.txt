@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщается на самом сайте Web . net , во время прошлых выходные неизвестного зашел на сайты Network Solutions , самой известных компании-регистратора доменных имен , и каким-то образом перерегистировал домен на семя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "неизвестный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "известной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "выходных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сайт"
+    },
+    {
+      "correctReplacement": "себя",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

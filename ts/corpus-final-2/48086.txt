@@ -1,0 +1,30 @@
+{
+  "text": "По информации корреспондента Lenta . Ru , его госпитализация могшая сказаться на его карьере и окладе , так как на данной предпринявшее рабочие получали заработную плату в зависимости от проделаной работы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "предприятии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "получают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "могла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "данном"
+    },
+    {
+      "correctReplacement": "предприятие",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

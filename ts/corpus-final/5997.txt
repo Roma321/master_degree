@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает Wired News со ссылкой на университетское газету PittNews , университетские властью провели скрытую проверку 250 случайно выбранных файлов на сайтах студентов , включая и файфы , доступ к которым был защищен университетским паролем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "университетскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "файлы",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

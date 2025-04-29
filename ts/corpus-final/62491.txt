@@ -1,0 +1,20 @@
+{
+  "text": "Больший часть акций телеканалу была оформлена на ЗАО \"Дельфин\" , одним из владельцев кодового является Сагалаев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Большая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "телеканала"
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

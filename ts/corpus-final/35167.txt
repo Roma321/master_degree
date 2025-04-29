@@ -1,0 +1,25 @@
+{
+  "text": "В заявлении Государственного совета Китайского Народной Республики говорился , что затягивание переговоров вынуждал Пекин принять все возможные меры , включая применение военной силы , для восстановления велостности государства .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "вынуждает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Китайской"
+    },
+    {
+      "correctReplacement": "целостности",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

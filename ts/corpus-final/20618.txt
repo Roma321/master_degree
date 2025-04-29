@@ -1,0 +1,25 @@
+{
+  "text": "Новый ураган в понедельник обесточил еще 900 тысячи здантй , передающий информационный служба ВВС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "информационная"
+    },
+    {
+      "correctReplacement": "зданий",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

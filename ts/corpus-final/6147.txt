@@ -1,0 +1,30 @@
+{
+  "text": "Суммарная индексация пенсий в России за период с 1 ноября 1999 года по 1 февраля 2000 года составишь 28 процентов , а в жекабре текущих года всем пенсионерам правительство выплаченный единовременную компенсации в размере около 50 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "компенсацию"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "выплатит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "декабре",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

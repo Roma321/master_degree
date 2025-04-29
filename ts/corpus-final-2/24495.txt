@@ -1,0 +1,20 @@
+{
+  "text": "Золотые медали Сиднея получили атлеты украйне , Белоруссии , Литвы , Латвии , Эстонии , Казахстанов , Узбекистана , Азербайджана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Казахстана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Украины"
+    },
+    {
+      "correctReplacement": "Украине",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

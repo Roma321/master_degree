@@ -1,0 +1,30 @@
+{
+  "text": "Как сооощает агентство , в территориальную избирательную комиссию города Юбилейный выехал один из членов областной избирком с правом решающей голосов , который и должен вместе с членами территориальной комиссии установить , действительно ли это было ошибкой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "голоса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "избиркома"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "решающего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "областного"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

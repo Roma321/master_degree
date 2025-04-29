@@ -1,0 +1,20 @@
+{
+  "text": "По данным предприятием , сгорело от 50 до 100 кубометров нефти , сообщаемый евразийское бюро РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "предприятия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "европейское",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

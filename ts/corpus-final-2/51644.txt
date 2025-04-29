@@ -1,0 +1,25 @@
+{
+  "text": "Уак сообщал \"Интерфакс\" , такое обвинение президенту Украины депутаты выдвинул на состовшихся во вторник , 19 декабря , заседании Верховной рады Украины .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "выдвинули"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "состовшемся"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В полная уверенности , что бензин вот-вот кончатся , люди выстроились в юлинные очереди к местным заправочным станциям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "кончится"
+    },
+    {
+      "correctReplacement": "длинные",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

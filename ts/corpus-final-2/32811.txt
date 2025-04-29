@@ -1,0 +1,20 @@
+{
+  "text": "Согласно договоренности , заключённой корпорацией с американской компанией SpaceHab , аппарат подставленное на продажу на интернет-аукционе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "заключенной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выставлен"
+    },
+    {
+      "correctReplacement": "выставлено",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

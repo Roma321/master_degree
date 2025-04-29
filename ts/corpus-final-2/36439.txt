@@ -1,0 +1,30 @@
+{
+  "text": "Джордж Буш одержал победу в своем родной штате Техас , в штате Флориде , где губернаторствует его брат Джеб , а также в родных для Гора штате Теннесси и на родине препендента Клинтона - в Арканзасе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Флорида"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "родном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "родном"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "претендента",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

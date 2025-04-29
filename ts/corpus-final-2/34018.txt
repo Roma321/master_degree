@@ -1,0 +1,20 @@
+{
+  "text": "Россиянка Анна Курникова после выход в финал \"Кубка Кремля\" замыкают десятпу сильнейших .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "выхода"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "замыкает"
+    },
+    {
+      "correctReplacement": "десятку",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

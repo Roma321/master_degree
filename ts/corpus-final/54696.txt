@@ -1,0 +1,25 @@
+{
+  "text": "Тот факты , что Билл Гейтс вложенный в эту компании порядка 14 миллаонов долларов , способен еще более повысить привлекательность серебра для инвесторов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "факт"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "вложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "компанию"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

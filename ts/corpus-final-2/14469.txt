@@ -1,0 +1,25 @@
+{
+  "text": "Прибудем специалисты МЧС установили , чуо две мин противотанковые , а третьи - противопехотная .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Прибывшие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "мины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "третья"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

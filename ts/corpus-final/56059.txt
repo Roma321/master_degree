@@ -1,0 +1,35 @@
+{
+  "text": "Ка сообщаемый ИТАР-ТАСС со ссылкой на одного из итальянских адвокатов Оджалана Артуро Салерни , подобном решение суда хотя и означают торжество справедливости , однако все же имею скорее семантическое , нежели практического значение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "практическое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "подобное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "означает"
+    },
+    {
+      "correctReplacement": "символическое",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

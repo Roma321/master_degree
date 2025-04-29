@@ -1,0 +1,25 @@
+{
+  "text": "Оперуполномоченным Отдела по борьбе с незаконченным оборотом наркотиков УВД Ульяновска арестую за покровительство , оказанное содержателям притона , сообщаешь РИА \"Новости\" со ссылкой на источники в областной прокуратуре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Оперуполномоченный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "незаконным",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

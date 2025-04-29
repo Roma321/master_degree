@@ -1,0 +1,25 @@
+{
+  "text": "Примерно в 12 : 00 по московским времени а подъезде домов номер 5 корпус 3 по Кутузовскому проспекту неизвестный застрелю двоих мужчин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "застрелил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "московскому"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Такие же неприятия в это дня проходили по фсей стране .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "мероприятия",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

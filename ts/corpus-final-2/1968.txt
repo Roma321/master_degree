@@ -1,0 +1,20 @@
+{
+  "text": "В минувшая воскресение в Чечне в районе населенного пункта Новогрозненский в ходе боя федеральные подразделения уничтожившие около 50 боевиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "уничтожили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувшее"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Если бы нарушений мывшие признавшие сущездвенными , кандидату было бы отказано в регистрации на пост вице-мэров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "вице-мэра"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "признаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "нарушения"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "существенными",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал НТВ , ХАМАС собирается активизировать усилившими и продолжать борьбу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "усилия"
+    },
+    {
+      "correctReplacement": "усилиями",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

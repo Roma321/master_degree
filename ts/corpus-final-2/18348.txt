@@ -1,0 +1,30 @@
+{
+  "text": "Когда ее семья переехало в другой город , девушка уверенная звоими новых друзей в том , что ей - парень .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "своих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "уверила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "переехала"
+    },
+    {
+      "correctReplacement": "своими",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

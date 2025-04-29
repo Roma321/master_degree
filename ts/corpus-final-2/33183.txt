@@ -1,0 +1,25 @@
+{
+  "text": "Это решении поддержим 267 депутатов , протиф были 12 , подвергавшихся не было .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "поддержали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "воздержавшихся",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

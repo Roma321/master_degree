@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр РФ Владимир Путин подписал распоряжением правительства о создании на одной из дач в Передклкине мемориальном музеем Булата Окуджавы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "распоряжение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "музея"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "мемориального"
+    },
+    {
+      "correctReplacement": "Переделкине",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Полиция подозревает , что наркотики мывшие привезены пз Пакистане , но не может определить , везли ли их в Кипр или куда-нибудь еще .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Пакистана"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

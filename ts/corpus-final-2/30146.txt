@@ -1,0 +1,35 @@
+{
+  "text": "По словцам генерала , Израиль снятый блокаду с палестинских городов и дорог , откроешь воздушная сообщение с сектором Газа и межлународный границы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "воздушное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "международные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "откроет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "снимет"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "международный",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Агентство напоминает , что абонент сотовой сети МТС в четверг были отключившие от сети с 3 часов день до половины девятого вечера , однако ни один из них не был уведомлен об аварий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "аварии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "отключены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "абоненты"
+    }
+  ]
+}

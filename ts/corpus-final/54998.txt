@@ -1,0 +1,30 @@
+{
+  "text": "Однако представители властей говорящие по телевидению только об успехах в восстановлении разрушившего хозяйства м о той , вто правительство на предстоящую зиму в состоянии обеспечить республику топливом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "разрушенного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "говорят"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

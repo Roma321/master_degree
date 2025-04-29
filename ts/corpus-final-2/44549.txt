@@ -1,0 +1,30 @@
+{
+  "text": "Вскоре рыбаков обнаружили , что в трюм поступают вода и ест угроза того , что судно затонет в течение ближайших чёсов Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "рыбаки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "поступает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "часов",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

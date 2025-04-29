@@ -1,0 +1,25 @@
+{
+  "text": "Президент Грузии Эдуард Шеварднадзе представлю в воскресенье в парламент новая персональный состав правительства страны , передаёт \"Иптерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "представил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "новый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "\"Интерфакс\"",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

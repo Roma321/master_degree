@@ -1,0 +1,25 @@
+{
+  "text": "Поводом для рассмотрения этого дела Конституционным суд стали обращения сразу нескольких граждан , пожаловавшихся , что их дела были рассмотрены , а они ничо об этом не знаем , сообщает РИР \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "знали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "судом"
+    },
+    {
+      "correctReplacement": "ничего",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

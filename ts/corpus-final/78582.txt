@@ -1,0 +1,20 @@
+{
+  "text": "В момент катастрофы на борщу танкера есть 320 тонн дизельного топлива и мазута , а аакже 3750 тонн угля .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "было"
+    },
+    {
+      "correctReplacement": "борту",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

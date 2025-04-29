@@ -1,0 +1,25 @@
+{
+  "text": "В четверг , 12 октября Московский окружной военный суд отложило предварительный слушания по делу об убиыстве журналиста \"Московского комсомольца\" Дмитрия Холодова до 23 октября , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "отложил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "предварительное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "слушание"
+    },
+    {
+      "correctReplacement": "убийстве",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

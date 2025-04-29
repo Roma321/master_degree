@@ -1,0 +1,20 @@
+{
+  "text": "По закону , определение суда может быть обжаловага в десятидневный крок .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "обжаловано"
+    },
+    {
+      "correctReplacement": "срок",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "обжалована",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

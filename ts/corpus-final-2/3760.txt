@@ -1,0 +1,30 @@
+{
+  "text": "В Москве открывающийся ретроспективой фильмов знаменитого греческом режиссера тпг Ангелопулоса - председателя жюри нынешнего кинофестиваля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "греческого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ретроспектива"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "открывается"
+    },
+    {
+      "correctReplacement": "Тео",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "тег",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

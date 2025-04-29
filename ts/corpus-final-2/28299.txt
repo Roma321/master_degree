@@ -1,0 +1,25 @@
+{
+  "text": "Московское прокуратура возбудила уголовное дело по факту нанесения телесных повреждений и превышения должностных полномочий начальником Московского головного розыска Евгением Максимовым и несколькими сотрудниками Муров , сообщают НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "МУРа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Московская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "уголовного",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

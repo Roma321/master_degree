@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , будучи ощним из крупнейших поставщиков алмазов Россия осознанный своей ответственность за ситуацию на мировой алмазном рынке , оборот которого превышал 50 миллиардов долларов в год .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "мировом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "осознает"
+    },
+    {
+      "correctReplacement": "одним",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

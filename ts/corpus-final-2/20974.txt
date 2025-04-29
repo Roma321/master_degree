@@ -1,0 +1,30 @@
+{
+  "text": "Он заявлю , что все будет зависеть от тех решений , которые принятый российская сторона в ответ на очередных предложения норвежской фирмы , направлрнный в среду в \"Рубин\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "очередные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "направленные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "примет"
+    },
+    {
+      "correctReplacement": "направленный",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

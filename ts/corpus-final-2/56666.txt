@@ -1,0 +1,20 @@
+{
+  "text": "матерный рейс \"Русавиа\" задерживался из-за отсутствия у компании разрешения на пролёт над Митаем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пролет"
+    },
+    {
+      "correctReplacement": "Чартерный",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Китаем",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

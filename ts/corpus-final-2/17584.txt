@@ -1,0 +1,25 @@
+{
+  "text": "Подводной лодку \"Курск\" необязательно поднимать со дна Баренцева моря с точки горения безопасностей ядерной установки Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Подводную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "зрения",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

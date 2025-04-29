@@ -1,0 +1,25 @@
+{
+  "text": "Милиции сопровождала судебного пристава , пришедшего на завод , чтобы исполнить решения судов , согласно которому гендиректору должен быть обеспечен беспрепятственный проходе на предприятие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Милиция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "проход"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "суда"
+    }
+  ]
+}

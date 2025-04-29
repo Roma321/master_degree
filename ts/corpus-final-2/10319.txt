@@ -1,0 +1,20 @@
+{
+  "text": "30 бандитов оказал вооружёнпому сопротивление при задержании и были уничтожены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "вооруженное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "оказали"
+    },
+    {
+      "correctReplacement": "вооружённому",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

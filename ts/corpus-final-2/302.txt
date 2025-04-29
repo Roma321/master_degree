@@ -1,0 +1,30 @@
+{
+  "text": "Наблюдатели м уверенностью говорившие о той , что из 9 , 4 миллионов сирийских избирателей большинство отдавшие свой голосом за Башара Асада .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "говорили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "голос"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "отдадут"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

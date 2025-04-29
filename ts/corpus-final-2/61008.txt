@@ -1,0 +1,30 @@
+{
+  "text": "Напомнившие , что бывший сотрудник департамента Азии МИД России Валентин Моисеева был арестован летом 1998 года по обвинению в том , что еле в 1992 году был завербован южнокорейской разведкой и передаю сведения секретного характере .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Моисеев"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "передавал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "характера"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

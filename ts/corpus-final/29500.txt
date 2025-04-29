@@ -1,0 +1,25 @@
+{
+  "text": "Британский журналист сообщили , что из Моздока , куда он приехало на машиге , военный вертолет доставил его в штабу группировки федеральных сил в Ханкалу , откуда он пешком в течение часа добирался до Грозного .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "приехал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "штаб"
+    },
+    {
+      "correctReplacement": "машине",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

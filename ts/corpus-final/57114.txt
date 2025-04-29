@@ -1,0 +1,25 @@
+{
+  "text": "Команда , объявившая перед началом сезонов о намерении бороться за место в тройке сильнейшего , занимает пока бишь 9-я место .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "9-е"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сильнейших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сезона"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

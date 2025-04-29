@@ -1,0 +1,25 @@
+{
+  "text": "Афганцы убеждены , что журналист CNN по совместительству являются шпионами и подбираемые мрсто для новых \"ударов возмездия\" США против бич Ладена , которого подозревают в причастности ко взрыву на эсминце Cole .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "журналисты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "подбирают"
+    },
+    {
+      "correctReplacement": "Бин",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "место",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

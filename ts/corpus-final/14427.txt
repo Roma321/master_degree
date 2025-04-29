@@ -1,0 +1,15 @@
+{
+  "text": "Через 2 месяца ее отменили , поскольку гарентия московского банк была принята .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "банка"
+    },
+    {
+      "correctReplacement": "гарантия",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

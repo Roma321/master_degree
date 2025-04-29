@@ -1,0 +1,35 @@
+{
+  "text": "Технической поддержку это эксперимента осуществляет компании \"Голден Телеком\" , а в ккчестве спонсоров выступили Федерации интервент и \"Альфа-банк\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Техническую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Федерация"
+    },
+    {
+      "correctReplacement": "интернет-образования",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "качестве",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

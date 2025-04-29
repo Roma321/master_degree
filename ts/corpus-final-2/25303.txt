@@ -1,0 +1,25 @@
+{
+  "text": "Жердвами ливневых дождей , вызванных бушующей в Карибском морях и на юге Мексики ураганом \"Кейт\" , в Никарагуа стали 10 люди , в соседней Гватемале погибла девушка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "бушующим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "море"
+    },
+    {
+      "correctReplacement": "Жертвами",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

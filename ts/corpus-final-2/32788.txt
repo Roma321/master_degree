@@ -1,0 +1,20 @@
+{
+  "text": "Заявление компании Air France поступил в думский международного комитет , представители которого в четверг ознакомили с этим документом членов Совата Госдумы , сообщила Любовь Слиска .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "поступило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "международный"
+    },
+    {
+      "correctReplacement": "Совета",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

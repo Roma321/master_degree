@@ -1,0 +1,25 @@
+{
+  "text": "Отмеченные , что дружок главу региона , принимавший участие в президентских выборах , - губернатор Кузбасса Аман Тулеев - набрал 2 , 95 процентом голосов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Отметим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "глава"
+    },
+    {
+      "correctReplacement": "другой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

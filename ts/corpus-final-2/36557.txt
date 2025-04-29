@@ -1,0 +1,30 @@
+{
+  "text": "Прямой канал обеспечивает 500 Кбит/са , обратрый - 150 Кбит/сы . Сама спутник , обеспечивающий доступ к Интернету , запущен несколько ранее и сейчас висит над экватором на геостационарной орбите в сектор , обеспечивающем обслуживание территории США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Кбит/с"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Кбит/с"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "секторе"
+    },
+    {
+      "correctReplacement": "обратный",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

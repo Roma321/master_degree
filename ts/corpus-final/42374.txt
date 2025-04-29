@@ -1,0 +1,40 @@
+{
+  "text": "Цена сделки определена в 2 , 4 уилларда долларов , на эту сумму General Motors получит 20 процента акциями итальянского Fiat , а те , в своё очередь , 5 , 1 процента акции General Motors , передаваемый Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 37,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

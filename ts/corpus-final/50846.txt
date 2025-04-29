@@ -1,0 +1,25 @@
+{
+  "text": "В ходе обыска у Поупа было обнаружено и изъята большому излишество документов , технические чертежи различного оборудований , записи его бесед с российскими гражданами , а также расписки в получении ими денег от американца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "большое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "оборудования"
+    },
+    {
+      "correctReplacement": "количество",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

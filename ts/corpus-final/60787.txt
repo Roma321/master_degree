@@ -1,0 +1,20 @@
+{
+  "text": "Патриарх Московский и всея Руси Алексий IIприбыл в среду с касперской визит в Приморье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "пастырским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "визитом"
+    },
+    {
+      "correctReplacement": "пастырской",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

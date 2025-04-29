@@ -1,0 +1,30 @@
+{
+  "text": "Британский генералом подчеркнул , что несогласие лидеров албанских сепаратных с позицией миротворцев по вопросу об оружии угрожаю будущей АОК и всей Косово .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "генерал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "всему"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "угрожает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "будущему"
+    },
+    {
+      "correctReplacement": "сепаратистов",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

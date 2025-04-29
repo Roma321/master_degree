@@ -1,0 +1,30 @@
+{
+  "text": "Спфиным , посеянный в Нью-Йорке под шестым гомером , в стартовой матче сразившийся с Тьери Гвардьолой из Франции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "стартовом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сафин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сразится"
+    },
+    {
+      "correctReplacement": "номером",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Сафиным",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

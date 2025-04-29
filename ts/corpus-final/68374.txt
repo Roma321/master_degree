@@ -1,0 +1,20 @@
+{
+  "text": "Пока следствию не удался выяснить , сколько именно водителей попытались шутящие рекламированное устройство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "рекламируемое"
+    },
+    {
+      "correctReplacement": "купить",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

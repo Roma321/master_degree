@@ -1,0 +1,20 @@
+{
+  "text": "Покупательница такого белья получишь подарок на 3 , 7 миллиона долларов - браслет и тонкий холостого пояс с алмазами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "золотой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "получит"
+    },
+    {
+      "correctReplacement": "золотого",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

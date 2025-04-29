@@ -1,0 +1,30 @@
+{
+  "text": "Даваемые комментарии по этой поводу журналистам Примаках математически отказался , заявленные : \"сегодня у меня нет для вас никаких сообщений и комментариев\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Давать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявив"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Примаков"
+    },
+    {
+      "correctReplacement": "категорически",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

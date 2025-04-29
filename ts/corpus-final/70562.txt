@@ -1,0 +1,40 @@
+{
+  "text": "По слову адвокатом , Кагаловская пошло на этот шаг , поскольку банк отказались фступиться за нее в условиях раздуваемой в США кампанией по обвинению ее в участии в операциях по отмыванию денег российской оргпреступность .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "адвоката"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "оргпреступностью"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "пошла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "кампании"
+    },
+    {
+      "correctReplacement": "вступиться",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

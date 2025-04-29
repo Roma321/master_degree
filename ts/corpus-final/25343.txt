@@ -1,0 +1,25 @@
+{
+  "text": "Как говорящий его адвокат : \"Мистер Скакелы был невиновен 24 года назад , нн невиновно и сейчас\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "говорит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "невиновен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Скакел"
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

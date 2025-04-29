@@ -1,0 +1,25 @@
+{
+  "text": "Жена и партнерша по сцене известного актёров Эммануила Виторгана , она до последней дня живу интересами театра , звоей семьи , несмотря на то , что тяжело болела .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "актера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "последнего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "жила"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

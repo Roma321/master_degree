@@ -1,0 +1,20 @@
+{
+  "text": "Путин не разделяет опасений в том , что \"слишком ретивое исполнения дадач по наведению порядка приведёт к \"закручиванию гаек\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "исполнение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "приведет"
+    },
+    {
+      "correctReplacement": "задач",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

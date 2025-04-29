@@ -1,0 +1,20 @@
+{
+  "text": "Агентство военных новостей передает , что Шаманова на вертолете отправил в госпиталь во Владикавказ с сердечным приступом , и он находящийся под капельницы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "капельницей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "отправили"
+    }
+  ]
+}

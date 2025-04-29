@@ -1,0 +1,40 @@
+{
+  "text": "Полиция подчёркивал , что ни в коих случае не собирается закрывающие легендарный фестиваль , а только хочет сделать его более безопасным . Сам Майкл Ивис считал , что претензии полиции вызваны , прежде всего , происшествиями на другими летних площадках этого года , в первую очередь - трагедией на фестивале в датском городе Роскильде , когда в давки во время отступления Pearl Jam погибли девять человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркивает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 57,
+      "correctReplacement": "давке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "закрывать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "коем"
+    },
+    {
+      "correctReplacement": "выступления",
+      "type": "paronym",
+      "wordNumber": 60
+    }
+  ]
+}

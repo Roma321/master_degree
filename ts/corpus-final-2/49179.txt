@@ -1,0 +1,20 @@
+{
+  "text": "Милиция Уссурийска проводишь расследование по факу взрывв .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "проводит"
+    },
+    {
+      "correctReplacement": "факту",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "взрыва",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

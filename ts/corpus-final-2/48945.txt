@@ -1,0 +1,20 @@
+{
+  "text": "Гусинскому не был подавленной , хотя \"провести двое суток в кругу семьи было бы для него гораздо лучше , чем в тюрьме , независимо от того , испанская она или какая-либо другая\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "подавленным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Гусинский"
+    },
+    {
+      "correctReplacement": "кругу",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Проживающие в США российские эмигранты , подозреваемые ФБР в связях с мафией , выделявшие денежные средства на избираьельности кампании ведущих партий и отдельных американских политика .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выделяли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "политиков"
+    },
+    {
+      "correctReplacement": "избирательные",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "избирательности",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако аналитики считают , что закрытые офиса в Сан-Франциско не является вестником тяжелых дней для компаний .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "закрытие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "закрытия",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В ходе слушания в понедельник представитель Скуратова в суде адвокат Андреи Похмелкин заявил , что высказывания Скуратова о Демине являющиеся его личным мнением и мзложившее в книге не может быть пресетом судебное разбирательства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "судебного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Андрей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "изложенное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "являются"
+    },
+    {
+      "correctReplacement": "предметом",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "изложившее",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщил во вторника \"Интерфаксу\" губернатора края Александр Черногороф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "губернатор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "Черногоров",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

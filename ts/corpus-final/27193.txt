@@ -1,0 +1,25 @@
+{
+  "text": "По слову начальника временного отдел внутренних дел района Виктора Тютюнникова , выяснилось , что польская администрации включила в списки имена несуществующих людей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "отдела"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "администрация"
+    },
+    {
+      "correctReplacement": "сельская",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Из-за туман и дождя пилоты не смог посадить машиной с первого раз и стали снова заходить на посадку , после вто связь с бортом прервалась .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "смогли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "машину"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "тумана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "раза"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

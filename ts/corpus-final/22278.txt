@@ -1,0 +1,15 @@
+{
+  "text": "Первому президент России впервые посетит Святую Землж .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Первый"
+    },
+    {
+      "correctReplacement": "Землю",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

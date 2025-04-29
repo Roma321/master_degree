@@ -1,0 +1,20 @@
+{
+  "text": "Постановление об освобождении было принята прокуратурой Новосибирских области в связи с ухудшением состояние здоровья заключенного .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Новосибирской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "состояния"
+    }
+  ]
+}

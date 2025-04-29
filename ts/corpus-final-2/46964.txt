@@ -1,0 +1,20 @@
+{
+  "text": "После того , как он сделал более 30 заказов на сумму свыше 15 тысяч ролланов за короткий время , у менеджеров Bolero возникли некоторый подозрения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "некоторые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "короткое"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

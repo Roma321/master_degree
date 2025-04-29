@@ -1,0 +1,20 @@
+{
+  "text": "\"Вопрос не рядовой\" , деньги пегионы не получили сполна , заявил спикер нижнего палаты парламентов Егор Строев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "парламента"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "нижней"
+    },
+    {
+      "correctReplacement": "регионы",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

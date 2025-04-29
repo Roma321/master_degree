@@ -1,0 +1,25 @@
+{
+  "text": "Другой важной причиной роста цен на нефть называют ранних холода в США и недостатком мазута , которого накоплена на 35 процента меньше , чем год назад .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "накоплено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ранние"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "недостаток"
+    }
+  ]
+}

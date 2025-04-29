@@ -1,0 +1,25 @@
+{
+  "text": "Во время забастовки , заявляет представители движения , будут блокировавшие сайтф , предоставлявшие информацию о саммите ВТО .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "предоставляющие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "блокированы"
+    },
+    {
+      "correctReplacement": "сайты",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

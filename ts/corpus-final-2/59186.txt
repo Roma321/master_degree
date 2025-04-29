@@ -1,0 +1,25 @@
+{
+  "text": "В сопровождавшем этой запись пресс-релизе сообщается , что Бин Ладен произнес коробкую речи , в которой поддержавший палестинскую интифаду .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "поддержал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "речь"
+    },
+    {
+      "correctReplacement": "короткую",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

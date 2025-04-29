@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники французской телеканала France-2 Жан Ле Гарре и Роланы Мадура были освободившие регулярной армией в ходе операции протиф повстанцев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "французского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "освобождены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Ролан"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

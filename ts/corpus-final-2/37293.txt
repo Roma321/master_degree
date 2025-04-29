@@ -1,0 +1,20 @@
+{
+  "text": "Президент сказало , что намерен обсудить с премьером вопросики , связанные с социальной политикой государства , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "вопросы",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

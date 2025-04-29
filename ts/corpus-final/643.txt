@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , сообщающий РИА \"Новости\" , некоторое время назад Яковлевых предупредили о тех , что Новоселоф играет не за губернаторскую команду , а отстаивает совершенно другие интересы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Яковлева"
+    },
+    {
+      "correctReplacement": "Новоселов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

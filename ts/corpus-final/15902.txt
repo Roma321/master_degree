@@ -1,0 +1,20 @@
+{
+  "text": "За это решения проголосованные 90 из 100 напутствующих на сессии членов , сообщает ВВС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "присутствовавших",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

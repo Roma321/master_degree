@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что постановление об избрании меры пресечения Скуратову было вынесу 31 января текущего года помощником и . о . генерального прокуроре РоссииВасилием Пименовым в тот же день , когда той было предъявленообвинение в злоупотребления служебными полномочиями .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вынесено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "прокурора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "злоупотреблении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    }
+  ]
+}

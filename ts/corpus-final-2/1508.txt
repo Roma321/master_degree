@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня стала известно , что в столице , в общей сложности , 4 , 1 миллиона номера уже оборудуемы системами повременного учета разговороф .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "номеров"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "оборудованы"
+    },
+    {
+      "correctReplacement": "разговоров",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

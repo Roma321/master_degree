@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня же Судебный палата по инновационными спорам обратилась к журналистов в связи с началом предвыборной кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Судебная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "информационным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "correctReplacement": "информационными",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

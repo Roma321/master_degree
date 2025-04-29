@@ -1,0 +1,25 @@
+{
+  "text": "Эти заявления вызванные неоднозначное реакцию среди коллег Джоя - впервые о сдерживании прогресса заговорю не преподаватель \"зеленых\" , а ведущий специалист по высоким технологиям .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "заговорил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "неоднозначную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вызвали"
+    },
+    {
+      "correctReplacement": "представитель",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

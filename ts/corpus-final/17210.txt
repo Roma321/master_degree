@@ -1,0 +1,20 @@
+{
+  "text": "По данным московской управлений МНС , за 9 месяцах 1999 года недоимка \"Росэнергоатома\" составила 1677 . 1 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "московского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "управления"
+    }
+  ]
+}

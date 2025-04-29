@@ -1,0 +1,30 @@
+{
+  "text": "Самым дорогим среди административных центроф страну минимальном набор продукты питаний был в конце ноября в Магадане (1272 , 4 рубля на человека в месяц) , Петропавловске- Камчатском (1182 , 2 рубля) , Якутске (1177 , 8 рубля) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "питания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "минимальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "продуктов"
+    },
+    {
+      "correctReplacement": "центров",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

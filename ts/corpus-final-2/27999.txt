@@ -1,0 +1,20 @@
+{
+  "text": "отделение же метанола в значительной количестве приводят к летальному исходу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "значительном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "приводит"
+    },
+    {
+      "correctReplacement": "Потребление",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

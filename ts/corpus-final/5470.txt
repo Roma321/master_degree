@@ -1,0 +1,20 @@
+{
+  "text": "Самый большая процент взяточничеств наблюдается сееди фирм небольшого размера .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "взяточничества"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "большой"
+    },
+    {
+      "correctReplacement": "среди",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

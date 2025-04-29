@@ -1,0 +1,25 @@
+{
+  "text": "Целевая федеральная субвенции в размере 17 , 4 миллиона рублей , выделю из госбюджета для энергосистемы Приморья , поступила в край и будет крашенная на закупку топлива для местных электростанций , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выделенная"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "субвенция"
+    },
+    {
+      "correctReplacement": "потрачена",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

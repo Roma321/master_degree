@@ -1,0 +1,40 @@
+{
+  "text": "Так , Австрийская народная паьтия полученный должности канцлера , министра иностранных дел , внутренним дел , экономики , сельского хозяйства и образования , а Австрийская партия свободы - вице-канцлера , магистра финансами , юстиции , оборон , министра по инфраструктуре и министров по социальному обеспечению .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "получит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "обороны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "финансов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "министра"
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "партия",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в этот период в Чечне ужесточаешься пропускной режим , усиливаются блокпосты на дорогах , в день голосовагия будет обеспечу охрана избирательного участков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "избирательных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "ужесточается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "обеспечена"
+    },
+    {
+      "correctReplacement": "голосования",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

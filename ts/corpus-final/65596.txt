@@ -1,0 +1,25 @@
+{
+  "text": "Представитель администрации банка отметили , что работа банка бйдет организована таким образу , чтобы клиенты не пострадал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "образом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

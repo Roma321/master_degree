@@ -1,0 +1,30 @@
+{
+  "text": "По свидетельству чеченских милиционеров , грузовик взлетели на воздух , когда к зданию РЪВД подлежавшие машина грозненской прокуратуры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "свидетельствам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "подъехала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "взлетел"
+    },
+    {
+      "correctReplacement": "подъехали",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "РОВД",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

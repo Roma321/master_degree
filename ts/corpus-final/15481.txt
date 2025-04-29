@@ -1,0 +1,20 @@
+{
+  "text": "В частностью , премьер-министр Владимир Путины неоднократноуказывал , что одна из целей операции - \"избежать лишних жертв исреди довоенных , и среди мирного населения Чечни\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "военных",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

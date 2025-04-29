@@ -1,0 +1,25 @@
+{
+  "text": "20 миллионов рублей возьмём из резервиста фонда правительства по предупреждению и ликвидации чрезвычайного ситуаций и последствий стихийного бедствий .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "взяты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "чрезвычайных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "стихийных"
+    },
+    {
+      "correctReplacement": "резервного",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Убитого случайно нашли сантехника , которые делали в доме ремонту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сантехники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ремонт"
+    },
+    {
+      "correctReplacement": "сантехникам",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

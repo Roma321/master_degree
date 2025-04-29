@@ -1,0 +1,35 @@
+{
+  "text": "В музее будут развернём экспозиции , посвященные таким легендам разведки , как танцовщица и шпионка времен Первой мировой войну Мата Хари , а также известным шпионским атрибутам - шифровальных машине бремён Второй мировых войны Enigma , секретным фотокамерам , использовавшимся советская разведкой , и шпионским приспособлениям ЦРУ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "мировой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "развернуты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "советской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "войны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "шифровальной"
+    },
+    {
+      "correctReplacement": "времен",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

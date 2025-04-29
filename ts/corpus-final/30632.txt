@@ -1,0 +1,30 @@
+{
+  "text": "По их словам , устройство , фиксировавшее скорость поезда , показал , что машинист немного замедленный ход при переходе на другую путь в связи с ремонтом линии , но затем разогнавшийся до 120 км/час .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "разогнался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "фиксирующее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "замедлил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "показало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "другой"
+    }
+  ]
+}

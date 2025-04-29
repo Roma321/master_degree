@@ -1,0 +1,20 @@
+{
+  "text": "Работа аэропорта была остановлен , в здании работал кинологи с собакауи , но никакое взрывное устройство не найдено .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "остановлена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "работали"
+    },
+    {
+      "correctReplacement": "собаками",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

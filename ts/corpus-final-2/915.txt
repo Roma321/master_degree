@@ -1,0 +1,30 @@
+{
+  "text": "В вязи с возникшей проблемой сотрудники вашинлтонской адвокатском фирмы Hogan & Hartson рассказал , что в текущем году им пришлось представлять в суде интересы одного интернет-провайдера , название которого юрист отказался указать .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "адвокатской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сотрудник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "ему"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "вашингтонской",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

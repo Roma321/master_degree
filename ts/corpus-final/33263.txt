@@ -1,0 +1,20 @@
+{
+  "text": "Как выяснилось , 24-летняя женщины , находясь в нетрезвом состоянии , просто забыла выключенные гас , когда разогревала себе еду .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "женщина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выключить"
+    },
+    {
+      "correctReplacement": "газ",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

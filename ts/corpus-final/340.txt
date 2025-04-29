@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее полиция утверждает , что внешнтсть задержанного студента полностью соответствуешь фотороботам , составленному на подозреваемого в похищении первопечатного текстов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "текста"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "фотороботу"
+    },
+    {
+      "correctReplacement": "внешность",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

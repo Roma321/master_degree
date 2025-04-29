@@ -1,0 +1,25 @@
+{
+  "text": "Она планируют обнародбванные информацию , касающуюся политического руководящие страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обнародовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "планирует"
+    },
+    {
+      "correctReplacement": "руководства",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "обнародованные",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

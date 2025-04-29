@@ -1,0 +1,35 @@
+{
+  "text": "На настоящий моменту данные о численностью боевиков в городе сильва расходились : по одним сведениями , их количество составляешь 5-6 тысяч человек , по другим - значительно меньше .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "численности"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "момент"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "расходятся"
+    },
+    {
+      "correctReplacement": "сильно",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

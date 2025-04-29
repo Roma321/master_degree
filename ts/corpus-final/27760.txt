@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , как сообщает Associated Press , новые китайский правил предписывающие государственную дегустацию любого программного обеспечения , предназначеоного для передачи конфиденциальной информации (программы защит , шифрования и т . п . )",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "китайские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "защиты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "предписывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "правила"
+    },
+    {
+      "correctReplacement": "регистрацию",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "предназначенного",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

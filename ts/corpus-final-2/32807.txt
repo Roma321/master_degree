@@ -1,0 +1,20 @@
+{
+  "text": "Некоторые аналитики полагали , что компания специально поддерживал публику в напряжении , чтобы интерас к приставке не ослабевало .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "ослабевал"
+    },
+    {
+      "correctReplacement": "интерес",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Среди должникам завода , который обеспечивает ремонт кораблей Черноморского флота России и военноморских силы Украины , - Министерздво обороны России , Федеральная пограничной служба , военно-морские силы Украины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "должников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "пограничная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "Министерство",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

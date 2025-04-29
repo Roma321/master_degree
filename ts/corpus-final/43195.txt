@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , по неподтверждённой информации Агентства военных новостей , Гелаев давно поникнувший Комсомольское и присоединилась к группе Хаттаба в Веденском районом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "присоединился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "покинул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "неподтвержденной"
+    },
+    {
+      "correctReplacement": "покинувший",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Он предсказывал , что в течение десять лет будут выпущены даже кукгы Барби , имеющие выход в Сеть , не говоря о дверных ручках , подключенных к компьютеру .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предсказывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "десяти"
+    },
+    {
+      "correctReplacement": "куклы",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

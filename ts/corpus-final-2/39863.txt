@@ -1,0 +1,25 @@
+{
+  "text": "мережковский увеличил своего пакет вдвое летом 1999 года , выкупленные у создатегя и президента телекомпании Эдуарда Сагалаева принадлежавшие ему 37 , 5 процента акций .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выкупив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "свой"
+    },
+    {
+      "correctReplacement": "Березовский",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "создателя",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

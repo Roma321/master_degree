@@ -1,0 +1,20 @@
+{
+  "text": "На околоземного арбитры его будет выводить российская ракета-носитель \"Протон\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "околоземную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "орбиту"
+    },
+    {
+      "correctReplacement": "орбиты",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

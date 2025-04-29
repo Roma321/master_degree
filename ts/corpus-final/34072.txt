@@ -1,0 +1,30 @@
+{
+  "text": "Девушек маньяк душивший руках , а для страховки затягивал ну шее жертв две узла из одежды , поразившейся под руку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "руками"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "душил"
+    },
+    {
+      "correctReplacement": "попавшейся",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

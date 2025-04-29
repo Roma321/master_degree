@@ -1,0 +1,30 @@
+{
+  "text": "А на блокпосту в Аргуне поймаем два людей с поддельными документами : у одном при себе есть удостоверение сотрудника представительства правительства России в Чечне , у другого - милицейское \"корочка\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "пойманы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "милицейская"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "было"
+    }
+  ]
+}

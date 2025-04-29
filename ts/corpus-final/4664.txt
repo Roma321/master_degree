@@ -1,0 +1,45 @@
+{
+  "text": "Ц случай , если расходы на приобретение или сделке с имуществом превышают доход , заявленное в декларации о доходах , или нет информации о доходах , налоговый орган должен составить акт и в местный срок направленные физическому лицо письменное требование о даче пояснения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сделки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "лицу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "заявленный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "направить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "пояснений"
+    },
+    {
+      "correctReplacement": "месячный",
+      "type": "paronym",
+      "wordNumber": 33
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

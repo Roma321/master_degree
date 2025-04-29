@@ -1,0 +1,25 @@
+{
+  "text": "Многие жителях ственного Израиля предпочитают перебравшиеся вглубь стране - к своим родственникам или просто в гостиницы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "перебраться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "жители"
+    },
+    {
+      "correctReplacement": "северного",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

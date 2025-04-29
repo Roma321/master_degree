@@ -1,0 +1,20 @@
+{
+  "text": "В настоящий момент проводишься оперативному расследование , сообщили в УЙСБ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "проводится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "оперативное"
+    },
+    {
+      "correctReplacement": "УФСБ",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

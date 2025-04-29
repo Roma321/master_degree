@@ -1,0 +1,25 @@
+{
+  "text": "Инициатором такого решения выступивший заместитель губернатору округа Иван Сафроновы , который укатавший на нарушения компании при отчислении налоговых платежей в госбюджет , а также ряд экологических нарушений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Сафронов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выступил"
+    },
+    {
+      "correctReplacement": "указал",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

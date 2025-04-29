@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на прогнозы аналитикам , прочивших победу Бушу , Гор есе же смогла опередить противника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "аналитиков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "прочащих"
+    },
+    {
+      "correctReplacement": "все",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

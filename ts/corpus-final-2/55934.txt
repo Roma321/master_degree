@@ -1,0 +1,25 @@
+{
+  "text": "РИА \"Новости\" напоминает , что недавно испанская полиция в сотрудничестве ч Интерполом пресекла деятельность международной банды , которая занималась сбытами в разных странах мира подделках Пикассо , Дали , Шагала , Миро и других знаменитых художникам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "художников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "подделок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "сбытом"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По некоторым данным , за заложникам был уплачен многомиллиардному выкуп .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "многомиллионный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "заложников"
+    },
+    {
+      "correctReplacement": "многомиллионному",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

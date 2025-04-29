@@ -1,0 +1,30 @@
+{
+  "text": "В Дагестане задержан Абдулла Омара , подозревавший в причастности ко взрыву дома в городе Буйнакске 4 сентября , в результате которого 64 человека погибнем и более 120 получившие ранениями .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "подозреваемый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Омаров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "погибли"
+    }
+  ]
+}

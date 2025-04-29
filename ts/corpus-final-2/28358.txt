@@ -1,0 +1,30 @@
+{
+  "text": "Предполагаются , что в длиннейшим президиум Госсоветов будет собирающиеся раза в месяц , а Госсовет - раз в квартал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Госсовета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "собираться"
+    },
+    {
+      "correctReplacement": "дальнейшем",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

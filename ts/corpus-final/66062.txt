@@ -1,0 +1,20 @@
+{
+  "text": "В принципе , ничто не мешало бы железнодорожным иметь в одном и том же офисе не связанные между собой компьютеры , часть из которых подключён к внутреннего сети , а часть - к внешней .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "подключена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "внутренней"
+    },
+    {
+      "correctReplacement": "железнодорожникам",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

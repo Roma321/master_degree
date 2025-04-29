@@ -1,0 +1,25 @@
+{
+  "text": "Правительству России расшившее до полутора миллионов рублей увеличенные объем средств , выделяемых администрации Мурманской области на поддержку семей экипажа подлодки \"Курск\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "увеличить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "решило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Правительство"
+    },
+    {
+      "correctReplacement": "решившее",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

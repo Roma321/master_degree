@@ -1,0 +1,20 @@
+{
+  "text": "Последнее повышения пенсий в Москве происшедший в августе , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "повышение"
+    },
+    {
+      "correctReplacement": "произошёл",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

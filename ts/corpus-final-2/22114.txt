@@ -1,0 +1,35 @@
+{
+  "text": "Как заявил российский премьер , должность министра налагающий целое ряд ограничениям , в том числе п этического свойства , что не дающий возможности членам кабинета выступать в ряде случаями в качестве частных лиц .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "налагает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "целый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ограничений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "случаев"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

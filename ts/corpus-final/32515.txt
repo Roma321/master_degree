@@ -1,0 +1,20 @@
+{
+  "text": "Взрывчатку наславший в 12-ътажном блочном одноподъездном доме , где находится 77 квартир , расположенном по адресу улице Новоселова , дом 14/16 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "нашли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "улица"
+    },
+    {
+      "correctReplacement": "12-этажном",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

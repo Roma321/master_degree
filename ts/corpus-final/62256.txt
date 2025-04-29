@@ -1,0 +1,25 @@
+{
+  "text": "мишкин отсуженный в Московского арбитражном суде право не возвращать телекомпании \"НТВ плюс\" долгов по гособлигациям внутреннего валютногг займа (ОГВВЗ) , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Московском"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отсудил"
+    },
+    {
+      "correctReplacement": "Минфин",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "валютного",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

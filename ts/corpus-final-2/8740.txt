@@ -1,0 +1,25 @@
+{
+  "text": "Компания имеет право уволить сотрудников , нарушившего такое соглашение , иьи потребовать возвышения ущербов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ущерба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудника"
+    },
+    {
+      "correctReplacement": "возмещения",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "или",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

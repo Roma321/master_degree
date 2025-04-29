@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенья российский парусник \"Седов\" вышел в море из французском морта Брест , чтобы участвовать в морском празднике .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "французского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "correctReplacement": "порта",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

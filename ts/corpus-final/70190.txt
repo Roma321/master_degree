@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающий РИА \"Новости\" , столкновений между чиновниками ООН и бездомными палестинцами откаченная не было .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "отмечено"
+    },
+    {
+      "correctReplacement": "отмечена",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

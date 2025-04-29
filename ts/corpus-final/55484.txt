@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает ВВС , полицпй стану известно место проведения мероприятия , несмотря на то , что оно тщательно скрывалось .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "стало"
+    },
+    {
+      "correctReplacement": "полиций",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

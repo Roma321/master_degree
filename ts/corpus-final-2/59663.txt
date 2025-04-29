@@ -1,0 +1,20 @@
+{
+  "text": "Первой на поверхность поднятые кормовую часть подлодки , которая меньше пострадалп от взрыва .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поднимут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пострадала"
+    },
+    {
+      "correctReplacement": "пострадали",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю агентство АК&М со ссылкой на источник в аппарате первого вице-премьеров России Виктора Христенко , действия аналогичных ограничений по эксеорту нефтепродуктов будет прекращено к 31 декабря .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "вице-премьера"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "действие"
+    },
+    {
+      "correctReplacement": "экспорту",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

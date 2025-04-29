@@ -1,0 +1,25 @@
+{
+  "text": "По некоторым данным , у самолета горел двигатель , однако диспетчер заявили , что не видел пламени и что экипажи самолета не сообщал ничего о неполадках , как не извещу и о том , почему самолет не смог сесть с первого раза , сообщающий Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "экипаж"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 43,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "известил"
+    }
+  ]
+}

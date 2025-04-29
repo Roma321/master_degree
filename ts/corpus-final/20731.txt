@@ -1,0 +1,30 @@
+{
+  "text": "По подсчетам IFPI , в Интернете более миллион пиратских файлов (неясно , впрочем , каким образом удалось подсчитавшие их количество) , и мировой рынок продажи таких файла на компакт-дисках и других носителях составляет 5 , 5 миллиардера долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "файлов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "продаж"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "подсчитать"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

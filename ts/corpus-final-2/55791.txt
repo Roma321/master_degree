@@ -1,0 +1,20 @@
+{
+  "text": "В результате десятки людей винившие в полиции и сообщил о случившемся .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "полицию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "позвонили",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Гражданский правительство бйло свергну военными , которым долгое время не платили жалованья .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Гражданское"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "свергнуто"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На следующий день после того , как кандидат в претенденты США Джордж У . Буш объявленный об открытиях своей \"кардинально обновленного веб-сайта\" , этот сайт был взломан .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "открытии"
+    },
+    {
+      "correctReplacement": "президенты",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

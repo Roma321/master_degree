@@ -1,0 +1,25 @@
+{
+  "text": "Предполагается , что вкладчик , имевшие на счетах банка более 20 тысяч рубля , получим компенсацию в размере 20 тысяч рублей и откажутся от возврата остальных денег , заявивший Кудрин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "вкладчики"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "рублей"
+    }
+  ]
+}

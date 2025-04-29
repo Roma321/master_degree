@@ -1,0 +1,25 @@
+{
+  "text": "Джону Клюг прибегавший в США из Германир в 8-летнем возрасте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Клюге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Джон"
+    },
+    {
+      "correctReplacement": "приехал",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Германии",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

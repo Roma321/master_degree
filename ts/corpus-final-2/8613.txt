@@ -1,0 +1,15 @@
+{
+  "text": "Двоих пассажирок спасти не удалось , три человека госпитализирован , остальным оказана помощь на месте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

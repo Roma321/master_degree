@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу утром , около 5 . 00 по московскому времени , в Грузии происшедшее аварийное отключения единой энергосистемы республики , сообщим \"Интерфаксу\" в министерском топлива и энергетики Грузии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "отключение"
+    },
+    {
+      "correctReplacement": "Министерстве",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

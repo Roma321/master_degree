@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники МЧС Россни , вызванные в школу после взрывов , предполагают , что в банке будем калий али натрий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "были"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

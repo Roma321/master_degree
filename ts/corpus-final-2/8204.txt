@@ -1,0 +1,35 @@
+{
+  "text": "Пантелеев , представляющее в совете правительство Москвы , которому принадлежу 51 процент акций заврда , намерен в ближайших время отозвать подписи и . о . гендиректора и его заместителей , а также заменившие печать предприятия , чтобы блокировать старому руководству доступ к документации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "печати"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "заменить"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "представляющий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

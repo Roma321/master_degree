@@ -1,0 +1,25 @@
+{
+  "text": "Грузовое судно под грузинский флагом затонуло в понедельник утром у берегов Турции , неподалеку оо популярного курортного городов Кемеры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "грузинским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Кемер"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В совещании принимавшие участие и . о . министра внутренних дел России Владимир Рушайло , директор Федеральной службы безопасности РФ Николай Патрушев , главы Федеральной служб налогбвая полиции , Государственной таможенного комитета , представители министерств и ведомств , всех ветвей власти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "Государственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "службы"
+    },
+    {
+      "correctReplacement": "налоговая",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

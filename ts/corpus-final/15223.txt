@@ -1,0 +1,25 @@
+{
+  "text": "Политическая реклама , о которой идёт речи , - заявившие в штабе - состоит исключительность из \"интервью случайных людей на улице - это сугубо их мнение\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "речь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "исключительно",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

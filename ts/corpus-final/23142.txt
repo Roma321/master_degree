@@ -1,0 +1,20 @@
+{
+  "text": "Как передает BBC , акция Yahoo ! на Нью-йоркской бирже поднялись более чем на 5 процентов , акция Walt Disney - более чем на 11 процентов , акции Viacom - боле чем на 5 процентов и акции Lycos - более чем на 7 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "акции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "акции"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

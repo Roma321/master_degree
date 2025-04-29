@@ -1,0 +1,30 @@
+{
+  "text": "Таким образом , кнмпания Intel призываю инвесторов ни о чем не беспокоиться , заявляв , что с объявившим выпуском процессора Intel Pentium IV у компании никаких проблем не возникало и не могу возникнуть в будущем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "объявленным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "призывает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "заявляя"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

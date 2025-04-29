@@ -1,0 +1,35 @@
+{
+  "text": "Три человек погибли , более 20 получим тяжелые ранениям в автокатастрофе , произойду в среду на юга Фрунции , возле города Валенса , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "юге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "произошедшей"
+    },
+    {
+      "correctReplacement": "Франции",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

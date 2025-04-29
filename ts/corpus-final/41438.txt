@@ -1,0 +1,20 @@
+{
+  "text": "По словам Путина , Думы ейчас обсуждаю \"необычный документ\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Дума"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "обсуждает"
+    },
+    {
+      "correctReplacement": "сейчас",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Горбачев был первым советским лидером , кого приняла Иоенн Павел II .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "принял"
+    },
+    {
+      "correctReplacement": "первым",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Иоанн",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

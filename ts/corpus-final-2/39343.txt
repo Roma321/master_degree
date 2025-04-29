@@ -1,0 +1,25 @@
+{
+  "text": "Уже в первом гейме первой сета Евгений уступлю свою подачу , а мощную подавшую австралийского теннисиста выиграть так и не смогло .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "уступил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "подачу",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

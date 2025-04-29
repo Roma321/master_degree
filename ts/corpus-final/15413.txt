@@ -1,0 +1,20 @@
+{
+  "text": "Счетная палата принявшая решение о замораживании счетов ОРТ в одвет на неоднократный отказ руководства телекомпании предоставить инспекторам палаты необходимого документацию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "необходимую"
+    },
+    {
+      "correctReplacement": "ответ",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

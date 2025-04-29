@@ -1,0 +1,25 @@
+{
+  "text": "Представителями Комиссии заявленные , что долго не выносили никакого решения , потому что речь не идет о наказании в ближайшие часы , когда рассматриваемся прошения и апелляции последнего минуты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представители"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "последней"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "рассматриваются"
+    }
+  ]
+}

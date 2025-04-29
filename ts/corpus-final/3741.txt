@@ -1,0 +1,20 @@
+{
+  "text": "Медицинская экспертиза признала Шмоновы невменяемым , и он был помещено в психиатрическую мыльницу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "помещен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Шмонова"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

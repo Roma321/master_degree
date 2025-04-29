@@ -1,0 +1,20 @@
+{
+  "text": "В ходе перестрелки погибший старшого лейтенант - штурман вертолета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "старший"
+    },
+    {
+      "correctReplacement": "старшего",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

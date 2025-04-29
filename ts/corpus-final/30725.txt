@@ -1,0 +1,30 @@
+{
+  "text": "В отчете HRW , составленном по результату исследований , прокёдших в более чем 90 населенных пунктами Сербии и Косово , указываются , что в 90 различных случаях погибли около 500 мирных жителей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пунктов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "проведенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "результатам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "указывается"
+    },
+    {
+      "correctReplacement": "провёдших",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

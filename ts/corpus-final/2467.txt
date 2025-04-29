@@ -1,0 +1,35 @@
+{
+  "text": "По словам Джерома Сэмсоном из Nielsen Media Research , демографический портрет британских акваторий Интернета очень схож с портретом сетевой аудитории ч Северной Америке два года назад , хотя британцы гораздо быстрее воспринятые электронную коммерцию , чем американцы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "восприняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "аудитории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Сэмсона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "британской"
+    },
+    {
+      "correctReplacement": "аудиторий",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Герой многочисленных боевиков Жан-Клод Ван Дамм , облаченный в костюм ортодоксальной евсея - черную шляпу и пальто , - с пейсами и длинной накладного бородой собравший толпу на улицу в Старом Городе Иерусалима в понедельник .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "накладной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "ортодоксального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "собрал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "улице"
+    },
+    {
+      "correctReplacement": "еврея",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

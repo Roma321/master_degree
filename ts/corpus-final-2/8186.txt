@@ -1,0 +1,25 @@
+{
+  "text": "По словам Григорьянце , \"они были отвезены в Победенскую комендатуру , с которой пока не удается связавшиеся , и никаких объяснений по повлду причин задержанием военные не дают\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "связаться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "задержания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Григорьянца"
+    },
+    {
+      "correctReplacement": "поводу",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Московский арбитражная суд взыщу 12 , 776 миллиона долларов с компании ЗАО \"Бонум-1\" в слёь погашения долгов по кредитам Минфина .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "взыскал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "слёт",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

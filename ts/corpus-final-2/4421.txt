@@ -1,0 +1,25 @@
+{
+  "text": "Верховный суд России отменил приговор , вынесенный бывшей дипломатувалентины Моисееву за замену родине , сообщают РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дипломатуВалентину"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывшему"
+    },
+    {
+      "correctReplacement": "измену",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

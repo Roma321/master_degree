@@ -1,0 +1,20 @@
+{
+  "text": "Групка вооруженных преступников ограбил банкомат в холле больницы в одном из пригорода Парижа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "пригородов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ограбила"
+    },
+    {
+      "correctReplacement": "Группа",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

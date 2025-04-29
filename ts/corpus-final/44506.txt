@@ -1,0 +1,25 @@
+{
+  "text": "Самих же изобретателя Сеглера , как ни странно , в ближайшего время ожидаете большие расходы : в связи с популярностью его сайта его интернет-провайдеру пришлось запускать дополнительные мощности для обслуживания всего тркффика .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "ожидают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Самого"
+    },
+    {
+      "correctReplacement": "треффика",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

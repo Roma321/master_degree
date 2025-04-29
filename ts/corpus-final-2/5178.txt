@@ -1,0 +1,20 @@
+{
+  "text": "Избирательный квмпания в стране начинался со дня объявления даты выборов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "начинается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Избирательная"
+    },
+    {
+      "correctReplacement": "кампания",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

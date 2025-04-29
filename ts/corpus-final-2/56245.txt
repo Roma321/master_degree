@@ -1,0 +1,20 @@
+{
+  "text": "Каждое нутра сотрудниках заповедника обходят территорию , внимательно разглядывая следы на снегу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "утро"
+    },
+    {
+      "correctReplacement": "утра",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

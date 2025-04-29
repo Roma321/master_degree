@@ -1,0 +1,25 @@
+{
+  "text": "На основании патенлу BT и нанятая ею адвокатская фирма Scipher намерены добиваться той , чтобы все интернет-провайдеры США заплатили за лицензии от BT , разрешающие им использовать гипертекстовые ссылки в рамках своей деятельностей в сети Интернет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "патента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "деятельности"
+    },
+    {
+      "correctReplacement": "патенту",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Подмосковье ранено сотрудник милиций , который попытался помешать подрбстку украсть в ресторане лазерным диски .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "лазерные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "ранен"
+    },
+    {
+      "correctReplacement": "подростку",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

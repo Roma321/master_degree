@@ -1,0 +1,20 @@
+{
+  "text": "Такой образом , Боуден рывший осуждён за создание порнографических изображений , согласно Закону о защите детей 1978 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "осужден"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

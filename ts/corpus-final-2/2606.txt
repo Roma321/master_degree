@@ -1,0 +1,20 @@
+{
+  "text": "Милиционеры вступим в бой , который продолжались до пеннего утра .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "вступили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "продолжался"
+    },
+    {
+      "correctReplacement": "раннего",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

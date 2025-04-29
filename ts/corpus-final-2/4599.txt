@@ -1,0 +1,25 @@
+{
+  "text": "По слоаам официального представителя администрации США Джо Локхарта , президенте США Билл клинок вынужден временно покинуть Кемпу-дэвиду .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Кемп-Дэвид"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "Клинтон",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

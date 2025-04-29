@@ -1,0 +1,25 @@
+{
+  "text": "Следственные действия с неучастием Александра Тихоновых прекратились более двух месяцев назат , когда он 7 сентября , упав в своей камере , получил сотрясение головной мозга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Тихонова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "головного"
+    },
+    {
+      "correctReplacement": "участием",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По данным ОГВ , в ходе операций по ликвидации отрядов Басаева и хаттон погибли четверо российских солдатах , а вот потери чеченской стороны составившие не менее 15 человек убитыми Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "операции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "составили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "солдат"
+    },
+    {
+      "correctReplacement": "Хаттаба",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За минувшие сутки сотрудники милиций при проверкепаспортного режима задержали восемь боевикам , изъявшее пять единицогнестрельного оружия , 50 ручных гранат , большое количества боеприпасов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "количество"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "изъято"
+    }
+  ]
+}

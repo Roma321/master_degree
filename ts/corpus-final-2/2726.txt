@@ -1,0 +1,20 @@
+{
+  "text": "Традиционная поебинком \"Запад\" - \"Восток\" проводился в третий раз , победу в нем одержали спортсменки \"Запада\" - 73 : 61 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Традиционный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "поединок"
+    },
+    {
+      "correctReplacement": "поединком",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

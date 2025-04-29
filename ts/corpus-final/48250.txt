@@ -1,0 +1,25 @@
+{
+  "text": "Компания не будет поддерживать афтоматизированных систему контроля , поскольку есть невероятность , что это нарушивший конституционные права граждан (американские законы запрещают несанкционированный надзор) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "автоматизированную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "нарушит"
+    },
+    {
+      "correctReplacement": "вероятность",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "автоматизированных",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

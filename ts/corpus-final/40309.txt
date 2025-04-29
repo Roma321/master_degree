@@ -1,0 +1,25 @@
+{
+  "text": "старлеи лейтенант внутренний службы Селиванов и майор милиций Грачев полученные ранения и были госпитализированы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Старший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "Старшие",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

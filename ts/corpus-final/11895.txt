@@ -1,0 +1,30 @@
+{
+  "text": "Демонстранты заявили , что свободная торговлей , за котораю ратуешь ВТО , не является честной , и что деятельность организаций наносит ущерб окружающих среде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "торговля"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "ратует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "организации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "окружающей"
+    },
+    {
+      "correctReplacement": "которую",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

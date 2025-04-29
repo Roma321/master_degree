@@ -1,0 +1,25 @@
+{
+  "text": "По мнению суда , акции в метро была предпринята для того , чтобы отсёкшие внимания полиции от преступная деятельности секты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "акция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "преступной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "внимание"
+    },
+    {
+      "correctReplacement": "отвлечь",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

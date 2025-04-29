@@ -1,0 +1,25 @@
+{
+  "text": "Apple потребую от Yahoo имя , адрес электронная почты , домашний адрес , IP-адрес компьютера и телефонный номер анонимной пользователя Worker Bee (\"Рабочая Пчела\") Б",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "потребовала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "анонимного"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

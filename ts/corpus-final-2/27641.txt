@@ -1,0 +1,30 @@
+{
+  "text": "Кеннет Каймзы был осудивший на 125 лет тюремной заключения за убийство 82-летней Ирен Сильверман , нью-йоркской миллионерши , чей тело так т осталось ненайденным .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "чье"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Каймз"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "тюремного"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

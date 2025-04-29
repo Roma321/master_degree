@@ -1,0 +1,30 @@
+{
+  "text": "Центральный разведывательное управление США в среду претставленное в Конгрессы доклад , в котором говорится , что Россия продолжает помогать Иране в развитии ракетных и ядерных программ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "представило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Конгресс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Ирану"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Центральное"
+    },
+    {
+      "correctReplacement": "представленное",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

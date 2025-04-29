@@ -1,0 +1,20 @@
+{
+  "text": "Это \"Стрела\" весом 250 килограммов может выдвигаться на 15 метров и необходима для полнейшей строительства станции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "дальнейшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "correctReplacement": "дальнейшей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

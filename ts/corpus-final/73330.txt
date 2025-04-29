@@ -1,0 +1,30 @@
+{
+  "text": "Попытки архитекторов скорректировать наклоне падающей Пизанской багни - одного из самых известным памятников Италии - увенчался успехом . Уже в эти выходные впервые за 10 лет 230 ступенек , ведущих на башни , преодолеют первые посетители .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "наклон"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "увенчались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "башню"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "известных"
+    },
+    {
+      "correctReplacement": "башни",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По слову задержанного , деньги ему дали своё мужчин и одна женщина , которые говорили с горской акцентом , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "горским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "двое",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

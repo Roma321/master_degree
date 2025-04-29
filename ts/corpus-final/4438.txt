@@ -1,0 +1,30 @@
+{
+  "text": "По данным полиции , стрелковое оружие привозящийся на Канары на ростовских рыболовецких судах , которые занимаются промыслом у африканских берегов и заходяь в порте Тенерифе для смены экипажа , срочного ремонта и снабжения , - передаваемый РИА \"Новости со ссылкой на испанскую газету El Mundo .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "привозится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "порт"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "заходят",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

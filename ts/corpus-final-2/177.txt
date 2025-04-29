@@ -1,0 +1,20 @@
+{
+  "text": "Всего ТНК заплаченный за право выпадения заводами 79 миллионов долларов , из которых стоимость самого пакета акций составляет девять миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заплатит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "заводом"
+    },
+    {
+      "correctReplacement": "владения",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

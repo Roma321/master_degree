@@ -1,0 +1,25 @@
+{
+  "text": "Голый мужчина выскочивший на корт Уимблдона во время парной матчей между российскими теннисистками Анной Курниковой и Натальей Зверевой и американкам Эми Фрезиер и Кэти Шлакебер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "парного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "американками"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выскочил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "матча"
+    }
+  ]
+}

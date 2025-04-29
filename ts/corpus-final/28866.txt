@@ -1,0 +1,30 @@
+{
+  "text": "Об этом беготня заявленный на пресс-конференциили Мозгве заместителя начальника Паспортно-визового управления(ПВУ) МВД России Владимир Кривцов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "пресс-конференциив"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

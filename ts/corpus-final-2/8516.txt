@@ -1,0 +1,25 @@
+{
+  "text": "В 1998 году критики утверждали , что новые закон не только неконституционен , но еще и технически малоэфцективны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "новый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "малоэффективен"
+    },
+    {
+      "correctReplacement": "критики",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "малоэффективны",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Экс-президент асср прибыл в Рим на презентацию книги кардинала Казароли , рассказывающего о годах , проведённых в странах Восточного Европы , где он в течение 26 лет представлял Святой престол .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Восточной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "рассказывающей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "проведенных"
+    },
+    {
+      "correctReplacement": "СССР",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

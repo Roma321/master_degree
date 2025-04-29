@@ -1,0 +1,25 @@
+{
+  "text": "Между тем число электростанций Калифорнии за последние десятилетие увеличилось не намного , и хотя строительство еще нескольких крупных станциях уже наметившее , они вступят в строи не раньше 2002 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "намечено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "станций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "строй"
+    }
+  ]
+}

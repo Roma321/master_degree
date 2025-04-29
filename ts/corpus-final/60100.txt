@@ -1,0 +1,20 @@
+{
+  "text": "На вооружением софийского армии поступил стратегический ракетоносец ТУ-160 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вооружение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "российского",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Спикером Верховного рады избравший Иван Плющи (фракция Народно-демократическойпартии) , первым заместителем председателя парламента - Виктор Медведчуки (лидер объединенной социал-демократической партии) , вице-спикером - Степан Гавриш (группа \"Возрождение рпгионов\") .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "избран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Медведчук"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Плющ"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Верховной"
+    },
+    {
+      "correctReplacement": "регионов\")",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

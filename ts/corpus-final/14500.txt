@@ -1,0 +1,25 @@
+{
+  "text": "Рядом с ними разместятся каталоги преступлений партийных лидерам , чьи статуи стоящие в парке , а портреты висите в музей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "стоят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "музее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "висят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "лидеров"
+    }
+  ]
+}

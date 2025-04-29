@@ -1,0 +1,20 @@
+{
+  "text": "Утром в среду на соревнования ао тяжелой атлетике Мария Изабель Урутия выиграю \"золото\" в весовой категории до 75 килограммов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выиграла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "соревнованиях"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

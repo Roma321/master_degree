@@ -1,0 +1,25 @@
+{
+  "text": "В плавании на 200 метроф баттерфляем у военщин победу отпраздновала Мисти Хайману , установленная Олимпийский рекорд (2 : 05 : 88) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "установившая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Хайман"
+    },
+    {
+      "correctReplacement": "женщин",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "метров",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

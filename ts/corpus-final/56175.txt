@@ -1,0 +1,20 @@
+{
+  "text": "Избирательная компания по выборам депутатов в Государвтвенную Думу третьего созыве начавшаяся 10-го августа 1999 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "созыва"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "началась"
+    },
+    {
+      "correctReplacement": "Государственную",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

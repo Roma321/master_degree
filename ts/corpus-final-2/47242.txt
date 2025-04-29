@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечают аналитики , решение 11-м апелляционного суда никак не скажется на судебной разбирательздве , продолжающемся в верховном гуде Флориды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "11-го"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "судебном"
+    },
+    {
+      "correctReplacement": "суде",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "разбирательстве",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

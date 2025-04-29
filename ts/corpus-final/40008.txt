@@ -1,0 +1,20 @@
+{
+  "text": "В району населённого пункта Высогорное на дороге вертолеты обнаружили микроавтобус и КаМАЗ с боевиках , а также бензозаправщик .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "боевиками"
+    }
+  ]
+}

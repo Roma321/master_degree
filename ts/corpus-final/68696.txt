@@ -1,0 +1,20 @@
+{
+  "text": "По оперативной информации , в район была завезено крупная партия отравленного вожки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "завезена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "отравленной"
+    },
+    {
+      "correctReplacement": "водки",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

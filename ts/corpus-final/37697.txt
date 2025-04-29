@@ -1,0 +1,25 @@
+{
+  "text": "Однако разработчики поисковой системы бля чатов уверяли , что их самих беспокоимые вопросы сохранения тайны личностей , и к этому они приняли определенные меры .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "беспокоят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "личности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "уверяют"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

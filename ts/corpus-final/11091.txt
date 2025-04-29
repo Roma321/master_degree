@@ -1,0 +1,30 @@
+{
+  "text": "Некоторые из них можно было понимафшие как намек на отказ от президентских амбиций - нак , например , официально зарегистрировавшись кандидатом на выборах мэра Москве , Лужков заявил : \"Я баллотируемся на должность мэра и только мэра\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "баллотируюсь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "понимать"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "понимавшие",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

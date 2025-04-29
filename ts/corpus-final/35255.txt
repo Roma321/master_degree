@@ -1,0 +1,30 @@
+{
+  "text": "Они проводчтся в связи с тем , что 19 декабря прошлого годом большинство избирателей Владивостокского округа проголосованные против всеми кандидата и выборы были признаны недействительными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "correctReplacement": "проводятся",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

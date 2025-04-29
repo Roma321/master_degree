@@ -1,0 +1,20 @@
+{
+  "text": "По этой внутренней сети передаётся информация о движении поездов , местонахождении грузов , финансовый данные .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "передается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "финансовые"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

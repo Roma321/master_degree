@@ -1,0 +1,35 @@
+{
+  "text": "В аппарату помощник президента РФ Сергею Ястржембского , ИТАР-ТАСС уточнившие , что \"главари вместе со своими отрядами численностью более 250 боевиков планируют спустившиеся с гор и сжаться в плен в Шалинском и Урус- Мартановском районах Чечни\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "спуститься"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "аппарате"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "уточнили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "помощника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "correctReplacement": "сдаться",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

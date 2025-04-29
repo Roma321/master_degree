@@ -1,0 +1,25 @@
+{
+  "text": "Управление ФСБ по Приморскому краю призвало население в случае обнаружения подозрительных предметов - коробочек , пакетов , сумки и других вещеы - незамедлительно обращающиеся в правоохранительные органы , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "сумок"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "обращаться"
+    },
+    {
+      "correctReplacement": "коробок",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "вещей",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Судья посчитала , что россиянин совершил \"фол посшедней надежды\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "посчитал"
+    },
+    {
+      "correctReplacement": "россиянин",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "последней",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

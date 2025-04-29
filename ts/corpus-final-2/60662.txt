@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , пять миллионами долларов ужн обещано за поимку Осамы бин Ладена , который , по мнению США , причастна к произошедшему теракту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "причастен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

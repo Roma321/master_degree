@@ -1,0 +1,20 @@
+{
+  "text": "По информации береговой охраны , проходимое невдалеке от места катастрофы рыболовецкое судно смогло подобрать 40 пассажира .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пассажиров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "проходившее"
+    },
+    {
+      "correctReplacement": "недалеко",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

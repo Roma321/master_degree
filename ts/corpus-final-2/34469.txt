@@ -1,0 +1,35 @@
+{
+  "text": "По сообщение израильских средствам массовая информации , во вторник штабом центральной военного округа Израиля были обнародованы данные о количестве актов насилия , совершенных палестинцами в ходе нынешнего конфликта на Ближней Востоке , передаёт источник Lenta . Ru в Израиле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "центрального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "массовой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "Ближнем"
+    }
+  ]
+}

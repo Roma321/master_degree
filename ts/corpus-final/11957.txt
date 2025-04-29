@@ -1,0 +1,25 @@
+{
+  "text": "Путина высказалась также за вврдение \"особого экономического режимов для Чечни , поскольку она стала центром похищения людей , наркобизнеса , и разворовывания бюджетных средств , направляемых на восстановление хозяйства республики\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "высказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "режима"
+    },
+    {
+      "correctReplacement": "введение",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

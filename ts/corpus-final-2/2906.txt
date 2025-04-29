@@ -1,0 +1,15 @@
+{
+  "text": "Проезд в метро будет стоить 5 рублей , проезд в наземных видов городской транспорта - 4 рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "видах"
+    }
+  ]
+}

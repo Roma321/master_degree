@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники ФСБ изъевшие у неё фотоаппарат , сотовый телефон и записной книжки Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "записные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "нее"
+    },
+    {
+      "correctReplacement": "изъяли",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

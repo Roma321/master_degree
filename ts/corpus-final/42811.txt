@@ -1,0 +1,25 @@
+{
+  "text": "Как заявленный начальники Генерального штаба ВС РФ Анатолий Квашнины , главарей боевиков будут уничтожать , лихо будет проводиться их задержание \"по радуевскому варианту\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "начальник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Квашнин"
+    },
+    {
+      "correctReplacement": "либо",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

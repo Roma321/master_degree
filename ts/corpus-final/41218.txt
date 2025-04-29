@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , Комиссия должна вырабатывающие предложения по совершенствующему законодательству России в этой сфере .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вырабатывать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "законодательства"
+    },
+    {
+      "correctReplacement": "совершенствованию",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

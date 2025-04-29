@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , швейцарские визы отныне не потребуетесь людям , имеемым право на постоянных пребывание в странах ЕС , Андорре , Монако , Сан-Марино , США и Еанаде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "имеющим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "постоянное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "потребуются"
+    },
+    {
+      "correctReplacement": "Канаде",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

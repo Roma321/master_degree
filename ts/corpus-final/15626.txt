@@ -1,0 +1,20 @@
+{
+  "text": "Туджман проходил курсы интенсивному лнчения в больнице Дубрава в Хорватии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "интенсивного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "курс"
+    },
+    {
+      "correctReplacement": "лечения",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

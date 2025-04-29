@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал театральное агентства новостей , впервые имя Иване Титенкова обрело скандальную известность в связи с деятельностью фирмы \"Торгэкспо\" , поставлявшую в Россию контрабандную водку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Ивана"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "Федеральное",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

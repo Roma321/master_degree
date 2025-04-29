@@ -1,0 +1,30 @@
+{
+  "text": "Такое разъяснения дал сегодня РБК специалист департамента по связям с Федеральной Собранием РФ , общественными организация и межрелигиозным объединениями правительства РФ Дмитрий Сибиричевы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Сибиричев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "разъяснение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Федеральным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "религиозными"
+    },
+    {
+      "correctReplacement": "религиозным",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

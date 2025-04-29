@@ -1,0 +1,25 @@
+{
+  "text": "Совет Федераций одобренный закон \"О внесении дополнения в Статью 4 загона \"О средствах массовой информации\" , сообщает РИА \"Новости\" Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "одобрил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "correctReplacement": "закона",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

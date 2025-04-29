@@ -1,0 +1,20 @@
+{
+  "text": "По словам потерпевшего , воры влезли в его квартиры в Лос-Анджелесе и украденные сефф с 40 тысячами долларов , а также драгоценности и кое-что из вещей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "украли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "квартиру"
+    },
+    {
+      "correctReplacement": "сейф",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

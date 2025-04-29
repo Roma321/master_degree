@@ -1,0 +1,25 @@
+{
+  "text": "Некоторые экспертами считаем , что публикация корпорацией исходных текстов коммерческой репетиционной системы - еще одно шаг в реализации ее намерения конкурировать с другой Unix-подобной ОС - Linux .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "эксперты"
+    },
+    {
+      "correctReplacement": "операционной",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

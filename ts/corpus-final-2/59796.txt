@@ -1,0 +1,25 @@
+{
+  "text": "США , в частности , заявили о том , что готовы выделившие Россия кредит в 200 мильтонов доллара , что позволит российским атомщикам приступить к реализации этой программы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выделить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

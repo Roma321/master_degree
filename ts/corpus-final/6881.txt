@@ -1,0 +1,20 @@
+{
+  "text": "Восемь человек погибли , 40 ранифшие , покорежены десятки машин , выбиты витрины и окна многих магазинов и жилыми домов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "жилых"
+    },
+    {
+      "correctReplacement": "ранившие",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

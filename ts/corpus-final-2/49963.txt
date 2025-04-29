@@ -1,0 +1,25 @@
+{
+  "text": "В пятницы на центральной площадью Киева разбит палаточный городок участгиков акции протеста , требуемых отставки президента Украины Леонида Кучмы и министров-силовиков , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "требующих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "площади"
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

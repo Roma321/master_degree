@@ -1,0 +1,25 @@
+{
+  "text": "На месту теракта был найдена мешок , в котором находились большая полиэтиленовой бутыль с бензином и самодельное взрывную устройство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "найден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "полиэтиленовая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "месте"
+    }
+  ]
+}

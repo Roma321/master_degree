@@ -1,0 +1,30 @@
+{
+  "text": "В полночь по московскому времени начали работе избирательные участки в Магаданской области , где по одномандатной округу номер 103 баллотируюсь 11 человек , в той числе депутаты нынешнего состава Госдумы РФ Владимир Буткеев , Юрий Кузнецов , а также первый вице-губернатор Магаданской области Вячеслав Кобец .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "начнут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "баллотируется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "работу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "одномандатному"
+    }
+  ]
+}

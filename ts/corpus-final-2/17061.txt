@@ -1,0 +1,25 @@
+{
+  "text": "Съемочная группа прибыл на острова под видом туристов и , используя скрытые каиеры , запечатлённая повседневный быт жителей , которые , ни о чем не подозревая , оказавшиеся в роли бесплатных статистов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "запечатлела"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прибыла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "оказались"
+    },
+    {
+      "correctReplacement": "камеры",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

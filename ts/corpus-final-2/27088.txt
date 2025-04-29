@@ -1,0 +1,30 @@
+{
+  "text": "Условием получения этого бесплатного для пользователя сеевиса являющийся написание собственноручных свидетельского показания об обстоятельствах покупки программ , с приложением товарной чека или другой отчетности от продавца .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "показаний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "свидетельских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "товарного"
+    },
+    {
+      "correctReplacement": "сервиса",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

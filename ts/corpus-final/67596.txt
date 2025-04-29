@@ -1,0 +1,20 @@
+{
+  "text": "Его внимание привлекла коробка из-пот чая , которая находилась в туалете хвостовое частей самолета .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "части"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "хвостовой"
+    },
+    {
+      "correctReplacement": "из-под",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

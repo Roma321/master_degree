@@ -1,0 +1,25 @@
+{
+  "text": "Татарин должен дать показания по возбуждённому в апреле 1999 года уголовномк дувшему против бывшего председателя совета директоров Красноярского алюминиевого завода (КрАЗа) Анатолию Быкова .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "возбужденному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Анатолия"
+    },
+    {
+      "correctReplacement": "делу",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "уголовному",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

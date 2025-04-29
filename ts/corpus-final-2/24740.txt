@@ -1,0 +1,25 @@
+{
+  "text": "Владимир Путин потписало в понедельником указ о присуждении премий президента РФ в области образования за 1999 год , передающий РИА \"Новости\" со ссылкой на пресс-службу главы государства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подписал"
+    },
+    {
+      "correctReplacement": "подписало",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

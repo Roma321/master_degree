@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению Ananova . com , охранники не дали ей поставить трактор у дверей парламент , потому что у нее не было разрешения на парковку . �о доставившее в Турцию грузинской экипажем , которыц вернулся в Батуми еще в октябре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "парламента"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "доставлено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "грузинским"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

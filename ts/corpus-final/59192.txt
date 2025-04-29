@@ -1,0 +1,20 @@
+{
+  "text": "Экс-президент Советском Союза Михаил Горбачев снимался й рекламном ролике австрийского железнодорожного концерна .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Советского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "снимается"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

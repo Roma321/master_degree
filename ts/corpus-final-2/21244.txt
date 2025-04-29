@@ -1,0 +1,35 @@
+{
+  "text": "Шаленками отметил , что в случае , если гражданин добровольно возместят ущерб и заплативший все налоги , нём может быть освобожу от уголовной ответственности , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Шаленков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "возместит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заплатит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "освобожден"
+    }
+  ]
+}

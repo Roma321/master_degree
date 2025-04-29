@@ -1,0 +1,20 @@
+{
+  "text": "Этот процесс продлится до 18 гая , а регистрации кандидатов завершился 21 мая .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "регистрация"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "завершится"
+    },
+    {
+      "correctReplacement": "мая",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

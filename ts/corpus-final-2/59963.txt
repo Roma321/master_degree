@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в японских королевской дворце в присутствии императорскшй четы пройденный турнир поэтов , традиция проведения которого восходит к VIII веку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "королевском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "японском"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "прошел"
+    },
+    {
+      "correctReplacement": "императорской",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

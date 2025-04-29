@@ -1,0 +1,25 @@
+{
+  "text": "\"Главный аргументы тех , кто высказываешься \"за\" , - струна заработает на ввозе , переработке и хранении радиоактивных материалов около 20 миллиарда долларов\" , - пояснил Грешневиков .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "высказывается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "аргумент"
+    },
+    {
+      "correctReplacement": "страна",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

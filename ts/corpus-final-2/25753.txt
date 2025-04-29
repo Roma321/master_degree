@@ -1,0 +1,20 @@
+{
+  "text": "Недалеко от Афин греческую полиция арестовала человека , которого , как выяснилось , уже несколько годов нет в живых Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "греческая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

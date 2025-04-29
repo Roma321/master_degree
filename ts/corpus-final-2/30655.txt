@@ -1,0 +1,40 @@
+{
+  "text": "Уже официально заявлены , что йеменского полиции удалось обнаружить не только дома , где в течение некоторого времени проживали террористы , но и их машину , а такое установленные , что моторы для лодки со взрывчаткой был изготовлю в Адене .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "мотор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "дом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "йеменской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "установить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 37,
+      "correctReplacement": "изготовлен"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

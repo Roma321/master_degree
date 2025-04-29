@@ -1,0 +1,20 @@
+{
+  "text": "Оно сработало , когда по этому участку двигалсь военная колонна . К счастью , в результатах вэрыва никто не пострадаю .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "взрыва",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

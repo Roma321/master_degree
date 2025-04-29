@@ -1,0 +1,20 @@
+{
+  "text": "\"Кэмерон планируют полет на русскую космическую станции \"Мир\" следующим летом\" , сообщает газета , ссылаясь на российское информационное агендздво \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "станцию"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

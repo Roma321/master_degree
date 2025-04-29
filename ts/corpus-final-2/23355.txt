@@ -1,0 +1,20 @@
+{
+  "text": "Латвийские таможенники сняли известныз сибирского панка с поезда Москва-Рига , хотя все документы у него были в полном порядком .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "известного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "порядке"
+    },
+    {
+      "correctReplacement": "известных",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

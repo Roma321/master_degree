@@ -1,0 +1,25 @@
+{
+  "text": "В понедпльник , 16 октября , на судебной процессе по делу Тамары Рохлиной в Наро-Фоминском суде оглашена обвинительное заключение , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "оглашено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "судебном"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

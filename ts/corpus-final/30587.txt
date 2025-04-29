@@ -1,0 +1,20 @@
+{
+  "text": "Бюджет военной разведки выросший до 400 миллионов долларов , а зарплата военнослужащих возрестёшь на 3 , 4 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "вырастет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "возрастет"
+    },
+    {
+      "correctReplacement": "возрастёшь",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

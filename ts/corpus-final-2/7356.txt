@@ -1,0 +1,30 @@
+{
+  "text": "Делп Сухарто , переданное из генпрокуратуры в суд , насчитываю более 3 тысяч страниц , посвященных , главными образом , деятельности двух благотворительных зондов , которые контролировал бывший главу Индонезии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "главным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "насчитывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "глава"
+    },
+    {
+      "correctReplacement": "фондов",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "Дело",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

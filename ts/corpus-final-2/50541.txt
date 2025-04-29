@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье , 17 декабря , на западом Японии произошла железнодорожная катастрофа , сообщаемый BBC News .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "западе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "катастрофа",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаюсь ранее , в четверг утром бывшая премьер-министр Израиля Шимон Перес и глава Палестины Ясмр Арафат достигли долговечности о прекращении огня в свете выполнения решений саммита в Шарм-эль-Шейхе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "договоренности",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "Ясир",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

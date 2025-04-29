@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем нынешний уровень цен на нефьью еще далек от рекорда в 37 , 8 доллара за баррель , который установлю 20 сентября , отмечаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "установлен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "нефтью",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

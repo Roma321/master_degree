@@ -1,0 +1,30 @@
+{
+  "text": "Впрочем , создатели надеялись , что им заинтересуется какой-нибуть кровный сайты , посвящённый домашним животным , к примеру , Pets . com .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "посвященный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "надеются"
+    },
+    {
+      "correctReplacement": "крупный",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "какой-нибудь",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

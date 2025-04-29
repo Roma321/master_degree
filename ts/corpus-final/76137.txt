@@ -1,0 +1,35 @@
+{
+  "text": "Судебный тяжба начавшаяся девять лет назад , когда люди из коммуны Эйджамаа Эбубу , живущие в районе города Порт-Харкорт , подал иском с требованием о возмещении ущерба , нанесу разливу нефти в районе Огони .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "началась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "нанесенного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Судебная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "разливом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "подали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "иск"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако , отметила Филиппов , хотя для Белоруссии , Молдавии , Украины мы будем готовить специалистов в области закатных техники , в отношении Иранасуществует запрет подготовки таких специалистов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ракетной"
+    },
+    {
+      "correctReplacement": "ракетных",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

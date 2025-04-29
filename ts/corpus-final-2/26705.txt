@@ -1,0 +1,15 @@
+{
+  "text": "По данным Центра социологических исследований , на выборы пришедшийся более половины поляков , имеющих право голоса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "пришло"
+    },
+    {
+      "correctReplacement": "пришёл",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

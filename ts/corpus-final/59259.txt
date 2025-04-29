@@ -1,0 +1,20 @@
+{
+  "text": "Теперь стоимость услуг водопровода и канализации , к примеру , для семей из трех человека возрасту на 22 рубля в месяц .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "возрастет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "семьи"
+    }
+  ]
+}

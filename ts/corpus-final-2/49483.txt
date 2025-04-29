@@ -1,0 +1,35 @@
+{
+  "text": "В проекте участвовали такими известгые путевые и оффлайновые журналист , какНастик Грызунова , Наталья Хмелик , Николай Руденский , Владимир Ермолине , Наталья Бабасян .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "участвуют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "журналисты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Ермолин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "такие"
+    },
+    {
+      "correctReplacement": "сетевые",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "известные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

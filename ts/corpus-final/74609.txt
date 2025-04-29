@@ -1,0 +1,25 @@
+{
+  "text": "В нынешнему году страны ОПЕК уже согласились на повышение добычи , однако это привела лишь к временной сдерживанию роста цен Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "нынешнем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "временному"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "привело"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Национальная электрической компания Болгарии сообщила , что первые вагон бщлгарском овощных консервов отправились в Россию в счет оплаты поставок российского ядерного топлива .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "электрическая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "вагоны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "болгарских"
+    },
+    {
+      "correctReplacement": "болгарском",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

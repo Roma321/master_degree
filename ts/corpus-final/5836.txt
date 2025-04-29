@@ -1,0 +1,25 @@
+{
+  "text": "В отличие от iMac , на E-Power устранившая операционная системой Microsoft Windows , и стоит этот компьютеры на 20% дешевле .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "компьютер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "установлена"
+    },
+    {
+      "correctReplacement": "установившая",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

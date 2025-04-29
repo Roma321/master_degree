@@ -1,0 +1,25 @@
+{
+  "text": "Как будет выглядеть памятником , станешь известно не позднее 25 октубря - сообщим РИА \"Новости\" в Российской Академии художеств .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "памятник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "октября",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

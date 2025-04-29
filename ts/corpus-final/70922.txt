@@ -1,0 +1,25 @@
+{
+  "text": "Самое громкая сенсация состоюсь в Раиенском , где не хватающий звезд с неба \"Сатурн\" переиграл лидера чемпионатов - столичный \"Спартак\" (2 : 0) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "чемпионата"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Самая"
+    },
+    {
+      "correctReplacement": "Раменском",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В Чечне лидеры бандформирований планируемые организовать повсеместный вооруженное сопротивления федеральным силам , террористические акты и диверсии с целью дестабилизации опстановки на территории республики , в том числе в северных и центральными районах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "повсеместное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "центральных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сопротивление"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "планируют"
+    },
+    {
+      "correctReplacement": "обстановки",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

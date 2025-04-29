@@ -1,0 +1,20 @@
+{
+  "text": "Когда новоизбранный президент США Джордж Буш-младший переедешь , наконец , в Белый дом , он рискует обслужившие , что компьютеры не работают и нет ни карандаша , ни бумаги , сообщает The Washington Post .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "карандашей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "переедет"
+    },
+    {
+      "correctReplacement": "обнаружить",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ближайшие день предполагался извлечь из земли мотавшиеся две бомбы и взоовать их на военном полигон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "полигоне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "предполагается"
+    },
+    {
+      "correctReplacement": "оставшиеся",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "взорвать",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

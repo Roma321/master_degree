@@ -1,0 +1,25 @@
+{
+  "text": "По его утверждению , московские властей \"будут защищать себя и москвичей от клеветы в соответствии с законами , как это принято в демократическом общездве\" , то есть подадим в суд на ОРТ и Митрофановым .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "подадут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Митрофанова"
+    },
+    {
+      "correctReplacement": "обществе\"",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После просмотра видеопленки генеральный прокурор Украины михалы Потебенько заявленный , что запись не даваемый оснований для возбуждения уголовного дела .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Михаил"
+    },
+    {
+      "correctReplacement": "Михаилы",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

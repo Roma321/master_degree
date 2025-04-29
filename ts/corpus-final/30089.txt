@@ -1,0 +1,25 @@
+{
+  "text": "Он отмеченный , что российская сторона уже на год отстаёт от плана по запуску технического модуля на междунпродную космическое станцию (МКС) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "космическую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "отстает"
+    },
+    {
+      "correctReplacement": "международную",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

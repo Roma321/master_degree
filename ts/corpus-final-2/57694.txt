@@ -1,0 +1,20 @@
+{
+  "text": "На допросах Шипман упал перед преследователями на колени и заплакала .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "допросе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заплакал"
+    },
+    {
+      "correctReplacement": "следователями",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

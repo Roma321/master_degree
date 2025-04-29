@@ -1,0 +1,25 @@
+{
+  "text": "Недавно на экраны кинотеатрах Америки вышло новое фильм братьев Коэнов с его участиек - \"О брат , где же ты ? \"",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кинотеатров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вышел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "участием",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

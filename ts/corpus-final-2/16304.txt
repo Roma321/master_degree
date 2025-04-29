@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , причиной падения евро стала также информация о том , что производительности трудов в Соединенных Штатах выросла во втором квартале этого года на 5 , 7 процента по сравнению с верным кварталом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "производительность"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "первым",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

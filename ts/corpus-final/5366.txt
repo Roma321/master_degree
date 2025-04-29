@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению агентство Reuters , Международный Красный Крест уже собрала для пострадавших 3 миллиона докладов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "собрал"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

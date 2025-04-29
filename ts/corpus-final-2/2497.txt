@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщил в управлении международных и внешнеэкономических связей администрации Сахалинского области , для согласования проекта с властями и архитекторами на самарин прибыла делегация МИД Япония и Красного Креста этой стран .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Японии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Сахалинской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "Сахалин",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

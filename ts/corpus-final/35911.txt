@@ -1,0 +1,40 @@
+{
+  "text": "Лидер КПРФ Геннадий Зюгановым призвало Владимира Путина отменить как неконституционные два его указа , касающиеся льгот и гарантий бывшему президенту стран Борису Ельцину и члену его семьи , членам Конституционной суда и членам их семей , а тагже распоряжение правительства об утверждении Анатолия Чубайсе во главе РАО \"ЕЭС России\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "Чубайса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "Конституционного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "членам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Зюганов"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

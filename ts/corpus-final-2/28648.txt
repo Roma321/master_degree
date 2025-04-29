@@ -1,0 +1,25 @@
+{
+  "text": "Столкновения произошёл после того , как палеcтинцы собрался в мечети Аль-Акса в менструальной части Иерусалима на пытничную молитву .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "произошли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "собрались"
+    },
+    {
+      "correctReplacement": "центральной",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "пятничную",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

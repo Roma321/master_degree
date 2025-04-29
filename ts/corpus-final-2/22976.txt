@@ -1,0 +1,35 @@
+{
+  "text": "Городской суды Санкт-Петербурга приняли решение , которое ставящий под сомнение законность всех операции по периодизмция квартир и всех сделок на вторичном рынке российского жилья , заключенных с 1995 года , сообщает газета \"Ведомости\" за 26 . 09 . 2000 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "ставит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "операций"
+    },
+    {
+      "correctReplacement": "приватизации",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "периодизация",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

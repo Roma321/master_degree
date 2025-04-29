@@ -1,0 +1,25 @@
+{
+  "text": "Выборы губернатора Спнкт-Петербурга , состоявшиеся 14 мая , изошедшие в соответствии с законодательствами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "прошли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "законодательством"
+    },
+    {
+      "correctReplacement": "прошедшие",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Санкт-Петербурга",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

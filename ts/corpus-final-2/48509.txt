@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь ИТАР-ТАСС со ссылкой на пресс-центр МВД по Северному Кавказу , бандиты напали на армейского колонну федеральных сил , подозревавшись сильным туманом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "армейскую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "воспользовавшись",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

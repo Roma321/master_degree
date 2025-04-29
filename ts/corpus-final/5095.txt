@@ -1,0 +1,25 @@
+{
+  "text": "В минувший четверг в Тегеране прошедшай многотысячный митинг по случаю 20-е годовщину со дня захвата иранскими студентами американского посольства в Иране .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "годовщины"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "20-й"
+    },
+    {
+      "correctReplacement": "прошедший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

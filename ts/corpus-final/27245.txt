@@ -1,0 +1,20 @@
+{
+  "text": "Многие районы останемся бес электроснабжения , погодные условия мешают проведениям ремонтных работ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "проведению"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "остались"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

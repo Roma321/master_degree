@@ -1,0 +1,25 @@
+{
+  "text": "Главным подозреваемым по этой делу заявляется 23-летний Даниэль Владимирович из Волгограда , постоянно проживающая в Болгарии с 1990 год .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "проживающий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "является",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

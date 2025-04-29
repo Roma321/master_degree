@@ -1,0 +1,35 @@
+{
+  "text": "Обороты крупнейшего в мире нефтяной гиганте Exxon Mobil за девять месяцев этого года достигшие 168 , 9 миллиарда долларов , и на 38 миллиар.ов превысившие показатели преходящего года (130 , 9 миллиарда долларов в 1999 году) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "превысили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "нефтяного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "гиганта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "достигли"
+    },
+    {
+      "correctReplacement": "предыдущего",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

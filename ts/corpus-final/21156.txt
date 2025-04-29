@@ -1,0 +1,25 @@
+{
+  "text": "В штабе Объединённых группировки федеральных войск на Северном Кавказе этот информацию не подтвердим , но и не повернувшие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "подтвердили"
+    },
+    {
+      "correctReplacement": "опровергли",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

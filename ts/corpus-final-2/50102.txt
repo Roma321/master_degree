@@ -1,0 +1,25 @@
+{
+  "text": "Признание и высокому афторитет ведущего лингвистической вуза России прислал к ИнЯзу в послевоенные годы , тогда же он стал широко известен не только в СССР , но и за рубежом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "высокий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "лингвистического"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "пришли"
+    },
+    {
+      "correctReplacement": "авторитет",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

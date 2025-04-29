@@ -1,0 +1,20 @@
+{
+  "text": "Он принадлежит спортсмену из Австралии , в которой и проходили внешние игр .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "проходят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "игры"
+    },
+    {
+      "correctReplacement": "нынешние",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

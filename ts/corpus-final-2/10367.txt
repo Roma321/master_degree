@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал \"Эхо Мозгвы\" , вечером 12 августа Кадыров выступил с обращением к народу , котрое транслировалось грозненской телеканалом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "грозненским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

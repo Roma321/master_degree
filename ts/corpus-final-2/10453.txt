@@ -1,0 +1,25 @@
+{
+  "text": "Ожидается , что спасательная операция будет проведена 15 августине в теченме дней .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "августа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "дня"
+    },
+    {
+      "correctReplacement": "августе",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "течение",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

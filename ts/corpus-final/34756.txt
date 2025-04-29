@@ -1,0 +1,30 @@
+{
+  "text": "Госсекретарём США Мадлен Олбрайта , находившаяся с кратковременным визиром в Албании , скажу : \"мы очень довольны тем , что явка была столь высокой .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сказала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Олбрайт"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "находящаяся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Госсекретарь"
+    },
+    {
+      "correctReplacement": "визитом",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

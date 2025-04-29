@@ -1,0 +1,30 @@
+{
+  "text": "Оплата труда рабочих и служащих предприятий , учреждений и организации , финансирующих из бюджетных и внпбюджетных источников , в связи с совпадение рабочей времени не меняется .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "организаций"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "рабочего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "финансируемых"
+    },
+    {
+      "correctReplacement": "сокращением",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "внебюджетных",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

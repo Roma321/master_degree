@@ -1,0 +1,30 @@
+{
+  "text": "По заявлению заместителя начальника израильского полиции Давида Саде , воскресный взрыв осуществивший той же террористической ячейкой , которая 15 августа нынешнего года заминировавшая вестибюль офисного здания на улице Разиель в Нетагия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заминировала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "осуществлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Нетании"
+    },
+    {
+      "correctReplacement": "Нетания",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

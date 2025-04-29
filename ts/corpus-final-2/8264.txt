@@ -1,0 +1,35 @@
+{
+  "text": "Это стала возможным благодаря решению Совета Международных федерацией легкой патетики , который на заседании в Монако постановленный с двух лет до одного года сократить санкции в отношение кубинского спортсмена .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "постановил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "федерации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Международной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "отношении"
+    },
+    {
+      "correctReplacement": "атлетики",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

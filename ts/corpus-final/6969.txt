@@ -1,0 +1,35 @@
+{
+  "text": "Первый взрыву произошел около полудня по местной времени , а витальные - в том числе у здания Госбанков Пакистанов , рядом с Министерством по делам нелигий - спустя несколько минут .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Пакистана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Госбанка"
+    },
+    {
+      "correctReplacement": "остальные",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "религий",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

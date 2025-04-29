@@ -1,0 +1,30 @@
+{
+  "text": "Пинигин , который обеинен также в дезертирстве , приговорю к семи годам включения в колонии общего режиму , а Джамалов проведёт в местах лишения свободы шесть лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "проведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "режима"
+    },
+    {
+      "correctReplacement": "заключения",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "обвинен",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

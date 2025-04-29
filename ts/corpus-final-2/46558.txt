@@ -1,0 +1,25 @@
+{
+  "text": "Отчет о проверке поступил в Госдуму и Соуетом нумерации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "поступит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Совет"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Советом",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

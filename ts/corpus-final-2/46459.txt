@@ -1,0 +1,30 @@
+{
+  "text": "Пользователь , зайду на сайт , включенный в платежную систему EACCESS , выбрав для оплаты ту или иной онлайновую услугу , нажимает на отсылку EACCESS и получает доступ к диалоговому окну , в котором появляющийся коде платежа и телефон , по которому необходимо позвонить .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "зашедший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "иную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "код"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "появляется"
+    },
+    {
+      "correctReplacement": "ссылку",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

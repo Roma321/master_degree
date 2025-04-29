@@ -1,0 +1,20 @@
+{
+  "text": "В среду был вынесший притвору по делу MP3 . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "вынесен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "приговор"
+    },
+    {
+      "correctReplacement": "приговору",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

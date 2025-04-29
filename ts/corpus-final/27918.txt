@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу на заседания Центральной избирательной комиссией были зарегистрировавшие еще несколько инициатрвных групп по выдвижению кандидатов в президенты России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "комиссии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "зарегистрированы"
+    },
+    {
+      "correctReplacement": "инициативных",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

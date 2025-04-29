@@ -1,0 +1,25 @@
+{
+  "text": "По оценке российского министра , между Москвой и Берлина поёжились \"хорошие отношений и мы не склонны чём-либо менять\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "что-либо"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "отношения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Берлином"
+    },
+    {
+      "correctReplacement": "сложились",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

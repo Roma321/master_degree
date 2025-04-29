@@ -1,0 +1,15 @@
+{
+  "text": "Пострадавшего отправили в больницу , где ему обработали глубокие раоам и наложили на них швы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "раны"
+    },
+    {
+      "correctReplacement": "ранам",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

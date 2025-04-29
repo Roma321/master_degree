@@ -1,0 +1,30 @@
+{
+  "text": "В июле окружной суд Сан-Франциско вынес решение о закрытии веб-сервисов Napster , но последующее апелляционный суд приостановивший выполнение этого решения , ввищу неясности по многим вопросах и отсутствия прецедентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "вопросам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "приостановил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "веб-сервиса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "последующий"
+    },
+    {
+      "correctReplacement": "ввиду",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

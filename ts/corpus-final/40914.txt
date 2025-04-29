@@ -1,0 +1,20 @@
+{
+  "text": "Одной из главных задач чешского филиала ФБР будет помощь в подготовке сотрудника чешской оливии , прокуроров и судей для борьбы с организованного преступностью и отмыванием грязных денег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

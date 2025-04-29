@@ -1,0 +1,30 @@
+{
+  "text": "Приехавший на место несчастного случая полиции и врачи обнаружили плюющего на земли людей , которые упали с конструкций высотой в 10 , 6 метра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Приехавшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "полиция"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "лежащих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "земле"
+    },
+    {
+      "correctReplacement": "лежащего",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

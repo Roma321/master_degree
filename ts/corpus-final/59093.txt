@@ -1,0 +1,25 @@
+{
+  "text": "В связи с нехваткой медикамента лидеры чеченские сепаратистов отдали приказ проводить балеты на госпиталь и больницы Чечни .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "медикаментов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "чеченских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "госпитали"
+    },
+    {
+      "correctReplacement": "налеты",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

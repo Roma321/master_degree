@@ -1,0 +1,25 @@
+{
+  "text": "В качестве испытания начинающим шпионам предложил нашедшие зашифрованную информацию на покровительственном сайте Великобритании , сообщаешь AFP .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "найти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "предложили"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "правительственном",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

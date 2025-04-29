@@ -1,0 +1,25 @@
+{
+  "text": "Судя по характеру повреждений , взрывную устройздво рывшее заложено под правое задние крыло автомобиля , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "заднее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

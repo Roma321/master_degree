@@ -1,0 +1,20 @@
+{
+  "text": "Задержаны 26 человек , которые подозреваются в принадлежности к бандформирования , а пакже обнаружен складом оружия и боеприпасов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "бандформированиям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "склад"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

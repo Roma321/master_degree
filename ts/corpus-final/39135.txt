@@ -1,0 +1,20 @@
+{
+  "text": "Российскую алмазодобывающее компания \"Алроса\" владеет 32 процентами акции в совместном предприятии , занимающемся разработкой ангольского алмазного месторождения Катока .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Российская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "алмазодобывающая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "акций"
+    }
+  ]
+}

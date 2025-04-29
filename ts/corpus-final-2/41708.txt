@@ -1,0 +1,35 @@
+{
+  "text": "Посол Молдавии подчеркнул , что вино урожай 1999 и 2000 годами облегчается очень высоким качеством , несмотря на сухое лете , сообщает Прайм-тассы Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "лето"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Прайм-ТАСС"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "годов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "урожая"
+    },
+    {
+      "correctReplacement": "отличается",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

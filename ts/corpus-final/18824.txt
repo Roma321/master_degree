@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающий \"Интерфакс-АФИ\" со ссылкой на источники в конкурсной комиссии , компания предложила за пакет акций ТНК 90 миллионов долларов при стартовой цена 66 , 7 триллиона долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "цене"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

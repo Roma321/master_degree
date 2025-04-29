@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил 21 октября корреспонденту Итар-тассу пресс-секретарь министра внутренних дел республики , свой побег курсанты объяснили тем , что они не могущие больше терпеть систематические издевательздва и побои со стороны сержантами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "сержантов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "correctReplacement": "издевательства",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

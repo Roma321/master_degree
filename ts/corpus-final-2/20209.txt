@@ -1,0 +1,20 @@
+{
+  "text": "В Америку фильм вызсал большой скандалы в связи со слишком вольной трактовкой религиозных сюжетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "скандал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Америке"
+    },
+    {
+      "correctReplacement": "вызвал",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

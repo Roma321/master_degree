@@ -1,0 +1,30 @@
+{
+  "text": "По неофициальным данным , в ближайшее время на заводы должна была пришедшие ревизия . Военные прокуратура приступившая к поучению обстоятельств пожара в авиаремонтном центре под Петербургом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "прийти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "завод"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "приступила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Военная"
+    },
+    {
+      "correctReplacement": "изучению",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

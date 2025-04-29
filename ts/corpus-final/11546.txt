@@ -1,0 +1,20 @@
+{
+  "text": "По данных источников РИА \"Новости\" в ГУВД Мозгвы , после сегодняшнего совещания проверки столичной милиции будет продолжена .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "проверка"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

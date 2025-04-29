@@ -1,0 +1,20 @@
+{
+  "text": "В экстренной выпуске индийского телеканалов \"Зет-ТV\" сегодня сообщалось , что террористы готовы отпуятить заложников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "телеканала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "экстренном"
+    },
+    {
+      "correctReplacement": "отпустить",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

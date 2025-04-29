@@ -1,0 +1,20 @@
+{
+  "text": "В субботу в городе Конкорд мексиканского штата Северная Каролине обрушилась пешеходный мост , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "обрушился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Каролина"
+    },
+    {
+      "correctReplacement": "американского",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

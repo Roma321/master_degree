@@ -1,0 +1,25 @@
+{
+  "text": "Строго говоря , программа peacefire . exe не представляет собой ничего нового , она лишь афтоматизируешь выполнение инструкций по отключению порнофильтрами , которые уже давно находилиcи на сайте борцов с цензурой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "порнофильтров"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "автоматизирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "находилиcь"
+    },
+    {
+      "correctReplacement": "автоматизируешь",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

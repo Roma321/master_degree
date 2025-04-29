@@ -1,0 +1,30 @@
+{
+  "text": "В среду президент Ирана Мохаммад Хатах , являющийся в данную момент главой Организации сиамских конференций , призову к срочной встрече министров иностранных дел стран - участников ОИК для того , чтобы скоординировать иж действия против Израиля .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Хатами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "данный"
+    },
+    {
+      "correctReplacement": "исламских",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "их",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

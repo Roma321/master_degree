@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , местная телефонная компартия Etisalat остаётся единственным монополистом в области телефонную м факсовой связи , а также услуг Интернет-провайдинга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "телефонной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "остается"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

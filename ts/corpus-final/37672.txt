@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающиы РБК , в настоящее время ведутся переговоры о приобретении 80 процентов голосуемых акций американских конкурента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "голосующих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "американского"
+    },
+    {
+      "correctReplacement": "сообщающий",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

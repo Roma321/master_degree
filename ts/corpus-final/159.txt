@@ -1,0 +1,30 @@
+{
+  "text": "Тем временем партия продолжилась , и на 60-м ходом подойду к эндшпилю : у чёрных и оелых остались только ферзь , король и пешку .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "подошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "черных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "пешка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ходу"
+    },
+    {
+      "correctReplacement": "белых",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

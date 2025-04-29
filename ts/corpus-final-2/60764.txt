@@ -1,0 +1,20 @@
+{
+  "text": "Обвинительное заключение составляет 290 страниц машинописного текста , и его рглашение займёт пяти дней .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "пять"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "займет"
+    },
+    {
+      "correctReplacement": "оглашение",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

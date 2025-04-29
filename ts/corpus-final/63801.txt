@@ -1,0 +1,30 @@
+{
+  "text": "По данным дипломатических источников в странами Персидскому залива , у Удугова \"могли возникеуть проблемы\" с съездом в Кувейту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "странах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Кувейт"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Персидского"
+    },
+    {
+      "correctReplacement": "въездом",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "возникнуть",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

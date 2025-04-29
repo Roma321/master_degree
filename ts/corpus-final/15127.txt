@@ -1,0 +1,20 @@
+{
+  "text": "А между тем выделение денежных сретздф России Европейскому Союзом уже задержаны , отмечает Dow Jones .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "задержано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Европейским"
+    },
+    {
+      "correctReplacement": "средств",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

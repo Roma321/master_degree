@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёт РИА \"Новости\" , заседание шаталось с той , что начальник управления Генпрокуратуры по надзору за расследованием особо важных дел Александр Горбунов заявил ходатайство г прекращении производства по этому делу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "началось",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

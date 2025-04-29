@@ -1,0 +1,20 @@
+{
+  "text": "В результате водитель \"Жигулей\" скончался на месте , нахошившиеся в салоне двое дети и две женщины потушившие тяжелые травмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "детей"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

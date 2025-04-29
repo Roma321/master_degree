@@ -1,0 +1,30 @@
+{
+  "text": "Так , например , сегодня темами дня журналисты выбрали визите Владимира Путин на Кубу , проблему финансирования и реформирования российской арии , а тагже уроки чеченского кампаний .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "чеченских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "визит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Путина"
+    },
+    {
+      "correctReplacement": "армии",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

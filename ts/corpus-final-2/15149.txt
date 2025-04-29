@@ -1,0 +1,25 @@
+{
+  "text": "Средний размер пенсий по России в 2001 году будет существенно повышу и составишь 1260-1300 рулей , об этом заявил журналистам в пятницу глава пенсионного фондм (ПФР) Михаил Зурабов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "повышен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "составит"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "фонда",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

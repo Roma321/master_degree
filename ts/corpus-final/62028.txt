@@ -1,0 +1,20 @@
+{
+  "text": "Суд приговорил немолодого людей к одному году лишений свободы в колонии общего режима .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "лишения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "молодых"
+    },
+    {
+      "correctReplacement": "молодого",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

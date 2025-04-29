@@ -1,0 +1,25 @@
+{
+  "text": "Операции проводится силой выездных бригад электромонтеров , которые перерезают провода в жилищам тех , кто не смогший предъявить документы о своевременного оплате за электричество .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "жилищах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Операция"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "своевременной"
+    },
+    {
+      "correctReplacement": "смог",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Белый дому заявили , что выступает протиф принятия закона , поскольку не считал эту меру эффективной и не думает , что таким образом можно разубедить Россию продавать оружие Китаю .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "дом"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

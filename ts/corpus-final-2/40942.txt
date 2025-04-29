@@ -1,0 +1,20 @@
+{
+  "text": "Об этом журналистам сообщили сотрудники 1-го отделения милиции Курска , якобы уже установивший личтости этого человека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "установившие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "личность"
+    },
+    {
+      "correctReplacement": "личности",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Буш назвавший выкладки своём соперника \"сомнительной мазематикой\" и , в свою очередь , стал вспоминать просчеты альберта Гора как действующего вице-президента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "своего"
+    },
+    {
+      "correctReplacement": "Альберта",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "математикой\"",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

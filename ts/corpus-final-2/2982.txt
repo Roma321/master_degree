@@ -1,0 +1,20 @@
+{
+  "text": "Из двух оздоровительных лагерей в Костромской области госпитализировавшие 28 детей в возрасте от восьми до 14 гоны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "годы",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Прибывшие пожарные обнаружившиеся , что загорелась квартира № 55 на третий этаже высотки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "третьем"
+    },
+    {
+      "correctReplacement": "обнаружили",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Последнее время финансовое положение компании Corel было весьма тяжелым : во втором и третьей квартале нынешнего гьда потери компании составленные , соответственно , 23 с половиной и 11 миллионов доллара .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "составили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "третьем"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

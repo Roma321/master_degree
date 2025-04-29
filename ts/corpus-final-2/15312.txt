@@ -1,0 +1,25 @@
+{
+  "text": "По данным агентство , беспорядки возникнувшие около 23 : 30 , во время трансляции на большом мониторе стадионов футбольным матча \"Россия - Швейцария\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "возникли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "футбольного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "стадиона"
+    }
+  ]
+}

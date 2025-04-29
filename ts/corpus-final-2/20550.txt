@@ -1,0 +1,20 @@
+{
+  "text": "Еще один россиянин , попавшийся в финале , Денис Пиманков закончивший дистанцию седьмым .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "закончил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "финал"
+    },
+    {
+      "correctReplacement": "попавший",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

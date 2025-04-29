@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что британское законодательство запрежаешь интервью и фотоснимки несовершеннолетних деток - а особенно ребёнка видных политических и общественных деятелей - без разрешения родителей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "запрещает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "детей"
+    },
+    {
+      "correctReplacement": "детей",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "запрещаешь",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

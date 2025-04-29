@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенья перед отлетом с Окинавы президент России Владимир Путин заявила журналистам , что планирует нанести свой первый визит во Францию в октябре этого года , передаю агенство France Presse .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

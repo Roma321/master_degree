@@ -1,0 +1,30 @@
+{
+  "text": "Как отмечаешь еженеделбник , Федеральным ведомство по наблюдению за кредитной деятельностью считаю , что Германия служил в этом финансовом скандале передаточным звеном .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Федеральное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "служила"
+    },
+    {
+      "correctReplacement": "еженедельник",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

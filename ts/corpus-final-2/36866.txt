@@ -1,0 +1,30 @@
+{
+  "text": "Напомненные , что 18 октябрей Московский арбитражные суд перенес рассмотрение это иска на 8 ноября в связи с тем , что стороны достигли договоренности о заключении мёртвого соглашения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "мирового",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

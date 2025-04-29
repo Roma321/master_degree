@@ -1,0 +1,30 @@
+{
+  "text": "Вместе с тем Южанов сообщавшие , что на встрече в Кремле собеседниках сделан вывод о необхпдимостью в более отрытой информации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "собеседниками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "необходимости"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "необходимостью",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

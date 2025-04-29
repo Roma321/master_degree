@@ -1,0 +1,30 @@
+{
+  "text": "Работы по созданию экзоскелетов находимся на начальной стадии развития , однако в программу уже вложено 50 миллионов долларов и американское военное исследовательская агентство DARPA сообщал о первых успешныз результаты .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "исследовательское"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "результатах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "успешных",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

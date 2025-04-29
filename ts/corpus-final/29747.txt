@@ -1,0 +1,30 @@
+{
+  "text": "На последних парламентских выборах партии Йорга Хайдера выести с партией Вольфганга Шюсселем получили в парламенте 104 места из 183-х , что позволял блоку АНП-АПС сформировать коалиционное правительством .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "позволяет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "партия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Шюсселя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "правительство"
+    },
+    {
+      "correctReplacement": "вместе",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

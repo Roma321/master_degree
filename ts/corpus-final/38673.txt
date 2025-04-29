@@ -1,0 +1,20 @@
+{
+  "text": "В среду 1 марта прекращу подача газа в жилые дома Кишинева , газ также не подается в два ТЭЦ , обеспечивающие город электроэнергии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "электроэнергией"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "прекращена"
+    }
+  ]
+}

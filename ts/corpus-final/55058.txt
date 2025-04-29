@@ -1,0 +1,30 @@
+{
+  "text": "Он приветстмованный позиции России , проявившего заинтересованность во взаимодействии с международных организациями в решении чеченской проблемы , в том числе согласие России провести независимое расследование нарушений прав человека в Чечне .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "проявившую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "позицию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "международными"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приветствовал"
+    },
+    {
+      "correctReplacement": "приветствованный",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителей штаба Объединенной группирующие войск на Северном Кавказе , информация готовившемся теракте бсла получены по оперативным каналу ФСБ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "получена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "каналам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "готовящемся"
+    },
+    {
+      "correctReplacement": "группировки",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

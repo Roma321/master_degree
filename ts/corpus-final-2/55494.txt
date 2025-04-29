@@ -1,0 +1,25 @@
+{
+  "text": "По словам очевидцев , МакДермот приявший на работу утром как обычно , но стрелять начал лишь во второго половина дня .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "половине"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "пришел"
+    },
+    {
+      "correctReplacement": "пришедший",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

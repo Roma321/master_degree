@@ -1,0 +1,25 @@
+{
+  "text": "Как заявил представитель ГУБЭП , а настоящее время МВД России проводит работу по созданию региональной сети центра по противодействию легализации доходов , получивших незаконной путем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "центров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "полученных"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

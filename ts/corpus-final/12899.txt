@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" , они подозреваются в крупномасштабном мошенничестве , жертвой кротового стали проживающие в провинции Алмканте \"новые русские\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Аликанте",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

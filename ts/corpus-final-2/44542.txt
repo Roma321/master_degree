@@ -1,0 +1,20 @@
+{
+  "text": "Я бы хотел иметь возможность открыться самостоятельно и поделиться с другими , сказать , каково это было для меня , - сксзавшая Хиллари в интервью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "хотела"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сказала"
+    },
+    {
+      "correctReplacement": "сказавшая",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

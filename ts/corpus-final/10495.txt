@@ -1,0 +1,30 @@
+{
+  "text": "Администрация Президент Российской федерализмов не комментирует лживые и грязный измышления , подчёркиваю Александр Волошин , однако , учитывая масштаб кампании , он обращается к руководству газеты с призывом \"тщательно взвесить последствия данной акции\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "подчеркивает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "грязные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "correctReplacement": "Федераций",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Особенно неприятным стало то , что зараза переселяется в компьютер даже в случаях , когда пользователя не ьткрывает само письме .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "письмо"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пользователь"
+    },
+    {
+      "correctReplacement": "открывает",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

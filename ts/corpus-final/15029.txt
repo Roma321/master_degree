@@ -1,0 +1,30 @@
+{
+  "text": "Что касается России , она , согласная брртанскому отчётам , не являющийся особо опасным местом для встречи Новому года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "отчету"
+    },
+    {
+      "correctReplacement": "согласно",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "британскому",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

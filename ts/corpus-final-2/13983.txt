@@ -1,0 +1,20 @@
+{
+  "text": "С 10 сентября самый дешевый балет в общее вагон поезда , следующего из Санкт-Петербурга в Москву , будет сооить чуть более 80 рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "общий"
+    },
+    {
+      "correctReplacement": "билет",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "стоить",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

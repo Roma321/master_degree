@@ -1,0 +1,30 @@
+{
+  "text": "Как передаваемый Internet . Ru , дэвисы Пирс из BLTC Research заявленный , что домен Kursk . com был приобретён организацией в феврале текущего года с другой (далекой от продажи) целью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "приобретен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Дэвид"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Дэвиды",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По его словами , повесии заседания была очень насыщенной : было рассмотрю несколько блоков вопросов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "повестка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "рассмотрено"
+    },
+    {
+      "correctReplacement": "повестки",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "повести",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

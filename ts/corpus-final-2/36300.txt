@@ -1,0 +1,25 @@
+{
+  "text": "Согласно предварительным подсчетам , которые опубликовало агентством Reuters перед началом голосования в США , кандидату от республиканца Джорджу Бушу-младшему обеспечены 235 мест в коллегии выборщикоф , которая назовет имя будущего президент США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "республиканцев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "выборщиков",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

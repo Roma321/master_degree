@@ -1,0 +1,25 @@
+{
+  "text": "По утверждению авторов фильма , в планы американской стороны входил создание тахт баллистических ракет на дне мирового океан , а уникальной ракета \"Шквал\" угрожала этим планам .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "входило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "уникальная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "океана"
+    },
+    {
+      "correctReplacement": "шахт",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

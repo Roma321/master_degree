@@ -1,0 +1,20 @@
+{
+  "text": "Все системы , предназначенный для проведения мероприятия , в норме , погодные условия удовлетворительные , сообщают агентмтво Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "предназначенные"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

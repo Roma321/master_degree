@@ -1,0 +1,30 @@
+{
+  "text": "Проверка , подчеркнули в ФСНП , выявляются лишь одним звеном в цепи мероприятий , которые налоговые полиция проводил и будет проводить в нефтяной отраслей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "налоговая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "отрасли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "проводит"
+    },
+    {
+      "correctReplacement": "являются",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

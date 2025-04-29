@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас все освобожденные заложники проходят реабилитацию в одной из госпиталей Северного Кавказа и ожидают прикида своих родственниками .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "родственников"
+    },
+    {
+      "correctReplacement": "приезда",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

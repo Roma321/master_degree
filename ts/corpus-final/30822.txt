@@ -1,0 +1,30 @@
+{
+  "text": "В своем выступлении на открытии слушаниях Лича сообщивший о выдвижении им нового законопроекта , который обязывает банки США ужесточить контролю за своими операциями с клиентами и переводами из опорных финансового зон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "слушаний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "контроль"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "финансовых"
+    },
+    {
+      "correctReplacement": "офшорных",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

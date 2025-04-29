@@ -1,0 +1,15 @@
+{
+  "text": "Однако , по данные РИА \"Новости\" , катастрофа произошла в окрестностях города Гавличков Брот в средней Чехии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "Брод",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

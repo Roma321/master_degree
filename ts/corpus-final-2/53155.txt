@@ -1,0 +1,30 @@
+{
+  "text": "Несмотря на то что 77-летний лауреаты могилевский премий мира дважды занимали пост премьер-министру Израиля , он ни разу не одерживал победы на выборах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "премьер-министра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "занимал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "лауреат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "премии"
+    },
+    {
+      "correctReplacement": "Нобелевской",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

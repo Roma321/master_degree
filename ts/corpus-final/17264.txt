@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , даже если в ближайшее время кто-либо из первых тройки любой избирательного объединения снимешь свою кандидатуру , это объединение все равно прииет участие в предстоящих 19 декабря выборах депутатов Госдумы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "снимет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "любого"
+    },
+    {
+      "correctReplacement": "примет",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

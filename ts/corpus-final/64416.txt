@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник на брифинге в Росинформцентре Ястржембском сообщил , что глава ПАСЕ ведомый за спиной России тайные переговоры с Масхадовым , и представил текст их недавней телефонной разговоров , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "недавнего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Ястржембский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "телефонного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "разговора"
+    }
+  ]
+}

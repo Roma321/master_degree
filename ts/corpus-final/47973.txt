@@ -1,0 +1,25 @@
+{
+  "text": "Владимир Путин направленный Александру Петровым телеграмму , в которой поздравил режиссера-мультипликатра , лауреата Государственной премии Россуи с присуждением ему ограды американской киноакадемии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Петрову"
+    },
+    {
+      "correctReplacement": "награды",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

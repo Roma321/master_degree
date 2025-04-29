@@ -1,0 +1,35 @@
+{
+  "text": "В результате спланированной операции Самвел Григорьян был задержу сотрудниками ЦРУБОП и следственного комитета при МВТ России в своем рабочем кубинец с поличным в моменту получением взятки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "момент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "кабинете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "получения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "кабинет",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Госпитализировано 92 человека , в том числе 74 детец .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "ребенка"
+    },
+    {
+      "correctReplacement": "детей",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

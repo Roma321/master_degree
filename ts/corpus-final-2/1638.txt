@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным манным , в зданиях АЗС находифшиеся три человека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "здании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "находились"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

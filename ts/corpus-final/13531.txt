@@ -1,0 +1,20 @@
+{
+  "text": "Сам лидер партии Владимиры Жириновский был исключен из него еще 2 декабрр .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "декабря"
+    },
+    {
+      "correctReplacement": "декабрь",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

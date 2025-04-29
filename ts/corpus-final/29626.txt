@@ -1,0 +1,20 @@
+{
+  "text": "Помимо убийства Лукановой Проценко подозревается также в буйстве украинской преступного авторитета Михаила Шенина и в еще нескольких преступлениях , совершенных на территории Болгарии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Луканова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "украинского"
+    },
+    {
+      "correctReplacement": "убийстве",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

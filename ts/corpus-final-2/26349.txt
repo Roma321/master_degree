@@ -1,0 +1,20 @@
+{
+  "text": "Свидетельницей убийздва нечаянно стновится белая официантка , которая скрываешься от детектива и полиций .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "скрывается"
+    },
+    {
+      "correctReplacement": "убийства",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

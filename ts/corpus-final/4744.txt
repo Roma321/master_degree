@@ -1,0 +1,30 @@
+{
+  "text": "Третий пострадавший - мужчине 58 лет - госпитализирую в пяжелом состоянии , с огнестрельными охранениями грудная полости .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "грудной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "correctReplacement": "ранениями",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "тяжелом",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

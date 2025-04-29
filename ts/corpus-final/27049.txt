@@ -1,0 +1,20 @@
+{
+  "text": "За период с 17 по 23 января резко возросли заболеваембсти гриппом и ОРЗ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "заболеваемость"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "возросла"
+    },
+    {
+      "correctReplacement": "заболеваемости",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

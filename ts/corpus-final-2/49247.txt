@@ -1,0 +1,20 @@
+{
+  "text": "Возврат банку лицензией стал основанием для прекращений дела г банкротстве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "лицензии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "прекращения"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

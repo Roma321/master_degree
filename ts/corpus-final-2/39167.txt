@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , Михайлов заявивший ИТАР-ТАСС , чоо \"полностью разделяет подход , направленные на консолидацию общества , на объединение людей независимо от их национального принадлежности и социального положения\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "подходы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "национальной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

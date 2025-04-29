@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на новое решение сумы , Наталья Захарова не намерена прекращать объявленных 4 декабря голодовки до тех пор , пока ей не отдадим дочь .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "отдадут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "голодовку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "объявленную"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

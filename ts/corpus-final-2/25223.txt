@@ -1,0 +1,20 @@
+{
+  "text": "Это крупнейшая группа нелегальных иммигрантов , пытавшее незаконно въехать в Испания за последний гад .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Испанию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "пытавшая"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

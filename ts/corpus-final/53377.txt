@@ -1,0 +1,25 @@
+{
+  "text": "США , Индии и Великобритания лидируете в мире по числу счастливыхлюдей , полностью удовлетворявших своей жизнью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Индия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "удовлетворенных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "лидируют"
+    },
+    {
+      "correctReplacement": "удовлетворивших",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

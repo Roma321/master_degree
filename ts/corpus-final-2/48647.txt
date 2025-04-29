@@ -1,0 +1,25 @@
+{
+  "text": "В данный момент в американских тюрьмах нахожусь более 20 иммигрантам , в основном из арабских втран , которых держали в заключении без предъявления обвинения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "держат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "иммигрантов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

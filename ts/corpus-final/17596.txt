@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщу чрезвычайный и полномочное посла России в туркенич Анатолий Щелкунов , вопрос о статусе школы буьет решаться в течении следующей недели .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "полномочный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "посол"
+    },
+    {
+      "correctReplacement": "Туркмении",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

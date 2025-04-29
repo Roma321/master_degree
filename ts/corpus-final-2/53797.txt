@@ -1,0 +1,20 @@
+{
+  "text": "Девушка попыталась убежавшие , но пули настигли ек буквально в метре от машин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "убежать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "машины"
+    },
+    {
+      "correctReplacement": "ее",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

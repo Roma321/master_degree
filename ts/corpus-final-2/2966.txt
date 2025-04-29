@@ -1,0 +1,20 @@
+{
+  "text": "Между тем в Мадриде многотысячная толпы собравшаяся на митинг против насилря , сообщает ABC News .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "собралась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "толпа"
+    },
+    {
+      "correctReplacement": "насилия",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

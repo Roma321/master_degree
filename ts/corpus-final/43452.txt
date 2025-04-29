@@ -1,0 +1,20 @@
+{
+  "text": "По оценкам неспециалистов , ежегодно через рынок недвижимости прохожу до триллиона доллара .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "проходит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

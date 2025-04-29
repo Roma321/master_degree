@@ -1,0 +1,30 @@
+{
+  "text": "У голландцев сохранялись неплохие шансы пробиться в четвертьфинал , однако особой активность гости не проявили , даже когда один сз французские футболистов был удален с полов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "активности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "французских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "поля"
+    },
+    {
+      "correctReplacement": "полей",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

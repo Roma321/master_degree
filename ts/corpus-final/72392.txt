@@ -1,0 +1,30 @@
+{
+  "text": "В Нью-Йорке , Коннектикуте , Пенсильвании , эрленд , Вирджинии , Джорджии , Флориде , Техасе , Иллнойсе , Юиах и Калифорнии были арестованы как минимум 98 люди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Юте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Мэриленде"
+    },
+    {
+      "correctReplacement": "Мэриленд",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Ютах",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

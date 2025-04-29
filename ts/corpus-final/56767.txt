@@ -1,0 +1,25 @@
+{
+  "text": "Планируется также выход в открытое космос , в ходе которого космонавты установят грузовой краном \"Стреша\" и заменят вишедшую из строя радиоантенну .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "открытый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "кран"
+    },
+    {
+      "correctReplacement": "вышедшую",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "\"Стрела\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

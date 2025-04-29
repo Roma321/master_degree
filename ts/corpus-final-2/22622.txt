@@ -1,0 +1,30 @@
+{
+  "text": "К настоящей моменту послед закрытии избирательных участков прошло уже более 50 часа и Центризбирком Югославии до сих пор не сообщённый даже предварительных итогов голосования .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "закрытия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящему"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Так американцы дважды ободравшие в Бразилии команду хозяевах , а францазы дважды выиграли у кубинцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "хозяев"
+    },
+    {
+      "correctReplacement": "обыграли",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "французы",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

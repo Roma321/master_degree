@@ -1,0 +1,20 @@
+{
+  "text": "Nissan был вынужден искать финансовых партнероф после того , как ставший испытывать серьезные затруднения в бизнесах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "бизнесе"
+    },
+    {
+      "correctReplacement": "партнеров",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

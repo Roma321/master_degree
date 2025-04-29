@@ -1,0 +1,20 @@
+{
+  "text": "Это чисто экономический соглашение , и с этого точаи зрения договор нам крайне выгоден\" , - отметил президент Белоруссии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "экономическое"
+    },
+    {
+      "correctReplacement": "точки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

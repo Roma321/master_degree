@@ -1,0 +1,20 @@
+{
+  "text": "Вечером в четверг в подмосковном городе Раменское был убит трёхкратный чемпионы Европы по боксу сред юниоров 18-летний Сергей Латушко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "чемпион"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "трехкратный"
+    },
+    {
+      "correctReplacement": "среди",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

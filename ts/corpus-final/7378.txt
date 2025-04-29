@@ -1,0 +1,30 @@
+{
+  "text": "По словам миеистра транспортов и путей сообщения Турции Энисы Оксуза , это землетрясение нанесло экономике Турции ущерб в 10 миллиардов далласов , сообщаю CNN .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "транспорта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Эниса"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Полицейские сумел установитт ее полному имя , место рождения и адрес ее матери .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "полное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сумели"
+    },
+    {
+      "correctReplacement": "установить",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

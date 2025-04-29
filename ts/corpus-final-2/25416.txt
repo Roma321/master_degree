@@ -1,0 +1,25 @@
+{
+  "text": "друганным законопроект предусматриваешься также увеличение стоимостей оформления заявки на визу с 500 до 1000 долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "законопроектом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "предусматривается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "стоимости"
+    },
+    {
+      "correctReplacement": "Другим",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

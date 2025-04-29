@@ -1,0 +1,30 @@
+{
+  "text": "Митинговавшие люди и в Хасавюрте , и на КПП мотивировали свои действия тем , что , по их мнению , сейчас никакого переговоров с чеченскойстороной быть не должно : этот шаг Масхадовдолжном был сделать еще во время регрессии с территории Чечни , а не сейчас , после тех , как боевиков удамся выбить из Дагестана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Масхадовдолжен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 51,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 47,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "агрессии",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

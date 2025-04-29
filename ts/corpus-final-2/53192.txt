@@ -1,0 +1,25 @@
+{
+  "text": "Эпатажное скульптуры , названная художником \"Час девятый\" , уже вызвала бурю возмущения в Польше - не только потому , что в стране сильны католических традиции , но и потому , чтом нынешний Папа Римский не без основания считается здесь \"своим\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эпатажная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "скульптура"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "католические"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

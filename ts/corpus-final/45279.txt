@@ -1,0 +1,20 @@
+{
+  "text": "За ним следует Григорий Явлинский , на избирательное счет которогопоступило около 21 , 1 миллигна рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "избирательный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам военных , подобные базы создающиеся боевиками в толу федеральных сил для подготовка и проведения терактов и диверсии в освобожденных от сепаратистов районе республики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "создаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "диверсий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "районах"
+    },
+    {
+      "correctReplacement": "тылу",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

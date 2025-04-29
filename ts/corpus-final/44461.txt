@@ -1,0 +1,20 @@
+{
+  "text": "Один человек погиб в результате чрезвычайной происшествий , случившегося на одной из застав Камчатского погранотряда Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "чрезвычайного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

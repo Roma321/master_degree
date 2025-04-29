@@ -1,0 +1,20 @@
+{
+  "text": "Его максимальный размер достигаешь пяти финальных окладов - это 417 рубли - для физических лиц и десяти окладов - для юридических .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "достигает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "минимальных",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам президента , главныйсмысл находящегося на усмотрении в Госдуме пакетазаконопроектов , направивших на укрепление государственность , -обеспечить единое правовой пространство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "направленных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "государственности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "правовое"
+    },
+    {
+      "correctReplacement": "рассмотрении",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

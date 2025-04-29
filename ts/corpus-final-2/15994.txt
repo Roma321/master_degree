@@ -1,0 +1,25 @@
+{
+  "text": "Александр Тихонов быю арестован 7 августа по обвинению в покушении на Тулеева , но , как ранее сообщалось , за дню до этого Михаил Живило уехал в одно из европейских страны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "одну"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "стран"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

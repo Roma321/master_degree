@@ -1,0 +1,25 @@
+{
+  "text": "Немцы за весь матч не создали ни одного голевнй момент , а англичане усилиями Анри и Юнгбергу создали перед ответной игрой неплохой задел .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "момента"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "голевого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Юнгберга"
+    },
+    {
+      "correctReplacement": "голевой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

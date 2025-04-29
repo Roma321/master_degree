@@ -1,0 +1,20 @@
+{
+  "text": "В результате в корпусах авиалайнера образовалась дырка диаметром в сорок сантиметров , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "корпусе"
+    },
+    {
+      "correctReplacement": "дыра",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

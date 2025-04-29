@@ -1,0 +1,25 @@
+{
+  "text": "Каждый пятый взрослый британец сказал , чтожий создание памятника тысячелетию произвели на него более гнетущее впечатление , чем сентябрьские топливный кризис , недавнпе наводнение и железнодорожная катастрофа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сентябрьский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "произвело"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "недавнее",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

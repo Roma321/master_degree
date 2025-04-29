@@ -1,0 +1,30 @@
+{
+  "text": "Эти новость привлекла внимание таблоидов и вызову многочисленный публикация в прессе о возможном воссоединении пары после их недавнего заявления о иом , что они временно прекращают отношения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "публикации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "вызвала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "многочисленные"
+    },
+    {
+      "correctReplacement": "том",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

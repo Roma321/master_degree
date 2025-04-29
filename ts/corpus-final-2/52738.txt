@@ -1,0 +1,25 @@
+{
+  "text": "По словам оперативников , он регулярно , разами в три-четыре месяца выбежавший в Чечню , где беспрепятственно перемещался даже во время боевых бействия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "действий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "раз"
+    },
+    {
+      "correctReplacement": "выезжал",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "действия",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Банк ChaseManhatten сообщивший о паденим пребывшие на 19 процента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "прибыли",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "падении",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

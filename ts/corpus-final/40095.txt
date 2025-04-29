@@ -1,0 +1,20 @@
+{
+  "text": "Сам Кротюке считает , что злоумышленники , вмдимо , не планировали убивать его или членов его семьи , иначе они выбрали бы более удобная момент .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Кротюк"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "удобный"
+    },
+    {
+      "correctReplacement": "видимо",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

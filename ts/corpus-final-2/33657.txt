@@ -1,0 +1,25 @@
+{
+  "text": "Но Барак продолжает настаивать на той , что только правительство , сформированное из представителей всех политическим партий Израиль , способно успешно противостоять нынешнему критику .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "политических"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "correctReplacement": "кризису",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

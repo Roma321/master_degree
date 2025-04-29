@@ -1,0 +1,30 @@
+{
+  "text": "ИТАР-ТАСС со ссылкой на правоохранительный органы передает , что дело возбудившее по итогам проверке информашняя , прозвучавшей в программе Доренко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "проверки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "правоохранительные"
+    },
+    {
+      "correctReplacement": "информация",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

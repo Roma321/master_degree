@@ -1,0 +1,25 @@
+{
+  "text": "Однако за 20 минут до конца встречи серьёзнейшее ошибку допустили украинский голкипер Шовковский , переправивший мяч в сетку после мощного , но бесхитростных удара Роберто Карлоса со штрафной .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "допустил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "штрафного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "бесхитростного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "серьезнейшую"
+    }
+  ]
+}

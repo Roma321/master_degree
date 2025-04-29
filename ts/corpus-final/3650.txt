@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествия работаем специалисты ФСБ , милиции , штаба по делам гражданской обороны Камчатской области , а также спасатель региональной центра МЧС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "спасатели"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "регионального"
+    }
+  ]
+}

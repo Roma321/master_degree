@@ -1,0 +1,25 @@
+{
+  "text": "В результату землетрясения с столице разрушим десятки домов , во многих зданиях выбиты стекла , нарушена подача электроэнергии в некоторые районы и пригороды Мехико .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "разрушены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "некоторые",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

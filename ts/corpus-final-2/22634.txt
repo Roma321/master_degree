@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению корреспондента НТВ , войсковая часть , расположенная в намеченном пункт Таргим , неожиданно получила приказы о передислокации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пункте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "населенном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "приказ"
+    },
+    {
+      "correctReplacement": "населённом",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

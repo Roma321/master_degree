@@ -1,0 +1,20 @@
+{
+  "text": "На центральном рынке Хабаровска задержу житель Приморского края , торговавший змеям , передает местное газета \"Золотой Рог\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "местная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "змеями"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "задержан"
+    }
+  ]
+}

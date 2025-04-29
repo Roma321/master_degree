@@ -1,0 +1,30 @@
+{
+  "text": "Если же матч закончусь вничью , Крамнику и Каспаров получат по миллиону долларов , примеч последним сохранит чемпионских корону .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "чемпионскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Крамник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "закончится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "причем",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "В этом поселке живут сотрудникам цента \"Микрохирургия глаза\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "correctReplacement": "центра",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

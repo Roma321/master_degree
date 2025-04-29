@@ -1,0 +1,30 @@
+{
+  "text": "В 600 различных документах , принадлежащих перу 200 различным китайских афторов , аналитик углядим намерения Китая уничтожить своей главного противника , используя при этом как военные , так и невоенные методы - пропаганду , клевету , диверсии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "различных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "углядели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "аналитики"
+    },
+    {
+      "correctReplacement": "авторов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

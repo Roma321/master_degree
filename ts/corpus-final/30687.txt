@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал телекомпании ПТВ , демонстранты требовали , чтобы Хайдер убирался из Берлина , бросаем в окна здания камни и бутылки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "бросали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "телекомпания"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

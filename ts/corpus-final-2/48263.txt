@@ -1,0 +1,35 @@
+{
+  "text": "В то же время на выборах в Законодательное собрание по 19-й округу , единственному , где выборы приананы состоявшимися , из трех кандидата был избрана генеральные директору ОАО \"Нефтеразведка\" Аркадий Казберов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "19-му"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "избран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "correctReplacement": "признаны",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

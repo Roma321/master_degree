@@ -1,0 +1,25 @@
+{
+  "text": "Более половины жителей украинского село Болиславчик поразившие неизвестной болезнью , первый признавший которой - изменение цвета кожей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "кожи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "села"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "поражены"
+    },
+    {
+      "correctReplacement": "признак",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

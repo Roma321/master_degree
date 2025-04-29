@@ -1,0 +1,25 @@
+{
+  "text": "Анализ проп подтвердило возможность проведения работ внутри прочного корпуса – вода в отсеке не загрязнено , избыточной давления в нем нет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "загрязнена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "избыточного"
+    },
+    {
+      "correctReplacement": "проб",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Около 20 миллионов доллара было расхищу при строительстве Московской кольцевоч автомобильной дороги .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "расхищено"
+    },
+    {
+      "correctReplacement": "кольцевой",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

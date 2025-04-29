@@ -1,0 +1,20 @@
+{
+  "text": "В тот же день еще один известный командиру боевиков - Хамзат Батаев - был убит военнослужащими федеральных филов в Комсомольской .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "командир"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "Комсомольском"
+    },
+    {
+      "correctReplacement": "сил",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

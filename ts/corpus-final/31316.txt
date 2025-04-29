@@ -1,0 +1,20 @@
+{
+  "text": "Федеральная службы налоговой полиции получила из Центризбиркома монументы , касающиеся всех кандидатов в президентами России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "служба"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "президенты"
+    },
+    {
+      "correctReplacement": "документы",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

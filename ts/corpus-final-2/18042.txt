@@ -1,0 +1,25 @@
+{
+  "text": "В этом месяце , работающие в 20 километре к востоку от турецкого города Синопа , команда Балларда использовавшая специальный глубоководный сонар , дозволяющийся \"прочесывать\" большие участки дна и фиксировать там необычные объекты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "километрах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "использовала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "работая"
+    },
+    {
+      "correctReplacement": "позволяющий",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

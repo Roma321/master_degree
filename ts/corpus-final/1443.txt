@@ -1,0 +1,20 @@
+{
+  "text": "В небрежно выбросившем кем-то пакетике находилось девятимиллиметровый пистолет иностранной марки , два магазина , одна обойма от пистолета ПМ , 22 патрона , две ручных гранаты систем РГД-5 и Ф-1 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выброшенном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "системы"
+    }
+  ]
+}

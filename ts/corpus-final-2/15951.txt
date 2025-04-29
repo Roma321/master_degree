@@ -1,0 +1,20 @@
+{
+  "text": "Половина машин была сбита во времена боев , столько же выведено из втроя из-за ошибок лётного состава .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "летного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "строя",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

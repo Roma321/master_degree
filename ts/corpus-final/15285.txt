@@ -1,0 +1,25 @@
+{
+  "text": "Центральный избирательной комиссия России на заседании в пятницу отменила регистрацию федеральных списка избирательных объединения \"Экологическая партия России \"Кедр\" (зеленые) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "избирательная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Центральная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "избирательного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "федерального"
+    }
+  ]
+}

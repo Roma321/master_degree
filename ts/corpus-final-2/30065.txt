@@ -1,0 +1,20 @@
+{
+  "text": "Например , тем , что меня этим фильмом не ставил перед собой оикаких особенным задач . \"",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "особенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "я"
+    },
+    {
+      "correctReplacement": "никаких",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По мнению журналистов лвс , вынужденное отмена визита делегации ОБСЕ говорят о том , что Москва все еще не контролируемый ситуацию в Чеченской республике .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "говорит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вынужденная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "контролирует"
+    },
+    {
+      "correctReplacement": "ВВС",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

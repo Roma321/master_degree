@@ -1,0 +1,25 @@
+{
+  "text": "Дьюбуа сказал , что новая программа на 2000 год будет ориентирована на оказание гуманитарного помощи и содействия демократическими реформам , в то время как техническое помощь РФ будет сокращена .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "демократическим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "содействие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "гуманитарной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "техническая"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По словам капкан Малыхина , ареста судна напоминаю вооруженное нападение .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "напоминал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "арест"
+    },
+    {
+      "correctReplacement": "капитана",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

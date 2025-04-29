@@ -1,0 +1,25 @@
+{
+  "text": "В МИД Россией подтвердили информацию о прибытии к Москву Родригеса , сообщив , что договоренность о его визит была достигшая в Каракасе в сентябре на саммите стран ОПЕК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "достигнута"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "визите"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

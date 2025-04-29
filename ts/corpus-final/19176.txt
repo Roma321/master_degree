@@ -1,0 +1,25 @@
+{
+  "text": "Медики отмечаем , что трагедия нанесла сильный удар по эмоциональным состоянии большого числа граждан страны , на глазах у которыми умирали родные и близкие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "состоянию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "эмоциональному"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "отмечают"
+    }
+  ]
+}

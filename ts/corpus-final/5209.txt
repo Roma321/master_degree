@@ -1,0 +1,25 @@
+{
+  "text": "Правительство СРЮ настаивает на возвращении в крае частр югославских военнослужащих и сербской полиции для той , чтобы остановить исход сербов из крае .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "край"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "края"
+    },
+    {
+      "correctReplacement": "части",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

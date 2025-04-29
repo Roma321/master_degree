@@ -1,0 +1,30 @@
+{
+  "text": "Борис Березовский давший показания в Генпрокуратуре РФ сразу по двум уголовным делам - в качестве потерпевшим и свидетеля . павшего депутата вызвал на допрос те же следователь , что ведомый \"дело Гусинского\" - Владимир Данилов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "дал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "потерпевшего"
+    },
+    {
+      "correctReplacement": "Бывшего",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Следственная отдел Управления ФСБ РФ по Ставропольскому краю передавший в суд уголовное дело на участков преступного группы , планированных серию взрывов на рынке в Пятигорске 5 октября прошлого года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "планировавших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "передал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Следственный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "преступной"
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

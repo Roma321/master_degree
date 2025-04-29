@@ -1,0 +1,20 @@
+{
+  "text": "По мнениям чеченского президента , главное сейчас – остановленные уойну .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "остановить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "войну",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

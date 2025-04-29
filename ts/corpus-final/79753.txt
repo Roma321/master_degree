@@ -1,0 +1,20 @@
+{
+  "text": "У некоторых , передаю НТС , обоженно до 100 процентов кож .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "кожи"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

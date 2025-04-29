@@ -1,0 +1,25 @@
+{
+  "text": "Боливийское правительству обвинившее торговца наркотиками в организации массовых акций протеста кротив резкого повышения цен на водопользование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "торговцев"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обвинило"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

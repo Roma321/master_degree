@@ -1,0 +1,25 @@
+{
+  "text": "Высказывается мбения , чтожий они могли принять ее за нелегальная мини-завод по переработке нефти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нелегальный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Высказываются"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "мнения",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

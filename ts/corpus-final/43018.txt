@@ -1,0 +1,25 @@
+{
+  "text": "По данным источника , цласти Киргизии тщательно проверяете каждого , нарушенного \"ограничение по времени\" человека , поскольку вероятность появления под видом местных жителей боевых или их сообщников очень велика .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "нарушившего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "проверяют"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

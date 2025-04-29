@@ -1,0 +1,25 @@
+{
+  "text": "На состоюсь в манувший вторник пресс-конференции главный психотерапевт столицы Юрий Бойко заявивший : \"Москва не сходит с ума , но рост невротического расстройств налицо\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "состоявшейся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "невротических"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "минувший",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

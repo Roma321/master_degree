@@ -1,0 +1,25 @@
+{
+  "text": "Мы надеюсь , что сборная Латвией будет сражаться до последней секунды матча и добился успеха в борьбе с этим серьёзное противником\" , - говорится в заявлении латвийского банка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "надеемся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "добьется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "серьезным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Латвии"
+    }
+  ]
+}

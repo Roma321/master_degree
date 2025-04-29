@@ -1,0 +1,25 @@
+{
+  "text": "Корабль вернулся на верфи , где им был построен , тля дорогостоящей ремонта , который начнется в январе 2001 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "верфь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "дорогостоящего"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

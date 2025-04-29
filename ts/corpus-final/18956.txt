@@ -1,0 +1,20 @@
+{
+  "text": "Как ожидаюсь , в ход встречи будут обсуждаться итоги состоявшихся в России парламентских выборгов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ходе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

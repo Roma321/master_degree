@@ -1,0 +1,25 @@
+{
+  "text": "Генерал Эйланд заявил , что подобном приказ звучащий по малейшей мере двусмысленно : \"Означает ли это , что дагестанцы будут продолжать обстреливать израильтян в других районах ? \" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "звучит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "подобный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "меньшей"
+    },
+    {
+      "correctReplacement": "палестинцы",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

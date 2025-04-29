@@ -1,0 +1,20 @@
+{
+  "text": "Адвокат пояснил , что санкция ьыла подписана исполняющим обязанности прокурора Назаровских району края Дербеневым , который сам проходит свидетелем по делу Быкова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Назаровского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "района"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

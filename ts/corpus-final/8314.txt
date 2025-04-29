@@ -1,0 +1,35 @@
+{
+  "text": "Как заявлю журналистов генерал Корнуков , грузинская стороны направил протест на ЦКП ВВС не по поводу бомбардировки Душетского района российского авиацией , а по поводу нарушения армейской авиацией воздушной пространства Грузии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сторона"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "направила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "воздушного"
+    }
+  ]
+}

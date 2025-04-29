@@ -1,0 +1,20 @@
+{
+  "text": "Компания продаваемый эти изделий с января , и ее руководитель был весьма удивлен , получив повестке в суд .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "продает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "изделия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "повестку"
+    }
+  ]
+}

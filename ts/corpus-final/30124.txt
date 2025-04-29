@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС , неизвестные преступники открыли стрельбу по российскому патрулям , сопровождавшей , как обычно , сербских детей в шкощы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "школу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "патрулю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сопровождавшему"
+    },
+    {
+      "correctReplacement": "школы",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

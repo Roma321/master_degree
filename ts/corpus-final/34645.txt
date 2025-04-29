@@ -1,0 +1,30 @@
+{
+  "text": "Незадолго до происшествий в одну ид местных газет поступлю анонимное письмо с заявлением о началом акций протеста против возобновления транспортировки по территории Германии радиоактивных всходов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "поступило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "начале"
+    },
+    {
+      "correctReplacement": "отходов",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

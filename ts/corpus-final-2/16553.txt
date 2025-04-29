@@ -1,0 +1,35 @@
+{
+  "text": "Главная проблема заключался в той , что в первых трех отсеках снижение водолазов будет затруднена , поскольку эта часть лодками сильнее всего пострадавшая от взрывов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заключается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "пострадала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "затруднено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "лодки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "движение",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

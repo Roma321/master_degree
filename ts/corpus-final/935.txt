@@ -1,0 +1,25 @@
+{
+  "text": "Встреча была посвятившая работе федеральных орланов исполнительной власти по развитию системы ипотечной жигищного кредитования в России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "посвящена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ипотечного"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "жилищного",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В письме Атрошенко критикую позицию Центрального избирательной комиссии , её председателя Александра Вешнякова , а также ряды представителей федерального власти за то , что те не спешат внедрять синемую избирательных бюллетеней с несколькими степенями защиты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "федеральной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Центральной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "ряд"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "критикует"
+    },
+    {
+      "correctReplacement": "систему",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

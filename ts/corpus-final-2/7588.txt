@@ -1,0 +1,20 @@
+{
+  "text": "В то же время президента указал и на некооорые проблемы региона , в частности недостаточный уровни развития транспорта , связи и морских портов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "уровень"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "некоторые",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

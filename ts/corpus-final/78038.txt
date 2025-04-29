@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщу Кадыроф в пятницы , \"есть один очень серьезный вопрос , который можно решить телька на уровне президента , и он должен лично принять по нему решение\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Кадыров",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

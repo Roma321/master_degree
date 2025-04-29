@@ -1,0 +1,25 @@
+{
+  "text": "Такое мнение высказали тренеры аманд высшего дивизиона во время традиционной опроса , проведённого журнал \"Футбол-Ревю\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "журналом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проведенного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "традиционного"
+    },
+    {
+      "correctReplacement": "команд",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

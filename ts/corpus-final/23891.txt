@@ -1,0 +1,25 @@
+{
+  "text": "Однако , представительница Минюстом не сказали , фто адвокаты истцов не пришли ни к какому соглашению , хотя и не подтвердила , что их решили требовать разделения Microsoft .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сказала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Минюста"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Речь идёт о следующих высказываниях : \"90 тысячи предпринимателей сядут на освободифшиеся после амнистии нары\" и \"на освободившиеся по амнистии нары правительство посадит несколько сотен предпринимающих .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "предпринимателей\"",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "освободившиеся",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

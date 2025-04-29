@@ -1,0 +1,20 @@
+{
+  "text": "В Санкт-петербургах был взорвано ратный автомобиль вместе с владелецем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "взорван"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Санкт-Петербурге"
+    },
+    {
+      "correctReplacement": "частный",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

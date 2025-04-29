@@ -1,0 +1,20 @@
+{
+  "text": "Немедленно после пропажи компьютера Министерство обороны Англии заявила , что никаких секоетных документов в немого не хранилось , а если и хранились , то были надежно зашифрованы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "заявило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "нем"
+    },
+    {
+      "correctReplacement": "секретных",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

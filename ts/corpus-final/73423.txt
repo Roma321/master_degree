@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , вначале была выдвинута кандидатура Владимира Кашина , нд после предварительной совещания было решившее , что Владимир Кашины станет - в случае победы ГеннадияСелезнева - вице-губернатором .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "решено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "предварительного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Кашин"
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

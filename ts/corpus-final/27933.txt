@@ -1,0 +1,25 @@
+{
+  "text": "Председателя правлений Московского фонда пьезидентских программ Евгения Савостьянова выдвигает группа из 178 человек , представлю 25 полномочиями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "правления"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "представленная"
+    },
+    {
+      "correctReplacement": "уполномоченными",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "президентских",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

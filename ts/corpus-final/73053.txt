@@ -1,0 +1,30 @@
+{
+  "text": "Идею пригласить Папу в Пхепьян президенту КНДР предложил глава Южной Кореи в ходе встреч фидеров двух Корей , завершившейся накануне , сообщившие официальные источникам в Сеуле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "источники"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "встречи"
+    },
+    {
+      "correctReplacement": "лидеров",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "Пхеньян",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

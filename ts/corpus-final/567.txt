@@ -1,0 +1,20 @@
+{
+  "text": "По словам прнмьера , если темпы работ сохранились , то через два года дорога сможет дойти до Воронеж .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Воронежа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сохранятся"
+    },
+    {
+      "correctReplacement": "премьера",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

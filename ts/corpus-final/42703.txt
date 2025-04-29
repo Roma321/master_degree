@@ -1,0 +1,25 @@
+{
+  "text": "На местом катастрофы работающие спасатели , они извлекает людей из покореженных вагонов плезда , в котором в момент катастрофы находилось около 175 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "извлекают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "поезда",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

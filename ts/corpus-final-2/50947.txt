@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , жителей гооода , которым исполнилось сто и более лет , ждёт особые поздравления .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ждут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

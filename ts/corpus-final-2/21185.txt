@@ -1,0 +1,20 @@
+{
+  "text": "Авария , в результатах которой погибли семечко подростков и водителя автобуса , произошла недалеко от тирольского города Шватц , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "водитель"
+    },
+    {
+      "correctReplacement": "семеро",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

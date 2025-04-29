@@ -1,0 +1,25 @@
+{
+  "text": "До этого исключения было метавшее лишь для Москвы , где из-за слишком большого количества автомобилей был введён дополнительный код 99 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сделано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "исключение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "введен"
+    },
+    {
+      "correctReplacement": "сделавшее",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

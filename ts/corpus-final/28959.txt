@@ -1,0 +1,25 @@
+{
+  "text": "Руководства авиакомпании Alaska Airlines опубликовало на звоё сайтах обращение , где сожалеет о случившемся и утверждает , что причины катсатрофы ему пока неизвестны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сайте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Руководство"
+    },
+    {
+      "correctReplacement": "своем",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "своё",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

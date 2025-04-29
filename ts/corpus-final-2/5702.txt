@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данных , загорелись четыре резервуара емкостью шт пяти до десяти тысяч тонн , одно из них взорвавшийся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "взорвался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

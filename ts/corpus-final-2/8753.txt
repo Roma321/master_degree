@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , на разминированном поле площадью в 84 гектара , расположившем на левом бергу Днестра в районе селу Погребя , с мая обезврежу 345 взрывчатых предметы , 326 из них - противопехотные мины .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "расположенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "села"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "предметов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "обезврежено"
+    },
+    {
+      "correctReplacement": "берегу",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

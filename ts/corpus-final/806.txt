@@ -1,0 +1,20 @@
+{
+  "text": "Сего.ня в Париже начинает работу Всемирный детского парламентёр .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "детский"
+    },
+    {
+      "correctReplacement": "парламент",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Сегодня",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

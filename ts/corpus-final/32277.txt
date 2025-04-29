@@ -1,0 +1,25 @@
+{
+  "text": "Путин такое сообщивший , что меры по кардинальному изменению положения дел в сельской хозяйстве будут рассмотрены примерно через полторы месяца на специальном заседании правительства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сельском"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "полтора"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

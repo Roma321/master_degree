@@ -1,0 +1,25 @@
+{
+  "text": "В четверг его нанесла удар по самой южной японской префектуре Окинава , в пятницу он переместился на острова Кюсю , Сикоку , в юго-западную часть главного острые Японии - Хонсю и неуклонно продвигающийся на север , охватывая все новые районы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "продвигается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "нанес"
+    },
+    {
+      "correctReplacement": "острова",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Прокуроры принявшие решение о начале новых судебного процесс над некогда уважаемым врачом города Хайд , рядом с Манчестером , который уже отбывал тюремное заключение .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "процесса"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "отбывает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "нового"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Информации о взрывном встройстве , заложенном в здании Ярославского вокзалов , не потвердилась , сообщаемый \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Информация"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "вокзала"
+    },
+    {
+      "correctReplacement": "устройстве",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

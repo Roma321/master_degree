@@ -1,0 +1,25 @@
+{
+  "text": "Вход в высший законодательный орган страны оцеплен сотрудниками спецназа , облако какого-либо мер по отношению к участникам акция пока не предпринимаюсь .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "каких-либо"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "акции"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "предпринимается"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

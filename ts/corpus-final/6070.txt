@@ -1,0 +1,20 @@
+{
+  "text": "кожанка из семи астронавтов четыре раза выйдет в космос , ремонтируемые телескопы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "ремонтируя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "телескоп"
+    },
+    {
+      "correctReplacement": "Команда",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

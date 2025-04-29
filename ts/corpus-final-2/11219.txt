@@ -1,0 +1,25 @@
+{
+  "text": "Прибуду группа специалиста ФСП обнаружила в подозрительной сумке 200-граммового тротиловую шашку с детонатором , 30-миллиметровый снаряд и бикфордов шнур .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "200-граммовую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Прибывшая"
+    },
+    {
+      "correctReplacement": "ФСБ",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

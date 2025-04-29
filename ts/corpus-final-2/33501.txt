@@ -1,0 +1,20 @@
+{
+  "text": "По окончании церемонию тела посягнувших подводников отправились на БТРах в военная госпиталь Северного флота .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "военный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "церемонии"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

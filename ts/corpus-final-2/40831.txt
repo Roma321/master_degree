@@ -1,0 +1,20 @@
+{
+  "text": "А лидирует в рейтинге с огромным преимущездвом швейцарка Мартина Хингис , выигравший турнир в Нью-йорках .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Нью-Йорке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выигравшая"
+    },
+    {
+      "correctReplacement": "преимуществом",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

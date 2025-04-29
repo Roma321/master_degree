@@ -1,0 +1,30 @@
+{
+  "text": "Эта сумма являюсь рекордным : аще никогда ни один футболивт не зарабатывавший так много .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "рекордной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "зарабатывал"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "футболист",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

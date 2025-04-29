@@ -1,0 +1,30 @@
+{
+  "text": "Экипаж баржи принял экстренные меры : остатки горючего из покрасифшего танка (около 190 тонн) были откачаны в другой емкость , утечки топлива в реку была остановлена .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "поврежденного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "утечка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "другую"
+    },
+    {
+      "correctReplacement": "повредившего",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "покрасившего",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

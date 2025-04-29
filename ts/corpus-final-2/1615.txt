@@ -1,0 +1,20 @@
+{
+  "text": "По данным метеорологической дружбой , сила землетрясения составлю 6 . 2 балла по шкале Рихтера .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "составила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "службы"
+    },
+    {
+      "correctReplacement": "службой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

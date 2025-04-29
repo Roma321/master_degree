@@ -1,0 +1,20 @@
+{
+  "text": "В индипы группа террористов захватила пассажирским лайнер .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "correctReplacement": "Индии",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "индиры",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

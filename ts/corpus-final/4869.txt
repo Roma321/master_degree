@@ -1,0 +1,30 @@
+{
+  "text": "Чуть более 17 тысяч спамеров из коллекции - клиенты AOL , почти 5 тысяч имеем почтовый адрес на Hotmail . com Центр переработки спама - организация , основавшая совместно компанией ChooseYourMail , Коалицией прорив непрошеного коммерческой почт (CAUCE) , Форумом против безответственных и неэтичных электронных писем (FREE) и организацией SAFEeps .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "основанная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "почты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "непрошеной"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

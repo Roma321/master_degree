@@ -1,0 +1,25 @@
+{
+  "text": "Тогда погибли , по меньшей мере , шесть человек и более 35 получившпе ранения , а 11 членов экипажа эсминца считались пропавшими без веди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "вести"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "считаются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "получившие",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

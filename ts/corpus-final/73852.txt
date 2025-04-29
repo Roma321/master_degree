@@ -1,0 +1,20 @@
+{
+  "text": "В Туле объявлена забастовка , не заработавшие автозаправочные атанции , маршрутные такси и магазины , передает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "работали",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "станции",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

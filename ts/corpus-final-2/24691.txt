@@ -1,0 +1,25 @@
+{
+  "text": "Призыв солдат и офицеров запавшего будет провёдший в Псковской , Новгородской , Ленпнградских областей и в Санкт-Петербурге .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проведен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Ленинградской"
+    },
+    {
+      "correctReplacement": "запаса",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Ленинградских",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

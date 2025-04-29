@@ -1,0 +1,30 @@
+{
+  "text": "По словам очевидца , в настоящую время военнослужащие KFOR танками и бронемашинами заблокировавшие дорогу , соединяющих Звечаны и Косовскую Митровицу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "очевидцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Звечан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "соединяющую"
+    },
+    {
+      "correctReplacement": "блокировали",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

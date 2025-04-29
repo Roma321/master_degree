@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , на встрече рассмотревшие вопросы укрепления банковского сектора пти посредничествах Агентства по реструктуризации кредитных реанимации (АРКО) , а также планы по развитию налоговой системы с целью ликвидации противоречий в налоговом законодательстве и улучшения инвестиционного климата .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "рассмотрены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "организаций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "посредничестве"
+    },
+    {
+      "correctReplacement": "организации",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "при",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Центральная избирательное комиссия завершит регистрацию кандидатов на должности президента России не позднее 21 февраля , сообщило \"Интерфаксу\" председатель ЦИК Александр Вешняков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "должность"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "избирательная"
+    }
+  ]
+}

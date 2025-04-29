@@ -1,0 +1,30 @@
+{
+  "text": "Комментирующие это ситуации , секретарь Совета безопасности России Сергей Иванов подчеркнул в среду на пресс-конференции в Росинформцентре , что нет ни одно доказанного факта снаджения чеченских боевиков оружием с российских военных баз в Грузии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Комментируя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ситуацию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "эту"
+    },
+    {
+      "correctReplacement": "снабжения",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

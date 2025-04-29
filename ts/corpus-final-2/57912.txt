@@ -1,0 +1,25 @@
+{
+  "text": "Предполагалось , что это будет издательский дом Simon & Schuster , который недавно предложил первой леди США гонорар в 8 мильонов долларов за право публикацри ее мемуаров , однако его представитель Дэвид Розентали не подтвердил информацию о том , что издатели собираются встречающиеся с Олбрайт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "Розенталь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 42,
+      "correctReplacement": "встречаться"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "публикации",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

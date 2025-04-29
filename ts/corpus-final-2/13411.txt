@@ -1,0 +1,35 @@
+{
+  "text": "Пассажирская саиолет египетской компаний Egypt Air , выполняющий в пятницу рейс по маршруту Каир - Лондон , вернулся в каирский аэропорт в связи с неисправностью системы , поддерживавшей нормальное давление в самолете , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выполнявший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "поддерживающей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Пассажирский"
+    },
+    {
+      "correctReplacement": "самолет",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

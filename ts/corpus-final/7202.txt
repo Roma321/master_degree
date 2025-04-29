@@ -1,0 +1,25 @@
+{
+  "text": "Потерпевшее аварию ракета должна была вывести на околоземную орбиту многоцелевой имущественный спутник стоимости около 100 миллионов йены , предназначенный для слежения за атмосферой , а также для управления полетами самолетов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Потерпевшая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "стоимостью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "йен"
+    },
+    {
+      "correctReplacement": "искусственный",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

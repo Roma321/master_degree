@@ -1,0 +1,25 @@
+{
+  "text": "По словам Каламанова , в настоящего время предпринимаются попыткам уточнить сведения о зчложниках , запрашивается информация правозащитных организаций и Министерства внутренних белых .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "попытки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "заложниках",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

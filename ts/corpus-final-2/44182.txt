@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас пожарные занимаются проливке и разводкой обгоревдих конструкций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "проливкой"
+    },
+    {
+      "correctReplacement": "разборкой",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "обгоревших",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

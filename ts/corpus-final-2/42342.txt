@@ -1,0 +1,30 @@
+{
+  "text": "По последним истощения , при взрыве погипший одному израильская солдат и еще семь человек получили ранения различной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "израильский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "сообщениям",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "погибший",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

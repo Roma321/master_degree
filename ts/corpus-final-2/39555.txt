@@ -1,0 +1,20 @@
+{
+  "text": "Они сообщили , чтом сейчас Абрамович находится на Чукотке , где проводит предвыборную кампании , баллотируясь на пост губернатора этому региона .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "кампанию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

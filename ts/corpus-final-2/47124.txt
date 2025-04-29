@@ -1,0 +1,25 @@
+{
+  "text": "По словам Виктюка , основные проблёмкие при постановке носили технический характер : плохое оборубование и освещение сцены местного ТЮЗа , отсутствие звукового аппаратуру должного уровня .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "аппаратуры"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "звуковой"
+    },
+    {
+      "correctReplacement": "проблемы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "оборудование",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

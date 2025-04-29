@@ -1,0 +1,20 @@
+{
+  "text": "В результате возникну биржевой паники акции компании Emulex упали в цене на 50 проценты , а рыночная стоимость компании понизилась на 2 , 5 миллиона доллароф .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "возникшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В Великобритании , кроме того , заблокировавшие подъезды к пяти главными нефтеперерабатывающим предприятиям и на многих автозаправочных дистанций завончусь бензин .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "закончился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заблокированы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "главным"
+    },
+    {
+      "correctReplacement": "станциях",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "закончусь",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

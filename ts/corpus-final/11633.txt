@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечает агентство Bloomberg , этот шаг предпринимается с расчетом значительно повысить цену акации концерна и сделавшие планы Vodafone еще более дорогбстоящими .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сделать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "дорогостоящими",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

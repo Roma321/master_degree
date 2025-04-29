@@ -1,0 +1,20 @@
+{
+  "text": "В конце январей суммарный оборот трех бирж составил 2 трилиона 333 миллиарда евро , в то время как оборот болконском биржи достиг 4 триллионов 396 миллиардов евро .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "Лондонской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "Лондонском",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

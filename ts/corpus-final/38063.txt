@@ -1,0 +1,20 @@
+{
+  "text": "Результатом сбитого календарей стали сообщения о сильных дождях во вторник , в то время как в этот день дождя в Японией не были вообще .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "календаря"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Японии"
+    }
+  ]
+}

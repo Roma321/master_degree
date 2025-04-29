@@ -1,0 +1,25 @@
+{
+  "text": "Появление в эфире ОРТ материала о пропажей тележурналиста Лукашенко также увязывающий с общей политикой , проводимой позиционными силами как внутри Белоруссии , так и за ее сределами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "увязывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "пропаже"
+    },
+    {
+      "correctReplacement": "оппозиционными",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "пределами",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

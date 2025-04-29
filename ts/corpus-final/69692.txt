@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , в марте на венской встрече ОПЕК было принято решением увеличить добычи на 500 тысяч баррелей в сутки , если средняя цен. за 20 дней достигнет 28 долларов за баррель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "цена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "добычу"
+    },
+    {
+      "correctReplacement": "цены",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

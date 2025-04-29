@@ -1,0 +1,25 @@
+{
+  "text": "По утверждению Астахова , сыо Плотникова Юрии является штатным сотрудником следственного управления ФСБ и вхожу в состав следственной бравады в ходе предварительного расследования по делу Эдмонда Поупа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "входил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Юрий"
+    },
+    {
+      "correctReplacement": "бригады",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "сын",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

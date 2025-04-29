@@ -1,0 +1,30 @@
+{
+  "text": "Ро сообщению Associated Press , известное американское пишущий Стивен Кинг написал очередного роман , который собирается публиковать в электронном виде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "известный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "очередной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "американский"
+    },
+    {
+      "correctReplacement": "писатель",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

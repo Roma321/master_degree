@@ -1,0 +1,20 @@
+{
+  "text": "Буша здесь поддержали 76 процентов учасрника голосований , Маккейна - только 19 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "участников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "голосования"
+    },
+    {
+      "correctReplacement": "участника",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

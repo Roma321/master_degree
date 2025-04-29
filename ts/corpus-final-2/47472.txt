@@ -1,0 +1,20 @@
+{
+  "text": "Хотя продавца попросил Мейера не разолашать цену , тот намекнуло , что заплатил за стул больше 25 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "продавец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "намекнул"
+    },
+    {
+      "correctReplacement": "разглашать",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

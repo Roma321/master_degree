@@ -1,0 +1,25 @@
+{
+  "text": "В частность , в этом заинтересованно Renault SA , второй по величине производитель автотранстпорта во фрикцией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заинтересован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Франции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "Францией",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

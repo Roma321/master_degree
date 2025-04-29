@@ -1,0 +1,20 @@
+{
+  "text": "Законопроекту принят в первом чтении , за него поголосовали 293 депутата , против - 39 , семь человеком воздержались , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Законопроект"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "человек"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Обстоятельства смерти упомянем пациентов до сих пор толком не ясны , но у полицией есть серьезные основания считать , что свидетельствах об их смерти фальшивящие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "упомянутых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "свидетельства"
+    },
+    {
+      "correctReplacement": "фальшивые",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

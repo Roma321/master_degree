@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявила журналистов в понедельник вице-премьер Виктлр Христенко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "Виктор",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

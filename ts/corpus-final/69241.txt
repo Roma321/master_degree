@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь агентства РИА \"Новости\" , Саудовская Аравия и Франция приняли решение заключить контракт видимостью 3 , 5 миллиарда долларов на поставку танкоф LeClerk .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "стоимостью",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "танков",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

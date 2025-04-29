@@ -1,0 +1,20 @@
+{
+  "text": "Согласно данных греческого сейспологов , эпицентр находился в 20 километрах к северо-западу от Афин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "греческих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "сейсмологов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

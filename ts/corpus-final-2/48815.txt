@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , президент одобрил совместные инициативы ФСНП и российского Министерства по налггам и сбору по изменениям в налоговых законодательстве России , сказала Солтаганов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "налоговом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сборам"
+    },
+    {
+      "correctReplacement": "налогам",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

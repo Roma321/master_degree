@@ -1,0 +1,20 @@
+{
+  "text": "В Ингушетии БМП российской армии совершила наезд на КПП , охраняемый сотрудниками ангушского МВД , сообщаю компании НТВ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "компания"
+    },
+    {
+      "correctReplacement": "ингушского",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

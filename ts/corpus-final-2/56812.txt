@@ -1,0 +1,20 @@
+{
+  "text": "В хода тушения пострадали двне пожарных , один из них госпитализировавший с ожогами , другой - с гипертоническим кризом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "двое",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

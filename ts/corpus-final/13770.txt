@@ -1,0 +1,20 @@
+{
+  "text": "Два лютскими поток столкнулись , возникла давка , приведшая к панике .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "людских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "потока"
+    },
+    {
+      "correctReplacement": "людскими",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

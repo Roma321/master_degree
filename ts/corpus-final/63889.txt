@@ -1,0 +1,20 @@
+{
+  "text": "Сам вирус , вложенные в зараженное письмо , также получает имя реальной вложения из предыдущих почты пользователя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "вложенный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "предыдущей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "реального"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как известно , на обнесенном стеной участке площадью менее половина квадратной мили в центре Иерусалима собраны святыни трех мирового религии : иудаизма , христианства и ислама - такие как \"Стена Плача\" , руины Второго Храму , ротонда \"Гроба господнего , мечеть Куббат ас-Сахра и др .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "религий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "половины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "мировых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "Храма"
+    },
+    {
+      "correctReplacement": "Господня\"",
+      "type": "paronym",
+      "wordNumber": 38
+    }
+  ]
+}

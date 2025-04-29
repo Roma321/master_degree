@@ -1,0 +1,30 @@
+{
+  "text": "В то же время нём сказанный , что никого не слышал о намерении Кадырова самому занять пост глав правительства , а его назначенные вице-премьером .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "назначить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "ничего",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

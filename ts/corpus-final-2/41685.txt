@@ -1,0 +1,15 @@
+{
+  "text": "На российским фондовом рйнке в среду произошло обвальное падение акций ведущих российских предприятий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "российском"
+    },
+    {
+      "correctReplacement": "рынке",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

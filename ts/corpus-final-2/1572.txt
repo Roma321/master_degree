@@ -1,0 +1,15 @@
+{
+  "text": "Как сообщающий РИА \"Новости\" , афтомобиль Mercedes , выехав на полосу встречного движения , столкнулся с автомобилем ВАЗ-2105 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "автомобиль",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

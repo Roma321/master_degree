@@ -1,0 +1,25 @@
+{
+  "text": "В ночь с четверга на пятницу на 212-ом кубометре Октябрьской железной дороги сошедшие с рельсов два вагона пассажирского поезда Санкт-петербурги - Бабаево , передаёт РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сошли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Санкт-Петербург"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "километре",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

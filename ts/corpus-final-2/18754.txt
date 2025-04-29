@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщил в среду агентства Associated Press , Центр защиты электронной инкарнации (Electronic Privacy Information Center - EPIC) принял решение о прекращении своего партнёрства с компанией Amazon в знак протеста против новых стандартов защиты игформации , которые были приняты компанией на прошлой неделе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "партнерства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

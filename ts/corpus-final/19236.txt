@@ -1,0 +1,20 @@
+{
+  "text": "Кап сообщённый ВВС представитель компании Korean Air Хан Санг Бум , самолет перевозил краситель , бензин и другие химикаты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "красители"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

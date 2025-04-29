@@ -1,0 +1,30 @@
+{
+  "text": "О намерении прибыть в Давос уже объявившие многие видные деятель из разных стран мира , включая нерезидента США Билла Клинтона , которого впервые принятый участие во Всемирном экономическом форуме .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "примет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "деятели"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "объявили"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщим РИА \"Новости\" в пресс-службе управления ГИБДД ГУВД столицей , в связи с церемониями встречи с 10 : 00 по московской времени будет запрещено движение транспорта по Тверской улице от Пушкинской площади до улицы Охотный ряд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "церемонией"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "московскому"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Максачёве заявил , что после этого избиения попало в больницей с многочисленными ушибами , травмой позвоночника и сотрясение мозга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "сотрясением"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Максачев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "больницу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "попал"
+    }
+  ]
+}

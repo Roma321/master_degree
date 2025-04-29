@@ -1,0 +1,30 @@
+{
+  "text": "Звезда американской кино актер Пол Ньдман , сыгравшая множество ролями , в том числе в фильмах \"Кошка на раскаленной крыше\" , \"Цвет денег\" , \"Афера\" , \"Толстяк и малыш\" , пожертвовал 10 тысяч долларов на строительство пешеходного моста , который завершит пешеходную тропу длиной 2 , 2 мили вдоль реки Стил Риверы в Дэнбери .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ролей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 51,
+      "correctReplacement": "Ривер"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сыгравший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "американского"
+    },
+    {
+      "correctReplacement": "Ньюман",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

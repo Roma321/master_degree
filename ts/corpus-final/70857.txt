@@ -1,0 +1,30 @@
+{
+  "text": "Выступивший перед депутатом первый заместитель министра финансов Сергеем Шаталов заявлю , что правительство согласилось с тем , чтобы законопроект , предусматривающий введение единой социального налога , был \"принят в том виде , й котором он сейчас готов\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "единого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "депутатами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

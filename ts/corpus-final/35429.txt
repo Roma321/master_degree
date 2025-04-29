@@ -1,0 +1,40 @@
+{
+  "text": "В свою очереди Китая предупрежу сторонников независимости Тайваня , что оставляет за собой право вторжения на остров , если новое тайваньское правительство после президентскими выборов , которые состоятся 18 марта , незамедлительно не начнёшь переговорами о воссоединении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "президентских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "очередь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 33,
+      "correctReplacement": "начнет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Китай"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "предупредил"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

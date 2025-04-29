@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратура Санкт-Петербурга обратилась с заявлением в городского суд с просьбе признать недействительной решение окружной избирательной комиссии 211 округа о предоставлении Юрию Шутову статуса кандидата в депутаты Госдумы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "недействительным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "округа",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

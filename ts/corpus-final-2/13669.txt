@@ -1,0 +1,20 @@
+{
+  "text": "По истечении срока действия нового проездного документа пассажир cможет его продлённые в кастах МЖД или метрополитена , оплатив стоимость проезда на следующий сроку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "продлить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "срок"
+    },
+    {
+      "correctReplacement": "кассах",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

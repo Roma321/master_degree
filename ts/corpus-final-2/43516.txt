@@ -1,0 +1,30 @@
+{
+  "text": "монако согласно канадским законам ребёнок не можешь быть обвинен в преступлении и привлечён к уголовную ответственности в силу возраста .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "привлечен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ребенок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "уголовной"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

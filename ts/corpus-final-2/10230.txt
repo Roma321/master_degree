@@ -1,0 +1,30 @@
+{
+  "text": "Бои шедший на востоке республики у населённого пункта Аллерой , около административной гратицы с Дагестаном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Бой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "шел"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "границы",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

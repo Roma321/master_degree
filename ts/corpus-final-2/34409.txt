@@ -1,0 +1,20 @@
+{
+  "text": "По поступившим данным , с сегодняшней дня минимального уровень пенсий в Москве составит 970 рубля в месяц .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сегодняшнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "минимальный"
+    }
+  ]
+}

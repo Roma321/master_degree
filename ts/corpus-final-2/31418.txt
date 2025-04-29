@@ -1,0 +1,30 @@
+{
+  "text": "Он подчеркнули , что сроки проведения операции ны меняются и работы , которые сейчас проводили на лодке российских и норвежские водолазки , можно оценить как успешные .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "проводят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "российские"
+    },
+    {
+      "correctReplacement": "водолазы",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

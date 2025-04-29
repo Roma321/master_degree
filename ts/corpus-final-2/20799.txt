@@ -1,0 +1,20 @@
+{
+  "text": "Между тем на прошлую неделе в результате внезапного прекращения электроснабжения реактор \"Маяка\" был отключен в аварийной порядкт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "аварийном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "correctReplacement": "порядке",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

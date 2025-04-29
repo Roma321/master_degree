@@ -1,0 +1,20 @@
+{
+  "text": "Участие в информационном обмене стоит каждой организацию от 13 до 125 тыссч долларов - в зависимости от количества сотрудников в каждого организации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "организации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "каждой"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

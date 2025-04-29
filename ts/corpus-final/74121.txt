@@ -1,0 +1,25 @@
+{
+  "text": "Об этому заявил нв брифинге во вторник начальник 4-го отдела ГУБЭП МВД России Леонид Ратманов , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "correctReplacement": "этому",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

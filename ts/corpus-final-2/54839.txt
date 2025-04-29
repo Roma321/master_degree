@@ -1,0 +1,25 @@
+{
+  "text": "Автор статьи отмечает , что строишь свои вцводы на основе документов , которые получены от российского Федерального комиссии по ценным бумагам , а также от Бориса Федорова , представляющего интересы зарубежных инвесторов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "строит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "выводы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

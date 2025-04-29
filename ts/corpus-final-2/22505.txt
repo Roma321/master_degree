@@ -1,0 +1,25 @@
+{
+  "text": "В результате взрыва была ранившая одна из служащих почтового отделеьия , она доставлено в местную больницы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "доставлена"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "ранена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "больницу"
+    },
+    {
+      "correctReplacement": "отделения",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

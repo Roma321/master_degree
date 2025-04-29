@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , соррудники фирмы OCG , из числа проходящих переподготовку , будут направляться в центральные офис фирма в Нанте на курсы повышения квалификации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "центральный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "correctReplacement": "сотрудники",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

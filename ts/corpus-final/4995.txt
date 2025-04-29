@@ -1,0 +1,20 @@
+{
+  "text": "Место возгорания - 1-я этаж дома , где находились магазин , находится по-прежнему под запавшим .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "1-ый"
+    },
+    {
+      "correctReplacement": "завалом",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

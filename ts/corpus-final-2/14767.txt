@@ -1,0 +1,20 @@
+{
+  "text": "При обыске у нее дома были обнаружившин боеприпасы , топографические карте Дагестана , Чечни , Ингушетии и русско-турецкий разговорник .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "карты"
+    },
+    {
+      "correctReplacement": "обнаружившие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

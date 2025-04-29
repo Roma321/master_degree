@@ -1,0 +1,25 @@
+{
+  "text": "Энергосистема республики испытываю такое трудности в связи с недостатком водных ресурсы на ГЭС Слакского каскада в зимнему период , прекращением подачи газа ОАО \"Газпром\" и острым дефицитом традиционных видов топлива .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ресурсов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "испытывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "зимний"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

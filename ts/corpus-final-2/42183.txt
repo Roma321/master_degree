@@ -1,0 +1,25 @@
+{
+  "text": "Это объясняется тропической ситуацией , в которую попаду Украина в связи с обвинением в воровстве газа , а также износу самого газопровода .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "попала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "износом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "обвинениями"
+    },
+    {
+      "correctReplacement": "критической",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

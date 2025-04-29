@@ -1,0 +1,20 @@
+{
+  "text": "Генеральное директор ИТАР-ТАСС Виталий Игнатенко сохранивший должность презседателя совета директоров телекомпании .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сохранил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральный"
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

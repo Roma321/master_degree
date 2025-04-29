@@ -1,0 +1,45 @@
+{
+  "text": "В частности , по Интернпту можно будет регистрирующие браки , создаваемую фирму , обращаться за социального помощами , получаемые различных справки , в той числе о месте жительства , об уплате налогов и так далее .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "получать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "регистрировать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "различные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "брак"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "социальной"
+    },
+    {
+      "correctReplacement": "Интернету",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

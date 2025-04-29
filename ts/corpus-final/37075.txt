@@ -1,0 +1,25 @@
+{
+  "text": "Местные журналисты полагаем , что на этой встрече Трапаттоните (являющийся самым опытным тренером в серии А , поработавшим в разное времени в кубанском \"Ювентусе\" , миланском \"Интере\" и мюнхенской \"Баварии\") не избежать отставки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "полагали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Трапаттони"
+    },
+    {
+      "correctReplacement": "туринском",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

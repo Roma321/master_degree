@@ -1,0 +1,30 @@
+{
+  "text": "В понедельнике начала работать саут Wapchat . Ru - чаты для пользователей мобильных телеков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "чат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "начал"
+    },
+    {
+      "correctReplacement": "телефонов",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "сайт",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

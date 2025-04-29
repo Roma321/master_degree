@@ -1,0 +1,20 @@
+{
+  "text": "Свой творческий путь она начинавшая в Ленинграде , а затем оосле переезда в столицу играла в Московских театре имени Станиславского .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "начинала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Московском"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

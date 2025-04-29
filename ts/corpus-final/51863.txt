@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщила член еврейской общины бедуина , неизвестные разукрасили фашистской символикой монумент , возведенный в память о депортированных в годах нацистской режима еврейских семьях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "нацистского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "годы"
+    },
+    {
+      "correctReplacement": "Берлина",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

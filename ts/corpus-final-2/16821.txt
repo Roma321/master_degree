@@ -1,0 +1,30 @@
+{
+  "text": "Этой встреча не значившаяся в рабочем графике главу российской государства , однако ранец Владимир Путин и Петр Лучинский договорились проводить встречи \"при любой возможности\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "российского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "значилась"
+    },
+    {
+      "correctReplacement": "ранее",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

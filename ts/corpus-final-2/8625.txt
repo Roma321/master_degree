@@ -1,0 +1,20 @@
+{
+  "text": "Решениа суда вступил в законную силу через месяц , если не будет обжаловано , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "вступит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Решение",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

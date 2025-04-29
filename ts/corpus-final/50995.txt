@@ -1,0 +1,25 @@
+{
+  "text": "Это крупные компании , которые может иметь свои лиственный корпоративные интересы , заявил Путин журналистам во время своего визита ц пятницу в центральный офис \"Газпрома\" в Москве .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "собственные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "собственный",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

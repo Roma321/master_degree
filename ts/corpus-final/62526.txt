@@ -1,0 +1,20 @@
+{
+  "text": "Сама же Черепков заявляю , что двух его помощников избили , еще один из активистов его предвыборного штаба найден мертвым в собственная квартире .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "собственной"
+    }
+  ]
+}

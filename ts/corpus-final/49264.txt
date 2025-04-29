@@ -1,0 +1,25 @@
+{
+  "text": "Задержанные правоохранительными органами с Москве и доставлю в следственный изолятор Красноярска бывший депутат Госдумы от фракции \"Яблоко\" Викторы Гитин обвиняется в получении взятки в особо крупном размере , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Задержанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Виктор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "доставленный"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

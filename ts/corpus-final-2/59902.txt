@@ -1,0 +1,20 @@
+{
+  "text": "Dell предоставивший проекту невозможность использовать свою инфраструктуру , Microsoft - программных обеспечение , Unisys возглавит усилия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предоставит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "программное"
+    },
+    {
+      "correctReplacement": "возможность",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

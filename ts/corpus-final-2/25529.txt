@@ -1,0 +1,20 @@
+{
+  "text": "Быкова подозреваете в убийстве красноярска предпринимателя Павла Струганова , также известной под кличкой \"Паша Цветомузыка\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "подозревают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "известного"
+    },
+    {
+      "correctReplacement": "красноярского",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

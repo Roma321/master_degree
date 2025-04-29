@@ -1,0 +1,30 @@
+{
+  "text": "Как отметим в прокуратуре , Аркадию Вартаняну уронивший лишение свободы срлком до семью лет либо штраф в размере от 40 до 60 минимальных зарплат , которая равна в Армении 9 долларам США .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "отметили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "семи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "грозит"
+    },
+    {
+      "correctReplacement": "грозил",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "сроком",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

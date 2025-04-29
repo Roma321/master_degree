@@ -1,0 +1,20 @@
+{
+  "text": "В заключение было принявшее решении о \"взаимодействии и проведении пропагандистских мероприятий\" , сообщает авиакомпания НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "телекомпания",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC , на уайте остался только государственный флагу Бирмы , зато пропал доступ ко всем остальным разделам , посвященным бизнесам и туризму .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "бизнесу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "флаг"
+    },
+    {
+      "correctReplacement": "сайте",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

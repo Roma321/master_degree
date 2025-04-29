@@ -1,0 +1,25 @@
+{
+  "text": "Выступая перед депутатами нижней палаты парламента Чехии премьер-министру республики Милош Земан призвал президентов Вацлава Гавела е отставкой , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "отставке"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Россиянах Мпрат Сафиным и Евгений Кафельников входят в пятерку сильнейших теннисистов мира .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Сафин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Россияне"
+    },
+    {
+      "correctReplacement": "Марат",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "С помощи медика , захваченного по дороге , Форды погрузил пострадавшую на борт вертолета и оттранспортировавший в госпиталь ближайшего населенного пункта , гдр той и была оказавшая необходимая помощь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "оттранспортировал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "оказана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Форд"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

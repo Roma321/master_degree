@@ -1,0 +1,15 @@
+{
+  "text": "По его винам произошло дорожно-транспортное происшествие , в результате которого еогибли три человека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вине"
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

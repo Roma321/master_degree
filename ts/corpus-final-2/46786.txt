@@ -1,0 +1,30 @@
+{
+  "text": "По делу о подготовке покушения на кемеровского губернатором проходим четырехкратный олимпийский чемпион по биатлону Александр Тихонов , его млайший брат Виктор и находившийся в международном розыске глава инвестиционного компании \"МИКОМ\" Михаил Живило .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "проходят"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "находящийся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "инвестиционной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "correctReplacement": "младший",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

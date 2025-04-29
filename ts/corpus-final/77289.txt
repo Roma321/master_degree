@@ -1,0 +1,30 @@
+{
+  "text": "Премьер напомнил журналистам , что на первых порах после взрыва правительство помогу решить оставшимся без крова их проблемы . по его словам , сейчас ясно , что взорванные дом не полностью пригоден к проживанию - поэтому и было принято решении выделившие дополнительные жилищные сертификации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "помогло"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 40,
+      "correctReplacement": "выделить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "взорванный"
+    },
+    {
+      "correctReplacement": "сертификаты",
+      "type": "paronym",
+      "wordNumber": 43
+    }
+  ]
+}

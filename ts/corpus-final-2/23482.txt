@@ -1,0 +1,25 @@
+{
+  "text": "Преступники останавливали на улице автомобиль под предлогом проверки документами , затем пересаживали водителя в своё машинк , увозили за город , где до сочувствия поили водкой и бросали в лесу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "документов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "бесчувствия",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "машину",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

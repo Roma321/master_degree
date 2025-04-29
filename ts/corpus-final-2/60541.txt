@@ -1,0 +1,25 @@
+{
+  "text": "Три архитектора , которые предоставили наихорошие , по мнениям жюри , проекты , полученные премии в 200 000 , 150 000 и 100 000 евро соответственно .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "предоставят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "лучшие",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

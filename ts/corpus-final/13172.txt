@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям ФСБ , в группы входящит людях различных национальностей , в том числе и славяне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "входят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "люди"
+    },
+    {
+      "correctReplacement": "входящие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

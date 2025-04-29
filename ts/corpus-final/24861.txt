@@ -1,0 +1,25 @@
+{
+  "text": "Мэр Москвы Юрий Лужков вручил 18 января орден надвухкомнатную квартиру родителям первой младенца , родившегосявшие столице в 2000 году , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "родившегосяв"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "ордер",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

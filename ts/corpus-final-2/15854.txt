@@ -1,0 +1,30 @@
+{
+  "text": "Во вторник лидерам республиканских чернобыльцев езе раз заявили , что будут голодать до тех пор , пока им не вернут все долги . зом , Харири , получивший шест мест во время первой этапу выборов , возглавит депутатскую группу общей численностью в 24 человека .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "лидеры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "этапа"
+    },
+    {
+      "correctReplacement": "шесть",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

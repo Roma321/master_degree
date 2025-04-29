@@ -1,0 +1,25 @@
+{
+  "text": "Печальный рекорд установила Колумбия , где в ночь под Новый простились с жизни 123 человека , хотя , благодаря впервые объявленным крупнейшим партизанским движением (ФПРК) новогоднему перемирию , никто ое погибли в вооруженных столкновениях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "объявленному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "жизнью"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

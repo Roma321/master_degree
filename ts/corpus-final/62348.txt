@@ -1,0 +1,25 @@
+{
+  "text": "В Подмосковной деревне Грибки пятеро рабочего сгорели заживо в строительных вугончике , передаёт РИА \"Новости\" со ссылкой на пресс-службу Главного управления Государственной пожарной службы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "строительном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "рабочих"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "вагончике",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

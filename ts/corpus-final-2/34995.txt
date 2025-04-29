@@ -1,0 +1,20 @@
+{
+  "text": "По словам председателей областную контрольно-счетной палаты Виктора Горбунова , на приверку потребуется не менее двух недель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "областной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "председателя"
+    },
+    {
+      "correctReplacement": "проверку",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "подле оглашения оправдательным приговора политические и религиозный лидеры черного населения США были вынуждены призвать к спокойствию и порятку , однако , это не помогли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "религиозные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "оправдательного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "помогло"
+    },
+    {
+      "correctReplacement": "После",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "порядку",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

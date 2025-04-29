@@ -1,0 +1,25 @@
+{
+  "text": "Завод производимый химикаты для нужд медицины и сельского хозяйств , а выброса ядовитые веществ в атмосферу не произошло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ядовитых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "хозяйства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "производил"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

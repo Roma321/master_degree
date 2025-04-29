@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям рок , поддержку режиссеру может оказавшие Союз общественных сил , куда входил более 160 организацил и союзов , а также некоторые структуры объединения \"Отечество - вся Россия\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "входит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "оказать"
+    },
+    {
+      "correctReplacement": "РБК",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "организаций",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

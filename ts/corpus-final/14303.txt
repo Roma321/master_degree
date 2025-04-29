@@ -1,0 +1,25 @@
+{
+  "text": "Об этом , как передает Федеральная агентство новостей , сообщённый в срегу на брифингах заместитель начальника управления вневедомственной охраны при ГУВД Москвы Николай Ивашевич .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "брифинге"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Федеральное"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

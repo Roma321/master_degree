@@ -1,0 +1,30 @@
+{
+  "text": "Госдума в среду преодолела вето Совета Федераций на предложеннык президентом поправки к закону \"Об общих прицепах организации законодательных (представительных) и исполнительных органов государственной власть субъекты РФ\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "субъектов"
+    },
+    {
+      "correctReplacement": "принципах",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "предложенные",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

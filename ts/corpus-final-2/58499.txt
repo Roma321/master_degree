@@ -1,0 +1,25 @@
+{
+  "text": "Всплыла истории о том , что Линда Чавес , предполагаемый министр труда , в свое время использовавшая тля работы по дому женщину из Гватемалы , у которой не было американской вида на жительство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "использовала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "история"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

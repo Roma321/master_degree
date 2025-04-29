@@ -1,0 +1,25 @@
+{
+  "text": "Цену контрастов на нефти Light Sweet в американской системе NYMEX/ACCESS повысилась на 32 цента , предельная цена составила 31 , 92 доллара за баррель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "контракта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Цена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "контрактов",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В частности , как утверждают некоторых экологи , от человеческого экспериментов с сонарами гибнут киты , дельфины и другие морские животные , которые тоже пользуются водой для передачи сигналов - но гораздо более слабых , чем тот шум , который могут устроить подводную лодка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "подводная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "человеческих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "некоторые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "животные",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "При соучастию Кулемееве оружие и боеприпасы были проданы за 300 рублей , подсыпанное автомагнитолу и спиртное .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Кулемеева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "соучастии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "подержанную"
+    },
+    {
+      "correctReplacement": "подержанное",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

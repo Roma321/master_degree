@@ -1,0 +1,35 @@
+{
+  "text": "Мельниченко , представившийся как старший офицер охран президентов Украины , утверждаю , что аудиозапись , сделавшая им в калинете Леонида Кучмы , свидетельствуют о причастности президента к устранению журналиста Георгия Гонгадзе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "охраны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сделанная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "correctReplacement": "кабинете",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

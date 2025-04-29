@@ -1,0 +1,25 @@
+{
+  "text": "Официальные представитель Госдепартамента сообщил корреспонденту Reuters , что все сотрудники посольств , чья работа не будет жизненно необходима в период перехода в новое тысячалетия , а равно члены их семей , будут бесплатно отправим домой .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "отправлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Официальный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "тысячелетие"
+    },
+    {
+      "correctReplacement": "тысячелетия",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

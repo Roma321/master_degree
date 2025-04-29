@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщает понедельник РИА \"Новости\" сморщивший пресс-секретарь главы государств Алексеи Громов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "государства"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

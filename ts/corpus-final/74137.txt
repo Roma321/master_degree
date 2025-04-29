@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас наиболее дешевым доступом к Интернету обладают жители США , которые имели flate rate , то ели доступ по фиксировакной цене , в среднем 15 долларов в месяц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "имеют"
+    },
+    {
+      "correctReplacement": "фиксированной",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

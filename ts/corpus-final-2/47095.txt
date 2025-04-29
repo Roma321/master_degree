@@ -1,0 +1,20 @@
+{
+  "text": "Тулеев заявивший журналистам , что ему жаль Тихонова и что он желаю бы , чтобы спортсмену отметившие подписку о невыезде .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "желал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "отменили",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

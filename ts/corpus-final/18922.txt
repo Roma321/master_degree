@@ -1,0 +1,30 @@
+{
+  "text": "Власти Германии обсуждаете возможность запрета на территории страды продаш операционного системы Windows 2000 , сообщал Wired News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "операционной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "обсуждают"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "продаж",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По ирогу миссии Всемирному Банка было признано , что выполнение практически всех взятых российской стороной обязательств идёт в соответствии с намеченными сроках .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "сроками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Всемирного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "итогам"
+    },
+    {
+      "correctReplacement": "итогу",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

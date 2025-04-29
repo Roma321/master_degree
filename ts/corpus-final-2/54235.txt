@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС , по предварительным данным , претендующий на этот пост генерал Владимир Шаманах набравший 56 процентам голосов от общей числе проголосовавших на выборах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "числа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "набрал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Шаманов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "общего"
+    }
+  ]
+}

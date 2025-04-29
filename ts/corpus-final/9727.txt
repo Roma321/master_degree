@@ -1,0 +1,20 @@
+{
+  "text": "На Каширское шоссе направлены цистернах с водой , организована маринку с телефонной связью и развернут медпункт .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "цистерны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "машина"
+    },
+    {
+      "correctReplacement": "машину",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

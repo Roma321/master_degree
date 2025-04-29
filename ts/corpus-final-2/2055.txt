@@ -1,0 +1,45 @@
+{
+  "text": "В воскресенье днем , в то время как в Малаге проходим его похороны , на которым собрались две тысяч человек , включая испанского премьер-министром Хосе Марию Анзара и министра внутренних дрл Хайме Майора Ореху , в другом испанском городе - Агреде , - на этот раз на севере страны , начиненный взрывчатками автомобиль взорвался неподалеку от казармами местную полиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "премьер-министра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 56,
+      "correctReplacement": "казарм"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 51,
+      "correctReplacement": "взрывчаткой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "тысячи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 57,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

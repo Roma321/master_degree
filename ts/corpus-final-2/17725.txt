@@ -1,0 +1,40 @@
+{
+  "text": "Он сообщил , что на заседание будет приглашен министр торговлю и экономического развития Герман Греф , китовый должен рассказать сенаторах о перспектив экономического развития России на ближайший десять лет и ответить на ряду нуиболее важных вопросов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "ближайшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сенаторам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "ряд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "торговли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "перспективах"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "наиболее",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

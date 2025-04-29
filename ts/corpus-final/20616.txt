@@ -1,0 +1,25 @@
+{
+  "text": "По словам Домненко , Указы президента о совмещении НиколаемАксененко постов первого вице-премьера и министру путейсообщения направивший на укрепление работч МПС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "направлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "министра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Указ"
+    },
+    {
+      "correctReplacement": "работы",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

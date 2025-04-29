@@ -1,0 +1,20 @@
+{
+  "text": "Срок выдвижения кпндидата в мэры Москвы истекал 18 ноября .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "истекает"
+    },
+    {
+      "correctReplacement": "кандидата",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно имевшейся у представителей антиталибского альянса информации , 2 ноября в Кандагаре Бин Ладен вытречался с эмиссар чеченских сепаратистах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "эмиссаром"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "сепаратистов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "имеющейся"
+    },
+    {
+      "correctReplacement": "встречался",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

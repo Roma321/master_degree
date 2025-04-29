@@ -1,0 +1,25 @@
+{
+  "text": "Ночью в понедельник полиция провёдшая у него обыск и конфисковала компьютеры , предъявившие обвинение в получении незаконного компьютерного доступе к данным и программе , а также в нарушении копирайта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "провела"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "программам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "доступа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "предъявив"
+    }
+  ]
+}

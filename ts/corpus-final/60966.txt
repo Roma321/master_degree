@@ -1,0 +1,20 @@
+{
+  "text": "В четверг президент России Владимил Путин встретившийся в Кремле с лидерам фракций \"Яблоко\" , \"Единство\" и депутатской группы \"Народный депутат\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "встретился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "лидерами"
+    },
+    {
+      "correctReplacement": "Владимир",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

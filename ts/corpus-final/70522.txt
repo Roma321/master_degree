@@ -1,0 +1,25 @@
+{
+  "text": "Филиппинским Национальное бюро расследований , коалиция и Министерство юстиции ничего не говорят о том , собираются ли они предпринимать какие-либо действия в отношении других подозреваемых в света решения , принятой применительно к Рамонесу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "принятого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "свете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Филиппинское"
+    },
+    {
+      "correctReplacement": "полиция",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

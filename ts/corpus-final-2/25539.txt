@@ -1,0 +1,20 @@
+{
+  "text": "Менеджер девочки Лайза Хамильтон сказал , что звонок из Голливуда раздафшийся практически сразу после телетрансляции в Америке церемонии открытия Олимпиады .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "раздался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сказала"
+    },
+    {
+      "correctReplacement": "раздавшийся",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

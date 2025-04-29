@@ -1,0 +1,25 @@
+{
+  "text": "Остается неизвестным покидала ли информации , содержащаяся на этосов дисками , территорией лаборатории , передает CNN .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "информация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "территорию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дисках"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сначала Власов в обмене на расписку об отсутствии претензий получило набор запчастей для ремонта и отремонтировавший автомобили за свои деньги в Ростове-на-Дону .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "обмен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "автомобиль"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "отремонтировал"
+    }
+  ]
+}

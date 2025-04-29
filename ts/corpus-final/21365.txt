@@ -1,0 +1,25 @@
+{
+  "text": "Группой ненецких туристов погибла при сходе снежной лавины на австрийской горнолыжном курорте в окрестности Тироля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "окрестностях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Группа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "австрийском"
+    },
+    {
+      "correctReplacement": "немецких",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Падение акций этой корпорации свяжу с появившимися в прессах сообщениями о дефектах в реактивными двигателях , которые она производит Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "прессе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "связано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "реактивных"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

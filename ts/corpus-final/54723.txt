@@ -1,0 +1,25 @@
+{
+  "text": "Учитывая сложившееся ситуацию , для городских структур федерального подчинения , задолжавших коммунальными службам , установлены лимиты на потребление электроэнергия и тепла Э",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сложившуюся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "коммунальным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "электроэнергии"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

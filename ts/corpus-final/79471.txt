@@ -1,0 +1,20 @@
+{
+  "text": "В четверг в Москве состоялась церемонией открытия новбго здания американского посольства , расположенной в Большом Девятинском переулке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "церемония"
+    },
+    {
+      "correctReplacement": "нового",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

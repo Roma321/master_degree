@@ -1,0 +1,25 @@
+{
+  "text": "По пригороду суда 16-летнего сын Рохлиной Игорь , который страдаешь душевным расстройством , будет передан органу опеки и попечительства Западного административного округа Москвы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "16-летний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "органам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "страдает"
+    },
+    {
+      "correctReplacement": "приговору",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

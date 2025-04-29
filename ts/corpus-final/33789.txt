@@ -1,0 +1,20 @@
+{
+  "text": "Что касается интервью Владимира Путина на ОРТ 7 и 8 февраля , то , по мнению главы ЦИК , исполняемый обязанности резидента лишь использую право на освещение своей деятельности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "исполняющий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "использовал"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Об этом свидетельствуешь тол факт , что на рынках Чечни , в частностях в Ведены и селах Ножай-Юртовского района , оптом скупались продукты питания , обувь и медикаменты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "скупаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Ведено"
+    },
+    {
+      "correctReplacement": "тот",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

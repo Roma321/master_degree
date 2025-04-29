@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник утром полиция устроила оамотр всем 600 ученикам школой Ньяхуруру и арестовала 34 ученика со следами свежих ушибов на телах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "школы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "теле"
+    },
+    {
+      "correctReplacement": "осмотр",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

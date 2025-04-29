@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , Pernod Ricard выражает озабоченность в связи стем , что в прошлом году было возобновившее производство коньяка на принадлежащих правительству Армению Санкт-Петербургском и Саратовском коньячных заходах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "возобновлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Армении"
+    },
+    {
+      "correctReplacement": "заводах",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

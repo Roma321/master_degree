@@ -1,0 +1,30 @@
+{
+  "text": "Организаторы утверждаем , что многие небольшие рестораны , магазины , гостинцы серьезно пострадавшие , даже может обанкротиться , если бою отменят .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "пострадают"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "бой"
+    },
+    {
+      "correctReplacement": "гостиницы",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

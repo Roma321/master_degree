@@ -1,0 +1,35 @@
+{
+  "text": "29 апреля 1999 года Кузьминское межмуниципальное суд признаю Гантамирова виновным в \"хищении благодарственных средства в крупном размере путем мошенничества\" и приговорил его к шести годам лишения свободы ы конфискацией имущества .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Кузьминский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "межмуниципальный"
+    },
+    {
+      "correctReplacement": "государственных",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

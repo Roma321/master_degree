@@ -1,0 +1,20 @@
+{
+  "text": "- Диспетчер немедленно спросил , что слачилось , и получил ответ от машинисте : поезд горит , все в дымы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "машиниста"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "дыму"
+    },
+    {
+      "correctReplacement": "случилось",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

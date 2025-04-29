@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил журналистам в Управлении государственной противопожарную службы ГУВД Санкт-петербург и Ленинградской области , сигнал о возгорании поступил на пульт диспетчера службы \"01\" в 04 : 04 по московскому времени Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "противопожарной"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

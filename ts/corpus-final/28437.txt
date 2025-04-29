@@ -1,0 +1,25 @@
+{
+  "text": "Об этом же Яковлевым сообщу и на встрече с депутатах Госдумы от Санкт-Петербурга и петроградская области сразу по окончании беседы с Майклом Картером .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "депутатами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Яковлев"
+    },
+    {
+      "correctReplacement": "Ленинградской",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

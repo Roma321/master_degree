@@ -1,0 +1,25 @@
+{
+  "text": "Новом предприятие начнет свою деятельностью с открытия в ближайшие год-полтора небольшого чиила бутиков в наиболее престижных городах , говорятся в совместном заявлении De Beers и LVMH .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "деятельность"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Новое"
+    },
+    {
+      "correctReplacement": "числа",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

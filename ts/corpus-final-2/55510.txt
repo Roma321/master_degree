@@ -1,0 +1,20 @@
+{
+  "text": "В объявлении , опубликованном в одной из газетах , мэр города Милуоки Джон Норквист извинился за супружескую немерность и попросили позволения пробыть на посту до конца своего срока , сообщает NBC . News .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "газет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "попросил"
+    },
+    {
+      "correctReplacement": "неверность",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

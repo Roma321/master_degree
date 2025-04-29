@@ -1,0 +1,25 @@
+{
+  "text": "Он отметил , что такую инициативу можно только приветствовать - если она направившая на решение профессиональных проблем , а не на мольба с существующей властью Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "направлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "борьбу"
+    },
+    {
+      "correctReplacement": "борьба",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

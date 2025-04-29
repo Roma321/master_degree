@@ -1,0 +1,20 @@
+{
+  "text": "В Южно-сахалинск один человек погиб и двое получили ранения в результате двух взрывоф , прогремевших во вторником в помещении ООО \"Сизиф\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Южно-Сахалинске"
+    },
+    {
+      "correctReplacement": "взрывов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Кроме того , Уинклер не могший заплитить назначивший судьями налог в полтора миллиона долларов и предполагало , что судом не будет к нему снисходительным .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "мог"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "назначенный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "предполагал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "судьей"
+    },
+    {
+      "correctReplacement": "залог",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "заплатить",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

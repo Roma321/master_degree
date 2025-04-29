@@ -1,0 +1,20 @@
+{
+  "text": "NASA решил не рисковать до наступления овыей года , поскольку возможны ошибки в управлении в связи с \"проблемой-2000\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "решило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Нового"
+    },
+    {
+      "correctReplacement": "Новой",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

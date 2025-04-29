@@ -1,0 +1,30 @@
+{
+  "text": "Аргентинский фильм рассказываю о внезапное любовном озарение , настигнутом неудачливого сценаристе Хорхе ночью под дождем - на прекрестке он был заворожен случайной красотой мгновенной попутчицы , которая тут же умчалась в даль .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "настигшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сценариста"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "рассказывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "озарении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "внезапном"
+    }
+  ]
+}

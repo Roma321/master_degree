@@ -1,0 +1,20 @@
+{
+  "text": "Предварительные расследование показало , что водитель автобуса взялось за перевозку этого контрабандного груза по просьбе частных лица , гражданина России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предварительное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "взялся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "частного"
+    }
+  ]
+}

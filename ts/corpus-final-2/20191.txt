@@ -1,0 +1,25 @@
+{
+  "text": "Парк компании составляют около 50 самолетов различных типов , в рой числу 25 транспортных самолетов Илом-96тдом , сообщает HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Ил-96ТД"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "той",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

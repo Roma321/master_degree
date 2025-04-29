@@ -1,0 +1,30 @@
+{
+  "text": "По словам Вешнякова , предложение о введении в РФ почтового голосования будут представившие законодателям в течение ближайшего полугода и , возмгжно , оно вошедший в обиходе уже через полтора-два года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "войдет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "представлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "обиход"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "предложения"
+    },
+    {
+      "correctReplacement": "возможно",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

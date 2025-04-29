@@ -1,0 +1,30 @@
+{
+  "text": "Последняя в настоящих время управлял активом нц 350 миллиардов долларов , в том числе крупными пакетами акций разных СМИ во многих стране мира .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "активами"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "управляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "странах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

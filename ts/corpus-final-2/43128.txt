@@ -1,0 +1,25 @@
+{
+  "text": "Как считает Семен Шарецкий , происходящую в Белоруссии говорящий о том , что в республике \"не будет справедливых и демократических президентских выборных Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "говорит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "происходящее"
+    },
+    {
+      "correctReplacement": "выборов\"",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

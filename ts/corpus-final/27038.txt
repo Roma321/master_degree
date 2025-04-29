@@ -1,0 +1,30 @@
+{
+  "text": "По данным Госсанэпиднадзора , на сегодняшнему день эпидемии гриппа зарегистрировафшая уже в семи регионах России : в Хабаровске , Екатеринбурге , Кирове , Омске , Иркутске , в республиках Северная Осетия и Удмуртия , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "эпидемия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "зарегистрирована"
+    },
+    {
+      "correctReplacement": "зарегистрировавшая",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

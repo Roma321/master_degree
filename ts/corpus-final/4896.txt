@@ -1,0 +1,25 @@
+{
+  "text": "В среду было подписавшее распоряжение министров госимущества об удверждении изменений в план приватизации ТНК и об утверждении инвестиционных условий конкурса по продаже этого пакетов акций .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "пакета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подписано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "министра"
+    },
+    {
+      "correctReplacement": "утверждении",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Взрыву прогремели в час пик , когда люди возлагались с работы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Взрыв"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прогремел"
+    },
+    {
+      "correctReplacement": "возвращались",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

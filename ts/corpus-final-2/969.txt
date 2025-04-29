@@ -1,0 +1,25 @@
+{
+  "text": "Знаменитое хакеи Кевин Митник , за которым ФБР охотилось три года и который более четырех лет отсиженный в тюрьме , на этой неделе получил правительственное разрешение работать компьютерным консультантом и ведшие колонку в онлайновом журнале .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "вести"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "отсидел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Знаменитый"
+    },
+    {
+      "correctReplacement": "хакер",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

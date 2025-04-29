@@ -1,0 +1,20 @@
+{
+  "text": "Данные акцим протеста весьма неприятны для администрации Лукашенко , поскольку белорусская оппозиция выступал и против Договора о создании союзной государства между Россией и Белоруссией .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "выступает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "союзного"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

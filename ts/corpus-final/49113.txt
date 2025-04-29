@@ -1,0 +1,25 @@
+{
+  "text": "антигосударственный департамент США снимает вето на кредитование Тюменской нефтяной компанией Эксимбанком США - вопрос о предоставлении ТНК кредита е 500 миллионов долларов решившийся в ближайшее время .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "решится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "Государственный",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

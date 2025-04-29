@@ -1,0 +1,20 @@
+{
+  "text": "Взрывное устройство , обнаружу в субботу около 9 : 00 рядом с одной из коммерческих фанаток на пересечении Лесной и Ново-Лесной улицы , было обезврежены специалистами ФСБ с помощью робота .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "обнаруженное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "обезврежено"
+    },
+    {
+      "correctReplacement": "палаток",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

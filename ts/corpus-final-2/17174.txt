@@ -1,0 +1,20 @@
+{
+  "text": "Одним из самых популярных на фестивале встал показанный вне конкурса фильм \"Ты может рассчитывать на меня\" , первый художественный фильм американского сценариста Кеннет Лоннергана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Кеннета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "можешь"
+    },
+    {
+      "correctReplacement": "стал",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

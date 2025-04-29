@@ -1,0 +1,20 @@
+{
+  "text": "В первом же круге россиянин уступило французским тенсисисту Николя Эскюде - 7 : 5 , 3 : 6 , 6 : 7 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "уступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "французскому"
+    },
+    {
+      "correctReplacement": "теннисисту",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

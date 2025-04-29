@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , разговоры о возможности расторжения контракта начались после его пресс-конференции , на которой тм сообщил неприятные для руководства поведений о театре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сведения"
+    },
+    {
+      "correctReplacement": "сведений",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "им",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

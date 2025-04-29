@@ -1,0 +1,30 @@
+{
+  "text": "Планируются , что стратегическая нефть помогший сбить цена на топливо в стране и предотвратить массовые забастовки грузоперевозчиков , подобные тем , которые за посюеднее месяц прошли в ряде стран Европы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поможет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "последний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Планируется"
+    },
+    {
+      "correctReplacement": "последнее",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

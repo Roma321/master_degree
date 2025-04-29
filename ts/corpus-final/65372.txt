@@ -1,0 +1,25 @@
+{
+  "text": "Неудовлетворительным признала экспертно-судейская комиссия работу питерского арбитр Николая Левникова во время финального патча Кубка России между московским ЦСКА и \"Локомотивом\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Неудовлетворительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "московскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "арбитра"
+    },
+    {
+      "correctReplacement": "матча",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

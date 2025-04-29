@@ -1,0 +1,20 @@
+{
+  "text": "Сообщения о взрыве в зданием Московского таможенной управления (МТУ) в Девятинском передке (рядом с Домом правительства на Краснопресненской набережной) не подтвердились .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "таможенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "здании"
+    },
+    {
+      "correctReplacement": "переулке",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

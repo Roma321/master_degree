@@ -1,0 +1,25 @@
+{
+  "text": "\"Ьорг идет только по одному параметру - олечка компании\" , сказал Цимайло , - \"Разница состоит в подходы к оценке перспективами рекламного рынка России\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "перспектив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "подходах"
+    },
+    {
+      "correctReplacement": "оценка",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "\"Торг",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

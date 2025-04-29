@@ -1,0 +1,30 @@
+{
+  "text": "По слова Хольцмана , хакеры направляли данные через Internet Gold с целью браковавшие и другой сайт , которому Хольцман откажусь назвать , сказав только , что он расположен вне Израиля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "атаковать"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "который"
+    },
+    {
+      "correctReplacement": "атаковавшие",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

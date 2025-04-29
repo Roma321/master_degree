@@ -1,0 +1,20 @@
+{
+  "text": "В то же время на европейских биржах падение курсов акции нарастают .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нарастает"
+    },
+    {
+      "correctReplacement": "курсов",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

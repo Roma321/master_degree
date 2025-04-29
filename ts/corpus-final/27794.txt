@@ -1,0 +1,20 @@
+{
+  "text": "Соответствующем постановление подвязавшие . о . президента Владимир Путин , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Соответствующее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "подписали",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

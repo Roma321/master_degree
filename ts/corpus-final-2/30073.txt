@@ -1,0 +1,25 @@
+{
+  "text": "Лауфер считает , что причины низкой капитализации российского рынка звязаны с низком уровнем корпоративной культур и слабую защищенностью инвесторов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "слабой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "культуры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "низким"
+    },
+    {
+      "correctReplacement": "связаны",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

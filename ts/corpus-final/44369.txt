@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в центр Душанбе обстрелян школьный автобус , в котором находрлись дети военнослужащих 201-й российскую мотострелковой дивизии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "находились",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

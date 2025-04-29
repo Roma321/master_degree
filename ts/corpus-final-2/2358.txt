@@ -1,0 +1,25 @@
+{
+  "text": "Так же - консолидированно за - фракция проголосовал по второй нрезидентской закону и по главам Налогового кодекса .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проголосует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "президентскому"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "второму"
+    },
+    {
+      "correctReplacement": "президентской",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

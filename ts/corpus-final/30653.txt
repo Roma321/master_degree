@@ -1,0 +1,25 @@
+{
+  "text": "Турникеты уже установлены на Киевском и Рижских вокзалах , монтируетесь на Савеловском и чуйская , а к 1 июня ими оснастят все девять московских вокзалов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Курском"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "монтируются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Рижском"
+    },
+    {
+      "correctReplacement": "Курской",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

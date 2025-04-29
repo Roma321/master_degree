@@ -1,0 +1,30 @@
+{
+  "text": "За это решения проголосовал 320 депутатов при необходимом минивуме в 226 голосов , прутик - 30 , воздержались восемью человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "восемь"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "минимуме",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

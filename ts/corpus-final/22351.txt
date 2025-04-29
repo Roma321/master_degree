@@ -1,0 +1,25 @@
+{
+  "text": "На плёнке , отснятой турецкой журналистом в ноябре прошлого года , офицер называл себя Алексею Галтиным , старшим лейтенантом ГРУ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Алексеем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "называет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пленке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "турецким"
+    }
+  ]
+}

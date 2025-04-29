@@ -1,0 +1,30 @@
+{
+  "text": "Эта капсула была зарыты 6 июня 1962 года у взод в здание только что открытого Федерального центра контролей за воздушной сообщением .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "контроля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "входа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "воздушным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "зарыта"
+    },
+    {
+      "correctReplacement": "вход",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

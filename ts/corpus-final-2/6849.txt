@@ -1,0 +1,20 @@
+{
+  "text": "На КПП города белград при прохождении погранконтроля задержана уроженец Чечни Тимур Катиев , 1979 года рождения , находившаяся в федеральном розыске .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "находившийся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "Белгород",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

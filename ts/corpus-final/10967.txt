@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , стреляющие нахошился в расстоянии алкогольного опьянения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "стрелявшие"
+    },
+    {
+      "correctReplacement": "состоянии",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "находился",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

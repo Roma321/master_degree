@@ -1,0 +1,25 @@
+{
+  "text": "Ассоциация самобытных видов спорта Пиренейского полуострова начала сборе подписей под требованием включитб \"это благородный занятие\" в программу летней Олимпиады 2004 годов , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "благородное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сбор"
+    },
+    {
+      "correctReplacement": "включить",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

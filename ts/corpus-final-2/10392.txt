@@ -1,0 +1,20 @@
+{
+  "text": "Она трижды была замужем , родил дочь , Джуди Льюис (которая до 1994 года официально считалась приемной и носила фамилии фторого мужа актрисы) , и двух сыновей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "родила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "фамилию"
+    },
+    {
+      "correctReplacement": "второго",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

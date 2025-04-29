@@ -1,0 +1,35 @@
+{
+  "text": "Пожелавшие остаться неизвестных представитель военного ведомству сообщил , что израильская армия уже взаимодействовавшая около 1000 резервистов , а к декабрю вооруженные силы планируют привлечённые к военному действиям все свои резервы . �бвинения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "привлечь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "военным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Пожелавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "неизвестным"
+    },
+    {
+      "correctReplacement": "задействовала",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "ведомства",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

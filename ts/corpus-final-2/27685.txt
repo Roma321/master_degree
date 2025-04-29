@@ -1,0 +1,20 @@
+{
+  "text": "Операция по задержаниям преступника мывшая проведено сводным отрядом милиции Смоленского ГУВД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "задержанию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "проведена"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

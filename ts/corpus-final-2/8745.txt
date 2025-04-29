@@ -1,0 +1,25 @@
+{
+  "text": "Как утверждаешь Apple , данный пользователь опубликую на двух сайтах GeoCities закрытые данные о продуктах Apple - фото новую оптической мыши п процессора PowerMac .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "опубликовал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Любопытно , что в матче против россиян счётом вскрывшие австралийцам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "австралийцы"
+    },
+    {
+      "correctReplacement": "открыли",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В состав рабочей групп входят около 50 стран - участницах ВТО , передает РИА \"Новостм\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "участниц"
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Избирательная комиссия намерена обратиться к правительству Москвы , являющемуся учредителем газеты , с предложением освобождённые главных редактора галеты Михаила Полятыкина от занимаемых должности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "занимаемой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "главного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "освободить"
+    },
+    {
+      "correctReplacement": "газеты",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

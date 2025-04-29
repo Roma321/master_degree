@@ -1,0 +1,25 @@
+{
+  "text": "Так , по словам Олега Каменева , в Москве , Дверской области и других регионах выявившее большое количестве предприятий по производству вин с грузинским названиями .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выявлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "грузинскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "количество"
+    },
+    {
+      "correctReplacement": "Тверской",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "После принятия нового налоговому кодекса лекарства подорожают на 20 процента , заявим в Ассоциации международных фармацевтическихпроизводителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "налогового"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "заявили"
+    }
+  ]
+}

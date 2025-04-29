@@ -1,0 +1,25 @@
+{
+  "text": "Полицию пришлось перекрыть 17-мильного участок шоссе между штатами , пока аварийьые службе убирали обломки автомобилей и собирали разлившуюся кислоту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "17-мильный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "службы"
+    },
+    {
+      "correctReplacement": "аварийные",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

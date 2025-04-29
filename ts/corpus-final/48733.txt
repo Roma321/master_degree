@@ -1,0 +1,25 @@
+{
+  "text": "Им подчеркнул , что перед сухановым была поставлена боевой задача - уничтожать бандитов , а не воевать с мирной населением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "боевая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "мирным"
+    },
+    {
+      "correctReplacement": "Будановым",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

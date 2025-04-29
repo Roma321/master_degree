@@ -1,0 +1,20 @@
+{
+  "text": "Местная полицим начала расследование проишествия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полиция"
+    },
+    {
+      "correctReplacement": "происшествия",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

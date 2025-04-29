@@ -1,0 +1,20 @@
+{
+  "text": "Депутат сччтал этот акт незаконное и добивалось через прокуратуру восстановления в должности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "добивался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "correctReplacement": "считал",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

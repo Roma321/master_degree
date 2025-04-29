@@ -1,0 +1,30 @@
+{
+  "text": "Было предъявлено постановление Кировского суда города Екатеринбурга , м котором говорюсь , что к обязанностям генерального директора должен приступить Вячеслав Рубины , назначенный на эти должность 5 сентябрю .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "сентября"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Рубин"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

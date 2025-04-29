@@ -1,0 +1,20 @@
+{
+  "text": "В среду в Верховном суде состоялась слушание дела предпринимающегося Анатолия Быков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Быкова"
+    },
+    {
+      "correctReplacement": "предпринимателя",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

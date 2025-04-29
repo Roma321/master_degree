@@ -1,0 +1,25 @@
+{
+  "text": "Полиция схватившая преступника в несколзких кварталах от места присшествия , его личность уже установлена , известно , что им 25 годы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "схватила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "ему"
+    },
+    {
+      "correctReplacement": "нескольких",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

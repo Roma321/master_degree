@@ -1,0 +1,20 @@
+{
+  "text": "Несмотря на свой врожденный дефекту , он был известным актёра и вместе со звоим братом Робертом прожил долгую жизнь в Балтиморе , где в 1991 году скончался в возрасте 79 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "актером"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "дефект"
+    },
+    {
+      "correctReplacement": "своим",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

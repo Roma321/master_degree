@@ -1,0 +1,30 @@
+{
+  "text": "Подсудимые , Рик Табишем и Сандра Мерфей , обвиняется в убийстве Теда Биниона , владельца казино в Лас-Вегасе , который был нашедший мертвым в своем доме около двух родившихся тому назад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "найден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Табиш"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Мерфи"
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник в одном из куедских районов Стамбула из полуавтоматического оружия был обстрелян полицейский автобусы , сообщают Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "автобус"
+    },
+    {
+      "correctReplacement": "автоматического",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "курдских",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

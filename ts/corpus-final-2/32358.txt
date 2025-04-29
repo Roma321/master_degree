@@ -1,0 +1,20 @@
+{
+  "text": "\"Мы хотим пишущие , режиссировать и продюсировать наши собсрвенные художественные ильмы . \"",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "писать"
+    },
+    {
+      "correctReplacement": "фильмы",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "собственные",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

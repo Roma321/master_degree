@@ -1,0 +1,30 @@
+{
+  "text": "В частности , сейчас на сайт фставлявшие на продажу такой легкозапоминаемые номера ICQ , как 666664 (50 долларов) , и не менее яркие домены типа Blondinka . Ru (100 долларов) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "такие"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выставлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сайте"
+    },
+    {
+      "correctReplacement": "выставившие",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "вставлявшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник в Грозном задержаны шестеро люди с поддельные документами сотрудники чеченской милиции , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поддельными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "человек"
+    }
+  ]
+}

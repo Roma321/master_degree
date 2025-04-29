@@ -1,0 +1,20 @@
+{
+  "text": "От взрывов пострадаем 140 человек , трое погибли , в пом числу беременная женщина .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "том",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

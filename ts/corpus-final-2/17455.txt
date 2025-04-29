@@ -1,0 +1,25 @@
+{
+  "text": "По мнению ведущего лондонских брокеров , торгуемых нефтью , рост цен на нефть сейчас поддерживается не ее нехваткой на мировом рынке , а отсутствием звободных перерабатывающих мощностей , в первую очередь , в США , передаваемый HTB . ru .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "ведущих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "торгующих"
+    },
+    {
+      "correctReplacement": "свободных",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

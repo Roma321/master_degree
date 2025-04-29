@@ -1,0 +1,30 @@
+{
+  "text": "Компенсацию моральных вреда Абрамович оценённый в один сроцент от зарплатой Савельева , которую он получил за 1998 год , то есть в 7 тысяч 400 доллара США , сообщил Лещиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "морального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "оценил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "зарплаты"
+    },
+    {
+      "correctReplacement": "процент",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

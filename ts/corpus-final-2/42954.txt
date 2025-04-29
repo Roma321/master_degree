@@ -1,0 +1,25 @@
+{
+  "text": "Он встретился с президентом Владимиром Путиным , премьер-министром Михаилом Касьяновым , посетишь Совет Федерации и Госдуму , пообщается с Патриархом молдавским и всея Руси Алексием II и мэром Москвы Юрий Лужков .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "встретится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Лужковым"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "посетит"
+    },
+    {
+      "correctReplacement": "Московским",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Трошев сообщённый журналистам , что трагедия произошёл в спутницы на дороге Автуры - Курчалой , по которой из района боевых действий возвращалась одна из войскового маневренных групп мотострелкового полка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "войсковых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "пятницы",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

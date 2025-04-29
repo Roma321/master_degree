@@ -1,0 +1,25 @@
+{
+  "text": "\"Президент , скорее всего , наложит вето на принятый Гтсдумой во втором чтения проект закона \"О повышении минимального размеров оплаты труда\" , - заявил во вторник спикер Госдумы Геннадий Селезнёва .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "чтении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Селезнев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "размера"
+    },
+    {
+      "correctReplacement": "Госдумой",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

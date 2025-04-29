@@ -1,0 +1,15 @@
+{
+  "text": "По данным комитета , в этой сфере работает каждый десятая из 5 миллионеров занятых в столице .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "десятый"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что 21 января рижский окружного суда приговорили 77-летних тяжело больного Конохова к шести годам лишения свободы в тюрьме закрытого типа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "окружной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "77-летнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "Кононова",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

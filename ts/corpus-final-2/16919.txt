@@ -1,0 +1,35 @@
+{
+  "text": "Всего в это году в ОАЭ были проданы с молотку 20 судов , задержанных на контрабандном провоз иракских нкфтей , за 4 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "иракской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "контрабандный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "молотка"
+    },
+    {
+      "correctReplacement": "нефтей",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

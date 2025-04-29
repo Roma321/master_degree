@@ -1,0 +1,20 @@
+{
+  "text": "Более 240 человек арестованы в четверг в США в самок операции по уничтожению наркотгрговому сети , действовавшей на территории страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "наркоторговой"
+    },
+    {
+      "correctReplacement": "рамках",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "наркоторговому",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

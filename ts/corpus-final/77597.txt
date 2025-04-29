@@ -1,0 +1,30 @@
+{
+  "text": "Комментируя новую концепцию , министра иностранных делам России Игорь Иванов заявил , что по сравнению в предыдущим монументами 1993 года она стала \"более реалистичной\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "документом"
+    },
+    {
+      "correctReplacement": "документами",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам Китиева , идея открытия школы принадлежащий бывшим преподавательницам музыкальных школы Грозного , которые проживали в городке для вынужденных переселенцев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "школ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "проживают"
+    },
+    {
+      "correctReplacement": "преподавателям",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

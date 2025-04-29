@@ -1,0 +1,20 @@
+{
+  "text": "Конференции посещу Джеймс Ферман , бывший директор Британского совета по классификиции фильмов , который запретил показывать \"Сало , или 120 дней Содома\" в Англии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "посетил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Конференцию"
+    },
+    {
+      "correctReplacement": "классификации",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

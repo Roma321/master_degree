@@ -1,0 +1,25 @@
+{
+  "text": "Сообщаются , что в тем же день онстрелу со стороны боевики подверглись еще несколько российских вертолетов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сообщается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "тот"
+    },
+    {
+      "correctReplacement": "обстрелу",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

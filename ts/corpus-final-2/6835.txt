@@ -1,0 +1,25 @@
+{
+  "text": "По данным НТВ , поручение передавшее через следователей по особо важным дел Генпрокуратуры Николая Волкова , который в минувшие выходные возвратился из командировки в Жвейцарию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "передано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "делам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "следователя"
+    },
+    {
+      "correctReplacement": "Швейцарию",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

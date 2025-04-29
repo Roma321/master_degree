@@ -1,0 +1,20 @@
+{
+  "text": "Петроградский районное суд Петербурга изменённый в четверг меру пресечения генеральному директору ОАО \"Рссское видео\" Дмитрию Рождественскому .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "изменил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "районный"
+    },
+    {
+      "correctReplacement": "\"Русское",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

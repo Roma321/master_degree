@@ -1,0 +1,30 @@
+{
+  "text": "Недалеко от палестинских города Анабта , расположенного на Западном берегу Иорданов , автобус неожиданно выехал а посты палестинского полиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Иордана"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "палестинской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "посту"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "палестинского"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

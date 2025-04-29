@@ -1,0 +1,25 @@
+{
+  "text": "В частности , при приватизаций Нахоткинского нефтеналивного морского торгового порта пакет документов не был представлен в Госкомитеты по управлением имуществом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "управлению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "приватизации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Госкомитет"
+    },
+    {
+      "correctReplacement": "Находкинского",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

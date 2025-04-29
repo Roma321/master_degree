@@ -1,0 +1,35 @@
+{
+  "text": "Кипрское информационные агентство сообщкешь также , что через матный терминалом осуществляются лесосплавные операции , в основном , в средиземноморских бассейне и на Ближнем Востоке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "средиземноморском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "терминал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "информационное"
+    },
+    {
+      "correctReplacement": "данный",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

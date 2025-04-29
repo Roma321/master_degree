@@ -1,0 +1,30 @@
+{
+  "text": "Указ президента ликвидирует социальную несправедливость : теперь пенсионеры , которые имел больший стаж работы и более высокой зарплату , будут получаемые и более высохшую пенсию Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "получать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "имели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "высокую"
+    },
+    {
+      "correctReplacement": "высокую",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Было приму решение об эвакуации сотрудников с нижних этажей телецентра , где распоряжаетесь офисы телекомпаний ТВ-6 и ТВЦ , сообщает телекомпания ОРИ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "располагаются"
+    },
+    {
+      "correctReplacement": "располагаетесь",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "ОРТ",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

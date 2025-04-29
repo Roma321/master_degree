@@ -1,0 +1,20 @@
+{
+  "text": "Он обвинялся в совершении хищения путем призрения и растрат , взяточничестве и незаконном хранении оружия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "растраты"
+    },
+    {
+      "correctReplacement": "присвоения",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

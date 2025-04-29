@@ -1,0 +1,20 @@
+{
+  "text": "Предположительно матч из 16 партий прошёл в Лондоне , победители получит 1 300 тысяч доллары , проигравший - 700 тысяч .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "победитель"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "пройдет"
+    }
+  ]
+}

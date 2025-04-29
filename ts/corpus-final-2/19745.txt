@@ -1,0 +1,20 @@
+{
+  "text": "В первую половане встречи на площадке блистал дебютант нашей команда Сергей Чикалкин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "команды"
+    },
+    {
+      "correctReplacement": "половине",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

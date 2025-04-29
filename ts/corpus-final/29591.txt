@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению Полит . ру от 15 . 46 , Украина выразившая сегодня протест в связью с постановлением московского мэра о перерегистрации граждан СНК в Москве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выразила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "СНГ",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

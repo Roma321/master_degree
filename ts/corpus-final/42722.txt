@@ -1,0 +1,20 @@
+{
+  "text": "Средний стоимость страхового медицинского полисов в России сегодня составляет 300 рулей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Средняя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "полиса"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

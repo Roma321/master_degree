@@ -1,0 +1,25 @@
+{
+  "text": "Розыгрыш призов состоится 2-го июля , в день 140-летия Владивостока , причем организаторы уверяют , что избиратели смогли подсчитывающие на автомобиль , холодильники , телевизоры , видеомагнитофоны и другие ценный выигрыши .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "ценные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "автомобили"
+    },
+    {
+      "correctReplacement": "рассчитывать",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

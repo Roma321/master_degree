@@ -1,0 +1,25 @@
+{
+  "text": "Адвокат компании Антуане Коркназ аявившее в интервью радио \"Свобода\" , что Noga \"ждет сигналов\" на этот счет с российской сторону .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "стороны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Антуан"
+    },
+    {
+      "correctReplacement": "заявило",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "19 человек , трое из которых - дети , госпитализированы в центральную районного болшницу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "районную"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

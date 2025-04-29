@@ -1,0 +1,25 @@
+{
+  "text": "Заместитель генеральной прокурора России Василий Колмогорова заявило , что выемки документов в \"Газпроме\" , а такжехолдинге \"Медиа-Мост\" проводятся в рамках \"дела Гусинскооо\" , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Колмогоров"
+    },
+    {
+      "correctReplacement": "Гусинского\"",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

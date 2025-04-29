@@ -1,0 +1,30 @@
+{
+  "text": "Пока не существую предприятия , где все эти элементами для оцегки влияния погоды на бизнес были бы свёдшие вместе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сведены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "элементы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "correctReplacement": "оценки",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас похищают людей в Москву или в Осетии , их продают в Ингушетии , их увозили в Чечня , чтобы там потребовать за них выкуп .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "увозят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Чечню"
+    }
+  ]
+}

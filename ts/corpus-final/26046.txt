@@ -1,0 +1,20 @@
+{
+  "text": "На место катастрофы пррбыла на вертолете президент Аргентины кариес Менем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "Карлос",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "прибыла",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

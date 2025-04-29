@@ -1,0 +1,25 @@
+{
+  "text": "В федеральная розымк Надиры Хачилаев был объявлено МВД России в конце октября прошлого года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "федеральный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "объявлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Надир"
+    },
+    {
+      "correctReplacement": "розыск",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

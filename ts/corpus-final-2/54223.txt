@@ -1,0 +1,30 @@
+{
+  "text": "Кроме то , взрывов произошли возже женского монастыря Св . Франциски в восточной части Джакарты и на территории автостоянки , расположенной между католическая школой и центром исламского образования , в центре города .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Франциска"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "католической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "взрывы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "возле",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

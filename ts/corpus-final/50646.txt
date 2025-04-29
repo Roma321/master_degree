@@ -1,0 +1,30 @@
+{
+  "text": "В суды Ингушетии поступили 13 исковых заявлений от граждан республиканцы с требованием возместить моральные и материальный ущерб , причинённый них в результате действий российских военнослужащих , передаваемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "причиненный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "им"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "моральный"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

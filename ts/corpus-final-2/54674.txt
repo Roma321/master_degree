@@ -1,0 +1,30 @@
+{
+  "text": "Организовывать выставки и устраивать концерты в музее в знаменитом ньд-йоркской негритянском квартале можно будет уже следующей осенью , а окончательно музей дольмен быть создам через тремя года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "три"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "создан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нью-йоркском"
+    },
+    {
+      "correctReplacement": "должен",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "нью-йоркской",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

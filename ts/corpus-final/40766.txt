@@ -1,0 +1,25 @@
+{
+  "text": "Взрыв , эквивалентное 50 граммам тротила , произошелсегодня в 5 . 45 по московскому времени у фасада одного из магазиновпродовольственной комплекса на просвете Ветеранов вКрасносельском районе Санкт-петербург .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "магазиновпродовольственного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "эквивалентный"
+    },
+    {
+      "correctReplacement": "проспекте",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

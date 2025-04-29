@@ -1,0 +1,20 @@
+{
+  "text": "Калюжный отметил , что 80 процентов собираемого в США налогов составляет налоги от нефтепродуктов , и только 20 процессов - от сырой нефти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "составляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "собираемых"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Из-за высокой температуры прорву клапан , и бензин вылился на приезжую части .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "прорвало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "проезжую",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

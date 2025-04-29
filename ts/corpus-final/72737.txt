@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , нефтяники указывающие , что увеличение загруски НПЗ приводящий к снижению эффективности их экспорта , так как средняя цена тонны нефтепродуктов на 25 долларов нико стоимости нефти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приводит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "указывают"
+    },
+    {
+      "correctReplacement": "ниже",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "загрузки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

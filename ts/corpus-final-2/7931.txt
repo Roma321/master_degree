@@ -1,0 +1,30 @@
+{
+  "text": "По сведениям , претставленным обвинением , для запуска атаке хакер использую несколько предварительно взломавших компьютеров-\"зомби\" , в островном из американских университетов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "взломанных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "атаки"
+    },
+    {
+      "correctReplacement": "основном",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "представленным",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

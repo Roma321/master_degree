@@ -1,0 +1,25 @@
+{
+  "text": "Но контактными лицом оказался высочайшая web-мастер nike . com , который больше не работал в этой компании и потому не передал предупреждением бывшим работодателям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "предупреждение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "контактным"
+    },
+    {
+      "correctReplacement": "бывшая",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

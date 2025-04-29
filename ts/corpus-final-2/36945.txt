@@ -1,0 +1,25 @@
+{
+  "text": "Задержанным владельцам видеостудии инкриминировался нарушение статей 146 (\"Нарушение авторских и смежным прав\") и 171 (\"Незаконное предпринимательство\") Уголованого кодекса Российской Федерации , а такое уклонение от уплата налогов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "уплаты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "инкриминируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "смежных"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

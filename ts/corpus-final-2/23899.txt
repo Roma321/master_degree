@@ -1,0 +1,20 @@
+{
+  "text": "Золотую медали в ходьбе на 50 километров заваривавший поляк Роберт Корженовсках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Корженовски"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "медаль"
+    },
+    {
+      "correctReplacement": "завоевал",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

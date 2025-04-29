@@ -1,0 +1,20 @@
+{
+  "text": "Об этом в среду сообщённый прокурор Центральной администаативного округа столицы Александр Буксман .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Центрального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "административного",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

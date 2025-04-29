@@ -1,0 +1,25 @@
+{
+  "text": "В это же день власти Австрии объявили о планах провести опрэсе среди своих граждан , призванные оценить их отношение к международным санкциям .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "призванный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "опрос"
+    },
+    {
+      "correctReplacement": "опросе",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Обсуждение документа проходила в закрытом режиме , в присутствия исполняющей обязанность министра иностранных дел России Игоря Иванова и исполняющего обязанности министра обороны Игоря сергеевна .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "исполняющего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "обязанности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "присутствии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "проходило"
+    },
+    {
+      "correctReplacement": "Сергеева",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

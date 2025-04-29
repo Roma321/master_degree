@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудник милиыии отправлен на экспертные .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "экспертизу"
+    },
+    {
+      "correctReplacement": "экспертизы",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "милиции",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

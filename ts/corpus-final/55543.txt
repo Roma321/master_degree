@@ -1,0 +1,25 @@
+{
+  "text": "ООН обвиняешь также полицию Индонезии в том , что она она бездействуешь и даже возможно поддерживаемый восточно-тиморскую милицию , устранившую террор .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "обвиняет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "бездействует"
+    },
+    {
+      "correctReplacement": "устроившую",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

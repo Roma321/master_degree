@@ -1,0 +1,25 @@
+{
+  "text": "За слой странный поступок врач изгнан из Сиднея и лишён возможности присутствующие на зимних олимпийских играх 2002 года в Солт Лэйком Сити и летних олимпийских играх 2004 года в Афинах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "присутствовать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "лишен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Лэйк"
+    },
+    {
+      "correctReplacement": "свой",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

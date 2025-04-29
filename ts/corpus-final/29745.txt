@@ -1,0 +1,25 @@
+{
+  "text": "Напомните , что лидер АПС Йорг Хайдеру считается неофашистом после его многократных лояльных высказываний о гитлеризме и утиоб очистить Австрию от иностранцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Хайдер"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "угроз",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "утроб",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данных , га первых в истории Удмуртии президентских выборах победил нынешний глава Госсовета республике Александр Волков , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

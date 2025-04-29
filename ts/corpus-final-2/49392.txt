@@ -1,0 +1,35 @@
+{
+  "text": "Тысячи сержей блокировавшие основные дороги , соединяющие Сербию и Косово , требуя , чтобы власти выгнали албанца , захватившего сербских территорит , сообщает AP .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "албанцев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "захвативших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "блокировали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сербские"
+    },
+    {
+      "correctReplacement": "сербов",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "территории",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

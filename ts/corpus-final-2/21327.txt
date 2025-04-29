@@ -1,0 +1,20 @@
+{
+  "text": "В милицию города Люберцы поступили анонимный звонок , позволивший предотвратить теракт и обнаружить склад боеприпасов в одном из частных гаражей , сообщал компаня НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

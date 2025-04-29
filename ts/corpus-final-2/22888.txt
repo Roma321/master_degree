@@ -1,0 +1,30 @@
+{
+  "text": "Вбенный прокурор заявил гражданский иск о опускании с виновных сумм причиненного государствам материального ущербов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суммы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "государству"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ущерба"
+    },
+    {
+      "correctReplacement": "взыскании",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Военный",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

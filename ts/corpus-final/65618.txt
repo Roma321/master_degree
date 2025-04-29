@@ -1,0 +1,30 @@
+{
+  "text": "Конгрессмены будет продемонстрировану видеозаписи проведенных мероприятий , на которой видно , как агенты аналитическом управления свободно разгуливают внутри секретного объектов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "аналитического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "секретных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Конгрессменам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "видеозапись"
+    },
+    {
+      "correctReplacement": "продемонстрирована",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

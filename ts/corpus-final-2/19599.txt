@@ -1,0 +1,20 @@
+{
+  "text": "Программиста привлекают к суду за ущерб , который пришибивший компьютерным системы страны написавший им вирус .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "написанный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "системам"
+    },
+    {
+      "correctReplacement": "причинил",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

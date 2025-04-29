@@ -1,0 +1,25 @@
+{
+  "text": "Сеславинский пояснивший , что конкурсы отложивший \"в связи с исполнением постановления судебного пристава от 19 мая о запрете проведения конкурса 24 мая до окончания судебных разбирательств между Минпечати и телеааналом ТВЦ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "конкурс"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "отложен"
+    },
+    {
+      "correctReplacement": "телеканалом",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

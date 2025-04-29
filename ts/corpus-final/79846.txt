@@ -1,0 +1,25 @@
+{
+  "text": "Еще вчера вся Германией ликовавшая , после той , как междугородная федерация футбола выбрала эту страну хозяйкой чемпионата мира по футболу 2006 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "ликовала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Германия"
+    },
+    {
+      "correctReplacement": "Международная",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

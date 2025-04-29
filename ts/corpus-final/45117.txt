@@ -1,0 +1,20 @@
+{
+  "text": "В случае принятия закона президент США должна будет в течение месяц подготовить доклад конгрессу об отлучениях США с ведущими странами - экспортерами нефти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "месяца"
+    },
+    {
+      "correctReplacement": "отношениях",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

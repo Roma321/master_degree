@@ -1,0 +1,20 @@
+{
+  "text": "По словам адвоката Смиту Эдварда Бордена , сообщаемый Reuters , Смит решил признать себя виновным , поскольку пе хотел двух судебных разбирательств , грозивших затянуться на несколько лет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Смита"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

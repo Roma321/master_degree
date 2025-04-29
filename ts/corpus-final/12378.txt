@@ -1,0 +1,25 @@
+{
+  "text": "В Москве для пользователей Интернетов планируюсь ввести специальную страховую систепу , чтобы улучшить качество предоставляемых услуг и в то же время снизить ценам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "correctReplacement": "систему",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

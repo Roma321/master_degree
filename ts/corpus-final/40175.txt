@@ -1,0 +1,25 @@
+{
+  "text": "Накануне , 6 марта , на нерабочей учустке этой же шахты - ввентиляционном стволе - горноспасатели обнаружившие тела четырех подростков , погибших от отравления гаснувшим .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "нерабочем"
+    },
+    {
+      "correctReplacement": "газом",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "участке",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

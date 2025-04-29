@@ -1,0 +1,30 @@
+{
+  "text": "В Индии ейчас проходит Кумбх-Мела - одна из самых значитедьных и почитающих в индуизме праздника .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "праздников"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "почитаемых"
+    },
+    {
+      "correctReplacement": "сейчас",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "значительных",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

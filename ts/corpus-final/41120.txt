@@ -1,0 +1,35 @@
+{
+  "text": "Как передаю агентстве Reuters , представитель департамента пожарного охраны округа кварк Стиыен Ла-Скай предположивший , что ехавшие в фургоне туристы были русскими .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "пожарной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "предположил"
+    },
+    {
+      "correctReplacement": "Кларк",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Стивен",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

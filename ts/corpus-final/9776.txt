@@ -1,0 +1,25 @@
+{
+  "text": "Однако , как заявившие депутатов от НДР , котооых поддержали и представитель фракции ЛДПР , в ходе голосования по постановлению были допущены \"грубейшие нарушения\" думского регламента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "представители"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

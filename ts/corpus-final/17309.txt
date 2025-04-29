@@ -1,0 +1,25 @@
+{
+  "text": "Эти утверждения , заявил Швыдками , являются ложью , оскорбительная и для него , и для других руководителя компании , и уля журналистов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "оскорбительной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "руководителей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Швыдкой"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

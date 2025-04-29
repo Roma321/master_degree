@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , поскольку основным торговыми партнёрами Россию являются европейские страны , то следует учитывать изменение соотношения доллара к евро , а именно , прирост в 10 процента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "основными"
+    },
+    {
+      "correctReplacement": "партнерами",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

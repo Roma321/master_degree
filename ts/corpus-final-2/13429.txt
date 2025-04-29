@@ -1,0 +1,30 @@
+{
+  "text": "В ходе проверки в городе Окленд полиция обнаружу группу беженцев из Афганистана , у которой были нашедшие план территории реактора в линный с обозначенными путями доступа к нему и ряд других документов , свидетельствующих о подозрительных намерениях афганцев , сообщаю газета New Zealand Herald .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 39,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "планы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "найдены"
+    },
+    {
+      "correctReplacement": "Сиднее",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

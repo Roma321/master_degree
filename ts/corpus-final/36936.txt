@@ -1,0 +1,35 @@
+{
+  "text": "После расследования , привнёсшего совместно с лондонской Airclаmes , по данного договор согласован условия и срок выплат возмещения , однако сумма возмещения не раскрывается .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "договору"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "согласованы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сроки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведенного"
+    },
+    {
+      "correctReplacement": "провёдшего",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

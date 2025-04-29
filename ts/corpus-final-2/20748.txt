@@ -1,0 +1,20 @@
+{
+  "text": "Автор заявил , что если условие выполнили хотя бы 75% цитаделей , то он продолжу публикацию , что , в конечном итоге , и произошло .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "выполнят"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "продолжит"
+    },
+    {
+      "correctReplacement": "читателей",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

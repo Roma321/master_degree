@@ -1,0 +1,30 @@
+{
+  "text": "Он обратила внимание нб то , что никто из исключенных не был даже приглашён на заседание компенсационных совета НПСР .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Координационного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "обратил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "приглашен"
+    },
+    {
+      "correctReplacement": "Координационных",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

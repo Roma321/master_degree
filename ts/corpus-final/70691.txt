@@ -1,0 +1,30 @@
+{
+  "text": "Об этом заявлю в фетверг в Росинформцентре первый заместитель начальника Генштаба вооружённых сил пассии Валерий Манилов , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "вооруженных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

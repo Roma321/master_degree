@@ -1,0 +1,25 @@
+{
+  "text": "кпк сообщили в понедельник \"Интерфаксу\" в штабе объединенной группировки , российские подразделения рассекли оборону чеченских формирований в район границы Ленинского и Октябрьских районов в восточной части чеченского столицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Октябрьского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "чеченской"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

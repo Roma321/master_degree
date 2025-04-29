@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили корреспондента \"Интерфакса\" в блатном избиркоме , все избирательные участок закрылись ровно в 20 : 00 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "участки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "корреспонденту"
+    },
+    {
+      "correctReplacement": "областном",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

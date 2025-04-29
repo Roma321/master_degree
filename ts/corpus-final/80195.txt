@@ -1,0 +1,20 @@
+{
+  "text": "Большого урона для окружающей среды разлившее нефть не принесла , отмечали специалисты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "разлившаяся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "correctReplacement": "разлившееся",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

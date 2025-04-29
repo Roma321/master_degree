@@ -1,0 +1,30 @@
+{
+  "text": "Бывшие адвокат одного из обвиняемых по делу об убийстве Дмитрия Холодова Ларисы Мове попала под садом \"за разглашение ванных предварительного следствия\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Лариса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "correctReplacement": "данных",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "судом",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

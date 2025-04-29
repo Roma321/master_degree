@@ -1,0 +1,30 @@
+{
+  "text": "Он не уточнили , с какое времени новые уупюра начнёт хождение , добавив лишь , что эти деньги уже печатаются , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "начнет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "уточнил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "какого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "новая"
+    },
+    {
+      "correctReplacement": "купюра",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

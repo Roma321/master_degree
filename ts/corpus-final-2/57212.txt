@@ -1,0 +1,25 @@
+{
+  "text": "Иранские полицейских арестовали 262 жителя Тегерана за неподобающее поведение 31 декабрём и 1 янтарей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полицейские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "январей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

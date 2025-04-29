@@ -1,0 +1,35 @@
+{
+  "text": "Министр иностранных дел России Игорь Иванов , в свою очередь , таеже выразил надежде , что арест японского офицера , подозреваемой в шпионажах в пользы России , не отразится на двусторонних отношениях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "надежду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "пользу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "подозреваемого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "шпионаже"
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

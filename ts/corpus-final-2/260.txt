@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщило представитель Белой дома , в ходе телефонных переговоров речь также зашла о реструктуризации токийских долгов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Белого"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

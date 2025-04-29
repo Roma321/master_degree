@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , ыто рано утром в Хабаровске взорвалось хилого дом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "жилой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "взорвался"
+    },
+    {
+      "correctReplacement": "жилого",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

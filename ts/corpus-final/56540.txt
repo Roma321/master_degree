@@ -1,0 +1,20 @@
+{
+  "text": "Семья из четыре человек погиб , отравившись углекислым газом в Орехово-Зуевском районе Московской обросшие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "погибла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "четырех"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

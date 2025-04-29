@@ -1,0 +1,20 @@
+{
+  "text": "По словам начальника дежурного смены охрану \"Домодедова\" , получив это сообщение , сотрудники охраны вместе с милиционерами тщательно осмотрели закрепленные за ними участия территории .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "дежурной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "охраны"
+    },
+    {
+      "correctReplacement": "участки",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

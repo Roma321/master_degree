@@ -1,0 +1,35 @@
+{
+  "text": "По словам официальной представителя компании Рика Миллеров , взлому - с целью промышленного шпронажа - подвергнувшаяся ее компьютерная сеющие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сеть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Миллера"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "подверглась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "официального"
+    },
+    {
+      "correctReplacement": "сети",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "шпионажа",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

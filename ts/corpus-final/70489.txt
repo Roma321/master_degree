@@ -1,0 +1,25 @@
+{
+  "text": "Теперь даже если адвокаты истцов вновь подадут иск , он будет рассмотрено уже во время чемпионата Европе , после тех как югославы проведёт первый матч .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "проведут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Европы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "рассмотрен"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом и . о . президента России заявленный в четверг на заседании правительства , на котором рассматриваюсь программа фонетических и социально-политического развития регионов Северного Кавказа , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "экономического"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "рассматривалась"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "экономических",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

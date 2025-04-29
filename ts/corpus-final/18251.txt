@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник он вызвало главы силовых ведомств и с тех пор внимательно слежу за расследованию и за соблюдениями мер безопасности в Москве и в стране .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "глав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "расследованием"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "следит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "вызвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "соблюдением"
+    }
+  ]
+}

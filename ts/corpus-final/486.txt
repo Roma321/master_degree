@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , сообщил Александры Зданович , в изъятом компьютере была информация о разведывательного деятельностей ваххабитов в дагестанце , в частности в Хасавюрте , а также об их участии в похищении людей с целью получения выкупа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "деятельности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "разведывательной"
+    },
+    {
+      "correctReplacement": "Дагестане",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

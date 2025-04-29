@@ -1,0 +1,25 @@
+{
+  "text": "Пока компания отрицчет , кто уволила Моник из-за ее вес .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "веса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Монику"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "отрицает",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

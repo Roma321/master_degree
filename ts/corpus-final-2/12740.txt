@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратурами Киртвского района Петербурга возбужу уголовное дело по факту преступления .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Прокуратурой"
+    },
+    {
+      "correctReplacement": "Кировского",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Как заявил 15 октября на брифинге бывший председатель Федеральной комиссир по рынком ценных бумаги Дмитрий Васильев , Комиссией выявлено несколько российских компаний , осуществлявших незаконную торговлю ценными бумагах через интернат , сообщает ПРАЙМ-ТАСС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "осуществляющих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "бумагами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "рынку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "бумаг"
+    },
+    {
+      "correctReplacement": "Интернет",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "комиссии",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

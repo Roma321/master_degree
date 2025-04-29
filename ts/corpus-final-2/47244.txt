@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники МВТ Дагестана задержанные террориста , причастной к взрыву в Махачкале осенью 1998 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "причастного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "задержали"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

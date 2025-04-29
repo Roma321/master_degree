@@ -1,0 +1,25 @@
+{
+  "text": "Как только погодных условия позволят начать работе , водолазы спустятся на глубину и начнут вскрывать бензиноввю обшивку легкого корпуса лодки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "работу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "погодные"
+    },
+    {
+      "correctReplacement": "резиновую",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "бензиновую",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

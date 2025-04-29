@@ -1,0 +1,20 @@
+{
+  "text": "Разведка располагает данными о том , что к ним готов примкнуть около полутора тысяч человек в возраста от 14 до 50 лет Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "готовы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "возрасте"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

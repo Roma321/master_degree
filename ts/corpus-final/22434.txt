@@ -1,0 +1,20 @@
+{
+  "text": "Непогоду усиливает вертёрший , близкий к штормовым , его порывы при температурах -15 градусов достигают 25 метров в секунду .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "штормовому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "температуре"
+    },
+    {
+      "correctReplacement": "ветер",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

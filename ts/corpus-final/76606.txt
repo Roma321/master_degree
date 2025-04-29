@@ -1,0 +1,20 @@
+{
+  "text": "Если ири задержании не была произнесена традиционное формулировкой \"вы имеете право хранить молчание\" , это упущение может стать основанием для оправдания преступника .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "традиционная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "формулировка"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во временный Отдел внутренних дел Заводской района Грозного обратившаяся местная жительница Цумаева , которая сдобрившая , что 6 июня похитили ее муже .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "мужа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Заводского"
+    },
+    {
+      "correctReplacement": "сообщила",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

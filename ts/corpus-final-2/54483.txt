@@ -1,0 +1,25 @@
+{
+  "text": "Он провернувший информацию спикера палаты Геннадия Селезнева о том , что декументы официально внес в Думой президент Владимир Путин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "документ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Думу"
+    },
+    {
+      "correctReplacement": "опроверг",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "документы",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

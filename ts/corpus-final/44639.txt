@@ -1,0 +1,20 @@
+{
+  "text": "Подразделения внутренние войск продолжает зачистку в этом районе , сообщают РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "продолжают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

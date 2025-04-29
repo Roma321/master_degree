@@ -1,0 +1,30 @@
+{
+  "text": "Подробностям уточняются , однако по предварительным данные , виновником аварии является водитель маршрутной такси , не уступивший дорога ч соответствии с правилами дорожного движения грузовому автомобилю .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дорогу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Подробности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "маршрутного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

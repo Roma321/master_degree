@@ -1,0 +1,30 @@
+{
+  "text": "При этом Ли Пэн подчеркнувший большой личная вклад первого президент России в укшепление добрососедских отношений между двумя странами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "личный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "укрепление",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

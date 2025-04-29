@@ -1,0 +1,25 @@
+{
+  "text": "таким образом он украду несколько тонн муки , сахара и других продуктов питания , предназначающихся для его земляка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "земляков"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "украл"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "предназначавшихся"
+    },
+    {
+      "correctReplacement": "Таким",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

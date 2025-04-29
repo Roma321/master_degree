@@ -1,0 +1,30 @@
+{
+  "text": "В связи с поступифшим сообщения о заложившем в здании взрывном устройствах , к зданию суда прибыли сотрудницы специальных служб , кинологи с собаками и пожарные .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заложенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сообщением"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "устройстве"
+    },
+    {
+      "correctReplacement": "сотрудники",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "поступившим",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

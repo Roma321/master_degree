@@ -1,0 +1,25 @@
+{
+  "text": "По информации из правоохранительных орханов , в ночи с субботы на воскресенье на пульт \"03\" поступило вызов кардиологической бригада .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ночь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "бригады"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "поступил"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В собственности МИД останемся здании , носившие статус дипломатические - посольств , бывшие торгпредства и т . п . \"Вся остальная недвижимость перейдет управлению делами президента\" , - сказал он .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "здания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дипломатических"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "останутся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "носящие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "посольства"
+    }
+  ]
+}

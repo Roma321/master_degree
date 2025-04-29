@@ -1,0 +1,25 @@
+{
+  "text": "Одна из первых руководителя УВД был застрелю в центре города на пороге собственного дома , откуда он ухожу на работу в 7 : 40 по московскому времени .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "уходил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "застрелен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "руководителей"
+    }
+  ]
+}

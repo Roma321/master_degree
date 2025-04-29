@@ -1,0 +1,20 @@
+{
+  "text": "Задержанный называет себя Мартином Борманом , причем , согласно представившим документу , он официально изменил имя и фамилрю .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "представленным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "документам"
+    },
+    {
+      "correctReplacement": "фамилию",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

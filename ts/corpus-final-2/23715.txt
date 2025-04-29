@@ -1,0 +1,30 @@
+{
+  "text": "По уоверждению Проди , зона евро , в которую сегодня входили 12 государств , с момента своём создания 1 января 1999 года достигло хороших результатов , и на ней не сказавшийся решение датского референдума .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "входят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "скажется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "достигла"
+    },
+    {
+      "correctReplacement": "утверждению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

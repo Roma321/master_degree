@@ -1,0 +1,20 @@
+{
+  "text": "Журналист утверждает , что приезд Собчаков в Калининградскую область не был свяжу со встречей с изоирателями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Собчака"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "связан"
+    },
+    {
+      "correctReplacement": "избирателями",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

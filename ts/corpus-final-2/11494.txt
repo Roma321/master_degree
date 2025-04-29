@@ -1,0 +1,30 @@
+{
+  "text": "Ливия немедленно отреагировала на это заявление , сообщив , что действительно ведёт переговорам с повстанцами и все заложники оудут освободившие в течение ближайших часы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "освобождены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "будут",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

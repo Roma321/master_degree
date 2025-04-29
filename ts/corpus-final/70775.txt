@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тех , в настоящее время следственный отдел УФСБ продолжаемый расследование уголовной демые по факту взрыва 8 августа 1998 года по улице Дзержинского в Махачкале .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "продолжает"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Вероятно , таким образом власти Соединивших Штатов реагирует на недавние громкие компьютерные переутомлений , в частность серию атак \"denial-of-service\" на популярные американские сайты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "реагируют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "Соединенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "преступления"
+    },
+    {
+      "correctReplacement": "преступлений",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

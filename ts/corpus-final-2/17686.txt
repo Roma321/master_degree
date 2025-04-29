@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям HTB . ru , МВФ связываю падение евро ч оттоком в первой полугодии этого года 180 миллиардов долларов из Европы и переводом их в ценные бумаги на американском рынке в связи с опережающим ростом экономия в США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "связывает"
+    },
+    {
+      "correctReplacement": "экономики",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

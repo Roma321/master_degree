@@ -1,0 +1,25 @@
+{
+  "text": "Прибыфшие на указанное место поджарый обнаружили , что горят торговые павильоны с бытовую техникой и одеждой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "бытовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "пожарные"
+    },
+    {
+      "correctReplacement": "пожарный",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Прибывшие",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

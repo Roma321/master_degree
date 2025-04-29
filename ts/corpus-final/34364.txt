@@ -1,0 +1,30 @@
+{
+  "text": "Разрешался хелирование , перепечатка , пересылка и любое другое использование этим фотографий , коммерческое и некоммерческий , без каких-либо ограничений , но с обязательным указаниями имени автора .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "этих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "указанием"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Разрешается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "некоммерческое"
+    },
+    {
+      "correctReplacement": "копирование",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

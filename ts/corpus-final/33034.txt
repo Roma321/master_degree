@@ -1,0 +1,25 @@
+{
+  "text": "Бизнесмнн , полученный три огнестрельного ранения в спину , госпитализирован в тяжелом достоянии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "огнестрельных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "получивший"
+    },
+    {
+      "correctReplacement": "состоянии",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Бизнесмен",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

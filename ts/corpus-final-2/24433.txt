@@ -1,0 +1,20 @@
+{
+  "text": "Пламя почти мгновенно охватившее всю бытовку , площадь пожара составленная около 15 квадрвтных метров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "охватило"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составила"
+    },
+    {
+      "correctReplacement": "квадратных",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

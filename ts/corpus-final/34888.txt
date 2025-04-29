@@ -1,0 +1,20 @@
+{
+  "text": "Российский нефтеналивное танкер \"Волгонефть-147\" с экипажем из 18 человек в пятницу вечером покинул Султанат Оман и направившийся в стороной Суэцкого канала .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "направился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нефтеналивной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "сторону"
+    }
+  ]
+}

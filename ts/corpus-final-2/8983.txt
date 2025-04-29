@@ -1,0 +1,25 @@
+{
+  "text": "Как выяснившие военные , боевики заложили взрывное устройство на дорогу , \"действуя под жидом дорожного рабочих\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "выяснили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дорожных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дороге"
+    },
+    {
+      "correctReplacement": "видом",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Похороны на низких орбит стоит кнло 5 тысяч 500 долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стоят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "орбитах"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "коло",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

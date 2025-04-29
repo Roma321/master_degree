@@ -1,0 +1,20 @@
+{
+  "text": "Высота горящего факела достигала 25 метров , повару была присвоена третья категории сложность .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сложности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "категория"
+    },
+    {
+      "correctReplacement": "пожару",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

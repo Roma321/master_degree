@@ -1,0 +1,35 @@
+{
+  "text": "Президент США Билл Клинтон , выступающие во Флоренции на встрече глав правительств левоцентристской ориентации , прибравший лидеров стран третьем мира к расширениям предоставления услуг доступа в Интернет , сообщал The Nando Times .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "расширению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "третьего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выступая"
+    },
+    {
+      "correctReplacement": "призвавший",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

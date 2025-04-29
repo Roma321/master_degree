@@ -1,0 +1,30 @@
+{
+  "text": "По мнению юдиных юристам , решение судьи вполне разумно с учетом того , что люди ежедневно получаете огромное количество электронных письмами , и было ьы странно требовать от них получать разрешение на сохранение каждого письма .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "писем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "получают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "юристов"
+    },
+    {
+      "correctReplacement": "одних",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "бы",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , как сообщаю департамент РАО \"ЕЭС России\" по работе со СМИ , главные детский ярач республик уже заявил генеральному директору АО \"Мариэнерго\" , что вине энергокомпании в случившемся нет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "главный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "вины"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "врач",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

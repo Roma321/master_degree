@@ -1,0 +1,20 @@
+{
+  "text": "Налоговики решённые , что с энергетиков необходимо взыскать налогов , сборов и пеню на общую сумму 7 миллионоф 775 , 6 тысяч рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "решили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пени"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

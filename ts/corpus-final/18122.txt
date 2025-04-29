@@ -1,0 +1,20 @@
+{
+  "text": "К первому экземпляру прилагается особую мнению членов комиссии и поступившие жалобы на нарушение закона о выборах , а также принятое пн указанным жалобам решение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "особое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "мнение"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

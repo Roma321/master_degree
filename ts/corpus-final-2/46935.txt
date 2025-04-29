@@ -1,0 +1,20 @@
+{
+  "text": "В результате водитель автобуса полученный тяжелое ранения , пострадал также и один из пассажиров Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ранение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "получил"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

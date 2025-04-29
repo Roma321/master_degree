@@ -1,0 +1,30 @@
+{
+  "text": "Крупнейшая шведская мебельный компания Ikea вкладываешь 100 миллионов долларов в строительство крупнейшего в России торгового центра компании в Химках под Москвой на пощады более 50 гектаров , - заявил во вторник на пресс-конференции в Мозгве генеральное директор Ikea-Россия Леннарт Дальгрен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "мебельная"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "вкладывает"
+    },
+    {
+      "correctReplacement": "площади",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

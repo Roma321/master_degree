@@ -1,0 +1,20 @@
+{
+  "text": "За последнее десятилетие числом удачных преступлений сокращусь на две трети .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сократилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "число"
+    },
+    {
+      "correctReplacement": "уличных",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

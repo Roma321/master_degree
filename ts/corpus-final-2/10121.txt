@@ -1,0 +1,20 @@
+{
+  "text": "Комментируя данный факте , в пресс-службе МВД Карелии заявили , что пока нельзя однозначно ускакавшие , идет ли речь о хищении или произошёл ошибка в документации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "факт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "сказать",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

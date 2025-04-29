@@ -1,0 +1,25 @@
+{
+  "text": "Майкл Джордан после завершения своего карьеры приобретённый , как известно , крупная пакет акций \"Вашинктон Уизардс\" и был назначен директором столичного клуба .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "крупный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "приобрел"
+    },
+    {
+      "correctReplacement": "\"Вашингтон",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

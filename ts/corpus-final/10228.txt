@@ -1,0 +1,25 @@
+{
+  "text": "После ареста Сергей Врличко признаю свою вину и оказанный помощи следствию в пресечении деятельности сотрудников шведской разведки в этом регионе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "оказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "помощь"
+    },
+    {
+      "correctReplacement": "Величко",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Адвоката Гребневой утверждает , ато газетная публикация не могут рассматриваться как ругательство , поскольку не преследовала цель кого-либо оскорбить нецензурными выражениями Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "цели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

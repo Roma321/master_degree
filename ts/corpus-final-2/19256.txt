@@ -1,0 +1,25 @@
+{
+  "text": "Согласно опубликованной в газете Times информации , агент спецслужбами ГДР Штази по кличке Экхарт в течение нескольких лет работаю в святая святых британской дипломатии - Королевском институте международныз дела .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "работал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "спецслужбы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "международных",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

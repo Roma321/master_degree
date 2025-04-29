@@ -1,0 +1,25 @@
+{
+  "text": "В Воронеже продолжается ликвидация послетздвий аварию , в результате которой в городское водохранилище вылившееся около весящих тонн мазута .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "вылилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "аварии"
+    },
+    {
+      "correctReplacement": "десяти",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "последствий",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

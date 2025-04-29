@@ -1,0 +1,20 @@
+{
+  "text": "Уголовное делу было возбуждено 7 июль по признакам преступления , предусмотренного 199-й статьей Уголоаного кодекса РФ (неоднократное уклонение от уплаты налогов) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "июля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "Уголовного",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

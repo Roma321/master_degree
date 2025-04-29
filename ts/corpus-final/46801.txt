@@ -1,0 +1,25 @@
+{
+  "text": "Покидая Швейцарию , прещидент Сирии Хафез Асаде заявивший , что позиция его страны по ближневосточному конфликту остаётся без изменения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Асад"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "остается"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

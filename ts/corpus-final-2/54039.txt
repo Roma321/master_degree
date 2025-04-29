@@ -1,0 +1,25 @@
+{
+  "text": "В Волгограда задержана группа лиц , которая , по данным правоохранительных органов , имеемая задание от чеченского полевого командиру Бараева совершить несколько терактов в регионе Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "имела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Волгограде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "командира"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В Москвы всё виорую половину воскресенья шёл сильный снег , который затруднил движение автотранспортного .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "шел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "всю"
+    },
+    {
+      "correctReplacement": "автотранспорта",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "вторую",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

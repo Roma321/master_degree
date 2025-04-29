@@ -1,0 +1,20 @@
+{
+  "text": "К моменту прибытия пожарных , подвинувшихся на месте происшествия через 30 минут после начала пожаров , огонь охватил уже всё ангар .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "весь"
+    },
+    {
+      "correctReplacement": "появившихся",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

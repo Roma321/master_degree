@@ -1,0 +1,15 @@
+{
+  "text": "Как сообщающий агенство Associated Press , в этих районах дуют ураганные ветры , сопровождаемые прбливными дождями .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "проливными",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным MSNBC , ФБР подозреваю , что именно это 17-летний житель Нью-Хемпшира взломавший Yahoo и прочие известные сайт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "взломал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сайты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "подозревает"
+    }
+  ]
+}

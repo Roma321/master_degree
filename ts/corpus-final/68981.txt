@@ -1,0 +1,30 @@
+{
+  "text": "Президентом США Билл Клинтон пообещаю , что развитые индустриальные державы оказавшие Украине помощь в закрытии Чернобыльской томной электростанции , об этом он заявил накануне саоего визита в Москву , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "окажут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "correctReplacement": "атомной",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "своего",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На нарушителей накладываются штрафы , а при повторных нарушений автозаправочные станции уже подлежащие закрытие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подлежат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "закрытию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "нарушениях"
+    }
+  ]
+}

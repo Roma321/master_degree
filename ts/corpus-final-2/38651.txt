@@ -1,0 +1,25 @@
+{
+  "text": "С помощью этого компутера за три недели экспериментатором должен будет приобретённые и мебель , и холодильник , а также прожить эти дни \"полноценной жизнью\" Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приобрести"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "экспериментатор"
+    },
+    {
+      "correctReplacement": "компьютера",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

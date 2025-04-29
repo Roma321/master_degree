@@ -1,0 +1,25 @@
+{
+  "text": "Там он был принят президентом Сирии Башаром Асадом , а затем в крамские посольстве встретившийся с министром иностранных дел Ирана Камаля Харразящую , также прибывшим в сирийскую столицу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Камалем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Харрази"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "встретился"
+    },
+    {
+      "correctReplacement": "иранском",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

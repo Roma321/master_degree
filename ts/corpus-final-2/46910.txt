@@ -1,0 +1,25 @@
+{
+  "text": "Он , в частности , сказало , что выиграл выборы в результате совместной борьбой КПРФ и Кремлей против Бориса Березовского и Всероссийского гвардейского конгресса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Кремля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "борьбы"
+    },
+    {
+      "correctReplacement": "еврейского",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

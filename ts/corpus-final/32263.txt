@@ -1,0 +1,30 @@
+{
+  "text": "Однако , считает автор статей в The Times , именно появление пуделя в политической семья Путина , скорее всё , запустятся надолго .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "семье"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "статьи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "запомнится"
+    },
+    {
+      "correctReplacement": "запомнятся",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

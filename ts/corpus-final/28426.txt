@@ -1,0 +1,20 @@
+{
+  "text": "По слову министра , коллегии должна \"смотреть не на то , что произошёл вследствие крушения , а на то , что могло произойти\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "коллегия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "произошло"
+    }
+  ]
+}

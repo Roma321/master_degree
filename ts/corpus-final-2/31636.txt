@@ -1,0 +1,25 @@
+{
+  "text": "Форесту Таккеру , также известному под кличкой Вуди , был вынесу обвинительный призовой по делу об ограблении банка в городе Юпитер , Флорида , в апреле 1999 годе , откуда Таккер унесённый 5600 долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вынесен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "унес"
+    },
+    {
+      "correctReplacement": "приговор",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Указ президентов об утвержденир состава Совета безопасностиРоссии вступают в силу со дня его подписания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "вступает"
+    },
+    {
+      "correctReplacement": "утверждении",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

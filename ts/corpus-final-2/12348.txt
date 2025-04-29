@@ -1,0 +1,25 @@
+{
+  "text": "Среди причин тоста цен Борисами назвал \"прекращение искусственному сдерживания\" стоимости бензина , которое было необходимо после кризиса в августе 1998 года , приведшего к ажиатожной спросу на топливо .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "ажиатожному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "искусственного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Борисов"
+    },
+    {
+      "correctReplacement": "роста",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

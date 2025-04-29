@@ -1,0 +1,35 @@
+{
+  "text": "Необоснованному он назвал такое предположение о взрыве в кабины пилотах ослепляющей гранат , в результате которого летчики якобы оказадись в состоянии шока .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "кабине"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пилотов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "гранаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Необоснованным"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "оказались",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

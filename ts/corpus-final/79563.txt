@@ -1,0 +1,15 @@
+{
+  "text": "По сообщению командования KFOR , подозреваемый в убийстве аррстовано .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "арестован"
+    },
+    {
+      "correctReplacement": "арестовано",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

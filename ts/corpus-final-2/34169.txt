@@ -1,0 +1,20 @@
+{
+  "text": "Из заявлению следуешь , что главная банкир страны претендует на место заведующего кафедрой Центрального банка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "главный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "следует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявления"
+    }
+  ]
+}

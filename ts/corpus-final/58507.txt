@@ -1,0 +1,20 @@
+{
+  "text": "Полиция ьредполагаю , что Бохаммерс застрелю ее еще до поджога .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "застрелил"
+    },
+    {
+      "correctReplacement": "предполагаю",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Водитель одного из автомобилях , попафших в аварию , погибли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "автомобилей"
+    },
+    {
+      "correctReplacement": "попавших",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

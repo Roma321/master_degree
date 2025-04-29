@@ -1,0 +1,20 @@
+{
+  "text": "Истории с арестом канадского 15-летнего хакера , обвиняемого в атаке на сайт CNN , приобрела новое направление в чедверг , когда стало известно , что на прошлой неделе был также арестован отец подросток , передает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "подростка"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "История"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

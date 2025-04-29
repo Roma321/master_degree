@@ -1,0 +1,20 @@
+{
+  "text": "Золотовалютные резервы Россией за семь месяцев с начала года увенчались на 87 , 1 процента с 12 , 457 миллиарда до 23 , 302 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "увеличились",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным журналистов , на следующей неделе будут провёдшие судебно-медицинская экспертиза валуева на вменяемость и исследование его физического и психической состояния .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "проведены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "психического"
+    },
+    {
+      "correctReplacement": "Радуева",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

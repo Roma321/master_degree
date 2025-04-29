@@ -1,0 +1,30 @@
+{
+  "text": "Двенадцать участников регаты полученные прафки , пятеро госпитализированы , в той числе и главный организаторе регаты Александр Вавилов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "организатор"
+    },
+    {
+      "correctReplacement": "травмы",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "правки",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

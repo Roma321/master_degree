@@ -1,0 +1,20 @@
+{
+  "text": "Федеральная министре труда ФРГ Вальтер Ристер вручил в понедельник первую Green Card для иностранеых специалистов-компьютерщиков , сообщает немецкий журнал Spiegel .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Федеральный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "министр"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

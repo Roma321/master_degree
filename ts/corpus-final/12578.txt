@@ -1,0 +1,35 @@
+{
+  "text": "Между тем намеченное на сегодня заседание суда не состоялось по причине той , что и адвокаты , и сами Юрия Шуты участвовал в другом нроцессе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "участвовали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Юрий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Шутов"
+    },
+    {
+      "correctReplacement": "процессе",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

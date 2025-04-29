@@ -1,0 +1,30 @@
+{
+  "text": "Об это в среда на заседании совета делегации независимых профсоюзов России (ФНПР) заявили и . о . президента России , премьер-министра Владимир Путин , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Палестинском лидер сообщу , что новый раунд переговоров , который планируется начать уже в воскресенья или понедельник , будет проходить более интенсивно , чем прежним , и должен завершиться за пять недель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Палестинский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "прежние"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    }
+  ]
+}

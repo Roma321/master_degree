@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратурой Юго-Восточного административного округа Москвы возбудившее уголовного дело по факту изучения корреспондента \"Новой газеты\" Олега Лурье .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "избиения",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

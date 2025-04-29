@@ -1,0 +1,20 @@
+{
+  "text": "Председатель совета директоров компании Coca-Cola Дук Ивстер сказала , что такой автомат создаётся для выравнивания спроса и предложения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "создается"
+    },
+    {
+      "correctReplacement": "Дуг",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

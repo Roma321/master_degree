@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёт Reuters со ссылкой на сотрудников больницы , актер был составленный к ним 3 августа и умер два денб спустя .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "дня"
+    },
+    {
+      "correctReplacement": "доставлен",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "день",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

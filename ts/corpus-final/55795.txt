@@ -1,0 +1,30 @@
+{
+  "text": "За последний гон было усыновившее 6 тысяч 200 детей иностранцами и 7 тысяч - российскими гражданах . �о заявка на проведение митинга была подавшая в соответствии с закону - за 10 дней до акции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "гражданами"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "усыновлено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "подана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "законом"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

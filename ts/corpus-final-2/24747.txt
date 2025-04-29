@@ -1,0 +1,25 @@
+{
+  "text": "Учредители биржи стали 15 ведущих коммерческих банков , двумя финансовых компании республики и Стамбульская фондовая баржа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "финансовые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Учредителями"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "две"
+    },
+    {
+      "correctReplacement": "биржа",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В нем также отмечался , что представителям американских правоохранительных органов предпишу заняться поиском признаков возможных акб насилия и объектов , против которых экстремистами могут предпринять свои действия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "предписано"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "экстремисты"
+    },
+    {
+      "correctReplacement": "актов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

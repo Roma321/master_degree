@@ -1,0 +1,30 @@
+{
+  "text": "А пока средства не будут выделим , действия закона о реформирование Совета Федерации должно ьыть приостановлен , считает вице-спикер палаты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "действие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "реформировании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "приостановлено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "выделены"
+    },
+    {
+      "correctReplacement": "быть",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

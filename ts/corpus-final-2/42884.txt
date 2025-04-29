@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению НТВ , людей требуем от властей дать горячую воду в дома и начать отапливать квартиранты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "требовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "люди"
+    },
+    {
+      "correctReplacement": "квартиры",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

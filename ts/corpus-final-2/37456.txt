@@ -1,0 +1,30 @@
+{
+  "text": "Бывшие владелицы машин через нккоторое время заявляем , что автомобили у них были украдены , и получаем страховке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "страховку"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "заявляли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "получали"
+    },
+    {
+      "correctReplacement": "владельцы",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "некоторое",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

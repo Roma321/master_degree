@@ -1,0 +1,35 @@
+{
+  "text": "Единственный инцидент произошел утром 9 мая в Махачкале , где за час до парада на центрального плолади города посредники милиции обнаружили и обезвредил два мину .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "центральной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "обезвредили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "мины"
+    },
+    {
+      "correctReplacement": "сотрудники",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "площади",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

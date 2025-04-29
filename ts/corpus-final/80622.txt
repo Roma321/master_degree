@@ -1,0 +1,25 @@
+{
+  "text": "Американский военные , размещенные в Европе , оповестили личный составы о том , что по электронной почте распространяется очередная теневой \"троянский конь\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Американские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "состав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "очередной"
+    },
+    {
+      "correctReplacement": "сетевой",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

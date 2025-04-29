@@ -1,0 +1,30 @@
+{
+  "text": "ГИМ - самый большой музей России , он входящий в число пяти крупнейших музеев мира и по числу синиц хранения намного превосходишь , например , Эрмитаж (4 , 5 миллиона предметов и 12 миллионов листов документов против 2 , 5 миллиона единицы хранения Эрмиража) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "единиц"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "превосходит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "входит"
+    },
+    {
+      "correctReplacement": "единиц",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "Эрмитажа)",
+      "type": "typo",
+      "wordNumber": 43
+    }
+  ]
+}

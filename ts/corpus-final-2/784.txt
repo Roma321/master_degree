@@ -1,0 +1,20 @@
+{
+  "text": "По его слову , на предприятиях компании в Саратовской лбласти уже приостановлю отгрузка топлива для сельхозпредприятий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "приостановлена"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

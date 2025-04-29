@@ -1,0 +1,30 @@
+{
+  "text": "Прошение о предоставлении ему статус беженца было отклонено управлением по делам мигрантам МВД Венгрии . �я восстававшее движению поездов на поврежденном участке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "движение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "восстановлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "статуса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мигрантов"
+    },
+    {
+      "correctReplacement": "восстановившее",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

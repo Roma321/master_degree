@@ -1,0 +1,35 @@
+{
+  "text": "Впервые Россия частично не выполнившая обядательства по выплатам перед Лондонским клубом в декабрях 1998 года , а в июне и декабре 1999 года не заплатили вовсе , после чего начавшийся этаж консультаций и переговоров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выполнила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "декабре"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "начался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "заплатила"
+    },
+    {
+      "correctReplacement": "этап",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "обязательства",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

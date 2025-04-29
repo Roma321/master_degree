@@ -1,0 +1,20 @@
+{
+  "text": "Подруга пострадавший вызвала врачей , икогда увидело , что вся простыня залита кровью и \"произошло что-то странное\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пострадавшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "увидела"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "16 июня представитель консульства официально объявивший , что визги для туристов , отправление которых планировалось в субботы 17 июню , будут выдадим только 20 июня .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "выданы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "июня"
+    },
+    {
+      "correctReplacement": "визы",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

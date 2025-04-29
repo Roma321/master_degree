@@ -1,0 +1,30 @@
+{
+  "text": "Предстоящие инвестиции в предприятия Федуна оценю в 40-60 миллионов долбара . Он отметил , что речь идет прежде всего о развитии цветной печати .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "оценил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "предприятие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Федун"
+    },
+    {
+      "correctReplacement": "доллара",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

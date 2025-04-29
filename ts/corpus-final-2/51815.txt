@@ -1,0 +1,20 @@
+{
+  "text": "Пнавительство страны эвакуировало большей часть жителей штата , однако более 25 тысяч человек все еще находятся недалеко от вулкана , отказавшись покинуть своему жилье .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "свое"
+    },
+    {
+      "correctReplacement": "Правительство",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

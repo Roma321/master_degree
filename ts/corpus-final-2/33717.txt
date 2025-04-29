@@ -1,0 +1,20 @@
+{
+  "text": "Во взрыве , которому произошел й пригороде Мадрида , пострадали , по меньшей мерам , 10 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "мере"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

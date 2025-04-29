@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает The New York Times , в Швейцарии арестовавшие счет , на готовый стекавшиеся деньгам для президента Казахстана Нурсултана Назарбаева .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "арестованы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "стекались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "деньги"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

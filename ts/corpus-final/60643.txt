@@ -1,0 +1,25 @@
+{
+  "text": "Жертв нет , потому что рабочий щень в министерских на момент взрыва уже закончилось .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "закончился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "министерстве"
+    },
+    {
+      "correctReplacement": "министерствах",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "день",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

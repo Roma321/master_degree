@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявленный заместитель начальника столичных управления ГИБДТ Сергей Николаев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "столичного"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "ГИБДД",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

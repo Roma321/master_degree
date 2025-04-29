@@ -1,0 +1,25 @@
+{
+  "text": "Начался расследование , а когда дошёл до изучения компьютерных файлов в клинике Гарольда Шипмана , то выяснилось , что истории болезнью убитых им пациентов были изменившие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "дошло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Началось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "болезни"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "изменены"
+    }
+  ]
+}

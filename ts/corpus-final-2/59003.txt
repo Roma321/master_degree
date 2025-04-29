@@ -1,0 +1,30 @@
+{
+  "text": "Неработающие пенсионеры , граждане , имеющие дохол только по основным месту работы , а также граждане , имевшие в течение года несколько источники доходов , но получим в сумме не более 50 тысяч рублей за год , декларацию о доходах подавать не должны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "источников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "основному"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "получившие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "имевшие"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

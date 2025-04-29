@@ -1,0 +1,25 @@
+{
+  "text": "В субботу нутром на автозаправочной станции города Артема Приморским крцй произошел мощный взрыв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Приморского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "края"
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "край",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

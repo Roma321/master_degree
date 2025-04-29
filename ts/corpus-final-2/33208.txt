@@ -1,0 +1,30 @@
+{
+  "text": "полка удалась рамшифровать только один фразу , по-видимому произнесенную одной из пилотов : \"Мы слишком быстро снижаемся\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одну"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "одним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "Пока",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "расшифровать",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

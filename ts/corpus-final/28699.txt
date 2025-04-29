@@ -1,0 +1,20 @@
+{
+  "text": "К 31 марта цен должны снизившиеся дб приемлемого уровня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "снизиться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "цены"
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

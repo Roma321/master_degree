@@ -1,0 +1,35 @@
+{
+  "text": "Как отмечают аналитики , негативная тенденция , сосуществующее на рынком с начала оспнью , пока еще остается в силе , передаю РБК .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "рынке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "господствующая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "осени"
+    },
+    {
+      "correctReplacement": "господствующее",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "осенью",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

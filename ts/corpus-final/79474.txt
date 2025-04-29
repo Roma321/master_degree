@@ -1,0 +1,25 @@
+{
+  "text": "Как известно , 7 июля в Калифорнии завершатся предварительные испытания южноамериканской систем ПРО , по результатам которых американский президент Билл Клинтон должер принять решении о реализации соответствующей программы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "системы"
+    },
+    {
+      "correctReplacement": "американской",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "должен",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , на сайте защитников прав животных публиковавшая информация об аналогичных акциях , провёдших в Великббритания , Канаде и Британской Колумбию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "опубликована"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проведенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Великобритании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Колумбии"
+    },
+    {
+      "correctReplacement": "опубликовавшая",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Великобритания",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

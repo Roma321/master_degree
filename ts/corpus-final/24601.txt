@@ -1,0 +1,25 @@
+{
+  "text": "По уточню данным , 12 человек ранены , одним из них тяжело , в результату взрыва бомбы в израильском городе Хадере , в 50 километрах к север от Тель-Авива .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "северу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "уточненным"
+    }
+  ]
+}

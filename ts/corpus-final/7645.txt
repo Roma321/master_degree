@@ -1,0 +1,25 @@
+{
+  "text": "До сих поры не ясно , что именно послужило причине падения самолета в океан вблизи восточного берега МША 31 октября и привело к никели 217 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пор"
+    },
+    {
+      "correctReplacement": "гибели",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

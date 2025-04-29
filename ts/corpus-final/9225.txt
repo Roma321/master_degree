@@ -1,0 +1,30 @@
+{
+  "text": "У понедельником в префектуре Сайтама , соседствующей с японской столицей , около 14 . 00 по местной времени (примерно 8 часа утра по московскому) , самолет Т-33 японских вооруженных сил при отработке фигур высшего пилотажа закупивший провода высоковольтной линии , упал и загорелся .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "зацепил",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

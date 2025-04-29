@@ -1,0 +1,30 @@
+{
+  "text": "Как передаю Gazeta . Ru , некоторое времена назад алюминиевый завод перешло рз под контроля структур , возглавляемых предпринимателями Анатолием Быковым , Львом Чёрным и Василием Анисимовым под юрисдикцию компании \"Русский алюминий\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "перешел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Черным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

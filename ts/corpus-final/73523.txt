@@ -1,0 +1,35 @@
+{
+  "text": "Другой активист белорусской оппозиции , депутат Верховного совета 13-х созывов Валерий Щукин , осужу на один года лишения свободы с отсрочкой испарения приговора на один годом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "созыва"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "13-го"
+    },
+    {
+      "correctReplacement": "исполнения",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

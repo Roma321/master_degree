@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению американского стороны , в ближайшими три , шесть , десять месяцев в Москву уйдут следующие партии , и к лету 2001 годов , возможно , вернётся все .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "вернется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ближайшие"
+    }
+  ]
+}

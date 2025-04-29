@@ -1,0 +1,20 @@
+{
+  "text": "Планировался , что до конца текущего года создатель фильма снимут 6 ыерий ленты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Планируется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "создатели"
+    },
+    {
+      "correctReplacement": "серий",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

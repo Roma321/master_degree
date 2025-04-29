@@ -1,0 +1,30 @@
+{
+  "text": "В среду во время получения взятки были задержаны еще двре граждан , одним из которых оказался сотрудник Московского северного таможни . По данному факту возбужу уголовного дело .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "северной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Московской"
+    },
+    {
+      "correctReplacement": "двое",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

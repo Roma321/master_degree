@@ -1,0 +1,25 @@
+{
+  "text": "Он пощчеркнул , что в течением последних лет в Чечне не осуществлялись природоохранные мероприятия , и нико природоохранное законодательство не соблюдаю .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "соблюдал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "никто",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "подчеркнул",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

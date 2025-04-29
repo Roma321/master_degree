@@ -1,0 +1,25 @@
+{
+  "text": "С точки зрения технологии проект в островном сводящийся к непрерывной конвертированию текстового новостной информации в речь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "текстовой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "непрерывному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сводится"
+    },
+    {
+      "correctReplacement": "основном",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

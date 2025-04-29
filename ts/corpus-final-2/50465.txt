@@ -1,0 +1,20 @@
+{
+  "text": "Служба безопасности Украины объявила в воскресение , что за содействие в поиске журналиста Георгиев Гонгадзе назначен вознаграждение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "назначено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Георгия"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

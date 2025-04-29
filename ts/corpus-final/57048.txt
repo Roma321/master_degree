@@ -1,0 +1,25 @@
+{
+  "text": "О намерениях РАО \"ЕЭС боснии омолодить кадровый состав региональных энергосистем заявило председатель правления РАО Анатолий Чубайс на прошедшем недавно всероссийской совещании энергетиков по вопросе подготовки к зиме .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "всероссийском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "вопросу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "России\"",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

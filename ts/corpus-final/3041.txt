@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщили корреспонденту ИТАР-ТАСС в пресс-центре местного управления по делам Гражданского оборон и чрезвычайных ситуаций , генерал остановивший для ремонтч .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "остановлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Гражданской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "обороны"
+    },
+    {
+      "correctReplacement": "генератор",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "ремонта",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

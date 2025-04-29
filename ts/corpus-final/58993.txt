@@ -1,0 +1,30 @@
+{
+  "text": "Губернатор Московских области Борис гороховый заболею и находится в госпитале , как сообщаешь \"Интерфакс\" , - с целью прохождения медицинских осмотра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заболел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "медицинского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Громов",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

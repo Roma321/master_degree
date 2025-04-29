@@ -1,0 +1,30 @@
+{
+  "text": "По окончании заседания секретарь СБ Сергей Иванова скажу , что сейчас все силовые структуры России насчитывающие три миллиона человек , \"а это является посыльной ноше для экономики\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "насчитывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "ношей"
+    },
+    {
+      "correctReplacement": "непосильной",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

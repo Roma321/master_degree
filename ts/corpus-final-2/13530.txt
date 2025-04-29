@@ -1,0 +1,25 @@
+{
+  "text": "Местные СМИ сообщившие , что в результате инцидеета в реке от безалкогольных отравления погибло огромное количество рыбы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "алкогольного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "алкогольных",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "инцидента",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

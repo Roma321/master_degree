@@ -1,0 +1,30 @@
+{
+  "text": "Главный свидетель обвинения по дело Эдмондов Поупа профнссор МГТУ имени Баумана Андрей Бабкин отказываюсь от данных ранее показаний , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Эдмонда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "отказывается"
+    },
+    {
+      "correctReplacement": "профессор",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

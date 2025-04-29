@@ -1,0 +1,20 @@
+{
+  "text": "Это первый институт такого рода , хотя ООН добиваюсь подобного шага более шестнадцати годов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "добивалась"
+    },
+    {
+      "correctReplacement": "пятнадцати",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

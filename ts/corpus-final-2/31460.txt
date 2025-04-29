@@ -1,0 +1,30 @@
+{
+  "text": "В интервью AFP директор аэропортов заметифшие , что Израиль предупредил палестинскую сторону о намерению закрыть аэропорт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "аэропорта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "намерении"
+    },
+    {
+      "correctReplacement": "отметили",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "заметившие",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

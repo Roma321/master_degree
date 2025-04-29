@@ -1,0 +1,25 @@
+{
+  "text": "Он сдобривший , что по данным на 20 . 00 , явки избирателей в целом по страной превысила 57 , 58 процентом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "явка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "стране"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

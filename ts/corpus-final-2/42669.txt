@@ -1,0 +1,30 @@
+{
+  "text": "Гибель в Беринговом морю грузовой теплохода \"Рязань\" , на борту которого находились 30 контейнеров со спиртным , ссала причиной дефицита алкоголя на Чукотки и резкого повышения цен на водки и вино .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "море"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "водку"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "грузового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Чукотке"
+    },
+    {
+      "correctReplacement": "стала",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

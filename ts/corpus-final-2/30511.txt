@@ -1,0 +1,20 @@
+{
+  "text": "С 1 ноября 2000 годп по 1 сентябрей 2001 года будет закрыто движения транспорта по Автозаводскому мосту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сентября"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "движение"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

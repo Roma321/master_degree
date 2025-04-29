@@ -1,0 +1,35 @@
+{
+  "text": "Так , в Шалью свободно моглм проехавшие пассажир в рейсовых автобусах , люди с городской пропиской , а также машины , везущие больных в районных больницу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пассажиры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Шали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проехать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "районную"
+    },
+    {
+      "correctReplacement": "могли",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

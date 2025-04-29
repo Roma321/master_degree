@@ -1,0 +1,20 @@
+{
+  "text": "Напомнившие , что о подложной назначении Иванова на должность главы оборонного ведомства сообщила Газета . Ру со ссылкой на собственные источники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "возможном"
+    },
+    {
+      "correctReplacement": "возможной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

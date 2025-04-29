@@ -1,0 +1,20 @@
+{
+  "text": "За два годов хозяйствования мэрти предприятие постоянно терпевшее убытки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "терпело"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "мэрии",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

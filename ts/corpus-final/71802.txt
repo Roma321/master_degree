@@ -1,0 +1,25 @@
+{
+  "text": "Президент России полностью принимаешь предложение Совета Федерации о плавной реформировании его состава , в соответствии с которым главы законодательных собраний регионов и губернаторы остаётесь й составе верхней палаты до истечения срока их полномочий в регионах .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "принимает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "плавном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "остаются"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

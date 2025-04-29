@@ -1,0 +1,25 @@
+{
+  "text": "Медсестры возмущены тем , что им диктуют , краситься иль нет , и считают вопросом макияжа свгим личной делом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "личным"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "своим",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

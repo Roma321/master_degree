@@ -1,0 +1,25 @@
+{
+  "text": "Всего с начала года в Санкт-петербургесовершённому 126 убивств , более 10 могли быть занесённые кразряду заказных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Санкт-Петербургесовершено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "отнесены",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "убийств",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

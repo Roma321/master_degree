@@ -1,0 +1,30 @@
+{
+  "text": "Как заявили Мери Робинсон журналистам ВВС , она потребует расследования действий людей в военной форме , которые от имени государства жестоко обходились с людьми , в опытности пытаете мирная жителей , избивают женщин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "обходятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "мирный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "пытают"
+    },
+    {
+      "correctReplacement": "частности",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

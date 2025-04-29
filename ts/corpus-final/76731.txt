@@ -1,0 +1,25 @@
+{
+  "text": "Андерсон утверждает , что курил в течения 30 лет - до 1993 года , когда начатый испытывающие трудности с дыханием Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "испытывать"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

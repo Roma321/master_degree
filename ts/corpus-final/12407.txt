@@ -1,0 +1,20 @@
+{
+  "text": "Там обсуждавшаяся организация предполагаемой теракта , замешенного ориентировочно на середину декабря .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обсуждалась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предполагаемого"
+    },
+    {
+      "correctReplacement": "намеченного",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

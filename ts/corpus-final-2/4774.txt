@@ -1,0 +1,25 @@
+{
+  "text": "Он , в частности , заявлю , что утверждение документом приведет к ухудшению жизни гражданпна , положения предприятий и субъектов РФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "документа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "гражданина",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

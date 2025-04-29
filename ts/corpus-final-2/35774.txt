@@ -1,0 +1,30 @@
+{
+  "text": "Руководитель службе МЧС в Невинномысске и заместитель главы города Николай Тулба дал отбоя тревоге , объявлю утром по сигнал о взрывном устройстве , обнаруженных в железнодорожном составе , прибывшем на местный химкомбинат \"Азот\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "объявленной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "отбой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "сигналу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "обнаруженном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "службы"
+    }
+  ]
+}

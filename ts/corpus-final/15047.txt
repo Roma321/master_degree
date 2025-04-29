@@ -1,0 +1,40 @@
+{
+  "text": "Как сообщает CNN , данные Госдепартамента США по готовность отдельных странах к 2000 году будут добавлены в специальных информационные листы , которые выдаются американским туристам м консульствами зарубежного стран , а также публиковались в Интернете .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "публикуются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "готовности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "консульствах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "специальные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "зарубежных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "стран"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

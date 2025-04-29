@@ -1,0 +1,30 @@
+{
+  "text": "Напомните , что речь идет о борьбе за кресло в нижнего палате парламента , освободившееыя после того , как занимавший ему Сергей Степашине возглавил Счетную Палату РФ и сложил с себя депутатские полномочия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "его"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "нижней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Степашин"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "освободившееся",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

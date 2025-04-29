@@ -1,0 +1,30 @@
+{
+  "text": "По данным индонезийской метеогеофизической обсерваторий , сила подземных толчков в эпицентре достигала 7 , 3 баллов по шкале Рихтера . Однако в некоторых местах наблюдались толчки силой 7 , 9 балла по шкалу Рихтера , сообщаемый ВВС со стычкой на метеорологическое управление США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "балла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "шкале"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "обсерватории"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 38
+    }
+  ]
+}

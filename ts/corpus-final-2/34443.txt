@@ -1,0 +1,25 @@
+{
+  "text": "Сына экс-президента марк Милошевичи был не только любителями роскошных машин и женщин , но и промышлял контрабандой наркотиков и сигарет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "любителем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сын"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Милошевич"
+    },
+    {
+      "correctReplacement": "Марко",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

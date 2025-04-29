@@ -1,0 +1,35 @@
+{
+  "text": "В связи с этим стрелки часы на всего территории России дольмены быть перевёдшие на час назад в 3 часа ночей 29 октября кестного времени .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "ночи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "всей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "переведены"
+    },
+    {
+      "correctReplacement": "должны",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

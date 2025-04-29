@@ -1,0 +1,30 @@
+{
+  "text": "В четверг , после признания эдвард и Берлина , Кудрявцева вновь под присягой заявила о своей невиновности и была выпущу на свободу под залогу в 30 тысячах долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "признаний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "выпущена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "залог"
+    },
+    {
+      "correctReplacement": "Эдвардс",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

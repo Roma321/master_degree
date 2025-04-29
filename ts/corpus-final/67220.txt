@@ -1,0 +1,20 @@
+{
+  "text": "Недовольство президентская администрпции вызвало низкое качество подготовки материалов , сообщаешь UA Today со ссылкой на Первый национальный телеканал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "президентской"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

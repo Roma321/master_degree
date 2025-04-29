@@ -1,0 +1,20 @@
+{
+  "text": "Со слов очевидцев , нападавший скрыфшийся в направлении Таганской площади , где его поджидала машине .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "скрылся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "машина"
+    },
+    {
+      "correctReplacement": "скрывшийся",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

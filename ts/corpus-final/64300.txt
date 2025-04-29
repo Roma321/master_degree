@@ -1,0 +1,25 @@
+{
+  "text": "После того , как нефтерудовоз осмотренный инспекция государственной речной регистра , его , по просьбе судовладелец , предположительно , отбуксируют для ремонта в Астрахань .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "осмотрит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "речного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "судовладельца"
+    }
+  ]
+}

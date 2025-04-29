@@ -1,0 +1,25 @@
+{
+  "text": "В противном случай , заявляют в команде Гора , будет поставлена под вопросы незаконность итогов президентских выборах в штате .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "выборов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "correctReplacement": "законность",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Средствами пойдут на ликвидацию ОАО \"Капролактам\" (город Дзержинск Нижегородской области) , производифшего отравляющие вещества , и создание в городе Горном Саратовской области завода по уничтожения запасов химических оружия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "уничтожению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Средства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "химического"
+    },
+    {
+      "correctReplacement": "производившего",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Солдат взяли под контроль аэропорт , территорию вокруг посадочном полосы и морской порт Дилей , куда во второй половине дня должны войти и начавшие разгрузку тяжелого вооружения военно-морские корабли международных сил .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "посадочной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "начать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Дили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Солдаты"
+    }
+  ]
+}

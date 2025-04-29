@@ -1,0 +1,20 @@
+{
+  "text": "Когда судно покидал одному из терминалов порта , в его правый борт врезался луксор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "покидало"
+    },
+    {
+      "correctReplacement": "буксир",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

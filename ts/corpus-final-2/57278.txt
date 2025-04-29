@@ -1,0 +1,15 @@
+{
+  "text": "В содовая секции ММВБ акции предприятия упали в цена ниже 2 руб . за штуку - до 1 , 998 руб . (-12 , 1 процента) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "цене"
+    },
+    {
+      "correctReplacement": "фондовой",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

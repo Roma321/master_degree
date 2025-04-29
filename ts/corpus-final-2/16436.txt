@@ -1,0 +1,20 @@
+{
+  "text": "О том , что журналист был задержу , а затем избит и посажен в яму , сморщившая в четверг московское бюро агентства .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "сообщила",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

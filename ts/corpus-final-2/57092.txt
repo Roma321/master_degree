@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратура Чувашии ведет расследующееся обстоятельств дело Х",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дела"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

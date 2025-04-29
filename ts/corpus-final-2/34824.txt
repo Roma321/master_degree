@@ -1,0 +1,25 @@
+{
+  "text": "Канцлеры ФРГ Герхард Шредер , находившись в Иерусалимах , по ошибке погасил вечный огонь в память жкртв Холокоста .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Иерусалиме"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "находясь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Канцлер"
+    },
+    {
+      "correctReplacement": "жертв",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

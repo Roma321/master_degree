@@ -1,0 +1,25 @@
+{
+  "text": "В лодки юдина из местного жителей , приехавшего снимать рыбаков , село слишком много людей и её опрокинулась .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "лодку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "местных"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В пятницы в москве было совершу очередное зауазное убийство .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "заказное",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

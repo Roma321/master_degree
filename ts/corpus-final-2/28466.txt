@@ -1,0 +1,30 @@
+{
+  "text": "Для этого Юарак отважившийся к лидеру израильского оппозиции - главе правых партии \"Ликуд\" Ариэлю Шарону .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "правой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обратился"
+    },
+    {
+      "correctReplacement": "обратившийся",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Барак",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

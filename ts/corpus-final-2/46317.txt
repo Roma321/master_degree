@@ -1,0 +1,30 @@
+{
+  "text": "Городские власти Пекина намерены отремонтировать сотня городских общественного туалетов и оборудовавшие их вовременными удобствами включая \"живую муську , сообщает агенство France Press .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оборудовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сотни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "общественных"
+    },
+    {
+      "correctReplacement": "музыку\"",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "современными",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

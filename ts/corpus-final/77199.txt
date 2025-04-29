@@ -1,0 +1,25 @@
+{
+  "text": "По словам Манилова , в настоящее время раненыц нога у Басаеве ампутированы уже выше колена .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ампутирована"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Басаева"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "раненая"
+    },
+    {
+      "correctReplacement": "раненый",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

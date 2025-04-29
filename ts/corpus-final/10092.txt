@@ -1,0 +1,20 @@
+{
+  "text": "В судебных слушаниях участвуют заявитель и предоставивший органа , принятого (издавшего) оспаривавший нормативный акт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "принявшего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "оспариваемый"
+    },
+    {
+      "correctReplacement": "представитель",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Спустя девять годов после волны в Заливе , содержание истощённой урана в его организме более чем в сто раза превосходит допустимый уровень .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "истощенного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "войны",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

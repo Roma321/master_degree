@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает агенство Reuters , профсоюзы требуемые от правительства письменного подтверждения той , что воздающая корпорация будет поддерживаться правительством .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "требуют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "создающаяся",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

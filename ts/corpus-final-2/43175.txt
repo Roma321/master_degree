@@ -1,0 +1,25 @@
+{
+  "text": "Возгорание произошло в 3 : 30 утра в в трехкомнатной квартирах 12-этажного кирпичоой дома по адресу Малая Филёвская улица , 44 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Филевская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "кирпичного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "квартире"
+    },
+    {
+      "correctReplacement": "кирпичной",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

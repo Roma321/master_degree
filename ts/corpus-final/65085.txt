@@ -1,0 +1,30 @@
+{
+  "text": "В Чечне во вторник был обстреляю вертолет , на борту которого находились члены правительственной комиссии по восстановлению республикой во главе с полномочным представителем президенту РФ Николаем Кошманом , возвращавшиеся из Итум-Калинского районе , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обстрелян"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 33,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "республики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "района"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В связи с этим минин обратился с искави о взыскании с ЗАО просроченных средств , передавал Агентстве финансового информация .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "финансовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Агентство"
+    },
+    {
+      "correctReplacement": "Минфин",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "исками",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Оценивав в целом итоги работы малого и среднего бизнеса в России за прошлый год , Владимир Путин сообщил , что в 890 тысяче малых предприятий создавшие рабочие места для семи с половина миллионов человек , или десяти процентах активного населения страны Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "половиной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "созданы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Оценивая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "тысячах"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 41
+    }
+  ]
+}

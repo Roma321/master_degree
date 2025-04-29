@@ -1,0 +1,25 @@
+{
+  "text": "Самолет , направлявшийся аа стоянку гомер 21 , зацепил левой крылом стоявшая на краю полосы трактор и повредил закрылки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "левым"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "стоявший"
+    },
+    {
+      "correctReplacement": "номер",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

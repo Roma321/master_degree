@@ -1,0 +1,25 @@
+{
+  "text": "Если подсчёт голосов во Флориде окончится без очередных потрясений , Буш запишет в свой актив еще 25 голосов выборщикам , итого - 271 , чистая победы Б",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "подсчет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "выборщиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "победа"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Депутаты Мосгордумы приняли сегодня в первой чтении законопроекту , вносивший изменения в затон города Москвы \"Об условии пребывания в Москве иностранных гражданина , имеющих право на безвизовый въезд в Россию\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "вносящий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "законопроект"
+    },
+    {
+      "correctReplacement": "закон",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

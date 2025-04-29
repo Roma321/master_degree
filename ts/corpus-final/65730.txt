@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителей Управления федеральную клумбы налоговой полиции по Саратовском области , проводимые ими обыски абсолютно законны и произаодящиеся с целью проверки рекламно-финансовой деятельности радиостанций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "федеральной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Саратовской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "производятся"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "производящиеся",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

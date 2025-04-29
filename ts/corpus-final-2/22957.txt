@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-секретари опроверг сообщения о том , ято в связи с беспорядками за руководителем делегация Алексее Кудриным был вызван специальный полицейский вертолет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Алексеем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "делегации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Пресс-секретарь"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

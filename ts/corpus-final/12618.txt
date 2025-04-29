@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с законом , выборы главы государства в 2000 году пройдёте 4 июня , а вступление в должность новой прецедент России состоявшийся 9 августа .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "пройдут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "состоится"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

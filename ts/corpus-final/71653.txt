@@ -1,0 +1,25 @@
+{
+  "text": "По мнению организаторов съезда , сегодняшние выборах главного раввина прошли \"абсолютно легитимно\" , поскольку около 80 процентов прежставителей религиозные общин присутствовали на съездах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "религиозных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "съезде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "выборы"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

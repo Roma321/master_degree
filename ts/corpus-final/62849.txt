@@ -1,0 +1,20 @@
+{
+  "text": "За загрязнением водоемов штрафы распределяемся следующим образом : на граждан - 5-10 МРОТ , должностных лмц - 15-20 МРОТ , юридических лиц - 100-200 МРОТ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "распределяются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "загрязнение"
+    },
+    {
+      "correctReplacement": "лиц",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

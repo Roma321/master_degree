@@ -1,0 +1,20 @@
+{
+  "text": "17 февраля Центральная избирательная комиссии отказало в дегустация Владимиру Жириновскому в качестве кандидата в президенты России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "отказала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "correctReplacement": "регистрации",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

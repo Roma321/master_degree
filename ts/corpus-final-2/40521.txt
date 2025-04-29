@@ -1,0 +1,30 @@
+{
+  "text": "В суббота в местечке Беит Омар , расположенной к югу от Гуш Эциона , солдаты израильских силы самообороны спасшие 12 арабов , среди которых были дети , из горящей дома , сообщает Jerusalem Post .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "расположенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "спасли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "горящего"
+    }
+  ]
+}

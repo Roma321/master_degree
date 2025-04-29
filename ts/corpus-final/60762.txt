@@ -1,0 +1,20 @@
+{
+  "text": "В конкурсной программе представившие 23 фильма из 15 стран , в пом числе российский фильм \"Свадьба\" Павлу Лунгина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "представлены"
+    },
+    {
+      "correctReplacement": "том",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

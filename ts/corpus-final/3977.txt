@@ -1,0 +1,25 @@
+{
+  "text": "мексиканские делегация уже посетила Россию , сейчас с вазитом в США находится министра внутренних дел России Владимир Рушайло .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Американская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "министр"
+    },
+    {
+      "correctReplacement": "Американские",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "визитом",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

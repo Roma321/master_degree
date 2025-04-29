@@ -1,0 +1,30 @@
+{
+  "text": "Олимпийского чемпиона по биатлону Александра Тихонова , которого обвиняли в причастности к покушению на губернатора Кемеровской области Амана Тулеева , переведённые в другого слетздвенное изолятор в 60 километрах от Новосибирска .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "следственный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "перевели"
+    },
+    {
+      "correctReplacement": "следственное",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

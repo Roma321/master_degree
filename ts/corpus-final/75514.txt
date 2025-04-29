@@ -1,0 +1,20 @@
+{
+  "text": "Соответствующий закон принят Госдумы в окончательной чтении в путаницу , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Госдумой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "окончательном"
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

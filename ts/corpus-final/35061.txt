@@ -1,0 +1,30 @@
+{
+  "text": "Как замечу министр , внутренний долг потребителей за энергоресурсы в настоящее времена оцунивается в 116 миллиарды белорусских рублей (1 долларе = 400 белорусских рублей) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "доллар"
+    },
+    {
+      "correctReplacement": "оценивается",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

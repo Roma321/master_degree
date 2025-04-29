@@ -1,0 +1,25 @@
+{
+  "text": "Из числа других наиболее успешных кандидатов планируюсь сформировать кадровую резерв для замещения должностей сотрудников аппарата ППП , региональных представителями федеральных мпнистерств и ведомств .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "кадровый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "представителей"
+    },
+    {
+      "correctReplacement": "министерств",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

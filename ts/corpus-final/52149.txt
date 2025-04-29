@@ -1,0 +1,25 @@
+{
+  "text": "По словам спикеров Совета Федерации , основное семой беседы стал рассмотрение \"новых подходов\" к формированию бюджета страны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "спикера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "основной"
+    },
+    {
+      "correctReplacement": "темой",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В густаве бостонцев отличились сразу две россиянина , Коваленко и Самсонов , забросим по одной шайбе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "забросившие"
+    },
+    {
+      "correctReplacement": "составе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

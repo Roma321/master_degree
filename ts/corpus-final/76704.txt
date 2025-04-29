@@ -1,0 +1,25 @@
+{
+  "text": "Магомету Чагучиев поставил также свидетельского потпись под исковым заявлением к английская компании \"Granger Telecom\" , подготовленным для передачи в суд адвокатами семей погибших .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Магомет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "английской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "свидетельскую"
+    },
+    {
+      "correctReplacement": "подпись",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

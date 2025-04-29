@@ -1,0 +1,25 @@
+{
+  "text": "В среду после тяжелой болезни скончаюсь известная российский военная журналист и публицист , контр-адмирал в отставкк Тимур Аркадьевич Гайдар .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "военный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "скончался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "известный"
+    },
+    {
+      "correctReplacement": "отставке",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

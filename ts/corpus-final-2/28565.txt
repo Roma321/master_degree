@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили РИА \"Новости\" в пресс-службе ОУВД Свердловских области , пострадавшие доставлена в больницу , на месте происшествия работают специалисты МВД и ФСБ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Свердловской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пострадавшая"
+    },
+    {
+      "correctReplacement": "ГУВД",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

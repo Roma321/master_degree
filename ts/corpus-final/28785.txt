@@ -1,0 +1,20 @@
+{
+  "text": "Напомню , что аналогичная поломка случилась с американской спутникового системой слежения пот Новый год . Проблема была вызвана не самой Ошибкой-2000 , а попыткой ее устранить .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "спутниковой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

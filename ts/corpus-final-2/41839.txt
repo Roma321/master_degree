@@ -1,0 +1,20 @@
+{
+  "text": "Минувшим днем с Москве был убито оператором государственной компании \"Австрийское радио и телевидение\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "оператор"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

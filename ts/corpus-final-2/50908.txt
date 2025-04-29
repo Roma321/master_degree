@@ -1,0 +1,20 @@
+{
+  "text": "В связи с анонимным звонком о заложенной взрывном устройстве были эвакуировавшие студенты и преподающиеся университета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заложенном"
+    },
+    {
+      "correctReplacement": "преподаватели",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

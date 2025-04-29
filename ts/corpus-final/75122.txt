@@ -1,0 +1,30 @@
+{
+  "text": "Ему сообщил , что назаседании фракции КПРФ в четверг состоявшийся детальное рмссмотрение этогозаконопроекта , после чего фракция и определишься , как голосующие .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "определится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "состоится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "голосовать"
+    },
+    {
+      "correctReplacement": "рассмотрение",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

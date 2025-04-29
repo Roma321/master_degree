@@ -1,0 +1,30 @@
+{
+  "text": "Частные же такси , практиковавшие почасовую оплату , в праздничные днями устанавливают договорные ценами , которые , кай показываю опыт прошлых лет , превышают обычный тариф по меньшей мере в три раза .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "показывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "практикующие"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

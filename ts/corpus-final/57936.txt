@@ -1,0 +1,20 @@
+{
+  "text": "С инициативами возведения амнистии к годовщине Победы выступило председатель комитета Госдумы по законодательству Павел Крашенинников .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "инициативой"
+    },
+    {
+      "correctReplacement": "проведения",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

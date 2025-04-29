@@ -1,0 +1,25 @@
+{
+  "text": "В понедельника прошло заседание Государственной Комиссии по Радиочастотам при Министерстве связи РФ с ужастиками представителей коммерческих операторов связи и различных ведомств , сообщающий информационный сайт CNews .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "участием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "участиями",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

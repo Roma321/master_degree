@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники милиции обнаружили 120килограмма пластита в районе железнодорожника депо в чеченской поселке Войково .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "чеченском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "120килограммов"
+    },
+    {
+      "correctReplacement": "железнодорожного",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

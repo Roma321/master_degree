@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщу корреспонденту ИТАР-ТАСС пресс-секретарь Кадырова Тауз Джабраилов , по автомобилям , в котором кроме шофера , находившиеся трое охранников , был открыто шквальный огонь из придорожных кустов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "автомобилю"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "открыт"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Легковой автомобиль был обстреляю неизменными из автоматического окужия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "обстрелян"
+    },
+    {
+      "correctReplacement": "неизвестными",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "оружия",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

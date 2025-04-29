@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC , по мнению ученых , причиной аварию можем быть ошибки программного обспечения либо случайные ошибки , упущенные людьми в процессе работы над проектом .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "аварии"
+    },
+    {
+      "correctReplacement": "допущенные",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В церемонии прощанию приняли участие и . о . президента России Владимир Путин и министр обороны Игорь Сергеев , которые специальный для этого приехавшие в Петербург .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "прощания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "приехали"
+    },
+    {
+      "correctReplacement": "специально",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

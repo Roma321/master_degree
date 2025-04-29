@@ -1,0 +1,30 @@
+{
+  "text": "На совещании полномочный представитель президента в Уральском округе Пётр Латышев доложу главе государства о ходе расследования убийства генеральной директором \"Уралмаша\" Олегом Белоненко .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "доложит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "директора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Олега"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Петр"
+    }
+  ]
+}

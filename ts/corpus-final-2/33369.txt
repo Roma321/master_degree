@@ -1,0 +1,20 @@
+{
+  "text": "Один из ними находится в удовлетворительном состоянии , однако сторожей - речевой самописец - сильно изуродован .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "них"
+    },
+    {
+      "correctReplacement": "вторых",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

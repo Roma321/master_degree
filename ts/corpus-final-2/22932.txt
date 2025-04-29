@@ -1,0 +1,20 @@
+{
+  "text": "Восемь человек погиб и четверо получили ранения в Швейцарии в результате столкновение двух вертолётов , упавших затем на футбольное поле , сообщает HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "correctReplacement": "вертолетов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Мошенник был заржавший в тот момент , когда предлагал гражданин Вьетнама приобрести лицензию на издание в российской столице газеты \"Пекинские новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "гражданину"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "задержавший",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

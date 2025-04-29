@@ -1,0 +1,25 @@
+{
+  "text": "Владимира Жириновский не на шутку озаботился проблемой прироста населения и намеренно радикально улучшить демографического сттуацию в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "демографическую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "намерен"
+    },
+    {
+      "correctReplacement": "ситуацию",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

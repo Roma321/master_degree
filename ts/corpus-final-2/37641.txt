@@ -1,0 +1,25 @@
+{
+  "text": "Несколько сложнее пришлось Евгению Кафельникову , которым , легко выиграв первый сеты у норвежца христианина Рууда - 6 : 1 , во втором победило лишь на тай-брейке - 7 : 6 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "победил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "который"
+    },
+    {
+      "correctReplacement": "Кристиана",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

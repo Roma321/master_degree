@@ -1,0 +1,20 @@
+{
+  "text": "В Лондоне появились сообщении о том , что испанский сцд может запретить проведение матча за шахматного корону между Гарри Каспаровым и Владимиром Крамником .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "шахматную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

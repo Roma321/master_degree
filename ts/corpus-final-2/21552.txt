@@ -1,0 +1,25 @@
+{
+  "text": "По его данным , прибыль банков Лихтенштейна по .ту причине в внешнем году мог снизиться более чем в два раза .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "нынешнем",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

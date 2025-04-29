@@ -1,0 +1,30 @@
+{
+  "text": "По данным израильских армейском радиостанции , Эхуд бардаком согласился на серьезные уступки по вопросу о палестинском контроле над Восточным Иерусалимом , и благодаря этому появившиеся серьезные шансы достижения обоюдно приемлемого соглашения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Барак"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "появились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "армейской"
+    },
+    {
+      "correctReplacement": "Бараком",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

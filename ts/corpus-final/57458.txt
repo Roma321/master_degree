@@ -1,0 +1,25 @@
+{
+  "text": "Ы результат находившийся в автомашине офицером получил седельное ранение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "офицер"
+    },
+    {
+      "correctReplacement": "смертельное",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

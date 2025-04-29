@@ -1,0 +1,25 @@
+{
+  "text": "В связи с дтим решением ИВЦ Октябрьского железных дороги \"получил распоряжение (ТЛГ НИС от 17 . 05 . 2000 №НР 2227) обеспечить полную изоляцию от сети Интернет , с 21 . 05 . 2000 доступ в Интернет закрыт\" , сообщают газета .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Октябрьской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "железной"
+    },
+    {
+      "correctReplacement": "этим",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

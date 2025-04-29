@@ -1,0 +1,25 @@
+{
+  "text": "Взрыв полностью разрушил двухэтажное кирпичное здание станции . К настоящим временем из-пою завалов извлечены два трупа , судьба еще одному работника станции пока неизвестна .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "времени"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "настоящему"
+    },
+    {
+      "correctReplacement": "из-под",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В ходе инспекции планируется уяснённые , применяюсь ли экипажами этих машин отклонения закрылков на нештатный угол при взлете .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "применяется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "отклонение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выяснить"
+    },
+    {
+      "correctReplacement": "выясненные",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

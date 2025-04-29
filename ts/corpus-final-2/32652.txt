@@ -1,0 +1,20 @@
+{
+  "text": "Супруга Поупа , которая в минувшего среду посещаемая мужа в следственном изоляторе \"Лефогтово\" , сообщила , что он выглядел \"очень уставшим\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "посещала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "correctReplacement": "\"Лефортово\"",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

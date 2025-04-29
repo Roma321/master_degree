@@ -1,0 +1,25 @@
+{
+  "text": "Организаторы международного теннисной турнира Australian Open 2000 пригрозившие , что попытки осветить событиям турнира на любых веб-сайтах , кроме официального сейта турнира , будут преследоваться в суде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "пригрозили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "события"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "теннисного"
+    },
+    {
+      "correctReplacement": "сайта",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

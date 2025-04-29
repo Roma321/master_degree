@@ -1,0 +1,25 @@
+{
+  "text": "Около полудня группа половы людей в масках ворвалась в помещение приёмному , расположившей на Большой Покровской улице , сообщу РИА \"Новости\" руководитель регионального движения \"Новая сила\" Алексей Лихачев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "приемной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "молодых",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениям словацких информационных агентства , во время перевозки Шустер перенесу учкническую смерть .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "перенес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "агентств"
+    },
+    {
+      "correctReplacement": "клиническую",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "ученическую",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

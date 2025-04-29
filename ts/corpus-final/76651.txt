@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает Агентство военных новостей со ссылкой на временный пресс-центр МВД Росаии на Северном Кавказах , в селе Побединское Грозненского сельского района задержаны Камаз , перевозивший 15 тонн сырой нефтей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Кавказе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

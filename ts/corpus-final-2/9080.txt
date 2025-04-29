@@ -1,0 +1,25 @@
+{
+  "text": "Машина подорвалась на двух радиоуправляемых фугасах в районе посёлок Черноречья на первом километром трассы Грозный - Урус-Мартан .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Черноречье"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "километре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поселка"
+    },
+    {
+      "correctReplacement": "посёлок",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

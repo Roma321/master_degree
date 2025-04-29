@@ -1,0 +1,25 @@
+{
+  "text": "В четверг около 6 часов утра в городе Волгодонске Ростовским областипроизошёл сильный взрыв между 9-этажной 6-подъездным жилым панельным домом по адресу Октябрьская шоссе , 35 и зданием местного РУВД .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Ростовской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Октябрьское"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "областипроизошел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "9-этажным"
+    }
+  ]
+}

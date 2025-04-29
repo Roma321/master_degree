@@ -1,0 +1,20 @@
+{
+  "text": "Клинтон сообщил также , что отдам распоряжение находящимся в регионе кораблям ВМС США \"покинуть порты\" , а наземным войскам \"повысить меру безопасности\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "меры"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отдал"
+    },
+    {
+      "correctReplacement": "наземным",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

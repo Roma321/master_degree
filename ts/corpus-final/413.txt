@@ -1,0 +1,25 @@
+{
+  "text": "Тщательный аудит не выявивший нарушений в деятельности этиз подразделившими .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "подразделений"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выявил"
+    },
+    {
+      "correctReplacement": "подразделениями",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

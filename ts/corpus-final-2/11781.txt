@@ -1,0 +1,25 @@
+{
+  "text": "На этот раз оно оказалось самой сильным из всех зарегистрированных за последнее время - из кратера начался выброс дымом и вулканическое пепла , которые поднимаются на высоту до 8 кубометров , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "вулканического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "дыма"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "самым"
+    },
+    {
+      "correctReplacement": "километров",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

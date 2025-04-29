@@ -1,0 +1,25 @@
+{
+  "text": "В настоящую время ведутся переговоры л предоставлениях Сбербанком России кредитов на сумму 750 млн руб .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "кредита"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "предоставлении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

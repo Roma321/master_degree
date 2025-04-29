@@ -1,0 +1,25 @@
+{
+  "text": "Однако ЦИК не согласился с идеей Жиринофского перенести рассмотрения вопроса о регистрации ЛДПР на более поздний срок , и принял вопросы крассмотрениям .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "крассмотрению"
+    },
+    {
+      "correctReplacement": "Жириновского",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

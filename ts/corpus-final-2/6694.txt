@@ -1,0 +1,25 @@
+{
+  "text": "В частности , лазари бантформирований создавшие несколько мобильных групп , \"передвигающихся на лошадях и машинах высоких проходимости\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "создали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "высокой"
+    },
+    {
+      "correctReplacement": "главари",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "бандформирований",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

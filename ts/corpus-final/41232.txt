@@ -1,0 +1,25 @@
+{
+  "text": "В ходе состоявшейся на эиой неделе встрече глав МИД Албании , Греции и Македонии , албанское министр Паскаль Мило заявил , что не придавший принадлежность этой территории к Югославии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "албанский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "признает"
+    },
+    {
+      "correctReplacement": "признавший",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Из неофициальных беседами с депутатами своей фракции Грызлова уже сейчас закончивоий , что никто не возражаешь против кандидатуры Михаила Касьянова на должность премьера .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "возражает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "бесед"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Грызлов"
+    },
+    {
+      "correctReplacement": "заключил",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "закончивший",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

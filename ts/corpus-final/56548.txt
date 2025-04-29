@@ -1,0 +1,20 @@
+{
+  "text": "Двоих сыновьям и внук работали на Воскресенском химкомбинатах , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сыновей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Двое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "химкомбинате"
+    }
+  ]
+}

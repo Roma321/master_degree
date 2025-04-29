@@ -1,0 +1,25 @@
+{
+  "text": "Если в среде Госдума принявший закону о новых порядке формирования Совета Федерации , через неделю его рассмотрит верхняя палата парламента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "новом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "закон"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "примет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "среду"
+    }
+  ]
+}

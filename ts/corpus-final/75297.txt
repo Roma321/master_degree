@@ -1,0 +1,25 @@
+{
+  "text": "За время своё существования это издание вошло в число лучших проектов 1998 гоьа по оценке журнала \"Интернет\" и улучившее одно из первых мест в рейтинге \"РОТОР\" за 1999 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "год"
+    },
+    {
+      "correctReplacement": "получило",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

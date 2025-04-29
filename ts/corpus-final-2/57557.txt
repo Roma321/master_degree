@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данных , пистолет был зарегистрирована как газовым , а позднее незаконно переделан под дроюовые патроны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "газовый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "зарегистрирован"
+    },
+    {
+      "correctReplacement": "дробовые",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

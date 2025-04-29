@@ -1,0 +1,25 @@
+{
+  "text": "В награду за это присяжные присудил выплатить Либек 2 миллиона 900 тысяч долларов , однако затем судья уменьшу сымку до 480 тысяч .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "присудили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "уменьшил"
+    },
+    {
+      "correctReplacement": "сумму",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "сумку",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

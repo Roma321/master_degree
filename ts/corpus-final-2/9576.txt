@@ -1,0 +1,35 @@
+{
+  "text": "В аппарата подчёркнутые , что в последнее время отмечается снижегию активностей боевиков , \"в частности , уменьшало количество обстрелов блокпостов федеральных войск\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркнули"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "снижение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "аппарате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "активности"
+    },
+    {
+      "correctReplacement": "уменьшилось",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "снижению",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

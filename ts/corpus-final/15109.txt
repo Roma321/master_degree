@@ -1,0 +1,25 @@
+{
+  "text": "Они заявили , что не будут посылать туда своих сотрудников - ни в контролируемую чеченцами ей , потому что это невозможно , ни в зону , занятую федеральным войсками , потому что в этом случае им попали бы под контроль Москвы - что противоречит уставу организации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "зону"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "федеральными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "зоной",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

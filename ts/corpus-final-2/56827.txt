@@ -1,0 +1,25 @@
+{
+  "text": "В четвертьфинальный матчах счат открыли шведские хоккеисты : в конце первого тайма отличившийся Мелин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "отличился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "четвертьфинальном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "матче"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

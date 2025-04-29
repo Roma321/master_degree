@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявивший директор Федеральной службе безопасности России Николай Патрушев в интервью глазеющих \"Комсомольская правда\" , которое будет опубликовано в среду .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "газете"
+    },
+    {
+      "correctReplacement": "газетах",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Мужчина был убит выстрелом в голову , женщина скончался от свойственных ранений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "скончалась"
+    },
+    {
+      "correctReplacement": "множественных",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

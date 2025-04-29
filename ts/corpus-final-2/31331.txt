@@ -1,0 +1,20 @@
+{
+  "text": "Шредер сообщил , что все получившие деньгу он отдаст в детские благотворительные фонды .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "полученные"
+    },
+    {
+      "correctReplacement": "детские",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

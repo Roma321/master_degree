@@ -1,0 +1,15 @@
+{
+  "text": "Против проголосовало 80 депутата , двое воздержалисб .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "correctReplacement": "воздержались",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

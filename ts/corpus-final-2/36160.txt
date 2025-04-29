@@ -1,0 +1,30 @@
+{
+  "text": "В это число входите не только спортсмены , но и официальные представители стрел с журналистах , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "входят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "журналисты"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

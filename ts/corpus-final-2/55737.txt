@@ -1,0 +1,25 @@
+{
+  "text": "Одна рабочего погиб и один пострадал в результате взрыва на Подольском заводе по переработке лома цветных металлы и сплавов , передаёшь \"Интерфакс\" со ссылкой на ГУВД Московской области .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "рабочий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "металлов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    }
+  ]
+}

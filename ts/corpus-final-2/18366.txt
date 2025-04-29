@@ -1,0 +1,25 @@
+{
+  "text": "Они предлагавшие рассмотреть на заседаниях Госдума в пятницу проект обращения российских парламентариев к президенту США Биллу Клинтону и Конгрессу с просьбой разрешившие им осмотреть лодку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предлагали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "разрешить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Госдумы"
+    }
+  ]
+}

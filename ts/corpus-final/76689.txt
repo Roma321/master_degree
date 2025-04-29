@@ -1,0 +1,20 @@
+{
+  "text": "\"Это открытие дает нового точку опоры для развития электроники , - завывший Ла Клэр корреспондентам журнала .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "корреспонденту"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "новую"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

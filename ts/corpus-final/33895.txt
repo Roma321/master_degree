@@ -1,0 +1,25 @@
+{
+  "text": "А по данным украинских телекинеза \"Интер\" , пострадавшие являются рабочимп этого фирмы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "украинского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "телеканала",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "рабочими",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

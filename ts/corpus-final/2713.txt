@@ -1,0 +1,20 @@
+{
+  "text": "Это соответствую количездву вредных выбросов в крупном немецкой городе с населением 300 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "немецком"
+    },
+    {
+      "correctReplacement": "количеству",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

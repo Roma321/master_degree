@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее , по данным CNN , американские политологи полагают , что плохая погода не является решающим фактором , дмвному чтобы люди имели политическую позицию , согласно которой они и голосующие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "голосуют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "главное"
+    },
+    {
+      "correctReplacement": "главному",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "давному",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

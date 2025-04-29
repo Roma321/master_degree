@@ -1,0 +1,30 @@
+{
+  "text": "Он отметили , что в республике не зафиксированы факов появления афганских талибов и эмиссаров из арабских стран , имеемых какое-либо отношения к Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "имевших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "зафиксировано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "отношение"
+    },
+    {
+      "correctReplacement": "фактов",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

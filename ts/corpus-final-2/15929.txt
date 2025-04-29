@@ -1,0 +1,25 @@
+{
+  "text": "В 1999 году КрАЗ произвёл 835 , 510 тысячи тонны товарного алюминия , что на 4 , 4 проценту больше , чем в 1988 годы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "произвел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "тонн"
+    },
+    {
+      "correctReplacement": "процента",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

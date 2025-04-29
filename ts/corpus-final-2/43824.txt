@@ -1,0 +1,20 @@
+{
+  "text": "Во вторники более тысячи человек собрались на митингу в техподдержку российского села и агропромышленного комплекса возле Дома правительства на Горбатом мосту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "митинг"
+    },
+    {
+      "correctReplacement": "поддержку",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

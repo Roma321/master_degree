@@ -1,0 +1,25 @@
+{
+  "text": "Тела с огнестрельрых ранениями находились в микроавтобусе неподалёку от административного границы с Ингушетией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "административной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "огнестрельными"
+    },
+    {
+      "correctReplacement": "неподалеку",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "огнестрельных",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

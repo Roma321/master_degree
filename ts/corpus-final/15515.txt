@@ -1,0 +1,15 @@
+{
+  "text": "Городского суд Санкт-Петербурга принял иск к рассмотрению , однако в итоге признал решение о переносе выборов зуконным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Городской"
+    },
+    {
+      "correctReplacement": "законным",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

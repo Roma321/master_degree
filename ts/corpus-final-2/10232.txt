@@ -1,0 +1,25 @@
+{
+  "text": "В аппарате помощника президентов России Сергея Ястржембского в настоящим время нроверяем информацию о столкновении на востоке Чечни федеральных сил с боевиками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "проверяют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "проверяем",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

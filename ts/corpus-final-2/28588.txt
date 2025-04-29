@@ -1,0 +1,25 @@
+{
+  "text": "Потом королеве при большом скоплении журналистах с камерами вручили букет , в котором , кроме желтйх цветов , оказался аще и конопля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "оказалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "желтых",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Пресс-центр украинскую националистической организации УНА-УНСО распространила сообщение о том , что на следующей неделе на Украине и в Белоруссии начатые работу еще три филиала информационной центра \"Свободный Кьвказ\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "информационного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "начнут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "украинской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "распространил"
+    },
+    {
+      "correctReplacement": "Кавказ\"",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

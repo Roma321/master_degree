@@ -1,0 +1,30 @@
+{
+  "text": "Уже в июне швейцарские следователи намерены предъявить обвинение по отмыванию деньгах в деле Mabetex пятерым лицам , подозреваемым в подкупе высокопоставленных чиновников в Кремле ради получения выгодных контрактов , сообщу журналистам Washington Post генеральный прокурора кантона Женева Бернары Бартосса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "прокурор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "денег"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "Бернар"
+    },
+    {
+      "correctReplacement": "июне",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

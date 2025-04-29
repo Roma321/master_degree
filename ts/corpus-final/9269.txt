@@ -1,0 +1,25 @@
+{
+  "text": "Клинтон похвалил болгар за поддержку акции НАТО против режима Милошевича , а также зи то , что во время Второй мирового войны Болгария защищало тысячи своих подданных еврейской национальность от нацистских лагерей , хотя была тогда союзником Германии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "защищала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "национальности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "мировой"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Взрыв радиоуправляемого взрывного устройства произошел в того момент , огда охранник открыл дверь подъезда дома , гдп жил предприниматель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "тот"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "где",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

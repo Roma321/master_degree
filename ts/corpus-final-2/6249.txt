@@ -1,0 +1,30 @@
+{
+  "text": "Указом устанавливается , вто руководители окружных подразделений и пх заместители - руководители органов предварительного следствия - назначаетесь и освобождающиеся от должности президентами России по представлению главы МВД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "назначаются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "освобождаются"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "их",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

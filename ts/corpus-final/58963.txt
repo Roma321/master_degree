@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , они провели внешнее обследование наиболее подозрительных участков орбитальном комплекса , демонтируют и доставят на борт экспериментальную тонкоплеочную солнечную батарею , проверят состояние тех солнечных батареи , которые установлены на корпусах мотыля \"Квант\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "орбитального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "батарей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проведут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "корпусе"
+    },
+    {
+      "correctReplacement": "модуля",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

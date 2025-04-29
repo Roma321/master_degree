@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники ФСБ и милиции устанавливают канал доставки отравленного водок , определяют круг лица , прокатных к данному делу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "водки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "отравленной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "лиц"
+    },
+    {
+      "correctReplacement": "причастных",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

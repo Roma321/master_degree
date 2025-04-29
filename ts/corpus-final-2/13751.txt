@@ -1,0 +1,25 @@
+{
+  "text": "гентом по рмзмещению еврооблигаций Москвы выступил сама Credit Suisse .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "выступит"
+    },
+    {
+      "correctReplacement": "Агентом",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "размещению",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

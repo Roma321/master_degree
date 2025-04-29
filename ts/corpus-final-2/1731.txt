@@ -1,0 +1,30 @@
+{
+  "text": "Наблюдатели отмечаемые , что инцидент мог оказать негативное влияние на ход передовых между президентом Клинтоном , премьер-министром Израиля Эхуда Бараком и лидером палестинцев Ясиром Арафатом , которые продолжаются в Кэмп-Дэвиде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "переговоров"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Эхудом"
+    },
+    {
+      "correctReplacement": "переговорах",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

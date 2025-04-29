@@ -1,0 +1,25 @@
+{
+  "text": "Ростовский АЭС станет составной частью Объединённого энергетической системы Северного Кавказа , которая обеспечивает энергоснабжением одинадцати объектов Российской Федерации с начелением 17 , 7 миллиона человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Ростовская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "энергоснабжение"
+    },
+    {
+      "correctReplacement": "субъектов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Когда военно это вещество было изготовившее и что с ним произошло после смерти Ибрахима бен Оуд , гезеты не сообщает .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "изготовлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Оуды"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "газета"
+    },
+    {
+      "correctReplacement": "именно",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "газеты",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

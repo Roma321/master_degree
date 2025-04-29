@@ -1,0 +1,25 @@
+{
+  "text": "По данным следствия , никем ранее не замеченный военная ракета сдетонировала от горящей трава , с шумом поднимусь из-под земли , пролетела около 30 метров , ударилась о забор и упали .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "поднялась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "замеченная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "упала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "травы"
+    }
+  ]
+}

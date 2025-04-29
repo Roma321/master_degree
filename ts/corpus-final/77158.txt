@@ -1,0 +1,30 @@
+{
+  "text": "Они заявили , что резкое увеличение импорта стального прута на американский рынок наношу удары по интересам производящихся стального продукции в ВША .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "наносит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "стальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "удар"
+    },
+    {
+      "correctReplacement": "производителей",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

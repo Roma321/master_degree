@@ -1,0 +1,20 @@
+{
+  "text": "Крупное автомобильная катастрофа произошёл в понедельник га юге Турции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Крупная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

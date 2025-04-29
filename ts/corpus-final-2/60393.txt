@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что на пошлой неделе в Старых Атагах был похищен сотрудник международного гуманитарную организации \"Врачи без границ\" Кеннет Глак .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "гуманитарной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "международной"
+    },
+    {
+      "correctReplacement": "прошлой",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

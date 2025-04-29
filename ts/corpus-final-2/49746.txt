@@ -1,0 +1,35 @@
+{
+  "text": "Союз журналистов России обратившийся к генеральным прокурору РФ Владимиру Устинову с просьбой рассмотреть воптос о привлечении глав Министерства печати михайло Лесина к уголовной ответственности за воспрепятствование профессиональной деятельности журналистов , сообщающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обратился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "генеральному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Михаила",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

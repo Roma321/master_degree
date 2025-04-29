@@ -1,0 +1,25 @@
+{
+  "text": "Скоро в Средиземное мореотправятся многоцелевая авианесущее группв , в состав которой вошедшие наш единственный авианосец \"Адмирал Кузнецов\" и два больших противолодочных корабля .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "войдут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "авианесущая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "мореотправится"
+    },
+    {
+      "correctReplacement": "группа",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

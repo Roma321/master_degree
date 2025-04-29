@@ -1,0 +1,25 @@
+{
+  "text": "По словам источника в 11-й территориальной выжидательной комиссии Калининского района , окончательный подсчёта голоса прибавивший к этому результату не более 1 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "прибавит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "подсчет"
+    },
+    {
+      "correctReplacement": "избирательной",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

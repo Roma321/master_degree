@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , не удовлетворяют руководство страны и положения , которые позволяющие налогоплательщику заявить , что средства , котбрыми он затрачивает на крупныепокупке , являются заемными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "крупныепокупки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "позволяют"
+    },
+    {
+      "correctReplacement": "которыми",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

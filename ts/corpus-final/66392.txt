@@ -1,0 +1,20 @@
+{
+  "text": "При осмотре мести происшествия саперы обнаружили полтора килограммов взрывчатого веществ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "вещества"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "килограмма"
+    },
+    {
+      "correctReplacement": "места",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

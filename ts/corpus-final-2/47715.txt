@@ -1,0 +1,25 @@
+{
+  "text": "Одной из причин падений курса акцизы ц четверг стали объявления компаний о снижении прогнозируемой прибыли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "падения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

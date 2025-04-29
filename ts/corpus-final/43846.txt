@@ -1,0 +1,25 @@
+{
+  "text": "Программа исследования поверхности будет заморожена до тех пор , пока человечездво не придумаю как безаварийно осуществлять посадки на Марсе , заявил доктора Карл Пилчер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "посадку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "доктор"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "придумает"
+    },
+    {
+      "correctReplacement": "человечество",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

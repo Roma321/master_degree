@@ -1,0 +1,20 @@
+{
+  "text": "После краткого ыеремонии встречи Владимир Путин и его супруга расписались в книге почетных гостя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "гостей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "краткой"
+    },
+    {
+      "correctReplacement": "церемонии",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

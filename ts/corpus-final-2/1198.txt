@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщилает Newsbytes , несмотря на то , что Судебные комитет Палаты представителей в этом году уже одобрила законопроект об увеличении числа виз H1-B , которые выдаются каждый год иностранным служащим , принятие акта тормозится конфликтами в компрессе и предвыборными политических играми .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Судебный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "одобрил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "политическими"
+    },
+    {
+      "correctReplacement": "Конгрессе",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

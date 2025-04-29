@@ -1,0 +1,20 @@
+{
+  "text": "Первом автобус с освобожденными выехал из тельмы Шикма на .ге Израиля на рассвете .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Первый"
+    },
+    {
+      "correctReplacement": "тюрьмы",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "юге",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

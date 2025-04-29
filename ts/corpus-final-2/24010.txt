@@ -1,0 +1,20 @@
+{
+  "text": "Взрыв паров топлива , саопившихся в насосный отсеке , произошел при запуске двигателя привода топливных насосов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "насосном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "скопившегося"
+    },
+    {
+      "correctReplacement": "скопившихся",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

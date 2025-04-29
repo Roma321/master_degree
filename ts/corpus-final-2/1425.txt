@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , опыта Бернстайн вкупе с его антрепренерскими неспособностями позволишь ему превосходно приспособившиеся к работе в новом качестве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Бернстайна"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "позволит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "опыт"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "приспособиться"
+    },
+    {
+      "correctReplacement": "способностями",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

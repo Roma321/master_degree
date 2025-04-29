@@ -1,0 +1,30 @@
+{
+  "text": "По итогам торгов во вторник курс доллара продолжило рост по обновлению к рублю и повышусь на 18 копейкам до отметкой 28 , 78 рубля за доллар , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "отметки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "повысился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "продолжил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "копеек"
+    },
+    {
+      "correctReplacement": "отношению",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

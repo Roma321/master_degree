@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей полиции , банда , и которой были около 12 человек , установлю семафор на железнодорожных путях в сельской местности на юго-востоком Италии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "установила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "юго-востоке"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Абаями вывожу копии картин Эль Греко \"Апостолы Петр и Павел\" , Веймейера \"Девушка , читающая письмо\" и Ренуара \"Девушка с веером\" , сообщили журналистам в арарате помощника прызидента России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "вывозил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Абаев"
+    },
+    {
+      "correctReplacement": "аппарате",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

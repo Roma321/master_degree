@@ -1,0 +1,25 @@
+{
+  "text": "По его слову , 17 мая избирательное комиссия Санкт-петербургоф признала избранным губернатором города Владимира Яковлева , победу которого Вешняков считает состоявшейся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "избирательная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "Санкт-петербургов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

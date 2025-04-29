@@ -1,0 +1,35 @@
+{
+  "text": "По его словам , тянуть с созданием юридически зарегистрированной и нормально действующей компаний .альше нельзя : \"любая побитый сейчас в Чечне нефти может быть объявлена незаконной , так как лицензия на ее добычи ни за кем не зафиксирована\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "добытая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "добычу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "добытый",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "дальше",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

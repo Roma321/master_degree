@@ -1,0 +1,20 @@
+{
+  "text": "Человек , обнаруживший \"Оскаров\" , немедленно сообщил о находке в полицию , и теперь рассчитывает получить вознаграждение в размерах 50 тысячи долларов , что почти в юри раза превышает стоимость самих статуэток .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "размере"
+    },
+    {
+      "correctReplacement": "три",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Он , в частностью , указал , что решённые вопросик о повышении уровень минимальной зарплаты для этой категории пенсионеров предстоят решать регионам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "решить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "уровня"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

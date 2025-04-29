@@ -1,0 +1,35 @@
+{
+  "text": "В прыжках с шестом с новым боливийским рекордом четыре метра 60 санитметра первое место выиграла Стейси Дражила из США , серебряной медали - у австралийских прыгуньи Татьяны Григорьевой - 4 , 55 метра , и \"бронза\" - у Вали Члосадоттир из Исландии - 4 , 50 метра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "австралийской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "медаль"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "санитметров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "серебряная"
+    },
+    {
+      "correctReplacement": "олимпийским",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Флосадоттир",
+      "type": "typo",
+      "wordNumber": 39
+    }
+  ]
+}

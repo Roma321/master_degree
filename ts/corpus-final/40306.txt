@@ -1,0 +1,20 @@
+{
+  "text": "Два сотрыдника милицией погибли и два получили ранений в результате обстрела из засады у станицы Ассиновской .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ранения"
+    },
+    {
+      "correctReplacement": "сотрудника",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Среднесуточное приросты цен в сентябре составили 0 , 033 процента по правлению с 0 , 031 проц в августах , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прирост"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Среднесуточный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "августе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "составил"
+    },
+    {
+      "correctReplacement": "сравнению",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

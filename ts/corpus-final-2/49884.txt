@@ -1,0 +1,30 @@
+{
+  "text": "А временной администрация Чечни , как оказавшееся , вообще не в курсе фотов , что на территории республики собираем какие-то подписи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "оказалось"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "собирают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "временная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

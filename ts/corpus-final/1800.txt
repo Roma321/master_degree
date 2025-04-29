@@ -1,0 +1,15 @@
+{
+  "text": "Текстологическая экспетриза подтвердила , что недавно найденное рукопись романа \"Тихиы Дон\" написана рукою Михаила Шолохова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "найденная"
+    },
+    {
+      "correctReplacement": "\"Тихий",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

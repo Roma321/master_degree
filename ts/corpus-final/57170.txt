@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , он придерживавшая деловые связи с известными в Петербурге братьями Шевченко , один из которых задержан правоохранительными органами , а другая находится в федеральном розыске .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "поддерживал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "другой"
+    },
+    {
+      "correctReplacement": "поддерживала",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

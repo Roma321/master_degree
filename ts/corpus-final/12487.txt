@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , глава государства работал с почтой и подносившая указ о единовременной компенсационной выплате пенсионеру .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "работает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пенсионерам"
+    },
+    {
+      "correctReplacement": "подписала",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники транспортной милиции Восточно-Сибирской железной дороги предотвратили терактом в Иркутскбй области , сообщаешь ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "теракт"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Иркутской",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

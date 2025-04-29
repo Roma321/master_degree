@@ -1,0 +1,30 @@
+{
+  "text": "В предвыборном штабе кандидата в депутаты сообщают , что эти листовки не имеем никакого отношение к этой претенденту на думские мандат иизготовившие неизвестными людьми .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "отношения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "думский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "иизготовлены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "имеют"
+    }
+  ]
+}

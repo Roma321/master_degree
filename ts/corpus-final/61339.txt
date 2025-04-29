@@ -1,0 +1,25 @@
+{
+  "text": "Часть долга в размере 200 миллионов долларах уже выделена Конгрессом , однако в ООН данная сумма не поступлю др сих портов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "поступила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "пор",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

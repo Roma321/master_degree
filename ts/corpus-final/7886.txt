@@ -1,0 +1,20 @@
+{
+  "text": "Президент Ингушетии поручивший также своией ревизионному управлению контроль за распределением гуманитарной помощи среди беженцев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своему"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

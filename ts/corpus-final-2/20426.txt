@@ -1,0 +1,20 @@
+{
+  "text": "По данным РИА \"Новости\" , полученных из кругов , близким к \"Медиа-Мосту\" , в Лондоне состоится совещание по поводу поэтической ситуациях , сложившейся вокруг переговоров с \"Газпромом\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "ситуации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "близких"
+    },
+    {
+      "correctReplacement": "критической",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

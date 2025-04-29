@@ -1,0 +1,20 @@
+{
+  "text": "По словам заместителя проктором Омской области Александра Кочергина , следствие шёл долго и тяжело , в том числе из-за пристального внимания к делу со стороны СМИ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "шло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "прокурора"
+    },
+    {
+      "correctReplacement": "прокурором",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

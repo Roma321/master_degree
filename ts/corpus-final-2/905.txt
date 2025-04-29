@@ -1,0 +1,20 @@
+{
+  "text": "Таком образом суд оставили в силе решение Бабушкинского муниципального суда города Москвы , оправдавшего Чернова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "оставил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "correctReplacement": "межмуниципального",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

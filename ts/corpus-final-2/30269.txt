@@ -1,0 +1,35 @@
+{
+  "text": "В частности , суда рассматриваемый Здановича как частное лицо , тогда как он был приглашён на телепередачи Сергея Доренко как официальные представитель ФСБ России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "телепередачу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "рассматривал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "приглашен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "официальный"
+    },
+    {
+      "correctReplacement": "лицо",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

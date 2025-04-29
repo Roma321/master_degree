@@ -1,0 +1,20 @@
+{
+  "text": "McDonnell Douglas еще в апреле 1995 года известила правительство США о допущенном китайскую стороной нарушении прописанной соглашения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подписанного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "китайской"
+    },
+    {
+      "correctReplacement": "подписанной",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

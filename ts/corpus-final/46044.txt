@@ -1,0 +1,20 @@
+{
+  "text": "Эксперты отмечающие , что цеха подпольного предприятия оснастифшие самым современным оборудованием стоимостью в несколько миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "оснащены"
+    },
+    {
+      "correctReplacement": "оснастившие",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

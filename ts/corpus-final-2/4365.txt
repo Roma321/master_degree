@@ -1,0 +1,20 @@
+{
+  "text": "Напомните , что президент США Билл Клинтон уехало во фторник из Кемп-Дэвида на похороны друга .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "уехал"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Астахов сообщённый , что в пятницц суд рассмотрит ходатайство защиты о проведении комплексного ельцинской экспертизы физических состояния Поупа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "комплексной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "физического"
+    },
+    {
+      "correctReplacement": "медицинской",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

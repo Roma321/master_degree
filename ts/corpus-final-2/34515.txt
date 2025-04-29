@@ -1,0 +1,20 @@
+{
+  "text": "Генеральное директор Московского филилала фирмы г-н Керносов эти данные не отрицаемый , но и не объясняет , потому в таком случае строители не получают эти деньги в полном объеме .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "отрицает"
+    },
+    {
+      "correctReplacement": "почему",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

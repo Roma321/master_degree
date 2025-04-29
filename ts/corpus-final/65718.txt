@@ -1,0 +1,20 @@
+{
+  "text": "Один человеч погибли и 11 получили ранения в результате взрыва на заводе по производству азотосодержащих удобрений в штате Луизианы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Луизиана"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

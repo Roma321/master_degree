@@ -1,0 +1,30 @@
+{
+  "text": "По его мнению , решение ПАСЕ молно объяснённые недостаточного информированностью парламентариев о событии на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "объяснить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "событиях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "недостаточной"
+    },
+    {
+      "correctReplacement": "можно",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "мощно",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

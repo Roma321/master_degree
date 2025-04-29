@@ -1,0 +1,15 @@
+{
+  "text": "Мама мальчика вернулось домой и со слезами на глазах благодарила пожарных и соседей , поднявшиэ тревогу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "вернулась"
+    },
+    {
+      "correctReplacement": "поднявших",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

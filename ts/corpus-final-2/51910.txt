@@ -1,0 +1,20 @@
+{
+  "text": "По словам сотрудников пожарной охраны , предыдущий пожар был полностью покушавший и не мог стать причиной нынешней .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "потушен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "correctReplacement": "потушивший",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

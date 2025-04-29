@@ -1,0 +1,25 @@
+{
+  "text": "Предполагается , что ежемесячно 20 экспертов по СМИ из Москвы и российского регионов будут называющие имена шестерых недругов прессы , причем это могущие быть не только чиновники любого масштаба .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "называть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "российских"
+    },
+    {
+      "correctReplacement": "любого",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

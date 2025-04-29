@@ -1,0 +1,25 @@
+{
+  "text": "Замминистра указал , что железных дороги вынуждены компенсировать убытки от пассажирок перевозок за счет доходов от грузовых перевозками , что веду к увеличению тарифов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "перевозок"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "железные"
+    },
+    {
+      "correctReplacement": "пассажирских",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

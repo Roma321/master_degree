@@ -1,0 +1,35 @@
+{
+  "text": "По словам Мирзаянца , 17 октябрч 1994 год с утра он находилось в части , а затем поехал в Калининград , где на следующий день должок был обеспечивать охрану прибывающих туда министра обороны Павлов Грачева .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "прибывающего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "находился"
+    },
+    {
+      "correctReplacement": "должен",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "октября",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

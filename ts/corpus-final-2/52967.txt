@@ -1,0 +1,25 @@
+{
+  "text": "Первой болливудского звездой , чьеы восковая фигура появлюсь в лондонском музее восковых фигур мадам Тюссо , будет Амитабх Баччан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "болливудской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "чья"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "появится"
+    },
+    {
+      "correctReplacement": "чьей",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

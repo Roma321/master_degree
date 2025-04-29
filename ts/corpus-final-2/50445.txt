@@ -1,0 +1,25 @@
+{
+  "text": "Целью демонстрантов бала установленная на площади рождественская ёлки , которую Папа Иоанн Павел Второго получил в подарок от лидера австрийских националистов Йорге Хайдера .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Второй"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "елка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Йорга"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

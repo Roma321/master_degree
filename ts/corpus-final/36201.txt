@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям штаба Объединенной группировки , в Шатое находятся главные силе боевиков - до четырех с половиной тыжяч люди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "силы"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

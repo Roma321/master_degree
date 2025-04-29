@@ -1,0 +1,25 @@
+{
+  "text": "Как рассказанная сама Бессинджер журфаку Focus , ее муш - актер и активист демократической партии Алек Болдуин твердо намерен покинуть страны в случае прихода к власти Джорджа Буша .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "рассказала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "страну"
+    },
+    {
+      "correctReplacement": "журналу",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "муж",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

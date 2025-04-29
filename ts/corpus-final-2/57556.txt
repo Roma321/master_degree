@@ -1,0 +1,20 @@
+{
+  "text": "Пострадавший подросток со слепым ранением шею госпитализиеованы в тяжелом состоянии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "шеи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "correctReplacement": "госпитализированы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

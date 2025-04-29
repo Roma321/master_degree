@@ -1,0 +1,30 @@
+{
+  "text": "Он считаешь , что отсутствие у ряд абонентов учета и оплат исходящих соединений при наличии СПУС приведет к тому , что одни будут звонить другим с просьбой перезвонить , в результате чтома загрузка сети только возрастет и всей затея потеряет свой изначальный смысл .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "вся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ряда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "оплаты"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

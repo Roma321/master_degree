@@ -1,0 +1,20 @@
+{
+  "text": "В случае транзитных поездок следует предъявлять действительная билет в целевую страну и , в сьучае необходимости , действительную въездной визу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "въездную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "действительный"
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

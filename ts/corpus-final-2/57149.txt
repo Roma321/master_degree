@@ -1,0 +1,25 @@
+{
+  "text": "Не лучше обстоим демые у производителей серверного оборудования : акции Cisco упавшие в цене на 12 , 91% , Sun Microsystems - на 8 , 74% , Qualcomm - на 14% Д",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "упали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "обстояли"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

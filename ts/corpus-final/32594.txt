@@ -1,0 +1,30 @@
+{
+  "text": "Оперативники задержавшие 27-летнего ингуша А . С . Решедова , 30-летнего чеченку С . Д Ю Джамбулатову , 30-летнюю чеченку Л . Х . Джанхаеву , 24-летних кумыка Х . И . Атаева и 26-летней кумыка А . Г . Абдурашидова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "26-летнего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "задержали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "30-летнюю"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "24-летнего"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

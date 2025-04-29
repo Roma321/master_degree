@@ -1,0 +1,25 @@
+{
+  "text": "Израильские СМИ заявляет , что такими образом вялость стремятся оградившие Израиль от проникновения нелегальных иностранных рабочего .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "рабочих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "оградить"
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

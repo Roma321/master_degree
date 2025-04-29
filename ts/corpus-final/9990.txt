@@ -1,0 +1,20 @@
+{
+  "text": "Второй номер избирательного списка \"Медведя\" , борец александер Карелин в прошлом году заработало 225 тысячи 401 рубль .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "заработал"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

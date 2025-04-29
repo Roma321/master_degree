@@ -1,0 +1,30 @@
+{
+  "text": "Антитеррористический суд в Карачи в среду в третий раз отложила оглашение обвинительного заключения по делом смещенного пакистанского премьера Наваза Шарифа , его брета и пяти высочайшими чиновников высокого ранга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "бывших"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "отложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "делу"
+    },
+    {
+      "correctReplacement": "бывшими",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "брата",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "ясли закон будет утвержден Сенатом , то компании , имеющие более 20 сотрудников , начнут сокращать рабочую недели с 1-х января .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "1-го"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "неделю"
+    },
+    {
+      "correctReplacement": "Если",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

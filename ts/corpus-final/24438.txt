@@ -1,0 +1,20 @@
+{
+  "text": "В УВД отказался комментировать происшездвию , отметив , что следствие ведет УФСБ по Краснодарскому краю .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отказались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "происшествие"
+    },
+    {
+      "correctReplacement": "происшествию",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

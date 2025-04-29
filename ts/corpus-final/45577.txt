@@ -1,0 +1,25 @@
+{
+  "text": "Хетагуров утверждает , что все деньги уже перечислены и правительство Россию не должно правительствам Ингушптией ни копейки , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Ингушетии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "правительству"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "Ингушетией",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

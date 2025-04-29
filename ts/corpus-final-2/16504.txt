@@ -1,0 +1,30 @@
+{
+  "text": "Любую перемещение по стране или вне ее , смене владельца , рождение и смерть регистрирующиеся в Британского службе контроля за перемещении скота (BCMS - British Cattle Movement Service) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "смена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "перемещением"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Любое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Британской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "регистрируются"
+    }
+  ]
+}

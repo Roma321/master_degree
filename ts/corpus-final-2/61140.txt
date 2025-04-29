@@ -1,0 +1,25 @@
+{
+  "text": "Полиции уверена , что сайт некой известной фирмы в конце прошлого года взламывал именно Пимпшиц , но не до концов уверена , что именно этот подростку им является , хотя он сам об этом заявляю .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 34,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Полиция"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "конца"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "подросток"
+    }
+  ]
+}

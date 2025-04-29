@@ -1,0 +1,35 @@
+{
+  "text": "Однако , пишешь Nando Times , этот программный продукт сильно затруднённый отслеживание правонарушителей , используемых Интернет - от сравнительно безвредных спамеров до владельцев сайтов с детского порнографиями и пиратскими копиями программного обеспечения .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "пишет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "затруднит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "детской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "порнографией"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "использующих"
+    },
+    {
+      "correctReplacement": "безобидных",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

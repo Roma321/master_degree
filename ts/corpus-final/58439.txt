@@ -1,0 +1,30 @@
+{
+  "text": "Студенты заявляют , что ассигнования на высшую школу недостаточны , и это ведущий к отмене курсами , тесноте в аудиториях и к нехватке необходимых книги ь компьютерного оборудований .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "оборудования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "книг"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "курсов"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

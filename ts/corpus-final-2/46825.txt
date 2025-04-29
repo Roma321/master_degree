@@ -1,0 +1,25 @@
+{
+  "text": "Обращение аже подписали многие посетители сайта , в том число известные журналисты как сетевых , так и \"традиционных\" СМИ , а также человек , подписавшиеся как научные руководитель Высшей школы экономики Евгений Ясин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "научный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "подписавшийся"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

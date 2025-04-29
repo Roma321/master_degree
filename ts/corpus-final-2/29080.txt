@@ -1,0 +1,35 @@
+{
+  "text": "По словам Гидеона Меира , заместителя генерального директора службы по вязям с общественностью МИД Израиля , такой образ создаётся впечатления , что CNN рассматривает события с точке зрения Палестины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "впечатление"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "создается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "точки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "образом"
+    },
+    {
+      "correctReplacement": "связям",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

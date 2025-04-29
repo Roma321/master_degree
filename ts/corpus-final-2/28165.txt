@@ -1,0 +1,20 @@
+{
+  "text": "Джеки Чан снимался в многочисленных фильмах , сочетающего в себе жане боевиком и комедии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сочетающих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "боевика"
+    },
+    {
+      "correctReplacement": "жанр",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

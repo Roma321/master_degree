@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудник Управления уголовного розыска Санкт-Петербурга ликвидируем преступную группировку , совершу шесть разбойных нападений на гоночные магазины в различных районах города .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "совершившую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "ликвидировали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сотрудники"
+    },
+    {
+      "correctReplacement": "ночные",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

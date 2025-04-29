@@ -1,0 +1,25 @@
+{
+  "text": "По неизвестной пока причинам стюардесса задержалась на взлетной полосе и на нее наехало снегоочистительная марица , расчищаемая полосу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "причине"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "наехала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "расчищавшая"
+    },
+    {
+      "correctReplacement": "машина",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

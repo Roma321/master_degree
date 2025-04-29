@@ -1,0 +1,35 @@
+{
+  "text": "Неизвестные разместившие на главной страницей сайта сообщения о том , что \"Сервер www . ldpr . ru взломан труппой Чукотским Хакеров в знак поддержке ведущего Политического Кренделя\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "странице"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "разместили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Чукотских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "поддержки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сообщение"
+    },
+    {
+      "correctReplacement": "группой",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

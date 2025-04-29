@@ -1,0 +1,25 @@
+{
+  "text": "По информации газеты Washington Post , по крайнему мере один из пользователей AOL подтвердила , что номер его кредитной карты был украшавший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "украден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "крайней"
+    },
+    {
+      "correctReplacement": "укравший",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

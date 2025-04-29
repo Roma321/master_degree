@@ -1,0 +1,25 @@
+{
+  "text": "19 январь в таможенной зонах аэропорта \"Шереметьево\" были задержаны два бельгийца , пытавшегося выцезти в ФРГ 9259 обработанных и необработанных алмаза общим весом свыше полукилограмма .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "зоне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пытавшихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "вывезти",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

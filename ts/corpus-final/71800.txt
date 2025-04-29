@@ -1,0 +1,20 @@
+{
+  "text": "Ранее \"Интерфакс\" передал , что во вторник в 12 : 20 на пульс дежурного по городу Москве позвонил неизвестный и сообщил о готовящихся теракте против посольздва Сирии в России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "готовящемся"
+    },
+    {
+      "correctReplacement": "пульт",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "посольства",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

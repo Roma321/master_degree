@@ -1,0 +1,25 @@
+{
+  "text": "Бывшая премьер напомню , что благодаря их работе в торгово-экономическом балансе Россией США вышли на второе место после Германии , а по совокупности инвестиционного капитала американские компании занимают первое место .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "correctReplacement": "инвестиционного",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

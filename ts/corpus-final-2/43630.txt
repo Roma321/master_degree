@@ -1,0 +1,30 @@
+{
+  "text": "Две морскими реактивные глубмнные бомбы найдены в понедельник вечером во Владивостоках неподалеку от жилых кварталов на берегу бухты Тихого , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "морские"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Тихой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Владивостоке"
+    },
+    {
+      "correctReplacement": "глубинные",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

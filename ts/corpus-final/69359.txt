@@ -1,0 +1,20 @@
+{
+  "text": "Решением того же совета директоров на место гендиректора назначен Александр Романа , ранее занимавший пост вице-президента нефтяного уомпании \"Роснефть\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Романов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

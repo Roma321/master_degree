@@ -1,0 +1,30 @@
+{
+  "text": "В качестве примеров подобных просчётами в нынешней чеченской кампании генерал назвал недостаточному вниманию к проведению комплексной разведки , в том числе воздушной , наземной и гидротехнической , а также к быстрому доведегию ее данных до воюющих подразделений федеральных сил .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "просчетов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "недостаточное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "внимание"
+    },
+    {
+      "correctReplacement": "радиотехнической",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "доведению",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

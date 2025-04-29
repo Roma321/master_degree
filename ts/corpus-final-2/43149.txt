@@ -1,0 +1,25 @@
+{
+  "text": "Заместитель министра внутренних дел Якутии Олег Кондратьев подтвердила , что на месте трагедии обнаружим десять трупах , а дом и гараш сгорели дотла .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "трупов"
+    },
+    {
+      "correctReplacement": "гараж",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

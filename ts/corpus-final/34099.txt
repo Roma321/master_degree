@@ -1,0 +1,25 @@
+{
+  "text": "Свыше 938 тысяч подписях из \"забракованных\" не содержали необходимых по федеральной закону \"О рефррендуме РФ\" полной дата рождения подписавшегося гражданина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "федеральному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "даты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "подписей"
+    },
+    {
+      "correctReplacement": "референдуме",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

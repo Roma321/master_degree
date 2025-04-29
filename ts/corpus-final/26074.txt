@@ -1,0 +1,20 @@
+{
+  "text": "Такое распоряжение подписала Юрмй Лужковы , сообщили 21 января журналистам РИА \"Новости\" в пресс-центре мэрии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

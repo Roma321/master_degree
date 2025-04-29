@@ -1,0 +1,20 @@
+{
+  "text": "Он заметил тагже , что вопросик о назначении Кадырова решил его лично .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

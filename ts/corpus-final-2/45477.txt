@@ -1,0 +1,20 @@
+{
+  "text": "На друлом сайте он обещанный потенциальной убийце уже 25 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обещал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "потенциальному"
+    },
+    {
+      "correctReplacement": "другом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

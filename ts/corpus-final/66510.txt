@@ -1,0 +1,20 @@
+{
+  "text": "Движение транспорта на Каменной мосту было перекрывшее на несколько часоф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "перекрыто"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Каменном"
+    },
+    {
+      "correctReplacement": "часов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

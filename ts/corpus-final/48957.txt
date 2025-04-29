@@ -1,0 +1,30 @@
+{
+  "text": "2 сентябрей 1955 гога он был осудивший за антисоветскуюагитацию и пропаганду , а также за злоупотребление служебнымположением и преступную халатность к восьми годам лишениясвободы с поражениями политических прав на две года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сентября"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "поражением"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

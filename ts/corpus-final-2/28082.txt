@@ -1,0 +1,30 @@
+{
+  "text": "Президент США Билл Клинтон пковожу экстренную совещание в Белом дом , в котором принимают участие рассекретивший США Мадлен Олбрайт , министр обороны Уильям Коэн , советник президента по нацинальной безопасности Сэмюэль Бергер и другие его помощники .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "проводит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "экстренное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "доме"
+    },
+    {
+      "correctReplacement": "госсекретарь",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "провожу",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

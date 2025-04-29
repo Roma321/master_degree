@@ -1,0 +1,30 @@
+{
+  "text": "Экологической катастрофы удалось избежать - растворы не попаду в водой протекающих в районе предприятия рек , сокбщённый журналистам председатель Совета директоров грузинского предприятия \"Кварцит\" Зураб Лобжанидзе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "раствор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "попал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "воду"
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

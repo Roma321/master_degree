@@ -1,0 +1,30 @@
+{
+  "text": "Теперь она не ходят на работу , а сидит дома м пишет анонимок по заявкам измученных коллег , каждую недели она отправляемый по 70 или более писем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "отправляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ходит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "анонимки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "неделю"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

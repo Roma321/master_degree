@@ -1,0 +1,25 @@
+{
+  "text": "Совокупный доходом семьи составляю немногим более 3 тысяч рублей в сесяц , и в свободное от службы время подполковник вынуждено был подрабатывать всеми возможными способами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "составлял"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "вынужден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "доход"
+    },
+    {
+      "correctReplacement": "месяц",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

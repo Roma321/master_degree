@@ -1,0 +1,30 @@
+{
+  "text": "Генеральный щиректор получил два ранения в голову : одна пуля прошла насквозь , другая растаявший в основании головным мозгов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "мозга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "головного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "застряла"
+    },
+    {
+      "correctReplacement": "застрял",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "директор",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Месяц назад , по словам командующего , российскими десантниками был такое тяжело ранен главарп иностранных наёмники международный террорист Хаттаб .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "главарь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "наемников"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "главари",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

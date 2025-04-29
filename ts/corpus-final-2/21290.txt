@@ -1,0 +1,25 @@
+{
+  "text": "Также в Ведено на окраине кладбища обнаружифший тайник , в котором хранилось 700 граммы тротила , шесть ручных гранат , патроны к автомата Калашникова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "автомату"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "граммов"
+    },
+    {
+      "correctReplacement": "обнаруживший",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

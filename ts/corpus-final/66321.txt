@@ -1,0 +1,20 @@
+{
+  "text": "Американские специалисты опасаются , что новый варус окажется особенно вредоносным в связи с тем , что его появлению пришлось на конец рабочего недели .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "появление"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "correctReplacement": "вирус",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

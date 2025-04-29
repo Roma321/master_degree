@@ -1,0 +1,20 @@
+{
+  "text": "Каждые 15 минут агенты посылает друзья другу IP-пакеты , после чего система замеряет время прохождения пакетов по каждом маршруту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "друг"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "посылают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "каждому"
+    }
+  ]
+}

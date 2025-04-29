@@ -1,0 +1,20 @@
+{
+  "text": "Индекс Nasdaq Composite после открытия биржевого рынка в США в среду упал на 5 , 5 процента , индекс Dow Jones Industrial угадавший на 1 , 5 процент .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "упал"
+    },
+    {
+      "correctReplacement": "упавший",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

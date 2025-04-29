@@ -1,0 +1,35 @@
+{
+  "text": "Кражи была совершена на вокзале , где мелкий жулик Дэвид Джон Стоун , воспользуюсь тем , что сотрудник министерства отвлекся для покцпки билетов , схватили его лэптопа и скрылось в толпе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "воспользовавшись"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "схватил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "лэптоп"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Кража"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "скрылся"
+    },
+    {
+      "correctReplacement": "покупки",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

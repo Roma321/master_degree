@@ -1,0 +1,25 @@
+{
+  "text": "Как объяснили агентству источники в дальневосточных парламенте , решение принята простым большинством , тогда как по регламенту проголосовать за снятия спикера могут толика две трети депутатов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "снятие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дальневосточном"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

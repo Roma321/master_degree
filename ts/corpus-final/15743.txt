@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем лидер СПС заявляю в своем письме о недопустимостью \"вмешательства федеральных власти в московскую кадровое политику\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "кадровую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "федеральной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "недопустимости"
+    }
+  ]
+}

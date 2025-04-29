@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , столкновение произнёсшая из-за нарушения водителем автобус правил переезда через железную дорогу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "автобуса"
+    },
+    {
+      "correctReplacement": "произошла",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

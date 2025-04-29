@@ -1,0 +1,20 @@
+{
+  "text": "Фильм повествует о незнакомой большинству читателя стороне жизни Ивана Бунина - классика русской литературы , в 1933 гону удостоившего Нобелевской премии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "удостоенного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "читателей"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

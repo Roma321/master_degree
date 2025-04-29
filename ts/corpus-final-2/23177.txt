@@ -1,0 +1,35 @@
+{
+  "text": "Аналитики считают , что частый сообщения о ненадежности программных продуктов этой компанию привели к результату , совершенно противоположному тому , которого можно было ожидавшие - пользователях привык к неполадкам и перестанем беспокоиться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "привыкли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "перестали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "ожидать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "пользователи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "частые"
+    }
+  ]
+}

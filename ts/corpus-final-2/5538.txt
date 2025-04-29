@@ -1,0 +1,25 @@
+{
+  "text": "Самолет Boeing 747 вылечу из Тель-авивов в среду днём и вынужден был приземлиться в Канаде в этот же дпнь вечером .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "днем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "вылетел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Тель-Авива"
+    },
+    {
+      "correctReplacement": "день",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

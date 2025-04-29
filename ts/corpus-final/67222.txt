@@ -1,0 +1,20 @@
+{
+  "text": "Тексты содержат грубые нарушений норм украинского правописании , орфографические и стилистические ошипки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "правописания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "нарушения"
+    },
+    {
+      "correctReplacement": "ошибки",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

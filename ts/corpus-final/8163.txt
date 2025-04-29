@@ -1,0 +1,35 @@
+{
+  "text": "Вместе с тем он выражу надежду на то , что вслед за вето последует указ президента о повышении минимальной оплаты труа : \"пусть не на такую суммы , как предусматривает наш законопроекту , но минимальная зарплатой должна быть все-таки повышена\" . уже сообщала Lenta . Ru",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "законопроект"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "зарплата"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "сумму"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "выразил"
+    },
+    {
+      "correctReplacement": "трудов",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

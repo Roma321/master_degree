@@ -1,0 +1,30 @@
+{
+  "text": "Кроме Кэмерона на право полететь на станцию претендует американский миллионеры Деннис Тито , кторого уже сделало пеевый взносы за свою подготовку в Центре подготовки космонавтов имени Гагарина и двухнедельный полет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "миллионер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "кторый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "первые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сделал"
+    },
+    {
+      "correctReplacement": "первый",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

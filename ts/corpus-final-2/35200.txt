@@ -1,0 +1,30 @@
+{
+  "text": "Наши билетеры пришедшие по рядам и соьранные этой скромной сумму\" , - передает ее слова РИA \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "собрали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "скромную"
+    },
+    {
+      "correctReplacement": "прошли",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "собранные",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

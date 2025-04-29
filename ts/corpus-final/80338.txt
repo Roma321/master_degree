@@ -1,0 +1,20 @@
+{
+  "text": "Один рассказавший , что перевозили взрывчатку в то место , где ею \"начинили\" машину , а фторой - что подобрал водителя-смертника .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "перевозил"
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

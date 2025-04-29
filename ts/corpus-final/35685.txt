@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , сегодня курс достигнутый рекордного значения за всю историю утренних торгов , это стало следствием сохраняющегося спроса на валюта со стороны коммерческих банков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "валюту"
+    },
+    {
+      "correctReplacement": "торгов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

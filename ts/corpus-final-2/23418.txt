@@ -1,0 +1,25 @@
+{
+  "text": "В афганском посольстве в Москве это отрицающие , а МИД России этими слухи не подтвердил и не опроверг , однако , как заметила в российский внешнеполитическом ведомстве , Раббани мог приехать как частное лицо , например , для лечения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "российском"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отрицают"
+    },
+    {
+      "correctReplacement": "заметили",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

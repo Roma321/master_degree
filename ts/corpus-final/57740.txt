@@ -1,0 +1,20 @@
+{
+  "text": "По горячим следам в городе был изъявленный план \"Сирена\" , я ходе которого преступника удался задержать .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "объявлен",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

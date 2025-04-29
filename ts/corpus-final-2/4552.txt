@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник террористы баскской экстремистской организации ЕТА взорвали автомобилю около дома сенатора от правящей Народной партии вгород Гетчо в Страной бамков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "вгороде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "автомобиль"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Стране"
+    },
+    {
+      "correctReplacement": "басков",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

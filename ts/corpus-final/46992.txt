@@ -1,0 +1,25 @@
+{
+  "text": "В результате было возбуждён уголовную дело по трем статье Укрфе - за незаконное предпринимательство (ст . 171) , незаконнуюбанковскую деятельность (ст . 172) и лжепредпринимательство(ст . 173) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "статьям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "УКРФ"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "25 августа , после того как агенты ФБР признали , что использовали в Уэйкое взрывоопасный газ , Рино затаившая , что министерство юстиции начинающий новое расследования этой истории .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "начинает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "расследование"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Уэйко"
+    },
+    {
+      "correctReplacement": "заявившая",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

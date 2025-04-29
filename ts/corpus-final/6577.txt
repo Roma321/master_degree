@@ -1,0 +1,20 @@
+{
+  "text": "Второго танкер усиленного ледовой класса \"Магас\" , построенный по заказу нефтянка компании \"ЛУКОЙЛ\" , спущен на воду в Санкт-Петербурге на судостроительном заводе \"Адмиралтейские верфи\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Второй"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ледового"
+    },
+    {
+      "correctReplacement": "нефтяной",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

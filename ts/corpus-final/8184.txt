@@ -1,0 +1,20 @@
+{
+  "text": "Пуски ракет , указала собеседник , были проведены в соответствующем с планом боевой подготовке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "указал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "correctReplacement": "соответствии",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявил на слстоявшейся сегодня брифинге встоличном ГУВД заместитель начальника управления генерал-майормилиции Александру Вельдяев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "состоявшемся"
+    },
+    {
+      "correctReplacement": "состоявшейся",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

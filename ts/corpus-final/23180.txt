@@ -1,0 +1,30 @@
+{
+  "text": "В Бельгию машины приходят прямо с ВАЗа , поэтому ценами невысоки и они довольно неплохо продавались . 110-я модель стоит 300 тысяч бельгийских франков , или околовосьми тысячи долларов , что на сегодня является самой низким ценами на автомашины на бельгийском рынке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "ценой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "продаются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "низкой"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Руководитель Олимпийской движения Хуан Антонио Самаранч вернулось из Барселоры в Сидней .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Олимпийского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "вернулся"
+    },
+    {
+      "correctReplacement": "Барселоны",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

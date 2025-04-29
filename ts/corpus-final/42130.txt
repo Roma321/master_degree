@@ -1,0 +1,30 @@
+{
+  "text": "Если суд будет проходить в России , считаешь депутаты Госдумой , представители журнала заявят , что \"Березовский клординировавший суд\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "депутат"
+    },
+    {
+      "correctReplacement": "коррумпировал",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "координировавший",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным правоохранительного органов , практически во всех случаых трагедии происшедшие в результате злоупотребления спиртными напитками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "correctReplacement": "произошли",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "случаях",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

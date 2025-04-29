@@ -1,0 +1,25 @@
+{
+  "text": "Он подчеркнул , что существующее мораторий оформлю не в виде загона , а в виде укада президента .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "оформлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "существующий"
+    },
+    {
+      "correctReplacement": "закона",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "указа",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

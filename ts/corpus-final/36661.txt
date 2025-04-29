@@ -1,0 +1,25 @@
+{
+  "text": "Срок ввода новых правил премьер-министр не назову , нт заявивший , что первым государством , к некоторому они будут применены , - это Узбекистан .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "назвал"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

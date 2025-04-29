@@ -1,0 +1,30 @@
+{
+  "text": "По слова Гурнова , если презрение выход новостей ТСН не вызвано техническими неисправностями , то оно являешься грубейшим нарушением соглашения между ТСН и канплом ТВ-6 .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "выхода"
+    },
+    {
+      "correctReplacement": "прекращение",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "каналом",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

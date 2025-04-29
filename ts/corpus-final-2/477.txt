@@ -1,0 +1,35 @@
+{
+  "text": "Американские спецслужбы в понедельнике объявим о поимках преступнике , который входил в список ФБР \"Top Ten Most Wanted Fugitives\" (\"Десятка самых опасных преступников\") наравие с \"террористом номера 1\" Осамой бин Ладеном .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "преступника"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "поимке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "объявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "номер"
+    },
+    {
+      "correctReplacement": "наравне",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

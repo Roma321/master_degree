@@ -1,0 +1,20 @@
+{
+  "text": "Арестованного освободившие в залах суда под личное поручительство нескольких человек , в числе котрого были депутаты краевой Думы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "освободили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "зале"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

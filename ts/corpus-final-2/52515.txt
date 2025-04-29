@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тех , Святейший Диодор был \"искренним другом Русской Православного Церкви , подтрунивавший ее единство и заявлял о недопустимости вмешательства Константинополя в дела Московского патриархата на Украиге и в Эстонии\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Православной"
+    },
+    {
+      "correctReplacement": "поддерживал",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Украине",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

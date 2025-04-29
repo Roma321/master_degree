@@ -1,0 +1,20 @@
+{
+  "text": "В ходе столкновений возник пджар в зданиях Национальной банка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "здании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Национального"
+    },
+    {
+      "correctReplacement": "пожар",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

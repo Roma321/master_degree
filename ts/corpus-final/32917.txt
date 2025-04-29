@@ -1,0 +1,20 @@
+{
+  "text": "Все сотрудники ООН в настоящее времени скалились в роли заложники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "заложников"
+    },
+    {
+      "correctReplacement": "оказались",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

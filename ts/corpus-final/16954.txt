@@ -1,0 +1,25 @@
+{
+  "text": "Всем телекомпании , осуществляющим полеты над территорией Украины , с 23 . 30 31 декабря 1999 года до 2 . 00 1 январей 2000 года будет предложено над Украиной не летать , передаваемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "авиакомпаниям"
+    },
+    {
+      "correctReplacement": "авиакомпании",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник вечером в Ольстерах , в официальных резиденции британсрой министра по делам Северной Ирландии Питера Мандельсона в замке Хилсборо , была обнаружена бомбы , сообщает BBC News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Ольстере"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "официальной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "британского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "бомба"
+    },
+    {
+      "correctReplacement": "британской",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

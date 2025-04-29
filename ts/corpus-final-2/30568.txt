@@ -1,0 +1,30 @@
+{
+  "text": "Гензель не исключил , что в ближайшее время пациент может быть переведен из кардиологического в хирургический отделения для операции . Врачи по-прежнему не рекомендуют правоохранительным органу проводить следственные действия с участие Тихонов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "участием"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "хирургическое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "органам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "отделение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Тихонова"
+    }
+  ]
+}

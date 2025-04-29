@@ -1,0 +1,25 @@
+{
+  "text": "Президент Владимир Путина приручённый генеральному прокурору Владимиру Устинову \"взять под личный контроль расследование инцидентов в Курской области\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "инцидента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Путин"
+    },
+    {
+      "correctReplacement": "порученный",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

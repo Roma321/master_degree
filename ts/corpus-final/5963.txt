@@ -1,0 +1,30 @@
+{
+  "text": "Из-за отсутствия в Мурманской области сжиженной газа уже отключим 43 дом в Североморске , 67 дома в поселках морских летчиков Сафоново и Североморск-3 а поселке военных судоремонтников Росляково .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сжиженного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отключены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "домов"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

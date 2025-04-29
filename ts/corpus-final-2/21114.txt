@@ -1,0 +1,30 @@
+{
+  "text": "Президенты России Владимир Путин поручил премьер-министру Михаилам Касьянову разобравшиеся в ситуации округа подкисания договора между \"Газпромом\" и \"Медиа-Мостом\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Михаилу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "разобраться"
+    },
+    {
+      "correctReplacement": "вокруг",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "подписания",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

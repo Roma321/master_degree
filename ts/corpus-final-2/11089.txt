@@ -1,0 +1,15 @@
+{
+  "text": "Угрожая хозяину пистолетом , они забрали из квартире 11 тысяч 500 доьларов США , пять тысяч рублей иключи от автомашины Toyota .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "квартиры"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

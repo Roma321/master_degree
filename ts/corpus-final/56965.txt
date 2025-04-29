@@ -1,0 +1,20 @@
+{
+  "text": "По неизвестной пока причине между молодыми людьми возникла спор , в ходом которого один из участникоф вынул огнестрельное оружие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "возник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

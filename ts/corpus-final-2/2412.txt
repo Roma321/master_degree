@@ -1,0 +1,30 @@
+{
+  "text": "поголовнын дела в отношении трех адвоката возбудил Следственным управление по особо важным делам Санкт-Петербурга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Следственное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "адвокатов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "возбудило"
+    },
+    {
+      "correctReplacement": "Уголовные",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "поголовные",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "После этого бывшего императора еще год держали под арестом во дворце , где он и умиравший , как полагают , умервщленный своими охранником .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "умер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "охранниками"
+    },
+    {
+      "correctReplacement": "умерший",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Москвичи полностью обеспечен мукой , в том числе блиеной , на Масленица в предстоящие выходные .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "обеспечены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Масленицу"
+    },
+    {
+      "correctReplacement": "блинной",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Хотя это - первая столь серьёзный инцидент такого рода , многие опасаются , что агрессия со стороны школьников с применением огнестрельного оружий могу стать в Нидерландах таким же обыденным явлением , как в США , где за последние две года в результате аналогичные случаями погиб 35 и ранены боле 60 человек .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "аналогичных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "серьезный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "оружия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 44,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "случаев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 38,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 48
+    }
+  ]
+}

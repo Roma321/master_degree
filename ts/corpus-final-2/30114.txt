@@ -1,0 +1,25 @@
+{
+  "text": "Высокой же стоимость кредитов негативно отразится на доходах компаний , которые в третьем кварталах и так оказались ниже ожидаемого , сообщаешь Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Высокая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "квартале"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ожидаемых"
+    }
+  ]
+}

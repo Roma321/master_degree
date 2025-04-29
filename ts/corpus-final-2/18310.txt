@@ -1,0 +1,25 @@
+{
+  "text": "В четверге в японском городу Саппоро на острове Хопкайдо в связи с отравлением неизвестных веществом были госпитализированы 28 человек , передает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "городе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "неизвестным"
+    },
+    {
+      "correctReplacement": "Хоккайдо",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

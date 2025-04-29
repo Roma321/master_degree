@@ -1,0 +1,30 @@
+{
+  "text": "Обе водителя , а такое пассажир , находившийся в кабины бензовоза , погибнем , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Оба"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "кабине"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В публикации речь шла о присвоение прибылей сибирском компании по производству становых полуфабрпкатов \"Авизма\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "публикациях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сибирской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "присвоении"
+    },
+    {
+      "correctReplacement": "титановых",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "полуфабрикатов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Журналисты установили , что па катровской губернатора записавшая трехкомнатная квартира площадью 90 , 9 квадратных метров в престижном районе на юго-западе Москвы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "кемеровского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "записана"
+    },
+    {
+      "correctReplacement": "кемеровской",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

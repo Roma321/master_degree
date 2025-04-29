@@ -1,0 +1,30 @@
+{
+  "text": "Фильм рассказывает о молодой аргентинце , приезжающей на Фолкленды с целями горьанящие как можно больше местных жительниц .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "приезжающем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "целью"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "молодом"
+    },
+    {
+      "correctReplacement": "соблазнить",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "горланящие",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

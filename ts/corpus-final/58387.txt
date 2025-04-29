@@ -1,0 +1,25 @@
+{
+  "text": "Все трое военнослужащих Тихоокеанского флота признаем виновными в злоупотреблениях служебным положением с целью хищения конкретного прибор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "прибора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "признаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "злоупотреблении"
+    },
+    {
+      "correctReplacement": "секретного",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

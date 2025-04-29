@@ -1,0 +1,25 @@
+{
+  "text": "Стоит отметить , что в последним время у пользующихся Macintosh обнаруживалось гораздо меньше проблем , связанных с компьютерного безопасностями , чем у пользователей , работающих , скажем , под ОС Windows .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "компьютерной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "безопасностью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "последнее"
+    },
+    {
+      "correctReplacement": "пользователей",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

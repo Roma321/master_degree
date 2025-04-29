@@ -1,0 +1,35 @@
+{
+  "text": "По сообщению агентством BNS , Михайлов подчеркнувший , что боевой готовность войск весьма высок , хотя на данный момент псковские ремонтников \"разбросаны по всей Европе : в Боснии , в Косово , в Чечне\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "боевая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "высока"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "десантники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентства"
+    },
+    {
+      "correctReplacement": "десантников",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

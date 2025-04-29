@@ -1,0 +1,35 @@
+{
+  "text": "Вместе с тем посло проведённого расследования МАП официально заявленное , что нарушения антимонопольного законодательства в сделках по купле-продаже акций КрАЗа и Зраз не зафиксировано .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "нарушений"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проведенного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "БрАЗа"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Браз",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Что же касался самих стихов Сергея Михалковых , то они будут опубликованы только после того , как Путин утвердит ими и объявит об этом , заявили дистанцией \"Эхо Москвы\" источники в рабочую группе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "их"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Михалкова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "радиостанции"
+    },
+    {
+      "correctReplacement": "радиостанцией",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

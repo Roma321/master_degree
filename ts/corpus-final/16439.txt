@@ -1,0 +1,25 @@
+{
+  "text": "Это , впрочем , неудивительно , поскольку вообще большинство анкет , рассылающих по электронного почте , остающиеся без одвета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "остаются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "рассылаемых"
+    },
+    {
+      "correctReplacement": "ответа",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

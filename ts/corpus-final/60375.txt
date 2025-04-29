@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в 18 : 00 в московское милицию по телефону поступившее сообщении о якобы заложенной на Красной площади бомбе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "поступило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "московскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сообщение"
+    }
+  ]
+}

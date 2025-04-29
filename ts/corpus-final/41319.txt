@@ -1,0 +1,25 @@
+{
+  "text": "На улице девушки винившая висящий на заборе пакет , в котором оказался импортном пагнитофон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "девушка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "импортный"
+    },
+    {
+      "correctReplacement": "увидела",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "магнитофон",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

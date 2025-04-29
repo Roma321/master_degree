@@ -1,0 +1,20 @@
+{
+  "text": "выгону товарного поезда сошедший с рельсов из-за поломки так называемой \"колесной пары\" , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вагон"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сошел"
+    },
+    {
+      "correctReplacement": "Вагону",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

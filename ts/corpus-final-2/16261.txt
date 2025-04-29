@@ -1,0 +1,20 @@
+{
+  "text": "В конце августа возникла реальная угроза концентраты крупного пакета акциям биржи у шведской компьютерной фирмы OM Gruppen , которая заявила о желание приобрести акции у недовольных акционеров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "желании"
+    },
+    {
+      "correctReplacement": "концентрации",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

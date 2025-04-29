@@ -1,0 +1,25 @@
+{
+  "text": "Избранный президент России Владимиры Путин встретился в пятницу в Кремле с президентами Северной Осетии и Ингушетия Александра Дзасоховыми и Русланом Аушевым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Ингушетии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Александром"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Дзасоховым"
+    }
+  ]
+}

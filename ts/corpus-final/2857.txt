@@ -1,0 +1,20 @@
+{
+  "text": "Точнее , ей можно назвать учеником продавца : пот присмотром мамаши она подавало уже расфасованный гашиш и принимала деньги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "подавала"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

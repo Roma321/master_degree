@@ -1,0 +1,25 @@
+{
+  "text": "Согласно распространенному в США заявлению адвокатском конторы Kimerer&LaVelle , Лужковы несет ответственность за буйство и виновен в захвате доли имущездва Тейтума .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "адвокатской"
+    },
+    {
+      "correctReplacement": "убийство",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "имущества",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Комиссией Министерства антимонопольной политиканы РФ признал Государственный таможенный комитет России нарушителем антимонопольного законодательства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "признала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Комиссия"
+    },
+    {
+      "correctReplacement": "политики",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

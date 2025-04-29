@@ -1,0 +1,25 @@
+{
+  "text": "По оставшимся семи номинации жюри во главе с председателем Антоном Носиком , присудил главные призы (в коронации VIP-сайты победителя даже трое) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "победителей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "присудило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "номинациям"
+    },
+    {
+      "correctReplacement": "номинации",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

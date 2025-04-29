@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщал РБК со ссылкой на источники в Брюсселе , концерне обвиняюсь в навязыванием твердых шенов на продажу моделей Passat своим дилерам в Германии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "концерн"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "навязывании"
+    },
+    {
+      "correctReplacement": "цен",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "генов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В исключительные случае при введении чрезвычайного продолжения президенты может принимать решения по привлечению Вооруженных сил .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "случаях"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "президент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "исключительных"
+    },
+    {
+      "correctReplacement": "положения",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

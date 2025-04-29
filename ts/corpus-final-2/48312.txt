@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник Пражский городского суд вынесла приговор издателю первого полногб перевода на чешские язык книги Адольфа Гитлера \"Mein Kampf\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "чешский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вынес"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "полного",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

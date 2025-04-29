@@ -1,0 +1,25 @@
+{
+  "text": "Министр обороны Игорь Сергеев и начальник Генерального штабу Анатолий Квашнин в воскресенье ктром в срочных порядке вылетевшие в Сочи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "вылетели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "срочном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "штаба"
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

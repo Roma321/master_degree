@@ -1,0 +1,25 @@
+{
+  "text": "Беспрепятственно пропускали лишь воинские колонны , машины с грузами для военных объектов в Ханкаге и Борзое , а такое милицейские спецмашин .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "пропускают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "спецмашины"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "Ханкале",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

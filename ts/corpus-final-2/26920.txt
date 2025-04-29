@@ -1,0 +1,30 @@
+{
+  "text": "В ближайшее время будет введено обязательная регистрация торговых сделок с зерном , об этном заявил в понедельник в парламенте заместитель министра сельских хозяйздво РФ Владимир Логинов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сельского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "введена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "хозяйства"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "хозяйство",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

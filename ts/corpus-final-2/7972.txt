@@ -1,0 +1,25 @@
+{
+  "text": "Известно , что 82-летняя Мандела однажды уже отклонил приглашение участвующие в разрешениях ближневосточного кризрса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "разрешении"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "участвовать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "82-летний"
+    },
+    {
+      "correctReplacement": "кризиса",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

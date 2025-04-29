@@ -1,0 +1,30 @@
+{
+  "text": "На октябрь продлена график возможных отключения электричества , из-за недостаткоф мощности засчитывающих уже до семи часов в день .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "отключений"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "продлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "недостатка"
+    },
+    {
+      "correctReplacement": "насчитывающих",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "недостатков",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

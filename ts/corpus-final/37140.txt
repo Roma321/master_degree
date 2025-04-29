@@ -1,0 +1,30 @@
+{
+  "text": "В свою очередь власти Кишинева заверили горожан , что столица не останешься без газа , поскольку мэрии договорилась с посредническими фирмам о поставках городу голубой топливом , \"и даже по более низким ценам\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "останется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "топлива"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "фирмами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "мэрия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "голубого"
+    }
+  ]
+}

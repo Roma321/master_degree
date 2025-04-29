@@ -1,0 +1,25 @@
+{
+  "text": "В Чечне создавшее региональное отделение общероссийского политического движения \"Единство\" : его учредительная конференция прошло в среду в селе знаменитое Надтеречного районов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "создано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "прошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "района"
+    },
+    {
+      "correctReplacement": "Знаменское",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

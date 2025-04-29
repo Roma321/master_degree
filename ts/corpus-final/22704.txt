@@ -1,0 +1,20 @@
+{
+  "text": "рязанская королева приобретшая 5 процента акций компании Millennium Mapping Company .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приобрела"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "Британская",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

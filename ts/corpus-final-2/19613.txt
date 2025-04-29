@@ -1,0 +1,20 @@
+{
+  "text": "Дыгало отметивший , что сейчас в районе аварии подлодку ставилась хорошая погода .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "подлодки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "установилась",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Студенты должны представившие на конкурс довольно большой пакет материалами о предполагаемом интернет-предприятии , исключая описание , план маркетинга , рассчёты по расходам и доходам , и другие документы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "материалов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "рассчеты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "представить"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

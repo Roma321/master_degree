@@ -1,0 +1,35 @@
+{
+  "text": "В настоящее время задержанный даваемый признательные показания и приводит детали подготовку и совершения им теракта , в результате которого на железнодорожном вогзале Пятигорска погибшие двое и были ранены более двух десятых человеком .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "десятков",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "вокзале",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

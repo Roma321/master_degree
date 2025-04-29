@@ -1,0 +1,25 @@
+{
+  "text": "Обнаружено нецелевое расследование бюджетных средств города Московским комитетом по науке итехнике , в результате чём нанесён ущерб в 182 , 8 миллиарда неденоминированных рублях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "нанесен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "чего"
+    },
+    {
+      "correctReplacement": "расходование",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

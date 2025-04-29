@@ -1,0 +1,25 @@
+{
+  "text": "тереть ему предстоял пройти психиатрической экспертизу и , скорее всего , он будет отправлен в специальнле учебное заведение .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "психиатрическую"
+    },
+    {
+      "correctReplacement": "Теперь",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "специальное",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

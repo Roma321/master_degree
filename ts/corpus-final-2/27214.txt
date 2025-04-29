@@ -1,0 +1,20 @@
+{
+  "text": "Только за девять месяца 2000 года в Общественного приемную переступившее около тысячи обращений граждан .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Общественную"
+    },
+    {
+      "correctReplacement": "поступило",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом снова заявил министр нефтяннго промышленности Ирака Амир Мухаммед Рашид , выступающие на пресс-конференции в Багдаде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выступая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "correctReplacement": "нефтяного",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

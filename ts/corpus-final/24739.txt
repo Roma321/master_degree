@@ -1,0 +1,30 @@
+{
+  "text": "Председатель Парламентской ассамблеи Совета Евроры встречусь в понедельник со спикером Совета Федерации Егором Строевым . По окончаниях встрече Рассел-Джонстон заявил , что говорить о возможности исключения Россией из числа участников ПАСЕ пока рано .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "встретился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "окончании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "встречи"
+    },
+    {
+      "correctReplacement": "Европы",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

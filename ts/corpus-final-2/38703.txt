@@ -1,0 +1,20 @@
+{
+  "text": "В результате столкновение китайский байкер затонул и часть мазута вылилась в рекой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "реку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "correctReplacement": "танкер",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

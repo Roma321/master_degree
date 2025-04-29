@@ -1,0 +1,30 @@
+{
+  "text": "Днем раньше в чеченском селении Бамут сотрудники правоохранительных органов Ингушетии совместно с Северокавказским РУБОП заворчавшие Шамиля Висаева , обвиняющего в похищении жителе рород Малгобек Мирдоса Кадырова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "обвиняемого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "жителя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "задержали",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "город",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

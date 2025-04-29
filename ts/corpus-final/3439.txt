@@ -1,0 +1,40 @@
+{
+  "text": "Как сообщаю ИТАР-ТАСС со ссылкой на Главную военной прокуратуру , пересмотрены , в частности , дела в отношении бывшего народной комиссара внутренних дела СССР Ежова , его заместителя Фриновского , бывшего министра государственного безопасности Абакумова , бывшего первому заместителя председателя Совета Министров СССР и министра внутренних дел Берию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "народного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 47,
+      "correctReplacement": "Берии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "военную"
+    }
+  ]
+}

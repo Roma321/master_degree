@@ -1,0 +1,25 @@
+{
+  "text": "Повышение тарифов вызвано несколькими факторам : с 20 января увеличивающиеся тарифы на газ на 18 процентов , а с 1 января уже постившаяся ставка абонентской платы за пользование сетями РАО \"ЕЭС России\" на 16 процентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "увеличиваются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "повысилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "факторами"
+    },
+    {
+      "correctReplacement": "повысившаяся",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

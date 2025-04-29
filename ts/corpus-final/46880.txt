@@ -1,0 +1,20 @@
+{
+  "text": "Гитин из Москвой доставлены в божественный изолятор Красноярска , теперь в течение 10 дней ему должно быть предъявлено обвинение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "следственный",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

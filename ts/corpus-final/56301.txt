@@ -1,0 +1,25 @@
+{
+  "text": "Это положение действовал и в том случае , если уголовное дело заведён по фактам , произошедшим в период , когда обвиняемый не исполняла обязанности депутатов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "действует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "депутата"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "заведено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "исполнял"
+    }
+  ]
+}

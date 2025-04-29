@@ -1,0 +1,30 @@
+{
+  "text": "Разработчики Honda Motors считают , что именно робота , похожий на человек , в отличии от устройств для выполнения специализированном операций сможет встать универсальным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "робот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "специализированных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "отличие"
+    },
+    {
+      "correctReplacement": "стать",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

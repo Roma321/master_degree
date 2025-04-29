@@ -1,0 +1,20 @@
+{
+  "text": "В 2000 году государственный оборонное закас будет увеличено на 50 процентов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "оборонный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "увеличен"
+    },
+    {
+      "correctReplacement": "заказ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

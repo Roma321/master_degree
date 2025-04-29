@@ -1,0 +1,25 @@
+{
+  "text": "Например , британка Кэти Джонс недавно заявили , что собираешься судящиеся сизвестное издательство Penguin , кротовый испортило ей жизнь , выпустив книгу \"katie . com\" , посвященную интернет-педофилам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "судиться"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "заявила"
+    },
+    {
+      "correctReplacement": "которое",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

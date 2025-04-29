@@ -1,0 +1,25 @@
+{
+  "text": "\"Данные крнчеты позволят созданные тысячи новых рабочих мест как в России , так и в США , будут способствовать внедрению у нас передовых зарубежных технологий и управленческих навыков\" , - считает глава ТНК Семен Кукеса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "Кукес"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "создать"
+    },
+    {
+      "correctReplacement": "кредиты",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "кречеты",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

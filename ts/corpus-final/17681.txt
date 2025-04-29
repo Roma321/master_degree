@@ -1,0 +1,25 @@
+{
+  "text": "Теперь этой обстоятельству придаётся меньшее значения , так как в настоящее время основной круговорот трафика пгоходит \"внутри\" Русского Интернета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "придается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "значение"
+    },
+    {
+      "correctReplacement": "проходит",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

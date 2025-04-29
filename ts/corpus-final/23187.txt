@@ -1,0 +1,25 @@
+{
+  "text": "Публика увидевший новое версии \"Volvo В70\" , \"Mersedes SLK\" , \"BMW 520d\" , \"BMW 525d\" , новый шариат \"Toyota Corolla\" , \"Kia Rio\" и \"Subaru Forester\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "увидит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "новую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "версию"
+    },
+    {
+      "correctReplacement": "вариант",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

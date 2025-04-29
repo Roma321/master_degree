@@ -1,0 +1,25 @@
+{
+  "text": "В МИД России напомнили , что российская сторона неоднокрапно заявлял о причитании территориальной целостностей как Грузии , так и Молдавии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "целостности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявляла"
+    },
+    {
+      "correctReplacement": "признании",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "неоднократно",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

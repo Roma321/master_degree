@@ -1,0 +1,20 @@
+{
+  "text": "ЛДПР предлагал провести в России административно реформу и восстановить государздвенный сектор экономики .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предлагает"
+    },
+    {
+      "correctReplacement": "административно-территориальную",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "государственный",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

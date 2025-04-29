@@ -1,0 +1,20 @@
+{
+  "text": "Несмотря на то , что отопительный сезон в Приморьа должно был начаться еще месяц назад , в 19 жилых домах поселка Угловое , где проживает более трёх тысяч человек , до сих пор нет тепла .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "трех"
+    },
+    {
+      "correctReplacement": "Приморье",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

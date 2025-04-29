@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению Reuters , опслуживающий персонал обращённый внимание на этого посетителя из-за того , что он очень долго сидели в ресторане и заказал так много еды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обратил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сидел"
+    },
+    {
+      "correctReplacement": "обслуживающий",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

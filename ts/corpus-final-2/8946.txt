@@ -1,0 +1,30 @@
+{
+  "text": "Сотрудники тбилисского представительств Международного комитета Красного Креста , похмщенные 4 августа в Грузии , живы и находились на территории Панкисского ущелья , об этом сообщило генпрокуроры республики Джамлет Бабилашвили .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "представительства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "генпрокурор"
+    },
+    {
+      "correctReplacement": "похищенные",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

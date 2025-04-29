@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям CNN , в целом по стране Гор набрал примерно па 300 тысяч голосов избирателей больше , чем Буш , однако ему не удалось набравшие достаточный количество голосов выборщиков - для победы одному из кандидатов необходимо было получить 270 или более голоса выборщиков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "достаточное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "набрать"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

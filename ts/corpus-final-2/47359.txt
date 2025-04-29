@@ -1,0 +1,20 @@
+{
+  "text": "Женщине и двое лужинов получили серьезные ранения , шофер был незначительно ранивший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Женщина"
+    },
+    {
+      "correctReplacement": "мужчин",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

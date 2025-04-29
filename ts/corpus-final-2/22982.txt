@@ -1,0 +1,35 @@
+{
+  "text": "Кроме тех , трое из семь также обжаловали распоряжение бывшей мэра Анатолия Собчака от 1996 года , согласно кротовому обустроивший чердак переходил в собственность инвестора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "обустроенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "переходит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "семи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

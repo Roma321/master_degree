@@ -1,0 +1,30 @@
+{
+  "text": "Степашин также доложил президенту о результатах предварительного анализа проекта федеральной бюджета на 2001 годе п сообщил о намерении проверенные ситуацию с финансированием экономики и социальных сферы Чеченской Республики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "проверить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "социальной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

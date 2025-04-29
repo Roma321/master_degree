@@ -1,0 +1,25 @@
+{
+  "text": "Прилегающая к Косово Прешевская долина в последние месяцах стала зоной активного действий албанских сепаратистов , добивающихся создания Великого Косово в составе Великого алании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Великой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "активных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "месяцы"
+    },
+    {
+      "correctReplacement": "Албании",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

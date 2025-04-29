@@ -1,0 +1,20 @@
+{
+  "text": "В городской суде Находки завершилесь слушанию дела японского капитана Хаяси Маясита .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "слушание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "городском"
+    },
+    {
+      "correctReplacement": "завершилось",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В московском роддоме номером восемь в понедвльник вечером был найден подкидыш , сообщаешь \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "номер"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

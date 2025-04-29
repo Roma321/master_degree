@@ -1,0 +1,40 @@
+{
+  "text": "В понедельнике вечером , реализуя оперативный данные и информацию жителей Москвы , сотрудников ФСБ и МВД обнаружим в нежилом помещении 1-го этажа дома номер 16 корпуc 3 по улице Борисовские пруды , 38 мешков взрывчатого веществ , 16 брикетов пластита , 13 электродетонаторов промышленного назначения мгновенного и замедлившего действия , 2 катушкой бикфордова шнура и 6 электронных устройств для дистанционного подрыва .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "оперативные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "вещества"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 51,
+      "correctReplacement": "катушки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 47,
+      "correctReplacement": "замедленного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сотрудники"
+    }
+  ]
+}

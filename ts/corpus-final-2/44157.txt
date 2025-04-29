@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщённые ИТАР-ТАСС в Сибирском региональном центр МЧС , сейчас в Омске везёмся спешные работы по ликвидации последствий аварии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "ведутся"
+    },
+    {
+      "correctReplacement": "ведёмся",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

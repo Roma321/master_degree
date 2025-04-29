@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу на заседании Совета безопасности под невмешательством президента России Владимира Путина был одобрен в целом проект доктрины информационного безопасности страны , сообщённый РИА \"Новости\" секретарь Совета безопасностей Сергеи Иванов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "информационной"
+    },
+    {
+      "correctReplacement": "председательством",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

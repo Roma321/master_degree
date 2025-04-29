@@ -1,0 +1,20 @@
+{
+  "text": "Ответственное работник французский телевещания Вероник Кэйла стала генеральным директором , а директор лионской института Lumiere Тьери Фремо - художественным руководителем фестиваля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "лионского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Ответственный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "французского"
+    }
+  ]
+}

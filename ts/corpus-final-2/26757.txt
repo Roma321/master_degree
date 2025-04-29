@@ -1,0 +1,25 @@
+{
+  "text": "Решение собрать кабинет министров Арафат принявший после той , как премьер-министр Израиля Эхуд Барак предрешивший палестинскому руководству ультиматум с требованием немедленно прекращённые насилие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "прекратить"
+    },
+    {
+      "correctReplacement": "предъявил",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

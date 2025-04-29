@@ -1,0 +1,35 @@
+{
+  "text": "Однако в связи с аварией российской атомного подводного людки \"Курск\" , в двух реакторах которой , по данным Greenpeace , находятся полторы тысячи тонн обогащенного урана , всякое изменение радиационной фона в районе катастрофы вызывает беспокойства у экологам .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "подводной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "радиационного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "беспокойство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "экологов"
+    },
+    {
+      "correctReplacement": "лодки",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

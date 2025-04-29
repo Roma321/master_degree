@@ -1,0 +1,35 @@
+{
+  "text": "Во время первых двух выходы в открытый космосы были заменившие главные компьютерщик , системой ориентации в пространстве и система наведения телескопа на удаленные объекты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "заменены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "выходов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "главный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "космос"
+    },
+    {
+      "correctReplacement": "компьютер",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

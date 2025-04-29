@@ -1,0 +1,25 @@
+{
+  "text": "За четверть века Торонтский фестиваль превратившийся из никому неизвестной в наихороший фестиваль в мире , как назвавшая его газета \"Лос-Анжелес Таймс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "превратился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "назвала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "неизвестного"
+    },
+    {
+      "correctReplacement": "лучший",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам главе республики , новый премьеры Ингушетии уже выбран , и эту человек способен заставить ьравительство работать активно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "премьер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

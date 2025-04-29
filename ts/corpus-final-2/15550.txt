@@ -1,0 +1,20 @@
+{
+  "text": "Жители города приходите посмотреть на светофор , который первое появилась в этой западноафриканской стране .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "появился"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "приходят"
+    },
+    {
+      "correctReplacement": "впервые",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

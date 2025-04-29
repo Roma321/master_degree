@@ -1,0 +1,25 @@
+{
+  "text": "Вместо того чтобы послушно забраться обратно в фургоны , трое ненапраздновавшихся пехотинца ускользнули от охраны и отправились бродить по улицах города , в полной форме , но беж оружия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "фургон"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "улицам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "пехотинцев"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям Тассу , бывший президент самопровозглашенной республики Ичкерия не подвергаюсь аресту , однако у него произошел инцидент с пакистанского полиции .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "подвергался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ТАСС"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "пакистанской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "полицией"
+    }
+  ]
+}

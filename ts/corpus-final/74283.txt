@@ -1,0 +1,25 @@
+{
+  "text": "По его слову , российский бюджеты несет значительный потери из-за подводного оформления мяса кур как \"мяса индюшки\" , которое облагается минимальными пошлинами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "значительные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "бюджет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "подложного",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

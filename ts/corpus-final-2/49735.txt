@@ -1,0 +1,35 @@
+{
+  "text": "В четверг вечером в Газе начавшиеся переговорах палестинской лидера Ясира Арафата с министром иностранных дел Израиля Шломо Бен-Ами и первой помощником премьер-минпстра Эхуда Барака , посвященные подготовке палестино-израильской встречи на высочайшем уровне , которая , возможно , состоится в течение ближайших недель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "высшем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "первым"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "начались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "палестинского"
+    },
+    {
+      "correctReplacement": "премьер-министра",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

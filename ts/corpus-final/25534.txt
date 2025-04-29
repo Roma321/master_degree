@@ -1,0 +1,30 @@
+{
+  "text": "Представитель ABA отказался пообещавшие адрес сайта , подвергшегося цензуре , однако сообщивший , что указанные матееиалы были удалившие владельцем сайта в понедельник , после получения предписаний ABA .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "предписания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "удалены"
+    },
+    {
+      "correctReplacement": "сообщать",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "материалы",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

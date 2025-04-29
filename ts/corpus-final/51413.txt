@@ -1,0 +1,20 @@
+{
+  "text": "В настрящий момент в госпитале находитесь еще двое ранивших .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "раненных"
+    },
+    {
+      "correctReplacement": "настоящий",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

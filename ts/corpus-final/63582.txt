@@ -1,0 +1,30 @@
+{
+  "text": "Шаталов сообщило , что отчисления в Фонд обязатпльное медицинского страхования и в Фонд социальной защиты населения будут слит в единая социальный налог .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "единый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "обязательного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "слиты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "обязательное",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

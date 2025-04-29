@@ -1,0 +1,20 @@
+{
+  "text": "Состояние многих из них врачи оценивиемые как очень тяжёлом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "тяжелое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "оценивают"
+    },
+    {
+      "correctReplacement": "оцениваемые",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

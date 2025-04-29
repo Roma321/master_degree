@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , получили подтверждения сведения , что сдавшиеся и амнистируем боевики , осевшие в сёлах как мирные жители , продолжаете тактично участвовать в диверсиями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "селах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "амнистированные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "диверсиях"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "подтверждение"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "продолжают"
+    },
+    {
+      "correctReplacement": "активно",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

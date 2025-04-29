@@ -1,0 +1,20 @@
+{
+  "text": "Сам Кононов виновным себя не признанный , а приговор суда счел неосознанному .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "необоснованным"
+    },
+    {
+      "correctReplacement": "необоснованному",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

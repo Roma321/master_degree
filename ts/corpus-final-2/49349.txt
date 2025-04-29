@@ -1,0 +1,25 @@
+{
+  "text": "В номинации политика \"Человеком года\" стал претендент России Владимир Путины \"за вклады в укрепление российской государственноспи\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "вклад"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "государственности\"",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

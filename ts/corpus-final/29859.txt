@@ -1,0 +1,20 @@
+{
+  "text": "В это день \"большевики\" избрали новый состав руководству Верховной рыды .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "руководства"
+    },
+    {
+      "correctReplacement": "рады",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

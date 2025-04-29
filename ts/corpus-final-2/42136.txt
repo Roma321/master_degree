@@ -1,0 +1,20 @@
+{
+  "text": "Арнольд Шварценеггер согласилось играть а этом фильме - возможно , самом дорогом за всю истории кино .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "согласился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "историю"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

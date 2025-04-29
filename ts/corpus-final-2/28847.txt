@@ -1,0 +1,20 @@
+{
+  "text": "По предварительныж данным , причиной пожара стало неосторожное обращение с огнём .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предварительным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "огнем"
+    },
+    {
+      "correctReplacement": "предварительных",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

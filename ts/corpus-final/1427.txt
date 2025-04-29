@@ -1,0 +1,25 @@
+{
+  "text": "Жители Хеврона возлагают всю вину за произойду на горотских вросшая .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "происшедшее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "городские"
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "городских",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

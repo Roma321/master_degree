@@ -1,0 +1,30 @@
+{
+  "text": "Верховного суд России отправивший бывшего капитана первого ранга Александров Никитина , обвинявшегося в шпионаже и разглашении сведениями , составляемых государственную тайну , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Верховный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "сведений"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Александра"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "составляющих"
+    },
+    {
+      "correctReplacement": "оправдал",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

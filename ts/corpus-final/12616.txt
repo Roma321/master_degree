@@ -1,0 +1,30 @@
+{
+  "text": "При этом депутат не поддержавшие поправки об ограничении возраста кандидатов в президенты 65 годами и о невозможности заменить сборы подписи внесением денежного залога .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "подписей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сбор"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "поддержали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "возможности",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

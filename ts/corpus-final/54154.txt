@@ -1,0 +1,25 @@
+{
+  "text": "К понедельник апелляционная инстанции суда отменившая соответствующее решение суда первой инстанции о признании банка банкротом , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "отменила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "инстанция"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

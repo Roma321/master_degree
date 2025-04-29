@@ -1,0 +1,20 @@
+{
+  "text": "За взятку суд приговорила 53-летнего министра к штрафу в размере 27 тысяч марок (около 12 тысячи доллароф США) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

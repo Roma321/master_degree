@@ -1,0 +1,35 @@
+{
+  "text": "Согласно приму в июле 2000 года законодательному акту , с 1 января 2001 года минимальный размер оплаты труда повышаюсь до 200 рулей в месяц , а с 1 июлей 2001 года - до 300 рублей в месяцы , отмечаемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "повышается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 38,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "принятому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "июля"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

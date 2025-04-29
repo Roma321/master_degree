@@ -1,0 +1,35 @@
+{
+  "text": "Юлия Тимошенко также отметило , что грация \"Батькивщина\" , лидером которой она является , заняла независимую позиции в скандал с обнародованными лидером социалистов Александром Морозом аудиозаписями , которые , якобы , звидетельствуют о причастности президента Украине Леонида Кучмы к исчезновению журналиста Георгия Гонгадзе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "скандале"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "позицию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "отметила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "Украины"
+    },
+    {
+      "correctReplacement": "фракция",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "свидетельствуют",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Его скорость при горизонтальном полете составлял 310 километра в часы , потолок при зависании в статической положении - 3 , 6 километра , в движении - 5 , 5 километра , дальность действия с одной заправкой - 460 километров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "час"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "статическом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "километров"
+    }
+  ]
+}

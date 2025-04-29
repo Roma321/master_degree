@@ -1,0 +1,20 @@
+{
+  "text": "Одновременно с президентскими в Аргентине пройденные выборы губернатора штата Буэнос-Айрес , в котором проживаю третья часть населения страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "прошли"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "проживает"
+    },
+    {
+      "correctReplacement": "выборы",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

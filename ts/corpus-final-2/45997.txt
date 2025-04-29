@@ -1,0 +1,20 @@
+{
+  "text": "К настоящему времени эта сума с учетом процентам и штрафов возрасту примерно до 60 миллионов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "возросла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "сумма",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

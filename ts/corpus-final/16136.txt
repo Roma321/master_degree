@@ -1,0 +1,25 @@
+{
+  "text": "Небольщих концертный зал клуба рассчитаю на 300 человек , но через Интернет за ходом мероприятия смогли наблюдать желающие со всего мира .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "рассчитан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Небольшой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "смогут"
+    },
+    {
+      "correctReplacement": "Небольших",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

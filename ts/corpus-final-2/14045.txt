@@ -1,0 +1,20 @@
+{
+  "text": "\"Бишкекским соглашением предусмотрено , что государство-участник , принимая решения о выводе из этого соглашения , уведомляет за 90 дней Белоруссию (страну-депозитарий) , -заявил Игорь Иванова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "выходе",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

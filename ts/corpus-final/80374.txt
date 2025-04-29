@@ -1,0 +1,25 @@
+{
+  "text": "Испытание началось в 8 : 19 по московскому времени , когда ракете Minuteman 2 стартую с военно-воздушной бабы Vandenberg ы Калифорнии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ракета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "стартовала"
+    },
+    {
+      "correctReplacement": "базы",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

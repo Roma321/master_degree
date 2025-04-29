@@ -1,0 +1,25 @@
+{
+  "text": "Убийц на олазах толпы расстреливают старый представителю семьи потерпевшего .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "расстреливает"
+    },
+    {
+      "correctReplacement": "старший",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "глазах",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

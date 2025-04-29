@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению Washington Post , на днях американскими меньшинствами создана коалиуия , которая препятствует стремлениях Конгрессов увеличить число виз Н-1В для неквалифицированных иностранных специалистов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "стремлениям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Конгресса"
+    },
+    {
+      "correctReplacement": "высококвалифицированных",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "коалиция",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

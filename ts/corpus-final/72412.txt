@@ -1,0 +1,25 @@
+{
+  "text": "Президент России Владимиры Путин считал , что аресте руководителя \"Медиа-Моста\" Владимиров Гусинского был излишней мерой пресечения , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "арест"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "считает"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Эля ставлю условие : квартира должна быть продана до 1 января , то ели до Нового гбда .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "ставит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

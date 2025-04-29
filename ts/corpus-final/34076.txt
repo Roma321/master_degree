@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь РИА \"Новости\" со ссылкой на пресс-службы МВД России , на его совести жизни десяти девушек в возраст от 15 до 22 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "возрасте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пресс-службу"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

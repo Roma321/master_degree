@@ -1,0 +1,30 @@
+{
+  "text": "Остальные жители Литвы , сотрудничавшие с советскими спецслужбами и не пожелавшие сообщить об жтом , рискуете потерять работу , если таким факты станем известен .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "станут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "известны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "такие"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "рискуют"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

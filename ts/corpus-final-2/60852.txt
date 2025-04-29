@@ -1,0 +1,20 @@
+{
+  "text": "В ответ на это Израиль объявил о той , что прерывает переговоры с Палестиной , блокировал сектор Газа , закрыл международнсе аэропорт Газы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "международный"
+    },
+    {
+      "correctReplacement": "международные",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

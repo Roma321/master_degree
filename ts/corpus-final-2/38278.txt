@@ -1,0 +1,30 @@
+{
+  "text": "Как сообжался , думский бюджетная комитет приступит к рассмотрению поправок к третьим мнению бюджета-2001 во вторник 14 ноября .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "третьему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "бюджетный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "correctReplacement": "чтению",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "сообщался",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

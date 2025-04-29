@@ -1,0 +1,15 @@
+{
+  "text": "Самолет был посажено на одном из военных аэродромоф в Израиле .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "посажен"
+    },
+    {
+      "correctReplacement": "аэродромов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

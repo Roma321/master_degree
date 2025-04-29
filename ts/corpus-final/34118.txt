@@ -1,0 +1,25 @@
+{
+  "text": "Как раза в четверг CNN сообщают , что технология овый процессоров Crusoe компании Transmeta и IA-64 компании Intel имеет на самом деле \"советское происхождение\" и основана на схеме процессора E2K , разработанного Борисом Бабаянами и его компанией Elbrus International .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "Бабаяном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "раз"
+    },
+    {
+      "correctReplacement": "новейших",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

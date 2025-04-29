@@ -1,0 +1,20 @@
+{
+  "text": "Два ильма об известной мексиканской художницам Фриде Кало , которые было решившее снимать еще летом , постигла разная судьба .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "решено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "художнице"
+    },
+    {
+      "correctReplacement": "фильма",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

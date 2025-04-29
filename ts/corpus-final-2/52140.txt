@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , пл данным источника , отстранен от должность начальник автослужбы космодрома полковник Венгеренко , которому такое инкриминировался присвоение , растрата госимущества и злоупотребления должностными полномочиями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "злоупотребление"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "инкриминируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "должности"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

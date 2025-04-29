@@ -1,0 +1,40 @@
+{
+  "text": "Это показывают , что стратегия компании изменилась : теперь RealNetworks пробовал применить к Интернету старые и проверившие модели кабельной индустрия , таких как продавшая фильмов и других развлекательного материалов \"одним пакетом\" на основе месячной подписки (то есть , грубо говоря , продажа подписки на развлекательный канал) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "показывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "такие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "пробует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "индустрии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "развлекательных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проверенные"
+    },
+    {
+      "correctReplacement": "продажа",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

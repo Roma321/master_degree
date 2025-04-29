@@ -1,0 +1,20 @@
+{
+  "text": "Президент страны Томас Клейстель должен принять решение , от которого зависит дальнейшую положение Австрии на международной мренах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "дальнейшее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "арене"
+    },
+    {
+      "correctReplacement": "аренах",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Жительница Чечни , временно прививающая в Назрани , заразилась от родственника , которые приедем к ней из чеченской села Алхан-Юрт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "чеченского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "родственников"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "приехали"
+    },
+    {
+      "correctReplacement": "проживающая",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В сентябре 1998 года барьер неожиданно нанес удар по машиной министра обороны Японии , который в результате повредифший лодыжку и был госпитализируем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "повредил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "машине"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "correctReplacement": "повредивший",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

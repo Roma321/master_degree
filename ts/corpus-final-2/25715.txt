@@ -1,0 +1,20 @@
+{
+  "text": "Все пострадавшие были прочно госпитализированы . Сотрудники дорожного инспекции выясняемые причины и обстоятельства ДТП .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "дорожной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выясняют"
+    },
+    {
+      "correctReplacement": "срочно",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Катастрофы произошла спустя 30 минут после вылета самоцвета из Понта Дельгада , незадолго до предполагаемой посадки на острове Файал , куда направлялось рейс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Катастрофа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "направлялся"
+    },
+    {
+      "correctReplacement": "самолета",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

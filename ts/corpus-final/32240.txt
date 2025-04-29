@@ -1,0 +1,20 @@
+{
+  "text": "Однако позже выяснилось , что они на вошли в список претендующего на премии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "претендующих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "премию"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

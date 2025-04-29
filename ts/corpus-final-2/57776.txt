@@ -1,0 +1,20 @@
+{
+  "text": "Винсента Биселей неоднозначно арестовывали , но каждый раз его отпускали в надежде на то , что он исправишься .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Биселя"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "исправится"
+    },
+    {
+      "correctReplacement": "неоднократно",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

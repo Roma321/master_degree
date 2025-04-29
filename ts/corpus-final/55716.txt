@@ -1,0 +1,25 @@
+{
+  "text": "Согласно документу , граждане двух стран могущие въезжающие и выезжать , а также пребывать на территориям государств без виз 30 дней со дня пересечения гражины .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "въезжать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "территориях"
+    },
+    {
+      "correctReplacement": "границы",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

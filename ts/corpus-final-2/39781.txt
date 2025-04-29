@@ -1,0 +1,20 @@
+{
+  "text": "В Вашингтоне арестовали 12-летнюю девочку , которая ело в метро курточку Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ела"
+    },
+    {
+      "correctReplacement": "картошку-фри",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

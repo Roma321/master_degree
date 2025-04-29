@@ -1,0 +1,15 @@
+{
+  "text": "После взлета пилоты сообщил о \"проглемах с двигателями 3 и 4\" и о том , что он намеревается вернуться назад в аэропорт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пилот"
+    },
+    {
+      "correctReplacement": "\"проблемах",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

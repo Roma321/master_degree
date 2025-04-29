@@ -1,0 +1,20 @@
+{
+  "text": "Для обеспечения распорядка и безопасности гражданина в Москве дополнительно задействовано около 4 тысяч сотрудников правоохранительных органа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "органов"
+    },
+    {
+      "correctReplacement": "правопорядка",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

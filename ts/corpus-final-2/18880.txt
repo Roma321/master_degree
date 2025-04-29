@@ -1,0 +1,30 @@
+{
+  "text": "В январе нынешнему года Кононов был осуждён на шесть лет тюремной заключения , однако в апреле освобожден в связь с решением Верховной суда Латвии о необходимости пересмотра дела .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "тюремного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Верховного"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Напомнят , что сейчас все товары , продававшие в Москвы (за исключением самых необходимых - таких , как хлеб , соль , спички и т . д . ) облагаются 2-процентным налогом с продаж .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "продаваемые"
+    }
+  ]
+}

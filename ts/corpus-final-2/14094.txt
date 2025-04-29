@@ -1,0 +1,25 @@
+{
+  "text": "Первая понтонная лодка иранского производства была продемонстрировано в порту Бендер-Аббас в Персидской заливе , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Персидском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "продемонстрирована"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "подводная",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

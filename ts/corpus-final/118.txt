@@ -1,0 +1,15 @@
+{
+  "text": "Машинист одной из локомотивов погиб на месте , его помощнак получил тяжелые ранения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "помощник",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

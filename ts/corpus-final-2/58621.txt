@@ -1,0 +1,25 @@
+{
+  "text": "Литовские ограничения задержали пьяное соотечественника , котоьый ехало в Белоруссию на крыше тепловоза .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ехал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "пьяного"
+    },
+    {
+      "correctReplacement": "пограничники",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "который",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

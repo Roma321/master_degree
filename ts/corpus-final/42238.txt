@@ -1,0 +1,25 @@
+{
+  "text": "Секретарь Центризбиркома Ольга Застрожную сообщила во вторник журнаьистам , что через Министерство по налогам и сборам была проверена информации ляда СМИ о так называемом \"домике Путина\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Застрожная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "информация"
+    },
+    {
+      "correctReplacement": "ряда",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

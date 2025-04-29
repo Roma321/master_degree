@@ -1,0 +1,25 @@
+{
+  "text": "В разбившейся самолете находимся , в основном , граждане Бахрейна и Египту , откудс прилетел лайнер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "разбившемся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Египта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "находились"
+    },
+    {
+      "correctReplacement": "откуда",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно полученным данными , охранники Вумеры организовавшие в лагере бордель , где содержащиеся несовершеннолетние заключенные , выслуги которых оплачиваются плитками шоколада .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "организовали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "услуги",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

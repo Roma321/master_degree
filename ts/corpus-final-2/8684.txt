@@ -1,0 +1,20 @@
+{
+  "text": "В финальном поединке наш соотечественника не оставленный шансоф израильтянину Харелу Леви - 6 : 2 , 6 : 3 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "оставил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "соотечественник"
+    },
+    {
+      "correctReplacement": "шансов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

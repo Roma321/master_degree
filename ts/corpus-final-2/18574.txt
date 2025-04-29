@@ -1,0 +1,30 @@
+{
+  "text": "С начала года ОПЕК трижды принимала решения об увеличением экспорта нефти , однако эти меру не приведённые к стабилизсций рынка и снижению астрономических цен .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "увеличении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "стабилизации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "меры"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "привели"
+    },
+    {
+      "correctReplacement": "стабилизаций",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

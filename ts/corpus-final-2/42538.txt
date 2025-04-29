@@ -1,0 +1,20 @@
+{
+  "text": "Эти средства пошли на обеспечение здравоохранения , сращиваний - всей социального сферы и бюджетников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "страхования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "социальной"
+    },
+    {
+      "correctReplacement": "страхований",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

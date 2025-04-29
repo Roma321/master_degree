@@ -1,0 +1,30 @@
+{
+  "text": "И вопрос сегодня стоило совбез в иной плоскостях , скорее политического . Вулферсон признал : \"Еслм мы не будем продолжатьпомогать этой стране , есть угроза нового ядерного противостояния\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "плоскости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "политической"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "стоит"
+    },
+    {
+      "correctReplacement": "совсем",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "\"Если",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

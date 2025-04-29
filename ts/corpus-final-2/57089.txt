@@ -1,0 +1,20 @@
+{
+  "text": "Выяснилось , что все отравимся на Новый год ели торты , изготовленные в райцентре Аликово местной кондитерского фабрикой Д",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "отравившиеся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "кондитерской"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

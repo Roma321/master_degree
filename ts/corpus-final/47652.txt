@@ -1,0 +1,30 @@
+{
+  "text": "Совет Федерации проголосовал 29 марта за законопроект , которым вносят изменения в федеральная закон \"Об общих принципах организации законодательных (представительных) и исполнительных органов государственной власти объекты Российской Федерации\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "субъектов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "вносит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "федеральный"
+    },
+    {
+      "correctReplacement": "субъекты",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Эта проблема активно обсуждалось общественностью , поскольку программы-фильтры являются , в том числе , и средством защиты детей в Интернетах от порнографии , насилий , наркотиков и прогибов опасных ямлений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "обсуждалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "насилия"
+    },
+    {
+      "correctReplacement": "прочих",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "явлений",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

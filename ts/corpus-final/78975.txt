@@ -1,0 +1,20 @@
+{
+  "text": "Только поздно вечером Клинтон с семье вылетело в Вашингтон , чтобы , как передает Reuters , \"в последний рнз полюбоваться фейерверком по случаю 4 июля с балкона Белого Дома\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "вылетел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "семьей"
+    },
+    {
+      "correctReplacement": "раз",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

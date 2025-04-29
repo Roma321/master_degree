@@ -1,0 +1,20 @@
+{
+  "text": "Это дело было возбуждено Генерального прокуратурой на прошлой неделе в связи с проверкой информаций об утечке российских капиталоф за границу через Bank of New York .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Генеральной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "информации"
+    },
+    {
+      "correctReplacement": "капиталов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

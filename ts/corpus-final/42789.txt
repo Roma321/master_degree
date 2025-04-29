@@ -1,0 +1,25 @@
+{
+  "text": "Организаторы збора устроили раздачу участникам акции символического долларах США , на которых вместо портрет американского президента изображен бело-красно-белый флаг - символ проводимого мероприятия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "портрета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "символических"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "сбора",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как считали в компании , повременная оплата не должна содеежать какого-то определенного лимита времени , после которого начинает начисляться поминутный оплата .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "поминутная"
+    },
+    {
+      "correctReplacement": "содержать",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

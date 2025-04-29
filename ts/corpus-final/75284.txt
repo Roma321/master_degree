@@ -1,0 +1,20 @@
+{
+  "text": "В декабре прошлого года в США ресторан Burger King попросим клиентов вернуть 25 миллионов бесплатно розданных игрушек \"Покемон\" после того , как один ребенок задохнулся , загнувшие в рот пластиковое \"яйцо Покемона\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "рестораны"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "попросили"
+    },
+    {
+      "correctReplacement": "засунув",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

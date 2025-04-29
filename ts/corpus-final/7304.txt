@@ -1,0 +1,40 @@
+{
+  "text": "По данным пресс-центре МВТ , в боевых действиям у Карамахи и Чабанмахи , а также к югам от Доргели в течение 29-30 августа уничтожена зенитная установка исламистов , миномет с боевом расчетом , 2 склада боеприпаса , подавлены две огневые мочки противника .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "боеприпасов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "действиях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "боевым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-центра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "югу"
+    },
+    {
+      "correctReplacement": "точки",
+      "type": "paronym",
+      "wordNumber": 40
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Имеешься информация о тем , что незадолго до захвата здание неизвестный вооруженный человек устроил стрельбы перед выходом из представительства Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "стрельбу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "здания"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Имеется"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В ходе драки мешок порваюся , и весь салон транспортного средства оказавшийся засыпана мур .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "засыпан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "оказался"
+    },
+    {
+      "correctReplacement": "мукой",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "порвался",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

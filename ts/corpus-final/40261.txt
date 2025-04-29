@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям газеты , переговоры зашли уже достаточно далеко , и оба банк могли объявить л принятом решении уже в ближайшие дни .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "банка"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

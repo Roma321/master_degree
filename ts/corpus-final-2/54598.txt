@@ -1,0 +1,30 @@
+{
+  "text": "Как рассказали очевидцы , иномарку обстрелял из проеджаемых мимо \"Жигулей\" 99-е модели , в ответ из \"Гранд-Чероки\" также был открыты огонь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проезжавших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "99-й"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "открыт"
+    },
+    {
+      "correctReplacement": "проезжаемых",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

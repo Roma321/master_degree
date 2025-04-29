@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает BBС , британские экспертах подозреваем , что AltaVista не учла собранностей телефонного рынка Великобритании и потому просчитались .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "просчиталась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "эксперты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "подозревают"
+    },
+    {
+      "correctReplacement": "особенностей",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

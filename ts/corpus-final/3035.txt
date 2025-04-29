@@ -1,0 +1,20 @@
+{
+  "text": "А необходимых на ремонт 3 , 5 миллиона рублей не можете найти ни районная , ни Красноярская краевые демонстрации .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "краевая"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

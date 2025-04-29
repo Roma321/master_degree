@@ -1,0 +1,30 @@
+{
+  "text": "Если испанцы сочтут , что делоно имеют исключительно криминальный характер , запрос Генпрокуратуре на экстрадицию Нусинского будет передано в суд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Генпрокуратуры"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "передан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "дело",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Гусинского",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

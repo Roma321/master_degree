@@ -1,0 +1,20 @@
+{
+  "text": "В ГУВД столицы корреспонденту НТВ сообщил , что все они госпитализируемы с травммми различной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "травмами",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

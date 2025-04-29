@@ -1,0 +1,30 @@
+{
+  "text": "Агентство отмечает , что страны ОПЕК , моторного контролируемые 40 процентов поставок нефтей на мировой рынок , в течение года четыре раза повышали объемы поставок своей нефти , превысив первоначальный показатель на 3 , 7 миллвона баррелей в сутки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "контролируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

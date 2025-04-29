@@ -1,0 +1,30 @@
+{
+  "text": "Кроме пой , российские подразделений , продвигавшись к площади Минутка , освободили поселок Пригородный , 15-й военный городки и больницу , передает РИА \"Новости\" со ссылкой на пресс-службу Министерства обороны России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "городок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "подразделения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "продвигаясь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "той",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

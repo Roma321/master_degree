@@ -1,0 +1,20 @@
+{
+  "text": "После этого в течением 45 минут самолёт находился в воздухе , ожидаф разрешения повторить заход .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "самолет"
+    },
+    {
+      "correctReplacement": "ожидая",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

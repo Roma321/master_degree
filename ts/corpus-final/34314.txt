@@ -1,0 +1,30 @@
+{
+  "text": "В зокладе экспертов покорил , что нормы безопасности на предприятиях были недостаточными , а рядовой состав сотрудника плохо подготовлен .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "предприятии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "говорится"
+    },
+    {
+      "correctReplacement": "говорился",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "докладе",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

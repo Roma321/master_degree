@@ -1,0 +1,25 @@
+{
+  "text": "Генеральная прокуратуры россини могу вскоре начать расследование дела о незаконном использованиях кредита , полученного от МВФ 14 августа 1998 года , заявил Reuters следователь Генпрокуратуры России Николай Волков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "использовании"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

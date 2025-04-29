@@ -1,0 +1,25 @@
+{
+  "text": "Уже будучи освобожу под подписку о невыезде , из-за перепадов артериального давления р падения на улице Тихонова дважды оказываюсь в больнице .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Тихонов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "оказывался"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

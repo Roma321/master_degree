@@ -1,0 +1,20 @@
+{
+  "text": "Столичной милиция будет работать в усиленной режиме до 10 бая включительно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Столичная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "усиленном"
+    },
+    {
+      "correctReplacement": "мая",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

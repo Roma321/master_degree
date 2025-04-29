@@ -1,0 +1,20 @@
+{
+  "text": "Нам местк происшествия работают сотрудники киликии испасательных службы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "испасательные"
+    },
+    {
+      "correctReplacement": "милиции",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "месте",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

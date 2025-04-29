@@ -1,0 +1,20 @@
+{
+  "text": "На дистанции 400 метров вольном стилем ловец Айан Торп показал результат 3 минуты 44 , 65 секунды , что на 0 , 35 секунды превышал предыдущий олимпийский рекорд россиянина Евгения Садового .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "вольным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "превышает"
+    },
+    {
+      "correctReplacement": "пловец",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

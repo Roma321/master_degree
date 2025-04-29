@@ -1,0 +1,25 @@
+{
+  "text": "Такое решение принято в связи с тем , что республикой хронически не платил за российский газ , и Фактически два с половиной года Молдавия получаю топливо десплатно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "республика"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "получает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "платит"
+    },
+    {
+      "correctReplacement": "бесплатно",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

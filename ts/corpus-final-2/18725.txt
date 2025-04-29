@@ -1,0 +1,20 @@
+{
+  "text": "За последнего время количество орангутангов в Индонезия резко сменилось .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Индонезии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "последнее"
+    },
+    {
+      "correctReplacement": "уменьшилось",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

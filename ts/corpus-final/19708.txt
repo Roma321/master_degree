@@ -1,0 +1,25 @@
+{
+  "text": "Предвыборном блок \"Единство\" (МЕДВЕДЬ) не намерен распадаться с окончанием выборах - он будет преобразован м движение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Предвыборный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "выборов"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "софийский Государственный таможенная комитет запрещу ввозимые в Россию некоторые виды тайских таблеток , способствующих снижению весов , сообщил РИА \"Новости\" заместитель начальника Службы по борьбе с контрабандами наркотиков ГТК Виктор Мареев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "ввозить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "таможенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "запретил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "веса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "контрабандой"
+    },
+    {
+      "correctReplacement": "Российский",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

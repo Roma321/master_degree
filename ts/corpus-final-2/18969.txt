@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас из-за отключения электроэнергии не аработавший уже половина светофоров региона .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "работал",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "сработавший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Принимая это решение , иракскому правительства отметило : \"Доллар - ввлюта враждебного нам государства - будет заменен на другую валюту включая евро\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "иракское"
+    },
+    {
+      "correctReplacement": "валюта",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

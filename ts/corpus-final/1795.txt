@@ -1,0 +1,25 @@
+{
+  "text": "ИТАР-ТАСС передает , что председатель правительства РФ Владимир Путина резко раскритиковал российские средство массовой информации за то , что , освещая неравный форум \"Россия - ЕС\" в Хельсинки , они делали акцент напроблеме Северного Кавказов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "Кавказа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "средства"
+    },
+    {
+      "correctReplacement": "недавний",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

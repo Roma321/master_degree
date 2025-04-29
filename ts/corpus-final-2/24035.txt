@@ -1,0 +1,30 @@
+{
+  "text": "По словам Касьянова , проектом будет профинансированы сразу после того , как будет определён норвешский партнер и заключён контракт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "профинансирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "определен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "проект"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "заключен"
+    },
+    {
+      "correctReplacement": "норвежский",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

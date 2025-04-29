@@ -1,0 +1,20 @@
+{
+  "text": "На эти цели в будущем году предусмотрено выделить 36 миллиарда рублей , в целом же бюджет ПФР на 2000 год составлял 272 , 5 миллиарда рублей , сообщило В . Матвиенко .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

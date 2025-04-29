@@ -1,0 +1,20 @@
+{
+  "text": "\"Станция не только ответила на сигнал , - подчеркнул один из руководителей научного проектов Лэрри Лэшер , - но м передала часть своей телеметрического информации\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "проекта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "телеметрической"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

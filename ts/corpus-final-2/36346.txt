@@ -1,0 +1,25 @@
+{
+  "text": "Согласно американской конституции , каждый из штатов имею праве назначать времена открытия избирательных участков по твоему усмотрению .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "право"
+    },
+    {
+      "correctReplacement": "своему",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

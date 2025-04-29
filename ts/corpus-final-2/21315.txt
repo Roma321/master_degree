@@ -1,0 +1,25 @@
+{
+  "text": "Владелец домов терпимости в Сиднее , где проституция являющийся легальной бизнесом , используем олимпийские лозунги и призывы в своих рекламных объявлениях , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "легальным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Владельцы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "используют"
+    }
+  ]
+}

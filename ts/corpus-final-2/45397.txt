@@ -1,0 +1,25 @@
+{
+  "text": "Если бразилец выиграют турнир , а россияне проиграл в полуфинале , то первой ракеткой мира по итогам годов станет южноамериканский теннисист .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "выиграет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проиграет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "россиянин"
+    }
+  ]
+}

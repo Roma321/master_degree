@@ -1,0 +1,30 @@
+{
+  "text": "Председатель Высшего арбитражных суда Росыии Вениамин Яковлев опроверг обвинения в том , что представители этой судебная инсталляции получаемые взятки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "арбитражного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "судебной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "получали"
+    },
+    {
+      "correctReplacement": "инстанции",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "12 ноября Ф.Р арестовавшее Джорджа Роша , подозреваемого в организации двух взрывов в магазинах фирме Lowe в Эшборо и Солсбери и в подкладывании еще одной бамбов в магазин Concord .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "бомбы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "арестовало"
+    },
+    {
+      "correctReplacement": "бомб",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "ФБР",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

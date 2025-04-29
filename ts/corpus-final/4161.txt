@@ -1,0 +1,35 @@
+{
+  "text": "Согласно результатам последней исследования , проведенного компанией Forrester Research , 90 процентов пользователей Интернет хотящие по крайней мерой контролировать использование тех зведений , которые они предоставляет при регистрации , к примеру , в онлайновых магазинах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "хотят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "последнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "предоставляют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "мере"
+    },
+    {
+      "correctReplacement": "сведений",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

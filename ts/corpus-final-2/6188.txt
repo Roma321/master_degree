@@ -1,0 +1,25 @@
+{
+  "text": "Хищения топлива из нефтепроводов стал весьма доходной бизнес для бедняков и организованных банковских группировок .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "доходным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бизнесом"
+    },
+    {
+      "correctReplacement": "бандитских",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

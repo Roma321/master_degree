@@ -1,0 +1,20 @@
+{
+  "text": "ФЭП планирует открытые в Интернете сайт , на котором каждые два часа будут публиковаться данные exit polls - опросов уже проголосовавшего горожан .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "проголосовавших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "открыть"
+    },
+    {
+      "correctReplacement": "граждан",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

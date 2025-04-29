@@ -1,0 +1,25 @@
+{
+  "text": "днако в решающей , третьей иартий Курникова повредила левое руку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "левую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "партии"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "партий",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

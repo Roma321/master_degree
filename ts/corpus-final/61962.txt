@@ -1,0 +1,25 @@
+{
+  "text": "Автомобиль отправлен на штрафнях струнку , а его владельца ждет крупное штраф .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "крупный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "штрафную"
+    },
+    {
+      "correctReplacement": "стоянку",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "штрафных",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Строительство начнётся в апреля 2002 года . лее 409 тысяч рубля , крупное сумма в долларах и немецких марках .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "крупная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "начнется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "апреле"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "рублей"
+    }
+  ]
+}

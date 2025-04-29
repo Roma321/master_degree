@@ -1,0 +1,20 @@
+{
+  "text": "Собаку убило , бойцах получил ранения публичной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бойцы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "различной",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

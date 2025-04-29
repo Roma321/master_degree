@@ -1,0 +1,20 @@
+{
+  "text": "В среду около 9 . 15 утра в милицию поступила звонок неизвестной , который сообщил , что в здании агентство \"Интерфакс\" на Тверской-Ямской заложена бомба .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "неизвестного"
+    }
+  ]
+}

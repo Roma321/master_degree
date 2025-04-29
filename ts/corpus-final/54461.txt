@@ -1,0 +1,20 @@
+{
+  "text": "По данным ГУВД , в проездах № 233 есть 7 пострадавшим .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "поезде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пострадавших"
+    },
+    {
+      "correctReplacement": "поездах",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

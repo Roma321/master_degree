@@ -1,0 +1,20 @@
+{
+  "text": "Если бы все же возникла нештатная ситуация , то сумолет приземлилось бы в ближайшем аэропорту , заявивший Шеварднадзе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "приземлился"
+    },
+    {
+      "correctReplacement": "самолет",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

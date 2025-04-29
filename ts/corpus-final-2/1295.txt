@@ -1,0 +1,20 @@
+{
+  "text": "По военнослужащим был открыта нгонь со стороны лес , начался бой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "леса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "открыт"
+    },
+    {
+      "correctReplacement": "огонь",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

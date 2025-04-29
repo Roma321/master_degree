@@ -1,0 +1,20 @@
+{
+  "text": "Я хотел , чтобы он немного поездил по арабским странам и рассксзал о событиях в Чечне , что на самого деле там происходит .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "хочу"
+    },
+    {
+      "correctReplacement": "рассказал",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

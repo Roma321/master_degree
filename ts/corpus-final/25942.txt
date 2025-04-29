@@ -1,0 +1,25 @@
+{
+  "text": "Хсего же за прошлый годы , согласно документам , подготовленным к заседанию правительства , было сэкономлен 17 , 77 миллиарда рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сэкономлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "год"
+    },
+    {
+      "correctReplacement": "Всего",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Помощник и . о . президента сообщила также , что в Грозного работают специальные погребальные команда МЧС , которые в подвала. и развалинах ищете останки людей , \"среди которых достаточно много погибших боевиков\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "ищут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Грозном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "команды"
+    },
+    {
+      "correctReplacement": "подвалах",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

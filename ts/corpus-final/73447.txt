@@ -1,0 +1,20 @@
+{
+  "text": "Сообщение о взломе AOL появился на информационным сурвере сотрудников компании - observers . net .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "появилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "информационном"
+    },
+    {
+      "correctReplacement": "сервере",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее , англичане народец увидите без купюр знаменитое фильм 1972-го года \"Глубокая глотка\" режиссера Зерара Дамиано , самый кассовый порнофильм в истории .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "знаменитый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "увидят"
+    },
+    {
+      "correctReplacement": "наконец",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Жерара",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

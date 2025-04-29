@@ -1,0 +1,25 @@
+{
+  "text": "Из людей , находившихся в этот момент в отеле , погибли четырём человека , пятеро пострадавшие и сигнализированные .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "четыре"
+    },
+    {
+      "correctReplacement": "госпитализируемы",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей российского Мидах , швейцарский полиция не имела никаких оснований заслуживающие в Берне дипломатического сотрудника российского посольства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "МИД"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "швейцарская"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "задерживать"
+    },
+    {
+      "correctReplacement": "задерживающие",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

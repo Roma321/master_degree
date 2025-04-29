@@ -1,0 +1,20 @@
+{
+  "text": "Конкурс на две телевизионных частоты в Саранске и Тамбове прндлен из-за той , что в этих городах нашлось всего по одному претенденту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "телевизионные"
+    },
+    {
+      "correctReplacement": "продлен",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

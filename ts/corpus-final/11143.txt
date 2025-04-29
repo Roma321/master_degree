@@ -1,0 +1,35 @@
+{
+  "text": "По мнению представителем голландского ABN-Amro Bank , вероятном крещение могу быть согласие России на выпусв 3-процентных еврооблигаций на пять лет при сроках погашения тридцать лет и одновременном сокращение долга бывшего СССР на 35 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "представителя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вероятным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "сокращении"
+    },
+    {
+      "correctReplacement": "решением",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "выпуск",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

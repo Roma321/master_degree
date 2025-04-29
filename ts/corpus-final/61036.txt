@@ -1,0 +1,25 @@
+{
+  "text": "На границе Ставропольского и Краснодарского краев задержаны несколько люди , у которых изыму более 52 килограммов взрывчатки , 120 детонаторов , 80 метров бикфордова шнура , а твкже винтовка с оптическим прицелом и наручник .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "наручники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Жалоба о признании незаконной продления Генпрокуратурой срока следствия до 23 месяцев мывшая подан в суду адвокатом Глушкова - Андреями Боровковым .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "подана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Андреем"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

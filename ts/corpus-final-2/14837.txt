@@ -1,0 +1,25 @@
+{
+  "text": "Дебютный фильм дочери знаменитой режиссера рассказывающий о самоубийстве пяти девочек-подростков , случившемся четвёртая века назад и возникающем теперь в воспоминаниях их выросшего сшседа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "знаменитого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "рассказывает"
+    },
+    {
+      "correctReplacement": "четверть",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "соседа",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

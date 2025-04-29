@@ -1,0 +1,30 @@
+{
+  "text": "С 10 часов утра оо московское времени прекращённые работу пять из восьми телекинезов - в том числе ОРТ и РТР - и четыре радиоканала , включая \"Радио России\" , \"Эхо Москвы\" и краевые радио .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "прекратили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "краевое"
+    },
+    {
+      "correctReplacement": "телеканалов",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

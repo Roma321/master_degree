@@ -1,0 +1,25 @@
+{
+  "text": "\"Тогюа ни один теракт не увенчается успехом\" , - привел Манилов слов клава государства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "слова"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "\"Тогда",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

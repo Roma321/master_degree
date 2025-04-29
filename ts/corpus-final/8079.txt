@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , согласно специально издавшему указу , тюремному заключению подлежат также лица , уличившие в коррупции за попрежних 14 лет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "изданному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "последние"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "уличенные"
+    },
+    {
+      "correctReplacement": "последних",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

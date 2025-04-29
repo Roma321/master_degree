@@ -1,0 +1,35 @@
+{
+  "text": "Одвечая на вопрос об участии налоговых полиции в расследовании дела семьи Бориса Ельцина , связанного с якобы имеющегося у его дочь Татьяны Дьяченко недвижимостью в Германии , главу ФСНП сказало , что органы налоговой полиции этим не занимались .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "имеющейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "глава"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "дочери"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "Отвечая",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

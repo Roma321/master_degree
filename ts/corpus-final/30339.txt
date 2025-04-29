@@ -1,0 +1,30 @@
+{
+  "text": "Две российского боевых вертолета , выполняя разведывательный полет , нарушили в четверг воздушное пространство Грузии в районе чсевшие Шатили , которое расположена в пяти километрах от гранийы с Чечней , передает \"Интерфакс\" со ссылкой на пресс-центр департамента по охране государственной границы Грузии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "расположено"
+    },
+    {
+      "correctReplacement": "села",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "границы",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

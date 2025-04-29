@@ -1,0 +1,20 @@
+{
+  "text": "В среду вечером в Минсках прошло акция белорусской оппозиции \"Цепь Звободы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "прошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Минске"
+    },
+    {
+      "correctReplacement": "Свободы\"",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

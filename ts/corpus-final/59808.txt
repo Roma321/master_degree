@@ -1,0 +1,20 @@
+{
+  "text": "По данным агентства Bloomberg , в пятницу курс евро упавший по отношению к японском иене до рекордно низкой ртметки в 95 , 87 иены за евро .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "упал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "японской"
+    },
+    {
+      "correctReplacement": "отметки",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу , выступая на пресс-конференции в Гаване , Путин заявивший , что существуют представители бизнеса , моторный хотят \"стать политическими теневик или влиять на принятие решений\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "теневиками"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Исполняющий обязанность мэра Владивостока Юрий Копылов 20 января отменю выборы главы администрации столицы Приморья , налначенные ранец на 26 марта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "обязанности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отменил"
+    },
+    {
+      "correctReplacement": "ранее",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "назначенные",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

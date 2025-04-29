@@ -1,0 +1,20 @@
+{
+  "text": "В этом фильме он сыграл заключенного , исцеляющего прикосновением , и приговорённого к высшей мере наказания за убийство и изнасилование дву маленьких девочек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "приговоренного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "двух"
+    },
+    {
+      "correctReplacement": "два",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

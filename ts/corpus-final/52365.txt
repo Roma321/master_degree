@@ -1,0 +1,25 @@
+{
+  "text": "Через 20 минут с военного базы на побережье Калифорнии стартовафшая ракета с перехватчиком , и еще через 10 минут на высоте 250 километров над Тихим океаном цель была поразившая .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "поражена"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "стартовала"
+    },
+    {
+      "correctReplacement": "стартовавшая",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

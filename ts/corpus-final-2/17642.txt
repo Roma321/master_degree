@@ -1,0 +1,35 @@
+{
+  "text": "В машине , которая врезалась в один из автомобилей президентских кортежа в Москве , высочайшие двое молодых людей , передавал НТВ . ru со ссылками на начальника службы по связям с прессами ФСО Сергея Девятова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "были"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "президентского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "прессой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "бывшие",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

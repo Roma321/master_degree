@@ -1,0 +1,30 @@
+{
+  "text": "До избрания в Думу Любовь Слиска занимавшая сложность представителя губернатора и правительства Саратовскую ббласти в законодательной собрании .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "занимала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Саратовской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "законодательном"
+    },
+    {
+      "correctReplacement": "должность",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

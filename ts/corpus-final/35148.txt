@@ -1,0 +1,30 @@
+{
+  "text": "Выступая на торжественном митинга , который пройду на территории аэропорта , министр зачитал указ и . о . президентов о присвоении звания генерала армий командующему объединенной группировкой централ Виктору Казанцеву .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "митинге"
+    },
+    {
+      "correctReplacement": "генерал-полковнику",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

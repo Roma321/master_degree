@@ -1,0 +1,30 @@
+{
+  "text": "В рамках левитации этих задолженностей администрация намерено принимать различные меры , в той числе добиваться судебных решений о продаже жилья должника для погашений долга аз вырученной суммы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "погашения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "намерена"
+    },
+    {
+      "correctReplacement": "ликвидации",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

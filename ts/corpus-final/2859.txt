@@ -1,0 +1,15 @@
+{
+  "text": "Она арестована за збыт наркотиках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "наркотиков"
+    },
+    {
+      "correctReplacement": "сбыт",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

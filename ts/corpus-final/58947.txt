@@ -1,0 +1,30 @@
+{
+  "text": "Как утверждают эксперты , слиянию компаний не ознаыает эскалацию их агрессии на общемировом табачном рынке , однако призвано изменявшие коммерческое профиль европейского рынка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "изменить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "коммерческий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "слияние"
+    },
+    {
+      "correctReplacement": "изменившие",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "означает",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

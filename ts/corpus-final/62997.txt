@@ -1,0 +1,20 @@
+{
+  "text": "Значительном части осужденных предполагается сократить срок наказания , если нр них не распространяется ограничение по амнистию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Значительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "амнистии"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В заявлении военного ровесника групп Насира Ахмедов Муджахида , распространённой накануне католического Рождества , содержишься прямая угроза США за их позицию по отношению к Афганистану , России за операцию федеральных войск в Чечне р Индии за оккупацию территории в северном штате Джамму и Кашмир .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "распространенном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Ахмеда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "содержится"
+    },
+    {
+      "correctReplacement": "советника",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

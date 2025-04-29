@@ -1,0 +1,25 @@
+{
+  "text": "Принято решение увеличить с 1 апреля тарифов на экспертных транспортировку нефти по российской системе магистральных нефтепровода \"Транснефть\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "экспортную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "тарифы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "нефтепроводов"
+    },
+    {
+      "correctReplacement": "экспортных",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

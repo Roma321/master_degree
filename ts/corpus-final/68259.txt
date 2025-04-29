@@ -1,0 +1,25 @@
+{
+  "text": "Согласно заключению бюджетного комитета , данную загон противоречит , в частности , Гражданскому кодексу , где говорился , что вклад граждан должны обеспечиваться путем страхования .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "данный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "вклады"
+    },
+    {
+      "correctReplacement": "закон",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Что касаешься долговой сумму , то она скопилась в основном за счётом непогашенных кредитов и ссуд , взятых краем из госбюджет в течебие последних нескольких лет , сообщает агентство РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "суммы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "госбюджета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "касается"
+    },
+    {
+      "correctReplacement": "течение",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

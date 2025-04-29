@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее времена полиция склонялся мысли , что причинйо аварри стал отказ тормозов одного из проезды .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "поездов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "склоняется"
+    },
+    {
+      "correctReplacement": "поезда",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "аварии",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В поаедельник последние две самолета Ту-160 стартовали с военного аэродрома в Прилуках Черниговской областях и приземлились в городе Энгельсе Саратовской области , передает РИА \"Новости\" со сделкой на министерство обороны Украины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

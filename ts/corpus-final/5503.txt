@@ -1,0 +1,20 @@
+{
+  "text": "В цегом книга является сильно очеловеченного версией предвыборного программы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "очеловеченной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "correctReplacement": "целом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

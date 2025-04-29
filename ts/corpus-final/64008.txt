@@ -1,0 +1,20 @@
+{
+  "text": "Полиция окружившая здание , однако мэрам оорода удалось договориться о беспрепятственном выходе демонстрантов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "мэру"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "окружила"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

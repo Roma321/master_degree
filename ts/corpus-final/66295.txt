@@ -1,0 +1,20 @@
+{
+  "text": "Сенат США одобрил законопроект , разрешающий создания компьютерной базы данных о всех иностранцах , когда либо перебравших границу США , сообщающий Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "создание"
+    },
+    {
+      "correctReplacement": "пересекавших",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

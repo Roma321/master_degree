@@ -1,0 +1,30 @@
+{
+  "text": "В конце июля аппарат правительства сделаю специальное разъяснение о том , что кабинет министра не имеет ни малейшей отношения к этому изданию и предложил отдельным министерствами и ведомствам , числившимся среди учредителей справочника , выйти из состава учредителя .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "малейшего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "министров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "министерствам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "учредителей"
+    }
+  ]
+}

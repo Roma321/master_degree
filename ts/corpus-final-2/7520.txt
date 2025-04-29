@@ -1,0 +1,20 @@
+{
+  "text": "В ходе боевых действий в Чечне - с 1 октября 1999 года - федеральных силы потеряфшие 2307 человек убитыми и 6521 ранеными .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "потеряли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "федеральные"
+    },
+    {
+      "correctReplacement": "потерявшие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

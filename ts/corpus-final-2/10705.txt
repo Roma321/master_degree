@@ -1,0 +1,25 @@
+{
+  "text": "Во время массового рок-концерта , проходившей напротив Конгресс-центра , около 40 молодых людям , одетых в черное , попытались перелесть через ограды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "проходившего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "ограду"
+    },
+    {
+      "correctReplacement": "перелезть",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

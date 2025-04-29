@@ -1,0 +1,25 @@
+{
+  "text": "В распространённой в Вашингтоне совместном заявлении компаний утверждается , что помимо России в демпинге стального прута участвующие Белоруссия , украйна , Молдавия , Литва , а также Польша , Венесуэла , Австрия , Южная Корея , Японии , Китай и Индонезия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "участвуют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "распространенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Япония"
+    },
+    {
+      "correctReplacement": "Украина",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

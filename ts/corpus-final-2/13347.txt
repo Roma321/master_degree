@@ -1,0 +1,30 @@
+{
+  "text": "На однородного стороне монеты расположу рельефное изображение женщины - символа России , а также сказочного птицы-девы на фоне географической карты российского государздва .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "сказочной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "оборотной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "расположено"
+    },
+    {
+      "correctReplacement": "оборотного",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "государства",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

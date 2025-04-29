@@ -1,0 +1,15 @@
+{
+  "text": "На желнзнодорожным переезде пассажирский поезд врезался в тяжелый грузовик .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "железнодорожном"
+    },
+    {
+      "correctReplacement": "железнодорожным",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

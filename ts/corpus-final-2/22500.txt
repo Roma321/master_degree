@@ -1,0 +1,25 @@
+{
+  "text": "В тот же день в Аргуном бандиты из леса обстрелял блокпост на железнодорожного мосту чрез реку Аргун .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "железнодорожном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Аргуне"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

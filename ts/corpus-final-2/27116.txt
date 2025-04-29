@@ -1,0 +1,25 @@
+{
+  "text": "Помимо этого , Visa продолжающий звой накладную компанию на Yahoo ! .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "продолжает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "рекламную",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "свой",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

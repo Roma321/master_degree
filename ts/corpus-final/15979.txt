@@ -1,0 +1,25 @@
+{
+  "text": "На учения были приглашены премьер-министр Владимиры Путина и министр обороны Игорь сергееф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Путин"
+    },
+    {
+      "correctReplacement": "Сергеев",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "сергеев",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

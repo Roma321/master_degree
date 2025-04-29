@@ -1,0 +1,25 @@
+{
+  "text": "Парламентский большинство в Арменией намерена начать процедуру отстранения от должности нерезидента республики Роберта Кочаряна .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Армении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Парламентское"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "намерено"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

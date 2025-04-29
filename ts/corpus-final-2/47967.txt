@@ -1,0 +1,25 @@
+{
+  "text": "Имам местного мечети и глава админисшрацией не ранены , никто никакие мер физического воздействия не применял .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "местной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "администрации"
+    },
+    {
+      "correctReplacement": "администрацией",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

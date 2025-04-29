@@ -1,0 +1,25 @@
+{
+  "text": "Путин сказал , что в ходе внешней встркчи с глав исполнительной и законодательной власти регионов , входящих в Дальневосточный федеральный округ , хотел бы выслушанные мнение по поводу переданных им в Госдуму законопроектов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "выслушать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "главами"
+    },
+    {
+      "correctReplacement": "нынешней",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "встречи",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

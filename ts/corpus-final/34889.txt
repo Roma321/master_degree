@@ -1,0 +1,25 @@
+{
+  "text": "7 февраля судно пот американской конвоем прибуду в Сутанат Оман и было официально переданы оманской стороне .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "прибыло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "американским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "передано"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В среду полиция Кипра задержало в аэропорту городов Никозия гражданина Ирана , в багаже которого находились три персидских ковра , сообщает алентство Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "задержала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

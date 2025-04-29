@@ -1,0 +1,20 @@
+{
+  "text": "Рядом с фигурой поэт - столп с золотым Пегасом на вершинины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "поэта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вершине"
+    },
+    {
+      "correctReplacement": "вершины",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

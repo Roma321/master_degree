@@ -1,0 +1,15 @@
+{
+  "text": "Ранения получили 15 сопровождающих генерала военнослужащих и 12 еассажиров проезжавшей мимо маршрутного автобуса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "проезжавшего"
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

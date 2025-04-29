@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудник посольства подчеркнул , что \"как и любые другие контакты спецслужб в мире , переговоры между руководителями секретных служб США и России в силу самой специфик деятельности тех ведомств не могут становиться достоянием гласностей , иначе к них теряется смысл\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "специфики"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "гласности"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

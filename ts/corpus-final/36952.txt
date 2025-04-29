@@ -1,0 +1,25 @@
+{
+  "text": "В резулзтате аварии погиб 22-летнему электромеханики Славомир багдад , устранявший неполадки в системе связи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "22-летний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "электромеханик"
+    },
+    {
+      "correctReplacement": "Богдан",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

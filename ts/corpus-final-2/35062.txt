@@ -1,0 +1,25 @@
+{
+  "text": "Пятерыми человек убьём и четверо ранены в результате бунта в тюрьме , расположенной недалеко от огороды Измир в Турции , сообщаешь АР .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Пятеро"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "убиты"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

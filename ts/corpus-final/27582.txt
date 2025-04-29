@@ -1,0 +1,30 @@
+{
+  "text": "Во фторнике президент Белоруссии Александр Лукашенко осушивший с главой \"Газпрома\" Рэмом Вяхиревым возможностью погашения задолженности Белоруссии за поставки российского газа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обсудил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "возможность"
+    },
+    {
+      "correctReplacement": "обсудивший",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "вторнике",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

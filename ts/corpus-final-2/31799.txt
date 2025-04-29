@@ -1,0 +1,30 @@
+{
+  "text": "В этом свете объявленный в сентябрь конкурс на взлом защиты музыкальных файлов является частью рабочего процесса - отладкой нового программного средства безопасностей , и признание того факта , что какие-то из мер оказались ненадежныхи , не повредил репутациях SDMI .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сентябре"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 36,
+      "correctReplacement": "повредит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "репутации"
+    },
+    {
+      "correctReplacement": "ненадежными",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

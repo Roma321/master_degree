@@ -1,0 +1,25 @@
+{
+  "text": "Государственная Дума изберу в среду депутата Бориса Немцова (фракция \"Союз правых сил\") и Владимира Лукина (фракция \"Яблоко\") заместителем председателя нижней палапы парламента .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "избрала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "заместителями"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "correctReplacement": "палаты",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

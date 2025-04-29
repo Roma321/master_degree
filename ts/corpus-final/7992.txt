@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающий РИА \"Новости\" со ссылкой на начальников эшелона подлокотник МЧС России Сергея Меретукова , в Гудермес направляется 10 вагонов с углем и два вагона с продуктами , школьными принадлежностями и медикаментами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "начальника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "подполковника"
+    },
+    {
+      "correctReplacement": "подполковник",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Американскими суд уже не в первый раз выносили приговоры о возмещениях ущерба бывшим пленников иранских экстремистов , но до сих пор ни один из них не получил ни цента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "пленникам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Американские"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выносят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "возмещении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "суды"
+    }
+  ]
+}

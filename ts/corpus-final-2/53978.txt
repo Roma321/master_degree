@@ -1,0 +1,20 @@
+{
+  "text": "Согласно сообщениям официальной агентства новостей \"Антара\" , еще несколько взрывов в сочельники произошли в других районах страны перед христианскими церквами Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сочельник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "официального"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

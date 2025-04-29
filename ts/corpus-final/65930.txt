@@ -1,0 +1,25 @@
+{
+  "text": "Не отключённое , вто в ближайшие день о картофельном сервере расскажут и некоторые бумажных издания , которые имеют привычку перепечатывать новости из интернет-изданий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "бумажные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дни"
+    },
+    {
+      "correctReplacement": "исключено",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

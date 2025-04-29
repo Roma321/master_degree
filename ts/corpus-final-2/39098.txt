@@ -1,0 +1,20 @@
+{
+  "text": "Городская прокуратура возбужу уголовное дело по статье \"Умышленное убийство , совершенное группкой лиц\" и \"Разбойное нападение\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "возбудила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "статьям"
+    },
+    {
+      "correctReplacement": "группой",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

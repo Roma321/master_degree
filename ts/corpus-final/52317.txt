@@ -1,0 +1,20 @@
+{
+  "text": "Каждый день - с19 до 21 часу - космонафты имеем личное время , а отбой - \"как в пионерскомлагере\" - в 23 часа\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "имеют"
+    },
+    {
+      "correctReplacement": "космонавты",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

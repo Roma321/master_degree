@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаегь РИА \"Новости\" , о случившемся был проинформирую посол КНДР в Москве .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "проинформирован"
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Человек , считавшийся двойным агентом департамента государственной безопасности Литвы и ЦРУ США , о задержании которого в Москве сообщивший 26 июня Центр общественного связей ФЫБ России , освобожу из-под стражи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "общественных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "считающийся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "ФСБ",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

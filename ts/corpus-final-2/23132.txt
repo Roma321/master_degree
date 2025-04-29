@@ -1,0 +1,30 @@
+{
+  "text": "В письмом говорится : \"хто событие встревожили журналистскую общественность на Украине и еще больше подорвало и без того зыбком доверие к Вашему правительству в отношении свободы фреска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "зыбкое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "встревожило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "письме"
+    },
+    {
+      "correctReplacement": "прессы\"",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "\"это",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Учителф и ученики были спешно эвакуирован , на место прибылей специалисты спецслужбы и кинологи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "спецслужб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "прибыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "correctReplacement": "Учителя",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Если оставить тарики на нынешнем уровень , то в 2001 году ввод номерное емкости снизился еще на 100 тысяч номеров до 1 , 1 миллиона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "номерной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "уровне"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "снизится"
+    },
+    {
+      "correctReplacement": "тарифы",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

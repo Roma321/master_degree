@@ -1,0 +1,30 @@
+{
+  "text": "Согласно предварительным опросам общественного мнении , принимать участие в референдуме по этому , считающимся весьма визуальным , вопросу намерены 40 миллионов избирателей - лишь половина имеемого право голоса населений страны , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "мнения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "считающемуся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "имеющего"
+    },
+    {
+      "correctReplacement": "актуальным",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В оперных матче й Турции хозяева победившие - 1 : 0 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "победили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "первом"
+    },
+    {
+      "correctReplacement": "первых",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На наша предложение разрешить ситуацию , вернув кампаний PORT RU затраченные средства мы получили отказ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "наше"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно отчету канадских спецслужб , многие исламские экстремисты , в том числе и сторонник саудовского террориста Осамы бин Ладенов , используют Канаду в качестве базы в своих действиях против США , сообщаю BBC News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сторонники"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Ладена"
+    },
+    {
+      "correctReplacement": "базы",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

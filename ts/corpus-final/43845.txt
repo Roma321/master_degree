@@ -1,0 +1,30 @@
+{
+  "text": "Это решение было принято после провала двух многомилионных проектов : станция Mars Polar Lander стоимостью 165 миллиона долларов в декабре прошлого года так и не вышла на связь после посадки недалеко от полюса , а межпланетные станции Mars Climate Orbiter стоимостью 125 миллионов долларами сгорела в атмосфере Марса из-за ошипки программистов в октябре 1999 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "станция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "межпланетная"
+    },
+    {
+      "correctReplacement": "ошибки",
+      "type": "typo",
+      "wordNumber": 49
+    }
+  ]
+}

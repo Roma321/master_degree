@@ -1,0 +1,25 @@
+{
+  "text": "Это решение было приняты на вчерашнем заседании исполкома движения , сообщивший одна из лидеров движения , председатель депутатской групп \"Регионы России\" Олег Морозов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщил"
+    }
+  ]
+}

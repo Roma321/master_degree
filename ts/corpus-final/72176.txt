@@ -1,0 +1,20 @@
+{
+  "text": "В срезу Cтавропольским краевой суд приговорила членов банды , готовившей теракт в Пятигорске , к разным срокам наказания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Cтавропольский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

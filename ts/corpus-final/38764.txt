@@ -1,0 +1,25 @@
+{
+  "text": "Это означающий , сто средний уровень пенсий в будущем году составлю 1000 рублей , а минимальная пенсией - 500 рублей в месяц , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "пенсия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "означает"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

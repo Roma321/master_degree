@@ -1,0 +1,25 @@
+{
+  "text": "Associated Press сообщал , что дождями разрушившее 110 тысяч домов , размыто более 100 километиов дорогах , ущерб от стихийного бедствия на сегодняшний день составляет около 16 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "дорог"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "разрушено"
+    },
+    {
+      "correctReplacement": "километров",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

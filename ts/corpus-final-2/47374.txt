@@ -1,0 +1,30 @@
+{
+  "text": "В результату изменения регламент в понеделькус было приостановлена участие в рейтинге следующих ресурсам : Internet . ru , News . port . ru , Talk . ru , Travel . ru , Gameport . ru , Rabota . ru , Autoport . ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "приостановлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ресурсов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "регламента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

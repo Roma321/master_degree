@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье около 21 : 00 пограннаряю обнаружила вооруженную группе человечков численностью около шести человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "группу"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "пограннаряд",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

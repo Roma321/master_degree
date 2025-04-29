@@ -1,0 +1,25 @@
+{
+  "text": "Министр финансов намерена защищать своё честь и достоинство в суде , кроме того , она обратившаяся за защитой от посягательств на нее в органы безопасностью украйны , сообщает крымская радиостанция \"Транс-м-радио\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "Украины",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

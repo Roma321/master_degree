@@ -1,0 +1,15 @@
+{
+  "text": "Два женщины погибли , еще четверо пассажиров получили травмы и доставлены в местную больниуу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Две"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

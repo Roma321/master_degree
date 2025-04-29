@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , у военных есть сечений , что последний месяц Басаев постоянно находилось под воздействием наркотического веществ , облегчающих страдания при сильнейших болях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "наркотических"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сведения"
+    },
+    {
+      "correctReplacement": "сведений",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

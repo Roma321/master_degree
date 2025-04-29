@@ -1,0 +1,20 @@
+{
+  "text": "Министр обороны сказл также , что версия о разливе ракетного топлива была \"навязана местноы население , как наиболее удобная .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "населению"
+    },
+    {
+      "correctReplacement": "местной",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

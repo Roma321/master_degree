@@ -1,0 +1,25 @@
+{
+  "text": "В районе , где засеявшие люди , в настоящих время идущий снег , температура 6-10 градусов мороза , порсвы ветра достигают 15 метров в секунду .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "застряли",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "порывы",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

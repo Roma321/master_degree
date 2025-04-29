@@ -1,0 +1,20 @@
+{
+  "text": "5 января стало известно , что были предотвращён взрывы на железнодорожных стапциях Гудермес , Терек , Наурскаем , Червленая .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Наурская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "предотвращены"
+    },
+    {
+      "correctReplacement": "станциях",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

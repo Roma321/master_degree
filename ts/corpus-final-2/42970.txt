@@ -1,0 +1,25 @@
+{
+  "text": "В Париже россияне первенствоуали в тремя видах программа , уступившие соперникам лишь в танцах на льду .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "трех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "программы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "уступив"
+    },
+    {
+      "correctReplacement": "первенствовали",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

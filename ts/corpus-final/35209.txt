@@ -1,0 +1,40 @@
+{
+  "text": "Как сообщил первый заместитель руководителя департамента экономической политики и развитий Москвы Валерий саров , законопроект устанавливаешь следующие ставки налогов с владельцев транспортных средств : для легковых автомобилей - от 6 до 12 рублей с каждой лошадиной силе , для мотоциклов - 3 рубля с каждой лошадиной силы , для автобусов - 12 рублей с каждой лошадиной сил , для грузовых автомобиля - от 8 до 26 рублей с каждого лошадиной силы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "устанавливает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 56,
+      "correctReplacement": "силы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 60,
+      "correctReplacement": "автомобилей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "развития"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 68,
+      "correctReplacement": "каждой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "силы"
+    },
+    {
+      "correctReplacement": "Жаров",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

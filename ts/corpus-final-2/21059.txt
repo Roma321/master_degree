@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что бывшей председателю совета директоров КрАЗа предъявлены обвинения в отмывании денег , соучастии в убийстве , незаконным хранении оружия и в нарушении правила операциями с драгоценными металлами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "незаконном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "правил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "операций"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "бывшему"
+    }
+  ]
+}

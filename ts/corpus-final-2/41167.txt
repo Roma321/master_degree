@@ -1,0 +1,25 @@
+{
+  "text": "Четверо человек госпитализирован в результате взрыве , произошедшего во вторнику вечером перед входом в железнодорожный вокзал Екатеринбурга , сообщаемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "госпитализированы"
+    }
+  ]
+}

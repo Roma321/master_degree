@@ -1,0 +1,20 @@
+{
+  "text": "В результате 16 человек пошатнувший , дрсятки отправлены в больницы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "погиб",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "десятки",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

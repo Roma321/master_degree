@@ -1,0 +1,25 @@
+{
+  "text": "Проект постановления об экономической амнистии поступивший в четверг на рассмотрение Госдумы , сообщил председатель думского комитету по законодатрльству Павел Крашенинниковы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "комитета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Крашенинников"
+    },
+    {
+      "correctReplacement": "законодательству",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

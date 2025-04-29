@@ -1,0 +1,25 @@
+{
+  "text": "В программах , о которых сообщаю X-Force , не предусмотрено изменение этих параметров на стороне пользователя - поэтому не предусмотрено и проводка на этот счета .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "предусмотрена"
+    },
+    {
+      "correctReplacement": "проверка",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

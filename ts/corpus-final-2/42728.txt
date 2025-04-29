@@ -1,0 +1,25 @@
+{
+  "text": "Такой образом , считают работник ширмы , \"ваши чувства поьучают художественное выражение\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "работники"
+    },
+    {
+      "correctReplacement": "фирмы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "получают",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

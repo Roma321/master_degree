@@ -1,0 +1,20 @@
+{
+  "text": "Система OASys (Offender Assessment System) будет хранить персональные данные преступников , вплоть до амых интимных подробностей включая образования , степень эмоциональной стабильности , отношение к алкоголю , круг знакомств и прочий детали , характеризующие социальное поведение преступника .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "образование"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "прочие"
+    },
+    {
+      "correctReplacement": "самых",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

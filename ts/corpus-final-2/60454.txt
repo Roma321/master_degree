@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаемый ИТАР-ТАСС , все они задохнулсф , отравившись угарным газом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "задохнулись"
+    },
+    {
+      "correctReplacement": "задохнулся",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

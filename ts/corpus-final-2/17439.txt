@@ -1,0 +1,20 @@
+{
+  "text": "По факту обнаружения ртути милицикй начато проводка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "начата"
+    },
+    {
+      "correctReplacement": "проверка",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "милицией",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

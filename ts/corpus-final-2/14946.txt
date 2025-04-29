@@ -1,0 +1,20 @@
+{
+  "text": "Президенты США Билл Клинтон не будет принимать решений по созданию национальной системы ПРО до истечрния срока своих полнолуний .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "correctReplacement": "полномочий",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "истечения",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

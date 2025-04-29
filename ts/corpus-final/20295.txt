@@ -1,0 +1,40 @@
+{
+  "text": "Если не будет осложнений , к вечеру Болмер оставишь мониторинг и техническую поддержку на шесть тысяч оператора , а само принял участие в новогодней вечеринке вместе с некоторыми сотрудниками корпораций , которые будут вынуждены присутствовать на работе в новогоднюю ночь - впрочем , всесте с семенами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "операторов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "оставит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "примет"
+    },
+    {
+      "correctReplacement": "семьями",
+      "type": "paronym",
+      "wordNumber": 45
+    },
+    {
+      "correctReplacement": "вместе",
+      "type": "typo",
+      "wordNumber": 43
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "\"Газпром\" получит в залог 25 проценты акций компаний холдинга \"Медиа-Мост\" и 19 процентов акций телекомпании \"НТВ\" для обеспечения гарантий по будущими обязательствам , возникающим в июле 2001 года по второму кребиту First Boston объемом 262 гиллиан долларов под гарантии \"Газпрома\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "будущим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "кредиту",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

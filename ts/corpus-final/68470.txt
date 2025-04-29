@@ -1,0 +1,20 @@
+{
+  "text": "Пожар начался в ночь на пятницу коло 2 : 50 в пятиэтажном жилое здании старой постройки в одной из квартир на втором этаже Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "жилом"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

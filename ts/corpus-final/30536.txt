@@ -1,0 +1,25 @@
+{
+  "text": "В сумке со взрывным устойчивые сотрудники ФСБ обнаруженные также 100 граммов взрывчатки , охотничье ружье , боеприпасы , две радиостанции и бронежилетом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "бронежилет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "устройством"
+    },
+    {
+      "correctReplacement": "устройства",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

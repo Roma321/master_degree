@@ -1,0 +1,20 @@
+{
+  "text": "За два последних дней саранча распространилось по всему Омсау .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "распространилась"
+    },
+    {
+      "correctReplacement": "Омску",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По предварительному данным , столкновение произошёл из-за того , чтщ водитель грузового , попытался обогнать идущий впереди транспорт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "предварительным"
+    },
+    {
+      "correctReplacement": "грузовика",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

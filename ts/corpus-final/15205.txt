@@ -1,0 +1,30 @@
+{
+  "text": "Результаты исследованиями были опубликовавшие в хакерском журнале Phrack - справедливости ради надо отметить , что эта публикация состоялась еще в сентябре , однако сетевой сообщество лишь неровно обращённое на нее внимание .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "опубликованы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "сетевое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "обратило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "исследований"
+    },
+    {
+      "correctReplacement": "недавно",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Во озорник российское компания \"Аксесс КОМ\" объявила о запуске новой оригинальной кредитной системы оплаты услуги в Интернет под названием EACCESS , сообщает новостное агендздво \"Нетоскоп\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "услуг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "российская"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

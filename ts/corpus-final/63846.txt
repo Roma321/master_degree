@@ -1,0 +1,25 @@
+{
+  "text": "ИТАР-ТАСС сообщает , что 7 октября в Великобритании кабельное телевидение TV-Reuters показанное телесюжет о разбитом у чеченской села Червленое автобусе , утверждающие , что он был уничтоживший российским танком .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "утверждая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "показало"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "уничтожен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "чеченского"
+    }
+  ]
+}

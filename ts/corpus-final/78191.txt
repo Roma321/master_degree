@@ -1,0 +1,25 @@
+{
+  "text": "На сигнал милиционеров машиы не остановилась , продолжаемые следовать с большнй скоростью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "машина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "продолжая"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "большой",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

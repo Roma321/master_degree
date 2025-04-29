@@ -1,0 +1,25 @@
+{
+  "text": "Крупные западных организации , регистрирующие домены , такие как Network Solutions и NameSecure , пока готовятся к регистрации длинных URLs , зато более мклкие организации уже регистрируют их на протяжении последнего трех недели .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "западные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "недель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "последних"
+    },
+    {
+      "correctReplacement": "мелкие",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

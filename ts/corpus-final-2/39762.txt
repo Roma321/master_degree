@@ -1,0 +1,40 @@
+{
+  "text": "Цифровая бумаге выглядит , как обычная писчая , но имеет практически незаметный слою точек , формирующих уникальная рисунок , который служит идентификатором каждой отдельной страница , позволяемым , таким образом , электронным устройствам воспринимать каждую новую страницы как оддельный файл .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "слой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "страницы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "позволяющим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "бумага"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "страницу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "уникальный"
+    },
+    {
+      "correctReplacement": "отдельный",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

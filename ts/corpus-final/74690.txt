@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники милиции проводили плановую зачистку поселка и в одной из заброшенных домов наткнувшиеся на замаскированный взрывное устройздво .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "наткнулись"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "замаскированное"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам члена исполкома Национального конгрессов Курдистан Мамояна Азиза Джавоевич , это уже двенадцатая акция , провёдшая сторонниками Оджалана в москве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проведенная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Джавоевича"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Курдистана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "конгресса"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

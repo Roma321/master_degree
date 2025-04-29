@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающий РИН \"Новости\" со ссылкой на представителя пресс-службы министерства , Наурский , Шелковской , Сунженский , Надтеречное районы полностью очищены от бандформирований .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Надтеречный"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

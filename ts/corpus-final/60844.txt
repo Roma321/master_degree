@@ -1,0 +1,25 @@
+{
+  "text": "Нынешний jackpot наращивался с марта этого годов , когда человек , личность которого прессе неизвестна , выиграб 18 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "наращивается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "выиграл",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

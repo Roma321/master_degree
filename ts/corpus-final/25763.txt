@@ -1,0 +1,30 @@
+{
+  "text": "Украина оплатит свои долги за российский газ , заявленный в четверг премьер-министр Украины Виктор Ющенко в ходах переговорах на эту трму с председателем правления ОАО \"Газпром\" Ремом Вяхиревым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "переговоров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "тему",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

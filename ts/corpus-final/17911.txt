@@ -1,0 +1,20 @@
+{
+  "text": "Однако , как стало известно сегодня , два человека все-же погибли от стихии : один разбилась на машине на мокрых дороге , другого смывшее волной .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "разбился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "мокрой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "смыло"
+    }
+  ]
+}

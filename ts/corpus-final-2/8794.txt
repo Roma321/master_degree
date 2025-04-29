@@ -1,0 +1,20 @@
+{
+  "text": "Автокатастрофа происшедшие по вине влдителя \"Ниссана\" , машина которого двигалась со значительным превышением допустимой на трассе скорости .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "произошли",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "водителя",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Десятки полицейских с собаками при поддержке вертолетов продолжают прочесывать окрестности в поисках второго шрабителя - чернокожего мужчины , одетых в черное и с закрытыми мотоциклетным шлема на голове .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "одетого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "закрытым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "шлемом"
+    },
+    {
+      "correctReplacement": "грабителя",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

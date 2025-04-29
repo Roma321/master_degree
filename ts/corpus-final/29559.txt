@@ -1,0 +1,30 @@
+{
+  "text": "Такое решение было принято на заседании горотского земского клуба Красноярсков по инициативе Красноярского филиала Международная Ассоциации женщины с университетским образованием .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Красноярска"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Международной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "женщин"
+    },
+    {
+      "correctReplacement": "женского",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

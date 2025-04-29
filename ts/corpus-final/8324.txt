@@ -1,0 +1,20 @@
+{
+  "text": "Об этом РИА \"Новости\" сообщили в аппарате представителя правительства российск Федераций в Чеченской Республике Николая Кошмана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Российской"
+    },
+    {
+      "correctReplacement": "Российских",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

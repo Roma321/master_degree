@@ -1,0 +1,30 @@
+{
+  "text": "Еще в декабре руководство компании , в которой работает 4 тысячи человек , разославшее своим сотрудникам предупреждения о предстоящих переменами и о временных увольнениях , которые начнёмся уже на следующую неделях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "разослало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "неделе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "следующей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "начнутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "переменах"
+    }
+  ]
+}

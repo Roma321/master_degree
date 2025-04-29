@@ -1,0 +1,30 @@
+{
+  "text": "Рейтингу Топ100 немецкого клона обслуживает русскоязычные ресурсы , зарегистрируем в Германии , его новый интерфейс содержу критское описании ресурса и редакторскую оценку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Рейтинг"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "содержит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "зарегистрированные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "описание"
+    },
+    {
+      "correctReplacement": "краткое",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Однако он сообщённый , что в настоящую время отток мирных жителей замечен в ряде сели Курчалоевского района , посколоку в окрестностях этих деревень было заметившее перемещение групп боевиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "замечено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

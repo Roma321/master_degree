@@ -1,0 +1,25 @@
+{
+  "text": "Согласно закону разрешался забор канувшиз только при отсутствии альтернативных методов лечений и трупного материала .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "разрешается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "лечения"
+    },
+    {
+      "correctReplacement": "тканей",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "канувших",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , первого о намерении кумленные Лондонскую биржу заявила шведская OM-Gruppen , которая занята в области компьютерной автоматизации бирж и выступает владельцем биржи ценных булав в Стокгольме .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "купить"
+    },
+    {
+      "correctReplacement": "бумаг",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "купленные",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В то же время сряд украинских заказчиков , в том числах Министерство обороны и ВМС Украины , не оплатим выполненные предприятием работы , что в значительная степенях усложнившее финансовое положение завода .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "степени"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "оплатили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "значительной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "усложнило"
+    },
+    {
+      "correctReplacement": "ряд",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

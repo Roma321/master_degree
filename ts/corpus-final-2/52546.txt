@@ -1,0 +1,25 @@
+{
+  "text": "Специалистам из eTForecasts минувшим летом предсказывали , что к концу года асдитория Интернет достигнет 375 миллионов челомей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Специалисты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "аудитория",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

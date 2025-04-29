@@ -1,0 +1,30 @@
+{
+  "text": "Также затрагивался вопросы соблюдения фегеральное законодательства на всей территории страны и сохранения единой правового поля на всей территории Российской Федерации , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "федерального"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "затрагивались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "единого"
+    },
+    {
+      "correctReplacement": "федеральное",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

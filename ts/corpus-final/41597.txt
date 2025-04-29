@@ -1,0 +1,25 @@
+{
+  "text": "Представителя посольства сообщил Reuters , что посол дрон Мелвин получифший тяжелое ранение в голову .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представитель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "получил"
+    },
+    {
+      "correctReplacement": "Джон",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "получивший",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "С середины сентябрю трейдинг Зюганову остается практически неизменной , а Примакова - сократился на 3% .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сентября"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "неизменным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Зюганова"
+    },
+    {
+      "correctReplacement": "рейтинг",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

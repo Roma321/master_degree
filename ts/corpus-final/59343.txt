@@ -1,0 +1,20 @@
+{
+  "text": "Пользователям Microsoft Outlook приходит письмо (иногда - с адресом знакомые им людей в поле \"From\") , озаглавленное \"ILOVEYOU\" и содержащее предложение открыть приложенные файф \"Love Letter . \"",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "знакомых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "приложенный"
+    },
+    {
+      "correctReplacement": "файл",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По информации российских военных , в ближайшее времени бортики будут активно прорываться из Чечни в Дагестан , передающий Агентство военных новостей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "боевики",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

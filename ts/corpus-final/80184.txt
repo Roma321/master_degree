@@ -1,0 +1,20 @@
+{
+  "text": "Греф сказал , что \"в кинетической программах нет ни строчки про повышение пенсий\" , а только выражена негативная позиция по данного вопросу и президента , и правительства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "программе"
+    },
+    {
+      "correctReplacement": "экономической",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

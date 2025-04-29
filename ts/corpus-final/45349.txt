@@ -1,0 +1,20 @@
+{
+  "text": "Станций были закрыты из-за неполадок в системы эскалатороф , которые неожиданное начали останавливаться .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "системах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Станции"
+    },
+    {
+      "correctReplacement": "эскалаторов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

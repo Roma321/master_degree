@@ -1,0 +1,20 @@
+{
+  "text": "Ожидается , что каждый из роботов будеп действующие 90 дня и проходить в сутки около 110 метров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "действовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "дней"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

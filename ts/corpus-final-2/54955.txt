@@ -1,0 +1,30 @@
+{
+  "text": "По мнения милиционеров , московские власти в очередной раз не готов ликвидировать последствия сильных снегопадов -дорожной техники в настоящее время га улицах Москву практически не видно , и из-за этого остаются неубранными сугроб на проезжей части автодорог .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "сугробы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "готовы"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

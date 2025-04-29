@@ -1,0 +1,25 @@
+{
+  "text": "Сезонными таможенные пошлины ни ввозе сахара снижены , новые ставки вступите в силу 18 апреля и будут действовать в течение шести месяцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сезонные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ввоз"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "вступят"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

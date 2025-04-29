@@ -1,0 +1,30 @@
+{
+  "text": "Прошлая осень , взеывы в Москве , Буйнаксках и Волгодонске потрясли всё страну , однако правительство , руководство области и города приняли и принимают все меры для того , чтобы уменьшить последствия этих несчастий , отмечавший российское премьер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Буйнакске"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "всю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 36,
+      "correctReplacement": "российский"
+    },
+    {
+      "correctReplacement": "отметил",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "взрывы",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

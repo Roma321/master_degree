@@ -1,0 +1,35 @@
+{
+  "text": "Финская министре финансов Саули Ниинисто выиграл 14 тысячи 240 докладов в телевизионного игре \"Кто хочет ставшие миллионером\" (в русском варианте эта игра называется \"О , счастливчик ! \") .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "телевизионной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Финский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "стать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "министр"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

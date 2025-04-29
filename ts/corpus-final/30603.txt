@@ -1,0 +1,25 @@
+{
+  "text": "Казанская городская телефонное сеть планируешь во втором квартале 2000 года ввести повременную оплату за телефон , сообщмешь \"Финмаркет\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "телефонная"
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

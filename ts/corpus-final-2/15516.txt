@@ -1,0 +1,25 @@
+{
+  "text": "Однако сам покупатель , который накануне трагедии приобретший этот грузовик за 500 долларов и доставил на нем смертоносное круз к месту взрыва , до сих пор находился на свободе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "приобрел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "смертоносный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "груз",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

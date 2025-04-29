@@ -1,0 +1,25 @@
+{
+  "text": "В законе , в частностью , увеличивается сумма задолженности , начиная с которой претензии кредиторах будут приниматься в суде с последующими побуждение дел о несостоятельности .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "кредиторов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "последующим"
+    },
+    {
+      "correctReplacement": "возбуждением",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

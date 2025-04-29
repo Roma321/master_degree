@@ -1,0 +1,25 @@
+{
+  "text": "По информации , которой располагал агентство , кандидат в президентам ранена в животом осколками (от 13 до 15-ти осколков) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "живот"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "располагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "президенты"
+    },
+    {
+      "correctReplacement": "которой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

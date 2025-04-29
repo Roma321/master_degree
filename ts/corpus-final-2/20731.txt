@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , эти фильмы - своеобразный трилогия , которую объедиьял общий сюжет , основанный на старинной северного сказке о девочке с добрым сердцем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "своеобразная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "северной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "объединяет"
+    },
+    {
+      "correctReplacement": "объединял",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

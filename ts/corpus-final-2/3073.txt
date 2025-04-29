@@ -1,0 +1,20 @@
+{
+  "text": "В одном из домов обрушился подъездом , в результате чегш погибшие семь человек , еще восемь пострадавших госпитализированы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "подъезд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

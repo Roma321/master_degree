@@ -1,0 +1,30 @@
+{
+  "text": "В ней находились похищенный дети и трое мужчинам , в той числе чеченец , разыскивавший по подозрению в прибыльности к захвату детей с целью выкупа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "разыскиваемый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "похищенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "мужчин"
+    },
+    {
+      "correctReplacement": "причастности",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Одному из высочайшего иерархов Русской православной церкви митрополит Смтленские и Калининградский Кирилл выступил с резким протестом против планов министерства образований РФ расширить сексуальные познания учащихся средних школ , передает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "высших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "образования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Смоленский"
+    },
+    {
+      "correctReplacement": "Смоленские",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

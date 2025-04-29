@@ -1,0 +1,30 @@
+{
+  "text": "На конференции молодые хакеры имели возможность поучившиеся у классиков орловыми хакерской этики , и в частностях , узнать , почему настоящие хакеры порицают атаки DDoS , которыми были завалены Yahoo ! и другой известные сайты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "поучиться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "основам"
+    },
+    {
+      "correctReplacement": "основами",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

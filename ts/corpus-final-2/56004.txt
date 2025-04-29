@@ -1,0 +1,20 @@
+{
+  "text": "У Дворцовой моста будут установлены телеэкраны , на которых будут транслирующиеся поздравления горожанам от работодателей города и известных петербуржцев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "транслироваться"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Дворцового"
+    },
+    {
+      "correctReplacement": "руководителей",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

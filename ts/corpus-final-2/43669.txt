@@ -1,0 +1,20 @@
+{
+  "text": "У сборных России и Египта - по одного победе , аргентинцы проиграли оба матов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "матча"
+    },
+    {
+      "correctReplacement": "матчей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во водник были закрыты школы в города Сарасота , Сент-люсию , Манатт , Хилсборо .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Сент-Люсия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "городах"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Манати",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

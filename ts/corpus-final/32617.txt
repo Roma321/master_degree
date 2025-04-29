@@ -1,0 +1,35 @@
+{
+  "text": "Ведущий инспектор отделу дознания Мочковской южной таможен Константины Ионов приговорён к семью годам лишения свободы \"за подстрекательство к даче взяткидолжностному лицу , а также хищенииденежных средств путем мошенничества\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Константин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "отдела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "семи"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "таможни"
+    },
+    {
+      "correctReplacement": "Московской",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

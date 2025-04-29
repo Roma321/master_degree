@@ -1,0 +1,20 @@
+{
+  "text": "Лучше другим отступавшая Мария Бутырская , второй стали Виктория Волчкова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "выступила",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

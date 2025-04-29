@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщалась ранее , танкер \"Волгонефть-147\" приписан к порту Астрахани , его владельцем выступает зарегистрированная нм Кипрах компания , а арендатором - московская \"Транспетро-Волга\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Кипре"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

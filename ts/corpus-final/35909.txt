@@ -1,0 +1,25 @@
+{
+  "text": "Прибывший во тортик в Аргун помощнике и . о . президентаРоссии Сергей Ястржембский также признала , что \"до сих пор нет стопроцентной уверенностью в гибели Радуева\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "помощник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "уверенности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

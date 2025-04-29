@@ -1,0 +1,20 @@
+{
+  "text": "В ней принимаем участие 700 кампании из 44 стран .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "принимают"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

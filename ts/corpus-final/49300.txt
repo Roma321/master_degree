@@ -1,0 +1,20 @@
+{
+  "text": "Во втором туре выборов мэна Томска , состоявшемся в минувшее воскресенье , победителем стал ныне действующая глава городской администрации Александр Макаров , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "действующий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "мэра",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

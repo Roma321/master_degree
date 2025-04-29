@@ -1,0 +1,20 @@
+{
+  "text": "Ранее предполагалась , что встреча состоится в 14 . 00 в кремерах , но потом планы изменились .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "предполагалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Кремле"
+    },
+    {
+      "correctReplacement": "Кремлях",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

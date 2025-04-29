@@ -1,0 +1,25 @@
+{
+  "text": "Перед тем как подавать жалобу в WIPO , базирующегося в Женеве , представители Microsoft посоветовалм Ахмеду отдать домен microsof . com добровольно , предложив возместить деньгами , потраченные на его регистрацию в Network Solutions .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "базирующуюся"
+    },
+    {
+      "correctReplacement": "деньгами",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "посоветовали",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

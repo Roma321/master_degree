@@ -1,0 +1,25 @@
+{
+  "text": "На 45-я минуте Заза Джанашия сокращённый разрыв в счете , а как только начался второй тайм , Игори Чугайнов забил второго мяч \"Локомотива\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сократил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Игорь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "45-й"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "второй"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , неделей рао денежные база увеличилось на 8 , 7 миллиарда рублей с отметки 327 , 3 миллиарда по состояниям на 10 апреля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "денежная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "увеличилась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "состоянию"
+    },
+    {
+      "correctReplacement": "раньше",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Арест осуществлен судебными приставами Москвы с целью удовлетворения исков , выдвинутых , в свою очереди , против РАО рядом коммерческих структур , сообщаашь РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "очередь"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

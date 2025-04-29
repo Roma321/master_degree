@@ -1,0 +1,30 @@
+{
+  "text": "Как предполагаешься , система используемый боле сотни спутников-шпионов для перехвата сообщений , передаваемых по всем видам электронных коммуникаций : телефонами , факсам , Интернет , радио и спутниковой связи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "телефонам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "использует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Интернету"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "предполагается"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

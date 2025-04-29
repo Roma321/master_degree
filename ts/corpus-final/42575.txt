@@ -1,0 +1,20 @@
+{
+  "text": "За это время судно успело срвершитьтревшего рекса в Японию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "совершитьтри"
+    },
+    {
+      "correctReplacement": "рейса",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "совершитьтревшего",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

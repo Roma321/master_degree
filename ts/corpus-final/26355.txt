@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что тогда в результате трагедии на могиле бывшего руководителяРоссийского фонда инвалидов войне в Афганистане Михаилов Лиходеяполибли 14 челомей , 24 получили ранения различной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "войны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Михаила"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Лиходеяпогибли",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

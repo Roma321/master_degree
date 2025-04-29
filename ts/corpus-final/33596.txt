@@ -1,0 +1,25 @@
+{
+  "text": "В Татарстане впервые освобожден от заливаемую должности судья Верховного суда республики , сообщаешь Федеральное агентство новостей мо ссылкой на председателя Верховного Суда РФ Геннадия Баранова .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "занимаемой"
+    },
+    {
+      "correctReplacement": "занимаемую",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

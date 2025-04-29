@@ -1,0 +1,25 @@
+{
+  "text": "В то же время ведение операции через Интернет стал популярнее пример в пять раз (до 28%) , и более 25% клиентов претпочтут вести операции с помощью телефона .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "операций"
+    },
+    {
+      "correctReplacement": "примерно",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "предпочтут",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

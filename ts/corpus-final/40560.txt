@@ -1,0 +1,20 @@
+{
+  "text": "Газете сообщал , что свои интересы в Корее преследует также концерн Daimler Chrysler , который \"обхащивает\" попавшую в кризис Daewoo Motor .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Газета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "\"обхаживает\"",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

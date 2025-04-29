@@ -1,0 +1,25 @@
+{
+  "text": "\"Если мы не придем к взаимопониманию между собой , я думаем , что мы реализуете пакет тем людям , которые хотят работать на заводе , у которых , быть может , есть какие-то свои договоренности с новыми освободителями нашему предприятия\" , - сообщил Быков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "думаю"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "нашего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "реализуем"
+    },
+    {
+      "correctReplacement": "руководителями",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

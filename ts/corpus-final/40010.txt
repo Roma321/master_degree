@@ -1,0 +1,35 @@
+{
+  "text": "Помощник и . о . президента также сообщивший , что возле населенного пунктов Дачу-Борзой обнаружены большие складами боеприпасов и медикамента , а также запасы продовольствия , которых хватило бы на то , чтобы длительное времени кормить коло 1200 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "склады"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пункта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "медикаментов"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

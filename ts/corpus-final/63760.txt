@@ -1,0 +1,20 @@
+{
+  "text": "Он сообщу , что сына здоров , и предупредил , что для его освобождения необходимо заплатить 25 миллионов долларов Д",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сын"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

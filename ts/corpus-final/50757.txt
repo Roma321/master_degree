@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщила в четверг \"Интерфаксу\" первый заместитель начальника нереального штаба Вооружённом сил России , генерал-полковник Валерий Манилов , официального решения по этомц вопросу пока не принято .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Вооруженных"
+    },
+    {
+      "correctReplacement": "Генерального",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "этому",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

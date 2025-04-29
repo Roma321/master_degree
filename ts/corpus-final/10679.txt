@@ -1,0 +1,25 @@
+{
+  "text": "Договор подпишут 26 ноября в Кремле презент Ельцины и Лукашенко , после чего документ будет направивший на ратификацию в Госдуму .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "направлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Ельцин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "президенты"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

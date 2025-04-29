@@ -1,0 +1,30 @@
+{
+  "text": "Компания Amazon не стала отрицать самой факта проведения эксперимента с ценами , но заявившая , что никакой вязи с индивидуальными данными пользователей эту эксперимент не имевший .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "имел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "самого"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

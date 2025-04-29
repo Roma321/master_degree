@@ -1,0 +1,25 @@
+{
+  "text": "Соответствующая заявление подписавшие председатель \"Демократической России\" , депутат Госдумы Юлий Рыбаков , сопредседатель движения Лев Пономарев и председателю организации \"Чвободные демократы России\" Марина Салье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Соответствующее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подписали"
+    },
+    {
+      "correctReplacement": "\"Свободные",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

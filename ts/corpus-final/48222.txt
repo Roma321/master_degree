@@ -1,0 +1,30 @@
+{
+  "text": "международное рейтинговый агентство Standard&Poors признало Санкт-петербургом наиболее продвинутым регионом России в сфере управления своими финансами , информация о которых находишься в ьткрытом доступе в информационных материалах и сети Интернет .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Санкт-Петербург"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "рейтинговое"
+    },
+    {
+      "correctReplacement": "Международное",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "открытом",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

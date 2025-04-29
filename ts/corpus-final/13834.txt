@@ -1,0 +1,20 @@
+{
+  "text": "Это далёкой не первый инциденты , происходящий с региональными отделениями \"Яблька\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "correctReplacement": "далеко",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "\"Яблока\"",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

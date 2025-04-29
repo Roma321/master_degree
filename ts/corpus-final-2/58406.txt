@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщим РИА \"Новости\" в правоприменительных органах Чечни , машину Яхляева была обстреляна в двух километрах от поселка Новогрозненский , расположенных примерно в 15 километрах восточнее Гудермеса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "машина"
+    },
+    {
+      "correctReplacement": "правоохранительных",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Яхьяева",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

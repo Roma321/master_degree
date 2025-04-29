@@ -1,0 +1,25 @@
+{
+  "text": "Шесть встроенных датчиков собирали информацию о частоте сердечных сокращений , дыхании , кровяном давлении - всего контролирующийся 35 параметроч жизнедеятельность .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "контролируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "жизнедеятельности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "собирают"
+    },
+    {
+      "correctReplacement": "параметров",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Командой заняла лишь четвёртый мпсто в первенстве страны и проиграю в финале Кубка Италии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "четвертое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Команда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "проиграла"
+    },
+    {
+      "correctReplacement": "место",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

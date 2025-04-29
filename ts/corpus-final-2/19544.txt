@@ -1,0 +1,20 @@
+{
+  "text": "21 человек погибший и столько же получрли тяжелые ранения в автокатастрофе , произошедшей рядом с городом Карсы в Турции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Карс"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

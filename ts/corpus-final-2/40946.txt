@@ -1,0 +1,25 @@
+{
+  "text": "По фактам избиения , зафиксированному врачами железнодорожной больница Курска , а затем и милицией , было возбудившее дело по статье 112 , части 2 , пунктам \"б\" и \"г\" Уголовного кодекса костинской Федерации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "факту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "больницы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "correctReplacement": "Российской",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

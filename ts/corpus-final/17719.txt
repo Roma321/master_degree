@@ -1,0 +1,30 @@
+{
+  "text": "Однако Мосгоризбирком пришетший к выводу , что предвыборные плакаты СПС и ОВР нельзя признать агитацией в пользу кандидатов в мэры Юрий Лужкова и Сергея Кириенко , поскольку в них не содержалось призыва голосовать за этих кандидатов на выборах главы столичная администрации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "призывов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "столичной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "пришел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Юрия"
+    },
+    {
+      "correctReplacement": "пришедший",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

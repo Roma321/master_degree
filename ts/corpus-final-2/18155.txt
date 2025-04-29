@@ -1,0 +1,20 @@
+{
+  "text": "В среду , 13 сентября , в Грозном в районе афтовокзалу были убиты два чеченских боевика .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "автовокзала"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "автовокзалу",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

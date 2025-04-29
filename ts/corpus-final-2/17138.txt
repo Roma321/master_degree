@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал с местом события корреспондент РИА \"Новости\" , сторонники Дери установили напротив ворот этой тельмы , находящейся в израильской городе Рамле , огромную палатку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "места"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "израильском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "тюрьмы",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

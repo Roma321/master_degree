@@ -1,0 +1,20 @@
+{
+  "text": "Компания Daewoo Motor , вторых по величине южнокорейский авоопроизводитель , официально объявлена банкрот .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "банкротом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "второй"
+    },
+    {
+      "correctReplacement": "автопроизводитель",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

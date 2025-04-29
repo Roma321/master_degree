@@ -1,0 +1,30 @@
+{
+  "text": "Спенсер Абрахам в ноябре проиграю сенатский выборы демократу Дэбби Стейбеноу , а Линда Чавес служу в Комиссии по гражданским правам ури президенте Рональде Рейганах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сенатские"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проиграл"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Рейгане"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "служила"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

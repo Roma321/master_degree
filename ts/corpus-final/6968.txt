@@ -1,0 +1,25 @@
+{
+  "text": "Еще одно бомба , по зведениях турагентства Assosiated Press , взорвалась у здания местного отделения ООН .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "correctReplacement": "агентства",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "сведениях",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

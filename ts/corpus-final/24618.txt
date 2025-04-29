@@ -1,0 +1,20 @@
+{
+  "text": "Например , сейчас министр занимался не только ОВР , но и ЛДПР , у которой тоже не все в порядках .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "порядке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "занимается"
+    },
+    {
+      "correctReplacement": "Минюст",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

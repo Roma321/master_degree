@@ -1,0 +1,35 @@
+{
+  "text": "Заявки от новых соискателей не принимаются , в конкурсе можете участвовать только те компании , которые уже подали зарядками на участие в конкурсах , наметившем на 24 май .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "конкурсе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "заявки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "мая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "намеченном"
+    },
+    {
+      "correctReplacement": "заявками",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

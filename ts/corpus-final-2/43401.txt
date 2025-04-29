@@ -1,0 +1,30 @@
+{
+  "text": "\"Иначе у \"Яблока\" будет грустная ксадьба : после неизбежный раскола останется полудиссидентской организация , состоящая из умных и хороших людьми , но не имеющих поддержки у избирателей\" , - считает Мизулина . � .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "неизбежного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "полудиссидентская"
+    },
+    {
+      "correctReplacement": "судьба",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "усадьба",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

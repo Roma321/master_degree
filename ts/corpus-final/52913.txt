@@ -1,0 +1,25 @@
+{
+  "text": "Полиция полагающий , что именно он задушил трех проституток в Детройте , а также причастен к ряду исступлений сексуального характера в штатах Мичиган , Виргинии , в Уашингтоне и на Гавайях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "полагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Виргиния"
+    },
+    {
+      "correctReplacement": "преступлений",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "Вашингтоне",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

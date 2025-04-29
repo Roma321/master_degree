@@ -1,0 +1,30 @@
+{
+  "text": "Точное размер компенсации Казахстанам за ноябрьское аварию \"Протона\" будет определен примерно черес месяц .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Точный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Казахстану"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "октябрьскую"
+    },
+    {
+      "correctReplacement": "октябрьское",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

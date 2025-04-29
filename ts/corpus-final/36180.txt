@@ -1,0 +1,25 @@
+{
+  "text": "В среду в Кремле состоявшаяся встреча исполняющего стобязанности президента России Владимира Путина с министром иностранных дпл Великобритании Робином Куком , который находится в Москве с рабочим визитом , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "correctReplacement": "обязанности",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

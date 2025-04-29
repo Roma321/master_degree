@@ -1,0 +1,30 @@
+{
+  "text": "Генетальный директор Deutsche Bahn AG Хартмут Медорны не стал раскрывать возможного стоимости проекта , отмечу только , что универсальные европейские поезда будут совершать поездки со среднего скоростью 320 километров в час .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "средней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Медорн"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "возможной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "отметив"
+    },
+    {
+      "correctReplacement": "Генеральный",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

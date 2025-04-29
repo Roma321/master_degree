@@ -1,0 +1,25 @@
+{
+  "text": "В собственность одного из членах избиркома Калмыкии приобретена квартире стоимостью 170 тысяч рублей . Кражи денежных средств имели также место в Карелию , Кемеровской и Пермской огласивших .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "квартира"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Карелии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "областях",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

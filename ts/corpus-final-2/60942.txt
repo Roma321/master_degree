@@ -1,0 +1,20 @@
+{
+  "text": "Предупреждения о возможном прекращении поставок природной газа были заблаговременно разосланы растворителям энергогенерировавших компаний Украины еще в начале января .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "природного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "энергогенерирующих"
+    },
+    {
+      "correctReplacement": "руководителям",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

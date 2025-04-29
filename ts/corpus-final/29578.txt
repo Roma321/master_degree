@@ -1,0 +1,20 @@
+{
+  "text": "Обвиняемыми по этому делу проходим четыре гражданина бывших СССР , постоянно проживающие в Ладвии , - Евгений Антименко , Александр Клишин , Игорь Москвитин и Игорь Тиммерман .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "Латвии",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

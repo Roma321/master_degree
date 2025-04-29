@@ -1,0 +1,20 @@
+{
+  "text": "Меня просто поражает то , что федеральные сторона опять повторяет те же самые ошибка , наступает на те же самые грабли\" , - сказал уйгурский президент .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "ошибки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "федеральная"
+    },
+    {
+      "correctReplacement": "ингушский",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Отделение интенсивной терапии госпиталя закрыта до тех пор , пока персонала т родственники заболевших не пройденные полное обследование .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "закрыто"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пройдут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "персонал"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

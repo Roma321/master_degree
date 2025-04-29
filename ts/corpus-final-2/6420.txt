@@ -1,0 +1,20 @@
+{
+  "text": "У распродажа ев оборотная сторона : по утверждению немецкого Союза розничной торговли , война цен привела к тому , что \"у потребителей теперь намного бемнее выбор , чем раньше\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "распродажи"
+    },
+    {
+      "correctReplacement": "беднее",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

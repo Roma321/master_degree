@@ -1,0 +1,25 @@
+{
+  "text": "По словам старшей менеджера по развитию и коммерцию кампании Sony Романа Потапова , цены в SonyStyle будут соотведздвовать средним розничным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "коммерции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "старшего"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "соответствовать",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

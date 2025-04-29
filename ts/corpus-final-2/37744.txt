@@ -1,0 +1,30 @@
+{
+  "text": "Согласно документу , за прошлый и текущем год Счетной палатой выявившие необоснованные расходах ФСФО в раздоре 25 , 8 миллиона рублей , которые были направим на содержание и текущие расходы этого ведомства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "текущий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "направлены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "выявлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "расходы"
+    },
+    {
+      "correctReplacement": "размере",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

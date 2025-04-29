@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в торжественном обстановке состоявшееся открытие последнего участков южной скоростной трассы , связысающей Вену с Италией и Словенией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "торжественной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "участка"
+    },
+    {
+      "correctReplacement": "связывающей",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Самолёт взлетели и попытался набррть высоту , затем двигатели загорелись , после чего лайнер стала снижаться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "взлетел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Самолет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "набрать",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники таможни США задержали 11 , 4 миллионом долларов , которые контрабандисты пытаемия тайком переправить за границу , передает CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "пытались"
+    },
+    {
+      "correctReplacement": "пытаемся",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

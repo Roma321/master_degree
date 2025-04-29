@@ -1,0 +1,25 @@
+{
+  "text": "На территории лавры похороним многие известные люди России , а в Свято-Троицком соборе лавры плодились мощи князя Александра Невских .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "похоронены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Невского"
+    },
+    {
+      "correctReplacement": "находились",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

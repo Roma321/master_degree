@@ -1,0 +1,25 @@
+{
+  "text": "К вечеру 20 манта было задержу 76 бантиков , в тех числе две женщины .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "задержано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "бандитов",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "марта",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

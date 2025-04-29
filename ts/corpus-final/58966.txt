@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас параметры орбиты составляют 390 километров максимальной удаления от Земель и 370 километров минимального удалания , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "максимального"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Земли"
+    },
+    {
+      "correctReplacement": "удаления",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

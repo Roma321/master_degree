@@ -1,0 +1,20 @@
+{
+  "text": "В четвертом туке чемпионат России по футболу самое сенсационный результат был зафиксирован в матче ЦСКА и новороссийского \"Черноморца\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "чемпионата"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "самый"
+    },
+    {
+      "correctReplacement": "туре",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

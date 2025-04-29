@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , уже на будущей неделе тепло начали подавать в детским домов , школы , интервалы и сады .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "начнут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "детские"
+    },
+    {
+      "correctReplacement": "интернаты",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

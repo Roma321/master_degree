@@ -1,0 +1,30 @@
+{
+  "text": "Бывший офицер британыкой разведки давид Шейлер , заявившее в воскресенье о намерении вернуться на родина и сдаться британским властям , был арестую прямо в Дувре .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "заявивший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "родину"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "арестован"
+    },
+    {
+      "correctReplacement": "Дэвид",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "британской",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

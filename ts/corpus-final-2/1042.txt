@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённые РБК во степенном пресс-центре МВД РФ на Северном Кавказе , в среду была проведено зачистка центральной рынка города .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "проведена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "центрального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "временном",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

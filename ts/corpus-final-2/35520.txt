@@ -1,0 +1,15 @@
+{
+  "text": "По сообщению Reuters , бывшая парашютист Пго Чавес провел переговоры с группой американских бизнесменов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "Уго",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

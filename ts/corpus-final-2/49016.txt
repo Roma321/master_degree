@@ -1,0 +1,25 @@
+{
+  "text": "Юрист группы Джил Пьетрини особо подчеркнула ВВС , что в суд знаменитых музыканты обратились только после того , кок не менее знаменитая пафюмерной фирме было направлен письмо с предложением прекратить выпуск контрфактного парфюма \"по-хорошему\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "знаменитой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "знаменитые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "направленно"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

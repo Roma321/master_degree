@@ -1,0 +1,25 @@
+{
+  "text": "Согласно заявлению следователей , расследование сосредоточившее на несколько крупного функционерах партии , в числе которых и ее бывоий лидер Йорг Хайдер .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сосредоточено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "крупных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "нескольких"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

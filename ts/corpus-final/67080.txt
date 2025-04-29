@@ -1,0 +1,25 @@
+{
+  "text": "Мексиканские синоптики предсказывают , что в ближайший сутки в рядах штатоф страны сохранится крайне неблагоприятное метеорологическая обстановка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "ближайшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "неблагоприятная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ряде"
+    },
+    {
+      "correctReplacement": "штатов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

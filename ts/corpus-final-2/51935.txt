@@ -1,0 +1,25 @@
+{
+  "text": "Согласно показаниям свидетелей по делу , у обвиняемого были обнаружившие зашифровавшие записи , среди которых был список блюд , приготовивших из тел ребенка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "зашифрованные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "приготовленных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "тела"
+    }
+  ]
+}

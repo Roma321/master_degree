@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , Россия готова помочь Кубе достроить заложенные при СССР объекты экономики - АЭС , никелевый комбинаты и гяды нефтеперерабатывающих заводов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "комбинат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "ряд"
+    },
+    {
+      "correctReplacement": "ряды",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

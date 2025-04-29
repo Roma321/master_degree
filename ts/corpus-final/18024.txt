@@ -1,0 +1,30 @@
+{
+  "text": "По его слова , человек , который зарегистрировался , выполнивший свои обязательздво и никакой повторной регистрации проходящие не должен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проходить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выполнил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "обязательства"
+    },
+    {
+      "correctReplacement": "обязательство",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

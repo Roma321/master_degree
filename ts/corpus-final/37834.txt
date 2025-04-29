@@ -1,0 +1,25 @@
+{
+  "text": "Таково требование Международном валютного фонда , заявленный РИА \"Новости\" председатель Национального агентстве по приватизации Аыен Дюлгеров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Международного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "Асен",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

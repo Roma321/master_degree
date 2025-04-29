@@ -1,0 +1,25 @@
+{
+  "text": "Быков заявил , что начнёт давать показание только вне тюремных стен . Об этого в интервью РТР сморщивший адвокат Быкова Генрих Падва , вернувшийся из Красноярска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "начнет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "показания"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

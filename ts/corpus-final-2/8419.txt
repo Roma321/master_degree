@@ -1,0 +1,25 @@
+{
+  "text": "Мошенник был задержавший в международной аэропорту Ньюарк в Нью Джерси с истекшей паспортом , сумками наличных денег и билетами на самолет на сумму 44 тысячи долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "истекшим"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "международном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сумкой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Вынужденные переселенцы размещаетесь по всейтерритории республики у родственника , на частных квартирах , гостиницах , в зданиях автовокзала , палаточных городках , специально образуемых вагонах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "родственников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "автовокзалов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "оборудованных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "размещаются"
+    },
+    {
+      "correctReplacement": "оборудуемых",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

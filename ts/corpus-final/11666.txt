@@ -1,0 +1,25 @@
+{
+  "text": "Каждому военнослужащий имел каску , бронежилету , рюкзак с продуктом питания на троих суток , трехсуточный запас воды , 2-3 боекомплекта , личное оружие , приборы наблюдения и разведки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "бронежилет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Каждый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "продуктами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "трое"
+    }
+  ]
+}

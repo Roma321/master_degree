@@ -1,0 +1,20 @@
+{
+  "text": "Капитан российского теплоход данный коман.у изменить курс и самым полным ходом идти спасать моряков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "дал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "теплохода"
+    },
+    {
+      "correctReplacement": "команду",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

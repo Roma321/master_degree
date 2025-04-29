@@ -1,0 +1,30 @@
+{
+  "text": "На улицы города молодежь затеял с полицейским драку и стала кажущие в стражей поряшка бутылки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "улицах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "полицейскими"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "затеяла"
+    },
+    {
+      "correctReplacement": "кидать",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "порядка",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

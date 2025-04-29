@@ -1,0 +1,20 @@
+{
+  "text": "Знаменитая американский комик Робин Уильямс сыграю главную роль в фильме компании Woods' Independent Pictures , позвященном пианисту и шоумену пятидесятых Либераче .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Знаменитый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "сыграет"
+    },
+    {
+      "correctReplacement": "посвященном",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

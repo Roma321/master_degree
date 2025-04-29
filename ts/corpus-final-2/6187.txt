@@ -1,0 +1,25 @@
+{
+  "text": "В телерепортажах был показаны пожар в деревне Оквабуде , в трех километрах от той места , где в начале иющя при взрывах нефтепровода погибли триста человек , в основном молодых людей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "показан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "взрыве"
+    },
+    {
+      "correctReplacement": "июля",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

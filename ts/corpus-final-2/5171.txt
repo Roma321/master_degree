@@ -1,0 +1,25 @@
+{
+  "text": "Так , в прошлом года до двадцати процентов средств компаний сотового связи было потерявшее из-за несанкционированного подключения Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "потеряно"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "сотовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

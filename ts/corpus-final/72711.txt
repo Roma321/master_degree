@@ -1,0 +1,30 @@
+{
+  "text": "По данным экспеттные , смерть наступившая от ударов по голове острым режущей предметом , возможно топорами или охотничьим тесаком .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "наступила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "режущим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "топором"
+    },
+    {
+      "correctReplacement": "экспертизы",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "экспертные",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

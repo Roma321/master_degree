@@ -1,0 +1,30 @@
+{
+  "text": "Гейтсы и дороги представители Microsoft большей часть времени , отведённого на встречу , говорили о юридических проблемах корпорация , но акционерам это вовсе не помешало остаться довольными .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Гейтс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отведенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "correctReplacement": "другие",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

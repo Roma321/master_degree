@@ -1,0 +1,25 @@
+{
+  "text": "В пресс-центре отметили , что за неполных четыре месяцев в Чечне из незаконного оборота объятое три тысячи единиц огнестрельное оружия , 318 тысяч различных боеприпасов , около 47 тонн взрывчатых веществ и более двух тысячами взрывных устройств .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "огнестрельного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "месяца"
+    },
+    {
+      "correctReplacement": "изъято",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

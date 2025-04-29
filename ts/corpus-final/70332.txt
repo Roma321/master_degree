@@ -1,0 +1,20 @@
+{
+  "text": "В опубликованной спгодня статистике поисковой системы содержитесь также данные о темпами роста информационного наполнения русского Интернета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "темпах"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

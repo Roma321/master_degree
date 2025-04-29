@@ -1,0 +1,20 @@
+{
+  "text": "Согласно местной законодательству , в области будут назначившие повторные выборы , но не ранее , чем через полгоду .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "назначены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "местному"
+    },
+    {
+      "correctReplacement": "полгода",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

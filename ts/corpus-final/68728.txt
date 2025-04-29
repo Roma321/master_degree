@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу , 2 июня , самолет МЧС России доставило в Москву пятерых российских лётчиков , почти год находившихся в плен у ангольского оппозиционной группировки УНИТА , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "ангольской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "летчиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "плену"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "доставил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "передает"
+    }
+  ]
+}

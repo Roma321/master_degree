@@ -1,0 +1,25 @@
+{
+  "text": "Севастополю на треть уменьшили лимит поступающей электроэнергий , из-за чего в городе начатые отключать объекты Черноморского флота России и Военно-морских сил Украины , а также селые районами города .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "районы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "электроэнергии"
+    },
+    {
+      "correctReplacement": "целые",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Исполняющая обязанности президента России Владимира Путин в случае ывоего избрания намеревается привлечь некоторые бывших своих коллег из силовых спецслужб для борьбы с коррупцией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "некоторых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Исполняющий"
+    },
+    {
+      "correctReplacement": "своего",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

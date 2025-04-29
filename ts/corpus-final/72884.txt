@@ -1,0 +1,25 @@
+{
+  "text": "В пятницы Минпечати направило телеканалу ТВЦ уведомление о продлении срока действия временной разрешения на делания до дня проведения конкурса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "вещание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "временного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "correctReplacement": "вещания",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

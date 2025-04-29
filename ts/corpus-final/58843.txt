@@ -1,0 +1,25 @@
+{
+  "text": "В Москве они собравшиеся на Калужской площади , откуда колонна домонстранта , несущих советские флаги , в сопровождением оркестров направилась в сторону монетная площади .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "собрались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "домонстрантов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "сопровождении"
+    },
+    {
+      "correctReplacement": "Манежной",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

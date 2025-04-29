@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , с переходом на единую ставку подоходного налога будут отменим отчисления в Пенсионный фонд с работников в размене одного процента , передаёт РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "отменены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "размере",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

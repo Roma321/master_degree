@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что сам Цабрию в среду отказался прокомментировать журналистам эти события , заявив только , что действовала сттого в рюмок закона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Цабрия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "действовал"
+    },
+    {
+      "correctReplacement": "рамках",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "строго",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

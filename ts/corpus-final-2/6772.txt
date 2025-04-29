@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает американская газета Observer , рассматривание в суде дела об убийстве владельца казино в Лас-Вегасе было приостановлено на прошлой неделях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "неделе"
+    },
+    {
+      "correctReplacement": "рассмотрения",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

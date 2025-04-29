@@ -1,0 +1,25 @@
+{
+  "text": "Создатель кайта Стив Хоффман утверждающий , что миллион долларов - вполне разумная цена , поскольку сайты получает в среднем 150 долларов ежемесячно за публикации фотографий а эпитафий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сайт"
+    },
+    {
+      "correctReplacement": "сайта",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По утверждению самом Джейкобса , информация , хранившаяся в его переносной компьютере , могла заинтересовать иностранных шпионов , в связи с чем Джейкобсом собирающийся обратиться в ФБР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "переносном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Джейкобс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "самого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "собирается"
+    }
+  ]
+}

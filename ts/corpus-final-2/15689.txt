@@ -1,0 +1,40 @@
+{
+  "text": "В связи с невозвращение кредита в установленное срок 5 августа 1997 года был проведён коммерческий конкурс с инвестиционными условиями по продажах передам ц залог пакта акций компании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "переданного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "продаже"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "установленный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "проведен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "невозвращением"
+    },
+    {
+      "correctReplacement": "пакета",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

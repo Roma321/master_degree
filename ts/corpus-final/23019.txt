@@ -1,0 +1,25 @@
+{
+  "text": "В ходе избирательного кампании по выборам в Госдуму Горбачев неоднократно чысказываюсь в поддержку блока ОВР и его лидеров Евгения Примакову и мэра Москвы Юрия Лужкова , называя их \"лучшим выбором\" для страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "избирательной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "высказывался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Примакова"
+    },
+    {
+      "correctReplacement": "высказываюсь",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

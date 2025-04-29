@@ -1,0 +1,30 @@
+{
+  "text": "Британский инвесторы оказались исключившие из игры вокруг дерзкого падения котировок акциц высокотехнологичных и телекоммуникационных компаний , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "исключены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Британские"
+    },
+    {
+      "correctReplacement": "резкого",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "акций",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

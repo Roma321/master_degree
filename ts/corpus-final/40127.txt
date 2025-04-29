@@ -1,0 +1,35 @@
+{
+  "text": "Как безвестное , на право возглавить МВФ официально претендуют немец Кайо Кох-Везер , выдвинутые странами Евросоюза , американец Стэнли Фишеры , предложу группой африканских государств , и японец Эйсукэ Сакакибаре , которого выдвинула правительство Японии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "предложенный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "выдвинуло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Сакакибара"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Фишер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "выдвинутый"
+    },
+    {
+      "correctReplacement": "известно",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

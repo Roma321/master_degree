@@ -1,0 +1,30 @@
+{
+  "text": "Измайлов отметивший также , что Россия к 2002 году в результате резкого сокращение поголовья осетровых , возможно , пойдёшь на полное запрещение добычи промысловыми вед рыбы в ряде районов Каспия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "промысловых"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сокращения"
+    },
+    {
+      "correctReplacement": "видов",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

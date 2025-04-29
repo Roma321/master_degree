@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас это обращение направлю в Управление Федеральной служб пальмовой полиции РФ по Москве \"для проверки в части исполнения налоговых законодательства\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "налогового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "направлено"
+    },
+    {
+      "correctReplacement": "налоговой",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

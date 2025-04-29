@@ -1,0 +1,20 @@
+{
+  "text": "Пилот этой конюшни Педро де ла Роса приехал шестым и принесённый заяётный очко , первое для его команды в сезоне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "принес"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "зачетное"
+    },
+    {
+      "correctReplacement": "зачётный",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

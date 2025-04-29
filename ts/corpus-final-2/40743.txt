@@ -1,0 +1,35 @@
+{
+  "text": "Для сравнения приводимся данные по регионам : в Бога верящие 47 процентов европейцев , 79 процентов опросивших из Северной и Центрального Америки , 69 процентов американцев и 66 процентов жители Азии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "жителей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "верят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "опрошенных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "приводятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "Центральной"
+    },
+    {
+      "correctReplacement": "африканцев",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

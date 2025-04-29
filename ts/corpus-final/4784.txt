@@ -1,0 +1,20 @@
+{
+  "text": "Людям боятся повторения турецкого трагедии , тем более что подземные толчки продолжаются и рома сильно трясет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Люди"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "турецкой"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

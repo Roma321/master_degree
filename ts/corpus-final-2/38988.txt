@@ -1,0 +1,35 @@
+{
+  "text": "Служба информацию ООН отмечает , что начинаемые с июня комитет по санациям одобрил уже 116 контрактов на подушки в целым 436 миллионов баррелей иракской нефти , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "начиная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "целом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "покупку"
+    },
+    {
+      "correctReplacement": "покупки",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "санкциям",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

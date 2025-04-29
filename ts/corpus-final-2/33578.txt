@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили в понедельники ИТАР-ТАСС в городского избирательной комиссии , кандидатуру Белоусова поддержали 51 , 06 процента голосовавшего граждан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "городской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "голосовавших"
+    }
+  ]
+}

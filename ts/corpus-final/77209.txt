@@ -1,0 +1,25 @@
+{
+  "text": "Меры по вытеснению иностранных производителей предусматриваемые переключение основного метрополий РАО \"ЕЭС России\" , ОАО \"Газпром\" , МПС , а также атомной энергетики на потребление российского электронной техники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "предусматривают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "основных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "монополий",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

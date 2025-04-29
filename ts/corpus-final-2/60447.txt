@@ -1,0 +1,20 @@
+{
+  "text": "Издательства Harvard Business School Press , которой и приписывают планы по выпуске такой книги , отказалось комментировать происходящее .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Издательство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "выпуску"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

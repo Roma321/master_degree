@@ -1,0 +1,20 @@
+{
+  "text": "Юля , не имевшая ранее никакого киноопыта , стали главным герцогиней .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "главной"
+    },
+    {
+      "correctReplacement": "героиней",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

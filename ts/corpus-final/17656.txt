@@ -1,0 +1,20 @@
+{
+  "text": "На главных страницах теперь помещена лишь цитаты из закона о выборги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "цитата"
+    },
+    {
+      "correctReplacement": "выборы",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

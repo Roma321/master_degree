@@ -1,0 +1,25 @@
+{
+  "text": "Сначала с помощью sniffer'a былиотследившие пароли тех сотрудника Lenta . Ru , котрый пользовались доступом вСеть ор московского провайдера Rinet .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "былиотслежены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

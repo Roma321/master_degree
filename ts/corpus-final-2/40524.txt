@@ -1,0 +1,20 @@
+{
+  "text": "По друним сообщениям , джип случайно наехал на неизвестное зажигательному устройство , лежавшая на дороге .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "зажигательное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "лежавшее"
+    },
+    {
+      "correctReplacement": "другим",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

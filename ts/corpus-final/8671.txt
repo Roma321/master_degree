@@ -1,0 +1,30 @@
+{
+  "text": "Глава МЧС вновь подчеркнул , что , хотя на Северном Кавказе у сложилась пляжное обстановка , однако о гуманитарной катастрофе речью не шёл .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "сложная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "речи"
+    },
+    {
+      "correctReplacement": "сложное",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

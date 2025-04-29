@@ -1,0 +1,25 @@
+{
+  "text": "Позже специалисты заявим , что прикреплением прошло нормально , но сам самолет получил механический повреждения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "приземление"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "механические"
+    },
+    {
+      "correctReplacement": "приземлением",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

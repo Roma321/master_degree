@@ -1,0 +1,35 @@
+{
+  "text": "Пересчет голосов в их округе начавшийся позже , чем в округах Палмы-бичи и Броуэрт , поэтому им нужно не менее десять днями , чтобы завершить обработку всех 654 тысячам бюллетеней , поданных жителями Майами-Дейд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "десяти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "начался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Палм-Бич"
+    },
+    {
+      "correctReplacement": "Броуэрд",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

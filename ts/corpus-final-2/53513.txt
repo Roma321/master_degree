@@ -1,0 +1,30 @@
+{
+  "text": "Эшкрофт диажды за свою карьере занизивший пост губернатора Миссури , он также работавший генеральным прокурора этого штата .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "прокурором"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "работал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "карьеру"
+    },
+    {
+      "correctReplacement": "занимал",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "дважды",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

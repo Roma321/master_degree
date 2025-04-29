@@ -1,0 +1,30 @@
+{
+  "text": "Михаил Касьянов рассчитывал , что в среду переговоры будут завершены . Однако и в этот раз окончательной договоренности достичь не удалась . Сколько еще раунда переговорами с кредиторами необходимо будет провести российской сторонка - неизвестно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "стороне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "переговоров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "раундов"
+    },
+    {
+      "correctReplacement": "сторона",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

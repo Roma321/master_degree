@@ -1,0 +1,25 @@
+{
+  "text": "Он отмеченный , что спад валовой объема производимого продукции АПК сегодня достиг 44 процентов , а в пищевой отрасль - 73 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "отрасли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "валового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "производимой"
+    }
+  ]
+}

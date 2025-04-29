@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тому , сообщил лидер \"Яблока\" , они настаивают на внесении измененай в парламенты палаты , которые \"не будут позволять дискриминировать меньшинство\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "регламент"
+    },
+    {
+      "correctReplacement": "регламенты",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "изменений",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

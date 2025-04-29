@@ -1,0 +1,30 @@
+{
+  "text": "Двукратная чемпион мира Мика Хаккинен закончили гонку в боксах на 31 круге , а Дэвид Култхард хотя и финишировал второй , отстав от победителя всего на 4 секунды , после гонки мывший дисквалифицирован : воздухозаборнику на его машине был расположен слишком высоко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "закончил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Двукратный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "вторым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "воздухозаборник"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

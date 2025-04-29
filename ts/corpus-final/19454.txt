@@ -1,0 +1,25 @@
+{
+  "text": "Правом выдвижения кандидатов , согласно новой загону , обладающие групп избирателей (100 человек) , избирательные блоки и объединения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обладают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "новому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "группы"
+    },
+    {
+      "correctReplacement": "закону",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

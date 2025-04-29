@@ -1,0 +1,25 @@
+{
+  "text": "Однако вскоре обнаружилась , что хотя на сайте Mirror продолжает висеть заголовок о девочке с секретной почтой , сама ссылка c заголофка перестал вести на статью и ведет на сообщения об ошибке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "сообщение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "перестала"
+    },
+    {
+      "correctReplacement": "заголовка",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

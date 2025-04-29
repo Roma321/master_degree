@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу на месте крушения пассажирского лайннера Concorde под Парижем было обнаружена еще одно тело , сообщал агентствг France-Presse .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

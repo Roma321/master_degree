@@ -1,0 +1,25 @@
+{
+  "text": "Всему инициативным груптам нужно собрать не меньше 500 тысяч подписей избирателями , чтобы зарегистрировать своих кандидаты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Всем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "correctReplacement": "группам",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

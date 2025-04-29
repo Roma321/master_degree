@@ -1,0 +1,20 @@
+{
+  "text": "Два космических корабля , каждую из которых будет иметь на борту робота , стартуют в 2003 году 22 мая и 4 июня , а в январе 2004 года с интервалом в 18 дней пригрезились на Марсе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "приземлятся"
+    },
+    {
+      "correctReplacement": "приземлились",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

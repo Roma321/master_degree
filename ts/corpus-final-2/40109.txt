@@ -1,0 +1,30 @@
+{
+  "text": "Общие сумма , необходимые для восстановления Останкинской башни , оценивается примерно в 2 миллиарда рубля , из которых примерка 60 процентов уйдет только на оснащение средствами телевещания и связи , сообщаемый РИА \"Новости\" . латвийская полиция задержала лидера местных национал-большевиков , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Общая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "необходимая"
+    },
+    {
+      "correctReplacement": "примерно",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

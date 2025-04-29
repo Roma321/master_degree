@@ -1,0 +1,25 @@
+{
+  "text": "В том числе , долгами перед международными финансовым организациями сократимся на 2 миллиарда долларов , или на 10 , 4 процента до 17 , 2 миллиарда доллароф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "финансовыми"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "долги"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "сократились"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

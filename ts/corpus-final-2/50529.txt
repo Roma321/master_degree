@@ -1,0 +1,20 @@
+{
+  "text": "По слову министра информации Палестины Раббо , палестинцы и изрпильтяне проведут в Вашингтоне сепаратных переговоры с американскими представителями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "сепаратные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "израильтяне",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

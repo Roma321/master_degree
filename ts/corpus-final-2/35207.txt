@@ -1,0 +1,25 @@
+{
+  "text": "Ясир Арафат и Эхудом Барак отложили совместное заявление о прекращении наличия , сообщаю AFP со ссылкой на израильское телевидением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "телевидение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Эхуд"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "насилия",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

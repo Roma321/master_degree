@@ -1,0 +1,30 @@
+{
+  "text": "Однако в телефонном интервью АР Джозеф Либерман подчеркнул , что он тщательно перепроверило информацию и утверждает , что родственной чвязь между ним и ебитым не есть .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "перепроверил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "убитым",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "связь",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

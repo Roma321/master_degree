@@ -1,0 +1,20 @@
+{
+  "text": "\"Бабиыкий жив , но где он находишься , я не знаю , это надо спрашивать не у нас\" , - заявил в понедельник журналистам директора ФСБ Николай Патрушев .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "директор"
+    },
+    {
+      "correctReplacement": "\"Бабицкий",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

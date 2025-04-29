@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-секретарь главы украинского государства александер Мартыненко пояснивший , что речь иду о реструктуризации долга НАК \"Нефтегаз Украины\" перед ОАО \"Газпром\" , который в настоящее время оцениваешься в 500 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

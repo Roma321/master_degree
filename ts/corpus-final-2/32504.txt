@@ -1,0 +1,45 @@
+{
+  "text": "Слушания были инициировавшие республиканцы и имевшие стилистический подтексты в рамках предвыборной борьбы за кресло президента США , на которого от партии демократов претендую нынешней вице-президент Альберт Гор . В ходе этой кампании республиканцы пытаются доказать , что договор Гор-Черномырдин был заключен в обход законом и тайком от конгресса США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "инициированы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "претендует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "подтекст"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "которое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "имели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "республиканцами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "закона"
+    },
+    {
+      "correctReplacement": "политический",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По иловам нервного вице-президента Федерации космонавтик России генерала Александра Курлановой , космонавт умру около 21 : 00 в своей квартире на Хованской улице в Москве .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "умер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Курланова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "космонавтики"
+    },
+    {
+      "correctReplacement": "первого",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В течение трех последних дней металлические опоры , на которых крепимся аммиачные емкости , раскачивало ураганным вертёршем , в результатах чего в опорах образовались трещины .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "крепились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "ветром"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "ветре",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

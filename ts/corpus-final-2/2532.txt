@@ -1,0 +1,25 @@
+{
+  "text": "Генпрокуратура РФ наложенная арест на имущество Владимира Гусинского , сообщившие адвокатах медиа-магната Павел останов и Генри Резник .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "наложила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "адвокаты"
+    },
+    {
+      "correctReplacement": "Астахов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

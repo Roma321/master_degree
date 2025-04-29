@@ -1,0 +1,20 @@
+{
+  "text": "Загрязнению подверглись 30 процента территории России , 23 проценту территории Белоруссии , 18 процентов - Украины , 4 , 8 процента - Финляндии , 2 , 4 процента - Австрией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Австрии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процента"
+    }
+  ]
+}

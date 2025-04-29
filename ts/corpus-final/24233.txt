@@ -1,0 +1,25 @@
+{
+  "text": "Одним из пунктов нового закона является наложение на фирмы , имевшие более 20 сотрудникоф , ограничения максимального недельного рабочего времени до 35 часов вместо 39 часа , как это было до сих порам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "пор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "имеющие"
+    },
+    {
+      "correctReplacement": "сотрудников",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

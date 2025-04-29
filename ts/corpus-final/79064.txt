@@ -1,0 +1,25 @@
+{
+  "text": "Согласно бездействующего конституции стране , президента выбирают депутаты парламента и он не может быть переизбравший .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "переизбран"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "действующей"
+    },
+    {
+      "correctReplacement": "действующего",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

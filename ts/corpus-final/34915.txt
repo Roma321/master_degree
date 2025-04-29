@@ -1,0 +1,25 @@
+{
+  "text": "Представитель МИД заявил , что по свгей антироссийского тональности доклад являлся еще одним наглядным подтверждением необъективного , предвзятого и однобокого подхода Верховного комиссара к безусловно сложнойситуации на Северном Кавказах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "Кавказе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "антироссийской"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

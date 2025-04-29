@@ -1,0 +1,35 @@
+{
+  "text": "Военная суд Ливанов приговорило более 120 ливанцами к тюремному заключению за контакты и сотрудничество с израилтскими войсками во время оккупацию южного Ливана , сообщает AP .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "оккупации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Ливана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ливанцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Военный"
+    },
+    {
+      "correctReplacement": "израильскими",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

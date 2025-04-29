@@ -1,0 +1,30 @@
+{
+  "text": "Это вызову фурор в американской прессе и язвительные комментарий со стороны представителей избирательного команды главное кандидата демократов Альберта Гора Э",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "комментарии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "вызвало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "главного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "избирательной"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

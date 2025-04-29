@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает HTB . ru , Быков написавший заявление на имя первого заместителя прокурора Северо-Западного округа Москвы Сергей Лапина , в котором заявлял о непричастности к буйству криминального авторитета Павла Струганова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "написал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "correctReplacement": "убийству",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

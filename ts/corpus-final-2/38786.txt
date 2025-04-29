@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщался , в 1997-1998 годах ЗАО \"Бонум-1\" взяло а Минфин ряд кредитов на общее сумму 142 , 5 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Минфина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "общую"
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

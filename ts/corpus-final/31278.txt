@@ -1,0 +1,25 @@
+{
+  "text": "Вероятно , потому , что обычная почта все еще необходима при пересылка определенных монументами и ценного бумаг , которые нельзя передать через Интернет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "документов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пересылке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "ценных"
+    },
+    {
+      "correctReplacement": "документами",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

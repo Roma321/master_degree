@@ -1,0 +1,25 @@
+{
+  "text": "Зюгановым подчеркнул , что эта система не прошла госприемку и у Центризбиркома еще едяжие неделя для подсчета результатов голосований вручную .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Зюганов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "голосования"
+    },
+    {
+      "correctReplacement": "едящие",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

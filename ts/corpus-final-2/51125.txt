@@ -1,0 +1,25 @@
+{
+  "text": "Требование банка о выплывшей этой суммы было включено на сегодняшнем заседании суба в общее требования кредиторов к заводу , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "требование"
+    },
+    {
+      "correctReplacement": "выплате",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

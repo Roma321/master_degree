@@ -1,0 +1,30 @@
+{
+  "text": "Как передают The Telegraph , этим летом планируется запуск временной илавучего электростанции специально для Силиконовой долины , где в летнее время огромное количества электроэнергии съедаем не только компьютеры , но и кондиционеры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "плавучей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "съедают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "количество"
+    },
+    {
+      "correctReplacement": "плавучего",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

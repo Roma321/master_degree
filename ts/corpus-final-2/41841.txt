@@ -1,0 +1,25 @@
+{
+  "text": "Прибывший на место происшествия наряд милицией обнаружу на лестничной площадках труп чужбины с ножевыми ранениями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "площадке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "correctReplacement": "мужчины",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

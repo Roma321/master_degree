@@ -1,0 +1,20 @@
+{
+  "text": "Цена продаваемого пакетов определена в 2 , 1 ммллиарда долларов , сделка будет осуществлены из расчета 450 йен за акцию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пакета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "осуществлена"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

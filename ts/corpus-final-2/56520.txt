@@ -1,0 +1,25 @@
+{
+  "text": "По предварительной информации , причиной взрыва емкости , в которуд под давлением хранился газы , стал откат клапана , с помощью которого регулировалось давление .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "газ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "которой"
+    },
+    {
+      "correctReplacement": "отказ",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "которую",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

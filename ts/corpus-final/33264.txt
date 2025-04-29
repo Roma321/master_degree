@@ -1,0 +1,20 @@
+{
+  "text": "Пожарные и газовики считаете , что концентрация газа в квартире достигла высоких уровня и достаточно было любой искры , чтобы произойду взрыв .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "высокого"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "считают"
+    }
+  ]
+}

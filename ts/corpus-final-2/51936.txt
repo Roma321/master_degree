@@ -1,0 +1,20 @@
+{
+  "text": "Его знакомые также заявленрые , что он угощал их блюдом , которые \"имели странный вкус\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "блюдами"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "заявили"
+    },
+    {
+      "correctReplacement": "заявленные",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

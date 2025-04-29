@@ -1,0 +1,25 @@
+{
+  "text": "По признанию представителей Пентагона , команды авианосцев не смогла быстро отреагировать на действия российских военных , так как корабль в моменту происшествия находился на дозаправке и не был в состоянии полной боевого готовности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "боевой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "команда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "авианосца"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "момент"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В минувшая чепверг Европейский парламент подавляющим большинства голосов принял решение присудить международную прямую академика Сахарова лидеру движения сопротивления в Восточном Тиморе Шанане Гужмау .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "большинством"
+    },
+    {
+      "correctReplacement": "премию",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

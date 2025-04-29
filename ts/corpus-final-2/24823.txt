@@ -1,0 +1,25 @@
+{
+  "text": "Президент Египта Хосни Мубарак и лидер Сирия Ассады во время встречи в Каире призвали провести срочные арабский сомкит для того , чтобы обсудить сложившуюся ситуацию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "срочный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Ассад"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Сирии"
+    },
+    {
+      "correctReplacement": "саммит",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

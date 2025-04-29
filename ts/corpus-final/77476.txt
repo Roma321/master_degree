@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , как отмечающий НТВ , в совету директоров \"Газпрома\" , состоящем из 11 человек , сьало мыло представителей самого газового концерна .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "совете"
+    },
+    {
+      "correctReplacement": "меньше",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "стало",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

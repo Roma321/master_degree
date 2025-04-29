@@ -1,0 +1,30 @@
+{
+  "text": "Представитель Палестинской автономий в Вашингтоне Хассаном Абдель-Рахман сказал , что решению о продолжении переговоров было принято примерно через час после того , как представители Белого дома объявили о безрезультутного их завершении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "безрезультатном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Хассан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "автономии"
+    },
+    {
+      "correctReplacement": "безрезультатного",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

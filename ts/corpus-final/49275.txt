@@ -1,0 +1,20 @@
+{
+  "text": "В понедельники , 3 апреля , состоялся телефонный разговор между и . о . президента Россию Владимиром Путиным р премьер-министром Испании Хосе Мариа Аснаром .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

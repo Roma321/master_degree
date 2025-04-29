@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению \"Эхо Мозгвы\" , воры унесли 75 шуб общей стоимости миллион рублям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "стоимостью"
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

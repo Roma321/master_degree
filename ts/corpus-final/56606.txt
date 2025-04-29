@@ -1,0 +1,35 @@
+{
+  "text": "Как утверждал La Repubblica , в последующие месяцы размахом этих операций с деньгами МВФ увеличилось и приведу к концу года у откачке из россини почти 11 миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "привел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "размах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "увеличился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

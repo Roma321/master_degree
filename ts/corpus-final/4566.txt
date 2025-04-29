@@ -1,0 +1,25 @@
+{
+  "text": "Представителя компании Cisco Systems Майк Кузенс предположил в интервью корреспонденту BBC , что спрос на подобным высокотехнологические дома вначале будет невелик , но потом , когда люди привыкнем к ним , они уже невозможно будет обходиться без таких жилищ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "подобные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "привыкнут"
+    },
+    {
+      "correctReplacement": "высокотехнологичные",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

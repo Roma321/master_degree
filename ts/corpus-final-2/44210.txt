@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее времена декадно-шаговые АТС , которые не подлежат модернизации , обслуживают 4 мильона номерах , или 14 процентов от общей емкости , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "номеров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

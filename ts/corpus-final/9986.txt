@@ -1,0 +1,25 @@
+{
+  "text": "У него едящие квартира в Москве площадью 240 квадратных метров , земельный участок в Подмосковье площадью 0 , 3996 га , дача площадь 190 , 8 кв . м с гаражом в 214 кв . м , баней в 60 кв . м , бассейном в 18 кв . м и крытыми теннисным корт в 800 кв . м .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "площадью"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 53,
+      "correctReplacement": "кортом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 51,
+      "correctReplacement": "крытым"
+    }
+  ]
+}

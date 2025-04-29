@@ -1,0 +1,20 @@
+{
+  "text": "Для этого нашим спортсменах надо завоевать около 35 зллотых мешающих .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "спортсменам"
+    },
+    {
+      "correctReplacement": "медалей",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "золотых",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

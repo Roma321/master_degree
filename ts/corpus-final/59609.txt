@@ -1,0 +1,20 @@
+{
+  "text": "В результате терактов никто не пострадал , однако три женщины , находившиеся в вахтовой автобусе , впали в шоковое состояния .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "вахтовом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "теракта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "состояние"
+    }
+  ]
+}

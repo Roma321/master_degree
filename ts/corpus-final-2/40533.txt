@@ -1,0 +1,25 @@
+{
+  "text": "В Сосновом Боре расположена Ленинградская атомарная электростанция , поэтому выборам мэра города обладминистрация придаю большая значение , подчеркнули в избиркоме .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "придает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "большое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Бору"
+    },
+    {
+      "correctReplacement": "атомная",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По словам очевидцах , на выставкой его неприятно поразило , что женщины не закрываемые лиц чадрой и что на векторных картинах была изобразившая обнаженная натура .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "очевидцев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "выставке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "закрывали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "лица"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "изображена"
+    },
+    {
+      "correctReplacement": "некоторых",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье одну из зрительниц скорая помощь увёз прямо из зрительного зала столичном кинотеатра \"Ыдарник\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "столичного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "увезла"
+    },
+    {
+      "correctReplacement": "\"Ударник\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

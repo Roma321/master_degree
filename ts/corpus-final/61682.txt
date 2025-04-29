@@ -1,0 +1,25 @@
+{
+  "text": "С понедельника слово в обычного телеграмме , обставляющей в Таджикистан , Туркменистаны , Узбекистан и Кыргызстан , будет стоить три рубля , в Белоруссию , Молдавию и на Украину - четыре рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "обычной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Туркменистан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "отправляемой"
+    },
+    {
+      "correctReplacement": "отправляющей",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

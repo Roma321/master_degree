@@ -1,0 +1,25 @@
+{
+  "text": "Кулик сообщившиц , что в Думе создается рабочая группа , которая подготовишь поправки к закону о регулировании оборотов алкогольной и спиртосодержащей продукции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "оборота"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "подготовит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "сообщивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

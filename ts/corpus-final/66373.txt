@@ -1,0 +1,30 @@
+{
+  "text": "курд акций на ведужих биржах США продолжали падать в течение вся прошедшей рабочая недели .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "продолжал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "всей"
+    },
+    {
+      "correctReplacement": "Курс",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "ведущих",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

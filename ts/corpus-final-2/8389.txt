@@ -1,0 +1,20 @@
+{
+  "text": "Преступника найти пока не удалось , на месте происшествия работаешь ведомственное группа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "следственная"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "следственное",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

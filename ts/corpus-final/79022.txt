@@ -1,0 +1,30 @@
+{
+  "text": "Днем ранее благодарздвенная прокуратуры Франции объявившая о начале официальных расследования по той же теме .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "официального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "объявила"
+    },
+    {
+      "correctReplacement": "государственная",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "благодарственная",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

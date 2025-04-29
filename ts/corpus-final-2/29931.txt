@@ -1,0 +1,15 @@
+{
+  "text": "Получить забронированная билет можно будет через уполномоченные туристические агентства или с курильской доставкой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "забронированный"
+    },
+    {
+      "correctReplacement": "курьерской",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

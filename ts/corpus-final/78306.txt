@@ -1,0 +1,25 @@
+{
+  "text": "Воробьев пояснивший , что два ответственных руководителя Московского таможни и двое их подчиненных были задержаны с поличным при получение взятки в 10 тысяч долларов США от генерального директора одна из коммерческих срруктур .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Московской"
+    },
+    {
+      "correctReplacement": "структур",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

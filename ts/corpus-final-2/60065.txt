@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщают CNN , два сотрудника кнмпании и один полицейский порушившие небольшие ожоги и госпитализированы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

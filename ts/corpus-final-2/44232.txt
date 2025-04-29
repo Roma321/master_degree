@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщался , вж вторники на \"Кристалл\" прибыли судебные приставы с целью обеспечить доступ на завод отображённого от должности генерального директора Александра Романова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "отстраненного",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "во",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

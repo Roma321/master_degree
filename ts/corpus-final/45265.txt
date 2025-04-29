@@ -1,0 +1,35 @@
+{
+  "text": "Это второе за текущее неделю задержание военнослужащего припопытке продать взрывчатку : в воскресенье в Лушской районеленинградская области у старшего сервант контрактной службыбыло изъято 35 килограммов тротила , 51 детонатор и 17 метровогнепроводного шнура .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "текущую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сержанта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "районеЛенинградской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Лужском"
+    },
+    {
+      "correctReplacement": "сержант",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Лужской",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

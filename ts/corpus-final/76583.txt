@@ -1,0 +1,15 @@
+{
+  "text": "При заходе на посадку самолет произвела грубое касание земли за несколько метров до взлетно-посадочной полосы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произвел"
+    },
+    {
+      "correctReplacement": "земли",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

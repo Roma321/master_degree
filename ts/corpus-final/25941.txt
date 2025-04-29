@@ -1,0 +1,25 @@
+{
+  "text": "кац передает РБК , он сообщил , в частность , что в минувших году в федеральных органах исполнительной власти были сокращены 78 тысяч чиновников , что позволило сэкономить 6 миллиардах рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "минувшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

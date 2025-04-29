@@ -1,0 +1,25 @@
+{
+  "text": "Он считает , что за этим протест сиоило \"желание российских олигархий прибрать к рукам\" башкирские нефтеперерабатывающие заводы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "стоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "протестом"
+    },
+    {
+      "correctReplacement": "олигархов",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "стоило",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

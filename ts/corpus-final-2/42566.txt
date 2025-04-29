@@ -1,0 +1,25 @@
+{
+  "text": "На кладбища Бухареста все чаще приходящие люди , не состоящие друг с другом в родстве , и пополам платили за могильный камни , кресту и место на кладбище .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "приходят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "камень"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "крест"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "платят"
+    }
+  ]
+}

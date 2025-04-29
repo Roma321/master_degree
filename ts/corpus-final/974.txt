@@ -1,0 +1,25 @@
+{
+  "text": "Он заявили , что имеют мксто \"факты прямоговмешательства исполнительной власти в избирательный процесс , тестирование интересов одними партий и движений в ущерб другим\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "одних"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "лоббирование",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "место",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

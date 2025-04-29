@@ -1,0 +1,35 @@
+{
+  "text": "За последнее время грузинская сторона уже нешднократно меняла расчетные реквизитах , однако раньше это не вызывавшее никаких сложений , утверждаете российский военные .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "вызывало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "реквизиты"
+    },
+    {
+      "correctReplacement": "осложнений",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "неоднократно",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

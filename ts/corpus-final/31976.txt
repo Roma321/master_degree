@@ -1,0 +1,35 @@
+{
+  "text": "Скуратов уверенна , что без сотрудничества с Россиейамериканскте власти никогда не смогли выяснившие , какая часть из 10 млрд долларов российских средствами , как утверждаете , проведенных через Bank of New York , была \"грязной\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выяснить"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "уверен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "смогут"
+    },
+    {
+      "correctReplacement": "Россиейамериканские",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

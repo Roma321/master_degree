@@ -1,0 +1,20 @@
+{
+  "text": "Если официальные источник говорят о нескольких сотнях провисших , то в Комитете солдатских матерей называют цифру три тысяче .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "источники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "тысячи"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Плавучий космодром , прибывший из базовым портов в Калифорнии , находится в рамоне острова Рождездва в Тихих Океане .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "порта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Тихом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "базового"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Рождества",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Все юилеты - слышимостью от 50 до 200 рублей - уже распроданы , сообщал Нижегородское телеграфное агентство .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "стоимостью",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "билеты",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

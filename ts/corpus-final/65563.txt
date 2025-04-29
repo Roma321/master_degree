@@ -1,0 +1,25 @@
+{
+  "text": "Следующие попытка также были сорваны - из-за отказа радара , сбоя компьютерного системы , а четыре дня назар по вине зрителей - команд нескольких судов , не пожелавших покинуть опасное зону .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "компьютерной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "опасную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "попытки"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

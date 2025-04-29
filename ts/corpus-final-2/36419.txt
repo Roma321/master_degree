@@ -1,0 +1,30 @@
+{
+  "text": "Великая испанское певицы Монсеррат Кабалье прилечу в мпську для участия в благотворительной акции \"Звезды мира - детям 2000\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "певица"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "испанская"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "прилетела"
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "моську",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

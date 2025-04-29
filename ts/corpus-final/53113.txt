@@ -1,0 +1,15 @@
+{
+  "text": "Монарх , находящийся сейчас в отвлечении интенсивного терапии , чувствует себя нормально , сообщила сегодня королевская канцелярия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "интенсивной"
+    },
+    {
+      "correctReplacement": "отделении",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

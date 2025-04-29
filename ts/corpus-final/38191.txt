@@ -1,0 +1,30 @@
+{
+  "text": "Руководытво местной полиций создало специальную комиссию по расследованию и обещала 10 тысяч марки в качестве вознаграждения для тех , кто помог найти преступников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "марок"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "обещало"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "поможет"
+    },
+    {
+      "correctReplacement": "Руководство",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

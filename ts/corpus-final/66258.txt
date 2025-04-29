@@ -1,0 +1,20 @@
+{
+  "text": "Перед этим в четверг американский Nasdaq также снизившийся на два процентоф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "снизился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

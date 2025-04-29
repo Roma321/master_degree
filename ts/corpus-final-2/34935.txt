@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал РИА \"Новости\" , инцидент произошел в средк на сынке в Старопромысловском районе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "рынке",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

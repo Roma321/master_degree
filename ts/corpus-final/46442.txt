@@ -1,0 +1,30 @@
+{
+  "text": "Лицам , имеющим право въезда на территорию противной комплекса в Лужниках , рекомендовались маршруты со стороны Смоленского , Ростовским и Саввинской набережных .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Ростовской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "рекомендуются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Смоленской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "спортивного"
+    },
+    {
+      "correctReplacement": "спортивной",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

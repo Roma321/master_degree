@@ -1,0 +1,25 @@
+{
+  "text": "Председатель Центризбиркома александр Вешняков в четверг вечером напомнила журналистам , цто ограничения распространяются и на день выборов - 26 мартов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "марта"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

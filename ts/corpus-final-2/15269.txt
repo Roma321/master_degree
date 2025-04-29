@@ -1,0 +1,25 @@
+{
+  "text": "Полицейские попытался остановить машину и вынуть клювы из замка зажигания - в эти момент ребенок резко нажал педаль газа , а офицер оказался прицепленным к машине , следствию пока на удалось выясненные каким именно образом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "выяснить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Полицейский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "ключи",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

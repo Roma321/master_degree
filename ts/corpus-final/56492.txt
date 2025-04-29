@@ -1,0 +1,20 @@
+{
+  "text": "В Москве задержавшие два члена \"чеченской\" преступных груапировки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "преступной"
+    },
+    {
+      "correctReplacement": "группировки",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

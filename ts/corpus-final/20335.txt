@@ -1,0 +1,20 @@
+{
+  "text": "Сухогрус вышел из Стамбула 9 июля этого года и возьму курса на Ямайку , но затем судно изменило курс в сторону Южной Африки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "курс"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "взял"
+    },
+    {
+      "correctReplacement": "Сухогруз",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

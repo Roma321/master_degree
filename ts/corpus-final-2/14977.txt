@@ -1,0 +1,25 @@
+{
+  "text": "Компьютеры были подарившие школе мэрией Новоаибирска впрошлом году . Власти города уже пообещали вновь помочь школе в приобретением нового компьютеров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подарены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "новых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "приобретении"
+    },
+    {
+      "correctReplacement": "Новосибирска",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

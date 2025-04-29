@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , экстремисты , разбившиеся на три отряда , вели боевые действия в Баткенское области на югу страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "разбившись"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Баткенский"
+    },
+    {
+      "correctReplacement": "юге",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

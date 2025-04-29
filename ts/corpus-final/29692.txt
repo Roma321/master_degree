@@ -1,0 +1,25 @@
+{
+  "text": "Через 163 часа после появления вирусов на всех дисках в системе уничтожался содержимое файлов определённого типов : документов Microsoft Word , Microsoft Excel , текстовых файлов , файлов с расширениями . rtf и . dbf , и некоторых архивов ( . zip , .arj р . rar) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вируса"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "уничтожается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "определенных"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 44
+    }
+  ]
+}

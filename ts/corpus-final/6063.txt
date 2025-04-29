@@ -1,0 +1,25 @@
+{
+  "text": "В ней принявшие участие министры внутренних дел сессии Владимир Рушайло и другой руководители МВД .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "другие"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

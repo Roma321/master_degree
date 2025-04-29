@@ -1,0 +1,20 @@
+{
+  "text": "Атака DDOS состою в том , что с нескольких ранее взломанных компьютера на сайты направлялся большой поток ложных запросов , блокируя доступ к сайту для всех посетителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "компьютеров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "состоит"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Самолет выполняю разведывательный задачи и не имел бортового обручения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "разведывательные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "выполнял"
+    },
+    {
+      "correctReplacement": "вооружения",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

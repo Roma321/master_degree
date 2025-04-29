@@ -1,0 +1,35 @@
+{
+  "text": "В среду Госдума принятая в третьем , окончательному чтении законе , в несоответствии с которым с 1 января 2000 года устанавливается минимальный размер оплаты трудов в сумме 200 рубля в месяц .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "окончательном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "закон"
+    },
+    {
+      "correctReplacement": "соответствии",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

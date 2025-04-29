@@ -1,0 +1,25 @@
+{
+  "text": "У петербург , выступавшего в последние годы в Испании , бывший выбор : играемые за сборную России или получить испанский паспорт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "играть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "петербуржца"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "был"
+    },
+    {
+      "correctReplacement": "петербуржец",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Путин также отметил , чтожий таком повышение позволишь в нынешнем году приблизившиеся к средней пенсии в 900 рубля , а в следующем - выйти на намеченные рубежи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "приблизиться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "такое"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "позволит"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

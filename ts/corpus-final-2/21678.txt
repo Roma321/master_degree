@@ -1,0 +1,30 @@
+{
+  "text": "Власти страны заявили , что высылаемые только теэ журналистоы , которые прибыли в Югославию по туристическим визам , а затем попросили аккредитации на выборах . Группе иностранных журналистов примерно из 20 человек предложившее покинуть Югославию в везение 24 часов , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "высылают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "предложено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 40,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "течение",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

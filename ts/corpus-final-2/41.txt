@@ -1,0 +1,25 @@
+{
+  "text": "Российские военных не исключают , что слухи распространялись специально , чтобы держащие федеральные силы и поселение в постоянном напряжении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "военные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "распространяются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "держать"
+    },
+    {
+      "correctReplacement": "население",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

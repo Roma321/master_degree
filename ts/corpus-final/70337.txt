@@ -1,0 +1,40 @@
+{
+  "text": "По ее словам , ошибки имели место из-за того , что номер утверждающих выдачу визы документов , поступающие из четырех центгов Службе , выдающих виза данного типа , не заносились в основную компьютерное базы данных агентства в Вашингтоне .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "базу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "компьютерную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "номера"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Службы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "визы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "виз"
+    },
+    {
+      "correctReplacement": "центров",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

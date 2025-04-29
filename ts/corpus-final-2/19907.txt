@@ -1,0 +1,30 @@
+{
+  "text": "Через некоторое время американское торговому судно , привлеченное к поискам , обнаружило в водах Флоридского пролива девять выжитых и одной погибших Д",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "торговое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "выживших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "погибшего"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "text": "Выступая сегодня на пресс-конференциях в Москве Батурина заявившая , что несмотря на неоднократные обращения в ФСБ и прокуратуру , представители правоохранительными органами , расследуемых дело по перекачке за границу через \"Русский земельную банк\" 140 миллионов долларов , до сих пор не обмякшие ей , на каком основании были изъят документы , принадлежащие ее фирме , ипочему эти следственные действия были преданы широкой огласке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 48,
+      "correctReplacement": "изъяты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "земельный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "расследующих"
+    },
+    {
+      "correctReplacement": "объяснили",
+      "type": "paronym",
+      "wordNumber": 41
+    }
+  ]
+}

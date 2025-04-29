@@ -1,0 +1,25 @@
+{
+  "text": "Рано утром в среду была предотвращена попытка взрыва жилой дома на улице Уткинской , где было обнаружу взрывным устройство , состоящее из двух гранаты и цилиндрической емкости со взрывчаткой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "жилого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "гранат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "обнаружено"
+    }
+  ]
+}

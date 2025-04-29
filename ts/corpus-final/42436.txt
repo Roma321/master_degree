@@ -1,0 +1,20 @@
+{
+  "text": "Для сбора информации в дневная бремя боевики использовали женщин и детей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "дневное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "используют"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

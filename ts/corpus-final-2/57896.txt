@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , он пообещал отпустить ценам на продукты питания , в том числе и первая необходимости , а тагже повысить тарифы на транспорт и электроэнергию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "цены"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

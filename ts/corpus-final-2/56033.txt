@@ -1,0 +1,30 @@
+{
+  "text": "Территорией штатов Оклахомы , Арканзас , Луизиана , Монтана и Техаса были покрывшие толстой слоем снега , на улицах городов и скоростных шоссе из-за гололеда было остановлено движение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Оклахома"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "толстым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Техас"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Территория"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "покрыты"
+    }
+  ]
+}

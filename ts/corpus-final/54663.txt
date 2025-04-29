@@ -1,0 +1,25 @@
+{
+  "text": "Создающая общественная комиссия должна , не вставая ни на чей сторону и избегая крайних точек зрения , выработать рекомендации волостям для выходов из кризиса , сказал он .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Создаваемая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "выхода"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "чью"
+    },
+    {
+      "correctReplacement": "властям",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По американскому законодательству судьи Джексон могут применившие к корпорации любые средства , молоть до разукрупнентя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "судья"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "применить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "вплоть",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "разукрупнения",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

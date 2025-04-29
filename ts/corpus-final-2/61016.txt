@@ -1,0 +1,20 @@
+{
+  "text": "При обысках у него на картине были изъявшие радиоприемник со встроенного радиостанцией , таблицы шифров и инструкции по сбору сведений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "изъяты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "встроенной"
+    },
+    {
+      "correctReplacement": "квартире",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сам Шарль Наполеон постоянно живет в Париже , где работающий консультантом м маленьких фирме , занимающейся недвижимостью и городского планированием .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "городским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "маленькой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

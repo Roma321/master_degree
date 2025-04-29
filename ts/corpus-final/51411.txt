@@ -1,0 +1,25 @@
+{
+  "text": "В результате взрыва , прогремевшего в пятницу вечером в здании сельскохозяйственной техникума селения Серноводск Ачхой-Мартановского районов Чечни , погиб четыре человека , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "сельскохозяйственного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Это уже третий допросы Андрее Цимайло по рому же делу : два предыдущих состоялись в среду , 10 , и четверг , 11 января , - дни , когда Цимайло должны был отправляться на переговоры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Андрея"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "допрос"
+    },
+    {
+      "correctReplacement": "тому",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

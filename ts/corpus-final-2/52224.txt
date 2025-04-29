@@ -1,0 +1,30 @@
+{
+  "text": "Право на информацию может быть ограничено федеральной законом только в той мере , в какой это необходимо для защиты конституционного строй , нравственности , здоровья , правами и законных интересов дтугих лиц , обеспечения обороны страны и безопасности государств , говорится в законопроекте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "прав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "строя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "федеральным"
+    },
+    {
+      "correctReplacement": "других",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

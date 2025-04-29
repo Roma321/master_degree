@@ -1,0 +1,20 @@
+{
+  "text": "Полковник Коновалов был раним в минувшую среду на дороге Урус-Мартан - Гехи неподалеку от елисейской блок-поста .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "милицейского"
+    },
+    {
+      "correctReplacement": "милицейской",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

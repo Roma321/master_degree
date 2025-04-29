@@ -1,0 +1,25 @@
+{
+  "text": "В минувший вторника украинские пограничники и работники почтов дорожной автоинспекции (ДАИ) задержали на карпатском перевале , разделяющем Львовскую и Закарпатскую области , автобусы со 112 нелегалами из Юго-Восточной Азии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "автобус"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "поста"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "постов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

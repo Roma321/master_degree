@@ -1,0 +1,20 @@
+{
+  "text": "Однако из-за спекуляции в преддверии сделки курс акций компартии несколько понизившийся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "понизился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "спекуляций"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

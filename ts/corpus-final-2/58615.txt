@@ -1,0 +1,25 @@
+{
+  "text": "Он замеченный , в частности , что чрезвычайно низкие температуры переживают сейчас регионы Сибири , у тех числе Томские и Новосибирская области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Томская"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

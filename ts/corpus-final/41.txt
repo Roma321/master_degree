@@ -1,0 +1,20 @@
+{
+  "text": "Именно столько времени потребовавшееся , чтобы извлечь тела погиошего .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "потребовалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тело"
+    },
+    {
+      "correctReplacement": "погибшего",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

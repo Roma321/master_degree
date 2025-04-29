@@ -1,0 +1,20 @@
+{
+  "text": "Президент Ингушетии уверен , что если бы федеральный центр начал переговоры с президентом Чечни , тот действительно смог бы остановленные блевые действием .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "остановить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "действия"
+    },
+    {
+      "correctReplacement": "боевые",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

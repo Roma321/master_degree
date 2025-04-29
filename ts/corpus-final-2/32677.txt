@@ -1,0 +1,20 @@
+{
+  "text": "Дневник бсл найдена на чердаке в Амстердаме , а Анна умерло в концентрационном лагере Берген-Бельсен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "умерла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "найден"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

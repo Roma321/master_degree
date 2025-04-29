@@ -1,0 +1,25 @@
+{
+  "text": "По словам Васильева , ФКЦБ уже проинформирую о своем открытии американскую комиссары по рынку ценных бумак и биржам .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "проинформировала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "комиссию"
+    },
+    {
+      "correctReplacement": "комиссии",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "бумаг",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Открыто движения поездов до станции Червленная и Ищерская , люди отучившие возможность ездить из Моздоке в Чечню без всфких препятствий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "движение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Моздока"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "всяких",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "При взрыве гранаты он пострадаю больге других - ему ампутируем ногу и руку .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "ампутировали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

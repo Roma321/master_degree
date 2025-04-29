@@ -1,0 +1,25 @@
+{
+  "text": "Помимо Москвы , грцппы наблюдателей Европарламента занялись мониторингами выборов в Санкт-Петербурге и Нижней Новгороде .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "мониторингом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "Нижнем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "займутся"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

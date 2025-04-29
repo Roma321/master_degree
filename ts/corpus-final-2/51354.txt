@@ -1,0 +1,30 @@
+{
+  "text": "В противном случае он откажется от выдвижения своих кандидатур на пост премьер-министра страны , однако кнессет профинансированный эту угроза , и предложение о самороспуске провалилось на голосовании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "угрозу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "кандидатуры"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "проигнорировал"
+    },
+    {
+      "correctReplacement": "проигнорированный",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

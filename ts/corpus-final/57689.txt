@@ -1,0 +1,30 @@
+{
+  "text": "По данным агентства , в пакистанских городах на границей с Афгаництаном на базарах лежите , в буквальной смысле этого слова , кучи никому не нужных афганских деньгах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "границе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "буквальном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "лежат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "денег"
+    },
+    {
+      "correctReplacement": "Афганистаном",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

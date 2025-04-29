@@ -1,0 +1,25 @@
+{
+  "text": "Александр Мамут - внештатный советник президентской администрации - подаваемый в суд на лидеров блока \"Отечество - Вся Рнссия\" , экс-премьера Евгения привал .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "лидера"
+    },
+    {
+      "correctReplacement": "Примакова",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "Россия\"",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

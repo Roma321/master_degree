@@ -1,0 +1,20 @@
+{
+  "text": "В результата погибла офицер британской полиции Ивонн Флетчер , 11 демонстрантов было ранея , напоминает агентство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "ранено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "ранен",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

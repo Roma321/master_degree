@@ -1,0 +1,25 @@
+{
+  "text": "В свой очередь председатели Госдумы Геннадий Селезнев сказал сегодня журналисту , что не верит вслухи о скором замещении Владимире Путина красноярским губернатором Александром Лебедем на посту председателя правительства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "председатель"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "После выбросов на нефтяной рынков 30 миллионов баррелей сырой нефти из стратегических нефтяных резервов США цены на \"черное золото\" понизятся на 5-6 долларов за баррель , об этом заявил во вторник журналистам президент крупнейшего нефтяных концерта Венесуэлы PDVSA Хектор Чиавальдини .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "рынки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "выброса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "нефтяные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "нефтяного"
+    },
+    {
+      "correctReplacement": "концерна",
+      "type": "paronym",
+      "wordNumber": 35
+    }
+  ]
+}

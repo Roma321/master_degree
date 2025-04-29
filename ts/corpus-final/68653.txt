@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр Японии Иосиро Мори принял решение о роспусках нижней палаты японского парламента и проведении досрочного выбороф , сообщаемый Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "роспуске"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "досрочных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

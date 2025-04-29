@@ -1,0 +1,25 @@
+{
+  "text": "На месте взрыва габотают несколько пожарных подразделяющих , представители республиканских МВД и бригады армейских саперов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "бригада"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "республиканского"
+    },
+    {
+      "correctReplacement": "подразделений",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "работают",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

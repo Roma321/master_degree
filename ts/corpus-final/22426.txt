@@ -1,0 +1,20 @@
+{
+  "text": "Запасов жидкого тоскливого и угля на городской ТЭЦ останусь всего на пять дня .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "осталось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дней"
+    },
+    {
+      "correctReplacement": "топлива",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

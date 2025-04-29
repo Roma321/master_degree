@@ -1,0 +1,25 @@
+{
+  "text": "В то же воемя , отметили в пресс-бюро , Сулбановнекоторым время работаю в антитеррористическом центрах припрезиденте Ичкерии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Сулбановнекоторое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "работал"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

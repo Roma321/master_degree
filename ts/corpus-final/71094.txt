@@ -1,0 +1,20 @@
+{
+  "text": "В ненастоящего ыремя поиск дезертира продолжается .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "настоящего",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

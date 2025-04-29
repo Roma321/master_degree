@@ -1,0 +1,20 @@
+{
+  "text": "По оценке и . о . президента , списание задолженности Лондонской клубу в общей срочности составлю 52 процента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Лондонскому"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "составит"
+    },
+    {
+      "correctReplacement": "сложности",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

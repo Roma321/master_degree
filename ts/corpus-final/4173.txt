@@ -1,0 +1,20 @@
+{
+  "text": "Конференцию продлится две дедуль , а сайт будет обновляться и после ее окончания : там будут публиковаться новостей и свежая информация по проблеме аутизма .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Конференция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "новости"
+    },
+    {
+      "correctReplacement": "недели",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

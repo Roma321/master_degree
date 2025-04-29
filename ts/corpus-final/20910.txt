@@ -1,0 +1,25 @@
+{
+  "text": "Он утверждаешь , что , согласно постановлению греческое суда , Козленок был выдавший российским правоохранительным органам лишь за кражу путем мошенничездва (статья 147 часть 3 УК РФ) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "греческого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выдан"
+    },
+    {
+      "correctReplacement": "мошенничества",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

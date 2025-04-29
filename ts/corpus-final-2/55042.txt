@@ -1,0 +1,30 @@
+{
+  "text": "Атрошенко прибывавший всех кандидатов на поста губернатора Тюменской области подписать Хартаю чистых выборов , текст которой в ближайшие дням он обещал разослать своим соперникам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пост"
+    },
+    {
+      "correctReplacement": "призвавший",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Хартию",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

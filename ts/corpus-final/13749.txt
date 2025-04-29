@@ -1,0 +1,25 @@
+{
+  "text": "По его данным , за 9 месяцах этого года товарооборот между Украиной и Россией составил 7 , 3 миллиарда долларов , снизившись по сравнению с аналогичными периодом минувшего годе на 19 , 6 процента Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "аналогичным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По сведениях CNN , погибну не аенее семи человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "погибло"
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Во время судебного разбирательства , которое начнусь больше года назад и занявшее 76 дней судебных заседаний , Министерство юстиции США и 19 штатов обвиняли софтверной гиганта в использующемся своего власти для незаконной борьбы с комтанией Netscape , конкурентом Microsoft на рынке веб-броузеров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "началось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "софтверного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "заняло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "использовании",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "компанией",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

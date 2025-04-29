@@ -1,0 +1,25 @@
+{
+  "text": "Он заявил , что поскольку в адрес пострадавших магазиноф ранее поступаем угрозы , следствие рассматривает как одну из наиболее перспективных версию конкурентного борьбы между коммерческими структурах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "структурами"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "поступали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "конкурентной"
+    },
+    {
+      "correctReplacement": "магазинов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

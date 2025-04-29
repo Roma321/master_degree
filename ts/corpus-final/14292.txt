@@ -1,0 +1,30 @@
+{
+  "text": "Прокуратурой Москвы прекратил расследование уголовной демые в отношении бывшей советника президента России Сергея Станкевича , утверждает его адвокат Владимир Макеев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Прокуратура"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прекратила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

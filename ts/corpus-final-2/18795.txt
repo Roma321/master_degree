@@ -1,0 +1,30 @@
+{
+  "text": "Директор фестиваля Эдриан Вуттон на пресс-конференции подчеркнул , что будут показавшие фильмами из самых разных страны , в частности , Италии и Чехии , равно как и из Азия и Латинской Америки , и осязательный - из Аргентины .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "показаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "стран"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "фильмы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Азии"
+    },
+    {
+      "correctReplacement": "обязательно",
+      "type": "paronym",
+      "wordNumber": 34
+    }
+  ]
+}

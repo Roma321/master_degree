@@ -1,0 +1,20 @@
+{
+  "text": "Акции компании Scient упали на 37 процентах , Microsoft - на 6 , 28 процента , такая же участь прогнозировался и для Intel , которая накануне также заявила , что ждёт снижения прибыли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "ждет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "прогнозировалась"
+    }
+  ]
+}

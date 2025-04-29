@@ -1,0 +1,30 @@
+{
+  "text": "неуместный , представившийся членом Ирландсйой Республиканской армии , позвонил по телефону и сообщила , что бомбы заложу на скаковом круге ипподрома .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "бомба"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "заложена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "Неизвестный",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Ирландской",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

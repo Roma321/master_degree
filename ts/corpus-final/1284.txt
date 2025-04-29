@@ -1,0 +1,20 @@
+{
+  "text": "Шорт также очень расстраивался , что после ошибочной бомбардировки моста с мирного поездом командование НАТБ запрещу бомбить мосты днем , а также в выходные и праздники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мирным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "запретило"
+    },
+    {
+      "correctReplacement": "НАТО",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

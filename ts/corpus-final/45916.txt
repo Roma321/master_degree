@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщившее иракский агентство ИНА , главной темой переговоров станет разработка юдину из богатейших в мире нефтяных месторождений Западная Курна .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "иракское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "одному",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "катетер сообщивший , что глава ВБ Томас Вулфенсон на встрече с Владимиром Путиным в Кремле в ближайшую среде будет опсуждать структуру этого кредита .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "Картер",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "обсуждать",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

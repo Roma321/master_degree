@@ -1,0 +1,30 @@
+{
+  "text": "По предварительные данным , во втором туре губернаторским выборов в Ивановской области , состоимся в воскресенье , лидирует депутат Госдумы от КПРФ Владимир Тихонов , который по результатам наработки 99 процентов бюллетеней набираю 62 , 45 процента голосов избирателей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "набирает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "губернаторских"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "состоявшихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предварительным"
+    },
+    {
+      "correctReplacement": "обработки",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

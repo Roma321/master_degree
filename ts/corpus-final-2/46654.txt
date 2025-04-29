@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудникам офиса в Сан-Франциско руководство компани сообщило об увольнении только в понедельника утром , при этом им было предложившее покинутые рабочие места немедленно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "покинуть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "предложено"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

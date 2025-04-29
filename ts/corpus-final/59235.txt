@@ -1,0 +1,30 @@
+{
+  "text": "Недвусмысленной симптомомявляюсь и небывало высокое числа демонстрантов на первомайском митингах , организованном профсоюзами в крупнейшемпромышленном центре страны городе Сан-Пауло : на митинк пришлосвыше миллиона человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "митинге"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Недвусмысленным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "симптомомявляется"
+    },
+    {
+      "correctReplacement": "митинг",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На вопрос , не пытаюсь ли он стрелявшиеся с министром внутренних дел , Волкодавом одветил : \"Рушайло меня не принял\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "встретиться"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пытался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Волкодав"
+    },
+    {
+      "correctReplacement": "встретившиеся",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "ответил",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

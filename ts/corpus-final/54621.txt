@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , такая решение принято на пленуме обкома после тщательного анализа ситуацри в городе за минувшие четыре года и обсуждением всех зарегистрировавших кандидатур .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "такое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "зарегистрированных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "обсуждения"
+    },
+    {
+      "correctReplacement": "ситуации",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

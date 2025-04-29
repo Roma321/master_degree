@@ -1,0 +1,35 @@
+{
+  "text": "Судив по ранее поступавшими сообщениям , власти Лахора сначала не дал разрешения на посадку , из-за чего самолету пришлось сесть в Амритсаре для дозаправки . Однако , когда самолёты был на земли и уже заправлялся , террористы открыли огонь и убили четырех пассажиров Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "поступавшим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "самолет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "земле"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Судя"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 43
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В баках самолета остававшееся горючего на несколько минуты полета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оставалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "минут"
+    },
+    {
+      "correctReplacement": "горючего",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

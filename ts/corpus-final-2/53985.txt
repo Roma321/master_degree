@@ -1,0 +1,30 @@
+{
+  "text": "Идея установить монументы зайцу-спасителю пришла в голову спасателю Андрею Битову , а в ее реализации активному участие принял директор пушкинского музея-заповедника \"Михайловское\" Георгии Ваъилевич .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "активное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "монумент"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Георгий"
+    },
+    {
+      "correctReplacement": "писателю",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Василевич",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

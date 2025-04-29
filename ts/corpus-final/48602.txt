@@ -1,0 +1,20 @@
+{
+  "text": "В четверг на нью-йоркской электронных биржи NASDAQ было зафиксирую резкое понижение котировок акций , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "бирже"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "зафиксировано"
+    }
+  ]
+}

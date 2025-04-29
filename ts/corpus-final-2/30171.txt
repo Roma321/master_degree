@@ -1,0 +1,20 @@
+{
+  "text": "В США было представлена радикальное изобретение - мобильный телефоны одноразового использования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "телефон"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "представлено"
+    },
+    {
+      "correctReplacement": "уникальное",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

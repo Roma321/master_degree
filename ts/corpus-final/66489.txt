@@ -1,0 +1,20 @@
+{
+  "text": "Президент также сообщил , что захваченное предводитель повстанцах Фодей Санко скоро предстанет перед судгм .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "повстанцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "захваченный"
+    },
+    {
+      "correctReplacement": "судом",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В августу наибольших темпы инфляции наблюдавшиеся в период с 1 по 7 августа , когда индекс потребительских цен достигли 100 , 6 процента Э",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "августе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "наибольшие"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "наблюдались"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

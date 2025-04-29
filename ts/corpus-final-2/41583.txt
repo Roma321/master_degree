@@ -1,0 +1,20 @@
+{
+  "text": "Молели же IBM NetVista A60i с таким же процессором стоит 2200 долларам без монитора .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Модель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "Модели",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

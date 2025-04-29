@@ -1,0 +1,30 @@
+{
+  "text": "Решение министра связано с результатами недавнего медицинское обследования бывшей чилийского диктатора , которое показало , что Пиночет не выдержал судебного процесс по состоянию здоровья , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "выдержит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "медицинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "процесса"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На презентацию также прибёкшие , к восторге соберёмся , четверо двойников Beatles , загримированных в точности так , как музыканты выглядели в 1970 году на обложке их последней альбома Abbey Road .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "собравшихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "восторгу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "последнего"
+    },
+    {
+      "correctReplacement": "прибыли",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

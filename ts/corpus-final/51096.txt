@@ -1,0 +1,25 @@
+{
+  "text": "После произошедшего в прошлой году несчастного случая па АЭС в городу Токамура правительство страны недавно приняло решение сократить число вновь строящихся ядерных реакторов , сообщает немецкое агентства Deutsche Presse Agentur .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "городе"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

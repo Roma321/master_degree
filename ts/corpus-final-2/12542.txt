@@ -1,0 +1,30 @@
+{
+  "text": "В политику он пришедший в 1989 году , уже успев защилившие кандидатскую диссертации по истории и отсиженные два года в лагере общего режима - за клевету на советский строй .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "отсидеть"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "защитить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "диссертацию"
+    },
+    {
+      "correctReplacement": "пришел",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "защитившие",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

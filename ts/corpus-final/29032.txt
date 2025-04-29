@@ -1,0 +1,30 @@
+{
+  "text": "Совета аксаковых Крыма в составах старейшин крымско-татарского народа выиграло судебное дело по искам о защите чести и достоинства , предъявленному председателю Бахчисарайского меджлиса , заместителю главы Бахчисарайской районной администрации Ильми Умерову , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Совет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "иску"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "составе"
+    },
+    {
+      "correctReplacement": "аксакалов",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

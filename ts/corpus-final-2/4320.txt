@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщающий Associated Press , обсуждаемый актом , представивший сенатором Оррином Хэтчем , предполагаешь на три года поднять визовый потолок до 195 тысяч рабочих виз (H-1B) в год и направлять налоговые отчисления с виз на обучение африканских кадров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "представленный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "акт"
+    },
+    {
+      "correctReplacement": "американских",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

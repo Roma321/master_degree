@@ -1,0 +1,15 @@
+{
+  "text": "В воскресенье вечером президенту России дал развернутое интервью журналистам ОРТ , РТР и \"Независрмой газеты\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "\"Независимой",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

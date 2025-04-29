@@ -1,0 +1,20 @@
+{
+  "text": "После перерыв норвежцы поймём , что утёршие им уже нечего .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "перерыва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "поняли"
+    },
+    {
+      "correctReplacement": "терять",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

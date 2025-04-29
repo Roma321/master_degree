@@ -1,0 +1,30 @@
+{
+  "text": "В часяности , депутаты выразившие опасение , что правительство намеренно занижающий доходных часть бюджета , с тем чтобы вывести \"лишние\" деньги из-под контролей парламента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выразили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "занижает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "доходную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "контроля"
+    },
+    {
+      "correctReplacement": "частности",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

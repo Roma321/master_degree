@@ -1,0 +1,20 @@
+{
+  "text": "\"Повреждение не слишком велико , и в течение 10 дней или около того все будет поставлено на место , - сказал фотокорреспонденту Reuters директором национальных института культуры Луис Рипетто Малага .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "национального"
+    },
+    {
+      "correctReplacement": "корреспонденту",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

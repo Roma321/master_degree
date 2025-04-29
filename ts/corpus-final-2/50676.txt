@@ -1,0 +1,20 @@
+{
+  "text": "Журналиста доставили в травматологическое отделение , где после оказания медицинского попощи его отпущенные домой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "медицинской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "отпустили"
+    },
+    {
+      "correctReplacement": "помощи",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

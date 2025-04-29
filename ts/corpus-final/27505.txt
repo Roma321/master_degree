@@ -1,0 +1,20 @@
+{
+  "text": "\"Ситуация плачевные , и ее разрешение не вчзывает пока у меня никакой оптимизма .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "никакого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "плачевная"
+    },
+    {
+      "correctReplacement": "вызывает",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

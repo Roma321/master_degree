@@ -1,0 +1,25 @@
+{
+  "text": "По данным МВД , в ходе проведения операции \"Арсенал\" за минувшие сутки в Москве сотрудники милиция арестовали 11 преступников , к которых изъяты 455 рамм тротила и 300 граммов пластитов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "пластита"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "милиции"
+    },
+    {
+      "correctReplacement": "граммов",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

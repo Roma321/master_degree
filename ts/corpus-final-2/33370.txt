@@ -1,0 +1,15 @@
+{
+  "text": "\"Очевидао , при катастрофе речевой самописец разбились , а пленка , находящаяся в нем , сгорела\" , - сказал Иванов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "разбился"
+    },
+    {
+      "correctReplacement": "\"Очевидно",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

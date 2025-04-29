@@ -1,0 +1,30 @@
+{
+  "text": "На это указывает то , что по сведениям газеты , исполнительная директор ЗАО Сергей Хегай , представляющий интересы Сагалаева на собраниях акционера , на дне неожиданно ушёл в отпуск .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "днях"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "ушел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "собрании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "исполнительный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "акционеров"
+    }
+  ]
+}

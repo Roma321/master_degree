@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , по словам самого полевого командира , из дома было похищено 500 тысяч долларов , выделифших на финансирование банда .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "выделенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "банды"
+    },
+    {
+      "correctReplacement": "выделивших",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

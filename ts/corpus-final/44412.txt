@@ -1,0 +1,30 @@
+{
+  "text": "Фондовый биржи Амстердама , Брюсселя и Парижа в пододеяльник официально объявившие о слиянии и образованиях новых биржевого объединения Euronext со штаб-квартирой в Нидерландах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "образовании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "объявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Фондовые"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

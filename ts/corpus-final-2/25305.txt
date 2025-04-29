@@ -1,0 +1,15 @@
+{
+  "text": "Cкорость урагана достигает 260 километтов в часом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "час"
+    },
+    {
+      "correctReplacement": "километров",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

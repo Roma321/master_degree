@@ -1,0 +1,20 @@
+{
+  "text": "Национальная аптечная ассоциация ранее выявило в общей сложности около 400 вайтов , где продающие лекарства , и многие из этих сайтов оказались мошенническими .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "продают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "выявила"
+    },
+    {
+      "correctReplacement": "сайтов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

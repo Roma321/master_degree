@@ -1,0 +1,20 @@
+{
+  "text": "Полицейским удалось укрывшие хранилище , которое , к счастью , не было герметичному .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вскрыть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "герметичным"
+    },
+    {
+      "correctReplacement": "вскрывшие",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

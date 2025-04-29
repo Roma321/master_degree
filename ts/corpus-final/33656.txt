@@ -1,0 +1,25 @@
+{
+  "text": "Четверть опросивших , проводимых в Интернете больше , чем пять часов в наделю , согласился , что они стали меньше общаться с друзьями и родственниками - даже по телефону .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "опрошенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "согласились"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проводящих"
+    },
+    {
+      "correctReplacement": "неделю",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

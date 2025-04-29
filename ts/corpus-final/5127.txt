@@ -1,0 +1,30 @@
+{
+  "text": "Два главным объединения международных кредиторов - Парижского и Лондонский клубы - признаваемые равное финансовую ответственность по ущербам , которые несут суверенные (государздва-кредиторы) и коммерческие доноры в случае реструктуризации долга стран-кредитополучателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Парижский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "главных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "признают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "равную"
+    },
+    {
+      "correctReplacement": "(государства-кредиторы)",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

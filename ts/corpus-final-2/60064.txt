@@ -1,0 +1,20 @@
+{
+  "text": "Огонь успели ковредить часть фасадом и последний этаж здания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "фасада"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "успел"
+    },
+    {
+      "correctReplacement": "повредить",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

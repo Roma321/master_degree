@@ -1,0 +1,20 @@
+{
+  "text": "Большинство стран ОПЕК поддавшийся давлению США и ЕС и примет решение об увеличении добычи нефти , передаю РИА \"Новости\" со ссылкой на ближние к руководству ОПЕК источники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поддастся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "близкие",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва один из триз подъездов здания полностью разрушен , два серьезно пострадавшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "трех"
+    },
+    {
+      "correctReplacement": "трёх",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

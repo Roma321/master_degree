@@ -1,0 +1,25 @@
+{
+  "text": "Из Чехии в Ирак запрещено ввозящие дсже те товары , которые невозможно заменившие аналогичной продукцией из других стран , в частности запчасти к чешским тракторам \"Зетор\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заменить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "ввозить"
+    },
+    {
+      "correctReplacement": "запчасти",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "даже",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

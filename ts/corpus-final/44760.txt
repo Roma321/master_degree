@@ -1,0 +1,25 @@
+{
+  "text": "Его , в частности , высказался за снижением \"более быстрыми темпами\" налогового бремени , а также отметил , что необходимо минимизировать вмешательздво государства в деятельность хозяйствующих субъекта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "снижение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "субъектов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "вмешательство",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

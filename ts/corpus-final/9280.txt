@@ -1,0 +1,20 @@
+{
+  "text": "В Казахстане арестованы 12 граждан Россия , их подозревающиеся в организации заговора , целью которого было отделение Восточно-Казахстанской области от республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подозревают"
+    },
+    {
+      "correctReplacement": "подозреваемые",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

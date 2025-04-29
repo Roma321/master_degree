@@ -1,0 +1,25 @@
+{
+  "text": "Верховный сут Пакистана объявленный , что в январе начнет рассматривать иски , выдвинутые против организаторов военного переворотом , в результате которого правительство Наваза Шарифу было отстранено от власти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Шарифа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "переворота"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

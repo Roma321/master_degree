@@ -1,0 +1,25 @@
+{
+  "text": "Однако введение платы за проезд рассматриваюсь ишь как один из вариантов развития транспортной узлов в районе аэропорта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "узла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "транспортного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

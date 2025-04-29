@@ -1,0 +1,25 @@
+{
+  "text": "согласие результатам исследования , в первой пятерке перед Москвой стояли Тоуио , Осака , Гонконг и Пекины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Пекин"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "стоят"
+    },
+    {
+      "correctReplacement": "Согласно",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Токио",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

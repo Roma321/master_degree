@@ -1,0 +1,30 @@
+{
+  "text": "Деньгам от этой акации пойдут на лечение российских детей , страдающих болезням головной мозга . �о движения и обязательном контроле технического состояния автотранспорт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "головного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Деньги"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "болезнями"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "автотранспорта"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После взрыва , случусь в дегазационной скважину шахты , начался пожаре , потушить который почка не удается .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "скважине"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "случившегося"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пожар"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

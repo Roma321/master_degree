@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что в России аналогичные история закончился довольно шустро , без особых юридических разбирательств .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "закончилась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "аналогичная"
+    },
+    {
+      "correctReplacement": "быстро",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

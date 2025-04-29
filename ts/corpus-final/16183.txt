@@ -1,0 +1,20 @@
+{
+  "text": "Например , на официальном сайте Чёрного м разделах \"Биография\" говорится о \"незаурядном таланте рыночного экономиста\" , который \"сумел создать очень эффективные коммерческие структуры\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Черного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "разделе"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

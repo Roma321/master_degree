@@ -1,0 +1,25 @@
+{
+  "text": "Как заявила Шатлен , \"когда во Францию прибудет с визитом президенты России Владимир Путин , му арестуем его самотёк .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "президент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "самолет\"",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "мы",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

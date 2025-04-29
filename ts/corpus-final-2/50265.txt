@@ -1,0 +1,20 @@
+{
+  "text": "Местный житель Пелтье был признан виновным в их убийству и приговоривший к двум оживлённым заключениям .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "убийстве"
+    },
+    {
+      "correctReplacement": "пожизненным",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

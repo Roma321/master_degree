@@ -1,0 +1,30 @@
+{
+  "text": "Представитель Пентагона заявил , что , вероятно , Shell не подозревавшая о наличиях иракских примесей , но предупредила , что в следующий раз это может привёдшие к конфискации всё груза .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "привести"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "предупредил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "подозревала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "наличии"
+    }
+  ]
+}

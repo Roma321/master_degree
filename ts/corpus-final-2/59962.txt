@@ -1,0 +1,20 @@
+{
+  "text": "Сам Кононов к тому же утверждавший , что вообше не участвовавший в бою .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "участвовал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "утверждал"
+    },
+    {
+      "correctReplacement": "вообще",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

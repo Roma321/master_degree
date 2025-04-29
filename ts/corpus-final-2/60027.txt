@@ -1,0 +1,20 @@
+{
+  "text": "Сигнал о бедствии постыпивший оперативному дежурный Северо-Западного регионального центра МЧС в 10 : 30 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дежурному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поступил"
+    },
+    {
+      "correctReplacement": "поступивший",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

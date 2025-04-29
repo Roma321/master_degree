@@ -1,0 +1,25 @@
+{
+  "text": "Согласно первом , войска Басаева и Хаттаба будут взяты в окружение группировкой федерального сил в количестве 50 , 000 человек , после чего по террористам будут нанёсшие бомбовые удары с вьздуха .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "нанесены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "первому"
+    },
+    {
+      "correctReplacement": "воздуха",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

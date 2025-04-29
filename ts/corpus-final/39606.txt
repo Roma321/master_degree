@@ -1,0 +1,30 @@
+{
+  "text": "агриппой Spice Girls , продавшая более 25 миллионов экземпляра своих альбомов по всему миру , получила награды за выдающийся вклад в британского музыку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "награду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Группа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "экземпляров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "британскую"
+    },
+    {
+      "correctReplacement": "Группой",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "John's Health Center в Санта Монике , где его прооперированные в субботу , сообщивший CNN .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "прооперируют"
+    },
+    {
+      "correctReplacement": "сообщал",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

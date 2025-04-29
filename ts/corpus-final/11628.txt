@@ -1,0 +1,25 @@
+{
+  "text": "Так же как и на совете директорий , на встрече было отмечено , что предложу цена является слишком низкой и , кроме того , продажи компании противоречит стратегическим интересу Mannesmann AG .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "предложенная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "продажа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "интересам"
+    },
+    {
+      "correctReplacement": "директоров",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

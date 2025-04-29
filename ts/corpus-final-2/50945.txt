@@ -1,0 +1,20 @@
+{
+  "text": "По улицам Севастополя в праздничное новь пойду общественный транспорт , украшенный гирляндами и разноцветными лампочками , кондукторы троллейбусов будут наряжены в костюмы снегурочек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "праздничную"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "correctReplacement": "ночь",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

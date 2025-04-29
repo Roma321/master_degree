@@ -1,0 +1,20 @@
+{
+  "text": "По данным пресс-центра , за минувшим сутки подразделения МВД России проведём успегные спецоперации в населенных пунктах Шалажи , Орехово , Гехи и Знаменское .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "минувшие"
+    },
+    {
+      "correctReplacement": "успешные",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

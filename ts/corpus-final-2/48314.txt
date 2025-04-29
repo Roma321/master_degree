@@ -1,0 +1,30 @@
+{
+  "text": "Суд признал он виновным в поддержке и пропаганде движения , направлю на ограничение пьава и свобод граждан , сообщающий \"Радио Прага\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "направленного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "прав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "его"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "права",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

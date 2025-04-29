@@ -1,0 +1,25 @@
+{
+  "text": "В результате драки , в которой с обоих сторьн участвовало более десяти челомей , имеются легко пострадаем .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "пострадавшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "обеих"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "сторон",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

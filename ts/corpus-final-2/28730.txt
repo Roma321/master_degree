@@ -1,0 +1,25 @@
+{
+  "text": "По оценке пороховых агеноств , общий сумма компенсационных выплат пострадавшим достигнет четырех миллиардов фунтов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "общая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "оценкам"
+    },
+    {
+      "correctReplacement": "страховых",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "агентств",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

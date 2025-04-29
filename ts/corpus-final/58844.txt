@@ -1,0 +1,35 @@
+{
+  "text": "В манифестации принимаете участие лидер КПРФ Геннадий Зюгапов , спикер Госдуму Геннадии Селезнев , другой руководители компартии , Движения в поддержку армия , \"Трудовой России\" , прочих левых политических организаций .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "принимают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Геннадий"
+    },
+    {
+      "correctReplacement": "Зюганов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

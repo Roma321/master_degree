@@ -1,0 +1,25 @@
+{
+  "text": "После обследования здания вокзала кинологом выгнавшееся , что сообщения о взрывном устройстве , как и в предыдущих случаях , оказалось ложным .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сообщение"
+    },
+    {
+      "correctReplacement": "выяснившееся",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "выгнувшееся",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

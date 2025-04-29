@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в центре Токио произошла перестрелка , в которая двум человека были убиты и шестеро раним .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "которой"
+    }
+  ]
+}

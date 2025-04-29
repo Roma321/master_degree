@@ -1,0 +1,25 @@
+{
+  "text": "Однока договорённость были засушенные , ни лдно из соглашений об оплату не выполнено .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "оплате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "договоренности"
+    },
+    {
+      "correctReplacement": "нарушены",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "одно",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

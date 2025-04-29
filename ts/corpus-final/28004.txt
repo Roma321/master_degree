@@ -1,0 +1,20 @@
+{
+  "text": "Над этой адача он работал четыле года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "задачей"
+    },
+    {
+      "correctReplacement": "задаче",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "четыре",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

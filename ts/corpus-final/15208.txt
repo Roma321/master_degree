@@ -1,0 +1,35 @@
+{
+  "text": "Впрочем , по словам rfp , проблемы не в самом языке , а в том , что программистам недооценивают сложность системой взаимодействие Perl-скриптов с дрфгими языками программирования на веба .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "системы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "вебе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "проблема"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "программисты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "взаимодействия"
+    },
+    {
+      "correctReplacement": "другими",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

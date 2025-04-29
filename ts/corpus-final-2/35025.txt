@@ -1,0 +1,20 @@
+{
+  "text": "Как оказалось , на реальную продажа с аукциона компания и не рассчитыкавшая .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "продажу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "рассчитывала"
+    },
+    {
+      "correctReplacement": "рассчитывавшая",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

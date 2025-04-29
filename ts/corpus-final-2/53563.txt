@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщает СomNews . ru , Норманы предложу организовать трансляцию в Лондон видеоизображения еще с одного камеры - на крышух Эрмитажа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Норман"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "крыше"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "предложила"
+    },
+    {
+      "correctReplacement": "крышах",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

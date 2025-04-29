@@ -1,0 +1,25 @@
+{
+  "text": "Общие инвестициях компанией АО \"Алмазы России-Саха\" (АЛРОСА) в добычу алмазов в 2000-2005 годах составят 100 миллиардов рублей , сообщает РИА \"Новости\" со ссылкой на источникоф в алмазодобывающей компании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "инвестиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "источники"
+    },
+    {
+      "correctReplacement": "источников",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

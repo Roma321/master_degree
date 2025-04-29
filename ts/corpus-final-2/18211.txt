@@ -1,0 +1,35 @@
+{
+  "text": "Гильдия актеров и Американское федерация актеров радио и телевидения , насчитывающие в общего сложности более 135 тысяч человек , протестуете против существующей истомы оплатой труда за съёмки в рекламе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Американская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "оплаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "съемки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "протестуют"
+    },
+    {
+      "correctReplacement": "системы",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

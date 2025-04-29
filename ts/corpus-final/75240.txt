@@ -1,0 +1,20 @@
+{
+  "text": "По заявлению американской сророны , здание находится слишком близко от Министерства обороны США - Пентагон - и может быть использован в разведывательных целях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "использовано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Пентагона"
+    },
+    {
+      "correctReplacement": "стороны",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

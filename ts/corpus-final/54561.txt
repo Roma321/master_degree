@@ -1,0 +1,20 @@
+{
+  "text": "В результате пожара и серии мощных взрывов , происшедших в пятницу в аэропорту Киншасы - столицы Демократической Республики Конго , погибли более 100 человеком и более 200 полвчим ранения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "получим",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

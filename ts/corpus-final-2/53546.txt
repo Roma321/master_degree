@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу в Генерального прокуратуре России состоялась допрос одного из фигурантов по делу \"Аэрофлота\" - бывшего заместитедя генеральной директора этой компании по коммерции Александра Красненкера , обвиняемого в мошенничестве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Генеральной"
+    },
+    {
+      "correctReplacement": "заместителя",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

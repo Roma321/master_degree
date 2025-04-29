@@ -1,0 +1,20 @@
+{
+  "text": "38-летняя жительница Казани погиб в четверг вечером во времярепетиции парада , позвященного 55-летию победы в Великойотечественного войне .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "ВеликойОтечественной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "погибла"
+    },
+    {
+      "correctReplacement": "посвященного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В штаь ГО и ЧС Москвы сообщили , что детский сады не будет прерывать работу , но гулять детям не разрешается , пока площадку не забетонируют .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сад"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "штабе"
+    },
+    {
+      "correctReplacement": "штаб",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

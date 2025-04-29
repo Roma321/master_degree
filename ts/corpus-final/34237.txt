@@ -1,0 +1,20 @@
+{
+  "text": "По словам обвиняемых , за период с 1996 по 1999 год со счётов нескольких российских компаний в Bank of New York , а далее - на маковские счета в оффшорных зонами , было нелегально переведено около семь миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "счетов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "зонах"
+    },
+    {
+      "correctReplacement": "банковские",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

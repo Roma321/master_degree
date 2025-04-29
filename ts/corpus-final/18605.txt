@@ -1,0 +1,20 @@
+{
+  "text": "Это решение , сообщающий МАП РФ , было принято потому , что себестоимости абонентского обслуживания составляют 49 рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "себестоимость"
+    }
+  ]
+}

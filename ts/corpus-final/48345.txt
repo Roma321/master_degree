@@ -1,0 +1,25 @@
+{
+  "text": "В качестве вознесения морального ущерба Юрий Скуратов требовала взысканные с телекомпании ОРТ 5 миллионов рублей , а с Павла Шеремета - 150 тысяч рубля , сообщает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "требовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "взыскать"
+    },
+    {
+      "correctReplacement": "возмещения",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

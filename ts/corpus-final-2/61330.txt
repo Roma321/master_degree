@@ -1,0 +1,20 @@
+{
+  "text": "В 1963 году правительство США приговорившее к смерти через повешению Виктора Фегуэра , виновного в убийстве и похищении человечей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "приговорило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "повешение"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

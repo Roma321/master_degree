@@ -1,0 +1,25 @@
+{
+  "text": "Лавине обрушились всего через неделю после гребли 155 человек в поезде фуникулера , загоревшейся в альпийской туннеле возле Капруна .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "загоревшемся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лавины"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "альпийском"
+    },
+    {
+      "correctReplacement": "гибели",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "При осмотре выяянилось , что Тищенко получила колото-ножевое ранение в левых часть шеи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "левую"
+    },
+    {
+      "correctReplacement": "выяснилось",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

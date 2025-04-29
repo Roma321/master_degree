@@ -1,0 +1,35 @@
+{
+  "text": "Кшоме того , в Москве зафиксирован случай , когда избиратель проголосую за Леонида Кучму , вписанные его фамилии в июллетени .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "проголосовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "фамилию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "вписав"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "бюллетень"
+    },
+    {
+      "correctReplacement": "бюллетени",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Кроме",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

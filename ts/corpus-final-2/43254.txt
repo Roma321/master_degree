@@ -1,0 +1,25 @@
+{
+  "text": "В квартире сотрудники милиции обнаружим труп двух девушек с ножевыми ранениями , еще одной молодая женщина находилась в крайне тяжелом состояния .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "трупы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "состоянии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "одна"
+    }
+  ]
+}

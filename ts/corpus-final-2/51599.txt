@@ -1,0 +1,20 @@
+{
+  "text": "Представители компаний не дали объяснений принятой решении о повышении центов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "принятому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "решению"
+    },
+    {
+      "correctReplacement": "цен",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

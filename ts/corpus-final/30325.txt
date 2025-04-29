@@ -1,0 +1,35 @@
+{
+  "text": "В связи с этим из здания банка были немедленно выведены все сотрудниками , эвакуированы также жители соседнего жилых допов и работники расположенного поблизости мэрия Назрань .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "соседних"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "мэрии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Назрани"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

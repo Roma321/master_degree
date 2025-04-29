@@ -1,0 +1,20 @@
+{
+  "text": "Трперь это летний референция президента Украины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "летняя"
+    },
+    {
+      "correctReplacement": "резиденция",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Теперь",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

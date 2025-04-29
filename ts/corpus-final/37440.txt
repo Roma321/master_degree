@@ -1,0 +1,20 @@
+{
+  "text": "ввпсти с инвентарем животное весят более 22 тонн .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "животные"
+    },
+    {
+      "correctReplacement": "Вместе",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "ввести",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Если и повторные выборы не определят президента страны , то действующий президент распустишь парламент и назначит дату дрсрочного парламентских выборов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "распустит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "досрочных"
+    },
+    {
+      "correctReplacement": "досрочного",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

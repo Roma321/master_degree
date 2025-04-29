@@ -1,0 +1,30 @@
+{
+  "text": "Такое падение было также частично спровоцировано заявлением влиятельное аналирика из Goldman Sacks , заявившей о понижении рейтинга компания и удаление акций Microsoft из списка \"рекомендуемых к покупке\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "заявившего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "удалении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "влиятельного"
+    },
+    {
+      "correctReplacement": "аналитика",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

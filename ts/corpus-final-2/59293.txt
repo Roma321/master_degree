@@ -1,0 +1,25 @@
+{
+  "text": "В 1995 году она сменил ликёр боснийских сербов Радована Караджича , который также обвиняюсь в военных преступления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "преступлениях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сменила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "correctReplacement": "лидера",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

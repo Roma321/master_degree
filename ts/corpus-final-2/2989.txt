@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили РИА \"Новости\" в столичных правоохранительных органах , в гараже-ракушке взорвалось неуравновешенные взрывное устройздво .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "неустановленное"
+    },
+    {
+      "correctReplacement": "неустановленные",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

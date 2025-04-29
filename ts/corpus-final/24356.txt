@@ -1,0 +1,35 @@
+{
+  "text": "Агентство Associated Press передающий со ссылкой на неназванных служащих гостиницы , что Ражнатовича расстрелянные из автомата людей в масках , которые покинутые вестибюль отеля не раньше , чтомом произвели контрольный выстрел в глаз командиром сербских боевиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "люди"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "покинули"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "расстреляли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "командира"
+    },
+    {
+      "correctReplacement": "чем",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

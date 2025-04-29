@@ -1,0 +1,25 @@
+{
+  "text": "По словам гливы ЦИК , предварительные итоги голосования будут передаваться в день выборами по всех телеканалам с 21 часа , а в течение дня будет сообщаться о том , как идёт голосование , и проводиться телемосты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "выборов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "всем"
+    },
+    {
+      "correctReplacement": "главы",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

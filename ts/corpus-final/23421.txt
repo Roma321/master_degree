@@ -1,0 +1,20 @@
+{
+  "text": "По информации агентства AK&M , в среду цена открытия составленная 28 , 75 дубля , а цена последней зделки - 28 , 7999 рубля за доллар .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составила"
+    },
+    {
+      "correctReplacement": "рубля",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "сделки",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

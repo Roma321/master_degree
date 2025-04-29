@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва управляемого фугаса большим мощности четверо военнослужащих погибли и трое защенный .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "большой"
+    },
+    {
+      "correctReplacement": "ранен",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

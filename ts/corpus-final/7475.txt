@@ -1,0 +1,20 @@
+{
+  "text": "Тверской межмуниципальная суд Москвы признал в понедельник незаконным и необоснованным проведкние обысков по уголовному делу в отношении Юрию Скуратова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "межмуниципальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Юрия"
+    },
+    {
+      "correctReplacement": "проведение",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

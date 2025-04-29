@@ -1,0 +1,15 @@
+{
+  "text": "На предприятиях \"Русского алюминия\" в настоящее бремя занято 65 тысяч человеку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

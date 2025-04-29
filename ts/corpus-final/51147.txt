@@ -1,0 +1,45 @@
+{
+  "text": "Соответствующего заявку Министерство финансов РФ подало в Банк Россией в пятнице , сообщаю AK&M . По данным федерального казначейства , в первой квартале 2000 года Россиявыплаченная МВФ в счёт погашения основной суммы долга 855 гиллиан долларов . Расходы на обслуживание долга перед МВФ составили в январе-феврале 137 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "Россиявыплатила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Соответствующую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "первом"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 34
+    }
+  ]
+}

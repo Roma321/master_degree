@@ -1,0 +1,25 @@
+{
+  "text": "За доставке телеграмм , адресуемых в населенные пункты , не имеющие телеграфной вязи , тариф будет увеличен на 38 процента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "доставку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "адресованных"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

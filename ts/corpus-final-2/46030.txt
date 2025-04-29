@@ -1,0 +1,30 @@
+{
+  "text": "В состав групп также вошедший генеральные директор петербургский ЦКБ \"Рубин\" и разработчик проекта операции по подъему ЕПЛ \"Курск\" Игорь Спасский .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "петербургского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "вошел"
+    },
+    {
+      "correctReplacement": "АПЛ",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

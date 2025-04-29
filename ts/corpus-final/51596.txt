@@ -1,0 +1,25 @@
+{
+  "text": "Ранее агентство РИА \"Новости\" сообщило , что в бухте Золотой рог произошло столкновения двух боевых кораблям Тихоокеанского флотов - миноносца \"Бурный\" и большого противолодочной корабля \"Адмирал Виноградов\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "кораблей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "противолодочного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "столкновение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "флота"
+    }
+  ]
+}

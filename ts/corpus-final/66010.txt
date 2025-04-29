@@ -1,0 +1,30 @@
+{
+  "text": "Эксперты отмечающие , что это мамая крупная акции такого рода , когда-либо проведенная в подчинившие Штатах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "Соединенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "акция"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "correctReplacement": "Соединивших",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "самая",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

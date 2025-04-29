@@ -1,0 +1,30 @@
+{
+  "text": "По данным полиции в митинге приняли участие более 200 человек , они державшие в руках антивоенных и антипутинские лозунгов Э",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "держали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "антивоенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "лозунги"
+    },
+    {
+      "correctReplacement": "милиции",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

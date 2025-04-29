@@ -1,0 +1,30 @@
+{
+  "text": "Предприятия , импонирующие программный продукты корпорации Microsoft , к 2002 году станут платить за них ежегодно на 50% больше , чем сейчас , за счет изменениях условий лицензионным соглашениях корпорации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "соглашений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "лицензионных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "изменения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "программные"
+    },
+    {
+      "correctReplacement": "использующие",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "С открытой письмо к Владимиру Пытину обратился также Институт международной прессы - организация , защищающее права журналистов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "защищающая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "открытым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "письмом"
+    },
+    {
+      "correctReplacement": "Путину",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

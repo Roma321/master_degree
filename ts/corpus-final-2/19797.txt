@@ -1,0 +1,25 @@
+{
+  "text": "На своей машине он въехали на подиум зданию и попчтался протаранить стеклянные стелы первого этажа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "здания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "въехал"
+    },
+    {
+      "correctReplacement": "стены",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "попытался",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

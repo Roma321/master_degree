@@ -1,0 +1,25 @@
+{
+  "text": "Швейцарская народная партия , возглавляющая националистами аристом Блохером , впервые набрали 23 процента голосов (против 14 , 9 процента на прошлых выборах) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "возглавляемая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "набрала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "националистом"
+    },
+    {
+      "correctReplacement": "Кристофом",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Квасьневский с легкостью выиграло эри выборги , набрав приблизительно 53 , 9 процента голосов избирателей , передает BBC News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "correctReplacement": "выборы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

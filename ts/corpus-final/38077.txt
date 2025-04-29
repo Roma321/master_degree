@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на Главное управление ГО и ЧС , взрывы произошел на первом этаже двухэтажного здания стадного постройки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "старой"
+    },
+    {
+      "correctReplacement": "старого",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

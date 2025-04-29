@@ -1,0 +1,20 @@
+{
+  "text": "Полиции Нью-Йорка удалось оперативно раскрывшие ограбление фанка , совершенное в пятница утром жительницей Бруклина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "раскрыть"
+    },
+    {
+      "correctReplacement": "банка",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом со ссылкой на юридические истопники сообщу французское агентство новости France Presse .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "источники",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

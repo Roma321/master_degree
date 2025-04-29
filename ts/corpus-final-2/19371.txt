@@ -1,0 +1,25 @@
+{
+  "text": "За останемся до соревнований три часа Аллен сделала все возможные , чтобы сбавить вес : выполняла упражнения , коротко остриглось и даже встала на официальные весы бес одежды .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "возможное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "остриглась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "оставшиеся"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

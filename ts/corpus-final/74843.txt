@@ -1,0 +1,20 @@
+{
+  "text": "По словам Тюленевой , движение подал два иска непосретздвенно на производителя бракованных машины \"Fiat S . p . A . \" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "машин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подало"
+    },
+    {
+      "correctReplacement": "непосредственно",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "В воскресенье в Москве на стадионе Лужники состоялось праздник газеты \"Мосповский комсомолец\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "correctReplacement": "\"Московский",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

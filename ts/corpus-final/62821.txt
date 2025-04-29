@@ -1,0 +1,25 @@
+{
+  "text": "Вечеринка сбывшая устроившая в честь пришедшегося на воскьесенью дня рождения певицы Натали Эпплтон , входящей в трио All Saints .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "устроена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "воскресенью",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

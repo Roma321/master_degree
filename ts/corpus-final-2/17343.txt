@@ -1,0 +1,30 @@
+{
+  "text": "На конкурс было представлено более двухсот работ , определено более сорока победителей , но главный приз - статуэтка из бронзы и золота весами сорок килограммов , изображающее трех Грации , которые держат земная шар , - так не был припущенный .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "весом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Граций"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "изображающая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "земной"
+    },
+    {
+      "correctReplacement": "присужден",
+      "type": "paronym",
+      "wordNumber": 39
+    }
+  ]
+}

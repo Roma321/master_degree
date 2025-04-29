@@ -1,0 +1,20 @@
+{
+  "text": "Ежемесячная плата за пользование WAP не взимается , но сама эфирное время оплачивающийся по тарифам услуги \"Мобильный Интернет\" (звоноу по номеру 0885) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "само"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "оплачивается"
+    },
+    {
+      "correctReplacement": "(звонок",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

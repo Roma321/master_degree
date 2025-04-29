@@ -1,0 +1,25 @@
+{
+  "text": "Боевики обстрелянные из подствольных гранатометов сотрудников Шатойского временной ОВД , которые совместно а военнослужащими военной комендатуры района проводим специальную операцию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "временного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "проводили"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

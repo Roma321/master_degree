@@ -1,0 +1,25 @@
+{
+  "text": "Американские специалисты рекомендуют гражданах внимательно относиться ко всем платежам , вести их учет , сохранять все квитанции , чтобы доказавшие свою правоту в случая коллизии с неправильными счетами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "доказать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гражданам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "коллизий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "случае"
+    }
+  ]
+}

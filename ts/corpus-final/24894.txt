@@ -1,0 +1,20 @@
+{
+  "text": "Пять человек , в того числе три женщины , госпитализируемы с огнестрельными и носовыми ранениями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "ножевыми",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

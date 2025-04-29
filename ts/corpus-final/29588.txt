@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , анализ ситуации показывающий , что 35% преступлений , совершенных в столице , - дело рун приезжим .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "показывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "приезжих"
+    },
+    {
+      "correctReplacement": "рук",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

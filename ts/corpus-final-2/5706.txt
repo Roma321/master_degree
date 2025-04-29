@@ -1,0 +1,15 @@
+{
+  "text": "Эти машины оборудованы специальной выливной системой ВАП-2 , вмещающего 42 бонны воды .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "вмещающей"
+    },
+    {
+      "correctReplacement": "тонны",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

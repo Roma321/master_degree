@@ -1,0 +1,25 @@
+{
+  "text": "Неизвестное выбил дверь и пообещаю \"найти её , где бы ога не была\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Неизвестный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "ее"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

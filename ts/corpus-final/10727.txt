@@ -1,0 +1,25 @@
+{
+  "text": "МИД России считает некомпетентной принятых 15 ноября Парламентской ассамблеей НАТО революции по отношеничм альянса с Россией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "принятую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "резолюцию"
+    },
+    {
+      "correctReplacement": "резолюции",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "отношениям",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

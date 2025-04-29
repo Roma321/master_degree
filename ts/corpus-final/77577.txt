@@ -1,0 +1,25 @@
+{
+  "text": "По данным МЧС , в настоящее время профилактические работы на 33 километре магистральной газопровода оже завершифшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "завершены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "магистрального"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "завершившие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

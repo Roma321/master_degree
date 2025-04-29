@@ -1,0 +1,25 @@
+{
+  "text": "Первое премия присужу российского исполнителю - Даниилу Тришину . Вторую премию получили две молодые исполнительницы - Аида Соапеа из Германии м София Лебедь из России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "присуждена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Первая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "российскому"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

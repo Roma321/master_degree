@@ -1,0 +1,20 @@
+{
+  "text": "Как информируемый Агентство военных новостей со ссылкой на североморское отделение \"Мурманскоблгаза\" , в ближайшие дни здесь ожидадт поступления всего 3 тонн газов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "информирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "газа"
+    },
+    {
+      "correctReplacement": "ожидают",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , туристические агентств , выдавшие россиянкам визы , предупредим , что могут лишиться лицензиатов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "предупреждены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "агентства"
+    },
+    {
+      "correctReplacement": "лицензий",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

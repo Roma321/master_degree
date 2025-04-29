@@ -1,0 +1,20 @@
+{
+  "text": "Секретарь Совета бесплатности Россию Сергей Иванов опровергло слухи о своем возможном назначении министром обороны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

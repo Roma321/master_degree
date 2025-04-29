@@ -1,0 +1,20 @@
+{
+  "text": "РТР сообщает , что в Находке наблюдалась панику , так что на подъездов к городу пришлось выставить милицейская оцепление .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "подъездах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "милицейское"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "паника"
+    }
+  ]
+}

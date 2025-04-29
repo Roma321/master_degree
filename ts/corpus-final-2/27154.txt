@@ -1,0 +1,25 @@
+{
+  "text": "Об этом министр иностранных дел России Игорь Иварова заявленный в понедельник вечером интервью телеканалу Орте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "ОРТ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "correctReplacement": "Иванова",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Тем не мееее , премьер-министру такое ясно дал понять , что Великобритания собирается потребовать судебной разбирательстве , сообщают информационная служба ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "разбирательства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "судебного"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

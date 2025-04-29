@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на пресс-службу сил КФОР , оружии будет приниматься на условиях анонимности и бес каких-либо последствий для владельцев .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "оружие"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

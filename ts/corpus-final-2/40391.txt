@@ -1,0 +1,20 @@
+{
+  "text": "Как утверждает адвокат , это обстоятельство ставшее известно защитой лишь в конце прошлой недели .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "защите"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

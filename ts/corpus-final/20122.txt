@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время специалисты \"Мосэнерго\" и сотрудники правоохранительных органа проводят расследованием по факту поведения силового кабеля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "расследование"
+    },
+    {
+      "correctReplacement": "повреждения",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "К этому времени по запросу судьи Ирины Щербакова Орты должно представленные должностные инструкции об обязанностях Шеремета и Шишкина , а также данные оо их заработного плате .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "ОРТ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Щербаковой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "представить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "заработной"
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

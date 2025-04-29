@@ -1,0 +1,25 @@
+{
+  "text": "По данным штаба объединенной группировки воыск на Северном Кавказе , полученным ИТАР-ТАСС , в результате ударов артиллерии , авиации и в уличных боях в субботу уничтожу более 100 боевиков , 2 склада боеприпасов , 7 единицы боевую техники боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "единиц"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "уничтожено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "боевой"
+    },
+    {
+      "correctReplacement": "войск",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

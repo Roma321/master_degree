@@ -1,0 +1,25 @@
+{
+  "text": "Впрреди иду БТР Северокавказское РУБОПа , а за ним следую \"Урал\" с милиционерами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "шел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Северокавказского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "следовал"
+    },
+    {
+      "correctReplacement": "Впереди",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

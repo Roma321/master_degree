@@ -1,0 +1,30 @@
+{
+  "text": "Избирательные бюллетени будут уничтожать рабочим группами , образовавшими избиркомов субъектов Федерации и территориальными избирательными комиссиями , под контролем Центризбирком .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "рабочими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "избиркомами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Центризбиркома"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "образованными"
+    },
+    {
+      "correctReplacement": "уничтожаться",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

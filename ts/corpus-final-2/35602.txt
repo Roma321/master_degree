@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает \"Интерфакс\" , на суде были оглашены результаты медицинского обследованием Сасуна Агаджаняна , который проходит по делу как непосредственный исполнитель геракда .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "обследования"
+    },
+    {
+      "correctReplacement": "теракта",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "геракла",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

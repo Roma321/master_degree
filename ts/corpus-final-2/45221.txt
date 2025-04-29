@@ -1,0 +1,25 @@
+{
+  "text": "По информации вице-премьера Виктора Христенко , утвержденное президентами РФ и Украины соглашение по долги за газе будет подписано премьерами обоих стран , скорее всего , в предстоящие выходных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "выходные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "долгам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "обеих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "газ"
+    }
+  ]
+}

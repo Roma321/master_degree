@@ -1,0 +1,25 @@
+{
+  "text": "Оставив трон , Ингрид продолжал вести активный образ жизни , несмотря на то , что страдала остеопорозом , перенёсшая перелом шейки бедра и в посгедний годы чаще всего передвигалась в инвалидном кресле .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "перенесла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "продолжала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "последние"
+    },
+    {
+      "correctReplacement": "последний",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

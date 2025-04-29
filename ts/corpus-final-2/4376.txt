@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённый журналистам другой адвокат Быкова Роберт Дубинников , следствием было изменена обвинение по делу об убийстве предпринимателя Олегом Губина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "изменено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Олега"
+    },
+    {
+      "correctReplacement": "делу",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

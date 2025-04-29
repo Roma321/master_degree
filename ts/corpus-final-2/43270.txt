@@ -1,0 +1,20 @@
+{
+  "text": "Мужчина высокого роста переодевшийся в женский платье для того , чтобы воспользоваться кредитными картинками и купить новую машину .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "женское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "переоделся"
+    },
+    {
+      "correctReplacement": "карточками",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

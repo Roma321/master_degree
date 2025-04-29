@@ -1,0 +1,45 @@
+{
+  "text": "Провожусь эта необычной распродажа с благотвоьительными целями : все выручка , 25 тысяч фунтов , передан в фонд создания меченой центра для жертв пытки (Medical Foundation for the Care of Victims of Torture) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "передана"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Проводилась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "вся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "необычная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "лечебного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "пыток"
+    },
+    {
+      "correctReplacement": "лечебной",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "благотворительными",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

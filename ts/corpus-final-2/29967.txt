@@ -1,0 +1,20 @@
+{
+  "text": "Он доставлен в местное бойницу Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "местную"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

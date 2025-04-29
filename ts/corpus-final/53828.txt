@@ -1,0 +1,25 @@
+{
+  "text": "Новых городские власти попытавшиеся опротестовавшие это решение , но арбитражный суд признал правоту фермы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "опротестовать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "попытались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Новые"
+    },
+    {
+      "correctReplacement": "фирмы",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

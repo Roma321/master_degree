@@ -1,0 +1,25 @@
+{
+  "text": "Звезда бесчисленных боевиков , произвёдших в так называемом Болливуде - столице индийском киноиндустрии в домбай , Баччан присутствовал в Лондоне на церемонии открытия своего восковых изображения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "произведенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "воскового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "индийской"
+    },
+    {
+      "correctReplacement": "Бомбее",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

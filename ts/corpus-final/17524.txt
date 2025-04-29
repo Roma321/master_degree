@@ -1,0 +1,30 @@
+{
+  "text": "14-летняя Марина Черепухина получившая приз за наихорошую женскую роли в российском фильмах \"Поклонник\" , а исполнителемлучшей мужской поли признан знаменитый грузинский актер КахиКавсадзе (в совместной грузинско-российской ленте \"Прикованные рыцари\") .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "роль"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "получила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "фильме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "лучшую"
+    },
+    {
+      "correctReplacement": "роли",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Правда , по словам следователя Дональда Стерна , на данном сервером не содержалось секретной информации , и он не отвечала за контрощь спутников .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сервере"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "отвечал"
+    },
+    {
+      "correctReplacement": "контроль",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "39-летний пассажир , угрожая убийству , сломал двери в кабину пилота , и то пришлось защищаться с помощью топнров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "дверь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "топора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "убийством"
+    },
+    {
+      "correctReplacement": "топоров",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

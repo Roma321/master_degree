@@ -1,0 +1,40 @@
+{
+  "text": "ml> В минувшее четверг в Симферополе неизвестными злоумышленниками рывшая убито Натальей Шаманина - супруга депутата Верховном Совета Крыма , одного из активистов парламентской фракции коммунистов , бывших руководителей коммерческого СП \"Германия-Крым\" Вячеслава Шаманина - сообщает РИА \"Новости\" со ссылкой на начальника Главного управления МВД Украины в Крыму Александра Домбровского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "убита"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "руководителя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Верховного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Наталья"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "минувший"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

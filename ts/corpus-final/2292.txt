@@ -1,0 +1,25 @@
+{
+  "text": "По сшовам Шостаковича , ежегодно в их учреждение на психиатрическое обесценивание направляется около 10 процентов от общего количества правонарушителей , обвинявших в совершениях особо тяжких преступлений .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "обвиняемых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "совершении"
+    },
+    {
+      "correctReplacement": "обследование",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

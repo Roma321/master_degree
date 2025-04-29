@@ -1,0 +1,25 @@
+{
+  "text": "Полевой командир Салман валуев заявил журналистам \"Комсомольсокй правды\" о готовности пбмочь любому представителям российской руководства и \"даже самому Путину правильно направить политику на Кавказе\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "представителю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "российского"
+    },
+    {
+      "correctReplacement": "Радуев",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "помочь",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

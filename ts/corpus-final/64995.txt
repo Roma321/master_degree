@@ -1,0 +1,25 @@
+{
+  "text": "С начал мая на нижняя Волге уловы таковы , что невозможно обеспечить аже рыбные заводы для искусственного воспроизведения малькоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "начала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "нижней"
+    },
+    {
+      "correctReplacement": "даже",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "мальков",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

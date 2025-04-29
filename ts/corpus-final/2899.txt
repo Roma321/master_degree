@@ -1,0 +1,20 @@
+{
+  "text": "По неофициальным данным , Насыры являются , что называется , человеком Ьыкова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Насыров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "Быкова",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

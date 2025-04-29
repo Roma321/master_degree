@@ -1,0 +1,30 @@
+{
+  "text": "Эту просьбу поддержанные на Алтае краевых комитеты солдатских матерей , обществе ветеранов Афганистана , организация инвалидов войн и военных ктнфликтов , другие общественные организацией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "краевые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "организации"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "поддержали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "общество"
+    },
+    {
+      "correctReplacement": "конфликтов",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

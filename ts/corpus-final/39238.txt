@@ -1,0 +1,40 @@
+{
+  "text": "В жюри конкурса войдём довольно известный люди - пример , Джефф Вин , испольнительное директор Wired digital и авторы HotWired Style , и Дерек Сиссон , менеджер по делам пользователи электронного книжных магазина Borders . com и владелец Philosophe . com .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "известные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "автор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "книжного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "испольнительный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "вошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "пользователей"
+    },
+    {
+      "correctReplacement": "например",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На сегодня доходы киноцентра распределяются междуреспубликами , хотя , как замеченнуй режиссер , в республиках естьподобные предприятие , которые \"никакого вкладом вразвитие российского кино не осуществляют\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "предприятия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "вклада"
+    },
+    {
+      "correctReplacement": "замеченный",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

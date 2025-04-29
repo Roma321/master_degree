@@ -1,0 +1,30 @@
+{
+  "text": "Венгерский правительство намерено возбудить судебное делн против австралийско-румынского предприятия Aurul и австрийской головной компании Esmeralda Ltd , которых являются виновниками экологической катастрофы на реке Восточной Венгрии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Венгерское"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "реках"
+    },
+    {
+      "correctReplacement": "австралийской",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "дело",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

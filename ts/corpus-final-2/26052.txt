@@ -1,0 +1,25 @@
+{
+  "text": "В Москве состоялось репрезентация новой дитературного премии - \"Национальный бестселлер\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "литературной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "correctReplacement": "презентация",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "литературного",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

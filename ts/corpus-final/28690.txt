@@ -1,0 +1,25 @@
+{
+  "text": "Котировка фьючерсного контракта на нефть марки Brent на мартом по итогам торгов на Международной нрфтяной бирже составившая 25 , 68 долларов за баррелю (+0 , 06) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "составила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "март"
+    },
+    {
+      "correctReplacement": "нефтяной",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

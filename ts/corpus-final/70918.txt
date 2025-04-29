@@ -1,0 +1,20 @@
+{
+  "text": "В матчах 11 туба чемпионата России по футболу было зафиксирована не мало неожиданных результатов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "зафиксировано"
+    },
+    {
+      "correctReplacement": "тура",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "тука",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

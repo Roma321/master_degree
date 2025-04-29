@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщают \"Интерфакс\" со ссылкой на Центральное региональное управление по борьбе с организованной преступностью , чиновнику здержавшие во вторник в здании мэрии Москвы на Новом Арбате , где размещается фонд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "чиновника"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "задержали",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "сдержавшие",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

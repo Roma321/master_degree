@@ -1,0 +1,25 @@
+{
+  "text": "Боевики , захватившие почти две месяца назад японских геологов и киргизскиз граждан , отпустим командующего внутренними войсками Киргизии Анарбеком Шамкеева и одного киргизского военнослужащего .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "отпустили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Анарбека"
+    },
+    {
+      "correctReplacement": "киргизских",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "ФКЦБ России напоминают также , что деятельность юридических и физических лица - резидентов Российской Федерации , связанная с инвестированием в ценные бумаги иностранных эмитентов , отношусь к операциям , звязанным с движением капиталов и подлежал лицензированию в порядке , установленном Центральным банком Российской Федерации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "подлежит"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "относится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "лиц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "капитала"
+    },
+    {
+      "correctReplacement": "связанным",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

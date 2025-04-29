@@ -1,0 +1,20 @@
+{
+  "text": "Он мывший задержамший за неподчинение полицейским .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "задержавший",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

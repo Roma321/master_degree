@@ -1,0 +1,20 @@
+{
+  "text": "В американском штате Вашингтон возник сильный лесным пожар , который угрожал крупнейшему в США хранилищу радиоактивных отходоф , сообщает CNN .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "угрожает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "лесной"
+    },
+    {
+      "correctReplacement": "отходов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

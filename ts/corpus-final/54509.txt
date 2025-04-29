@@ -1,0 +1,30 @@
+{
+  "text": "По его словца , в ближайшее время в Совет Федерации должно поступить соответствующее обращение исполнявшего обязанности ррезидента России Владимира Путиным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "исполняющего"
+    },
+    {
+      "correctReplacement": "слова",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "23 марта у агента разведки МI5 украли портативные компьютер с секретными документами , а 28 марта агент спецслужба MI6 свой ноутбук потерял , устремивший чрезмерную дозу алкоголя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "портативный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "спецслужбы"
+    },
+    {
+      "correctReplacement": "употребив",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

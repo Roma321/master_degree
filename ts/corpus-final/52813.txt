@@ -1,0 +1,30 @@
+{
+  "text": "Задержанные подозревались в похищении гражданина Норвегии менеджеров фирмы Hazer , сообщившие РИА \"Новости\" в правоохранительных морганах столиц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "подозреваются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "менеджера"
+    },
+    {
+      "correctReplacement": "органах",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

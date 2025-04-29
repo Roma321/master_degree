@@ -1,0 +1,30 @@
+{
+  "text": "По данные новгородского УВД , боеприпасы находились в груде меткллоломов на причале , принадлежавшем компании \"Восточная верфь\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "металлолома"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "принадлежащем"
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "металлоломов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

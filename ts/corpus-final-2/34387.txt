@@ -1,0 +1,20 @@
+{
+  "text": "В 12 . 15 по московскому времени кинолог с собакой завершил обследование подозрительного предмета и установил , что никакой угрозу он не предоставлявшиеся .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "угрозы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "представлял"
+    },
+    {
+      "correctReplacement": "представляли",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

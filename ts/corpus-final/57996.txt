@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщивший Итар-тассе руководитель временного пресс-центра МВД России на таверный Кавказе Игорь Сенокосенко , на теле военнослужащего-контрактника комендантской роты Заводского района (войсковая часть 30233) была множество осколочных ранений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "correctReplacement": "Северном",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

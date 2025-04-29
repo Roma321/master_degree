@@ -1,0 +1,20 @@
+{
+  "text": "Она прогуливалась по одному из пляжей Рио-де-Жанейро в новом купальниках от Chanel , который стопл 300 долларами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "купальнике"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "стоил",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

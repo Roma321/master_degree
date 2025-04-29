@@ -1,0 +1,20 @@
+{
+  "text": "Автовладельцы также получают право проходить техосмотром в любой точке города , всё зависимости от место регистрации автомобиля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "техосмотр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "места"
+    },
+    {
+      "correctReplacement": "вне",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

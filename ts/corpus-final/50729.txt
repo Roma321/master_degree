@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшним день безо вести пропавшими числятся 40 военрослужащих .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "военнослужащих",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

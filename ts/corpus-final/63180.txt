@@ -1,0 +1,20 @@
+{
+  "text": "Сначала Сергей Горохов из Владикавказа изящно протолкнул мяч миро вратаря соперников , а затем , после розыгрыша углового , цели достигла великолепный удары с лета волгоградца Романа Романова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "удар"
+    },
+    {
+      "correctReplacement": "мимо",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

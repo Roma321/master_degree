@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , задержаны трое боевиков , изыму пять гранатометов , три автоматов , более 4 , 5 тысяч патронов , почти 30 гранат и почти полторы килограмма взрывчаток .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "автомата"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "полтора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "взрывчатки"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "После принятия депутатами проткт затоне направлено в профильный комитет дляподготовки его ко второму чтению . �емся и другие статьи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "направлен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "�ются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "закона"
+    },
+    {
+      "correctReplacement": "законе",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "проект",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

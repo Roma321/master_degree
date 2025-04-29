@@ -1,0 +1,25 @@
+{
+  "text": "Нём сообщил , что на состоявшемся накануне допросе Самвел Бабаян признанный свою вину по ваему пунктам предъявленного ему обвинения . Все участники покушения также назвали бывшего министра обороны организатором теракта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "всем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "всему",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

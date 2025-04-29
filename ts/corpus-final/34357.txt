@@ -1,0 +1,20 @@
+{
+  "text": "Объем мировой рынка нефти намного больше стратегических резервов США , и их использование вряд ли повлияю на мировые ценя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "мирового"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "повлияет"
+    },
+    {
+      "correctReplacement": "цены",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

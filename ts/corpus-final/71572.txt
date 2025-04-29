@@ -1,0 +1,20 @@
+{
+  "text": "Четырёх нераспечатанный колбы они уже вернули , а одержимое остальных они вылили на землю и проезжую часть улицы Комсомольская .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "нераспечатанные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Четыре"
+    },
+    {
+      "correctReplacement": "содержимое",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

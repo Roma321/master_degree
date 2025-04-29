@@ -1,0 +1,20 @@
+{
+  "text": "Комиссия установила , что второй взрыв последовавший через 35 секунды посла первого .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "секунд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "последовал"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

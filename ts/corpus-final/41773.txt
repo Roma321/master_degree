@@ -1,0 +1,25 @@
+{
+  "text": "Ранее в качестве единого претендента ЕС на пост директ МВФ выдвигался секретари немецкого министерств финансов Кайо Ктх-Везер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "министерства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "секретарь"
+    },
+    {
+      "correctReplacement": "директора-распорядителя",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Кох-Везер",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

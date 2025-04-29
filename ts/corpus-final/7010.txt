@@ -1,0 +1,20 @@
+{
+  "text": "Помимо участия в организованной преступного группировке и заказ нескольких буйств , предприниматель обвиняется также в легализации денежных средств , приобретенных незаконным путем (ст . 174 УК РФ) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "преступной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "заказа"
+    },
+    {
+      "correctReplacement": "убийств",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

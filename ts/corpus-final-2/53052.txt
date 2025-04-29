@@ -1,0 +1,25 @@
+{
+  "text": "По данным минторга США , в 1996 году Россия поставленная на американский рынок 220 тысяч тонны холоднокатаной стали на обшую сумма в 78 , 1 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сумму"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "поставила"
+    },
+    {
+      "correctReplacement": "общую",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

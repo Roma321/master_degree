@@ -1,0 +1,30 @@
+{
+  "text": "больший половины мелкорозничных предприятий по торговле арбузами и дынями в Москве нарушают правила торговли , од этом сообщу начальник Управления городского госторгинспекции Владимир Никитин по итогам проверки 258 предприятий в десяти столичных округа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "округах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "Больше",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Указом президента России командующим Объединённых группировкой федеральных сил на Северном Кавказе назначено генерал-полковник Геннадий Трошев , перестающий \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "передающий",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

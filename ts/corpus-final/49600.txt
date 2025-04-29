@@ -1,0 +1,20 @@
+{
+  "text": "По данным газеты , в настоящее время посредники ищем для директора ФБР высокообразованную работы в частном секторе .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "ищут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "работу"
+    },
+    {
+      "correctReplacement": "высокооплачиваемую",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

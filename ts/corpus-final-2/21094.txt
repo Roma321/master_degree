@@ -1,0 +1,20 @@
+{
+  "text": "Представителями HSBC заявляют , что при этом ни один клиент банковской группы не подражавший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представители"
+    },
+    {
+      "correctReplacement": "пострадавший",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

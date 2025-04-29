@@ -1,0 +1,25 @@
+{
+  "text": "По словам специалистов РВСН , разделение спутников происшедгая в штатном режимах примерно в 18 : 00 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "режиме"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "произошла",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "происшедшая",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

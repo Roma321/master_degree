@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщалось ранее , МПС намеревалось поднять расценкам на перевозку грузов с 1 декабря р обращусь в Министерстве по антимонопольной политике с соответствующей просьбой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Министерство"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "обратилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "расценки"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

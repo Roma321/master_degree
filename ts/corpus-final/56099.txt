@@ -1,0 +1,20 @@
+{
+  "text": "На юге Чечне отражена попытки намерения на колонну российских военнослужащих , сообщаю ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "попытка"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "нападения",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

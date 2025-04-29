@@ -1,0 +1,25 @@
+{
+  "text": "Текст документа полностью согласован белорусской и российской сторонами , учитывал предложения широкой круга министерств и ведомств двух стран , одобрено президентами белорусской и России Александром Лукашенко и Борисом Ельциным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "одобрен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "учитывает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "широкого"
+    },
+    {
+      "correctReplacement": "Белоруссии",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "11 февраля примерно в 5 часа утра в столичном микрорайоне Северное Чертаново , возле объезда дома № 7В взорвусь припарковавший автомобиль ВАЗ-2106 , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "взорвался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "припаркованный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "подъезда",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

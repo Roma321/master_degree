@@ -1,0 +1,20 @@
+{
+  "text": "Так , женщины нравящийся демократ Альберт Гор , а мужчинам - ресеубликанец Джордж Буш-младший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "нравится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "женщинам"
+    },
+    {
+      "correctReplacement": "республиканец",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

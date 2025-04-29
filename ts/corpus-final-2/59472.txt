@@ -1,0 +1,20 @@
+{
+  "text": "Налоги с своих комиссионных пладельцы электронного бирж выплачивали не по электронным договорам , а по тем , которые составляются на бумаге .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выплачивают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "электронных"
+    },
+    {
+      "correctReplacement": "владельцы",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

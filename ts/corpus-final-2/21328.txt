@@ -1,0 +1,25 @@
+{
+  "text": "По словам звонмвшей , ему порученные заложить взрывчатку в подъезд жилого дома , однако он предпочитавший сообщить об этом в милицию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "звонившего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поручили"
+    },
+    {
+      "correctReplacement": "предпочел",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "звонившей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

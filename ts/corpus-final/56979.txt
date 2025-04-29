@@ -1,0 +1,35 @@
+{
+  "text": "Отмена санкций означает возможность получающие фланговой помощь из американского бюджетов и участвовать в спнциальных программе США по поддержке научно-исследовательской деятельности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "получать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "финансовую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "программах"
+    },
+    {
+      "correctReplacement": "финансовой",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "специальных",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

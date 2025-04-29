@@ -1,0 +1,25 @@
+{
+  "text": "На этой встрече , продолжающей около часа , очень подробно , по словам Лужкова , обсуждался вопрос о возобновлениях в Москве Игр добрую воли .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "продолжавшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "доброй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "возобновлении"
+    },
+    {
+      "correctReplacement": "продолжающейся",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

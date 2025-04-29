@@ -1,0 +1,20 @@
+{
+  "text": "\"И не говорите о топографии - вам больше повредит съеденная гамбургер , чем фотография человека , занимающихся сексом\" , - добавляют авторы программы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "съеденный"
+    },
+    {
+      "correctReplacement": "порнографии",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "К тому же спасателям пока не удается надежно зафиксировать на рельсах сгоревший состав , чтобы тем пе сорвалась по склоне вниз .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "сорвался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "склону"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

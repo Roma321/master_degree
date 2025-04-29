@@ -1,0 +1,30 @@
+{
+  "text": "А помощнику и . о . президента России Сергей Ястржембском сообщил , что , по данным на 13 : 00 московского времени , в Комсомольском оставалось всего две чётких очагов сопротивления боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Ястржембский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "помощник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "очага"
+    },
+    {
+      "correctReplacement": "мелких",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

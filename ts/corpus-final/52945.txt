@@ -1,0 +1,30 @@
+{
+  "text": "Как заявивший РИА \"Новости\" клавы Центризбиркома Александр Вешняков , повод для такого решения стали неправомочные действия калмыцкой избиркома , в том числе попытки лишить депутатского мандата Александру Буратаеву , которая победила на выборах в Госдуму от Калмыкии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "поводом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "глава"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "калмыцкого"
+    },
+    {
+      "correctReplacement": "главы",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во времена торжественного приема в еврейском центрах президенту России вручили ханукальное минору (подсвечник для 9 вечей , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "ханукальную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "свечей)",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

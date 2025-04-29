@@ -1,0 +1,20 @@
+{
+  "text": "Путин вручил погонам генерала армии главнокомандующему Военно-воздушными силами России Анатолию Корнукову и погоны адмирала флота главнокомандующему фотом Владимиру Куроедова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "погоны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Куроедову"
+    },
+    {
+      "correctReplacement": "флотом",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

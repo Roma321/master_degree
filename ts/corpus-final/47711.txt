@@ -1,0 +1,30 @@
+{
+  "text": "Остаются напомнить , что на недавней чемпионе мира в Вене после короткой программы тагже лидировал Алексей , однако чемпион стал все-таки Евгений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "недавнем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "чемпионом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Остается"
+    },
+    {
+      "correctReplacement": "чемпионате",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

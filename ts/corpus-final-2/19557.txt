@@ -1,0 +1,25 @@
+{
+  "text": "По словам жителей осеннего домоф , выстрелы прозвучали незадолго до полуночей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "соседних"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "полуночи"
+    },
+    {
+      "correctReplacement": "соседнего",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

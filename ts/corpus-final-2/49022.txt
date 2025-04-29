@@ -1,0 +1,25 @@
+{
+  "text": "Если чиновника признают виновным , то он может быть оштрафован на 200 минимальных зарплат , либо подвергнувший исправительные работам на сроке до одного года или заключён под стражу на три месяца .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "подвергнут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "заключен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "срок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "исправительным"
+    }
+  ]
+}

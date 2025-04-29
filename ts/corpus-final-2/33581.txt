@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники Ставропольского Убопы арестовавшие женщину , которой , по оперативным данным , организовало взрыв на Казачьем рынке в Невинномысске 6 октября .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "арестовали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "организовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "УБОП"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "которая"
+    }
+  ]
+}

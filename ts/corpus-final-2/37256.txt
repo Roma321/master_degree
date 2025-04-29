@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям Blick , информация о счетах знаменитостей , среди которые оказался британский актер Роджер Мур и немецкое поп-звёзды Удо Юргенс , по ошибке попала на сайты банка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "поп-звезда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "немецкая"
+    }
+  ]
+}

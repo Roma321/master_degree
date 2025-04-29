@@ -1,0 +1,35 @@
+{
+  "text": "Иски полпреда президента и мэра Курска были обременённые в один , так как обе кандидата выдвигающие против Руцкого одинаковые обвинения в использовании служебного положения , предоставлении недостоверного данных о личном имуществе , нарушении предвыборной агитаций .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выдвигают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "нарушениях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "оба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "недостоверных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "агитации"
+    },
+    {
+      "correctReplacement": "объединены",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

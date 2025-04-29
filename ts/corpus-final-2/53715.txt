@@ -1,0 +1,25 @@
+{
+  "text": "В Москве на площади Рогожской заставы твоенный пожары в многоэтажном торговом комплексе , сообщаю собственный корреспонденты Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пожар"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "корреспондент"
+    },
+    {
+      "correctReplacement": "потушен",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

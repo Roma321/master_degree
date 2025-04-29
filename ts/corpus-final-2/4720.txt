@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили РБК в аппарат помощника президента РФ сервер Ястржембского , в листовках , отпечатаем на русском и английском языках , содержусь призыв к наемникам и боевикам сложить оружие .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "содержится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "аппарате"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "отпечатанных"
+    },
+    {
+      "correctReplacement": "Сергея",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

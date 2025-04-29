@@ -1,0 +1,30 @@
+{
+  "text": "Напомню , что ручная пересчет был оюъявлен всего в трех округах , и вол теперь один из них отказался участвовать в этого процедуре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ручной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "вот",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "объявлен",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

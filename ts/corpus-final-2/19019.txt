@@ -1,0 +1,20 @@
+{
+  "text": "На пепекрёстке его нарушил правила и его машина врезалась в автобус .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "перекрестке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "перекрёстке",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

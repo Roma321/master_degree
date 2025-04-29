@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , прекращено подучи электропоездов на 6-ю и соседние с ним железнодорожные пути .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "6-й"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "подача"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "прекращена"
+    },
+    {
+      "correctReplacement": "подачи",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

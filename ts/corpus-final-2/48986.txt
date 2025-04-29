@@ -1,0 +1,25 @@
+{
+  "text": "Президент России Владимир Путин прибыл в четверг с официальному визитами в Гавану и провел первый неформальную встречу с председателем государственного совета и правительства Кубы Фиюелем Кастро .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "официальным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "визитом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "первую"
+    },
+    {
+      "correctReplacement": "Фиделем",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

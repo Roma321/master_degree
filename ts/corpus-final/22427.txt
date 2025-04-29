@@ -1,0 +1,20 @@
+{
+  "text": "Во многое жилых домов и на предприятиях города температура воздуха составляет не более 15 градусов тепло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "домах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "тепла"
+    },
+    {
+      "correctReplacement": "многих",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Защитник чемпионов Испании Манужль Пабло Гарсия отпраздновал вызов в национальных сборную на товарищеский матч против сборной Германии подписанием самого долгосрочной контракта в эстонской профессиональном футболе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "испанском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "национальную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "долгосрочного"
+    },
+    {
+      "correctReplacement": "испанской",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "Мануэль",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

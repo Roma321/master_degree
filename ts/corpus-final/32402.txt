@@ -1,0 +1,25 @@
+{
+  "text": "По мнениям Александра Назаров , эго предложение , скорее всего , булет принято .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Назарова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

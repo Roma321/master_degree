@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаются на самом сайте , 24 июня стартовало конкурс на должность федерального инспектора аппарата полномочного представителя Президента РФ в Приволшском округе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "стартовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "correctReplacement": "Приволжском",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , Путин и Цзян Цзэминь договорившиеся о начале переговоров по разработке российско Договора о добрососедстве , дружбе и сотрудничестве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "договорились"
+    },
+    {
+      "correctReplacement": "российско-китайского",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

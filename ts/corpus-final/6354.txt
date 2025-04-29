@@ -1,0 +1,25 @@
+{
+  "text": "Писатель Фишип Левин , который и предложило идею \"Кошмара Эдагара По\" , собирается написать сценарий , речь в котором пойдет о последнего неделе перед сменявшей Эдгара По , проведенной им в состоянии , близком к помешательству .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "последней"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "предложил"
+    },
+    {
+      "correctReplacement": "смертью",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "Филип",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

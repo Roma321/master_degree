@@ -1,0 +1,25 @@
+{
+  "text": "По сообщения сотрудников дорожного инспекции в машине вымести с Саттархановым находимся еще два человека .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "дорожной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "correctReplacement": "вместе",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

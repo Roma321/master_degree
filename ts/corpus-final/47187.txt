@@ -1,0 +1,30 @@
+{
+  "text": "Как заявил представитель полиции , пока еще нет уверенности в той , что нашедшие все жертвы радикальных секты , культивируемой добровольный ухтд из жизни и насчитывающей около четырех тысяч последователей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "найдены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "радикальной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "культивирующей"
+    },
+    {
+      "correctReplacement": "уход",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "45 протестов опрошенного считаем , что СМИ в России зависите от олигархов , а 22 процента - что от органов государственная власти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "опрошенных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "зависят"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

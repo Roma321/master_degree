@@ -1,0 +1,25 @@
+{
+  "text": "В подмосковной Сергиевом Посаде ебивший директор муниципального предприятия \"Электросеть\" Геннадий Евдокимов Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "подмосковном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "убит"
+    },
+    {
+      "correctReplacement": "убивший",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

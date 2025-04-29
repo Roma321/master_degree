@@ -1,0 +1,25 @@
+{
+  "text": "Состязания проходимые в пяти основных вед - сопровождение особо важных персон , вождение автомобиля , поиск посторонними предметов в автомобиле и помещении , специальная стрельба и медицина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "видах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "посторонних"
+    },
+    {
+      "correctReplacement": "видов",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

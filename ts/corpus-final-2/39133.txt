@@ -1,0 +1,20 @@
+{
+  "text": "Автомобиль Ford Scorpio был подаривший Дианой принцем Чарльзом по случаю помолвки , за два месяца до их венчания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Диане"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подарен"
+    },
+    {
+      "correctReplacement": "принцем",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как заявили в природоохранных комитете , ссылающиеся на данных стилистика , масштабы браконьерского промысла в Уссурийской тайге стали угрожающими .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "данные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "ссылаясь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "природоохранном"
+    },
+    {
+      "correctReplacement": "статистики",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

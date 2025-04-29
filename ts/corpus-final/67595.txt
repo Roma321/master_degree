@@ -1,0 +1,20 @@
+{
+  "text": "Как передаёт НТВ , бомбу обнаружил один из таможенных , когда осматриваю самолет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "осматривал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "таможенников",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

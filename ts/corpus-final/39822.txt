@@ -1,0 +1,30 @@
+{
+  "text": "По мнению прокурора , судебный вердикт по уголовной делам Пасько , которое рассматривается в военной коллегии Верховного суда РФ , еще не вступили в законную силу , поэтому оценивать высказыванию контрразведчика в отношении военного журналиста еье рано .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "вступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "высказывание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "уголовному"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

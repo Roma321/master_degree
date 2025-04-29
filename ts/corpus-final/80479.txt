@@ -1,0 +1,20 @@
+{
+  "text": "В Екатеринбурге утром в понедельник убивший генеральный директ АО\"Уралмашзавод\" Олеги Белоненко .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Олег"
+    },
+    {
+      "correctReplacement": "директор",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

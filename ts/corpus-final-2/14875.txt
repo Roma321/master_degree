@@ -1,0 +1,25 @@
+{
+  "text": "Большие перспективы будет иметь прорабатываемый с участием России , КНР , Японии и Республики Корея проект освоентя Ковыктинской газоконденсатного месторождениях в Иркутской области и строительства газопровода в эти охраны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Ковыктинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "месторождения"
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "освоения",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Возможно , в энергосети станции , эксплуатирующейся уже почти 15 годы , возникли какие-то паразитный связи , претполагаем эксперты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "паразитные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "предполагают"
+    },
+    {
+      "correctReplacement": "предполагаем",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

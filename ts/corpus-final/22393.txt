@@ -1,0 +1,20 @@
+{
+  "text": "Скрывавшееся от французский правосудия Папон был арестован в Жвейцарии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Скрывавшийся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "французского"
+    },
+    {
+      "correctReplacement": "Швейцарии",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

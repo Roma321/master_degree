@@ -1,0 +1,30 @@
+{
+  "text": "Правительство республике такое обратившееся за помощью в борьбе с огнем у руководствам МЧС , к руководителям других регионов России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "руководству"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обратилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня во всех американских штатах и федеральном округа Колумбия состоится голосование , в котором принятые участие 538 аленов коллегии выборщика , сообщает CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "округе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "выборщиков"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "примут"
+    },
+    {
+      "correctReplacement": "членов",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

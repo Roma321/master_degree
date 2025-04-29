@@ -1,0 +1,20 @@
+{
+  "text": "Сначала действуют разведка , после что , авиацией и артиллерией федеральных лил уничтожаются опорные пункты , техника , другие укрепления боевиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "действует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "чего"
+    },
+    {
+      "correctReplacement": "сил",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

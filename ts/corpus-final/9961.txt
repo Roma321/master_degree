@@ -1,0 +1,30 @@
+{
+  "text": "Российский посол в Израиле Михаил Богдановым во времени встречи с представителем Министерства иностранных дел Израиля Эйтаном Бенцуром передам ему приглашение главы МИД России Игоря Иванова Дэвиду левый посетившие в Россию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Богданов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "передал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "посетить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "Леви",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

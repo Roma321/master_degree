@@ -1,0 +1,25 @@
+{
+  "text": "Премия имени Рихардом Шенфельда учредившая в память бб известном немецком искателе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "учреждена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Рихарда"
+    },
+    {
+      "correctReplacement": "писателе-сатирике",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

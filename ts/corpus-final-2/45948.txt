@@ -1,0 +1,30 @@
+{
+  "text": "Парламент Израиля принятый в первой чтении законопроект , запрещаемый премьер-министру страны подписывать международные согбашения без одобрения большинство депутатов Кнессета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "запрещающий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "большинства"
+    },
+    {
+      "correctReplacement": "соглашения",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

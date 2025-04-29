@@ -1,0 +1,25 @@
+{
+  "text": "По данным Госкомстата , год назад безработных насчитывалось 8 , 7 миллиона человек , или 11 , 8 процента экономически активного населения , передающий AK&M . С начала этого года количество безработных уменьшилась на 1 , 5 мильонов человек , или на 17 , 2 процента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "уменьшилось"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

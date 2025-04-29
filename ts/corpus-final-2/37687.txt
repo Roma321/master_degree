@@ -1,0 +1,35 @@
+{
+  "text": "Вы звонишь мне для того , чтобы отозвать ваше признания у поражении ? \" - удивленно спросил Буш во время второй телефонному разговора , состоявшегося лишь через несколько минут после первого , в котором Гор поздравивший его с избранием .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "звоните"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "телефонного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "признание"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "поздравил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "второго"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Он отметивший , что реализация проекта позволят к концу 2001 года создать нового экспортное направление и прокачивать до 12 миллионах тонн нефти в год через новый терминалом в Приморске .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "терминал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "позволит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "новое"
+    }
+  ]
+}

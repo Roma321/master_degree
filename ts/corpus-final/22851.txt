@@ -1,0 +1,30 @@
+{
+  "text": "В Великобритании создана компьютерная система , которая позволяемый отслеживать передвижения потенциально опасных для общества криминального элементах , в частности - педофилий , сообщаемый газета Independent .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "элементов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "криминальных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "позволяет"
+    },
+    {
+      "correctReplacement": "педофилов",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

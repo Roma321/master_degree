@@ -1,0 +1,20 @@
+{
+  "text": "За это решннии проголосовал 339 депутатов , против - двое , трое воздержались , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "решении",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

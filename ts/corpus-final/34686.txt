@@ -1,0 +1,25 @@
+{
+  "text": "В четверг сотрудники мерного милиции задержали пятерых человек по подозрению в пособничестве боеваку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "боевикам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "боевику",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Агентство Associated Press сообщаю , что новая корпорация GlaxoSmithKline будет контролировать более 7 пьоцентов всего рынка дежурств , а ее ежегодные доход составят 25 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "доходы"
+    },
+    {
+      "correctReplacement": "лекарств",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

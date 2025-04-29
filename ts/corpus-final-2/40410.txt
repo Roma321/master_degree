@@ -1,0 +1,25 @@
+{
+  "text": "Он также отметило , чтоназначенгые на руководящие постам в Минобороны в этом году передвигались по слаженной лестнице исключительно в московских штабах и московских учреждениях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "посты"
+    },
+    {
+      "correctReplacement": "служебной",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "чтоназначенные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

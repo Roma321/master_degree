@@ -1,0 +1,20 @@
+{
+  "text": "По сообщениям ВВС , убийцы можете быть освобождены уще через несколько месяцев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

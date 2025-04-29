@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , австралийцами продаём жилеты на тренировки гимнастов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "австралийцы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "продают"
+    },
+    {
+      "correctReplacement": "билеты",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

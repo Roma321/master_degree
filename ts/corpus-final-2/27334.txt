@@ -1,0 +1,25 @@
+{
+  "text": "Если податель заявку не произведёт оплату в установленная срок , домен будет освобожден 2 декабря , сообщаемый во вторник агентство \"Нетоскоп\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "установленный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "произведет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявки"
+    }
+  ]
+}

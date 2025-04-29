@@ -1,0 +1,30 @@
+{
+  "text": "Старожилы отмечают , что такой сильный падонком в июле в последнему раз наблюдавшийся 50 леи назад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "наблюдался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "последний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "паводок"
+    },
+    {
+      "correctReplacement": "паводком",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

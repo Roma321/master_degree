@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в Египте два автобуса после лобовой столкновения упали с автострады в проходивший внизу ирригационный канаг , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "проходящий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "лобового"
+    },
+    {
+      "correctReplacement": "канал",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

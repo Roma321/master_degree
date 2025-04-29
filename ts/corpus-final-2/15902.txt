@@ -1,0 +1,20 @@
+{
+  "text": "Однако через некоторое вьемя мужчинке удалась сбежать .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "мужчине",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

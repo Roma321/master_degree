@@ -1,0 +1,30 @@
+{
+  "text": "Полицейские пытавшиеся вставить ей в еос , сломавший при орестом , специальную трубку для кормления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "аресте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сломанный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пытались"
+    },
+    {
+      "correctReplacement": "арестом",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "нос",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

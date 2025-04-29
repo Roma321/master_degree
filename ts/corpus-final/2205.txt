@@ -1,0 +1,25 @@
+{
+  "text": "Танцоров сообщивший , что для производства героина требовались десятке тонн марганцовки , соляного и серной кислоты , других компонентов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "требуются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "соляной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "десятки"
+    }
+  ]
+}

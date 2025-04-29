@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщавшая журналистами полиция , неизвестные предступники стреляли в миниатра из автоматического оружия через окне ресторана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "окно"
+    },
+    {
+      "correctReplacement": "сообщила",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Наиболее вероятная кандидатура - нынешний н . о . генпрокурора Владимиры Устинов , но , по словах Хижнякова , кроме Устинова , Путиным рассматриваешься еще 14 кандидатур на этотпост . �ГВ в минувшие сутки оказываем мелкий бандгруппы Басаева и Хаттаба в Ножай-Юртовском и Веденском районах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "мелкие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "оказывали"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

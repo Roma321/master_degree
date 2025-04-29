@@ -1,0 +1,20 @@
+{
+  "text": "На следующий день президент США прибудет в Ахена , где ему будет вручена престижная награда и где он выступлю речью , посвящённой проблемам Европы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Ахен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "выступит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "посвященной"
+    }
+  ]
+}

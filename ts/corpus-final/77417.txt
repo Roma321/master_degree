@@ -1,0 +1,20 @@
+{
+  "text": "В новогоднюю полночь все поезда московской метрополитена будут находиться на станций , а не в тоннелях , сообщаемый РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "московского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "станциях"
+    }
+  ]
+}

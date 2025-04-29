@@ -1,0 +1,25 @@
+{
+  "text": "Генеральное прокуратура Украине возбудила уголовное делу против бывшей премьер-министра страны Павла Лазаренко по подозрению в организации убийства народного депутата и бизнесмена Евгения Щербаня .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Украины"
+    }
+  ]
+}

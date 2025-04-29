@@ -1,0 +1,30 @@
+{
+  "text": "Посланец добровольческую миссии ООН Шон Ошнер от имени ООН подарил бедуинам , жившим в глухой деревню на границе Иордании и Ирака , 15 компьютеров и организовал их потключение к Интернету , сообщила в понедельник Computerworld .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "деревне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "добровольческой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "живущим"
+    },
+    {
+      "correctReplacement": "подключение",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

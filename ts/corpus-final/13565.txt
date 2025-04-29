@@ -1,0 +1,35 @@
+{
+  "text": "Как заявил официальная представитель Европейского союза на пресс-конференции , прошедшей утром в субботу , одним из проектов , павших жертвой провала конференции Всемирных торговой организации в Сиэттлю , стал предложу США проект продлении моратория на налогообложение электронная коммерции , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Всемирной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "продления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Сиэттле"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "официальный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "предложенный"
+    }
+  ]
+}

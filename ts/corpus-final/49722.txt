@@ -1,0 +1,25 @@
+{
+  "text": "Победителем турнира стал сильнейший шахматист планеты , россиянин Гарри Каспаров , выигранный в финалах у индийуев Вишванатана Ананда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "индийца"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выигравший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "финале"
+    },
+    {
+      "correctReplacement": "индийцев",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

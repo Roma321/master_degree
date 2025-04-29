@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в этот день Путин планируешь встретиться с бывшими коллегами по работе в его родном города и принять участие в открытиях сезона в Мариинских театре .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "открытии"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Мариинском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "городе"
+    }
+  ]
+}

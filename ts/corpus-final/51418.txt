@@ -1,0 +1,25 @@
+{
+  "text": "Госдепартамент США подтвержу , что задержавший ФСП в Москве 4 апреля по подозрению в шпионаже гражданин США - это 53-летняя Эдмонд Поуп , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "53-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "задержанный"
+    },
+    {
+      "correctReplacement": "ФСБ",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

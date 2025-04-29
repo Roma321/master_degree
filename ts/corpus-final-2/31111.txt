@@ -1,0 +1,25 @@
+{
+  "text": "Московская транспортные прокуратура приостановила расследование прпчин катастроф вертолета , в результате которой 2 июня погибли четыре человека , в том числе знаменитый российский офтальмолог Святослав Фёдоров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Федоров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "транспортная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "катастрофы"
+    },
+    {
+      "correctReplacement": "причин",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

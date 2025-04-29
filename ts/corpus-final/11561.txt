@@ -1,0 +1,30 @@
+{
+  "text": "В норвежской посольстве сказали , что на переговорах с Ивановым Воллебек не будет сиавить вопрос о своей встречах с Асланами Масхадове , а также о посещении Грозного и районов Чечни , не контролируемых федеральными властями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Масхадовым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Асланом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "норвежском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "встрече"
+    },
+    {
+      "correctReplacement": "ставить",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

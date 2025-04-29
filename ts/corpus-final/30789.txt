@@ -1,0 +1,45 @@
+{
+  "text": "Как сообщу журналистам Антон Кобяков , являющийся представителем инициативной группы , доставившего в ЦИК подписные листах , из почти полутора миллионов подписях в ЦИК сдан , как и полагался по закону , 575 тысяч подписи - из расчета 500 тысяч плюс 15 процентов от этого излишества для подстраховки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "сдано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "листы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "доставившей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "подписей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "полагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "подписей"
+    },
+    {
+      "correctReplacement": "количества",
+      "type": "paronym",
+      "wordNumber": 45
+    }
+  ]
+}

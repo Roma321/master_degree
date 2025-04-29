@@ -1,0 +1,15 @@
+{
+  "text": "\"Эта информацию стала досадной ошибкой с нашец стороны\" , - заявил он в интервью телекомпании CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "информация"
+    },
+    {
+      "correctReplacement": "нашей",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

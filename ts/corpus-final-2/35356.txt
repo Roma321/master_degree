@@ -1,0 +1,30 @@
+{
+  "text": "Как передаёт CNN , техасский губернаторы зажившее , что сожалеет о случившемся и до сих пор умалчивал об этом происшествии потому , что не хотел , чтобы его дочери повторили этой ошибку .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "губернатор"
+    },
+    {
+      "correctReplacement": "заявило",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

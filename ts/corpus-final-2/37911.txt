@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр Израиля Эхуд Бараком , который в воскресенье также должна отправиться в Вашингтон для встречи с Клинтоном , заявили в пятницу в Иерусалиме , что не возлагаю больших надежд на переговоры в Вашингтоне .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Барак"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "возлагает"
+    }
+  ]
+}

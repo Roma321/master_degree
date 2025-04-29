@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщил председатель окружных избиркома Евгений Демидчик , комиссия рассмотрела вопросу о регистрации 8 президентов на депутатский мандат .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "окружного"
+    },
+    {
+      "correctReplacement": "претендентов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

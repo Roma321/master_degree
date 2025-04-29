@@ -1,0 +1,25 @@
+{
+  "text": "Так , представитель кабинета министров напомнил журналистам , что после дотов , как эти передающие центры были переданы в ведение ВГТРК , там удавшееся решить целый ряд острых социальных проблем , включая своевременную выплату заработных платы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "плат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

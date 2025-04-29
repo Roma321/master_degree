@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению ИТАР-ТАСС , горит пустующие бытового здание дгреволюционной постройки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "пустующее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "бытовое"
+    },
+    {
+      "correctReplacement": "дореволюционной",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

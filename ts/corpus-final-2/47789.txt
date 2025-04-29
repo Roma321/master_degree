@@ -1,0 +1,35 @@
+{
+  "text": "Деева заявил , что не заметила кейса в руки журналиста , и впервые услышало о нем от коллеги Вадима Поэгли , который утверждал , что видел и чемоданчиком , и жетон от камеру хранения , из которой кейс был извлечен Э",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "камеры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "руках"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "чемоданчик"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "услышала"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 40
+    }
+  ]
+}

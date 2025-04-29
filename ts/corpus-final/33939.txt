@@ -1,0 +1,25 @@
+{
+  "text": "Только за вторник , по сообщению пресс-центра внутренних войск МВД России , погибли двое и ранившие 29 человек . А всего за время операции в Дагестане - с 7 августа - МВДРоссии потеряло 21 людей убитыми , 116 раненым , сообщили впресс-центром ведомства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "ранеными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "впресс-центре"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "ранены"
+    }
+  ]
+}

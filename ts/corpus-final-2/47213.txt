@@ -1,0 +1,20 @@
+{
+  "text": "ковальская , напротив , выиграла первую партии , а вторую свёл вничью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "свела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "партию"
+    },
+    {
+      "correctReplacement": "Ковалевская",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

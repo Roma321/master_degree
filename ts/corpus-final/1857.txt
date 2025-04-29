@@ -1,0 +1,25 @@
+{
+  "text": "Как передрет ИТАР-ТАСС , согласно поступившим сегодня из районов стихийного бедствия сообщениях , число жертв может значительно превысить эту цифру , так как тысячи населим пунктов полностью отрезаны от внешнего миров , и связь с ними отсутствует .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сообщениям"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "мира"
+    },
+    {
+      "correctReplacement": "передает",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

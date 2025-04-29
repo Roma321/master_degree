@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , отмечают в Генпрокуратуре , имелись данные о многочисленных нарушениях законность в деятельности органоф внутренних дел , недостатке в организации прокурорского надзора .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "законности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "недостатках"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "имеются"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

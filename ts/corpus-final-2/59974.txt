@@ -1,0 +1,30 @@
+{
+  "text": "Оно станет альтернативой продукту , которые грязны , требуют много денер , бывает опасны , часто фрустрировали , особенно городишек жителей\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "фрустрируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "бывают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "продуктам"
+    },
+    {
+      "correctReplacement": "городских",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

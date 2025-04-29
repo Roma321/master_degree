@@ -1,0 +1,25 @@
+{
+  "text": "Между тем в \"ЛУКОЙЛе\" заявляют , что не собираются уходить с иракской рынка , а компания готова выполнять все взявшие ра себя обязательства по освоения месторождения , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "взятые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "иракского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "освоению"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

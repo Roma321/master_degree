@@ -1,0 +1,15 @@
+{
+  "text": "Резкая ухутшение погоды ожидается во вторник в Москве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Резкое"
+    },
+    {
+      "correctReplacement": "ухудшение",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

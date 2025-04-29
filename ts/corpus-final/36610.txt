@@ -1,0 +1,30 @@
+{
+  "text": "Комментируя инцидент в Рязани , произошедшее в среду вечером , он отметил , что по предварительному заключение , гексогена в мешках , обнаруживших в подвале одним из жилых домов город , не было .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "заключению"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "обнаруженных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошедший"
+    }
+  ]
+}

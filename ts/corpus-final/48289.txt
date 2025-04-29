@@ -1,0 +1,25 @@
+{
+  "text": "И . о . президента России Владимир Путин подписавший указ о присвоении генерал-майору Александру Отраковскому , скончавшейся в ночь на 6 марта на своём командном пункте от острую сердечной недостаточности , звания Героя России (посмертно) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "острой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "скончавшемуся"
+    }
+  ]
+}

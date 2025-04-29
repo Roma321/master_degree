@@ -1,0 +1,25 @@
+{
+  "text": "Перестали работающие радиосвясь , компьютеры , а в некоторых местах и телефоны , в результате чего оперативного руководство \"Водоканалом\" сделалось всевозможным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "оперативное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "работать"
+    },
+    {
+      "correctReplacement": "невозможным",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "радиосвязь",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

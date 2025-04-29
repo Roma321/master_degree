@@ -1,0 +1,20 @@
+{
+  "text": "В Красноармейском районе Волгограде в еженедельник вечером совершу разбойное нападение на бригаду инкассаторов местного Сбербанка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Волгограда"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

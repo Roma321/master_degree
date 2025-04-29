@@ -1,0 +1,35 @@
+{
+  "text": "Как заявившие журналистами представители геополитической ведомства Белоруссии , нынешнее решение парламента подтвердило курс республики на поддержке инициатив , имеющих конечной целью полную ликвидацию ядерной оружия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "внешнеполитического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "поддержку"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "ядерного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "correctReplacement": "внешнеполитической",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

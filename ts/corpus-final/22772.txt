@@ -1,0 +1,30 @@
+{
+  "text": "В МВД России , сообщаешь ИТАР-ТАСС , имелся потдвержденная информация о том , что в боевых действиях в Дагестане принимаем активного участие официальные силовые структуры Чеченской республики .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "имеется"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "активное"
+    },
+    {
+      "correctReplacement": "подтвержденная",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

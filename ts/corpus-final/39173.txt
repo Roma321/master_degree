@@ -1,0 +1,25 @@
+{
+  "text": "Мэру категорически опровергнувший информацию Сергея Доренко и испанскую газеты \"Эль Паис\" о том , что Зураб Церетели в Испании установил памятник за счет янковского бюджета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Мэр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "испанской"
+    },
+    {
+      "correctReplacement": "московского",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

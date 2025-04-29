@@ -1,0 +1,20 @@
+{
+  "text": "По данных ведомства , м текущем году поголовья свиней в России увеличилось на пять процентов по сравнению с уровнем 1999 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "поголовье"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

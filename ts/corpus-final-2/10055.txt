@@ -1,0 +1,40 @@
+{
+  "text": "В частности , ежегодно в Россию ввожусь 259 тысяч тонны импортное табака , в то время кап его производство в РФ ограничивается 5 , 1 тысячи тонн табака и 9 , 3 тысяче тонн его заменителей в год .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "тысячи"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "ввозится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "заменителя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "импортного"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "кат",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

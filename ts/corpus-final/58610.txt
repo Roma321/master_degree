@@ -1,0 +1,25 @@
+{
+  "text": "По закону наличие нескольких предупреждения у телеканала давал основания Минпечати не продлевать лицензию драматически , а выставленные занимаемую им частоту на конкурс .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выставить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "предупреждений"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "дает"
+    },
+    {
+      "correctReplacement": "автоматически",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

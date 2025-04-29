@@ -1,0 +1,20 @@
+{
+  "text": "Он рассказали , что в нападеник участвовали около 10 человек , в результате перестрелки один из них убита , трое ранены .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "correctReplacement": "нападении",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

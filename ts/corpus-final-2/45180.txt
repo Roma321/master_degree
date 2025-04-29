@@ -1,0 +1,30 @@
+{
+  "text": "Нём прибывший на шалтай в четверг , 30 ноябрь , с двухдневной рабочей поездкой . гласно статистике , жители острова Хоккайдо курят больше всеми в Японии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "Алтай",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

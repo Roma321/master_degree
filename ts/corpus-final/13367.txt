@@ -1,0 +1,30 @@
+{
+  "text": "Нельзя не отметить , что \"Аэрофлот\" , по словам заместителя генерального директор этого авиакомканий , потратил на решение \"проблемы-2000\" 12 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "авиакомпании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "директора"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "авиакомпаний",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

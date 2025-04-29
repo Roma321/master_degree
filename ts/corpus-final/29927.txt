@@ -1,0 +1,15 @@
+{
+  "text": "На месте происшествия находятся пожарные , бригада Центре экстренной медицинского помощи , а также специалисты МЧС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Центра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "медицинской"
+    }
+  ]
+}

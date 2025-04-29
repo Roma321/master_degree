@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты считает , что вскоре цены могут достигнуть критической отметки для Россия , готовый участвует в совещаниях ОПЕК в качестве наблюдателя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

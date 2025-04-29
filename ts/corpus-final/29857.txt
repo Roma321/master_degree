@@ -1,0 +1,25 @@
+{
+  "text": "Как передающий агентство УНИАН , акция протеста началась на площади возле Верховной Рады , где осуществлялись прямая трансляция заседания \"левого\" меньшинздву парламента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "меньшинства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "осуществлялась"
+    },
+    {
+      "correctReplacement": "меньшинству",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Пока полиция добираюсь до мест он успел убить 70-летнюю женщину и ианить еще семь человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "добиралась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "места"
+    },
+    {
+      "correctReplacement": "ранить",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

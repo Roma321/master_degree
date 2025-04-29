@@ -1,0 +1,30 @@
+{
+  "text": "В опасности , среднегодовой курсом национальной валют составит 30 рублей за доллар против заложенных 32 рублей за доллар в нйнешней году , а объем валового внутреннего продукта (ВВП) вырастет почти в полтора раза .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "нынешнем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "курс"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "валюты"
+    },
+    {
+      "correctReplacement": "частности",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "нынешней",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

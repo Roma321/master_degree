@@ -1,0 +1,35 @@
+{
+  "text": "Напомним , что ранее председатель Счётной палат Хачим Кармоков заявил журналисту , что по закону банки обязаны приостановившие все расчеты по счетам ОРТ уже с момента получение письма Палаты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Счетной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "приостановить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "получения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "писем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "палаты"
+    }
+  ]
+}

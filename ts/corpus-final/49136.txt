@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает Assosiated Press , обвиняемый в буйстве прибыли в Кососо 20 мартом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "марта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "убийстве",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Косово",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

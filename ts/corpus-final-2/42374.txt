@@ -1,0 +1,25 @@
+{
+  "text": "Представителя Пентагона сообщивший , что дело о сбитой над СЯСР в 1960 году американском самолете-шпионе близко к завершению , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сбитом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представитель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "СССР",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

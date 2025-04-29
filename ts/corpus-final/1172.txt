@@ -1,0 +1,25 @@
+{
+  "text": "Бывшее чилийский диктатор обвинялся в заговоре с целями пыток и пытках 34 испанских граждан в период своя диктатуры в Чили с 1973 по 1990 годы . Пиночет находится в Лондоне под арестом более года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "целью"
+    }
+  ]
+}

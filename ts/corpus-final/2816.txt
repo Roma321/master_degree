@@ -1,0 +1,20 @@
+{
+  "text": "Дважды в год Нижегоротская область должно выплачивать проценты по займу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "должна"
+    },
+    {
+      "correctReplacement": "должно",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Нижегородская",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

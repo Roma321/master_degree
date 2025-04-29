@@ -1,0 +1,20 @@
+{
+  "text": "Генеральный секретарь ООН Кофи Аннан прибыл в четверг в Москуу с трёхдневным официальной визитом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "трехдневным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "официальным"
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

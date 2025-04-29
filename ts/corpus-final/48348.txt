@@ -1,0 +1,40 @@
+{
+  "text": "Впервые в историю команда , в состава которой входишь инмалидом , пересечет Гренландию , сообщил руководитель клуба \"Приключение\" дмитриев Шпаро на пресс-конференциях , посвященной предстоящей экспедиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "инвалид"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "истории"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "входит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "состав"
+    },
+    {
+      "correctReplacement": "Дмитрий",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "инвалидом",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

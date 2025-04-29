@@ -1,0 +1,30 @@
+{
+  "text": "По словам истопника , истцы представленные суду документы , подтверждающие продажу своих бывших автомашины , и суд признавший действия ЦИК в отношением этих кандидатов неправомерными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "автомашин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "отношении"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "представили"
+    },
+    {
+      "correctReplacement": "источника",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

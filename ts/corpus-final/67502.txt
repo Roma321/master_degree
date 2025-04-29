@@ -1,0 +1,20 @@
+{
+  "text": "За знаменитого голкиперов , одного из героев последнего чемпионата мира , англичане готовы были заплатившие 15 мильтонов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заплатить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "голкипера"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

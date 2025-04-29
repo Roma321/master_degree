@@ -1,0 +1,20 @@
+{
+  "text": "Так , 1 марта 2000 года в одной из школ штата Мичиган шестилетнее мальчик застрелили шестилетнюю девочку на сглазах учительницы и 22-х учеников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "застрелил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "шестилетний"
+    },
+    {
+      "correctReplacement": "глазах",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

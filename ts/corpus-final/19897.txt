@@ -1,0 +1,20 @@
+{
+  "text": "94 процентов американцев считают , что компания Coca-Cola будет спществовать на протяжении всего 21 века , 78 доцентов пророчат ту же судьбу General Electric .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "существовать",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

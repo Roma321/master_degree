@@ -1,0 +1,30 @@
+{
+  "text": "В прошлом году свои возражениям сняла Испании , и это девшее воэможность принять Израиль в группу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Испания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "возражения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "дало"
+    },
+    {
+      "correctReplacement": "давшее",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "возможность",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

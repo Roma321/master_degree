@@ -1,0 +1,25 @@
+{
+  "text": "У населения изыму 31 единицы огнестрельного орудия , ликвидирован склад со взрывчаткоц и фугасами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "единица"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "изъята"
+    },
+    {
+      "correctReplacement": "оружия",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "взрывчаткой",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

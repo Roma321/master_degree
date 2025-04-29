@@ -1,0 +1,20 @@
+{
+  "text": "Первоначально запланировавший на вторник запуск откладывался дважды , сначала из-за плохой погод , потом из-за дефекта соединительных кабелей на станцию слежения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "запланированный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "станции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "погоды"
+    }
+  ]
+}

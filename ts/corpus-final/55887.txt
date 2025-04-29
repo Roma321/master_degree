@@ -1,0 +1,25 @@
+{
+  "text": "В Калифорнии в возрасте 27 лет , предположительно , в результате сердечного приступа уморившая горилла по кличке Майкл - одной из двух экспериментальных обезьян , освоивших американскую азбуки глухонемых .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "умерла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "азбуку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "одна"
+    },
+    {
+      "correctReplacement": "умершая",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

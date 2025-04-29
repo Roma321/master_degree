@@ -1,0 +1,25 @@
+{
+  "text": "Учитывается , сколько разы их портреты появлялись на обложках журналов , как часто в году их фамилия упоминалась в сети Интернете и на страницах газет , сколько раз произносившаяся с телеэкранлв и по радио .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "произносилась"
+    },
+    {
+      "correctReplacement": "телеэкранов",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

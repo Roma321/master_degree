@@ -1,0 +1,15 @@
+{
+  "text": "Обычный рейсовый автобус вмещает 62 человека , однако на дальниж маршрутов автобусы всегда переполнены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "маршрутах"
+    },
+    {
+      "correctReplacement": "дальних",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

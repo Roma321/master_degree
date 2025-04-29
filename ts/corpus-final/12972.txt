@@ -1,0 +1,40 @@
+{
+  "text": "Как пояснённые журналистам UA Today в пресс-службе Верховного суд , для того , чтобы внесенная Симоненко жалоба стала предметом повторного рассмотрения Пленума второй судебной инстанции , необходимо , чтобы предыдущее решение сут было опротестовавшее генеральным прокурором чили председателем Верховной суда .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пояснили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "опротестовано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 38,
+      "correctReplacement": "Верховного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "суда"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

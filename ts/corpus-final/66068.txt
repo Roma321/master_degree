@@ -1,0 +1,25 @@
+{
+  "text": "Госдуме принявшая постановление \"Об объявлении амнистии в связи с 55-летием Победы в Великой Отечественного войне 1941-1945 годов\" Э",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Госдума"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Отечественной"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

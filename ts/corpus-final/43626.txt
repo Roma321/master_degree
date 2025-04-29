@@ -1,0 +1,20 @@
+{
+  "text": "Автобус , в котором , подавшим агентства Reuters , находилось 38 человек , (водитель , тки гида и 34 британских туриста) , следовал по холмистой местности и перевернулись из-за отказа тормозов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поданным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "перевернулся"
+    },
+    {
+      "correctReplacement": "три",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

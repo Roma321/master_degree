@@ -1,0 +1,15 @@
+{
+  "text": "28 июня около 9 : 30 на станции метро \"Бабушкинская\" произошёл несчастный случай : один из пассажиров провисший , попав под электропоезд .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "погиб",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

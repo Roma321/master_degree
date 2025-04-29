@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаешь РИА \"Новости\" , на вопрос председателю комиссии палаты по регламенту Николаю Меркушкину , поступило ли в комиссию заявление от саратовского губернатора Дмитрия Аяцкова о сложению полномочий , последовал отрицательный одвет , который сидящие в зале воспретившие смеха и аплодисментами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "сложении"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "смехом"
+    },
+    {
+      "correctReplacement": "встретили",
+      "type": "paronym",
+      "wordNumber": 37
+    },
+    {
+      "correctReplacement": "ответ",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

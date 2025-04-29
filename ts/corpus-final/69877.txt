@@ -1,0 +1,20 @@
+{
+  "text": "До последнего времени в сети Planet Hollywood по всему миру насчитывалась почти 80 автоматических ресторанов , связанных с миром кино , в того числе в Москве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "насчитывалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "тематических",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

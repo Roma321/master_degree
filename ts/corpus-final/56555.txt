@@ -1,0 +1,30 @@
+{
+  "text": "В Хабаровске принимаемся экстренных меры по усилению контроля за питьевой водой , начаты ее гиперхлорированию , по местному радио передаются рекомендации врачей не пользоваться сырой водой из-под кранбв .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "начато"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "экстренные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "гиперхлорирование"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "принимаются"
+    },
+    {
+      "correctReplacement": "кранов",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

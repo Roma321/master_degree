@@ -1,0 +1,20 @@
+{
+  "text": "Он сообщил , что Минюст выступаешь за единый элекоронный реестры нормативных актов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "выступает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "реестр"
+    },
+    {
+      "correctReplacement": "электронный",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

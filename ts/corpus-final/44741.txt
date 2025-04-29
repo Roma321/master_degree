@@ -1,0 +1,20 @@
+{
+  "text": "Демографы ООН исходили из сого , что по всей Европе численность населения падает , а среднее возраст европейцам быстро увеличивается .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "средний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "европейцев"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

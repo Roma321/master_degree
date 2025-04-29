@@ -1,0 +1,25 @@
+{
+  "text": "По словам Путина , это переложению правительство рассмотрю на ближайлем заседании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "предложение"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "рассмотрит"
+    },
+    {
+      "correctReplacement": "предложению",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "ближайшем",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

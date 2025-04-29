@@ -1,0 +1,20 @@
+{
+  "text": "Начинаемые с февраля 1994 году их количество всегда превышало один милбион человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Начиная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "миллион",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

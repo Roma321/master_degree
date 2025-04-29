@@ -1,0 +1,25 @@
+{
+  "text": "Начальник Генштаба ВС РФ генералу Квашнина заявил в своем интервью , вто федеральные силы в Чечне практически полностью контролируют территорию республик , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "республики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "генерал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Квашнин"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

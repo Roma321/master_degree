@@ -1,0 +1,20 @@
+{
+  "text": "По словам Медведева , штат приёмному состоит из 10 высококвалифицированных и подготовленных неспециалистов , готовых выслушать всех , кто к ним обращаюсь .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "обращается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "приемной"
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

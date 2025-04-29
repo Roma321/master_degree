@@ -1,0 +1,25 @@
+{
+  "text": "По факту взрыва прокуратуры Советского административной округа Омсва возбуждавшая уголовное дело по статье 143 \"Нарушение правил охраны труда\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "административного"
+    },
+    {
+      "correctReplacement": "возбудила",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Омска",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

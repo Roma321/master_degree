@@ -1,0 +1,30 @@
+{
+  "text": "Неожиданно одним из военнослужащих , следовавших в составе колонны , отделюсь от нее и , подойдя к машине вице-премьера Ингушетии , потребовало , чтобы все синеющие вышли из машин и предъявили документы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "машины"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "потребовал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "отделился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "сидящие",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

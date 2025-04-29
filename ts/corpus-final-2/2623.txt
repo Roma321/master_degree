@@ -1,0 +1,25 @@
+{
+  "text": "Российских компании \"Газпром\" и \"ЛУКОЙЛ\" вишедшие у списка крупнейших корпораций мира , который составляется американским журналом Fortune .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Российские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "список"
+    },
+    {
+      "correctReplacement": "вошли",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

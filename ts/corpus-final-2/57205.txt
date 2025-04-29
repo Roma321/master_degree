@@ -1,0 +1,20 @@
+{
+  "text": "Установить точные количество пострадавших долго не удавалась , поскгльку в связи с новогодними праздниками жильцы могли находиться вне дома .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "точное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "удавалось"
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

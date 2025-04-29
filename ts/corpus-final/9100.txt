@@ -1,0 +1,35 @@
+{
+  "text": "Представители Simon Wiesenthal Center , кроме того , пожаловались руководству Amazon . com , что клиентам , покупающим Mein Kampf , вскоре после покупки приходил письмецо из Amazon . com , где говоришься , что если клиент купил Mein Kampf , вероятно , он захотевший также купить книгой Джордже Линкольна Роквелла , американского нациста .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "приходит"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 44,
+      "correctReplacement": "захочет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 48,
+      "correctReplacement": "Джорджа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 47,
+      "correctReplacement": "книгу"
+    },
+    {
+      "correctReplacement": "письмо",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

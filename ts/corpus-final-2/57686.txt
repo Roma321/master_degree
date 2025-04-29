@@ -1,0 +1,35 @@
+{
+  "text": "По слосу адвоката россиянки мэтра Даниеля Тессье-Вермо , апелляционный суда фактически воспроизвел прежнее решение судьи Симонны , которая посчитало , что здоровье ребенка слишком хрупкое , и поэтому Маше надо по-прежнему находиться в приёмной семье .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 33,
+      "correctReplacement": "приемной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Симонен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "посчитала"
+    },
+    {
+      "correctReplacement": "слову",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

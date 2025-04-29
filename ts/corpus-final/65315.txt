@@ -1,0 +1,20 @@
+{
+  "text": "В целом за десять лет стоимости промышленной продукции выросшая в 30 раз , энергоносителей - в 50 раз , а тарифы на свет вклинились только в 16 , 3 раза .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "стоимость"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выросла"
+    },
+    {
+      "correctReplacement": "увеличились",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

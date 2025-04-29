@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщённай депутатам на заседании дородовой Думы первый заместитель руководителя столичного Департамента экономической политики иразвития Валерий Жаров , повышение ставок налога с владельцами транспортных средств свяжу с изменении уровня цен и заработной платы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "владельцев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "изменением"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "связано"
+    },
+    {
+      "correctReplacement": "городской",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В ночь на 27 мая в центре абхазского города Гал прогремел мощный взрыв - был взорван монументом памятей жертв 9 апреля 1989 года , когда во время размена демонстрации в Тбилиси погибли около 20 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "монумент"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "памяти"
+    },
+    {
+      "correctReplacement": "разгона",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

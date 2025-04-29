@@ -1,0 +1,25 @@
+{
+  "text": "Полицию также раследует дело по заявлению Вилли Фалджера , сделанному этим летом , о том , что у него украли деньгами , получившие в награду за возвратившие \"Оскары\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Полиция"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "возвращенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "полученные"
+    }
+  ]
+}

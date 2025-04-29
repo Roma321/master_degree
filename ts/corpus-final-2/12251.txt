@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник изеаильская полиция обнаруженная на территории страны подполковника военного разведки США , пропавшего более двух недель назад .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "correctReplacement": "израильская",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

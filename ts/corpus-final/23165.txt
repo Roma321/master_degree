@@ -1,0 +1,25 @@
+{
+  "text": "\"У него есть опыты работы в постаменте и он справишься с любыми обязанностями\" , - заявил ПИА \"Новости\" Прусак .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "справится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "опыт"
+    },
+    {
+      "correctReplacement": "парламенте",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

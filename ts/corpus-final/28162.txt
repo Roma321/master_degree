@@ -1,0 +1,20 @@
+{
+  "text": "Пока ни одна из террористических организаций , действующих в Пакистане , не взявшая на себя ответственности зм взрывы , сообщает AP .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "ответственность"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "взяла"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

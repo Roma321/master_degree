@@ -1,0 +1,35 @@
+{
+  "text": "Однако президенты Грузии и России Эдуурд Шеварднадзе и Владимиром Путин в ходе встречи в июне ведущего года в Москве высказавшиеся за то , чтобы не форсировать переговоры о возможном введение визовым режима между двумя странами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "введении"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "высказались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "визового"
+    },
+    {
+      "correctReplacement": "текущего",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Эдуард",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

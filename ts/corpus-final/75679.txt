@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу в 22 : 30 на пульт дежурных по городу Москве позвонил неизвестном мужчине и сообщил , что посольство Турции , расположенное в доме 12 во 7-му Ростовскому переулка , заминировано .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "дежурного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "переулку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "неизвестный"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

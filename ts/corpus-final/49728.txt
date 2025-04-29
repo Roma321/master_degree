@@ -1,0 +1,25 @@
+{
+  "text": "Первые две партия финала завершились вничью , а в блице Каспаровц дважды переваривший своего соперника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Каспаров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "партии"
+    },
+    {
+      "correctReplacement": "переиграл",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Каспарову",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

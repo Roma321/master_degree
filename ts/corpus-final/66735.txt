@@ -1,0 +1,30 @@
+{
+  "text": "Еще раньше президент страны Уго Чавес , а также Национальные избирательный комитеты обвиняли американскую компанию Omaha в той , что она создала технические проблемы , которые являются частью заговора с целью срыв выборов в стране .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "срыва"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "комитет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Национальный"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

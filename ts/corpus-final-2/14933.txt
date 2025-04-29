@@ -1,0 +1,25 @@
+{
+  "text": "Лукашенко выразил также сожаление в связей с тем , что Россия не поставили Минск в известность о своем выходе из Бишкекского соглашения , предусматривающего бедвизовое передвижении граждан СНГ по территории стран Содружества .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "передвижение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "поставила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "безвизовое",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

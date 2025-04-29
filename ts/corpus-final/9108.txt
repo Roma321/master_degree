@@ -1,0 +1,25 @@
+{
+  "text": "Теперь самолет требует серьезного ремонта , а арабьской премьеры пришлось лететь дальше обычным рейсом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "премьеру"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "израильскому"
+    },
+    {
+      "correctReplacement": "израильской",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "аральской",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

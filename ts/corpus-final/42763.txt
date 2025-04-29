@@ -1,0 +1,20 @@
+{
+  "text": "По плану , предложенной Бараком , Аната должна была перейти под контролёр палестинцев , однако министры отклонил это предложение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предложенному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "отклонили"
+    },
+    {
+      "correctReplacement": "контроль",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Тайской полиция задержала слоном , который киношный в дорожно-транспортном происшествии и смерти двух человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Тайская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "слона"
+    },
+    {
+      "correctReplacement": "виновен",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

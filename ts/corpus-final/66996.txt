@@ -1,0 +1,20 @@
+{
+  "text": "В жилых домах гостиничного типа плата за водоснабжение м канализацию составит 13 рублей 90 копеек , а для жильцов домов без ванны водоснабжение будет обходящиеся в 8 рублей 68 копеек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "ванн"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "обходиться"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

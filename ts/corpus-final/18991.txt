@@ -1,0 +1,25 @@
+{
+  "text": "Несколько преступников захватили заложников в здании Калининского районных суда Петербурга и забаррикадируемся в одной из помещений , сообщаетРИА \"Новости\" со ссылкой на источники в ГУВТ города .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "забаррикадировались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "районного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "одном"
+    },
+    {
+      "correctReplacement": "ГУВД",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

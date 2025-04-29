@@ -1,0 +1,25 @@
+{
+  "text": "Зарандий , которого в зал судов доставленные на носилках , требовал выдать ему справку о невозможности присутствовать на процессе в связи с плохим состязание здоровья .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "доставили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Зарандия"
+    },
+    {
+      "correctReplacement": "состоянием",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

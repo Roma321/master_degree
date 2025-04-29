@@ -1,0 +1,25 @@
+{
+  "text": "В розничной торговле к Новой году сахара подорожал на два рубля за килограмм до 18 рублей , а в период ажиотажным спроса в июне-июле килограмм сахара для конечного покупателя может стоить 25 рублей за килограмм , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "подорожает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Новому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сахар"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "ажиотажного"
+    }
+  ]
+}

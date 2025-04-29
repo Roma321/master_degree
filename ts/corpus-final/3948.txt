@@ -1,0 +1,30 @@
+{
+  "text": "В 34-страничном докладе отмечаются , что террористические и расистские группировки специально запасают оружие р выбирающие удобные позициии , сообщённый Assoсiated Press .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "выбирают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Газета , со ссылкой на информированные источники , сообщиь , что в этом бою погибли 50 десантников российского армии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

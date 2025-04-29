@@ -1,0 +1,25 @@
+{
+  "text": "По заключению специалистов МГТС и ряда региональных компаний связи , для примерно 15 процентов платы за телефоннме переговоры станешь вдвое выше сегодняшней абонентского платы , а меньше , чем сейчас , будут платить 15 - 20 процентов пользователей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "плата"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "абонентской"
+    },
+    {
+      "correctReplacement": "телефонные",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

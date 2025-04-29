@@ -1,0 +1,35 @@
+{
+  "text": "Обсуждение вопроса о списке ЛДПР навался , несмотря на протест лидеров партии Владимира Жириновского , полагающего что ЦИК самостоятельно не может инициировать вопрос о восстановлении регистрации список , пообещанный РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "лидера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "началось"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "списка"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "начался",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

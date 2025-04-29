@@ -1,0 +1,25 @@
+{
+  "text": "Министра культуры Михаил Швыдкойотметил , что необходимо проведённые серьезную реконструкциюМосковского киноцентра , которой прежде всего коснетсы главногозала (сегодня он рассчитан только на 700 мест) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "провести"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "которая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Министр"
+    },
+    {
+      "correctReplacement": "коснется",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

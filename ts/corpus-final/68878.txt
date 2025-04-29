@@ -1,0 +1,30 @@
+{
+  "text": "В программе визита известного предпринимателя - открытие компьютерной клкссов в московской духовных академии и семинарии , встреча с иерархами русской православной церкви , а также посещение Новой Деревни , где служил и погибший священник Александр Мень .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "класса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "компьютерного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "духовной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "классов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

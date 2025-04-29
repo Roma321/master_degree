@@ -1,0 +1,25 @@
+{
+  "text": "Ньюмаюн , правда , уже сообщила , что врят ли эта метрология помогут Стиви Уандеру , который слеп от рождения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "поможет"
+    },
+    {
+      "correctReplacement": "технология",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "вряд",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По его словам , полностью выполнены работы по переоснащению старых компьютерщиков системах автомобильного , морского и речному транспорта , а также российских метрополитенов , переоборудованы и сертифицированы мездународными регистрами системы управления морскими и речными судами , в тех числе работающие на ядерном топливом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "топливе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "систем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "речного"
+    },
+    {
+      "correctReplacement": "компьютерных",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "международными",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

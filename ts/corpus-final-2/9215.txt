@@ -1,0 +1,20 @@
+{
+  "text": "Курс рубля в следующем году составил 30 рублей за доллар , инфляция запланирован на уровне 12 пролётов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "запланирована"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Рубрики \"Градусник\" представляет собой своеобразный рейтинге новостей (так , пример , 9-е октября \"получило\" +19 градусов) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Рубрика"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "рейтинг"
+    },
+    {
+      "correctReplacement": "например",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

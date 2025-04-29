@@ -1,0 +1,30 @@
+{
+  "text": "Аукционный дым Sotheby’s Holdings Inc . признаю себя виновным в манипуляции ценами в сговоре с коллегами из аукциона Christie’s и предложила в течение пяти лет выплаченные штраф в размере 45 миллионы долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "выплатить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "дом",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

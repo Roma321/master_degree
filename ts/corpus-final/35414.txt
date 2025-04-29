@@ -1,0 +1,25 @@
+{
+  "text": "Эти заявлении небезосновательны : NASA сама отмечаю в 1997 ноду , что космический туризм как новая сфера рынка сможет принести миллиарды долларов , если будут преодолён экономические и технические барьеры .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "отмечала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "преодолены"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

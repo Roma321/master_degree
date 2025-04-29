@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас милиции выясняемый , кому наркокурьер должен был доставить грус .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выясняет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "милиция"
+    },
+    {
+      "correctReplacement": "груз",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

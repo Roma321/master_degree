@@ -1,0 +1,30 @@
+{
+  "text": "По словам заместителей начальника УГПС столицы Владимира Родиной , из комплекса , помещения в котором арендуете 150 организаций , были эвакуируем около 200 человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Родина"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "арендуют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заместителя"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как полагали спасатели , погибший использовал открытая огонь при прогреве двигателя привода сопливых насосов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "открытый"
+    },
+    {
+      "correctReplacement": "топливных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В основном , брали препараты , предупреждаемые болезнь : от дорооих , за несколько сотен рублей , до обычных - антигриппина , арбидола , дибазола , оксолиновой мази .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "предупреждающие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "берут"
+    },
+    {
+      "correctReplacement": "дорогих",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

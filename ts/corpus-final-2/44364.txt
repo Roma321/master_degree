@@ -1,0 +1,30 @@
+{
+  "text": "По словам же адвоката Олейникова , Максачева никто не избиваемый и не пытал , а все травмы , которые зафиксировали врачи , гн полученный не 19 , а 18 ноября , и этих повреждению не были значительными .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "избивал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "повреждения"
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

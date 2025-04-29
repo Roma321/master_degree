@@ -1,0 +1,25 @@
+{
+  "text": "Возбуждено уголовную дело , идет следствие , но говорить о немого преждевременно , сказавший прокуратор Кабардино-Балкарии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "нем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "прокурор",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "медное телевидение , по данным НТВ , передаёт информацию о продолжающихся в Газе перестрелках между палестинцами и израильскими солдатами , а такле об увеличении числа жертв конфликта , в основном с арабского стороны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "арабской"
+    },
+    {
+      "correctReplacement": "Местное",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

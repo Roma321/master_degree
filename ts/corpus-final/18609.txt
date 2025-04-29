@@ -1,0 +1,25 @@
+{
+  "text": "Более 540 мирных жителей Грозного покинутые голод по гуманитарным коридорам за понедельник , сообщает Итар-тассом со ссылкой на пресс-центр министерстве обороны РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "покинули"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "министерства"
+    },
+    {
+      "correctReplacement": "город",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

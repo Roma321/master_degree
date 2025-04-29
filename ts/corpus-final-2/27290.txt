@@ -1,0 +1,25 @@
+{
+  "text": "В дальнейшем запланирую расширения мощностей грузового аэропортоф в Пулково в общей сложности до 90 тысяч тонн в год , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "расширение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "аэропорта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "запланировано"
+    },
+    {
+      "correctReplacement": "аэропортов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

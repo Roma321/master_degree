@@ -1,0 +1,30 @@
+{
+  "text": "В Берлину , в рамках празднования 10-летия объединения Германию открывшаяся большая выставка работы Пикассо , частно финансируемая испанской стороной .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "работ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Германии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "открылась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Берлине"
+    },
+    {
+      "correctReplacement": "частично",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

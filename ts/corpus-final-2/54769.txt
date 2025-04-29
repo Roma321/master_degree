@@ -1,0 +1,20 @@
+{
+  "text": "Сегодня вновь откроюсь для посетителей мавзолеб Ленина на Красной площади , сообщает РИА \"Новости\" со ссылкой на пресс-службу комендатуры Кремля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "мавзолей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "откроется"
+    },
+    {
+      "correctReplacement": "мавзолею",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

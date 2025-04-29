@@ -1,0 +1,35 @@
+{
+  "text": "На прошлом неделе , чтобы представить монополию Warner EMI Music не столь очевидной и спасти сделку но слиянию Time Warner , America Online и EMI Group , EMI объявили о продаже одного из своих ведущих компартий звукозаписью , Virgin Records .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "звукозаписи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "объявила"
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

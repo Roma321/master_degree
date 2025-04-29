@@ -1,0 +1,20 @@
+{
+  "text": "По утверждению министра , большая часть запретивших сайтов - коло 80 процента - порнографические .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "запрещенных"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

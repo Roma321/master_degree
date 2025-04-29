@@ -1,0 +1,20 @@
+{
+  "text": "Он заявила , что \"причин для изменения рока нет\" , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сроков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "срока",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В собственности РЖД будет передано имущество межгосударственных предприятий и организациям федерального железнодорожного транспорта , стоимость которого будет внесено в ее уставной капитал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "внесена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "организаций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "собственность"
+    },
+    {
+      "correctReplacement": "государственных",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

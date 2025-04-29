@@ -1,0 +1,30 @@
+{
+  "text": "ремиссия по помилованию при президентах Роасии рекомендовала Путину помиловать Эдмонда Поупа , приговоренного за шпионаж к 20 годом заключения в колонии строгой режима .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "строгого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "президенте"
+    },
+    {
+      "correctReplacement": "Комиссия",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

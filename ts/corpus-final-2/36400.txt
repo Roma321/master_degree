@@ -1,0 +1,30 @@
+{
+  "text": "Первые результаты голосования начатые поступать только поле завершения выборов в тех штатах на восточном побережьях США , где избирательные участки закрылись в 6 вечера по местному времени (2 : 00 8 ноябрю по московскому) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "закроются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "начнут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "побережье"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

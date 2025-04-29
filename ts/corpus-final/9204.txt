@@ -1,0 +1,40 @@
+{
+  "text": "В ближайшего времени необходимо создать полный реестр федеральных объектов недвижимости в России , так каз бюджет не только не получает доходов от госимущества , \"но и не знает , чем владеет государство\" , заявил премьер-министр Владимир Путина , выступая в понедельник на совещании в Москвой , посвящённом системе управления госимуществом у России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 46,
+      "correctReplacement": "посвященном"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 50
+    }
+  ]
+}

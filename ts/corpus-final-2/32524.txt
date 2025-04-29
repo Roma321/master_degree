@@ -1,0 +1,30 @@
+{
+  "text": "В грузинской службе навигации вьздушного флота сообщим , что самолет должен был , как это обычно делается , заходить на посадки со сторона моря , но ушел в стороны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "сторону"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "стороны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "посадку"
+    },
+    {
+      "correctReplacement": "воздушного",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "От именем правообладателей организация собирает фиксированное плату по единыа тарифам за использование объедков авторского права с публикаторов , затем распределяет собранные средства среди авторов использованных произведений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "фиксированную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "имени"
+    },
+    {
+      "correctReplacement": "объектов",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "единым",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

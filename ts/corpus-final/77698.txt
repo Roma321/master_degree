@@ -1,0 +1,20 @@
+{
+  "text": "Из почти 70 частных хлебопекарен из-за дефицита мум работающие меньше десяти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "муки"
+    },
+    {
+      "correctReplacement": "мук",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

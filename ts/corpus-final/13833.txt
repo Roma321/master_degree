@@ -1,0 +1,20 @@
+{
+  "text": "Они похитили компьютеру и факс общей стоимостью 15 тысячи рублей , сообщал РИА \"Новости\" со ссылкой на МВД России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "компьютер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

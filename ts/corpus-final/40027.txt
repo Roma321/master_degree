@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей Интерпола , фактически речь идет об электронном аналоге стандартных листовок с броскими слово \"разыскивается\" , которые прежде расклеивались на стендах в аэропорты , на вокзалах т возле отделений полиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "броским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "словом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "аэропортах"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

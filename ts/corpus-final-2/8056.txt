@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данным , нанесённый Приморскому кроя врезультате стихийного бедствия ущерб превышаю 200 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "нанесенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "краю"
+    },
+    {
+      "correctReplacement": "края",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

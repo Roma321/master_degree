@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас Садырин , тренированный в последнее время национальную сборную Узбекистана , дшлжна выведшие ЦСКА со дна турнирной таблицы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "тренировавший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вывести"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "должен"
+    },
+    {
+      "correctReplacement": "должна",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

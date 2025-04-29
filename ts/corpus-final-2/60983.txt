@@ -1,0 +1,30 @@
+{
+  "text": "Для нового фильме Лелуш сам написал сценарий , и , как нём сказанный , когда писал роль гангстера , то представляло , что ее сыграл Дастин Хоффман (\"Человек дождя\") .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "фильма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "представлял"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "сыграет"
+    }
+  ]
+}

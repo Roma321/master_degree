@@ -1,0 +1,20 @@
+{
+  "text": "Он считающий , что пока нефти на мировом рынке достаточно и дополнительной ее паспорта не требуется .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "дополнительного"
+    },
+    {
+      "correctReplacement": "экспорта",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

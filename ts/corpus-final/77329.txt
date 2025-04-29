@@ -1,0 +1,25 @@
+{
+  "text": "Губернатор предложивший главам регионов объединить усилия и вместе с представителями президенту в федеральных округах \"принять активное участием в строительстые новой России , новой Федерации\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "участие"
+    },
+    {
+      "correctReplacement": "строительстве",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Летчик совершал облачный тренировочное полет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "тренировочный"
+    },
+    {
+      "correctReplacement": "обычный",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

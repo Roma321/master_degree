@@ -1,0 +1,30 @@
+{
+  "text": "При этом Путин отметил , что Россия также придавал большое нкучению отношений с Японией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "значение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "придает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "отношениям"
+    },
+    {
+      "correctReplacement": "значению",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "научению",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

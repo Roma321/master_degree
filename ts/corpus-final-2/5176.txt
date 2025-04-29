@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что до сих пор их изодравшие депутаты парламента Сербии и Черногории .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "избирали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "парламентов"
+    },
+    {
+      "correctReplacement": "избиравшие",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

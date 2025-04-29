@@ -1,0 +1,25 @@
+{
+  "text": "В ближайшие дни поместным правоохранительным органам предстою квалифицировать действием сельского главы . �ды стали сильные дожди , смывшие в реку в районе Уотеррона навоз из прибрежных ферм .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "действия"
+    },
+    {
+      "correctReplacement": "местным",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Уотертона",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

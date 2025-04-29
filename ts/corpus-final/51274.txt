@@ -1,0 +1,25 @@
+{
+  "text": "Он призвано измерять популярность различных ресурсов думского Интернетов путем подсчёта количества ссылок на него .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "подсчета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "призван"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "correctReplacement": "русского",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

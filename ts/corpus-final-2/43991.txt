@@ -1,0 +1,20 @@
+{
+  "text": "Новое зданин , способное заметно изменить архитектурная ландшафт города , возведет Франк Гери - тот же архитектора , что строил музей Гугенхайма в Бильбао .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "архитектурный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "архитектор"
+    },
+    {
+      "correctReplacement": "здание",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

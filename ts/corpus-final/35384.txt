@@ -1,0 +1,35 @@
+{
+  "text": "Угрозы взрыва к здании Дипломатической академии в Москве оказалась ложной - сотрудники милиций не обнаружим там взрывной устройства , передавал РИА \"Новости\" со ссылкой на правоохранительные органы столицы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Угроза"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

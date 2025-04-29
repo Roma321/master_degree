@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает российского агентство , в листовках , распространенных сразу после инцидента , вино за его гибель возлагающийся на израильскую армию и персонально на начальника генштаба Шауля Мофазп .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "возлагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "вина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "российское"
+    },
+    {
+      "correctReplacement": "Мофаза",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

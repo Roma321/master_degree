@@ -1,0 +1,35 @@
+{
+  "text": "Вместе со своей мамой девочку сраэу сообщившая военному о той , что допущена какая-то ошибка , однако предупреждении было попросту проигнорировано , и послании продолжали поступать на тот же адрес в количестве 10-12 штук в неделю .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "предупреждение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "послания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "девочка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "сразу",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

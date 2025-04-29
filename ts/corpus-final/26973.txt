@@ -1,0 +1,25 @@
+{
+  "text": "Российская таможня намерена ввести регистрацию для всех участникоф внешнеэкономическая желательностей (ВЭД) , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "внешнеэкономической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "деятельности"
+    },
+    {
+      "correctReplacement": "деятельностей",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

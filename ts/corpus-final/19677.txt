@@ -1,0 +1,30 @@
+{
+  "text": "Что же касается мирных жителеы , то , по данным Исмаилова , в Грозном до сих поры оставался около 50 тысяч гражданина , которые из-за продолжающихся артобстрелов лишены возможности выйти из похвал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "пор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "граждан"
+    },
+    {
+      "correctReplacement": "подвалов",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "жителей",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

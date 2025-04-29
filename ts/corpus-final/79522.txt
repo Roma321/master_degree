@@ -1,0 +1,20 @@
+{
+  "text": "Антивирусное программа , занимаясь поиском вирусными скриптов в таких \"файлах\" , не могла найти \"конец файла\" , и потому сканировала файл нова и снова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Антивирусная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "вирусных"
+    },
+    {
+      "correctReplacement": "снова",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

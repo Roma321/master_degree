@@ -1,0 +1,20 @@
+{
+  "text": "После того как откупившееся электричество , пассажиров просто оставили в темных закрытых вагонах на пути .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "путях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "отключилось"
+    },
+    {
+      "correctReplacement": "отключившееся",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

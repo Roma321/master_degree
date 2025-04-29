@@ -1,0 +1,20 @@
+{
+  "text": "В среду в научно-медицинском центре Вашингтонского университета неизвестный преступник застрелил дврих и набивший одним человека , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "ранил",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "двоих",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

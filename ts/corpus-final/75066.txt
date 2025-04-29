@@ -1,0 +1,25 @@
+{
+  "text": "Крюгерранд , назову по имени основателя и первом президента ЮАР Пауля Крюгера , содержат ровно одну тройскую унию 22-каратного золота .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "содержит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "названный"
+    },
+    {
+      "correctReplacement": "унцию",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

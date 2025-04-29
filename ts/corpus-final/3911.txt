@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , она взятая на себя ответственность за взломы сайтов NASDAQ и Национального ассоциации развитий расовых меньшинства , осуществленные в середине сентября .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "развития"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Национальной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "взяла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "меньшинств"
+    }
+  ]
+}

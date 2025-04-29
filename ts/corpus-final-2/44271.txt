@@ -1,0 +1,20 @@
+{
+  "text": "Отделения связи в Китае выходят на совершенно новое уровень опслуживания клиента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "клиентов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "обслуживания",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

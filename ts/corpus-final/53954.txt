@@ -1,0 +1,25 @@
+{
+  "text": "Обещаемо также , что и правительственные агентства США не будут иметь доступ к континентальной информации , предоставляемых организациями-участниками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "предоставляемой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Обещано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "доступа"
+    },
+    {
+      "correctReplacement": "конфиденциальной",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

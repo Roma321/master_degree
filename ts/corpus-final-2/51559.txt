@@ -1,0 +1,20 @@
+{
+  "text": "На второы месте оказались француз Зинедин Зидан , на третьем - украинец Андрей Шевченко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "оказался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

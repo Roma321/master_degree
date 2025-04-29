@@ -1,0 +1,25 @@
+{
+  "text": "После пересчёте голосов избирающих во всех 67 округах штата выяснилось , что республиканец Джордж Буш-младший незначительно опережаемый демократа Альбертом Гора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "опережает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Альберта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пересчета"
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что подобные выступления в сентябре этого года уже привёдшие к \"бензиновому кризису\" у стране и на неделю парализовали автранспортную систему Великобританию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "привели"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Великобритании"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По регламенту , совместное заседание обеих палат парламента открою спикеры Совета Федераций Егор Строев , который затем предвосхитивший слово президенту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "спикер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "открыл"
+    },
+    {
+      "correctReplacement": "предоставил",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

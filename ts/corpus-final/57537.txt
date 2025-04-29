@@ -1,0 +1,20 @@
+{
+  "text": "По данным AFP , этих лица и компании обвиняетесь в отмывании семи миллиардов долларов через счёт Bank of New York .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "счета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "эти"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "выславшими на место происшествия сотрудниками милиции былиустановлены приметы нападавших : на вид одному из них , крупного телосложения , 25 года , обе одеты в короткие кожаные куртки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "оба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "Выехавшими",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

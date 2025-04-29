@@ -1,0 +1,20 @@
+{
+  "text": "Депутат подготовившиы протокольная поручение комитету по международным делам Госдумы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "протокольное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подготовил"
+    },
+    {
+      "correctReplacement": "подготовивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

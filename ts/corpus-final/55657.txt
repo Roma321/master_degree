@@ -1,0 +1,25 @@
+{
+  "text": "В школе он хорошо пгравший в бейсбол , потом 20 лет прослужил в армий , гдр стал опытным вертолетчиком .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "играл"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "армии"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "игравший",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

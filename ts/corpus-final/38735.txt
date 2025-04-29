@@ -1,0 +1,30 @@
+{
+  "text": "В результате намеченного на сентябрь 2000 года слияние активов этосов финансовых институты возникнет самая крупная в мире финансовые группы с капиталом в 1 , 3 триллиона долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "финансовая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "группа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "институтов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "слияния"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

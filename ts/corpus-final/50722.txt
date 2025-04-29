@@ -1,0 +1,30 @@
+{
+  "text": "Манилов также отметили , что около тысячи экстремистов находится в центральной и северной частях территории Чечни , контролирующей федеральных силами , и около 400 боевиков остаётесь в Грозном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "остаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "федеральными"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "контролируемой"
+    }
+  ]
+}

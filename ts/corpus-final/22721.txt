@@ -1,0 +1,15 @@
+{
+  "text": "Для участия в выборах президента ЦИК Узбекистана зарегистрировал только эти двух кандидатов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "этих"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

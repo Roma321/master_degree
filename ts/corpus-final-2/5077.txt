@@ -1,0 +1,30 @@
+{
+  "text": "В оетверг , 27 июля , около 9 часов нутра в центре Москвы , в Александровских саду , была обнаружена ручную граната , сообщаешь НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "ручная"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Александровском"
+    },
+    {
+      "correctReplacement": "утра",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

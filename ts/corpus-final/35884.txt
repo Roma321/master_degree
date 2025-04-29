@@ -1,0 +1,20 @@
+{
+  "text": "Российскую делегации на переговорах возглавлял председатель правления Центрального банка РФ Виктор Геращенко , белорусскую - председатель правления Нацбанка РБ петрущий Прокопович .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "делегацию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возглавляет"
+    },
+    {
+      "correctReplacement": "Петр",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

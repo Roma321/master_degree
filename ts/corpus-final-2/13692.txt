@@ -1,0 +1,30 @@
+{
+  "text": "Следствием установивший ле только факт расхищении средств Фонда в размере миллиарда 29 триллиона неденоминированных рублей , но также и размер личной доли Ковалева - более 740 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "установлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "расхищения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Тахи попросил убежища после того , как прирезавшие в пятницу в Лондон на пассажирском самолете , который он пилотировало Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Таха"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "пилотировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "прилетел"
+    },
+    {
+      "correctReplacement": "прилетели",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

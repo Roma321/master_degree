@@ -1,0 +1,20 @@
+{
+  "text": "По данным пресс-службы Арктической региональной группы ФПС России , разрушитель добравшийся из Мурманска до Борисоглебск на автобусе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "добрался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Борисоглебска"
+    },
+    {
+      "correctReplacement": "нарушитель",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

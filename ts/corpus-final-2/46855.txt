@@ -1,0 +1,25 @@
+{
+  "text": "Эксперты Всемирного банков прогнозируют дальнейшее пнижения цен на нефть ; по их мнению , на нынешнем высоком уровне они останутся не больше 2 лет , после кого могут упасть до 18 долларов за баррель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "снижение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "банка"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "снижения",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам его соседа по купе , ничего подозрительного в его поведении не мывшие за исключением того , что мужчина почти сутки ничего ге ел и не пил .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "соседей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "было"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Это станет болезненными удапом для многих семей , живущих у реки : при высоком уровне безработицы ловля рыбы оставаласьпрактически женственной средством пропитания для большинствасемей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "единственным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "болезненным"
+    },
+    {
+      "correctReplacement": "единственной",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "ударом",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

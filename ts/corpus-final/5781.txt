@@ -1,0 +1,20 @@
+{
+  "text": "Ожидаюсь , что на специальной заседани бундестага выступят бывший канцлер Германии Гельмут Коль , экс-президент СССР Михаил Горбачев и быфший президент США Джордж Буш .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "специальном"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

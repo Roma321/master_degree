@@ -1,0 +1,35 @@
+{
+  "text": "По их словами , один из недавно освобождённых из плена жителей Дагестанов сообщу противника , что в начале ноября его в течение нескольких дней державшие в одном подвале со Шпигуном .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "держали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "освобожденных"
+    },
+    {
+      "correctReplacement": "оперативникам",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

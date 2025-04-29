@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" , в ходе состоявшейся после пресс-конференции берёзе с российским журналистами Хавьер Солана подтвердил , что 22 октября он примет участие в саммите ЕС-Россия в Хельсинки .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "российскими"
+    },
+    {
+      "correctReplacement": "беседе",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

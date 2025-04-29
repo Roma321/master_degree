@@ -1,0 +1,25 @@
+{
+  "text": "Анна Курниковых приняла предложение своего соотечественнику хоккеисиа Павлов Буре и согласилась стать его женой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Курникова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "соотечественника"
+    },
+    {
+      "correctReplacement": "хоккеиста",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

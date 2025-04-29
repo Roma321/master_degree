@@ -1,0 +1,25 @@
+{
+  "text": "Более 50 процентов городского бюджета Каменск-Уральска , напримеъ , формируется за учёт деятельности алюминиевом и металлургического заводами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "заводов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "алюминиевого"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "например",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник житеди Находки перекрыл железную дорогу , ведущего в нефтяной порт , в знак протеста против задержки начала отопительного сезона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "ведущую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "перекрыли"
+    },
+    {
+      "correctReplacement": "жители",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

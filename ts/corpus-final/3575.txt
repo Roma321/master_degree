@@ -1,0 +1,30 @@
+{
+  "text": "Как заявлю заместитель министра по атомного энергией Булат Нигматулин , серьезная подготовка проводилчя не только на Курской , но на всех АЭС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "проводится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "энергии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "проводился",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

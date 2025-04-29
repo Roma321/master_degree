@@ -1,0 +1,20 @@
+{
+  "text": "В результате пожара обгорели деревянный периклами и старые вещи жильцов , хранившиеся на лестнице .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "перила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "деревянные"
+    },
+    {
+      "correctReplacement": "перилами",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

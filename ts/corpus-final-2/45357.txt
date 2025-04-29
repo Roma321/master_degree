@@ -1,0 +1,30 @@
+{
+  "text": "В ътом году Nasdaq подувшие уже на 36 проценты , и ником не знает , когда остановится это \"свободное падение\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "никто"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "упал"
+    },
+    {
+      "correctReplacement": "упали",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

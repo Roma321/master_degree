@@ -1,0 +1,30 @@
+{
+  "text": "Председатель Госдумы Геннадий Селезнёва намерен баллотироваться в губернатор Московской области на предстоящпго губернаторских выборов , которые пройдут 19 декабря , одновременно с выборами в Госдуму .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "предстоящих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "губернаторы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Селезнев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "выборах"
+    },
+    {
+      "correctReplacement": "предстоящего",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

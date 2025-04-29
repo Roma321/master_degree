@@ -1,0 +1,20 @@
+{
+  "text": "Один человек погиб в результате взрыва , прогремевшего в среды ч центральном паркам имени Горького в Ростове-на-Дону , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "парке"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

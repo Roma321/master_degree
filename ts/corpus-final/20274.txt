@@ -1,0 +1,25 @@
+{
+  "text": "Но зато , напоминал газета , с 20 декабря по 10 января МГТС понижаемый на 20 процентов тарифы на международную и международную связь - правда , только после пятых минуты разговора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "понижает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "пятой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "correctReplacement": "междугороднюю",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

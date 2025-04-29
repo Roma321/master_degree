@@ -1,0 +1,20 @@
+{
+  "text": "Профсоюзные лидеры расценивают позициюадминистрации как неконструктивного и заводимую переговоны втупик .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "неконструктивную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "заводящую"
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сумма взыскания , составившая 19 фунтов 60 пенсов , была оплатившая миссис Блэр на месте с помощи кредитной кварты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оплачена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "помощью"
+    },
+    {
+      "correctReplacement": "карты",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

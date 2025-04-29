@@ -1,0 +1,15 @@
+{
+  "text": "Автомобиль , управляемая смертником , взорвался у ворот комендатуры , однакл попытка прорыва не удалась .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "управляемый"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

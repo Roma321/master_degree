@@ -1,0 +1,20 @@
+{
+  "text": "Охрана правопорядка на стадионе \"Динамо\" поручена трем тысычам сотрудников милиции , в их числе - солдаты внутренних войск , ОМОН , конном полк ГУВД и другие силовые структур .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "конный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "структуры"
+    },
+    {
+      "correctReplacement": "тысячам",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "1 февраля в 8 : 15 утр по московскому времени в Смоленск был убит председатель комитета по социальной защите населения администраторы области Иван Сафонов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Смоленске"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "утра"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

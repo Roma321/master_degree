@@ -1,0 +1,20 @@
+{
+  "text": "В результате перестрелки имеетесь потери с она стороны , отметили представители аппарата .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сторон"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "имеются"
+    },
+    {
+      "correctReplacement": "обеих",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

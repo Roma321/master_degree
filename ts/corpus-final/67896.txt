@@ -1,0 +1,30 @@
+{
+  "text": "Российские летчики , провёдшие в плену у анггльского антиправительственной движения УНИТА почти год , спаслись практически случайно , ричающий в среду The Times .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "проведшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "антиправительственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "пишет"
+    },
+    {
+      "correctReplacement": "пишущий",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "ангольского",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

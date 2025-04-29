@@ -1,0 +1,25 @@
+{
+  "text": "Исключение составит положения о аналоге на добавленного стоимость , об акцизах , о налоге на доходы физических лицам и едином социальном налоге .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "добавленную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "лиц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "составят"
+    },
+    {
+      "correctReplacement": "налоге",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

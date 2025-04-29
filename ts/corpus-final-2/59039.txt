@@ -1,0 +1,25 @@
+{
+  "text": "На пресс-конференции в среду Онищенко заявлю , что потребление пива в стране растет , и наркологи уже отиечали появление признаки \"пивного алкоголизма\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "признаков"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "correctReplacement": "отмечали",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

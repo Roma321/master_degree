@@ -1,0 +1,35 @@
+{
+  "text": "На лондонской и нью-йоркской нефтяных биржах произошло сущездвенном падение цены на сырую нефть : это вызвано заявлением министра нефти Саудовской Аравией Аль аль-Наими о тому , что ОПЕК повысит квоты добычи нефтей , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "существенное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "цен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Аравии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "существенном",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

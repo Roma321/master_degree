@@ -1,0 +1,15 @@
+{
+  "text": "Сообщается , что задержанные являются гражданами россе и жителями Ростовским области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Ростовской"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

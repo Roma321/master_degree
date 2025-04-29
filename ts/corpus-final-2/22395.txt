@@ -1,0 +1,25 @@
+{
+  "text": "Женевский суд признал незаконным решение швейцарией прокуратуры о заблокировании счётами зарегистрирую в этой стране фирмы Mercata Trading и ее президента россиянином Виктора Столповских .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "зарегистрированной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "счетов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "россиянина"
+    },
+    {
+      "correctReplacement": "швейцарской",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Крупнейшая в Англии со времен II-й мировой войны железнодорожная трагедия произойду в 7 . 00 по Гринвичу , а в 8 . 15 на биржах курс акции компаний FirstGroup и Go Ahead Group , которым принадлежавшие поезда , обвалюсь .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "принадлежали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 38,
+      "correctReplacement": "обвалился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "бирже"
+    }
+  ]
+}

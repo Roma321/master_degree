@@ -1,0 +1,25 @@
+{
+  "text": "Самой прибыльным компанией мира , по данным журнале , стала General Electric : она принесу владельцам более десяти миллиардов долларов . �ко минут до инцидента в полиции позвонил неизвестный и сообщил о том , где заложена бомба , но предотвратить взрыв было уже невозможно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прибыльной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "журнала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "полицию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "принесла"
+    }
+  ]
+}

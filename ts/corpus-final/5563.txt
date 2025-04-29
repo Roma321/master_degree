@@ -1,0 +1,25 @@
+{
+  "text": "Говоримые о правилах проведениятеледебата в прямом эфире , претседатель Центризбиркома подчеркнуло , что \"во время их проведения нельзя бросаться стаканами , нельзя никого оскорблять , нарушать Конституцию и законы страны\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Говоря"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проведениятеледебатов"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

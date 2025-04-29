@@ -1,0 +1,25 @@
+{
+  "text": "Практически ни одним из вытоптавших сенаторов не поддержал этот документ , ссылаясь главным образом на то , что в нем не уделившее достаточного внимания вопросам государственное регулирования , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "уделено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "государственного"
+    },
+    {
+      "correctReplacement": "выступавших",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

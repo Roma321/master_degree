@@ -1,0 +1,20 @@
+{
+  "text": "Пассажиры пейса 011 продолжили полет на другом самолете , сказал Клейманы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Клейман"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "продолжат"
+    },
+    {
+      "correctReplacement": "рейса",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

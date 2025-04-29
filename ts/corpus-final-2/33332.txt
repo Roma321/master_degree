@@ -1,0 +1,20 @@
+{
+  "text": "С рассвет , когда шторм немного утихло , на помощь вылечивший экипаж вертолета Корякского авипредприятия , который и обнаружил спасательные плоты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "рассветом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "утих"
+    },
+    {
+      "correctReplacement": "вылетел",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

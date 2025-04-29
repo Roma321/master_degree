@@ -1,0 +1,20 @@
+{
+  "text": "Буюучи отстранён от должность указом Бориса Ельцина , Николай Куликов также написал собственное заявление об отставке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "отстранен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "должности"
+    },
+    {
+      "correctReplacement": "Будучи",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

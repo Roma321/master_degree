@@ -1,0 +1,30 @@
+{
+  "text": "Электронное версия газеты Washington Post , входящяя в первую десятку американских новостных сейта , приношу своим владельцев только расходы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "приносит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "владельцам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Электронная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "сайтов"
+    },
+    {
+      "correctReplacement": "сайта",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

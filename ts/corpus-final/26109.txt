@@ -1,0 +1,30 @@
+{
+  "text": "По словам Коптева , в случае удачного полета и лигвидация выкрикнувшего на \"Мире\" микротрещины космическая станция смогут прослужить еще несколько лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ликвидации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сможет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "возникшей"
+    },
+    {
+      "correctReplacement": "возникшего",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "ликвидация",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

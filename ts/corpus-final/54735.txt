@@ -1,0 +1,20 @@
+{
+  "text": "Ц еженедельники его рост составил 10 копеек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "понедельники",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

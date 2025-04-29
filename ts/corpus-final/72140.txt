@@ -1,0 +1,25 @@
+{
+  "text": "В частности , подписавшие два межправительственных соглашения - о сотрудничествах в области предупреждения и борьбы со стихийными бедствиях и чрезвычайными ситуациями и соглашение в сложенной сфере .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "сотрудничестве"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подписаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "бедствиями"
+    },
+    {
+      "correctReplacement": "таможенной",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

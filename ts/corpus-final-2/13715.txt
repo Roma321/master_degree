@@ -1,0 +1,20 @@
+{
+  "text": "Главное роль в фильме сыграли юная Кристин Данст , известная более всего по фильму \"Интервью с вампиром\" , в котором она сыграла девочку-вампиоа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сыграла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Главную"
+    },
+    {
+      "correctReplacement": "девочку-вампира",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

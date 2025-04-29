@@ -1,0 +1,20 @@
+{
+  "text": "Дед Мороз с большой белой бородой и в красном тулупе встречался с избирающими и журналистами на убице города .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "улицах"
+    },
+    {
+      "correctReplacement": "избирателями",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "улице",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

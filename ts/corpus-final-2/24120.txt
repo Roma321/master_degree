@@ -1,0 +1,20 @@
+{
+  "text": "Там выбираем самую красивую девушку 2000 гиду , сообщает РТР .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "выбирали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

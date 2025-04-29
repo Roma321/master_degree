@@ -1,0 +1,20 @@
+{
+  "text": "Согласно распоияжению Путина , предложения поформированию органов пространственной власти в Чеченского республике будут подготовлены за 1 , 5-2 недели , сообщил Кошман .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Чеченской"
+    },
+    {
+      "correctReplacement": "государственной",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "распоряжению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

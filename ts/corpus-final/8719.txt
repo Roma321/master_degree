@@ -1,0 +1,25 @@
+{
+  "text": "Из 3 тыс . 605 зарегистрированных ЦИК РФ кандидатов в депутат , проходящпх по партийными списку , 89 привлекались к уголовной ответственности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "спискам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "партийным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "проходящих",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

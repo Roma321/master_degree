@@ -1,0 +1,25 @@
+{
+  "text": "По результаты этого окончательной оценки в октябре 1996 года был заключён новый контракт , на свмму 16 миллионов605 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результатам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заключен"
+    },
+    {
+      "correctReplacement": "сумму",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

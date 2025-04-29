@@ -1,0 +1,20 @@
+{
+  "text": "В комплекс вхожу единственный в странах Балтии нефтепегерабатывающий завод , нефтепровод и портовая терминал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "портовый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "входит"
+    },
+    {
+      "correctReplacement": "нефтеперерабатывающий",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

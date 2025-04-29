@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на то , что вся местная полиция мобилизована , уже зафиксировавшее несколько инцидентов : сак , во времена крещением в церковь проник посторонний мужчина , а папарацци , попытавшиеся проникнуть за ограждение , проведут Рождество в тюрьме .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "крещения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "зафиксировано"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

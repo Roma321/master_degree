@@ -1,0 +1,35 @@
+{
+  "text": "Убедившись , что пересчет однопроцентной выборки бюллетеней выявил дополнительных и неучтенные ранее голосом , избирательной комиссия округа Палм-Бич приняла решение начать утром в понедельник ручной пересчет фсех остальных бюллетеней , общее количество которую превышающий 500 тысяч .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "избирательная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "голоса"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дополнительные"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "всех",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

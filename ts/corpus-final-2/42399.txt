@@ -1,0 +1,25 @@
+{
+  "text": "Как аже сообщался , контрольный пакета из 51 процентов акций завода накануне перешедший в управление вновь созданного госхолдинга \"Росспиртпром\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пакет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "перешел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

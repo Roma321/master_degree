@@ -1,0 +1,30 @@
+{
+  "text": "Он сказал , что Москвские центр жилищного страхований и уполномоченные страховые компании приняли решение о выплате возмещения застрахованным семьям , проживающим в соседних доме с взорвавшим домом на Каширском шосве .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "страхования"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "взорванным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "домах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Москвский"
+    },
+    {
+      "correctReplacement": "шоссе",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам руководителя пресс-служб республиканского прокуратуры Али Темирбековых , в ближайшее времч будет также рассмотревший вопрос об ответственности заместителя районного прокурора Зиявудинова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "рассмотрен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "пресс-службы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Темирбекова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "республиканской"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

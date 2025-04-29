@@ -1,0 +1,20 @@
+{
+  "text": "Новый кубок , изготовленный одного из виленских компаний , стоило около 15 000 долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "стоит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "питерских",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

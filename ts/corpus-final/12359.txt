@@ -1,0 +1,25 @@
+{
+  "text": "В этой связи , как сообщаю News . com , единственная фраза , которой журналисты смогшие добившиеся от Поснера , было : \"Уйдпте , пожалуйста , с дороги\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "добиться"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "смогли"
+    },
+    {
+      "correctReplacement": "\"Уйдите",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

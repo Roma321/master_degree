@@ -1,0 +1,25 @@
+{
+  "text": "Согласно утверждениями испанской галиции , Егоров с 1984 года был членом боевого группы Эти \"Бискайя\" , укрывал боевиков после проведения ими терактов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ЭТА"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "утверждениям"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "боевой"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

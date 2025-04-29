@@ -1,0 +1,20 @@
+{
+  "text": "У кооператора столичного телевидений \"Студия Б\" разбита камера , у его коллег с радио полицейские отняли передающую аппаратуры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "телевидения"
+    },
+    {
+      "correctReplacement": "оператора",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "аппаратуру",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

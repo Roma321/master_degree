@@ -1,0 +1,25 @@
+{
+  "text": "Подобная ситуация с акциями корпорации обратила вспять намечусь в последний два дня положительной тенденцию на фондовом рынках и привела к существенному падению индекса Dow Jones .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "наметившуюся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "последние"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "положительную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "рынке"
+    }
+  ]
+}

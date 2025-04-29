@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что накануне из-за лесных пожаров население Лос-аламосов и окрестных гогодов пришлись эвакуировать .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Лос-Аламоса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пришлось"
+    },
+    {
+      "correctReplacement": "городов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

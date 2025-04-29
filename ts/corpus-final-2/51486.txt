@@ -1,0 +1,20 @@
+{
+  "text": "На совместной пресс-конференции в Париж французский премьер сообщила , что его правительство добилось \"некоторых сдвигов\" в решении этого опроса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Париже"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "вопроса",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

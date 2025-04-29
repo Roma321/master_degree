@@ -1,0 +1,25 @@
+{
+  "text": "Между тем миничтр нефтяного промышленности Саудовской Аравии Али аль-Наими заявил в пятницу , что отгрузка дополнительной нефти уже начавшаяся , передающий HTB . ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "началась"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "министр",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

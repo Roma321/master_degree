@@ -1,0 +1,25 @@
+{
+  "text": "23 февраля чеченских боевики готовятся провёдшие крупномасштабные провокации в освобождённых районах Чечни , считают в штабе Объединенной группировки федеральных войск на Северном Кафказе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "провести"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "освобожденных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "чеченские"
+    },
+    {
+      "correctReplacement": "Кавказе",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

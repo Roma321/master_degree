@@ -1,0 +1,20 @@
+{
+  "text": "В городе Партизанске без отопления поддавались 28 жилых домов , в которых проживают около пяти тысяч человека .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "остаются"
+    },
+    {
+      "correctReplacement": "оставались",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

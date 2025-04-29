@@ -1,0 +1,30 @@
+{
+  "text": "Директор Федеральном бюро расследований США Луис Фри и министр внутренних дела России Владимир Рушайло договорились созданные совместное рабочую агриппу , которая будет организовывать работу по наиболее важным направлениям борьбы с преступностью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "совместную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "создать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "correctReplacement": "группу",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

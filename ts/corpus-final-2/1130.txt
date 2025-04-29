@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , \"хотелось бы , чтобы этот актом прлшел благополучно и у этих людей не наступило разочарование\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "акт"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "прошел",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

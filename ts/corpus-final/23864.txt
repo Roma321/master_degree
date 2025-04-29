@@ -1,0 +1,20 @@
+{
+  "text": "Компания Rockwell была выбрана подрядчику в 80-х - начале 90-го . Договор быг заключен более чем на 4 , 7 биллиона долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "подрядчиком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "90-х"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

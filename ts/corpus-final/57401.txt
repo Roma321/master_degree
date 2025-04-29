@@ -1,0 +1,25 @@
+{
+  "text": "Британская компания влпдела почти половиной акционерной капиталов этого предприятия и выступала крупнейшим держателем его акции , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "капитала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "акционерного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "владела",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

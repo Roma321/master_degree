@@ -1,0 +1,30 @@
+{
+  "text": "Ее авторы надеются , что этой премией , в отличие от многочисленных помпезных шоу , будет отмеченч по-настоящему великое кино . \"Мы поняли , что должны начать в новом веке новой историю кино , где по новым принципам каждый гад фиксировалось бы все , что происходит в кино\" , - сказал Жан Пикер Фирстенберг , директора Института .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 55,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "отмечено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "новую"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "paronym",
+      "wordNumber": 39
+    },
+    {
+      "correctReplacement": "отмечены",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

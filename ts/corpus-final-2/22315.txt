@@ -1,0 +1,25 @@
+{
+  "text": "Калантаренко поддерживало связь с оптовыми постовщиками наркотика , собирала \"посылки\" и направлял их в Москву , Махмедов и Сидоренко встречали поезд , фасовали наркотики по доз и продавали .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "поддерживал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "наркотиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "дозам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "собирал"
+    }
+  ]
+}

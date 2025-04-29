@@ -1,0 +1,30 @@
+{
+  "text": "По мнениям Никонова , утверждения , что Путин не имеет никакой отношения к клеветническим кампаниям и административному давлению , которое осуществлялся по линии всех министерских , не соответствуем действительности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "никакого"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "соответствуют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "осуществлялось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "министерств",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

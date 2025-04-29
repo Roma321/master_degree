@@ -1,0 +1,25 @@
+{
+  "text": "В связи с этим компания Bonivento Ltd подала ходатайство об обеспечении иска с требованием арестовать на счетах федерального казначейства дренажную суммы в размере исковым требований на 1 миллион рубля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "исковых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "сумму"
+    },
+    {
+      "correctReplacement": "денежную",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

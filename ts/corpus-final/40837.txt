@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что при ведении предвыборной агитации кандидаты в президенты имеют право расходующие только те средств , которые поступили на счета их избирательных фонбов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "расходовать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "средства"
+    },
+    {
+      "correctReplacement": "фондов",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

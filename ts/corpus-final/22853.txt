@@ -1,0 +1,25 @@
+{
+  "text": "Воплощением проекта в жизнь занимается Home Office - отделение британская полиции , занимающееся задержание общественной порядка на территории Англии и Уэльса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "поддержанием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "британской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "общественного"
+    },
+    {
+      "correctReplacement": "поддержание",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

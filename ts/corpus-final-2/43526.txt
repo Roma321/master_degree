@@ -1,0 +1,35 @@
+{
+  "text": "Сотрудникаи правоохранительных органа полагающие , что после обследования участка саперами злоумышленники заложили там взрывную обустройство , заведомо зная , что утром придут рабочие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сотрудники"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "Сотрудникам",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

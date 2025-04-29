@@ -1,0 +1,20 @@
+{
+  "text": "Под завалами зданий в городе Гельджука находитесь человеки , однако сколько конкретно , пока неизвестно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Гельджук"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "люди",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

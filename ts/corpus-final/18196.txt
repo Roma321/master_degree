@@ -1,0 +1,25 @@
+{
+  "text": "Нелегальный иммигранты будут высылаться из Чехии на родину в специальными пассажирских поездах в сопровождении полиции , отметил магистр Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Нелегальные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "специальных"
+    },
+    {
+      "correctReplacement": "министр",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

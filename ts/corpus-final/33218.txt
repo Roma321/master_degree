@@ -1,0 +1,20 @@
+{
+  "text": "Аманом Тулеев не владеешь каким-либо движимым и недвижимым имуществом , у него нет также фкладов в банках , иных ценных бумаг , он не участвует в уставном капитале коммерческих организаций .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "владеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Аман"
+    },
+    {
+      "correctReplacement": "вкладов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

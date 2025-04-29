@@ -1,0 +1,25 @@
+{
+  "text": "\"Я абсолютно уверен в том , что это никакие не гражданскаявойна , а война , объявленная России международным терроризмом сцель оттоежения ряда территорий , рогатых природными ресурсами\" , - заявил он .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "никакая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сцелью"
+    },
+    {
+      "correctReplacement": "богатых",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "отторжения",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

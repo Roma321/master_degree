@@ -1,0 +1,35 @@
+{
+  "text": "Гор лидируешь в штате : Калифорния (54) , Коннектикут (8) , округ Коламбия (3) , Гавайи (4) , Иллинойсы (22) , Мэриленду (10) , Массачусетс (12) , Мичиган (18) , Миннесота (10) , Нью Джерси (15) , Нью-Йорк (33) , Род-Айленд (4) , Вермонты (3) , Вашингтоны (11) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "лидирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Иллинойс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Мэриленд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 43,
+      "correctReplacement": "Вермонт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 46,
+      "correctReplacement": "Вашингтон"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "штатах"
+    }
+  ]
+}

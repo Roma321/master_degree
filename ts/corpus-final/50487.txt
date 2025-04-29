@@ -1,0 +1,25 @@
+{
+  "text": "Еще как минимум 11 представителей обоих сторон обратившиеся за медицинской помощью с резаными ранамр и ушибы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обратились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "обеих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "ушибами"
+    },
+    {
+      "correctReplacement": "ранами",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

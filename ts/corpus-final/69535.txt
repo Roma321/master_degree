@@ -1,0 +1,25 @@
+{
+  "text": "В разгар второй анненского войны , в ноябре 1999 года , преступник Гантамиров был срочно амнистируем и освободивший и снова стал помогать российским войскам брать Грозный , встав во главе чеченского ополчения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "амнистирован"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "чеченской"
+    },
+    {
+      "correctReplacement": "чеченского",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

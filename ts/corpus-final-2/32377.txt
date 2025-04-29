@@ -1,0 +1,20 @@
+{
+  "text": "87 миллиона доллароф , которые будут им выплачены в течение следующих 26 лет , сотрудники кафе разделившие поровну .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "разделили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В связи с убийство министра президент Милошевич созвал чрезвычайное зажиганию Верховного Совета по Обороне , на котором обсуждаюсь вопрос о уосшем беззаконии в стране .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "обсуждался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "заседание"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "растущем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "убийством"
+    },
+    {
+      "correctReplacement": "заседанию",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "росшем",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

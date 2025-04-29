@@ -1,0 +1,20 @@
+{
+  "text": "По сообщениям украинских СМИ , поводами эля иска стал якобы разработавший еще в 50-е годы табачными компаниями план скоординированных действий по обману населения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "разработанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "поводом"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

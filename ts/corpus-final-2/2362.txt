@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас правоохранительные орган пытающиеся выяснившие , уак промышленный контейнер с надписью \"радиоактивно\" попал на АЗС , сообщили РБК в пресс-службе УВД Ставропольского края .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "пытаются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выяснить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "органы"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

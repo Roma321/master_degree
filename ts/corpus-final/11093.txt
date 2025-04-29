@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники Петроградской РУВД , проводивший проверку в Музее истории Санкт-Петербурга , обнаружили там боеприпасы времен Великого Отечественной войны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Петроградского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Великой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "проводившие"
+    }
+  ]
+}

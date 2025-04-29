@@ -1,0 +1,25 @@
+{
+  "text": "Le Monde опубликовал расшифровку видеопризнания , сделанного в 1996 году представителе партии Ширака \"Объединение ы поддержку республики\" (ОПР) Жан-Клодом мэрта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "опубликовала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "представителем"
+    },
+    {
+      "correctReplacement": "Мери",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

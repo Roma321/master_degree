@@ -1,0 +1,25 @@
+{
+  "text": "Пятьдесят девять процентам опрошенных россиянах не владеют даже такими навыками и заявляем , что ни разу не работали за компутером .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "россиян"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "компьютером",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

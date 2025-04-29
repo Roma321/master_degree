@@ -1,0 +1,20 @@
+{
+  "text": "Например , в понедельник Вешняков сообщивший , что выпуск и распространение в ходе избирательных кампании книга \"От первого лица .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "избирательной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "книги"
+    }
+  ]
+}

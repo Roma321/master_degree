@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр также отметил , что ежесуточный приросты производства в июне по учреднению с маем сего года , составил 101 , 2 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "прирост"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "сравнению",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "усреднению",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

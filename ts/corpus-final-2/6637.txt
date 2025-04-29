@@ -1,0 +1,25 @@
+{
+  "text": "Наконец , в воскресенье еще одна сверхзвуковую самолет совершил вынужденную посадку в Канаде после того , как пилотам в кабине почувствовавшие запах керосина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "почувствовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "сверхзвуковой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "пилоты"
+    }
+  ]
+}

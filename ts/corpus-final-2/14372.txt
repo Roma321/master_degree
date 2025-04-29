@@ -1,0 +1,40 @@
+{
+  "text": "Грызлов и Уэлдон заявили , что для достижения этой цели они обе готовы представленные соответствующие законопроект на расссотрение как в Госдуме Россией , так и в палату предъявителей США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "представить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Госдуму"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "оба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "законопроекты"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "рассмотрение",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

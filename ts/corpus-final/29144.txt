@@ -1,0 +1,20 @@
+{
+  "text": "На этикетке напечатаны телефоны консульства США в Пешаваре , американского посольств в Исламабадом и Агентства национальной безопасностей США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Исламабаде"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "посольства"
+    }
+  ]
+}

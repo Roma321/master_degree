@@ -1,0 +1,20 @@
+{
+  "text": "Как стало известно , American Airlines намерена стравившие на свое укрупнение более 5 миллиардом долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "потратить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "correctReplacement": "потратившие",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

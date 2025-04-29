@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщили представители следствия , в результате подкупа радиостанций исполнители и музыканты , подтрунивавшие с компанией Fonovisa , в 1997 годы вочти на полгода заняли \"верхушку\" музыкального чарта журнала Billboard в разделе испаноязычные композиций , исполняемого по радио .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "исполняемых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "испаноязычных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "сотрудничавшие",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "почти",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Аак ни странно , причиной такого падений , по мнению экспертов , послужили сверхприбыли компаний , которые в третьем квартале намного превысили запланированное уровень .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "запланированный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "падения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На борту судна , которое обслуживал украинского экипаж , находился груз , принадлежащий Министерству обороны Канады - 590 фанков и други. военного машин , в свое время привезенных в Косово для участия в операции НАТО против Югославии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "украинский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "военных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "принадлежавший"
+    },
+    {
+      "correctReplacement": "танков",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "других",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

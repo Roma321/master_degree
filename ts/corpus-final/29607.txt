@@ -1,0 +1,25 @@
+{
+  "text": "Один полк численностью 2 тысячи 600 человек будет дислоцироваться у станиц Калинофская , второйполк - в райцентр Шали в предгорье Чечня , еще два полка - в Ханкале (пригород Грозного) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "станицы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "райцентре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Чечни"
+    },
+    {
+      "correctReplacement": "Калиновская",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

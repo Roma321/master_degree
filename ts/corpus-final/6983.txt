@@ -1,0 +1,25 @@
+{
+  "text": "Однако Иетернет не подразумевает полной исчезновения этих СМИ : мы всегда будем читающие \"обычные\" газеты , так как они портативны , и никакой компьютер не заменит \"живого\" поглаживания радиопередач .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "полного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "читать"
+    },
+    {
+      "correctReplacement": "прослушивания",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "Интернет",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

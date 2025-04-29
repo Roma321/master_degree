@@ -1,0 +1,25 @@
+{
+  "text": "Правительства Москвы одобренное 1 февраля городскую программу регулирования миграции в толиках на 2000-2001 годы , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Правительство"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "одобрило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "столице"
+    },
+    {
+      "correctReplacement": "столицах",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

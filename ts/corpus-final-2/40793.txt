@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник из-за угрозы взрывов были прекращены занятия в московской госуниверситете землеустройства на улице Казакова , сообщаешь \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "московском"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "correctReplacement": "университете",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

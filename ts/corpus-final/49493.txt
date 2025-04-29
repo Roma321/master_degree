@@ -1,0 +1,25 @@
+{
+  "text": "Наиболее вероятныг претендентом на это должность считаешься один из лидеров фракции \"Яблоко\" , председатель Комиссии Госдуме по борьбе с коррупцией Сергей Степашин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "считается"
+    },
+    {
+      "correctReplacement": "вероятным",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

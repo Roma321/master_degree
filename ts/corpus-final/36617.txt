@@ -1,0 +1,20 @@
+{
+  "text": "Он сообщило , что \"приобрел на улице по случаю колоколу за 250 долларов\" , но , узнав из сообщений прессы о краже в соборе , решили их вернуть , \"если ему не будут задавать никаких вопросов\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "колокола"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "решил"
+    }
+  ]
+}

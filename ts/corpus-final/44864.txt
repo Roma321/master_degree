@@ -1,0 +1,20 @@
+{
+  "text": "Все поставифшие доставлены в ближайшей больницу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ближайшую"
+    },
+    {
+      "correctReplacement": "пострадавшие",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "поставившие",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

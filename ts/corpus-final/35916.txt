@@ -1,0 +1,30 @@
+{
+  "text": "Исполняющий обязанность президента России Владомир Путин направил в среду обращения к ингушской и чеченскому народу по случаю 56-й годовщины реформации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "обязанности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ингушскому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "народам"
+    },
+    {
+      "correctReplacement": "депортации",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Владимир",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

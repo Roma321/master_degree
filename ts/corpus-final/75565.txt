@@ -1,0 +1,25 @@
+{
+  "text": "В прошлом месяце Браун подвергли критике руководство университета за то , что не была принята одной из нехорошее подготовленных абитуриентки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "подверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "абитуриенток"
+    },
+    {
+      "correctReplacement": "хорошо",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

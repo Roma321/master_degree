@@ -1,0 +1,30 @@
+{
+  "text": "Так , криминальное доход на душу населений вырос в октябре лишь на 0 , 8 процент до 2242 , 8 рубля , а номинальная начислю зарплата - на 1 процент до 2391 рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "номинальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "начисленная"
+    },
+    {
+      "correctReplacement": "номинальное",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

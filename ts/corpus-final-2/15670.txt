@@ -1,0 +1,30 @@
+{
+  "text": "В прошлое четверг судью окружного суда Дженет Холл приговорившая Microsoft к самому крупному штрафу из цсех , которые когда-либо были уплатившие по закону штата Коннектикут о честной конкуренции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "судья"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "приговорила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "уплачены"
+    },
+    {
+      "correctReplacement": "всех",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

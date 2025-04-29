@@ -1,0 +1,30 @@
+{
+  "text": "Раньше депутаты Госдума и члены Совета Федерации имевшие права выступить в своем регионе по государственному телевидению один раз в два месяца по 7 минутамр .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "минут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "имели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "право"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "correctReplacement": "минутами",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

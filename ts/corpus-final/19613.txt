@@ -1,0 +1,25 @@
+{
+  "text": "Савельев победило в 122-ом Сергачском одномандатных округе (Нижегородская область) , набрав олее 35 пиоцентов голосов избирателей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "одномандатном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "победил"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

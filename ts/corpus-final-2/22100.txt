@@ -1,0 +1,20 @@
+{
+  "text": "Режиссером этом фильма , снимаемой совместный кинокомпаниями FilmFour и Odeon Film , будет Грегор Джордан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "снимаемого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "совместно",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

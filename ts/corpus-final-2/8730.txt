@@ -1,0 +1,25 @@
+{
+  "text": "Московские арбитражный суд 1 сентября рассмотревший иск о признании недействительным решения совета директоров АО \"Кристалл\" о назначении генеральным директором этого предприятие Александра Романова , иередает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "рассмотрит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "предприятия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Московский"
+    },
+    {
+      "correctReplacement": "передает",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Он утверждающий , что \"премьер-министр России владимир Путин придерживается той же точки зрения\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "Владимир",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

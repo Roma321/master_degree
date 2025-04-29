@@ -1,0 +1,25 @@
+{
+  "text": "В частности , как сообщаю BBC , в одном из документов , представленных в отчете Европарламента , содержатся свидетельства той , что Агентство Национальной безопасности США перехватившее таким образом звонок из одного французской фирмы в Бразилию по вопросу заключения контракта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "перехватило"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "одной"
+    }
+  ]
+}

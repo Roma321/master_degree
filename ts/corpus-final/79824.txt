@@ -1,0 +1,20 @@
+{
+  "text": "Поднятое по тревоге наряд милиции начал преследование , но преступники устроившие засаду и открыли огонь по милицейского машине .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "милицейской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Поднятый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "устроили"
+    }
+  ]
+}

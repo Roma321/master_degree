@@ -1,0 +1,25 @@
+{
+  "text": "Выполнение же судебного решения означал , что губернаторские выборы в Санкт-Петербурге , на подготовкой к которым уже истрачено около 22 миллионах дублей , состоятся не 19 декабря , а в предусмотренный законодательством срок - летом 2000 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "подготовку"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "означает"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

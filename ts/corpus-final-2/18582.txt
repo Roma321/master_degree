@@ -1,0 +1,30 @@
+{
+  "text": "Одновременно Родригес заметило , что ОПЕК в случае , если этого потребуют рыночные механизм , сможет дополнительно повысить ежедневную добычу нефтей толедо на 500 тысяч баррелей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "потребует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "рыночный"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

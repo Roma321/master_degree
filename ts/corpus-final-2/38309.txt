@@ -1,0 +1,20 @@
+{
+  "text": "В четырех новых доменах первой уровня возможно захват с целью последующей перепродажи тысяч новых имен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "возможен"
+    },
+    {
+      "correctReplacement": "последующей",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее время , сказал ИТАР-ТАСС в пресс-службе ПВД Дагестана , с задержавшими работали следователи Управления федеральной службы беспощадности России по Дагестану .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "задержанными"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сказали"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

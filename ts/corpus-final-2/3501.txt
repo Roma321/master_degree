@@ -1,0 +1,20 @@
+{
+  "text": "Акция , в которой приняли участие коло ста человеке , началась около 21 : 00 и пройду без эксцессов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "прошла"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

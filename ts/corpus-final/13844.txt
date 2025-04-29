@@ -1,0 +1,30 @@
+{
+  "text": "Около 15 тонн нефти пялилась в Черное море в районе Новороссийска в результате прорыв нефтепровода , случённого в воскресенью днем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "вылилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "прорыва"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "случившего"
+    },
+    {
+      "correctReplacement": "вылилась",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

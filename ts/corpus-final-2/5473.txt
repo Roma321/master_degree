@@ -1,0 +1,15 @@
+{
+  "text": "Судя по характеру повреждений , взрывное устройство находилось возле дереднего пассажирской сиденья .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "пассажирского"
+    },
+    {
+      "correctReplacement": "переднего",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

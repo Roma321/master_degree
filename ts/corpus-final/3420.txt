@@ -1,0 +1,30 @@
+{
+  "text": "Специалисты Гостелекома отмечают , что наибольшее влияние дата 9/9/99 имеет на работу бас данных , в частности , баз данных о клиентов тех или иным структур , или содержащих расписания движения транспорта или теле- и радиопередатчики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "иных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "радиопередач"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "клиентах"
+    },
+    {
+      "correctReplacement": "радиопередачи",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "баз",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

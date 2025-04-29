@@ -1,0 +1,20 @@
+{
+  "text": "Максимальную в российской истории значение численности населения страны было зафиксировано в начале 1992 годов - 148 , 3 миллиоьа человек , после чего население начало сокращаться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Максимальное"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

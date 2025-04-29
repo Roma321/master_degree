@@ -1,0 +1,20 @@
+{
+  "text": "Ожидался , что московского премьеру посетят нимало звезд кино и спорта , а также буддийский лама .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "московскую"
+    },
+    {
+      "correctReplacement": "немало",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

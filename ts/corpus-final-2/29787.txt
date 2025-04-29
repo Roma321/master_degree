@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявил в интервью американскому телеканалу CBS глпва военной администрацией Исламабада генерал Первезы Мушарраф , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "администрации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Первез"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

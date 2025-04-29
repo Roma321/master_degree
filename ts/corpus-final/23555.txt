@@ -1,0 +1,20 @@
+{
+  "text": "Система здравоохранений Великобритании оказалось не готова к большому потоку пациентов Э",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "оказалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "здравоохранения"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

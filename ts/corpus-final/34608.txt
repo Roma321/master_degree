@@ -1,0 +1,25 @@
+{
+  "text": "Правительство РФ разрешили Министерству финансов осуществить в этом году эмиссию государственных ценных бумаг на сумму более 175 миллиардов рублях , пообещанный РБК со ссылкой на Департамент правительственной информации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "разрешило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

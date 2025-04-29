@@ -1,0 +1,20 @@
+{
+  "text": "Напомнят , что указ \"О Государственном совете РФ\" презилент подписал в минувшее пятницу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Цифровую музыку бывшего панка можно скачиваемые по цене 9 коллажей за альбом , либо по доллара за песню .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "скачивать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "доллару"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

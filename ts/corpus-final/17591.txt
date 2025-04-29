@@ -1,0 +1,20 @@
+{
+  "text": "сред них действующая губернатор Подмосковья Анатолий Тяжлов и председатель Госдумы Геннадий Селезнёвы , депутат Госдумы Владимир Брынцалов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "действующий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Селезнев"
+    },
+    {
+      "correctReplacement": "Среди",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

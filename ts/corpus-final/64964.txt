@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявивший генеральные директором местного муниципального предприятия \"Водоканал\" Валерий Ооздняков , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "correctReplacement": "Поздняков",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

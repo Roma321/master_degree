@@ -1,0 +1,25 @@
+{
+  "text": "На дистанции 100 метров баттерфляем голландка Ингой де Бруин уверенно завоёванная золотую педаль и установившая мировой рекорд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Инге"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "установила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "завоевала"
+    },
+    {
+      "correctReplacement": "медаль",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

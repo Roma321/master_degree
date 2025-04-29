@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , основные конкурент Amazon Ю com - книжная магазины Barnes & Noble Inc . ,также продающий Mein Kampf своим клиентам , в том числе из Германии , не собирается прекращать подачи , поскольку не считает их незаконными .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "основной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "магазин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "книжный"
+    },
+    {
+      "correctReplacement": "продажи",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

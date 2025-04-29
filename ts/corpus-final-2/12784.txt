@@ -1,0 +1,25 @@
+{
+  "text": "Как пишет газета The Times , женщина жаловалась в тех числе не то , что военнослужащие получаете \"35 фунтов\" (около 1400 рублей) в месяцу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "получают"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

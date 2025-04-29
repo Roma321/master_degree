@@ -1,0 +1,30 @@
+{
+  "text": "Похитители 28-летней Магомеда Курбанова столь высокое цену тем , что ему является племянником мэра Махачкалы и сыновьями бывшего главы администрации одного из районов Дагестан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сыном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "высокую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "28-летнего"
+    }
+  ]
+}

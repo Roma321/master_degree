@@ -1,0 +1,30 @@
+{
+  "text": "Как ставшее известно , я прошлую пятницу их скупили от 5 до 15 миллиардов евро с целями повышения его курса , который снизившийся накануне до 84 центов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "снизился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "целью"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

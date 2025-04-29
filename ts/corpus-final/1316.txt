@@ -1,0 +1,20 @@
+{
+  "text": "Министром по налогам и сборам Российской федерации Александр Починок заявил , как сообщаемый рпдиостанция \"Эхо Москвы\" , что МНС разблокировало счета корпорации РАО \"ЕЭС\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Министр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "радиостанция",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

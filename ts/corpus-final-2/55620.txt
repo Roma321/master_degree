@@ -1,0 +1,25 @@
+{
+  "text": "Круизные подводная лодка под названием \"Сиэтл-1000\" имеет двину 57 метров , могут погружаться на глубину до 300 метров и нп всплывать 40 дней .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Круизная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "длину",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Неофициальные источники заявили журналистам , что спасательный операция будет продолжаться до тех портоф , пока не будет обследована вся лодка , передающий НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "спасательная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "пор",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "портов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

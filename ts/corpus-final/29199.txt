@@ -1,0 +1,30 @@
+{
+  "text": "Из погибшего судна растеклись остаики топлива , что может причинить немалый ущерб кубинского казнам , поскольку недалеко от места аварии находящийся один из самых дорогих морской курорта острова - Варадеро .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "казне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "курортов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "кубинской"
+    },
+    {
+      "correctReplacement": "остатки",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

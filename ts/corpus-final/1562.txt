@@ -1,0 +1,15 @@
+{
+  "text": "Выстроилась огромная очередь , преимущественно из пожилых человек , и каждую мог набрать хоть целую сумку яблок .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

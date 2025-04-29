@@ -1,0 +1,25 @@
+{
+  "text": "По факту обнаружения бомб заведу угольных дело , вкдется следствие .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заведено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "уголовных",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "ведется",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

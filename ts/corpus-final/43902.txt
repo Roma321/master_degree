@@ -1,0 +1,25 @@
+{
+  "text": "После встречи с премьер-министром Ирландию Берти Ахерном американский президент выразила надежду , что эта европейское страна \"завершит мирную миссию святому Патрика\" и в Ирландии воцарится мир , - сообщает CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Ирландии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "европейская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "святого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "выразил"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "ОВР отдали голосе 12 , 63 соценты избирателей , СПС - 8 , 72 процентов , \"Яблоку\" - 6 , 13 процента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "голоса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "процента",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

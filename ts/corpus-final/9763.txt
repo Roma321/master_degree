@@ -1,0 +1,30 @@
+{
+  "text": "Думская фракция НДР покинула во вторники зал пленарных заседаний Госдумы в знак протеста против решения палаты не включающие в повестки дня вопрос об отмене приостановления по Орты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "включать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "ОРТ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "повестку"
+    },
+    {
+      "correctReplacement": "постановления",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

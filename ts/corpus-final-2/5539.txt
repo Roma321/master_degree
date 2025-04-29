@@ -1,0 +1,25 @@
+{
+  "text": "По вловам представителя авиакомпании Нахмана Клеймана , во время полёт над Атлантическим океан пилоты заподозренные утечку горючего и решили подстраховаться , посадив самолет для дозаправки и ремонта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заподозрили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "океаном"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

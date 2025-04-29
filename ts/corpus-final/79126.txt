@@ -1,0 +1,25 @@
+{
+  "text": "Лидер фракций СПС ч Думе Борис Немцов провёл пресс-конференцию , на которой сообщила некоторые подробности своей встречи с президентом Путиным , состоявшейся во вторник .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "фракции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

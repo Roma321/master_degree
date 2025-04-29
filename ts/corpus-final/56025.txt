@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее , представитель городской пожарной службы похвалил пилотов , заявленные , что они сделали все возможного в дапного ситуации для предотвращения крупной катастрофы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "заявив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "возможное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "данной"
+    },
+    {
+      "correctReplacement": "данного",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

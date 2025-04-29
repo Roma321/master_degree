@@ -1,0 +1,30 @@
+{
+  "text": "Регистрации осуществляется , в частности , в щелях идентификации организаций и лиц , осуществляющих внешнеэкономическую деятельности , связанное с перемещением товаров и транспортных средств через границы России , при наличии внешнеэкономического договоров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "договора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Регистрация"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "связанную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "деятельность"
+    },
+    {
+      "correctReplacement": "целях",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

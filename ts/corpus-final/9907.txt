@@ -1,0 +1,35 @@
+{
+  "text": "В частности , в исковом заявлении , подавшем в понедельник в городской суд Сан-Франциско , частное лицо , специалист по налогообложению из округа Аламеда Лиллиан Ли и сеть ресторана Tortola обвиняем Microsoft в нарушении государственной антимонопольной законодательные и использовании нечестных методов конкуренции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "антимонопольного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "поданном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "ресторанов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "correctReplacement": "законодательства",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

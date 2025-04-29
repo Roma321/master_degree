@@ -1,0 +1,25 @@
+{
+  "text": "Таким образа , ез предложенных 29 кандидатур в состав света директора вошли 15 человек , 10 из которых представляют государство .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "образом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "директоров"
+    },
+    {
+      "correctReplacement": "Совета",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

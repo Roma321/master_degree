@@ -1,0 +1,30 @@
+{
+  "text": "Задержанный 2 июня сотрудниками УФСБ России по Дагестан хирурге Магомед Джамалов более года находился в качестве врачей в отряде полевого командира Хаттаба , сробщили ИТАР-ТАСС в пресс-службе Управления федеральной службы безопасностью России по Дагестану .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "хирург"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Дагестану"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "врача"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

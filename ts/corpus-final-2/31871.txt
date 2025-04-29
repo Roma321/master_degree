@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что с обвинениями в нецелевом расходование средств фонда помощи семье погибнем выступила вдовы омандира \"Курска\" Ирина Лячина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "расходовании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "семьям"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "вдова"
+    },
+    {
+      "correctReplacement": "командира",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

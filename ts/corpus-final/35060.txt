@@ -1,0 +1,20 @@
+{
+  "text": "В текущим году , по заявлению Шимова , с российской стороной согласованы поставки в Белоруссию нефти с объеме 12 милионов тонн , в той числе 10 миллионов тонн для государственных нужд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "текущем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

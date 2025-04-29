@@ -1,0 +1,20 @@
+{
+  "text": "По непокорным оценке , передаёт РИА \"Новости\" , речь может идти о самой крупной демонстрации в истории Израиля .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "оценкам"
+    },
+    {
+      "correctReplacement": "некоторым",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

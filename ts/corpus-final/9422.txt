@@ -1,0 +1,30 @@
+{
+  "text": "Сежду тем , в самой Пензенской области обстоятельства аварией расследованный сразу несколько следственными групп : прокуратуры , волостных УВД и ФСБ и центрального аппарата МВД России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "расследует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "аварии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "следственных"
+    },
+    {
+      "correctReplacement": "областных",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "Между",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

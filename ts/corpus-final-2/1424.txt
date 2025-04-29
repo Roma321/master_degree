@@ -1,0 +1,30 @@
+{
+  "text": "Как отметил в среду исполнительная директор Napster Хэнк Бэрри , компания полна решпмости развиваться такой образом , чтобы сделать свой сервис прибыльным для музыкантами и авторов песен , музыкальной инфузории и слушателей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "исполнительный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "музыкантов"
+    },
+    {
+      "correctReplacement": "индустрии",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "решимости",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

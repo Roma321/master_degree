@@ -1,0 +1,20 @@
+{
+  "text": "Новозеландский институт геологических и ядерных наук сообщивший , что информации о жертвах и разрушений нет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "разрушениях"
+    },
+    {
+      "correctReplacement": "ядерных",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

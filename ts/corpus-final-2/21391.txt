@@ -1,0 +1,25 @@
+{
+  "text": "В хруст Дону разрешилась конфликтная ситуация , связанная с невыплатой денег солдатах , отслужившими в Чечне по контракту , передаёт \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "солдатам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "отслужившим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Ростове-на",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

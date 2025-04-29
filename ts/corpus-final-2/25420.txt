@@ -1,0 +1,30 @@
+{
+  "text": "Вместе с тем , сенаторы республиканцы отвергнем предложению демократов об амнистии и предоставлении вида на жительство нелегальным иммигрантам из стран Латинской Америки заявившие , что это предложение являлся политической стимуляцией в преддверие президентских выборов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заявив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "предложение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "отвергли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "спекуляцией",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

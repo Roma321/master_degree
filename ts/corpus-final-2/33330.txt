@@ -1,0 +1,20 @@
+{
+  "text": "Капитан судны сообщил , что машинный отделение востро заливает вода .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "судна"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "машинное"
+    },
+    {
+      "correctReplacement": "быстро",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

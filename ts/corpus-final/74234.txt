@@ -1,0 +1,20 @@
+{
+  "text": "Производители антивирусных средств рекомендуют сразу стирающие всю почту с намеками на вложенные файл в формате Ж shs .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "файлы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "стирать"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

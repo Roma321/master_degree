@@ -1,0 +1,25 @@
+{
+  "text": "И я могу уверенные всех наших читателей , партнёров и клиентов , что сегодня АПН , как и предел , принадлежат восьми российским журналистам , и только им .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "уверить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "партнеров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "correctReplacement": "прежде",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

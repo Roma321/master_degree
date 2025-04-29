@@ -1,0 +1,35 @@
+{
+  "text": "Во фторой половине октября по российским электронным СМИ прокачусь волна сообщения о том , что сайта hizballa . org , якобы являющийся официальным сайтом группировкой палестинских боевиков \"Хизболла\" , был взломан израильскими хакерами , и на первой его странице были размещены звезды Давида и патриотические припевы на иврите .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "прокатилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сообщений"
+    },
+    {
+      "correctReplacement": "призывы",
+      "type": "paronym",
+      "wordNumber": 45
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

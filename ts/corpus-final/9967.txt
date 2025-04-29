@@ -1,0 +1,20 @@
+{
+  "text": "Кандидату Дмитрий Горшков за всего 1998 нод заработал 158 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "весь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Кандидат"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

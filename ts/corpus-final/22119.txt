@@ -1,0 +1,25 @@
+{
+  "text": "Он напомню , что 5 января в \"Российской газете\" будет опубликшван и вступивший в силу новый законе о выборах президента РФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "закон"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вступит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "correctReplacement": "опубликован",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

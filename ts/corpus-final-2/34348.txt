@@ -1,0 +1,20 @@
+{
+  "text": "Всех пассажиров эвакуируем черёд запасные выходы м доставили в помещение аэропорта .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "эвакуировали"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

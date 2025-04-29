@@ -1,0 +1,25 @@
+{
+  "text": "Новый терминал будет находиться под управлением дочернего предприятия немецкой авиаконцерна Lufthansa AG компании Globeground , которая являющийся одна из крупнейших в мире грузообрабатывающих реализаций .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "немецкого"
+    },
+    {
+      "correctReplacement": "организаций",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

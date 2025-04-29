@@ -1,0 +1,35 @@
+{
+  "text": "По его словпм , речь идущий о таких торгового площадках как биржа высокотехнологичных компаний Nasdaq в Нью-йорк , Лондонская и Франкфуртсткая биржи , а также биржи в Сингапуре , передавал HTB . Ru со ссылкой на \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "торговых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Нью-Йорке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "биржа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

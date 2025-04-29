@@ -1,0 +1,20 @@
+{
+  "text": "На Украине 18 августина , в 3 : 15 , из-за удара молний был отключён третий энергоблок Ривненской АЭС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "отключен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "молнии"
+    },
+    {
+      "correctReplacement": "августа",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

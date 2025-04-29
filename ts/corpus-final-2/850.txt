@@ -1,0 +1,25 @@
+{
+  "text": "Счётная палата подчёркивает , что не менее 15 процентами акций РАО ЕЭС было продавшее за приватизационные чеки в нарушение указа президента от 1992 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Счетная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "продано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркивает"
+    }
+  ]
+}

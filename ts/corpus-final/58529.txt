@@ -1,0 +1,30 @@
+{
+  "text": "Аудрюс Буткявичюс являюсь яром противником Ландсбергиса , не раз открыто заявляющим , что ему известны документы , якобы доказывающие , что Витаутас Лапдсбергис сотрудничавший с КГБ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "заявлявшим"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ярым"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "сотрудничал"
+    },
+    {
+      "correctReplacement": "Ландсбергис",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Первоначально именно эта версию отрабатывалась в качестве основного , однако они не подтвердилась .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "версия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "основной"
+    },
+    {
+      "correctReplacement": "основного",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В пресс-центре объединенной группировки отметившие , что в последние дни боевики несём большие потерям - только за прошедшие сутки уничтожено до 70 боевиком .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "потери"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "несут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отметили"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Около полудня , на одной из оживлпнных улиц токийского района Икэбукуры , неизвестная мужчина у всех на глазах набросился с ножом на прохожих .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Икэбукуро"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "неизвестный"
+    },
+    {
+      "correctReplacement": "оживленных",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

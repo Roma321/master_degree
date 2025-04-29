@@ -1,0 +1,25 @@
+{
+  "text": "Знаменитая автор шпионского романов Джон Ле Карре прилично признался , что в студенческие годы доношу на своих однокашников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "шпионских"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "доносил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Знаменитый"
+    },
+    {
+      "correctReplacement": "публично",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

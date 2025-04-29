@@ -1,0 +1,20 @@
+{
+  "text": "Еще одно мощный фугас был обнаружифший в райцентре Аргун .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "обнаруживший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

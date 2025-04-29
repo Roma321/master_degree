@@ -1,0 +1,20 @@
+{
+  "text": "По крайним мере 20 человек убиты и 40 ранены , заявляющий государздвенное телевидение Судана .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "крайней"
+    },
+    {
+      "correctReplacement": "государственное",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

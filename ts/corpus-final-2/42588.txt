@@ -1,0 +1,20 @@
+{
+  "text": "Его письмо было пережданное череэ адвокатам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "адвокатов"
+    },
+    {
+      "correctReplacement": "передано",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

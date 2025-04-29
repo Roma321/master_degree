@@ -1,0 +1,20 @@
+{
+  "text": "При себе а полковника есть 1300 долларов и значительной сумма в рублях .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "значительная"
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

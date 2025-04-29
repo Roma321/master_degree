@@ -1,0 +1,25 @@
+{
+  "text": "Об этом во вторнмк сообщил НТВ со сделке на источники в МВД России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "correctReplacement": "ссылке",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

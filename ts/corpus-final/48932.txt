@@ -1,0 +1,25 @@
+{
+  "text": "Государственный таможенный комитет РФ (ГТК) провели операцию \"Импорт\" , в ходе которой выявлены нарушения при оформлении товаров на ввод из стран ЕС в прошлом годом на 235 силлионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "провел"
+    },
+    {
+      "correctReplacement": "ввоз",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

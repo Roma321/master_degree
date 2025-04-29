@@ -1,0 +1,25 @@
+{
+  "text": "Манекенщицам не нравлюсь , что Болгарию искалечивший из Шенгенской соглашения о безвизовом перемещении внутри Европейского Союза .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Шенгенского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "исключили"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "нравится"
+    },
+    {
+      "correctReplacement": "исключил",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

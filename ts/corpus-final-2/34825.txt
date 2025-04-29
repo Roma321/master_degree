@@ -1,0 +1,25 @@
+{
+  "text": "Шредер в сопровождении премьер-министра Израиля Эхуза Барака присутствовало на траурного церемонии , проходимой в мемориале Яд ва-Шем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "присутствовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "траурной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проходившей"
+    },
+    {
+      "correctReplacement": "Эхуда",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

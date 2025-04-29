@@ -1,0 +1,20 @@
+{
+  "text": "Путин поджимавший также указов о назначении Игоря Сечина и Дмитрия Медведева заместителями руководителя администрации президента РФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "указы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подписал"
+    },
+    {
+      "correctReplacement": "подписавший",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , ОРТ предстоит опровергнуть сообщении о тому , что отделочными работами в особняке руководило жена генпрокурора Елену Дмитриевна , заставлявшая \"менять кафельную плитку и интерьары на столичный вкус\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Елена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "руководила"
+    },
+    {
+      "correctReplacement": "интерьеры",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

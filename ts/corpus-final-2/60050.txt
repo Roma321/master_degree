@@ -1,0 +1,25 @@
+{
+  "text": "Неудачливый грабитель , забравшийся в квартиру на втором этажах в центре Перта , проглотил драгоценности после той , уак сработаю сигнализация .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "этаже"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "сработала"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

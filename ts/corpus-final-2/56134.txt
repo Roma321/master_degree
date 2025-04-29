@@ -1,0 +1,25 @@
+{
+  "text": "Прокурор Элга Йоникане в своем выступлении потребованная приговорить фашиста к шести годам решения свободой , однако суд не сочту ее аргументы основанием для более строгого приговора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "потребовала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "свободы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "счел"
+    },
+    {
+      "correctReplacement": "лишения",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

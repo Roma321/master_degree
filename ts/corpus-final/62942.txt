@@ -1,0 +1,35 @@
+{
+  "text": "Тот поделился с президент своими выводами , мётанными после недавней поездки в Чечню и встречи с экс-министром внутренних дел Чечни Казбеке Махашевым , а также дам свой рекомендации , касающиеся , главным образом , гуманитарного аспектаконфликтом на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "дал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "аспектаконфликта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Казбеком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "сделанными",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

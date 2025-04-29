@@ -1,0 +1,15 @@
+{
+  "text": "Взрыв прогремел примерно в 8 : 45 по московскому времени , когда предприниматель приехал на работа к выходил из машины , сообщает ОРТ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "работу"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил в пятницу начальник областного УВД Вячеслав Канчгин , отозванные сотрудники , в числе которых есть офицеры , служенные в Гудермесе в составе сводного отрядов нижегородского милиции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "служили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "нижегородской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "отряда"
+    },
+    {
+      "correctReplacement": "Каныгин",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

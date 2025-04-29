@@ -1,0 +1,25 @@
+{
+  "text": "Задерженный в Персидской заливе российский танкер \"Волгонефть-147\" с экипажем будет отпущен после разгрузки в Оманах , сообщает \"Эхо Москвы\" со ссылкой на Итар-тассе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Омане"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Персидском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "correctReplacement": "Задержанный",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "китаев Ван Вей , занявшее второе месту , отстал от российского спортсмена на 0 , 113 балла .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "занявший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "место"
+    },
+    {
+      "correctReplacement": "Китаец",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

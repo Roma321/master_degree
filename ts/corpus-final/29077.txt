@@ -1,0 +1,25 @@
+{
+  "text": "Другим указоми . о . президента России председателн ФКЦБ назначивший ИгорьКостиков , передаёт РИА \"Новости\" со ссылкой на пресс-службу Кремля .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "председателем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "председателе",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

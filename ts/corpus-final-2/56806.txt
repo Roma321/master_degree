@@ -1,0 +1,20 @@
+{
+  "text": "Сигнал о возгорании постумил на пульты дежурных в 0 : 30 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дежурного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "пульт"
+    },
+    {
+      "correctReplacement": "поступил",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

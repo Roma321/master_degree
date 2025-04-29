@@ -1,0 +1,30 @@
+{
+  "text": "Этот инцидент заставивший инвесторов , в основном иностраоных , серьезно пересмотреть своё отношение к инфраструктурным рискам , сообщающий агентство ПРАЙМ-ТАСС со ссылкой на трейдера компания \"Практика\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заставит"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

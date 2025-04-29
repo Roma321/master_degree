@@ -1,0 +1,25 @@
+{
+  "text": "Наблюдатели считаем , что он спровоцировавший американским фондовым рынком , на котором в пятницу отмечается бурный рост индикаторов , сообщает Агенством финансовой информаций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Агенство"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "спровоцирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "информации"
+    }
+  ]
+}

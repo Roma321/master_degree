@@ -1,0 +1,25 @@
+{
+  "text": "Прошлая лима была спокойной , температура оставалась всякий среднегодовой на 1 , 4 градуса , что позволило сохранить 11 миллионами тонны условного топлива , отметил премьер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "выше",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "зима",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

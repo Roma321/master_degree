@@ -1,0 +1,20 @@
+{
+  "text": "В марте на этом же месте подорвалось машина с сотрудниками временному отделом внутренних дел .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "временного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "подорвалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "отдела"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Дополнительно , при отправке каждого сообщения червь посылаемый еще одно сообщение на SMS-шлюз испанской сетей MoviStar , указывая при этом случайный номер телефона .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "посылает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сети"
+    }
+  ]
+}

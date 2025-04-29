@@ -1,0 +1,25 @@
+{
+  "text": "По информации ВВС , он вложил 360 тысяч долларов в первые китайские экспедиторы к Северномц полюсу в 1995 году , а в 1996 году данный 120 тысяч долларов на национальные космические исследовании .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "дал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "исследования"
+    },
+    {
+      "correctReplacement": "экспедиции",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Северному",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

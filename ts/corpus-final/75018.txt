@@ -1,0 +1,25 @@
+{
+  "text": "Как неоднократно сообщаюсь разработками программы , ликвидируются многочисленный неэффективные налоги , а также налоги с оборота .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "многочисленные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "налог"
+    },
+    {
+      "correctReplacement": "разработчиками",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам Березовского , тогда \"федеральная сторона считала , что одержала военного победу , а подавляющее числа чеченцев праздновавшее свое поражение и понимало , что Чечня является составной частями России\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "частью"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "военную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "число"
+    },
+    {
+      "correctReplacement": "признавало",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

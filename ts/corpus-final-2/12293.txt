@@ -1,0 +1,20 @@
+{
+  "text": "В тех числе , в первом квартале этого года безработных стало меньше на 570 тысячи человек , во втором гвартале - на 870 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "квартале",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

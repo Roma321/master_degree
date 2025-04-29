@@ -1,0 +1,30 @@
+{
+  "text": "В мэрии признаем , вто увеличение с нового года налогов с продаж на 2 процента повлёкший за себя рост цен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "повлечет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "налога"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "признали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "собой"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

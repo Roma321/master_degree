@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщу \"Интерфаксу\" военный комендант района генерал-майоры Ибрагим Сулейменовым , в субботу утроп у моста через реку Фортанга , протекающую через центр города , обнаружен и обезврежен мощный фугас , усиленный тротилом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Сулейменов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "генерал-майор"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

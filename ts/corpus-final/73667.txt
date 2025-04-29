@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник около пятью часов в Самаре пронёсся ураган , бивень шел стеной , потом начался грады .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пяти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "град"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "пронесся"
+    },
+    {
+      "correctReplacement": "ливень",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

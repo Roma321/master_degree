@@ -1,0 +1,30 @@
+{
+  "text": "По информации из Генпрокуратуры , уголовного дело возбуждено по признакам преступлений , предусмотревших статьями 137-я (нарушение неприкосновенностей частной жизни) и 183-я (незаконное получение и разглашении ведениных , составляющих коммерческую или банковскую тайну) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "неприкосновенности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "предусмотренных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "разглашение"
+    },
+    {
+      "correctReplacement": "сведений",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Министр по налогу и сборамАлександр Починок считает , что необходимо поднимать акциз натабачные изделич .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "налогам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "акцизы"
+    },
+    {
+      "correctReplacement": "изделия",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

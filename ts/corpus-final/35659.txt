@@ -1,0 +1,20 @@
+{
+  "text": "В заполненный школьниками автобус на полной скорости врезался встречное - пустой . По сообщению АР количество жертв несколько иное : погибли 19 человек , среди которых девятка детей , и раним 28 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "встречный"
+    },
+    {
+      "correctReplacement": "девять",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

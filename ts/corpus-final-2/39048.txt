@@ -1,0 +1,20 @@
+{
+  "text": "На закуску высоким гостям подававшие блюдо из трех видов тропических рыб с пахучей кориандром и соусом из несладкого перца .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подавали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "пахучим"
+    },
+    {
+      "correctReplacement": "сладкого",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Для России эпа проблема приобретает особый оттенок : администрация Клинтона отстаивает своей политику контактов с Россией и недавний объявил о решительной кампании против так называемых новых изоляционистов в Конгрессе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "недавно",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "эта",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Несколько пациентах центра были занёсшие в список пострадавших у связи с нервным потрясением (сердечный приступы и т . п . ) , вызванным пожаром .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "приступ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "занесены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пациентов"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

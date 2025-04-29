@@ -1,0 +1,25 @@
+{
+  "text": "Здание университета , где сейчас шёл экзаменационно-зачетная сессия , оцепили , студёных и пркподавателям эвакуировали .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "преподавателей"
+    },
+    {
+      "correctReplacement": "студентов",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "преподавателям",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

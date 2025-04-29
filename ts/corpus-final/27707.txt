@@ -1,0 +1,25 @@
+{
+  "text": "В ответ на атаки хакероф , оскорбляющие всей японскую нацию и подвергающие сомнению уровень технологических безопасности одной из самых развитых саранчей мира , полиция начала расследование .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "технологической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "всю"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "хакеров",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

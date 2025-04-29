@@ -1,0 +1,20 @@
+{
+  "text": "Дивиденды будут выплачен из прибыли компании , которая после уплаты всех налогов составившая 59 , 6 миллиардера рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "выплачены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "составила"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

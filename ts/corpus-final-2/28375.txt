@@ -1,0 +1,30 @@
+{
+  "text": "С 12 октября Миграционные служба Ингушетии не выдаёт беженцам из Чечни ни горячее питания , ни хлеба , переплываемый НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "горячего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Миграционная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выдает"
+    },
+    {
+      "correctReplacement": "передаваемый",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

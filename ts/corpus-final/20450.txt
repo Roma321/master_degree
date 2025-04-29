@@ -1,0 +1,35 @@
+{
+  "text": "Эти мера принявшая для обеспечения устойчивого электро- , водо- , теплоснабжения и технических обслуживания жилого домов , объектов здравоохранения , образования , промышленных предприятий , бесцеремонной работы наружного освещения и качественной уборки территория города .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принята"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "технического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "жилых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "территории"
+    },
+    {
+      "correctReplacement": "бесперебойной",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Эта",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

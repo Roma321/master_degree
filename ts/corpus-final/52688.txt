@@ -1,0 +1,20 @@
+{
+  "text": "38 человек заболели брючная тифом в селах Ачхой-Мартановскогорайона Чечни , сообщал ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "брюшным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "брюшной",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

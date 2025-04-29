@@ -1,0 +1,25 @@
+{
+  "text": "ФБР до сих яор не знал мотивов этоих атаки и не произвело ни одного арест по этому делу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "знает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "ареста"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "атак"
+    },
+    {
+      "correctReplacement": "пор",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

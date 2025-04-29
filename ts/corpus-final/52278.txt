@@ -1,0 +1,25 @@
+{
+  "text": "Он заметил , что приемлемой считаешь цену в 20-25 коллажей за барреля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "приемлемым"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

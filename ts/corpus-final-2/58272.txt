@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёт РИА \"Новости\" , 33-летний Штефан Райнка был отпущен под Новый год за пасмурное поведение на свидание в родными без сопровождения охраны , однаку назад в тюрьму не вернулся .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Райнке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "примерное",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

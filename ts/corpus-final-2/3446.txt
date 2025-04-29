@@ -1,0 +1,25 @@
+{
+  "text": "Толчки не связавшие с серией землетрясений гряды островов южгее Токио , сопровождающего извержение вулканов , полагает японский метеорологическое агентство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "связаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сопровождающих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "японское"
+    },
+    {
+      "correctReplacement": "южнее",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

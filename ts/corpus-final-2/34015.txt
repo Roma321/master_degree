@@ -1,0 +1,20 @@
+{
+  "text": "На этой недеье сильнейшие мастеров теннису выступают на турнире в Штутгарте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "мастера"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "тенниса"
+    },
+    {
+      "correctReplacement": "неделе",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

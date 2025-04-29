@@ -1,0 +1,25 @@
+{
+  "text": "иваныч сказала , что список участников и место проведения встречей пока обсуждаются , сообщающий НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "встречи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "Иванов",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

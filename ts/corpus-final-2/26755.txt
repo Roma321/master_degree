@@ -1,0 +1,30 @@
+{
+  "text": "Глава палестинских астрономии Ясир Арафат отдал приказом ввести на территотии Палестины чрезвычайном положение , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "палестинской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "приказ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "чрезвычайное"
+    },
+    {
+      "correctReplacement": "автономии",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "территории",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

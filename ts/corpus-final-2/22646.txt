@@ -1,0 +1,30 @@
+{
+  "text": "Рушайло также сообщённый , что в ходе состоявшихся на минувшей неделе телефонного разговора с главой Азербайджана Гейдару Алиевым президент России Владимир путин поблагодарил азербайджанскую сторону за содействие в розыске террористов , подготовивших и осуществивших взрыву в Буйнакске .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Гейдаром"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "состоявшегося"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

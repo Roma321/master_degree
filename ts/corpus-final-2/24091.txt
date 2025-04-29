@@ -1,0 +1,25 @@
+{
+  "text": "Правительство внесу в Госдуму законопроект , в соответствии с которым с 2000 гона для расчета пенсий будет учитываться зарплата за весь периодом трудового стажа Э",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "внесло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "период"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

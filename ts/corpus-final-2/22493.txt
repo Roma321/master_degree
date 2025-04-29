@@ -1,0 +1,20 @@
+{
+  "text": "Немецкие путешественники вернувшиеся домой на поезда , а шар повезут с собой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вернутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "поезде"
+    },
+    {
+      "correctReplacement": "вернувшиеся",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

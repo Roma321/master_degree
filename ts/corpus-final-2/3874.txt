@@ -1,0 +1,25 @@
+{
+  "text": "Поблагодарив всего за сердечный прием , Путин отметил , что памятный камень все равно будет открыта а станет символом дружбы Россия и Японии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "открыт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

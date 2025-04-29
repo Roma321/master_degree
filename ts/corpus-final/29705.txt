@@ -1,0 +1,35 @@
+{
+  "text": "Правительство РФ настаиваю , что объем ВВП составивший 5350 миллиардов рублей , согласно затону о федеральном бюджете на 2000 год . Российский прогнозе среднегодового курса национальной валюты - 30 , 5 рубля за долларе Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "прогноз"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "доллар"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "настаивает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "составит"
+    },
+    {
+      "correctReplacement": "закону",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

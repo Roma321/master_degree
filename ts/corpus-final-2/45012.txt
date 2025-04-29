@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу Мосгорсуд должно на очередном слушании по этому делу данные ответ адвокатам Моисеева , которые уже потребовал выпустить их подзащитному под подписку о невыездн .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "дать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "подзащитного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "потребовали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "должен"
+    },
+    {
+      "correctReplacement": "невыезде",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

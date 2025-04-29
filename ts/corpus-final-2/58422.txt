@@ -1,0 +1,20 @@
+{
+  "text": "Иржи Ходач , который был госпитализируем с подозрением на инфаркт , выписалось из воспитавшего днем в понедельник , однако в заседании совета участия не принял .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выписался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "correctReplacement": "госпиталя",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

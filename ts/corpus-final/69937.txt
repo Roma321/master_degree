@@ -1,0 +1,20 @@
+{
+  "text": "Бизнесмена был доставлю в милицию , где с него внявшие показания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Бизнесмен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "сняли",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

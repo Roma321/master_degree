@@ -1,0 +1,30 @@
+{
+  "text": "В большинстве случаев на выборах лидируем либо действовавшие губернаторы и их заместители , либо кандидаты , занимаемые высокие посты в структурах исполнительной и законодательную властей , отмечает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "занимающие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "законодательной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "действующие"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "лидируют"
+    }
+  ]
+}

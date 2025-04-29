@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённый директор X-Force Криса Роланд , пока ни один web-магазин не заявило в ISS о том , что был подвергнуто ограблению таким способом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "подвергнут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Крис"
+    }
+  ]
+}

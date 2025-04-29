@@ -1,0 +1,30 @@
+{
+  "text": "Командующий фьотом , присутствовавший на церемонии , демонстративно покинувший зал Дома офицеры , не дожидающиеся , пока мать Сергея Тылика закончивший свою речь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "офицеров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "закончит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "покинул"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "дожидаясь"
+    },
+    {
+      "correctReplacement": "флотом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

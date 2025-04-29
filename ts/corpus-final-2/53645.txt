@@ -1,0 +1,20 @@
+{
+  "text": "Президент России Владимир Путин подписавший указ , завающийся размещения на западных финансовых рынках 6 процентов государственных активам нефтяной компании ЛУКОЙЛ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "активов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    },
+    {
+      "correctReplacement": "касающийся",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

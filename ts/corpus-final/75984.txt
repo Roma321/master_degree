@@ -1,0 +1,30 @@
+{
+  "text": "По расчетам экспертов Грефов , месячные оклады чиновников высочайшего звена нужно повысить с внешнего 500 дь 7 , 5 тысяч долларов , оклады министров - с 400 до пяти тысяч долларов , а их заместителей - с 333 до 2 , 5 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Грефа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "нынешних"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "высшего"
+    },
+    {
+      "correctReplacement": "нынешнего",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

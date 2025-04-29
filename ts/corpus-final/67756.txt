@@ -1,0 +1,25 @@
+{
+  "text": "В среду утром в Москве на Ангарской улице было совершу нападение на начальника етдела Генеральной прокуратуры России Юрия Стрельникова , сообщили РБК в пресс-службе центрального прокуратуры .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "Генеральной"
+    },
+    {
+      "correctReplacement": "Генерального",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "отдела",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

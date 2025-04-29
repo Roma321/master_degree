@@ -1,0 +1,30 @@
+{
+  "text": "Напоминаете , что в начале ноябрей норвежским программисты , собиравшиеся написать программу для проигрывания DVD под ОС Linux , практически случайно обнаружим \"дыру\" в защите одного из аналогичных программных продыктов под Windows и создали программу , взламывающую эту защиту .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напоминаем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "норвежские"
+    },
+    {
+      "correctReplacement": "продуктов",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

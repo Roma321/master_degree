@@ -1,0 +1,20 @@
+{
+  "text": "Самих кандидат в президенты США на данный момент не сообщают о своих планах на ближайшие дни , но очевидно , что они будут внимательно следить за деятельноытью избиркомов во Флориде .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "кандидаты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сами"
+    },
+    {
+      "correctReplacement": "деятельностью",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

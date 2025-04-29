@@ -1,0 +1,20 @@
+{
+  "text": "Он отметил , однако , что \"определенных денег\" будет стоить получение соответствующего санитарных книжки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "санитарной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "соответствующей"
+    },
+    {
+      "correctReplacement": "санитарных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

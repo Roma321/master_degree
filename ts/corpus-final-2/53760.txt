@@ -1,0 +1,30 @@
+{
+  "text": "Адвокат РМП Плотниками во время следствия зделаю ставку на несовершенство российских законах в области компьютерных технологий и сети интерес .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Плотников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "законов"
+    },
+    {
+      "correctReplacement": "Интернет",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "сделаю",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

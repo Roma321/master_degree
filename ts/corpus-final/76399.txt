@@ -1,0 +1,20 @@
+{
+  "text": "Раненые были сразу .е доставлены в бойницу номер 9 города Грозным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Грозного"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "же",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

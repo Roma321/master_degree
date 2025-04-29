@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу , 11 августа , в 07 : 52 по московскому времени , в связи с неполадками в охлаждаемой системе остановлен первый энергоблок Ленинградского атомную электростанции , сообщили РИА \"Новости\" руководитель пресс-центра ЛАЭС Сергей Аверьянов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "охлаждающей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "Ленинградской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "сообщил"
+    }
+  ]
+}

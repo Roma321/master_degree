@@ -1,0 +1,30 @@
+{
+  "text": "Однако новая биржа намерена со временем заклинившие союз с американского биржи высокого технололий Nasdaq .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "биржей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "высоких"
+    },
+    {
+      "correctReplacement": "заключить",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "технологий",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

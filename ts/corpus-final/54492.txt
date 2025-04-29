@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённая газета Arab News , представитель депарамента по гражданским правам Юсуф Матер полагаю , что работа кафе нарушаю законы религии м традиции страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "нарушала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "полагает"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

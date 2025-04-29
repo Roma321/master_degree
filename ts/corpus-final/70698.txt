@@ -1,0 +1,30 @@
+{
+  "text": "Среди тех , кто намеревается допросить швейцарский судья , - сотрудники Банка Россию и управлявшие коммерческих бснков - ДКБ , Собинбанке и банка \"Фламинго\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "управляющие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Собинбанка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кого"
+    },
+    {
+      "correctReplacement": "банков",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

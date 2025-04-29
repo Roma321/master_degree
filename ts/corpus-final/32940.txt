@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что Невзоров , который 19 декабря проиграю на выборах , был снова выдвинувший кандидату в Госдуму по 99-му Всеволожскому избирательному округу Ленинградской области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "выдвинут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "кандидатом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "проиграл"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

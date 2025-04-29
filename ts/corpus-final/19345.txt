@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаем венгерские СМИ со ссылкой на адвоката БыковаПетера Замашника , от имени предпринимателя уже подан апелляция . Окончательному решение по этому делу - за министрами юстиции Венгрии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Окончательное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "министром"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщают"
+    }
+  ]
+}

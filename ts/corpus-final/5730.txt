@@ -1,0 +1,20 @@
+{
+  "text": "Обе сорта водки разводим на заводе \"Итар\" в Калининграде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Оба"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "производятся"
+    },
+    {
+      "correctReplacement": "производимся",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

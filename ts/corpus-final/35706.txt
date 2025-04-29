@@ -1,0 +1,35 @@
+{
+  "text": "Напомнят , что в понедельник муниципальная информационное служба Волгодонска со ссылку на экспертное заключение Агентства по мониторингу и прогнозированию чрезвычайных ситуаций распространившая сообщение о том , что средство на приобретение жилья для пострадавших в доме номер 35а по Октябрьскому шоссе города Вогодонска Ршстовской области не предусмотрены .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "средства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "распространила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "информационная"
+    },
+    {
+      "correctReplacement": "Ростовской",
+      "type": "typo",
+      "wordNumber": 42
+    }
+  ]
+}

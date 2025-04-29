@@ -1,0 +1,20 @@
+{
+  "text": "В результате отказа тормозов проезд , проезжавший развилку , мог по инерции выскочить не на тот путём .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "путь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "проезжающий"
+    },
+    {
+      "correctReplacement": "поезд",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

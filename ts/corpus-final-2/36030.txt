@@ -1,0 +1,25 @@
+{
+  "text": "К 3 часов ночи огонь был локализовавший , а полностью пожар был ликвидирована лишь после полудня Э",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "часам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "локализован"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "ликвидирован"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

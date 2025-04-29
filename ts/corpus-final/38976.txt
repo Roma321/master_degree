@@ -1,0 +1,20 @@
+{
+  "text": "театральный бюджеты на февралю текущего года выполнен по всем показателям .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "бюджет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "февраль"
+    },
+    {
+      "correctReplacement": "Федеральный",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

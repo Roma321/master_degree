@@ -1,0 +1,25 @@
+{
+  "text": "Эсминец США был подорвавший в порту йеменского голодьв Аден .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подорван"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "городов",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "голодов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

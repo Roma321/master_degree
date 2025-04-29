@@ -1,0 +1,30 @@
+{
+  "text": "14 мая 1999 годом Александр эйнштейн при нарушении правил дорожной движения предъявленный сотрудникам ГИБДД удостоверение \"капитана МУРа Матвеева\" Д",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "дорожного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "предъявил"
+    },
+    {
+      "correctReplacement": "Хинштейн",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

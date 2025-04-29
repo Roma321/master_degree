@@ -1,0 +1,20 @@
+{
+  "text": "Об этом Агентству пенных новости сообщённые в штабе группировки \"Восток\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "новостей"
+    },
+    {
+      "correctReplacement": "военных",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

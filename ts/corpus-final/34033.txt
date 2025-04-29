@@ -1,0 +1,30 @@
+{
+  "text": "Chicago Bulls рассосёмся с последним игроком стартовую пятерки золотой команды девяностых - хорватской нападающим Тони Кумочем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "хорватским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "стартовой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "расстались"
+    },
+    {
+      "correctReplacement": "расстанемся",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Кукочем",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

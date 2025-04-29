@@ -1,0 +1,25 @@
+{
+  "text": "На подлой неделе Комитеты по авторским правам США (Copyright Office)принял поправки к лицензионной законодательствв , сообщает в пятницу New York Times .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "лицензионному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Комитет"
+    },
+    {
+      "correctReplacement": "прошлой",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "законодательству",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

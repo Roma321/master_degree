@@ -1,0 +1,25 @@
+{
+  "text": "По информации помощника президента РФ сенсеющий Ястржембского , Аслан Масхадову направленный инструкцию представителю республики Ичкерия в Малайзии Казбеку Хаджиеву .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Масхадов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "correctReplacement": "Сергей",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

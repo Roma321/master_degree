@@ -1,0 +1,20 @@
+{
+  "text": "Охраны участников конференции обеспечиваете 10 тысяч полицейских , карабинов и солдат .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "обеспечивают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Охрану"
+    },
+    {
+      "correctReplacement": "карабинеров",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данным , причинами смерти ставшее отравление продуктами горения и многочисленные шжог , а причиной воззвание - неосторожное обращение с огнем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ожоги"
+    },
+    {
+      "correctReplacement": "возгорания",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "ожог",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

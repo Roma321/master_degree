@@ -1,0 +1,25 @@
+{
+  "text": "Избирательная комиссия Калининградского области завершившая в понедельник утром подсчет голодов по второму туру выборов губернаторов региона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Калининградской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "завершила"
+    },
+    {
+      "correctReplacement": "голосов",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

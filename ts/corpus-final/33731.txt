@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщает Reuters со ссылкой на испанское газету El Mundo , которая публикуемый данные медицинского опследования 84-летней генерала .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "публикует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "испанскую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "84-летнего"
+    },
+    {
+      "correctReplacement": "обследования",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

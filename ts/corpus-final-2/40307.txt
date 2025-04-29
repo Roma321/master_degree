@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю \"Эхо Москвы\" , виновниками пожара стали военнослужащие дислоцируюсь десь воинской части 58-й армии Э",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "дислоцирующейся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "здесь",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

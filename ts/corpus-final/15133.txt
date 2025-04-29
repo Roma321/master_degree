@@ -1,0 +1,30 @@
+{
+  "text": "По данным ответу можно ч хорошей точностью ездящие о тех надеждах и тех опасениях , которым избиратели связывают с тем или иным кандидатом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "ответам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "судить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "судящие",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

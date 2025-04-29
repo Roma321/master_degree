@@ -1,0 +1,30 @@
+{
+  "text": "По словами Омарова , журналист утверждал , что люди , скоторыми он контактировал , состоянье были в маске и не давал ему возможности отследить маршруты перемещений .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "масках"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "давали"
+    },
+    {
+      "correctReplacement": "постоянно",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

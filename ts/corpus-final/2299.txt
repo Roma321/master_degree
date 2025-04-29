@@ -1,0 +1,30 @@
+{
+  "text": "В конце августа этого году в Казань приехала Наина Ельцину , разыскал деревянный домике , где до сих пор жили Суховы , и сообщила , что Борис Николаевич решил подарить им гвартиру .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "домик"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Ельцина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "разыскала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "квартиру",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

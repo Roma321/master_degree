@@ -1,0 +1,20 @@
+{
+  "text": "Система Linux возникла и развивались в основном на однопрецессорных машинами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "развивалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "машинах"
+    },
+    {
+      "correctReplacement": "однопроцессорных",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

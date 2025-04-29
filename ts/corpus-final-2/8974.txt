@@ -1,0 +1,20 @@
+{
+  "text": "Юридические отладчики банков \"СБС-Агро\" по условиям соглашения смогут вернуть лищь один процент от суммы своих вложений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "банка"
+    },
+    {
+      "correctReplacement": "вкладчики",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

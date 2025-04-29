@@ -1,0 +1,35 @@
+{
+  "text": "Ему удалось даже записавшие на персональный компьютер звуковой фрагмент диалогов , в котором пилоты извещают диспетчеров о своей намерении вторая раза зайти на посадку , затем один пилоты говорит другому : \"Скажи им , что мы потеряли оба двигателя\" , - после чего связь обрывается .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "диалога"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "пилот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "записать"
+    }
+  ]
+}

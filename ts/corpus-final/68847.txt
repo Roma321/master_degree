@@ -1,0 +1,25 @@
+{
+  "text": "Однако Федеральной служба безопасности Ррссии дала свое разъяснение происходящему : в связи с многочисленных угрозами со стороны чеченских террористов ФСБ предоставила Баталовым охрану на время его пребывания в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Федеральная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "многочисленными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Баталову"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

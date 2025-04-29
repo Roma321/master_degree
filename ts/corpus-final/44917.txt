@@ -1,0 +1,30 @@
+{
+  "text": "Напомнят , что казанские хоккеисты выиграли два матча на своей площадке , и этого победой двукратные чемпионы России лишь сократили счёте в серии . прекрасных игроков (взять хштя бы Кьезу , Батистуту , Руя Кошту , отворившихся , кстати , в этом матче) не может добиться успеха ни в чемпионате Италии , ни на международной арене .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "отличившихся",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "хотя",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Тем не менее руководство СБУ считают , что в Интернете необходимо цензура , чтобы отслеживать порнографию , призывы кнасилию и нарушению спокойствия в государстве , информацию и услугикриминальной характера , сообщаешь \"Украинский финансовая сервер\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "услугикриминального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "финансовый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "необходима"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

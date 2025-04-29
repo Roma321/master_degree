@@ -1,0 +1,25 @@
+{
+  "text": "Как неоднократно заявлявший председатель Центризбиркома РФ Александр Вешняков , нарушение порядка и правил предвыборной агитации со стороны кандидатов на президентский пост может привести к самым серьёзным последствий вплоть до снятий с регистрации .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявлял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "последствиям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "снятия"
+    },
+    {
+      "correctReplacement": "серьезным",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

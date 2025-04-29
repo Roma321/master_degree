@@ -1,0 +1,20 @@
+{
+  "text": "Жесткая цензура и постоянного давление привели к тлму , что в 1993 году Киселёву покинул «Останкино» , взяв с собой свою программу на вновь созданный канал НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "постоянное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Киселев"
+    },
+    {
+      "correctReplacement": "тому",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

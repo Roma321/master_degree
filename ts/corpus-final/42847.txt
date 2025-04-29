@@ -1,0 +1,20 @@
+{
+  "text": "Анонимный звонок о заминирования здания городской Думы поступил на пульт ажурного пь городу в 09 : 30 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заминировании"
+    },
+    {
+      "correctReplacement": "дежурного",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

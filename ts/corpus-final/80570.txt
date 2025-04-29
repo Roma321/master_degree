@@ -1,0 +1,20 @@
+{
+  "text": "Когда файл играет , реклама показывающийся на кране компьютеру пользователя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "компьютера"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "показывается"
+    },
+    {
+      "correctReplacement": "экране",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

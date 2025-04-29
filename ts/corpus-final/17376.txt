@@ -1,0 +1,35 @@
+{
+  "text": "Верером в минувшим четверг президент Белоруссии Александру Лукашенко в ходах пресс-конференции , показавшей по национальному телевидению , завивший , что не собирается играть в российские политические игры , сообщает Федеральное агентство новостей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ходе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "показанной"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "Вечером",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

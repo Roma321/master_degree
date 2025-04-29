@@ -1,0 +1,20 @@
+{
+  "text": "Генеральным спонсором фестивалем стану российская компания \"Яндекс\" , а официозным спонсором - компания Comptek .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "фестиваля"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "официальным",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

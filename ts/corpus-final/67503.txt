@@ -1,0 +1,30 @@
+{
+  "text": "Никогда еще ни одно вратаря не оценивался так дорого Ж немалая сумме была установлена и в личной контракте Бартеза .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "вратарь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "личном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сумма"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

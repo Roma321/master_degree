@@ -1,0 +1,30 @@
+{
+  "text": "Новый суперкомпьютер , носивший название Blue Gene , будет способен совершать один квадриллион операций в секунду , то ест будет в тысячи раз мощнее знаменитой Deep Blue , с которым в 1997 году играл в шахматы чемпионе мира Гарри Каспаров .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "чемпион"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "знаменитого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "тысячу"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "носящий"
+    }
+  ]
+}

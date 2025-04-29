@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили журналистам в пресс-службе УВД области , машина со школьником столкнувшаяся с другим автобусом , после чего выехало на полосу встречного движения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "столкнулась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "школьниками"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "выехала"
+    }
+  ]
+}

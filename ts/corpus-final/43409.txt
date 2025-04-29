@@ -1,0 +1,20 @@
+{
+  "text": "Марк Рудинштейн был доставивший в трмвмпункт с диагноз \"ушибыголовы и тела\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "диагнозом"
+    },
+    {
+      "correctReplacement": "травмпункт",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

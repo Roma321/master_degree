@@ -1,0 +1,35 @@
+{
+  "text": "Однако , по данным Палаты , в 1995 году ОРТ было выделено 148 миллиардов неденоминированных рублей , в 1996 году - 225 миллиардов , а в нынешнем году по указу президентом под залог государственной и других пакета акций Внешэкономбанки выделтло телекомпании 100 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "пакетов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 39,
+      "correctReplacement": "выделил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 33,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "Внешэкономбанк"
+    },
+    {
+      "correctReplacement": "выделило",
+      "type": "typo",
+      "wordNumber": 39
+    }
+  ]
+}

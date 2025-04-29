@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , накануне рано утром секретный проверка работы механизма чаше пройду очееь успешно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "секретная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "чаши"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "прошла"
+    },
+    {
+      "correctReplacement": "очень",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

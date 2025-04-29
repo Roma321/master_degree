@@ -1,0 +1,30 @@
+{
+  "text": "Кириенко считаемый , что помимо данной рабочей группы будут также созданы еще две группы , которые выработают предложения по изменению структур федеральных органов власти в легионах , а также занявшиеся вопросу разграничения полномочий между центром и субъектами РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "структуры"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "займутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "вопросом"
+    },
+    {
+      "correctReplacement": "регионах",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

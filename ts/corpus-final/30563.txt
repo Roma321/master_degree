@@ -1,0 +1,30 @@
+{
+  "text": "1 августа 1995 года у поселка Тарское Пригородному района Северной Осетии автомашина \"Волга\" , в которой находился Поляничко , а также начальник Владикавказкого гарнизонов Анатолием Корецкий и телохранитель гектор Кравчук , была обстреляна неизвестнуми лицами из автоматического оружия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Анатолий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Пригородного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "гарнизона"
+    },
+    {
+      "correctReplacement": "Виктор",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "неизвестными",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

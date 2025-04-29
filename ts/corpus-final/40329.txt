@@ -1,0 +1,25 @@
+{
+  "text": "\"Но я буду рад , что в России появится новыйяркое фидер , - сказал Путин , добавив , что \"чем больше приличныхлюдей в .уме , в публичных политике , тем лучше\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "публичной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "новыйяркий"
+    },
+    {
+      "correctReplacement": "лидер\"",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Думе",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

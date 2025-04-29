@@ -1,0 +1,20 @@
+{
+  "text": "Пресс-служба Следственной комитета при МВД РФ распространила официальную сообщение о позиции МВД по делу журналиста Александра Хинштейна , сообщаешь \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Следственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "официальное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

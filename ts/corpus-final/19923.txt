@@ -1,0 +1,40 @@
+{
+  "text": "Речь идет о сигарете под названием bidis , импортируемых преимущественно из Индии , со вкусом манго , лимона , шоколаде и т Э д . - они меньше , чем обычные сигареты , но наносим существенно больший вред здоровьям , поскольку содержащие в три раза больше никотина и в пять раз больше смолы , чем обычные сигареты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "шоколада"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сигаретах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "здоровью"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 52,
+      "correctReplacement": "смол"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 41,
+      "correctReplacement": "содержат"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 34,
+      "correctReplacement": "наносят"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

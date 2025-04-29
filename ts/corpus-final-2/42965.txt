@@ -1,0 +1,30 @@
+{
+  "text": "После матчей выяснилось , что у француза Себастяном Гросжена - будущего соперника россиянина - умерла бабушку , и теннисист срочно выехавший на долину .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "выехал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "бабушка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Себастяна"
+    },
+    {
+      "correctReplacement": "родину",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "Гросжана",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

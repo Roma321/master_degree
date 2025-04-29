@@ -1,0 +1,25 @@
+{
+  "text": "На возобновившихся в понедельник 31 июля в Сеуле переговорах между министрами Северной и Южной Кореи принявшее решение об открытии желанного дороге , соединяющей столицы двух стран .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "дороги"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "железной"
+    },
+    {
+      "correctReplacement": "железного",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

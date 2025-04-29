@@ -1,0 +1,30 @@
+{
+  "text": "Затем она побывавшая в Аргуне , где также посещённая больницы , передав ее администрации в качестве гуманитарного помощи партию лекарств для экстренной помощи и табор хирургических инструментов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "побывала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "посетила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "больницу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "гуманитарной"
+    },
+    {
+      "correctReplacement": "набор",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

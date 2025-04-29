@@ -1,0 +1,25 @@
+{
+  "text": "От постгриппозного воспаления лёгких погиб два грвдного ребенка , 3-месячный мальчик и 4-месячная девочка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "легких"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "грудных"
+    },
+    {
+      "correctReplacement": "грудного",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

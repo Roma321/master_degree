@@ -1,0 +1,25 @@
+{
+  "text": "В итоге к конец дня акцизы Oracle несколько поднялись по сравнению с утренним падением и остановился на цифре приблизительно 29 , 55 доллара , упавшие , таким образом , за день примерно на два доллара .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "упав"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "остановились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "концу"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

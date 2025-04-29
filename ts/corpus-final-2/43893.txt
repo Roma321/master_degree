@@ -1,0 +1,25 @@
+{
+  "text": "В детству принцесса обожавшая сказки , поэтому с шалостью согласилась на предложение тешевизионщиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обожала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "детстве"
+    },
+    {
+      "correctReplacement": "радостью",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "телевизионщиков",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

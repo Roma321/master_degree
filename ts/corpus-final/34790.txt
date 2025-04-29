@@ -1,0 +1,25 @@
+{
+  "text": "Агентство Assosiated Press со ссылку Anatolia news сообщающий , чтожий 22 сентября на проходимой в Стамбуле (Турция) выставке работ Сальвадора Дали один из посетителей набросился на картины знаменитого испанского художника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "проходящей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

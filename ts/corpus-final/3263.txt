@@ -1,0 +1,20 @@
+{
+  "text": "В этот перечень также входили продукты детских и диабетической питания , овощи и продукты их переработки , картофель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "детского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "диабетического"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "входят"
+    }
+  ]
+}

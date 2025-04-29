@@ -1,0 +1,30 @@
+{
+  "text": "Кроме отслеживания и блокирования порнографию , брандере Safari также может блокировафшие материалы , связанные с наркотиками , насилием и другим \"запретным\" контентом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "блокировать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "браузер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "порнографии"
+    },
+    {
+      "correctReplacement": "браузере",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "блокировавшие",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

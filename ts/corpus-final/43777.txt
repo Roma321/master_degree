@@ -1,0 +1,20 @@
+{
+  "text": "Бомба состояла из 500 грамм тротила , электродетонаторов , механизмарадиоприемного типа м пульта дистанционного управления . Взрывное устройство было успешно обезвредившее .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "обезврежено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "электродетонатора"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Московское арбитражный суд удовлетворивший иски телеканала ТВЦ и признал непростительным предупреждение Минпечати , вынесенное 17 января этого года в связи с неуведомлением министерства о смене юридического адреса .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "удовлетворил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "иск"
+    },
+    {
+      "correctReplacement": "недействительным",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

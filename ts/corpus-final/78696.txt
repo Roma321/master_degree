@@ -1,0 +1,25 @@
+{
+  "text": "В четвертый раз за три годов поменяла команду 34-летний цеотральный нападающий Герман Титов , перейду из \"Эдмонтона\" в \"Анахайм\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "поменял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "перешедший"
+    },
+    {
+      "correctReplacement": "центральный",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

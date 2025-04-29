@@ -1,0 +1,25 @@
+{
+  "text": "Утверждения руководителя ВЭК не соответствовали действительности и , возможно , стали бедствиями ошибочной информации , полагаете в компании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "следствием"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "соответствуют"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "следствиями",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "За унистожение личной состава федерального блокпоста боевики могут рассчитывать на вознаграждение в 5 тысяч долларов , если военнослужащий федеральных сил будут взят в плен , то вознаграждение возрастает до 10 тысяч долларов , заявивший Масхадов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "личного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "военнослужащие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "взяты"
+    },
+    {
+      "correctReplacement": "уничтожение",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

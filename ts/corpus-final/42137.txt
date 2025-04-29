@@ -1,0 +1,25 @@
+{
+  "text": "Брат приговорившего к смерти лидера курдов Абдуллы Оджаланов Осман Оджалан заявил , что Курдская рабочее партия не будет больше совершать теракты промив Турции , сообщает BBC .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "рабочая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Оджалана"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приговоренного"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Один человек погибший и один ранен утром 27 марта в результате взрыва сероуглерода на заводях \"Клинволокно\" в городе Клин Московской область .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "заводе"
+    },
+    {
+      "correctReplacement": "заводах",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Толстой пленка нефтью , по густоте напоминаемой жевательную резину , еа десятки километров покрыла французское побережье .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "напоминающей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Толстая"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

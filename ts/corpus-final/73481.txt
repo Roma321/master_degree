@@ -1,0 +1,30 @@
+{
+  "text": "А в начале второго половины игры сочинялась гол : после штрафного в исполнении Дэвида Бекхема мяч , минуя всех , досталась Алану Ширеру , и капитан сборной Англии головами направил его мимо Оливера Кана .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "достался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "головой"
+    },
+    {
+      "correctReplacement": "состоялась",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

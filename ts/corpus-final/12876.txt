@@ -1,0 +1,20 @@
+{
+  "text": "Утром в среду министр обороны лично прибыло на фрост с инспекции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "инспекцией"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "фронт",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

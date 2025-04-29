@@ -1,0 +1,20 @@
+{
+  "text": "Накануне генсеке ООН заявил , что тему беседы оноставляет на усмотрению и . ь . президента России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "генсек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "усмотрение"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

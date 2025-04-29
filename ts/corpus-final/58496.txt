@@ -1,0 +1,30 @@
+{
+  "text": "Саддама Хусейн правит страной с 1979 лода , и последние 10 лет дирак находящийся под действием международных экономическими санкций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Саддам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "экономических"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "Ирак",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

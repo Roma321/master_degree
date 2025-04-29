@@ -1,0 +1,20 @@
+{
+  "text": "Заполненные заявления передаются предприятиями в соответствующие инспекцией , и там же предприятия получающие списки работающих с указанием бомеров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "инспекции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "получают"
+    },
+    {
+      "correctReplacement": "номеров",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

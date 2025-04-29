@@ -1,0 +1,35 @@
+{
+  "text": "Набору мероприятия , к нему приуроченных , можно разделить на две части - ставшие ужо традиционными , перейдённые по наслетздву от Дня советского милиции , и новые , возникшие уже в постсоветской России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мероприятий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Набор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "советской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "перешедшие"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "наследству",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

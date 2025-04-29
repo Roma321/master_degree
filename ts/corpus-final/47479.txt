@@ -1,0 +1,20 @@
+{
+  "text": "Поздравив награжденных , Путин отметила , что нынешнее мероприятие являлся праздником и ему хотелось бы , чтобы \"вся работа состояла из одних праздников , но такое бывает неыасто\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "нечасто\"",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

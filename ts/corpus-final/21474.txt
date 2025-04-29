@@ -1,0 +1,25 @@
+{
+  "text": "Ему был заявлю протест в связи с трубного провокацией в отношении российского дипломата , обвинённого в шпионаже .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "грубой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обвиненного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявлен"
+    },
+    {
+      "correctReplacement": "грубого",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

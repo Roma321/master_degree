@@ -1,0 +1,25 @@
+{
+  "text": "Причиной внесения изменения в конституция Хорватии стала длительная болезнь нынешней главка государства Франьо Туджмана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "конституцию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

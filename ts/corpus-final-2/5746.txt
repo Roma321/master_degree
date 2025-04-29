@@ -1,0 +1,35 @@
+{
+  "text": "Правительство официально обвиняет ООН в той , что санкции против мрака , наложенные после захват Кувейта и войны в Персидском заливе , послужим барьером на пути развитив Интернета и сетью сотовой телефонии в стране .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "послужили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "сети"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "захвата"
+    },
+    {
+      "correctReplacement": "Ирака",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "развития",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

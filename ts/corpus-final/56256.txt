@@ -1,0 +1,20 @@
+{
+  "text": "По данным МВД , за последние сутки боевиками высекшие разам обстреливали блокпосты милиции и временные отделы внутренних дел .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "раз"
+    },
+    {
+      "correctReplacement": "восемь",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

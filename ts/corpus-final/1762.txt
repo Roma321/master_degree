@@ -1,0 +1,20 @@
+{
+  "text": "Сответствующее уведомление направлю в Центральную внимательную комиссию Российской Федерации , сообщим РИА \"Новости\" в Минюсте .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "направлено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "избирательную",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

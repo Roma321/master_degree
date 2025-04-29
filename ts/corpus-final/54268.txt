@@ -1,0 +1,25 @@
+{
+  "text": "Цены российских акции во второй половине дня стабилизировались после утреннего паденгя , выпанного ухудшением ситуации на международных торговых площадке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "площадках"
+    },
+    {
+      "correctReplacement": "вызванного",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "падения",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

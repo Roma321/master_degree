@@ -1,0 +1,25 @@
+{
+  "text": "Кяартирный вор в Арабских Эмиратах был приговорён к ста годам тюрьмы , однако апелляционный суды сокративший ему срок заключения до 54 лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сократил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "Квартирный",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

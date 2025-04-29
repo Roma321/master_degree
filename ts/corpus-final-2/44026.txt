@@ -1,0 +1,25 @@
+{
+  "text": "Слушания начавшиеся с допроса одного из обвиняемых в убийстве - командира специального отряда ВДВ майоров Владимира Морозова , который заявивший суду , что \"все , что он знает об этом убийстве , известно ему только из материков уголовного дела\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "начались"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "майора"
+    },
+    {
+      "correctReplacement": "материалов",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

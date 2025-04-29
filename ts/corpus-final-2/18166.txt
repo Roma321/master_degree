@@ -1,0 +1,25 @@
+{
+  "text": "Правительство готово к тому , чтобы выработавшме этот талантом , подчеркнул премьер-министр .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выработать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "баланс"
+    },
+    {
+      "correctReplacement": "балансом",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "выработавшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как передающий РИА \"Новости\" , на состоявшемся в четверг заседании судом отказался удовлетворить жалобу адвокатов Павел Астахова и Андрее Андрюсенко на арест и содержание под стражей их подзещитного .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Андрея"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "подзащитного",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

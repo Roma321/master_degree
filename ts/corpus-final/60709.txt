@@ -1,0 +1,25 @@
+{
+  "text": "Полномочная представителем правительств РФ в Чечне Николай Кошман разгорячился закрыть с 10 мая все пункты приема лома цветных металлов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Полномочный"
+    },
+    {
+      "correctReplacement": "распорядился",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

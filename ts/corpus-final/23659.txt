@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили информационный агентств Reuters и Associated Press , главной мишенью нападких Блэквелла по-прежнему оставался певица Шер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "информационные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "остается"
+    },
+    {
+      "correctReplacement": "нападок",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествия находитесь бригады Центру эскадренной медицинской помощи и спасатели .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Центра"
+    },
+    {
+      "correctReplacement": "экстренной",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

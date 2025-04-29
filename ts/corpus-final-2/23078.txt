@@ -1,0 +1,30 @@
+{
+  "text": "Женевский следователь Даниэль Дево , расследующий дело об отмывании в швейцарских банках денежного средств из России , не могу утверждающие , что госспкретарь Союза России и Белоруссии , бывшее управляющий делами президента России Павел Бородин причастен к коррупции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "утверждать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "денежных"
+    },
+    {
+      "correctReplacement": "госсекретарь",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

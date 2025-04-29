@@ -1,0 +1,25 @@
+{
+  "text": "И . т . президентов России Владимир Путин встретился в пятницу с двумя из трех члена руководящей тройки Евросоюза - министром иностранных дел председательствующей в Евросоюзе Португалии Хайме Гамой и представителем ЕС по внешней полтине и безопасности Хавьером Соланой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "политике",
+      "type": "paronym",
+      "wordNumber": 34
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

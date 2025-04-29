@@ -1,0 +1,35 @@
+{
+  "text": "Из такой положений дел авторы обращения делали выводы : \"либо заводом управляет совершенно некомпетентные менеджеры , либо прибыль разворовывается или укрывается от реакционеров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "такого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "вывод"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "управляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "положения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "делают"
+    },
+    {
+      "correctReplacement": "акционеров\"",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

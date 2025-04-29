@@ -1,0 +1,25 @@
+{
+  "text": "Новый порядок регулирования оплаты трудов временно введён с сегодняшнего дня постановлением правительства республик на государственных и муниципальных претприятиях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "введен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "предприятиях",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

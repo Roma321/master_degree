@@ -1,0 +1,20 @@
+{
+  "text": "Пресс-служба УФСБ сообщил , что обыск был проведён у \"конкретных сотрудников\" компании и связан с фактами незаконного вывоза за рубеж предметов , представляющих историческую вечность .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проведен"
+    },
+    {
+      "correctReplacement": "ценность",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

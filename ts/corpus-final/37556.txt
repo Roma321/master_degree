@@ -1,0 +1,20 @@
+{
+  "text": "Они направлялись к границами с Ингушетией , Дагестаном и Гркзией .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "направляются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "границам"
+    },
+    {
+      "correctReplacement": "Грузией",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

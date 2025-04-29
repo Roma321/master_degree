@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу около 22 : 30 произойду пожар по адресу : Можайская вал , дот 6 , сообщает корреспондентом Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Можайский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "корреспондент"
+    },
+    {
+      "correctReplacement": "дом",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

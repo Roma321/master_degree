@@ -1,0 +1,20 @@
+{
+  "text": "В траурного церемонии прижавший участие глава государства Гейдар Алиев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "траурной"
+    },
+    {
+      "correctReplacement": "принявший",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

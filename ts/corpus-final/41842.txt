@@ -1,0 +1,20 @@
+{
+  "text": "Ему инкриминировался получение взятки , злоупотребление служебным положением , контрабанды и незаконный оборот мечущих и камней , а также хищение госимущества .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "инкриминируется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "контрабанда"
+    },
+    {
+      "correctReplacement": "металлов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Прибудем кинологи с собакой обследовали месте происшествия , и собака среагировала на наличие взрывчатого существа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Прибывшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "место"
+    },
+    {
+      "correctReplacement": "вещества",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

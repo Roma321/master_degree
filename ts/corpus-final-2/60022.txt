@@ -1,0 +1,20 @@
+{
+  "text": "Спасательный вертолет МЧС России в 13 : 30 снял всех рыбаков со льдины , оторвавшегося от берега в Финском залива в пятницу утром , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "оторвавшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "заливе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

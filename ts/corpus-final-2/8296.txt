@@ -1,0 +1,25 @@
+{
+  "text": "Правительство США вынцжден прибегнуть к помощи морских пехотинцев и мотострелков , перешедших специальные двухдневным курсы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "двухдневные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "вынуждено"
+    },
+    {
+      "correctReplacement": "прошедших",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "вынужден",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

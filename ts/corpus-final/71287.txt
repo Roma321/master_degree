@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , агендздво ИТАР-ТАСС сообщает , ссылаясь на пресс-секретаря главы российского государства митрич Якушкина , что в среду Президент России Борис Ельцин по представлениям правительства подписанный указ о дополнительных компенсационным выплатах малоообеспеченным пенсионерам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "представлению"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "компенсационных"
+    },
+    {
+      "correctReplacement": "Дмитрия",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

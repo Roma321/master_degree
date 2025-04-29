@@ -1,0 +1,30 @@
+{
+  "text": "По мнению заявителей , суд , возбуждая уголовное дело , неизбежно оказывается на стороне извинение , что порождающий неравенство сторон , нарушая принцип состязательности , и ущемляемый право обвиняемого .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "ущемляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "обвинения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "права"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "порождает"
+    },
+    {
+      "correctReplacement": "обвинение",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

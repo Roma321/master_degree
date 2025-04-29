@@ -1,0 +1,25 @@
+{
+  "text": "В противной случае льгота для таких механизаций применяться нк будешь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "противном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "будет"
+    },
+    {
+      "correctReplacement": "организаций",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

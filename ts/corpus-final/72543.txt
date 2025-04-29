@@ -1,0 +1,25 @@
+{
+  "text": "По мнению Немцова , то обстоятельздво , что нейтральный прокурор до сих пор публично не высказали свою позиции по данному вопросу , \"вызывает впечатление , что решение принимал не он , а просто надо было найти стрелочника - вот и нашли\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "позицию"
+    },
+    {
+      "correctReplacement": "генеральный",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "обстоятельство",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

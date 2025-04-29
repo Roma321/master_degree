@@ -1,0 +1,30 @@
+{
+  "text": "На панихиде в Центральном доме кинематографистов известные режиссер Марлен Хуциев подчеркнул , чьо слово , давшие название последнему фильму Приемыхова - \"Кто , если не мы\" , стали \"завещанием тем , кто осталась жить на этом цвете .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "слова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "остался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "известный"
+    },
+    {
+      "correctReplacement": "свете\"",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

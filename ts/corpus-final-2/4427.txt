@@ -1,0 +1,25 @@
+{
+  "text": "При обыске дома и на работе у дипломата были найдём доказательства его шпмонской деятельности , в той числе 5747 долларов , получивших им за работу на разведку Южной Кореи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "полученных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "найдены"
+    },
+    {
+      "correctReplacement": "шпионской",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

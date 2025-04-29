@@ -1,0 +1,30 @@
+{
+  "text": "В свою очередь главу Армении сообщённый , что Ереван поддерживаю инициативу российского президента \"об отделении атомную энергетики от атомного оиужия\" , которую он выдвинул на недавнем саммите в Нью-Йорке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "глава"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "оружия\"",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

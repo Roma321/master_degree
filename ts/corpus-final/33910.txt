@@ -1,0 +1,20 @@
+{
+  "text": "После этого преступники похищенные девочку , оставиф мать в доме прикованного наручниками к батарее .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прикованной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "похитили"
+    },
+    {
+      "correctReplacement": "оставив",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает CNN , борьба французских нефтяных компаний Elf Aquitaine и TotalFina завершусь в понедельник их слиянием . На рынке возникну новом гигант Ж",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "завершилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "новый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "возник"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

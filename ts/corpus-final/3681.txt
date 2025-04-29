@@ -1,0 +1,25 @@
+{
+  "text": "Представителей Федеральной бюро расследований США неоднозначно заявляли за последние сутки , что они не располагают никакой информацией о возможном теракте на борту египетскому лайнера .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представители"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "египетского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "correctReplacement": "неоднократно",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

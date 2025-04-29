@@ -1,0 +1,35 @@
+{
+  "text": "Несмотря на заявление руководства отрядов индонезийского армии , базирующихся в Восточном Тиморах , о их намерении не допускать волнений и беспорядков , ни одна солист не пытаюсь препятствующие милиции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "препятствовать"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "пытается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "индонезийской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Тиморе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "солдат",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

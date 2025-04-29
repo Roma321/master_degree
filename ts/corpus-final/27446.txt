@@ -1,0 +1,25 @@
+{
+  "text": "Если крестик будет признаю действительным , то Дудник потеряет пост председателя краевой Дум и автоматически лишусь мандата депутат Совета Федерации РФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Думы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "депутата"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "лишится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "признан"
+    }
+  ]
+}

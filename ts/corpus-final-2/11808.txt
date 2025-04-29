@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , убийство совершили экстремисты из числа местного ваххабизмоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "местных"
+    },
+    {
+      "correctReplacement": "ваххабитов",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "ваххабизмов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

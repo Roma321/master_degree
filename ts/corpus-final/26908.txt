@@ -1,0 +1,25 @@
+{
+  "text": "Хакеры открытые в байках несколько счетов на подставных лица и перевели на эти счета по 800 тысяч рублей и 50 тысяч долларов \"электронных денег\" со счетов частных вкладчиков банка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "банке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "лиц"
+    },
+    {
+      "correctReplacement": "банках",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

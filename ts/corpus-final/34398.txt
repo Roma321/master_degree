@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщалась ранее , накануне коллектив Ленинградской АЭС принял решение о забастовке в связь с отказом садоводства станцию повысить зарплату в соответствии с отраслевым тарифным соглашением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "станции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "руководства",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

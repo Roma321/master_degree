@@ -1,0 +1,20 @@
+{
+  "text": "Затоплено множество населённых пунктов , прервано автомобиль и железнодорожное сообщение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "автомобильное"
+    },
+    {
+      "correctReplacement": "автомобильный",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

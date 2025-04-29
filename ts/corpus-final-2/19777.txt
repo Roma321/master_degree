@@ -1,0 +1,30 @@
+{
+  "text": "Сборная Австралии добавила в свои комплекте еще одну золотуюмедаль - победительницей стала Сьюзи О'Нейл с результатом 1 : 58 , 24 . Серебряное медаль - у представительства Словакир Мартины Моравковой ибронзовая - у Клаудии Пол из Коста-Рики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "Серебряная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "комплект"
+    },
+    {
+      "correctReplacement": "представительницы",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "Словакии",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Первая же тройка списка коммунистов выгляжу следующим образом : лидер КПРФ Геннадий Зюганов , председатель Государственную Думы Геннадий Селезнёв и председатель Аграрного союзов Российской Федерации Василий Стародубцев .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "выглядит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Селезнев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "союза"
+    },
+    {
+      "correctReplacement": "списка",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

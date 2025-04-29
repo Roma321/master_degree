@@ -1,0 +1,25 @@
+{
+  "text": "Осуждены стравинские граждане : капитан судна China Breeze Сергей Курдякам получил 25 лет и три месяца , а второй и третий помощники капитана - по 24 года и три месяца заключения по обвинению в контрабанде наркотика , сообщаешь UA Today со ссылкой на BBC .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Курдяков"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 37,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "наркотиков"
+    },
+    {
+      "correctReplacement": "украинские",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

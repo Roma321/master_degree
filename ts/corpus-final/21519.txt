@@ -1,0 +1,25 @@
+{
+  "text": "На завершаеаой стадии подготовки необходимо прохождение законопроекта в Министерстве по антимонопольной политике , заявил 30 декабря журналистам РБК генеральный ректору \"Связьинвеста\" Валерий Яшин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "завершающей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "директор"
+    },
+    {
+      "correctReplacement": "директору",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "завершаемой",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

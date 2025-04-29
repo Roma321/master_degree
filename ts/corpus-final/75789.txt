@@ -1,0 +1,25 @@
+{
+  "text": "В столицей Колумбии Богота минувшего ночью произошла перестрелка в ночном клубе , убиты 11 человеч , пятеро ранены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "столице"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Боготе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "минувшей"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

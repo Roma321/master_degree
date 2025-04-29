@@ -1,0 +1,25 @@
+{
+  "text": "По словам Олдрина , первым , кого пошлёте в космоса еще до октябрей 2000 года , будет профессиональный журналист , который опишет нормальным языком , как чувствовал себя человек в космосе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "космос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "пошлют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "чувствует"
+    }
+  ]
+}

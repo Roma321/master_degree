@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , причиной взрывоф стану аварии военного самолета , который при взлете врезался в бензохранилище .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "авария"
+    },
+    {
+      "correctReplacement": "взрывов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

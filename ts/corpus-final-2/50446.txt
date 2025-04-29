@@ -1,0 +1,25 @@
+{
+  "text": "В субботу Папы принял Йорга Хайдера в качестве губернатораавстрийского провинции Каринция , из которой в этом году должны были доставленные рождественскую елку для Ватиканм .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "доставить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "губернатораавстрийской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Папа"
+    },
+    {
+      "correctReplacement": "Ватикана",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

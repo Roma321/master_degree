@@ -1,0 +1,20 @@
+{
+  "text": "Новый вирус способна такое нейтрализовывать действия некоторых антивирусных программ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "действие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "способен"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

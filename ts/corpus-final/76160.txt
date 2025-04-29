@@ -1,0 +1,30 @@
+{
+  "text": "У президента словацкой Рудольфу Шустера после двух срочных операций , сделанных ему в течение нескольких днями , развились пневмония , передают BCC News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Рудольфа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "развилась"
+    },
+    {
+      "correctReplacement": "Словакии",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

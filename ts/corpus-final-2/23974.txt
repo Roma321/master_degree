@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем , по сообщению агентств Bloomberg , Биллу Гейтсу поднимут расплату , которую он получает в качестве члена правления Совета директороф : в 2000 финансовом году зарплата Гейтса составленный 656 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "агентства"
+    },
+    {
+      "correctReplacement": "зарплату",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "директоров",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

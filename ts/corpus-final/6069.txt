@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник Американское аэрокосмическое агентство заявило , что запуск корабля многоразовому использования Discovery состоявшийся 6 декабря , несмотря на то , что на корабле найдена очередное неисправность - повредивший кабель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "состоится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "очередная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "поврежденный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "многоразового"
+    }
+  ]
+}

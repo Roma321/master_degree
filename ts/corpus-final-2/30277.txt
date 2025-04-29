@@ -1,0 +1,20 @@
+{
+  "text": "Адвокаты американской гражданина неоднократно заявляли , что Поуп не можеоь содержаться в условиях СИЗО , поскольку болен раком кости .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "можешь",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

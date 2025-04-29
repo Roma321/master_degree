@@ -1,0 +1,25 @@
+{
+  "text": "В этом запросе банкам предлагался сообщить , были ли у них какие-либо финансовые отношения с лиц , список которых прмлагается .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "предлагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "лицами"
+    },
+    {
+      "correctReplacement": "список",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "прилагается",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Огонь велся из подствольный гранатомета и автоматической оружия , однако находившиеся в машине полученные нетяжелые ранения и откажемся от госпитализамии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "отказались"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "автоматического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "подствольного"
+    },
+    {
+      "correctReplacement": "госпитализации",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В конце декабря прошлому года повторное решение о доследованием было принято , но поступило оно исполнителям только 6 января 2000 года , поэтому следственные органя не спевшие принять ответные меры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "прошлого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "доследовании"
+    },
+    {
+      "correctReplacement": "успели",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "органы",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

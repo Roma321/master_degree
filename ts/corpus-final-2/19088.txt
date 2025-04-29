@@ -1,0 +1,30 @@
+{
+  "text": "В 2000 году только на компенсацию за отопление и эксплуатацию жилистого фонда из муниципальной бюджета будет выделено по четыре миллиарда рубля , перадаваемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "муниципального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "жилищного",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "передаваемый",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

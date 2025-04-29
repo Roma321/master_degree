@@ -1,0 +1,25 @@
+{
+  "text": "Северский трубному завод поставляет слитки на Нижне-Сергинский завод с перебоями , из-за чего произцодство проката неоднократно останавливался в сентябрях и октябре текущего года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "останавливалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "трубный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сентябре"
+    },
+    {
+      "correctReplacement": "производство",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

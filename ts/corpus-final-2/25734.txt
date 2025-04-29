@@ -1,0 +1,20 @@
+{
+  "text": "Профицит недельного бюджетов в январе-сентябре 2000 года составил 105 , 8 миллиарда рублях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "федерального",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

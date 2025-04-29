@@ -1,0 +1,25 @@
+{
+  "text": "Его имя не разглашающийся : прокуратура города Комо ведет следствия по отмывке денег и выдвинутая обвинение протрв президента фирмы \"Oak spa\" Вирджилио Полонья в уклонении от налогов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "разглашается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "следствие"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "выдвинула"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

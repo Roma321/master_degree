@@ -1,0 +1,20 @@
+{
+  "text": "По данным пресс-центра , шесть боевиков уничтожифшее в минувшиесутки в Кадарской зоне Дагестана при попыткой прорыва из окруженияиз селения Чабанмахи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "уничтожено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "попытке"
+    },
+    {
+      "correctReplacement": "уничтожившее",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам сотрудников ФСД , в последнее времена участившиеся попытках оказания давления на следствие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "попытки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "участились"
+    },
+    {
+      "correctReplacement": "ФСБ",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

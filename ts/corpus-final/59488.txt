@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщают Reuters , пяти профсоюзов призвали к этой забастовке в зак протеста против решения правительства Франции сократить продолжительность рабочей недели с 39 до 35 часов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "знак",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

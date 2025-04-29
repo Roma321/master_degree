@@ -1,0 +1,20 @@
+{
+  "text": "По расчетам специалистов , падение станции произойдет в тёмный время суток и наблюдать это зрелищем не претставляется возможным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "темное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "зрелище"
+    },
+    {
+      "correctReplacement": "представляется",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

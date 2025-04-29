@@ -1,0 +1,25 @@
+{
+  "text": "Очевидна , что цель честной комиссии - выявить ущербе , а российская , наоборот , предпочла бы никакого ущерба не найти , чтобы не плаченные Казахстану компенсацию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "платить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Очевидно"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ущерб"
+    },
+    {
+      "correctReplacement": "местной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

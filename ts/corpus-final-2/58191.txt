@@ -1,0 +1,25 @@
+{
+  "text": "Изобретатели уверяет , что для человеке естездвеннее запоминать не расположение клавиш , а то , какой символам при вводе текста соответствует тот или иной палец .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "каким"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Изобретатель"
+    },
+    {
+      "correctReplacement": "естественнее",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

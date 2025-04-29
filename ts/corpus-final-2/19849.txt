@@ -1,0 +1,20 @@
+{
+  "text": "В результате по меньшей мере 13 человек погибнем , многие побученные ранения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "полученные",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

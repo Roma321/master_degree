@@ -1,0 +1,25 @@
+{
+  "text": "Хотя США будут продолжаемые работать с любым избранным резидентом России , несколько месяцев президентства Путина вызывают больше тревоги , чем оптимизма - такова , по данным HTB . Ru , общее тональность выступления госсекретаря США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "вызывает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "общая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "продолжать"
+    },
+    {
+      "correctReplacement": "президентом",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

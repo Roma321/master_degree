@@ -1,0 +1,30 @@
+{
+  "text": "В полного объеме движение по автомагистрали , а также через узловыми блокпост возобновит 10 авоуста .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "блокпосты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "узловые"
+    },
+    {
+      "correctReplacement": "возобновится",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "августа",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Авиалайнером взлетал в условмях штормовой погоды - скорость ветра достигала 160 километрах в час .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "километров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Авиалайнер"
+    },
+    {
+      "correctReplacement": "условиях",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

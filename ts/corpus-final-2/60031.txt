@@ -1,0 +1,25 @@
+{
+  "text": "По слова матери девочки , вооруженный мужчина зашел в дома и попросил вод , затем ог потребовал у хозяйки 100 тысяч песо .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "воды"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дом"
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

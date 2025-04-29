@@ -1,0 +1,20 @@
+{
+  "text": "В минувшая вторник глава российского министерства юстиции Юрий Чайка и Патриарх Московская и всея Руси Алексий Второй пропищавшие соглашение о сотрудничестве , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "correctReplacement": "подписали",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

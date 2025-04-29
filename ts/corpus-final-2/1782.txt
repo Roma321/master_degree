@@ -1,0 +1,20 @@
+{
+  "text": "А для лидера чемпионата , пилота итальянской конюшни Михаэля Шумахера гонка окончившаяся на первом кругу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "закончилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "круге"
+    },
+    {
+      "correctReplacement": "закончившаяся",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

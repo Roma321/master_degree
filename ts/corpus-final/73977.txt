@@ -1,0 +1,20 @@
+{
+  "text": "По официальным данным заместившего начальника Генерального штаба Вооруженных силы Валерия Манилова , сейчас в Грозном действуем 500 боевиков .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "действуют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "заместителя",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

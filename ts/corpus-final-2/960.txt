@@ -1,0 +1,25 @@
+{
+  "text": "Хакеры обсуждавшие свои подрывные технологии включая даже такие идеи , как подмена результатов ежегодном конкурса MTV Movie Awards с помощью вломов через Интернет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обсуждали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "ежегодного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "взлома"
+    },
+    {
+      "correctReplacement": "взломов",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

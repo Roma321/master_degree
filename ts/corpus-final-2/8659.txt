@@ -1,0 +1,25 @@
+{
+  "text": "На дисках содержавшиеся программный продающие таких российскими компаний как ABBYY , ПРОМТ , \"Кодекс\" , \"Гарант\" , \"Консультант Плюс\" , \"1С\" , \"Интеллект Сервис\" , \"Парус\" , \"Компас\" , \"Галактика\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "содержались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "программные"
+    },
+    {
+      "correctReplacement": "продукты",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

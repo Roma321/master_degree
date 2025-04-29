@@ -1,0 +1,25 @@
+{
+  "text": "Свой отказ суде мотивировавший , в частности , тем , что Поупе обвиняется в совершении преступления , которое квалифицируешься как \"тяжкое\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "мотивировал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Поуп"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "квалифицируется"
+    }
+  ]
+}

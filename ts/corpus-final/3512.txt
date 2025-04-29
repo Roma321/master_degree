@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениям Итар-тассу , он с апреля этого гада отбывали наказание в тюрьме города Вильявисенсио за похищение детей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "отбывал"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

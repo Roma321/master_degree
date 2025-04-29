@@ -1,0 +1,25 @@
+{
+  "text": "При подсчёте голосов Мособлизбирком обнаружило подлог в пользу кандидат в губернаторы подмосковное Анатолия Тяжлова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "подсчете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "кандидата"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "correctReplacement": "Подмосковья",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

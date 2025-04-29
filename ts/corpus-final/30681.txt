@@ -1,0 +1,20 @@
+{
+  "text": "Это заявление Хайдер сделавший в прямой эфире австнийского телеканала ORF в воскресенье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "прямом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сделал"
+    },
+    {
+      "correctReplacement": "австрийского",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

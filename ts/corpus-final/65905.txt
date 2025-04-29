@@ -1,0 +1,25 @@
+{
+  "text": "Акция приурочу к юбилея компании Port . Ru Inc , которая 29 мая отмечает годовщину своей работы в Сеоей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "приурочена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "юбилею"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Сети"
+    },
+    {
+      "correctReplacement": "Сетей",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

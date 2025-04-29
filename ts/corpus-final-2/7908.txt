@@ -1,0 +1,20 @@
+{
+  "text": "По манным администрации рынка , за пять дней рост цен на продукт питания составленный 100 процентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "продукты"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

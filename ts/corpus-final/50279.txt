@@ -1,0 +1,20 @@
+{
+  "text": "В ответ около 150 серпов окружили дом , где находились американские солдаты , и не позволяли они выбраться наружу , сообщаешь BBC .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "им"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сербов",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "На заседанием палаты , которое после открытия сессии прошёл в закрытом режиме , т . е . без участия прессы , решившее пригласить президентов Бориса Ельцина , председателяправительства Владимира Путина , силовых министров , мэра Москвы Юрия Лужкова , начальника ГУВД Москвы и начальника УФСБ по Москве и Московских области , председателе Совета Федерации Егора Строевых , а так же руководителей Дагестана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заседание"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 48,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "решено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 51,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 55,
+      "correctReplacement": "Строева"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "пройдет"
+    }
+  ]
+}

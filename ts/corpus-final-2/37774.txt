@@ -1,0 +1,20 @@
+{
+  "text": "В столкновениях , которая не утихают на Ближнем Востоке уже полторы месяца , погибли 193 чедовека .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "полтора"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

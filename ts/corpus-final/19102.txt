@@ -1,0 +1,30 @@
+{
+  "text": "Так , были выявим отдельные нарушения , допустим региональными отделениями двибения во Владимирской области , а также в Саратовской и Омской области , сказал глава Минюстов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "выявлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Минюста"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "допущенные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "областях"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

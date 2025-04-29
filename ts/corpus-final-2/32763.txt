@@ -1,0 +1,25 @@
+{
+  "text": "Картина рывшая выставившая на аукцион Sotheby's ео стартовой ценой в 25750 долларов и продана за 78 тысяч доллары .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выставлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

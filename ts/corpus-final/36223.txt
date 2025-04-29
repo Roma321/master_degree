@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , в ходе депортации полина населения погибло . Часть людей умру в дороге , другие погибли уже в первые месяцыпосле доставки в Среднюю Азию и Казахстан .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "умерла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "погибла"
+    },
+    {
+      "correctReplacement": "половина",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

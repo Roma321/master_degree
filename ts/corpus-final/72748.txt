@@ -1,0 +1,25 @@
+{
+  "text": "Изыму дава пулемета , 19 автоматов , 16 гранатометов , 1380 единиц боеприпасов , 55 гранатомёта , 55 гранат и мин , 12 килограммов взрывчатых веществ к два взрывных устройства .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "гранатометов"
+    },
+    {
+      "correctReplacement": "два",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

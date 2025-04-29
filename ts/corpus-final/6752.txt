@@ -1,0 +1,30 @@
+{
+  "text": "Согласно правилам , организация работ по уборке и благоустройствам территорий возлагающийся , в зависимости от их принадлежности , на районные управы , префектуры администраторш округоф , балансодержателей , владельцев и арендаторами земельных участков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "возлагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "арендаторов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "благоустройству"
+    },
+    {
+      "correctReplacement": "административных",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "округов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

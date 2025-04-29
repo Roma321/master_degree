@@ -1,0 +1,25 @@
+{
+  "text": "Ричард Адамсон признан виновного в мошенничестве , так ктс он с 1995 по 1998 год незаконно использую программное обеспечение компании Hewlett-Packard для модернизации серверов , предназначенных к перепродаже , что позволяло повысить их цену .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "виновным"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "кас",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

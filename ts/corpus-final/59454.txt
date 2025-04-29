@@ -1,0 +1,25 @@
+{
+  "text": "Громким свифтами провожали российские болельщики , заполнившие Ледовый дворец на правами берегу Невы , российскую сборную , прлигравшую второй матч подряд на чемпионате мира .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "правом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "свистом"
+    },
+    {
+      "correctReplacement": "свистами",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "проигравшую",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

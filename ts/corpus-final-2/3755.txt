@@ -1,0 +1,25 @@
+{
+  "text": "Поводом для такого заявления послужила та факт , что в транспортную прокуратуру не обратился сотрудник службы безопасности ОРТ некто Ефимов , специально прибывший в Минск для оказания правовой помощей по факту исчезновения Завадском .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Завадского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "послужил"
+    }
+  ]
+}

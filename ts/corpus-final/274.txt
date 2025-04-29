@@ -1,0 +1,25 @@
+{
+  "text": "Но , несмотря на столь широкий охват ведущих площадок русского Сетей , активность избирателей была крайний низким .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "низкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Сети"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "русской"
+    },
+    {
+      "correctReplacement": "крайне",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

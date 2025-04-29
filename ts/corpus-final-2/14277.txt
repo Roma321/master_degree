@@ -1,0 +1,20 @@
+{
+  "text": "Батарея аппарата обеспечиваемый 180 минут разговора лили 9 часов воспроизведения музыкой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "музыки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обеспечивает"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

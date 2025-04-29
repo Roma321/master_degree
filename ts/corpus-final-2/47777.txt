@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас , сообщает ВВС , идущий сбор подписей под обращением к мэру Лондона Кену Ливингстону с просьбой установленные памятник Джону Леннону на Ррафальгарской площади Лондона в знаку признания заслуг музыканта перед Великобританией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "установить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "знак"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "Трафальгарской",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

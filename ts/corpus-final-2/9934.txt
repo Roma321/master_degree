@@ -1,0 +1,25 @@
+{
+  "text": "Предполагаюсь , что этим автомобилем пользуются некие выходцы с Кавказа , причастные к взрыву , сообщили журнащистам источник ГУВД в столицах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "столице"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

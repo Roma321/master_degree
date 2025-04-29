@@ -1,0 +1,20 @@
+{
+  "text": "Пожар в доме бомер 16 гачалась на чердаке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "начался"
+    },
+    {
+      "correctReplacement": "номер",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "началась",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

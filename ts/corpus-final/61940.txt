@@ -1,0 +1,15 @@
+{
+  "text": "Пожар распространившийся на воседние дома .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "распространился"
+    },
+    {
+      "correctReplacement": "соседние",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

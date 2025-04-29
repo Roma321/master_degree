@@ -1,0 +1,20 @@
+{
+  "text": "После инцидент женщину немедленно вывели из заюа , сообщаешь AP .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "инцидента"
+    },
+    {
+      "correctReplacement": "зала",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

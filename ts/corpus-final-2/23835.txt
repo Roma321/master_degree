@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявило в пятницу на пресс-конференции в Исламабаде глава МВД Пакистаноф Моинуддин Хайдер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Пакистана"
+    },
+    {
+      "correctReplacement": "Пакистанов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

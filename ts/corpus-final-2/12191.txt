@@ -1,0 +1,30 @@
+{
+  "text": "А вот в рейтинге , учитывающем результаты игроков за последние 52 недели , Кафельников занимающий мятую строчку и опережающий Сафина , который пока находится еа шестом место .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "опережает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "занимает"
+    },
+    {
+      "correctReplacement": "пятую",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

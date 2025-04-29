@@ -1,0 +1,20 @@
+{
+  "text": "Один из задержавших , фсевозможное , причастен к взрыву на Пушкинской площади в Москве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержанных"
+    },
+    {
+      "correctReplacement": "возможно",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "всевозможное",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

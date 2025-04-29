@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье , 24 сентября , около 17 . 30 в московское милицию по номеру 02 поступило анонимное сообщение о той , что в аэропорту \"Домодедово\" заложено взрывное расстройство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "московскую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

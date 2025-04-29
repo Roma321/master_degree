@@ -1,0 +1,25 @@
+{
+  "text": "В ноябре 1987 года агент , настоящее имя которого не раскрываются , прекративший грамоту , счылаясь на то , что им заинтересовалась MI5 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "прекратил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "раскрывается"
+    },
+    {
+      "correctReplacement": "работу",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "ссылаясь",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

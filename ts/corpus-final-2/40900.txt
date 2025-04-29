@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , война в Чечне переходящий в партизанского , причем российская армии и правоохранительные структуры насут потери в два-три раза большие , чем при фронтальных боевых действиях , но генералы скрывают от президента истинные масштабы потерь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "партизанскую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "переходит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "армия"
+    },
+    {
+      "correctReplacement": "несут",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Машины убывдие арестованы 14 сентября прошлому года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "прошлого"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "убывшие",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

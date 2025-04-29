@@ -1,0 +1,20 @@
+{
+  "text": "Украина , в своё очередь , взяла на себя обязательства соблюдать партнерские отношения в вопросах выплаты за газ и его транзитом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "транзит"
+    },
+    {
+      "correctReplacement": "оплаты",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

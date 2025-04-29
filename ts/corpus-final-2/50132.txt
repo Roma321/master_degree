@@ -1,0 +1,20 @@
+{
+  "text": "Одна женщина полибла и четверо человек ранены в результате взрыва гранаты в салоне красоты в западноберлинской районе Шенеберга , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "западноберлинском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Шенеберг"
+    },
+    {
+      "correctReplacement": "погибла",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

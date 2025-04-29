@@ -1,0 +1,20 @@
+{
+  "text": "6 процентов участников опроса назовём нынешней главу России Владимира Путина , 5 процентов - одного из лидеров суперскиёв времен Леонида Брежнева .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "назвали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "correctReplacement": "советских",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

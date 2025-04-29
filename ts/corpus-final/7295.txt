@@ -1,0 +1,25 @@
+{
+  "text": "На украденных дисках содержалась информация о местоположении египетских нефтяных , газовых и урановых перерождений , золотых и медных рудников , а также другие секретных данные пз область географии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "секретные"
+    },
+    {
+      "correctReplacement": "месторождений",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

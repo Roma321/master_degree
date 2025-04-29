@@ -1,0 +1,20 @@
+{
+  "text": "Согласно документу , руководитель исполнительной власти региона назначаешь представителя в Совет Фадерации и в трехдневный срок сообщал о своем решении в законодательный орган .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "назначает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

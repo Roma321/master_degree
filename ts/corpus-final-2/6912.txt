@@ -1,0 +1,30 @@
+{
+  "text": "Из тюрьмы в Приштинр снова сбежал 15-летний албанец , подозревавший в убийство российского миротворца из составов KFOR , сообщаю ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "состава"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "убийстве"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "подозреваемый"
+    },
+    {
+      "correctReplacement": "Приштине",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

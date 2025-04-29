@@ -1,0 +1,25 @@
+{
+  "text": "На ушицы вышли представители самых разных групп : борец за права человека и за права черепах , представители запрещенного в Китай движения Фалуньгун и американский профсоюзы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "американские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Китае"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "борцы"
+    },
+    {
+      "correctReplacement": "улицы",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

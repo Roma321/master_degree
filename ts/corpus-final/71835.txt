@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествия работали 30 пожарным расчетов , однако они не смогли справиться с огнем , и пришлась вызываемые специальный пожарный вертолет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "пришлось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пожарных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "вызывать"
+    }
+  ]
+}

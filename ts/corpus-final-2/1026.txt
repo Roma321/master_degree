@@ -1,0 +1,20 @@
+{
+  "text": "Председательствовавший на заседании маршал Сергеев не по.держало инициативе Генштаба .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "поддержал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "инициативы"
+    },
+    {
+      "correctReplacement": "поддержало",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

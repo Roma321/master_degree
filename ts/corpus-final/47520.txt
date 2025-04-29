@@ -1,0 +1,20 @@
+{
+  "text": "После срочной эвакуаций людей из магазина вызванные филологи с собаками установим , что в мешке , действительно , находится взрывное устройство .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "установили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "эвакуации"
+    },
+    {
+      "correctReplacement": "кинологи",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

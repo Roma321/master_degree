@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудникамиподмосковного РУБОП предотвращён террористический акт в зданииХимкинского народного суда , расположенному на первом этажежилого доиа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "предотвращен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

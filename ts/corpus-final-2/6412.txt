@@ -1,0 +1,20 @@
+{
+  "text": "Кафельникоф по-прежнему занимающий пятое место , а Сафин - девятый .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "девятое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "занимает"
+    },
+    {
+      "correctReplacement": "Кафельников",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

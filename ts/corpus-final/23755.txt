@@ -1,0 +1,25 @@
+{
+  "text": "Жириновские сказал , что на заседании отфракции ОВР была выдвинувшая кандидатура Евгения Примаковых , причем сам Примаков сообщил , что она была сегодня единогласноподдержу на заседании фракции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Жириновский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выдвинута"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Примакова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "единогласноподдержана"
+    }
+  ]
+}

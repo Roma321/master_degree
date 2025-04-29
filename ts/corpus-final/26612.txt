@@ -1,0 +1,25 @@
+{
+  "text": "Марш протеста был организовавший после того как в пятницу в столицы Испании произойду два мощных взрыва , в результатах которых погиб подполковник Педро Бланко Гарсиа и несколько человек получили ранения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "организован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "столице"
+    }
+  ]
+}

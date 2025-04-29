@@ -1,0 +1,20 @@
+{
+  "text": "Пострадали , в основное , люди , находившиеся близко к сцене - на них сзади накинулись другие зритнли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "основном"
+    },
+    {
+      "correctReplacement": "основное",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "зрители",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Работа компании была описано очень детально - в частность , сообщалось , что для продлений контракта на бесплатную машину водителей должны регулярно здавать анализы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "описана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "продления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "водители"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "сдавать",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

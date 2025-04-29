@@ -1,0 +1,30 @@
+{
+  "text": "Госдума в аонедельник принятая постановление , в соответствии с которым рекомендованная правительству России продлить срок действия водительских удостоверений старого образцов до 30 июней 2000 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "рекомендовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "образца"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

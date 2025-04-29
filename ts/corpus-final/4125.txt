@@ -1,0 +1,20 @@
+{
+  "text": "В отставок \"Интердринк 99\" , которая проходио в выставочном комплексе \"Экспоцентр\" , участвуют более 100 компаний из 11 стран .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "выставке"
+    },
+    {
+      "correctReplacement": "выставках",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "проходит",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

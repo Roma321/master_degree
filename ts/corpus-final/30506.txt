@@ -1,0 +1,20 @@
+{
+  "text": "Это срок истек 4 февраля , за исключением владиму Морозова , который может находиться в следственном изоляторе до 19 февраля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Этот"
+    },
+    {
+      "correctReplacement": "Владимиру",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

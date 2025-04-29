@@ -1,0 +1,20 @@
+{
+  "text": "Военные такое сообщили , что за несколько часов до этого теракта в Октябрьском районе Грозном на мине подорвалось автомобиль ГАЗ-56 , принадлежащей комендатуре района .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "подорвался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Грозного"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

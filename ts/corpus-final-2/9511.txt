@@ -1,0 +1,20 @@
+{
+  "text": "Несколько новостного компаний , включая New York Times и Washington Post , в аонце июля подали в суд на интернет-компанию GoSMS . com , которая собирает материалы с сайты этих компаний и транслирует их на мобильные телефоны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "сайтов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "новостных"
+    },
+    {
+      "correctReplacement": "конце",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

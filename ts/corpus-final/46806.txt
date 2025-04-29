@@ -1,0 +1,25 @@
+{
+  "text": "На конференции стран - членами ОПЕК в Вене в понедельник принявшее решение об увеличении добычи нефти на 8 , 7 процента , или примерно на двум миллиона баррелей в день , сообщающий РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "членов"
+    }
+  ]
+}

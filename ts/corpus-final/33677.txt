@@ -1,0 +1,25 @@
+{
+  "text": "Ойданичи - магистры военных наук , награжден многочисленными ордерами и медалями , в той числе Орденом Свободы за оборону Югославии от агрессии НАТО в марте-июне прошлого года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Ойданич"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "магистр"
+    },
+    {
+      "correctReplacement": "орденами",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

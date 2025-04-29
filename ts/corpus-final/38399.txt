@@ -1,0 +1,30 @@
+{
+  "text": "Представители полиции сказали , что , возможно , за день до происшествия между детям происшедшая ссора или драка , а на следующий зень мальчик решённый отомщённые .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "детьми"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "отомстить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "решил"
+    },
+    {
+      "correctReplacement": "день",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

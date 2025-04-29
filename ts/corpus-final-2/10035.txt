@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый Associated Press , в четверги спикер Белого дома Джейк Сиуэрт признанный , что в последнюю месяц , действительно , наблюдался рост числа подобных инцидентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "последний"
+    }
+  ]
+}

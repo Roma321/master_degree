@@ -1,0 +1,30 @@
+{
+  "text": "Cредства пошли на реализации проектов по нескольким приоритетным направлениям , в том числе в сфере соблюдения прай человека , содействия демократическим реформам и обеспечения ядерной бесплатность в РФ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "пойдут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "реализацию"
+    },
+    {
+      "correctReplacement": "безопасность",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "прав",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

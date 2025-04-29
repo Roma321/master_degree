@@ -1,0 +1,35 @@
+{
+  "text": "Тем не мебее между нефтяными концернами действую договоренность , согласно которой цены на нефтепродукты для потребителей в альпийской республике не можете превышаемые ценами в другие государствах ЕС более чем на 0 , 4 шиллинга .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "превышать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "действует"
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

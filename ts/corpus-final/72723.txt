@@ -1,0 +1,30 @@
+{
+  "text": "Марко Стрюн (Marco Streun) , сотрудник юридического департамента швейцарской банка Готтардо в городе Лугано , официально подтвердил корресподенту агентства Associated Press , что этот банк выдавала гарантии под кредитные карточки для президента РФ Борис Ельцина , а также двух его дочерей - Татьян Дьяченко и Елены Окуловой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "выдавал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "Татьяны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "швейцарского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Бориса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "гарантию"
+    }
+  ]
+}

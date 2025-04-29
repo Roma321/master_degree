@@ -1,0 +1,30 @@
+{
+  "text": "К участию в работе конференции пригласившие представители высочайших правительственными , вспомогательных и судебных органов Российской Федерации , представители служб безопасностью , а также юридических , благотворительных и образовательных учреждений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "приглашены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "высших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "правительственных"
+    },
+    {
+      "correctReplacement": "законодательных",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

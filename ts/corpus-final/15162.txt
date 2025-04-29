@@ -1,0 +1,20 @@
+{
+  "text": "Врачи говорят , что в наиболее тяжёлым расстоянии находится один из техникам самолета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "техников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "correctReplacement": "состоянии",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

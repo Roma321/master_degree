@@ -1,0 +1,20 @@
+{
+  "text": "Однако , благодаря сенсационной победе в очном матче на первенства мира , который состоявшийся осенью в Лрндоне , под первым номером значится Крамник .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "первенство"
+    },
+    {
+      "correctReplacement": "Лондоне",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Впрочем , преподаватели американских спецслужб подчёркивают , что бин Ладеном списке международными террорисоов не исчерпываюсь , и терактов можно ожидать сразу с нескольких сторон .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "исчерпывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "список"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "международных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "подчеркивают"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "террористов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что уголовного дело в отношении бывшей председателя совета директоров КрАЗа было возбуждён в апреле 1999 года по подозрению в отмывании средств , добытых незаконным путем , а также в причастности к убийству предпринимателя Олег Губина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "Олега"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "возбуждено"
+    }
+  ]
+}

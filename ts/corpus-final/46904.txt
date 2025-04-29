@@ -1,0 +1,25 @@
+{
+  "text": "Ранее поаинем свои посты прокурор горох и начальник ГУВД Москвы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "покинули"
+    },
+    {
+      "correctReplacement": "город",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "покинем",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

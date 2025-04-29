@@ -1,0 +1,30 @@
+{
+  "text": "Элан Стейнберг , исполнительном директор конгрессе , призвала Интерпол не преследовать еврея , который заявляет , что был нагнанное из России из-за того , что его СМИ критиковали Кремль .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "изгнан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "конгресса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "исполнительный"
+    },
+    {
+      "correctReplacement": "изгнано",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

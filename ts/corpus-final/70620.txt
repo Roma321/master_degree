@@ -1,0 +1,15 @@
+{
+  "text": "Машина получили повреждепия и взорвалась .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "получила"
+    },
+    {
+      "correctReplacement": "повреждения",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

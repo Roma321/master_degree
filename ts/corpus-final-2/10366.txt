@@ -1,0 +1,20 @@
+{
+  "text": "Он заявило , что никто и ничто не сможет заставить его свернуть с избранного пути , даже амерть родные и ежедневные угрозы физической расправы со стороны ваххабитов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "родных"
+    },
+    {
+      "correctReplacement": "смерть",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Одним из пленным оказался высочайшим сотрудником милиции Чеченской Республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "пленных"
+    },
+    {
+      "correctReplacement": "бывшим",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

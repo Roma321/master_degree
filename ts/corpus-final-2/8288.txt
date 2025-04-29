@@ -1,0 +1,25 @@
+{
+  "text": "В интервью CNN представитель Национальной службы охраны лесопарковых зон США Майк Домбрк заявивший , что речи фактически шёл о \"национальном кризисе\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "речь"
+    },
+    {
+      "correctReplacement": "Домбек",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

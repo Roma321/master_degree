@@ -1,0 +1,20 @@
+{
+  "text": "Работая в отделению беспризорная терапии , Сальдивар отключал пациентов , которых он считал смертельно больными , от систем жизнеобеспечения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "отделении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "респираторной"
+    },
+    {
+      "correctReplacement": "респираторная",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

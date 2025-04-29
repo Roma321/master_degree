@@ -1,0 +1,30 @@
+{
+  "text": "Александр Зданович подчеркнул , что руководители организации угрожали исполнителей убийством их родственников в случай отказа от завершение террористических акта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "актов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "исполнителям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "угрожают"
+    },
+    {
+      "correctReplacement": "совершения",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

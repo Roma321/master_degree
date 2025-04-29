@@ -1,0 +1,25 @@
+{
+  "text": "На всей территории , прилегавшей к Кемп-Дэвиду , резко усилены меры безопасность и доступ всем посторонним лицам в этот району запрещена .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "прилегающей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "запрещен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "район"
+    }
+  ]
+}

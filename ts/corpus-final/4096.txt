@@ -1,0 +1,30 @@
+{
+  "text": "В антервью Моррис также сообщил , что он и его жена планируют открывшие аналогичный сайты для других странах , и уже проводящие предварительную подготовку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "открыть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "стран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "аналогичные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "проводят"
+    },
+    {
+      "correctReplacement": "интервью",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

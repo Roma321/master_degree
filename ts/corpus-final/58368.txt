@@ -1,0 +1,20 @@
+{
+  "text": "По словам задержанного , ему знала , что подобные вещи не подлежат вывозу из России , поэтому не стал вносить енигу в декларацию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "знал"
+    },
+    {
+      "correctReplacement": "книгу",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

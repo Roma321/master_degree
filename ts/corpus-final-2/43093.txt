@@ -1,0 +1,25 @@
+{
+  "text": "Ночью в Приморьем температура воздуха опускается до 25-30 градусов ниже нулей , потому в подъездах и на первых этажах многих жилых домов поьопались батареи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Приморье"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нуля"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "полопались",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

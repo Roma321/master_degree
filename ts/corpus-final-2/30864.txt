@@ -1,0 +1,25 @@
+{
+  "text": "Помощник прокурора подчеркнула , что Татаренков был доставлено из Греции в Красноярск не как свидетель по делу бывшего председателя советов директорах Красноярского алюминиевой завода , а как руководитель банды .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "совета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "алюминиевого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "директоров"
+    }
+  ]
+}

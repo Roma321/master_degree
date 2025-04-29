@@ -1,0 +1,25 @@
+{
+  "text": "Правоохранительные орган Санкт-Петербурга направим запрос вИнтерпол в связи с кражей антикварных книг из библиотеки Российскощо Академии наук , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "направили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "органы"
+    },
+    {
+      "correctReplacement": "Российского",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

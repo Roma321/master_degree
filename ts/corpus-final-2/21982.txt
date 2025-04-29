@@ -1,0 +1,25 @@
+{
+  "text": "Россиянку отлично выступило в заключительном виде программы , беге на 800 метгов , и опередила соперницу на четыре очки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "выступила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Россиянка"
+    },
+    {
+      "correctReplacement": "очка",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "метров",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

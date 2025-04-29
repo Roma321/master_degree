@@ -1,0 +1,20 @@
+{
+  "text": "На уборку города была бросившая вся имеющаяся в наличии техника , и к утру крупных магистрали удалось очистить от снега , в отличие от периферийных дорог , тротуаров и подводных переходов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "крупные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "брошена"
+    },
+    {
+      "correctReplacement": "подземных",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

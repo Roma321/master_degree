@@ -1,0 +1,20 @@
+{
+  "text": "Тело древней рыб имеющий длину 70 сантиметров и вес 12 кигограммов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "рыбы"
+    },
+    {
+      "correctReplacement": "килограммов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

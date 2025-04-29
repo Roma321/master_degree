@@ -1,0 +1,25 @@
+{
+  "text": "Командование израильской армии разрабатывает план возможной эвакуации еврейских поселенцами , проживавших в секторе Газа , сообщаю РИА \"Новости\" сг ссылкой на газету \"Гаарец\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поселенцев"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "проживающих"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

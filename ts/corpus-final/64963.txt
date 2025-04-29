@@ -1,0 +1,30 @@
+{
+  "text": "Это , в своей очередь , создашь серьезные габаритные ситуации в канализационной системе , которая уже давно нуждался в ремонте , заявлю Поздняков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "нуждается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "создаст"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "аварийные",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

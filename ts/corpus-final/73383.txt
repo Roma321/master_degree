@@ -1,0 +1,25 @@
+{
+  "text": "Назарбаеву предстояли встречи с президентом России Владимиром Путиным , премьер-министром Михаилом Касьяновым , спикерами обеих палат Федеральной Собрания , патриархом Московский и всего Руси Алексием II .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Московским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предстоят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "всея"
+    }
+  ]
+}

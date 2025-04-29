@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщает британская The Telegraph , неудачный рекламное ход Burger King состоял в тех , что всем покупателям , делаемым заказ по детскому меню , выдавался компакт-диск компания KZuk . net с программами безопасного доступа в Интернет бля детей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "делающим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "рекламный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Франция проинформировал Комитет по санкции СБ ООН в четверг вечером о том , что отправленный гуманитарный рейс в Ирак в пятницу , но отвергла требование задержать полет на 12 часам для выяснения обстоятельств и получения разрешентя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "проинформировала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "санкциям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "отправит"
+    },
+    {
+      "correctReplacement": "разрешения",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

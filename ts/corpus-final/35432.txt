@@ -1,0 +1,25 @@
+{
+  "text": "Во Владивостоке в связи с утробой взрыва эвакуируемы жильцы многоквартирной дома , расположенной практически в центре города .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "многоквартирного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "correctReplacement": "угрозой",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Если со стороны парламента в течение двух суток не последуешь официальных возражений к началу расследования , то следователи начнут собирать фекты по этой дела .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "последует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "делу"
+    },
+    {
+      "correctReplacement": "факты",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

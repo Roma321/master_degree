@@ -1,0 +1,25 @@
+{
+  "text": "Деструктивное воздействие червя состоит в отключении некоторых функций Windows : отображение значков на рабочему столе , писк файлов , настройки сетевой окружения , возможность выключить компьютер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "сетевого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "настройку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "рабочем"
+    },
+    {
+      "correctReplacement": "поиск",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

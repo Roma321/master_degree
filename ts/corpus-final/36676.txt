@@ -1,0 +1,20 @@
+{
+  "text": "В год в РФ добывающийся около 300 миллионов тонны нефти , при этом почти половина этого одъема идет на экспорт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "добывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "тонн"
+    },
+    {
+      "correctReplacement": "объема",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

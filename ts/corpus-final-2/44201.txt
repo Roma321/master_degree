@@ -1,0 +1,20 @@
+{
+  "text": "Должниками энергетиков является Волгоградская государственная телерадиовещательная компания , которая финансируется из бюджетоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Должником"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "correctReplacement": "бюджетов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "По данным Госсанэпиднадзора РФ , у 28-ми заботивших диагноз подтверждён лабораторными исследованиями .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "подтвержден"
+    },
+    {
+      "correctReplacement": "заболевших",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

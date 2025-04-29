@@ -1,0 +1,30 @@
+{
+  "text": "Сегодня объявлен победитель литературной иеремии Букера , присуждаемых ежегодно за наихороший рочан , написанный на русских языке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "присуждаемой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "русском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "лучший"
+    },
+    {
+      "correctReplacement": "премии",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "роман",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В заявлении испанского МИДа говорится , что Лондону переданы юридические обоснования судьи Бальтасаров Гарсона , который добивается выдачи Пиночета и теперь настаиваешь на том , чтобы бывшей чилийском лидера осмотревшие врачи , назначившие самим Гарсоном .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "осмотрели"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "настаивает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Бальтасара"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "назначенные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "чилийского"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "пии этом в пресс-службе АО \"Алтайэнерго\" отметили , что сами ракетные установке обесточиваться на будут - под отключение электроэнергии попадут только административный объекты дивизии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "установки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "административные"
+    },
+    {
+      "correctReplacement": "При",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Талибы , которые захватили уже 95 процентов всей территории Афганистана , запретмли музыкой и телевидение , а женщинам откажем в праве учившиеся в школах и выходить из дома с непокрытой головой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "учиться"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "отказали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "музыку"
+    },
+    {
+      "correctReplacement": "запретили",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

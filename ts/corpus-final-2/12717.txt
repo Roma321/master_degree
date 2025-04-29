@@ -1,0 +1,30 @@
+{
+  "text": "Запрет на синицу из Великобритании последовало после того , как на фермах в Восточной Англией были зафиксировавшие случаи заюолевания свиной чумой , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "зафиксированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Англии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "последовал"
+    },
+    {
+      "correctReplacement": "свинину",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "заболевания",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По сообщению Wall Street Journal , небольшая часть из переведённых денег - деньги российских экспортеров , стремившихся оплачивать поставки своих западных партнеров , избегая выплаты российских налогов и таможенных сборов . Правоохранительные органы выясняем , не является ли часть этих средств доходами ьт криминальной деятельности или кредиты , предоставившими России международными финансовыми организациями .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "переведенных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 33,
+      "correctReplacement": "выясняют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 48,
+      "correctReplacement": "предоставленными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 46,
+      "correctReplacement": "кредитами"
+    },
+    {
+      "correctReplacement": "большая",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 42
+    }
+  ]
+}

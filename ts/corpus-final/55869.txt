@@ -1,0 +1,25 @@
+{
+  "text": "Некоторое тревогу также вызываете сведения о намеченной на ноябре в Эр-Рияде встрече нефтяных министров Саудовской Аравии , Веаесуэлы и Мексики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Некоторую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "вызывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ноябрь"
+    },
+    {
+      "correctReplacement": "Венесуэлы",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "И . о . президент , в своя очередь , привепствовал создание Российских союза юристов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Российского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "приветствовал",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

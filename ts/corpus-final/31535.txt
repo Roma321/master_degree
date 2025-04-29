@@ -1,0 +1,25 @@
+{
+  "text": "Ребята получили тяжелые ожоги и рывшие госпитализируем я 9-й детскую больницу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "9-ю"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Эти оценки базировались на уверенности в том , что страны ОПЕК сохраняют , в целых , единый подход у своей ценовой политике и уже в январь можно ожидавшие сокращение ОПЕК объёмов добычи нефти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "январе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "целом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "объемов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "базируются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "ожидать"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

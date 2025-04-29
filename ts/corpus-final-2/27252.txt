@@ -1,0 +1,35 @@
+{
+  "text": "Функции Moodwatch производишь анализ текста письма на наличие \"опасных\" слов и выражений из специальнлм словаря (flame dictionary) , составленного пра участии Дэвида Кауферов , эксперта-лингвиста из Carnegie Mellon University , который считает флэйм (\"наезды\" в Сети) разновидностью народного творчества .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "специального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Кауфера"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "производит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Функция"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "специальном",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

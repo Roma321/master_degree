@@ -1,0 +1,20 @@
+{
+  "text": "Рыбаков был рзбран депутат Санкт-Петербургского городскогосоветом , председателем Комиссии по правам человекаСанкт-Петербурга в 1990-1993 годах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "депутатом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "городскогосовета"
+    },
+    {
+      "correctReplacement": "избран",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

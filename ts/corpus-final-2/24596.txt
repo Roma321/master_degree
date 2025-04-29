@@ -1,0 +1,30 @@
+{
+  "text": "В соответствии с подписанной документом , ставка вывозной таможеннмя пошлины на нефть устанавливаюсь в размере 34 евро за тонну , на дизельное топливо - 32 евро за тонны , на мазут - 27 евро за тонну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "тонну"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "устанавливается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "таможенной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "подписанным"
+    },
+    {
+      "correctReplacement": "таможенная",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщалась , в июнях страны \"Большой семерки\" занесли Россию в числе 15 странах в \"верный список\" государств , отказывающегося от сотрудничества в борьбе с отмыванием преступных денег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "июне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "отказывающихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "стран"
+    },
+    {
+      "correctReplacement": "\"черный",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

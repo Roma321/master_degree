@@ -1,0 +1,30 @@
+{
+  "text": "Ожидающийся , чтб в ближайшие дни бывшие оглашеныокончательных результат расследования аварии в Париже . Британские газеты уже получили этот документ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "результаты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "будут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "оглашеныокончательные"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Активное давление на Париж окахывает Европейская комиссия , снявший этой осенью все ограничениями на европейские континентальные закупки британской мяса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "снявшая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ограничения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "британского"
+    },
+    {
+      "correctReplacement": "оказывает",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

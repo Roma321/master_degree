@@ -1,0 +1,20 @@
+{
+  "text": "Их заявили , что представительство пошло на немаловажные уступки , в том числе согласилось значительно снизить налоги на топливом , сообщает ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Они"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "топливо"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

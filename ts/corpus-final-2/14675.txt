@@ -1,0 +1,20 @@
+{
+  "text": "Само же Абу Хамуд скрылся на контролируемую палестинцами территорию и сдался местного петиции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Абоненты сможем получать информацией об остатках на своих счетах , оплачивающие коммунальным услуги или счета МТС , проводить другие денежные операции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "коммунальные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оплачивать"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "информацию"
+    }
+  ]
+}

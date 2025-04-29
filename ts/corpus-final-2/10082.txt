@@ -1,0 +1,20 @@
+{
+  "text": "Согласно договору , в этом году Белоруссия должен была перечислить РФ 20 миллионами докладов в счет погашения кредита .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "должна"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник в 5 : 35 утра на складе автотранспортного предприятии , расположенного не Ташкентской улице в Петербурге , вспыхну пожар .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "вспыхнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "предприятия"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

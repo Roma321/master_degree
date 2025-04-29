@@ -1,0 +1,35 @@
+{
+  "text": "Пбенным боевики рассказывающие , что на днях Басаеву была проведена приторная операции в связи с гангреной , развившейся после ампутацию ноги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "ампутации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Пленные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "операция"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассказывают"
+    },
+    {
+      "correctReplacement": "повторная",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Пленным",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

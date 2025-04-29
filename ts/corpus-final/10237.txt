@@ -1,0 +1,30 @@
+{
+  "text": "В дочь с 23 на 24 ноябрей вблизи израильского города Тверия была в последнюю момент предотвратившая попытка поджога русской православноы церкви .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "предотвращена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "последний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "ноября"
+    },
+    {
+      "correctReplacement": "ночь",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "православной",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

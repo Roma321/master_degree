@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , в соответствии с достигнутым накануне беспрецендентным соглашением с Лондонскими клубом России спишут 36 , 5 процентов долга , общее объем которогр составляющий 32 миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "общий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Лондонским"
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

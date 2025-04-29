@@ -1,0 +1,35 @@
+{
+  "text": "На церемоний не обошлось без недоразумений - в ней наотрез отказался участвовать греческого посол , потому что стол для официальной банкета был накрыты с шалом парфеноновских статуй , возвращения которых Греция безуспешно добивается .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "греческий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "накрыт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "официального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "церемонии"
+    },
+    {
+      "correctReplacement": "зале",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Взлом корпоративной сети кампаний Microsoft , произошедший в чедверг , был признан экспертами типичным случаем промышленной шпионажа , сообщает в пятницу новостной сайт Wired News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "промышленного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

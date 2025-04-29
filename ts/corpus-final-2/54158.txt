@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , презент Лукашенко попросил , чтобы руководство Католическая церковь в Белоруссии как можно быстрее \"решило кадровые вопрос\" : дело в том , что сейчас большинство ксендзов в стране - поляки и литовец .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "литовцы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "кадровый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Католической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "церкви"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

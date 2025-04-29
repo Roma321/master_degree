@@ -1,0 +1,25 @@
+{
+  "text": "При этом экс-премьера подтвердил свое намерении продолжать заниматься политикой и ныставить свою кандидатуру на декадентских выборах 2001 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "экс-премьер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "намерение"
+    },
+    {
+      "correctReplacement": "президентских",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "выставить",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Татьяны Панова уступила Дженифер Каприати 4 : 6 , 6 : 3 , 1 : 6 , а Надежда Петрова практически без борьбы проиграю другой американкам Лизе Рецмонд - 2 : 6 , 1 : 6 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Татьяна"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "проиграла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "американке"
+    },
+    {
+      "correctReplacement": "Реймонд",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

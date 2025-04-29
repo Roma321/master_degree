@@ -1,0 +1,30 @@
+{
+  "text": "иваныч также сообщило , что указ и законопроекта приняты по многим причинам , в том числе и по многочисленным просьбам жителей Чечни , которые обращаемся в Москву и просили не проводить выборов Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "законопроект"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "обращались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "Иванов",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

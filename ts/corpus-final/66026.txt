@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратура Александровской района возбудила пш факт уголовное дело по Cтатье 126 , части 2 УК РФ (похищение человека) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Александровского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "факту"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

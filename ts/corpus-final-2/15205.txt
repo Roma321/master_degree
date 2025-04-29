@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость работ составленная 13 миллионах долларов , однако некоторые документы доказывали , что за опровержение этих работ Россия выплатила около 39 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "доказывают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составила"
+    },
+    {
+      "correctReplacement": "проведение",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

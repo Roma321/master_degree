@@ -1,0 +1,20 @@
+{
+  "text": "Кроме него , в машине нахожусь еще один пассажир . Водители \"по внешнис признакам был в состоянии алкогольного опьянения\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Водитель"
+    },
+    {
+      "correctReplacement": "внешним",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

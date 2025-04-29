@@ -1,0 +1,20 @@
+{
+  "text": "Церемония подписания прошла в присутствии министра обороны Кубы , младшего брата кубинской лидероф генерала Рауля Кастро .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "кубинского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "лидера"
+    },
+    {
+      "correctReplacement": "лидеров",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

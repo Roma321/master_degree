@@ -1,0 +1,20 @@
+{
+  "text": "По заявления представителей суда , США не иогут проигнорировать геноцид , где бы тот не происходило .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "происходил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлениям"
+    },
+    {
+      "correctReplacement": "могут",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

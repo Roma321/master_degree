@@ -1,0 +1,30 @@
+{
+  "text": "4 февраля в Москве состоявшаяся встреча исполнявшего обязанности президента России Владимира Путина с министре иностранных дел Франции Юбером Ведриным , прибывшей в Москву с однодневным рабочему визитом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "министром"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "исполняющего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "прибывшим"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "рабочим"
+    }
+  ]
+}

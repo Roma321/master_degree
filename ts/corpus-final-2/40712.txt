@@ -1,0 +1,25 @@
+{
+  "text": "Как передает Reuters со ссылкой не устроивших концерта , тенор был сильно простудивший , и его пение никак не соответствовало его репутация .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "простужен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "репутации"
+    },
+    {
+      "correctReplacement": "устроителей",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

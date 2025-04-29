@@ -1,0 +1,20 @@
+{
+  "text": "На первое сентября в программе запланировавшее посещение одной из школ поселка Красный Яры и возвращение в Москве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "запланировано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Москву"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Яр"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Далее места распределившиеся следулщим образ : у депутата Госдумы Станислава Говорухина - 1 , 84 процента голосов избирателей , у Элл Памфиловой - 1 , 83 процента , у губернаторов Кемеровской области Амана Тулеева - 1 , 61 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Эллы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "распределились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "образом"
+    },
+    {
+      "correctReplacement": "следующим",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

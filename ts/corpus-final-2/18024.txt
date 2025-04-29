@@ -1,0 +1,25 @@
+{
+  "text": "Другой археолог опишу находку как традиционных для черноморского региону \"мазанку\" - старение из дерева , обмазанного глиной .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "традиционную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "региона"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "описал"
+    },
+    {
+      "correctReplacement": "строение",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

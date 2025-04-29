@@ -1,0 +1,25 @@
+{
+  "text": "В 20 : 33 по московскому времени на сервере АПН появилось отвержение за подписью главного редакторов Станислава Белковского , где , в частности , сказано : Мы ведущие с компанией Cityline развернутые консультации о сотрудничестве в самых разного областях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "ведем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "редактора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "разных"
+    },
+    {
+      "correctReplacement": "опровержение",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

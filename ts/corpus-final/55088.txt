@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , действия сотрудника ГТК \"сопровождались угрозами вызвать ОМОН , СОБР ислужбы безопасности ГРК\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ислужбу"
+    },
+    {
+      "correctReplacement": "ГТК\"",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

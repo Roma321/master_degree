@@ -1,0 +1,35 @@
+{
+  "text": "Эта сеть была создана в начале года бывшим президентом Московского фондовой биржи Виктора Сахаровым совместно с павшим министром иностранных дел Андреем Козыревым и старался объединить все сектора экономики - от сельского хозяйства до металлургии , являвшись таким образами многоотраслевым порталом B2B , участниками которого стали уже 300 предприятий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "образом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "старается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Виктором"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 35,
+      "correctReplacement": "являясь"
+    },
+    {
+      "correctReplacement": "бывшим",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

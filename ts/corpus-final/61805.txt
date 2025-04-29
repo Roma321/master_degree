@@ -1,0 +1,20 @@
+{
+  "text": "Продавцы оружия очень надеялись , что ошибка будет устранившая к субботине , поскольку это наиболее популярное день для покупки оружия в США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "популярный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "устранена"
+    },
+    {
+      "correctReplacement": "субботе",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

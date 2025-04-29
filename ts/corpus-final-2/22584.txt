@@ -1,0 +1,25 @@
+{
+  "text": "Как заявило сотрудник прокуратуры Ингушетии , беспорядочный огня по гражданское автомашинам был произведен солдатами-контрактниками Виталием Жетниковым и Адилем Халидовым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "гражданским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "огонь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "Житниковым",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

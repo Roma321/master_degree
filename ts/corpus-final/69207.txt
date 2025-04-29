@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , осенью прошлого года Dragon Oil и вредительство республики подписавшие соглашение о раздел продукции на территории морских месторождений Каспийского морей , что позволило компании значительно активизировать свои усилия по нефтедобыче .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "моря"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "разделе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подписали"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

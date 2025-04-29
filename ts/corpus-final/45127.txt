@@ -1,0 +1,20 @@
+{
+  "text": "ЦИК от имени комиссий всех уровней заявленный , что \"голос каждого принявшей участие в выборгах избирателя будет учтен , и это не просто слова\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "принявшего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В январе этого года в новых здании Третьяковской галери на крамском Валу с большим успехом прошла большая выставки работ художников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "новом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "выставка"
+    },
+    {
+      "correctReplacement": "Крымском",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

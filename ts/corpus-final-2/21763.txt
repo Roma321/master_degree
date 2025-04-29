@@ -1,0 +1,25 @@
+{
+  "text": "23 скнтября в Доме правительства состоялась встреча премьер-министрамихаилом Касьянова с главой Минпечати михаэлем Лесиными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "премьер-министраМихаила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Лесиным"
+    },
+    {
+      "correctReplacement": "Михаилом",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "сентября",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

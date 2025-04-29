@@ -1,0 +1,25 @@
+{
+  "text": "По дороге к елиаейской машине её прокричало : \"Я буду продолжать борьбу ! \" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "прокричала"
+    },
+    {
+      "correctReplacement": "полицейской",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "елисейской",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

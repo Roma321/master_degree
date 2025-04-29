@@ -1,0 +1,20 @@
+{
+  "text": "В Мозгве вдвое увеличена плата за проезд на такси , соответствующее распоряжение подписал в пятницу мэр Москвы Лужковы , сообщаешь РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

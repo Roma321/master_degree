@@ -1,0 +1,25 @@
+{
+  "text": "Корпорация Intel , выпустив новые проректоры , объявила о своих очередного победе на корпорацией AMD в гонке процессоров Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "очередной"
+    },
+    {
+      "correctReplacement": "процессоры",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Землетрясение , которое ощущалось во многих провинциях , прохлаждалось всего 30 секунд , но заставило тысячи жителей Анкары покинутые своими дома .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "покинуть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "продолжалось",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

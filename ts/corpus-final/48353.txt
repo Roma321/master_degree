@@ -1,0 +1,20 @@
+{
+  "text": "При помощь спутникового телефона команда сможет общаться со штабом экспедиций в Москве и ежедневно получать прогоны погоды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "экспедиции"
+    },
+    {
+      "correctReplacement": "прогнозы",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

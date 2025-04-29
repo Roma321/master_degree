@@ -1,0 +1,25 @@
+{
+  "text": "В результате распространения информацией ш значительном снижениях прибыли принадлежащей агентству Reuters электронной системы торговли акциями Instinet , акции Reuters упавшие более чем на 15% .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "упали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "снижении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "информации"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Тогда в результате взрыва жилой дома погибли 69 человечек , в нсновном пограничники и члены их семей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "жилого"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "основном",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

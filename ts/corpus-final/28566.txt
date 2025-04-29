@@ -1,0 +1,30 @@
+{
+  "text": "В тем же день в провинции Кинья в результате истолкования автобуса с грузовиком погибли 8 человек и около 20 было ранившее , сообщил местное телевидение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "ранено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "столкновения",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "Конья",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Австрии бригады спасателей извлекают теле погибших при пожаре , кодовый произошёл в тоннеле в Альпах в минувшую субботу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "тела"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

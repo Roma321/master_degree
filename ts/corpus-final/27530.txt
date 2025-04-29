@@ -1,0 +1,20 @@
+{
+  "text": "Из-за нелётного погода не работают ни фронтовая , ни армейская авиации Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нелетной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "погоды"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

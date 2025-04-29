@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщается , Еврокомиссия ожидал от Великобритании ответа с перечислением мер безопасности , которые приняты , чтобы ме допустить негативных последствия ремонта реактором подлодки для населении Гибралтара и его окрестностей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "реактора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "ожидает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "последствий"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В американской мерной лаборатории в Лос-аламос в пятницу были обнаружившие жесткие диски с секретной стратегически важными информацией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "важной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Лос-Аламосе"
+    },
+    {
+      "correctReplacement": "ядерной",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

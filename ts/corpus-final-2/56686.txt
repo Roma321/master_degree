@@ -1,0 +1,25 @@
+{
+  "text": "Американский центр по защите национальных инфраструктуры (NIPC) опубликовал на своем сайте в Интернетом предопределение о том , в новогодние праздники возможные новый DDoS-атаки хакеров , собщает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "новые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "национальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "correctReplacement": "предупреждение",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

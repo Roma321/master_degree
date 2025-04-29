@@ -1,0 +1,25 @@
+{
+  "text": "Если президент Клинтон известен как заядлая компьютерное последователь и посетитель онлайн-магазинов , то японский премьер-министр Йоширо Мори первый раз взялся за алавиатуру в прошлом месяце .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "компьютерный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заядлый"
+    },
+    {
+      "correctReplacement": "пользователь",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "клавиатуру",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Для пассажиров , которые не имеете товаров , подлежащих декларированию , бущут оборудованы двух \"зеленых\" коридора .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "будут",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

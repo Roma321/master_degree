@@ -1,0 +1,20 @@
+{
+  "text": "В здании домоуправления был отключу свет и связь , ситуация на тредприятии оказалась дестабилизированной .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "отключён"
+    },
+    {
+      "correctReplacement": "заводоуправления",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "предприятии",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

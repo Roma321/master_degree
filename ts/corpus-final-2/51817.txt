@@ -1,0 +1,25 @@
+{
+  "text": "\"Я думаю , теперь ы них будут вполне убедительная пружина , чтобы покинуть свои дома и деревни\" , - заявил губернатор штатов в радиоинтервью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "штата"
+    },
+    {
+      "correctReplacement": "причина",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

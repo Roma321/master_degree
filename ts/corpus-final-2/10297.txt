@@ -1,0 +1,20 @@
+{
+  "text": "По предварительной версий , кран ггузоподъёмность 25 тонн рухнул из-за нарушений техники безопасности при крепеже .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "версии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "грузоподъемностью"
+    },
+    {
+      "correctReplacement": "грузоподъёмность",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Китайское правительством изучает возможность покупки российскую орбитальных станции \"Мир\" , чтобы сэкономить время и деньги в борьбе за статус космической державы , сообщают \"Интерфакс\" со ссылкой на китайского дипломата Чжан Ляньина , сотрудника посольства КРР в Москве .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "орбитальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "российской"
+    },
+    {
+      "correctReplacement": "КНР",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

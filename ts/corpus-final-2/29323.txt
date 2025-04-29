@@ -1,0 +1,25 @@
+{
+  "text": "Оргкомитет особенно выделяю увеличение количества участников в четыре раза по сравнению с предыдущим году : на конкврс было подам 800 работ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "выделяет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "годом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "подано"
+    },
+    {
+      "correctReplacement": "конкурс",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

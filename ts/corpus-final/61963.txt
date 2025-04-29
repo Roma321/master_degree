@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник рано утром москофская полиция проведённая операцию по освобождению захваченного в заложниками ребенка , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "провела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "заложники"
+    },
+    {
+      "correctReplacement": "милиция",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "московская",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

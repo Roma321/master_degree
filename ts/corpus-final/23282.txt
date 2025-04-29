@@ -1,0 +1,25 @@
+{
+  "text": "Мидом России рекомендовал гражданах Российской Федерации временно воздержаться от поездок в Ливан в связи с осложнением обстановки в этого стране .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "МИД"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "рекомендует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гражданам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "этой"
+    }
+  ]
+}

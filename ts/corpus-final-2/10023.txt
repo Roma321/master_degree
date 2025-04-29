@@ -1,0 +1,30 @@
+{
+  "text": "Сотрудники Белого дома использовал служебные компьютероф для той , чтобы скачивающие из Интернета порнографию , признал представитель Белого дома .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "использовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "компьютеры"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "скачивать"
+    },
+    {
+      "correctReplacement": "компьютеров",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

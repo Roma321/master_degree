@@ -1,0 +1,25 @@
+{
+  "text": "В поест , приближающийся к остановках , передался следующего за ним состав .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "остановке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "следующий"
+    },
+    {
+      "correctReplacement": "врезался",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "поезд",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Лидер Палестинского автономии Ясир Арафат обвинённый измаил в действиях как против \"палестинцев , арабов и ливанцев\" , так и исламских и христианского святынь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обвинил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Палестинской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "христианских"
+    },
+    {
+      "correctReplacement": "Израиль",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Верховного Народный Суд КНР отклонило апелляцию потсудимого и подтвердил приговор , в котором высочайшее мера наказания объясняюсь \"хищениями в громадных размерах . \"",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "высшая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Верховный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "объяснялась"
+    },
+    {
+      "correctReplacement": "подсудимого",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

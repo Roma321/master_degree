@@ -1,0 +1,25 @@
+{
+  "text": "С пятницу на нью-йоркской фондовой бирже индекс деловой активности Dow Jones сдувший очередное позицию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сдал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "очередную"
+    },
+    {
+      "correctReplacement": "сдавший",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

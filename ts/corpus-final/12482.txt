@@ -1,0 +1,20 @@
+{
+  "text": "Представители столичной милиция сообщили , что номер звонифшего установить не удался .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "милиции"
+    },
+    {
+      "correctReplacement": "звонившего",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

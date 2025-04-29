@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщило \"Интерфаксу\" представитель энергокомпании , руководство автозавода заранее предупреждено о предстоящем чыключении .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "отключении",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "выключении",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

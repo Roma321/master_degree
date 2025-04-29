@@ -1,0 +1,20 @@
+{
+  "text": "По словам представителей его предвыборного штаба , вечером кандидат приехавший на своих автомашине на условленную заранее стрелу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "приехал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "встречу",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

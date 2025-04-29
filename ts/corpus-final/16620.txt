@@ -1,0 +1,35 @@
+{
+  "text": "У российских силовых структур имеющиеся доказательства того , что к взрывами жилыми дум в России причастны чеченские террористы . По словам первой заместителя начальника Генштаба вооруженных силы РФ генерал-полковника Валерия Манилова , теракты осуществпли террористы , прошедшие подготовку в Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "имеются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "жилых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "осуществили",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

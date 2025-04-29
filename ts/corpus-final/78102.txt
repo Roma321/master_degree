@@ -1,0 +1,25 @@
+{
+  "text": "Президент Украины леонард Кучма подвергнувший Соединенные Штаты Америки критике за то , что руководство этого государства не предпринимает никакими мер по экатрадиции бывшего премьер-министра Украины Павла Лазаренко , сообщает BBC .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "никаких"
+    },
+    {
+      "correctReplacement": "Леонид",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "экстрадиции",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

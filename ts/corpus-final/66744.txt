@@ -1,0 +1,25 @@
+{
+  "text": "По словам Ванрелем , обломки самолета Lockheed Lightning P38 , четко виден , но , к сожалениям , самолет полностьр разрушен и обломки очень разбросаны по дну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сожалению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "видны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Ванреля"
+    },
+    {
+      "correctReplacement": "полностью",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

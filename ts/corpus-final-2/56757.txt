@@ -1,0 +1,20 @@
+{
+  "text": "Затем туристов объявили , что лайнер , на котором он летели , отправится обратно в Мозгву , а за ними из России приславшие другой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "пришлют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "туристам"
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

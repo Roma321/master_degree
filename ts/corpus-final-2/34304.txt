@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшнюю день в кабинете министров находящиеся на рассмотрениях несколько процентов постановления правительства по поводу реконструкции телебашни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "рассмотрении"
+    },
+    {
+      "correctReplacement": "проектов",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

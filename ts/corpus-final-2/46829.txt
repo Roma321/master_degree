@@ -1,0 +1,25 @@
+{
+  "text": "Идеи создания форума выдвинувший два года назад бывший министр внутренних дел РФ , а ныне депутат Госдумы генерал армми анатоль Куликов , избранный председателем оргкомитета .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Идею"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выдвинул"
+    },
+    {
+      "correctReplacement": "Анатолий",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "армии",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

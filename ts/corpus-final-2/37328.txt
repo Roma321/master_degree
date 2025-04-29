@@ -1,0 +1,25 @@
+{
+  "text": "Около 11 утро неизведанный мужчина вошел в зданию администрации и застрелил её руководителя прямо на рабочем месте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "здание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "утра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ее"
+    },
+    {
+      "correctReplacement": "неизвестный",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

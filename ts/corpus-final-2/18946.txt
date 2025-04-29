@@ -1,0 +1,25 @@
+{
+  "text": "Одно из крупнейших информационно-аналитических холдингом на отечественных фармацевтическом рынке , группа \"Ремедиум\" и Rambler Group объявили о подписании соглашения о стратегическом партнёрствах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "отечественном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "партнерстве"
+    },
+    {
+      "correctReplacement": "холдингов",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Садыринам придет на смену Махмуду Рахимовм , который погиб в минувшей декабре в автокатастрофе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "минувшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Садырин"
+    },
+    {
+      "correctReplacement": "Рахимову",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

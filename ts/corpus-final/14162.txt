@@ -1,0 +1,30 @@
+{
+  "text": "Жителю Калининградского области будет временно разрешён ввозом автомобилей на остальную территорию России без уплаты таможенных платежей - но на срок не более 2 месяцев и без права окружения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "разрешен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ввоз"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Калининградской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Жителям"
+    },
+    {
+      "correctReplacement": "отчуждения",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Это означал , что подготовлены ко взрывам не только многие объектах чеченской столицы , но и нефтегазовой инфраструктура города , сообщал аббатство военных новостей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "означает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "взрыву"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "объекты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "нефтегазовая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Агентство",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

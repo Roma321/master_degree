@@ -1,0 +1,20 @@
+{
+  "text": "По словах Шатаева , сложность могут возникнуть лишь иогда , когда пассажиры заранее не позаботились об обратном билете .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сложности"
+    },
+    {
+      "correctReplacement": "тогда",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

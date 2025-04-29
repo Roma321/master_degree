@@ -1,0 +1,30 @@
+{
+  "text": "Центральное банк предупредил , что сделкой , заключенные участиям рынка через систему \"внебиржевой валютной тотговли\" , могут быть признаны недействительными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сделки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Центральный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "участниками"
+    },
+    {
+      "correctReplacement": "участникам",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "торговли\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Лидеров движение «Талибан» призывают фсе мусульманства страны «применить силу» против Израиля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лидеры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "движения"
+    },
+    {
+      "correctReplacement": "мусульманские",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "все",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

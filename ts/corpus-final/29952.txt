@@ -1,0 +1,20 @@
+{
+  "text": "Имеетесь в виду пожары , взрывам газа , \"разливы раздражающих едких житкостей в подъездах жилых домов , школ и учреждений\" , аварии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "взрывы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Имеются"
+    },
+    {
+      "correctReplacement": "жидкостей",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Как затаившее заместитель министра пути сообщений России Николай Кошман , \"никто еще не видел в числе пассажиров электричек депутаты , членов Верховного и Конституционного судов , ответственных работникоф Минобороны , МВД , Генпрокуратуры , хотя все они имеютправо бесплатного проезда на транспорте\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "путей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "correctReplacement": "заявило",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "работников",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Счетная палата установило , что руководители компании \"Русское видео\" создали общество с ограниченных ответственностью \"Русское видео - 11 анал для того , чтобы в дальнейшем в состав его учредителей вошел холдинги \"Медиа-Мост\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "установила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ограниченной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "холдинг"
+    },
+    {
+      "correctReplacement": "канал\"",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Олимпийского деревне еденные все необходимое - массажные центры , парикмахерские , интернет-кафе и даже ночной клуп , сообщает ВВС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Олимпийской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "клуб",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

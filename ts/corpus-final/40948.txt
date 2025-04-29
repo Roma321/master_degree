@@ -1,0 +1,30 @@
+{
+  "text": "Одновременно Управлению госторгинспекции и Управлению бледной инспекции по Москве поручено воспрепятствовать попаданиям к московскому потребителю некачесивенного муки из ближней зарубежья ироссийских регионов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "ближнего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "некачественной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "попаданию"
+    },
+    {
+      "correctReplacement": "хлебной",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "некачественного",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

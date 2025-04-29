@@ -1,0 +1,20 @@
+{
+  "text": "Директор пунктов и охраннику пытались оказать сопрьтивление и были ранены .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пункта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "охранник"
+    },
+    {
+      "correctReplacement": "сопротивление",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

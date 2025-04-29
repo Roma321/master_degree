@@ -1,0 +1,30 @@
+{
+  "text": "По мнению большинством американских аналитикоф , провал ратификации договора являюсь курьёзным политической поражением Клинтона .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "политическим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "большинства"
+    },
+    {
+      "correctReplacement": "серьезным",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "аналитиков",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

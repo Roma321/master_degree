@@ -1,0 +1,30 @@
+{
+  "text": "Инициативы этого обращения исходило от федерального директора АО Вадима Усове , но была вполне поддержан коллективом - и рабочими и управленцами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "исходила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "поддержана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Усова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Инициатива"
+    },
+    {
+      "correctReplacement": "генерального",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

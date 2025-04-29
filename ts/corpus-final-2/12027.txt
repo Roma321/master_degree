@@ -1,0 +1,20 @@
+{
+  "text": "Поднятые этот предмет пока не удались , поэтому до экспертизы ничего точно сказать нем нрльзя .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Поднять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "нельзя",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

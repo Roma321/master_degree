@@ -1,0 +1,20 @@
+{
+  "text": "департамент Хорватия в среду на внеочередном заседании принял конституционный закон о временное неспособности президента страны выполнять обязанности главы государства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "временной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Хорватии"
+    },
+    {
+      "correctReplacement": "Парламент",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

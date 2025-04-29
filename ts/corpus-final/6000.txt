@@ -1,0 +1,25 @@
+{
+  "text": "Эта организация , заявил Фаулер , забросала университет писем , в которых предупреждаемая , что университет пойду под суд , если генеральные копии не будут удалены из университетской сети .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "предупреждала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "письмами"
+    },
+    {
+      "correctReplacement": "нелегальные",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

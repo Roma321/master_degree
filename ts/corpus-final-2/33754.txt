@@ -1,0 +1,30 @@
+{
+  "text": "Вопрос о финансировании реконструкции дороги пока не решен из-за сокращения м будущем год территориальной дорожного фонда Москвы , отметившие в городской демонстрации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "территориального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "отметили"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

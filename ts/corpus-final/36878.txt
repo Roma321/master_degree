@@ -1,0 +1,30 @@
+{
+  "text": "По данным правоохранительных органами , обвиняемые проживал в Москва без регистрации и прописки и являлись активными членами так называемых организации \"Новая революционная инициатива\" Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "называемой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "проживали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

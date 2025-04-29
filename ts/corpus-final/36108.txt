@@ -1,0 +1,30 @@
+{
+  "text": "В среду , в День защитника Отечества , исполняющее обязанности президента России Владимир Путины возложил цветы к могила Неизвестной солдата у Кремлевской стены , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Неизвестного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "могиле"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "исполняющий"
+    }
+  ]
+}

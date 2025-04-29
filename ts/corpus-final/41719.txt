@@ -1,0 +1,20 @@
+{
+  "text": "На Дегунинской улицах в Северном административной округе Москвы коло 15 : 00 по Москве в воскресенье произошел взрыв .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "административном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "улице"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

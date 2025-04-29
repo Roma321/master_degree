@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщил представитель йеменского МВД , гранатавзорваюсь в руках у террористу , когда он приготовилось броситьее в испытательный участок в йеменском городах Ад-Далиа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "гранатавзорвалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "городе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "приготовился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "террориста"
+    },
+    {
+      "correctReplacement": "избирательный",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

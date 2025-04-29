@@ -1,0 +1,20 @@
+{
+  "text": "Всего неделю назад полиция этого африканской страны провела крупный рейд по предотвращению преступлений на улицах столицы , в ходе которой было избитые множество оружия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "изъято"
+    },
+    {
+      "correctReplacement": "изъяты",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

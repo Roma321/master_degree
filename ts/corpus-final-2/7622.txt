@@ -1,0 +1,25 @@
+{
+  "text": "Потокави воды уничтожившие дороги и мосты , поэтому спасателям для эвакуации человек приходился пользоваться вертолетами и лодками .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "уничтожены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "приходится"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Потоками",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

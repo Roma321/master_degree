@@ -1,0 +1,30 @@
+{
+  "text": "Глава кабинета такое сообщил , что к настоящему времени складываюсь самое высокое положительного сальдо во внешних торговле - 21 , 2 миллиардов дооларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "внешней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "положительное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "складывается"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

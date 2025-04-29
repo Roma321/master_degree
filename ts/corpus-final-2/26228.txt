@@ -1,0 +1,35 @@
+{
+  "text": "С начал текущего года объем золотовалютным резервоф фактически удвоился и достиг новой рекордной отметки с момента основания Центральной банка Россия , то еденные за последние 10 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "золотовалютных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Центрального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "начала"
+    },
+    {
+      "correctReplacement": "резервов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

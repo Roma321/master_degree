@@ -1,0 +1,20 @@
+{
+  "text": "Наибольший количество вынужденных переселенцев из Чечнипоступают в Ингушетию , ответившие в МЧС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Наибольшее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Чечнипоступает"
+    },
+    {
+      "correctReplacement": "отметили",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

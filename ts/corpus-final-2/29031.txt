@@ -1,0 +1,25 @@
+{
+  "text": "В понедельнику , 16 октября , в 10 . 00 в подмосковном городе Мытищи начавшееся повторное обследование товарного составов , прибывшего из Буйнакска , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "началось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "состава"
+    }
+  ]
+}

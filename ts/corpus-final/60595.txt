@@ -1,0 +1,20 @@
+{
+  "text": "Защита фстраиваюсь как фильтр между приложением , для которого предназначивший скрипт (например , Outlook и/или Internet Explorer) , и скрипт-машиной , которая непосредственно выполняет скрипт-программу (например , Microsoft Windows Script Host - обработчик VisualBasic-скриптов) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "встраивается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "предназначен"
+    },
+    {
+      "correctReplacement": "встраиваюсь",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам ямать девушки , 55-летней Джеки Черчер , в последняя время Кэрен стали очень некоммуникабельной , интровертированной , и все больше времени проводил перед терминалом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "проводила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "матери",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

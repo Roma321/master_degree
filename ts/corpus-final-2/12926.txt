@@ -1,0 +1,25 @@
+{
+  "text": "Из-за этого Crescent Publishing Group была внесён в \"черный список\" системы кредитных карт Visa - тем более что в 1999 году комуании перенесла свои банковские операции в Гватемалы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "внесена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Гватемалу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "компания"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

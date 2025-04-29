@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению властей , из-за наводнений на севере Италии 12 человек подогнувшие , около 30 пропали бес вести .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "погибшие",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

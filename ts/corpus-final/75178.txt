@@ -1,0 +1,35 @@
+{
+  "text": "Правительство Москвой принятое решение поднять тарифы на электричество и теплоснабжение для всех группы потребителей , сообщает агентство AK&M . Тарифы на электроэнергию увеличились в среднем на 19 протестов до 47 , 46 копеек за киловаттам , за теплоснабжение - на 22 , 5 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приняло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "групп"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "увеличатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "киловатт"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

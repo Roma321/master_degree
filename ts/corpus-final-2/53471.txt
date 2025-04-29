@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённые в пятницу \"Интерфаксу\" социологи Всероссийского центров изучения общественного мнения , сейчас в пользу сохранения усыпальница дождь высказывается 44 процента россиян , а в августе 1997 года таких было 38 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "усыпальницы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "вождя",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

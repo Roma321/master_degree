@@ -1,0 +1,20 @@
+{
+  "text": "На митинге , где выступали представители группировки ЗАМАС и члены иранской парламента , прозвучали призывы уничтожить Израиле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Израиль"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "иранского"
+    },
+    {
+      "correctReplacement": "ХАМАС",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По меньшей сере , два человеаа погибнем и несколько десятков получили ранение в результате несчастного случая на винодельческом заводе в американских штате Огайо .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "американском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "мере",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

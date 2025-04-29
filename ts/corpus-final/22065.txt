@@ -1,0 +1,30 @@
+{
+  "text": "По сведениям ответственной дежурный администрации города , новый электрокабель в поселок был проложена только сегодня , однако из-за перегрузок в сети от подключенных в квартиры нагревательных преторов он не выдержал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "ответственного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "квартирах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "проложен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "дежурного"
+    },
+    {
+      "correctReplacement": "приборов",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

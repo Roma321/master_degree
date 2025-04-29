@@ -1,0 +1,20 @@
+{
+  "text": "В результате операуии все троими преступников тяжело ранившие , женщина - смертельно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "трое"
+    },
+    {
+      "correctReplacement": "операции",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

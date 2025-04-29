@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый РИА \"Новости\" со ссылкой на иракский СМИ , среди 48 награжденных - сопредседатель иракского парламента Саадун Аль-Хамади и 3 сводных брата президента : Барзаны , Таббан и Сабави Ибрагим Алями-хасанами Аль-Текрити .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Аль-Хасан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Барзан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "иракские"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

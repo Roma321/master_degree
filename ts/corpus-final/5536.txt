@@ -1,0 +1,25 @@
+{
+  "text": "В минувшему понедельник 58 человек проведём ходячую забастовкк перед правительственным зданием в столице индийского штата Уттар Прадеш - городе Лакнау .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "correctReplacement": "сидячую",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "забастовку",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

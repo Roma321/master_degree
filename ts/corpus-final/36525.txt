@@ -1,0 +1,25 @@
+{
+  "text": "Ранее он купило через сайт этой компании программное обеспечение на сумму около полутора тысяч долларов , после чего решённый избежать оплат , вызвавав беспорядки в компьютерах компании своими вирусам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "решил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "купил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "оплаты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "вирусами"
+    }
+  ]
+}

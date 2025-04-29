@@ -1,0 +1,20 @@
+{
+  "text": "На два дня закрыты рынки , ведется тщательное досмотр и проверка документами у вредителей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "тщательный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "документов"
+    },
+    {
+      "correctReplacement": "водителей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

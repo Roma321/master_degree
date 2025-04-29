@@ -1,0 +1,25 @@
+{
+  "text": "На выездном заседании в СИЗО \"Матросская тишина\" Московского военный окружного суд допросило двоих свидетелей , проходящих по делу об убийстве журналиста \"Московского комсомольца\" Дмитрия Холодовым .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "допросил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Холодова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "окружной"
+    }
+  ]
+}

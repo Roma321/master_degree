@@ -1,0 +1,25 @@
+{
+  "text": "Эксперты Миннауки считают , что реализация соглашения со Збербанком позволенный \"на один рублём вложения получить от семи до десяти рублей продукции\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "рубль"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "вложений"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "позволит"
+    },
+    {
+      "correctReplacement": "Сбербанком",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

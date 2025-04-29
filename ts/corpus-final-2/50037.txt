@@ -1,0 +1,35 @@
+{
+  "text": "Итальянские власти проверяющие информацию о том , вто мафии принимала участие в постройке новое центра конференций при дворце правосудия , где в данный момент министр юстиции из более чем 100 стран обсуждаете проблемы борьбы с организованной преступностью , сообщает BBC News .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "обсуждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "проверяют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "мафия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "министры"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

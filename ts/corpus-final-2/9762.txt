@@ -1,0 +1,30 @@
+{
+  "text": "В своё отёршая , первый заместителе председателя правления Национального банка Республики Беларусь Павел Каллаур заявил , что по его расчетам единый рубль мог быть введён в 2005 году .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "введен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "correctReplacement": "очередь",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

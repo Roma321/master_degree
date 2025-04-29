@@ -1,0 +1,25 @@
+{
+  "text": "В результате ДТП молодой человеку фоловленный тяжелую травму позвоночника и стал инвалидом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "полученный",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "половленный",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

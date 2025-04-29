@@ -1,0 +1,40 @@
+{
+  "text": "Археологи полагаем , что это древнейшая судно из тех , которые были построены из отдельных досок , а не выдолбившие из одной бревна , как пирога , или сошьём из кож , кака каноэ (такие древних находки делали ранее в Европе и Африке) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "древние"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "древнейшее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "выдолблены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "сшиты"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

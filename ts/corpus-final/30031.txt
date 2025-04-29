@@ -1,0 +1,20 @@
+{
+  "text": "Он подчеркнули , что примерно четверть поручений президента ичполняется с нарушением сроков , сообщу телекомпания НТВ со ссылкой на \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "исполняется",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

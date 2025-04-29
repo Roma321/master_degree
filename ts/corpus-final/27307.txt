@@ -1,0 +1,20 @@
+{
+  "text": "Как передает \"Интерфакс\" со ссылкой на пресс-службу МЧС России , в результате столкновения локомотивные и два первых вагона пассажирскому поезда сошли с рельсов и перевернулись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "локомотив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "пассажирского"
+    },
+    {
+      "correctReplacement": "локомотивы",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

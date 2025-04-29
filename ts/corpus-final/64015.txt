@@ -1,0 +1,20 @@
+{
+  "text": "Экс-президент России Борису Егьцин с супругой прибуду в Крым на отдых по приглашению президента Украины Леонида Кучмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Борис"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "Ельцин",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Выставки проводящиеся на ВВЦ в павильоне № 57 в рамках Второго Всероссийских съезда представителя малых предприятий пад патронажем правительства Москвы и при участии Минсельхозпрода Российской Федерации .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проводятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Всероссийского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "представителей"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

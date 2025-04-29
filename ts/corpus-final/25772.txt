@@ -1,0 +1,25 @@
+{
+  "text": "Немецкое телевидение сообщило , что тело 49-летнее Хюллена убывшее найдена утром 20 января в его собственном домах в Берлине .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "доме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "49-летнего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "найдено"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

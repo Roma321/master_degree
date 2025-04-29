@@ -1,0 +1,35 @@
+{
+  "text": "Убив хозяине из пистолета , их набравшие пяти тысяч долларов и ювелирные изделия на общую суммы 200 тысяч рублей , после чрго скрылись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сумму"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "хозяина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "забрали",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

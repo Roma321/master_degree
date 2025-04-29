@@ -1,0 +1,20 @@
+{
+  "text": "Он также сказанный , что проезд бюджета-2001 пгддерживают депутатская группа \"Народный депутат\" , а также фракции \"Единство\" и СПС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "проект",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "поддерживают",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

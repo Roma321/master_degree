@@ -1,0 +1,25 @@
+{
+  "text": "В Восточном Тимор , в городе Баукау , три мальчика погиб , а четвертый раню при неожиданном взрыве артиллерийского снаряда , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Тиморе"
+    }
+  ]
+}

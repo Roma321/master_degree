@@ -1,0 +1,30 @@
+{
+  "text": "Главы министерства Европейского Союза во вторник одобрили разработавший Европейской Комиссией закон , придающий контрактам , заверенным электронными подписями , тот же юридический статусу , что и аналогичного контрактам , подписанным ор руки , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "разработанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "министерств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "статус"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "аналогичным"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

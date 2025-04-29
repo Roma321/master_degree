@@ -1,0 +1,20 @@
+{
+  "text": "Губернаторе Техаса также не смог вспомнить имя генеоала , совершившего переворот в Пакистане , и имя премьер-министру Индии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "премьер-министра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Губернатор"
+    },
+    {
+      "correctReplacement": "генерала",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

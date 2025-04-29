@@ -1,0 +1,30 @@
+{
+  "text": "Впрочем , представитель Microsoft поясню , что взломанный сервер , строго говорящие , не вхожу в систему официального сайтоф корпорации и используется разработчиками просто для тестирования программ , добавляет Wired News .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "говоря"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "входит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "официальных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "correctReplacement": "сайтов",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По мнении Котенкова , эту тест мог быть распространен среди парламентариев уже на следующем - наметившем на 17 января - пленарном заседании палаты , а сам законопроект будет рассмотрены на заседании Совета Думы в следующий вторник , 23 января .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "намеченном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "рассмотрен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "текст",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

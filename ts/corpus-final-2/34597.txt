@@ -1,0 +1,25 @@
+{
+  "text": "16-летней Гарсиэль Райчундо пришлось две раза возвращаться в больницу после итераций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "операции"
+    },
+    {
+      "correctReplacement": "операций",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Раймундо",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

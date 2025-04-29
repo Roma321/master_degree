@@ -1,0 +1,25 @@
+{
+  "text": "Он всргда остался с нами , растафарианцем , и мы никогда не согласимся с тем , что он мертв\" , - заявил один из них корреспондента BBC .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "растафарианцами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "корреспонденту"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "останется"
+    },
+    {
+      "correctReplacement": "всегда",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

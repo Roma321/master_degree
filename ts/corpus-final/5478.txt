@@ -1,0 +1,20 @@
+{
+  "text": "В результатом аварии повреждены опоры уличной освещения га улице Есенина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "уличного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

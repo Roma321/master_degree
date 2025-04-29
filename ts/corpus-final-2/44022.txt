@@ -1,0 +1,20 @@
+{
+  "text": "Затем суд приступлю к допросам второго обвиняемого , заменитель Морозова майора Константина Мирзаянца .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "приступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "допросу"
+    },
+    {
+      "correctReplacement": "заместителя",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Телекоммуникационный гигант США AT&T будет раздроблен на четыре частей , каждые из которыми станет самостоятельной компаней .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "части"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "каждая"
+    },
+    {
+      "correctReplacement": "компанией",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

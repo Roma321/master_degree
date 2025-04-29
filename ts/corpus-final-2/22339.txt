@@ -1,0 +1,20 @@
+{
+  "text": "В фильмом \"Сумма всех страхов\" речи пойдет об арабских террористках , раздобывших атомную бомбу и планирующих взорвать ее во время финального матча на чемпионате по американскому футболу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "речь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "фильме"
+    },
+    {
+      "correctReplacement": "террористах",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

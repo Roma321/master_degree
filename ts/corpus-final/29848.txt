@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что ранее некоторые западные СМИ сообщали о тящелом ранение Басаева : говорилось , что он потеряли правую ногу , подорвавшись на мине .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "потерял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ранении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "тяжелом",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

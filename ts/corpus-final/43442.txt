@@ -1,0 +1,20 @@
+{
+  "text": "Движением по улицах было перекрыто сотрудниками ГИБДД , спасательные службы провели работающие по подъему автомобиля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Движение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "улице"
+    },
+    {
+      "correctReplacement": "работы",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

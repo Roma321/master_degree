@@ -1,0 +1,25 @@
+{
+  "text": "В программе визита - поездку в Санкт-Петербург , а также в Тамбов , где президент Чампи возложу венок на могилы итальянских солдат и офицеров , погибших в пассии в годы Второй мирового войны .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "возложит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "поездка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "мировой"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

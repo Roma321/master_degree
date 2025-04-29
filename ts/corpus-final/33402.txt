@@ -1,0 +1,25 @@
+{
+  "text": "представительный Лондонской пожарной команды также сообщили , что более 60 пожарных боролись с огнем на месте взрыва , который происшедший в 20 : 25 по местной времени .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "Представитель",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

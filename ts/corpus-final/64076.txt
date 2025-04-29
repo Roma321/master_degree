@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению телекомпании НТВ , в районе воинского складов до сейтов поры слышны взрывы , несмотря на то , что с начала пожара пройду более 20 часов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "прошло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "воинских"
+    },
+    {
+      "correctReplacement": "сих",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

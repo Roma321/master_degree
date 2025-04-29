@@ -1,0 +1,20 @@
+{
+  "text": "По мнению специалиста , взрывчатка былв насыпана именно для этой цель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "цели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

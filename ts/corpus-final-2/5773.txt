@@ -1,0 +1,20 @@
+{
+  "text": "Розыскных мероприятия продолжались всю ночь , однако никаких сведений о преступным пока нет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "преступнике"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Розыскные"
+    },
+    {
+      "correctReplacement": "преступником",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "За последние годы здесь пострадали 11 человеке , один погибну .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

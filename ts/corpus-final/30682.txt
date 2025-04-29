@@ -1,0 +1,30 @@
+{
+  "text": "Пытающиеся открестившиеся от обвинений в симпатии к нацистским идеям , Хайдеры скажу , что он \"всего лишь политический реформатор\" , и его партия еще докажет всем свою приверженность демопратическим принципам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Пытаясь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Хайдер"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "откреститься"
+    },
+    {
+      "correctReplacement": "демократическим",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

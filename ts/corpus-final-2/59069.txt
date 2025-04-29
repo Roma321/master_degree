@@ -1,0 +1,25 @@
+{
+  "text": "В прошлой месяце жертвы подставки для стаканчиков обратилась в суд и потребую , чтобы McDonald's , производители стаканчиков Cobb Manufacturing и производитель подставок для стаканчиков Wal-Mart вместе выплатили ей 450 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "производитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "жертва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "потребовала"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По информации агенства Reuters , в другом исследовании - Центр по контролям и предотвращению венерического заболеваний - сообщаюсь , что те , кто практикуемый сексуальное общение через Интернет , имеет гораздо больше партнеров , чем те , кто не пользуется Интернетом для знакомств .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "практикует"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Центра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "венерических"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "контролю"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "124 тонны взрывчатых веществ , компонентов и их составляющих изымем сотрудники правоохранительных ррганах России за 10 дня проведения мятого этапа общероссийской операции \"Вихрь-антитеррор\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "изъяли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "дней"
+    },
+    {
+      "correctReplacement": "пятого",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "органах",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

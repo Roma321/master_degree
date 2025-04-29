@@ -1,0 +1,20 @@
+{
+  "text": "В обычные лени для сдач крови приходите 10-15 , максимум 20 человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сдачи"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "приходят"
+    },
+    {
+      "correctReplacement": "дни",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Пока же комиссия не выделившая какой-либо определенную версию причин аварии и продолжал проводить экспертизы по каждой из существующих сегодня трех версий : столкновение с других объектом , взрыв мины , нештатная ситуация в первых отсеке подлодки , сообщает HTB . ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "какую-либо"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выделила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "другим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "продолжает"
+    }
+  ]
+}

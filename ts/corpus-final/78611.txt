@@ -1,0 +1,20 @@
+{
+  "text": "По словам президента национальной компании \"Казахойл\" Нурлана Балгимбаева , Восточный Кашаган является одним из круенейших месторождений нефтью , открытых в мифе за последние 30 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "мире",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "крупнейших",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

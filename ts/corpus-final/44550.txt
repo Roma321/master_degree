@@ -1,0 +1,25 @@
+{
+  "text": "Тела пяти погипших моряка Тихоокеанского флота найдены в одной из отсеков атомных подводной лодки , демонтированной в приморской бухте Чажма , сообщает РИА \"Новости\" со ссылкой на пресс-центр Тихоокеанского флота .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "моряков"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

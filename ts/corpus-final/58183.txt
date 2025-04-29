@@ -1,0 +1,35 @@
+{
+  "text": "Президент признал , что сомневавшийся в одновременность принятия такого закона , но после того как демократическое большинство в парламенте посчитавшее необзодимым принять такой документы , он поддержал это решение , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сомневался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "своевременности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "документ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "посчитало"
+    },
+    {
+      "correctReplacement": "своевременность",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "необходимым",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

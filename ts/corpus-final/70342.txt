@@ -1,0 +1,20 @@
+{
+  "text": "Эти кандидатуры были ранее предложифшие на рассмотрение Совета Федерации генеральной прокурором России Владимиром Устиновым .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "генеральным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "предложены"
+    },
+    {
+      "correctReplacement": "предложившие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

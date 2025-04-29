@@ -1,0 +1,25 @@
+{
+  "text": "Недавно Тенет помогал Биллу Клинтону мирить израильтян и дагестанцами , встречаясь с представителями спецслушп обоих сторон .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "обеих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "палестинцев"
+    },
+    {
+      "correctReplacement": "палестинцами",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "спецслужб",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

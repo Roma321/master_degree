@@ -1,0 +1,20 @@
+{
+  "text": "Прокурора , требовавший вынесения смертного пригорка назвал решение суда неожиданным и заявил , что может подать апелляции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Прокурор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "апелляцию"
+    },
+    {
+      "correctReplacement": "приговора",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Теперь из-за ошибки в программе остановлено работа не только системы NICS , занимающегося проверкой прошлого покупателей , но и автоматическая система проверки отпечатков мальцов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "остановлена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "занимающейся"
+    },
+    {
+      "correctReplacement": "пальцев",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

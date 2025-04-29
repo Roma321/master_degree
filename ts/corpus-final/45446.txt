@@ -1,0 +1,30 @@
+{
+  "text": "Созданное британскими программистами система Freenet , позволяющая сохранять анонимность при публикации файла , вызывал озабоченность е британских правоохранительных орланов , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "файлов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Созданная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "вызывает"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

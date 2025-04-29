@@ -1,0 +1,30 @@
+{
+  "text": "Крометого , опубликованию подлежим сведения об участии кандидата впрезидент и его супруги и детей в уставном капитале коммерческими организаций и об обладаниях акциями ила иными ценными бумагами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "впрезиденты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "подлежат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "коммерческих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "обладании"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

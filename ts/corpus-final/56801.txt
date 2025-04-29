@@ -1,0 +1,35 @@
+{
+  "text": "После появления информации о возможной решении федерального судей джонсона о разделе Microsoft , акции компании начнём стремительно падать , сообщаемый BBC Э",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "судьи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "возможном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Джексона",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

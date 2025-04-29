@@ -1,0 +1,15 @@
+{
+  "text": "В Москве за последнего неделю , когда темпеьатура опускалась ниже нуля , десять человек умерли от переохлаждения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "последнюю"
+    },
+    {
+      "correctReplacement": "температура",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

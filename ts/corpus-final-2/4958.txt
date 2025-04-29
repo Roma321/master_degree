@@ -1,0 +1,20 @@
+{
+  "text": "Федоров сообщивший , что прикупа о запрете к эксплуатации \"Газелей\" в качестве маршрутного такси уже отдан ГИБДД .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "приказ"
+    },
+    {
+      "correctReplacement": "приказа",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

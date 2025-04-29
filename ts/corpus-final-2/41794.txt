@@ -1,0 +1,25 @@
+{
+  "text": "это пари заключившее , несмотря на то , что Маргарет Тэтчер уже 10 лет назад передавшая пост главы коосерваторов Джону Мейджеру .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заключено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "передала"
+    },
+    {
+      "correctReplacement": "Это",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "консерваторов",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

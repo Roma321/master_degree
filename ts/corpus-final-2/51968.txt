@@ -1,0 +1,20 @@
+{
+  "text": "Не будучи уверенного в платёжеспособности \"Дормоста\" , он тем не менее рассчитывает получить компенсацию через суд ила договориться \"по-человечески\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "платежеспособности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "уверенным"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

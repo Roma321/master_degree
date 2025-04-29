@@ -1,0 +1,25 @@
+{
+  "text": "Таковыми , как заявил на совместного пресс-конференции по окончание переговоров в Москве Владимир Рушайло , являются противодействие транснациональной недоступность , терроризму , экономическим преступлениям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "преступности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "окончании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "совместной"
+    },
+    {
+      "correctReplacement": "преступность",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

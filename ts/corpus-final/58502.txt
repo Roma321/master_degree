@@ -1,0 +1,30 @@
+{
+  "text": "Празднества в честь Саддама прошьи в его родному городе Тикриты , а в Багдаде состоялось военный парад .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "родном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Тикрит"
+    },
+    {
+      "correctReplacement": "родному",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "прошли",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "При этом 60 миллионов планируется выделить из городского бюджета , а остальных деньги будут взяты из средств столичного экологическом фонда и соответствующих транспортного фонда \"Мосэкотранс\" , передает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "соответствующего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "остальные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "экологического"
+    },
+    {
+      "correctReplacement": "деньги",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ходе своей речей Хайдер также призвала выплатить компенсации тем , кто во времени войны бесплатно трудилась на Третьий Рейх , а также выступил в защиту национальных меньшинств в Мвропе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "речи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "трудился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "Европе",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

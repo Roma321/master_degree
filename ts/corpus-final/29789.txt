@@ -1,0 +1,20 @@
+{
+  "text": "По сообщениям агенства Reuters , основными конкурентами Лондонской фондовой биржи являлись антиамериканская биржа электронных технологий NASDAQ и ее европейский эквивалент USDAQ , а также некоторые другими рынки ценных бумаг .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "являются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "другие"
+    },
+    {
+      "correctReplacement": "американская",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

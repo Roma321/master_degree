@@ -1,0 +1,20 @@
+{
+  "text": "На эту момент цена издания достиг девяти тысяч 200 долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

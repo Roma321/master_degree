@@ -1,0 +1,20 @@
+{
+  "text": "Он самый крутой чувак из всех - самый крвтое мёртвый чувак .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "мертвый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "крутой"
+    },
+    {
+      "correctReplacement": "крутое",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

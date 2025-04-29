@@ -1,0 +1,15 @@
+{
+  "text": "В настоящего время ведется следствие , потому фамилии и национальность пострадавших женщин не раскрываются .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

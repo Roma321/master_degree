@@ -1,0 +1,25 @@
+{
+  "text": "Российский вертолет по многим характеристикам превосходит зарубежные аналог и заявляешься надежной и эффективной системой оружия , способной выполнять боевыми задачи любой сложности .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "боевые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "аналоги"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "являешься",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

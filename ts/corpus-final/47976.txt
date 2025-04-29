@@ -1,0 +1,30 @@
+{
+  "text": "В нем он рассказал , что замысел фильмов \"Старик и Море\" созрелы у него гавно , но он не хотел его снимаемые в России , а искал западного продюсера , который смог бы обеспечить надлежащий технический уровень съёмки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "созрел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "снимать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "фильма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "съемок"
+    },
+    {
+      "correctReplacement": "давно",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

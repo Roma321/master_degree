@@ -1,0 +1,30 @@
+{
+  "text": "Как пояснившие в ФСБ , мероприятия проводимся в рамок расследования уголовное дела , возбужденного Генеральной прокуратурой России по материалам Государздвенного таможенного комитета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пояснили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "проводятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "рамках"
+    },
+    {
+      "correctReplacement": "Государственного",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

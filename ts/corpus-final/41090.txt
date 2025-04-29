@@ -1,0 +1,25 @@
+{
+  "text": "Перед поездка во Владикавказ бандиты получившие от своих хозяев1200 долларов , чтобы они смогли приготовленные себе документы прикрытия и купить грузовик .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "поездкой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "подготовить"
+    },
+    {
+      "correctReplacement": "подготовленные",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

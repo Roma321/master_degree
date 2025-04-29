@@ -1,0 +1,25 @@
+{
+  "text": "Этот авиалайнером стартую из парижских аэропорта \"Шарль де Голль\" незадолго до валета злополучного Concorde .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "стартовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "авиалайнер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "парижского"
+    },
+    {
+      "correctReplacement": "взлета",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

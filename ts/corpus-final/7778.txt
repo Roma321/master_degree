@@ -1,0 +1,25 @@
+{
+  "text": "Представитель корпорации Microsoft Марки Мюррей заявивший корреспонденту Reuters : \"Мы на протяжении всего этого процесса заявляли , что не видим никакой юридического или логической базы для столь суровых решений , как разделение компании или конфискация интеллектуальную собственности Microsoft , и наша позиция осталась неизменной\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "интеллектуальной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "юридической"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Марк"
+    }
+  ]
+}

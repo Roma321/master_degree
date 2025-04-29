@@ -1,0 +1,25 @@
+{
+  "text": "В Азии видимость нефтяных контрактов повысилась на 2 проценту , баррель нефти подорожаю на 70 центов и стоии 34 , 41 доллара .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "подорожал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "стоимость",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "стоит",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

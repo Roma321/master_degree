@@ -1,0 +1,25 @@
+{
+  "text": "Звонящий сообщил о том , что на терриоории авторынка под рекламным щитом лежишь гранате .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Звонивший"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "лежит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "граната"
+    },
+    {
+      "correctReplacement": "территории",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

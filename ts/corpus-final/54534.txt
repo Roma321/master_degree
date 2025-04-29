@@ -1,0 +1,25 @@
+{
+  "text": "Министр Александр Починок подчеркнул при этом , что речь идет не о 10 первоначально заявленного кандидатах на проверки - аудит будет проведён по всем российским корреспондентам американского банка Ъ",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "заявленных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "проверку"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "проведен"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

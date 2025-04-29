@@ -1,0 +1,40 @@
+{
+  "text": "В частности , в разработке и координации операций Тенсамани принимавший активная участие генеральный секретарь испанской судебной петиции Хесус Эспигарес , который в пятницу единогласно изберу главой Интерпола на 69-м конференцию этой организации на греческом острове Родос .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "принимал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "69-й"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "конференции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "активное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "избран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "операции"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

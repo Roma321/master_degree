@@ -1,0 +1,25 @@
+{
+  "text": "Повышением тарифов данный предприятиям связи средства , необходимых для увеличения ввода номерок емкости АТС в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Повышение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "необходимые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "даст"
+    },
+    {
+      "correctReplacement": "номерной",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

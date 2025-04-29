@@ -1,0 +1,25 @@
+{
+  "text": "Однако такое поведение парламентариев вызванное бурю негодованию - в аналогичной ситуации футболистам запрещено делать спавки на результат игры их собственного команды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "негодования"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "вызвало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "собственной"
+    },
+    {
+      "correctReplacement": "ставки",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

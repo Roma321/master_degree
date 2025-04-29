@@ -1,0 +1,25 @@
+{
+  "text": "С заявлению о краже оружия в милиицю обращусь обнаруженная в субботу пропеду директор школы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлением"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обнаружившая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "correctReplacement": "пропаду",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

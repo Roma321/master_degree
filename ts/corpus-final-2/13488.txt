@@ -1,0 +1,30 @@
+{
+  "text": "Так завершилась продолжавшееся два годов операция \"Путешествие\" , в ходе которой таможенниками США были конфискован 25 тонн кокаиноф стоимостью около миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "продолжавшаяся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "конфискованы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "кокаина"
+    },
+    {
+      "correctReplacement": "кокаинов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

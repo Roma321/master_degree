@@ -1,0 +1,25 @@
+{
+  "text": "Российскому гроссмейстер без особого трудом обыграю британского певца , у заодно и трех его музыкантов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Российский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обыграл"
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Они обнаружили , что на кухне открывшая дудочка газовая плите , а в соседней комнате лежит молодой женщина без сознания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "молодая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "плиты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "газовой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "открыта"
+    },
+    {
+      "correctReplacement": "духовка",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Тринадцать бандитов уничтожившие , шестеро возьмём в глен в понедельник в ходе двух столкновениями в Курчалоевском районе Чечни , у селений Джугурты и Октябрьское Щ",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "уничтожены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "столкновений"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "взяты"
+    },
+    {
+      "correctReplacement": "плен",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

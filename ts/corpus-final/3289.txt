@@ -1,0 +1,25 @@
+{
+  "text": "Спикер от Ford Терри Бреснианами сообщил , что юристы комапании пока не решили , будут ли подавать аппеляцию , однако сейчас компания проводящий свое собственного внутренее расследование , чтобы узнать , каким образом произошла утнчка секретных документов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "проводит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Бресниан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "собственное"
+    },
+    {
+      "correctReplacement": "утечка",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

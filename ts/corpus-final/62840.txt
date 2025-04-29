@@ -1,0 +1,25 @@
+{
+  "text": "На нискооктановый бензин цены возросшие в меньшей степени , а на дизельном топливо не изменились вообще .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "изменятся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "возрастут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "дизельное"
+    },
+    {
+      "correctReplacement": "низкооктановый",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

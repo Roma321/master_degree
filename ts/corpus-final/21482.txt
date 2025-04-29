@@ -1,0 +1,30 @@
+{
+  "text": "Застрявшая в заливе у побережья Аргентины китенок после спасения приплыл обратно за своей матерями , сотовый тоже оказалась на бееегу , и стал спасать ее , толкая обратно в воды Южной Атлантики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Застрявший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "воду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "матерью"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "берегу",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

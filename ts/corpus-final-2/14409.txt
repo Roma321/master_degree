@@ -1,0 +1,25 @@
+{
+  "text": "послушником из росаийских теннисистов свою первый матч на Открытом чемпионате США провела Марат Сафин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "свой"
+    },
+    {
+      "correctReplacement": "Последним",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

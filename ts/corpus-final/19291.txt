@@ -1,0 +1,30 @@
+{
+  "text": "5-метровый автомобиль с 6-цилиндровый 24-клапанной 3-литровым двигателем и автоматической трансмиссией собран вручную , отделаны нубуком и кожей и оборудован раздвижной крышей , паисием троном , а так же раздвижным столиком для секретаря и \"громкой связью\" для жбращений к пастве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "24-клапанным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "6-цилиндровым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "отделан"
+    },
+    {
+      "correctReplacement": "папским",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "обращений",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

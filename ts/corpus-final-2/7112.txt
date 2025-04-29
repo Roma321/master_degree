@@ -1,0 +1,20 @@
+{
+  "text": "Номинальная стоимость облигации - одно тысяча рублей , орок ее обращения определен в 91 день , а дата погашение - 1 ноября 2000 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "погашения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одна"
+    },
+    {
+      "correctReplacement": "срок",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

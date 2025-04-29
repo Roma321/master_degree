@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно войска Объединённой группировки выполняли плановые боевые запахи мо блокированию Грозного и дороге в Аргунском ущелье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "дороги"
+    },
+    {
+      "correctReplacement": "задачи",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

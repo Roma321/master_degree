@@ -1,0 +1,20 @@
+{
+  "text": "- Однако в результате выяснилось , что у Березовского нет еи одного акции нашей компани .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "компании\"",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "ни",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

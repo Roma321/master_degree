@@ -1,0 +1,25 @@
+{
+  "text": "Асаф Дураковичи , который состоящий в должности профессора в Джорджтаунском университетр , раньше возглавлял отделение ядерной медицины в медицинских центре ветеранов американской армии в Делавэре .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "состоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "медицинском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Дуракович"
+    },
+    {
+      "correctReplacement": "университете",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

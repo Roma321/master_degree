@@ -1,0 +1,25 @@
+{
+  "text": "В декабре 1993 года за выдающуюся общественного деятельность Патриарх Московский и всея Руси Алексий II наградил Залыгина орденом Русской православного церкви Сергиев воронежского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "православной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Сергия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "общественную"
+    },
+    {
+      "correctReplacement": "Радонежского",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

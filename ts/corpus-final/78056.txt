@@ -1,0 +1,20 @@
+{
+  "text": "Один человек погиб на места , второй скончался по дорогам в воспитатель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "дороге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "месте"
+    },
+    {
+      "correctReplacement": "госпиталь",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Около 13 . 00 по московскому времён в понедельник в Доме правительства состоюсь встреча премьер-министра Владимира Путина с лидером \"Союза правыъ сил\" Сергея Кириенко , выдвинувшим свою кандидатуры на пост мэра Москвы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "кандидатуру"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Сергеем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "времени"
+    },
+    {
+      "correctReplacement": "правых",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

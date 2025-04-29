@@ -1,0 +1,20 @@
+{
+  "text": "Во турник , 12 сентября , на территории Олимпийскую деревни в Сиднее столкнулись два автобуса , перевозившие участников Олимпиады , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Олимпийской"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

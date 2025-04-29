@@ -1,0 +1,35 @@
+{
+  "text": "В Новосибирске задержаны трое холода людей , которые похитили и около полугода удерживаемые местного жителе в качеству рабов в одном из домов в частном секторе Калининского района , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "раба"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "жителя"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "качестве"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "удерживали"
+    },
+    {
+      "correctReplacement": "молодых",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

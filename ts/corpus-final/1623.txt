@@ -1,0 +1,30 @@
+{
+  "text": "Местное про-индонезийская милиция вёл беспорядочную стрельбу по толпам беженца , среди которых женщинф и телята .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Местная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "correctReplacement": "дети",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "женщины",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

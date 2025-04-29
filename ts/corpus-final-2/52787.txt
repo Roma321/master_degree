@@ -1,0 +1,20 @@
+{
+  "text": "Возобновившийся рост ценами на нефть - ол этом сообщается по итогам торгов на Международной нефтяной бирже в Лондоне в четверг .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Возобновился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "цен"
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

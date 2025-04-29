@@ -1,0 +1,25 @@
+{
+  "text": "По словам глаб Минтопэнерго , большое влиянием на ОПЕК сегодня оказывают США , которых поддерживают Нигерия , Саудовская Аравии , Венесуэла и Мексика .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Аравия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "влияние"
+    },
+    {
+      "correctReplacement": "глав",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

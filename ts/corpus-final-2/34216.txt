@@ -1,0 +1,25 @@
+{
+  "text": "Согласно статистике прбмышленное производство в Казахстане за 8 месяцев 2000 год возросшее на 15 , 6 процент , на Украине - на 12 процентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "возросло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "промышленное",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

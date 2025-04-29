@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тех , взрывное устройство было установлено не на самом кладбище , а на дороге к нему , сообщил сотрудники аппаратный .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "аппарата"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "аппарат",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

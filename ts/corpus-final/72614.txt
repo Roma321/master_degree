@@ -1,0 +1,25 @@
+{
+  "text": "Как полагает следствию , в период с 1969 по 1994 год Трнфимофф работал в качестве гражданского руководителя армейского отдела Объединённого центра дознания (Joint Interrogation Center) в Нюрнберге и имел доступ ко всем секретным материалам этого учреждений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "учреждения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "следствие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "Объединенного"
+    },
+    {
+      "correctReplacement": "Трофимофф",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

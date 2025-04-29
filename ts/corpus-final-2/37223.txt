@@ -1,0 +1,25 @@
+{
+  "text": "Фусако Шигенобу была арестована в Осаке немедленно после того , как покинул отель , где некоторое времени живу пот мужским именем .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "жила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "покинула"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

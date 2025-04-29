@@ -1,0 +1,25 @@
+{
+  "text": "На прошедших в понедельнике в Канаде парламентских выборах , побелку одержала правящая Либеральная партия во главе с нынешним премьер-министрами страны Жаном Кретьеном , сообщаешь Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "премьер-министром"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "победу",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

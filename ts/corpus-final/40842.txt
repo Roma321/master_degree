@@ -1,0 +1,20 @@
+{
+  "text": "В фонд самарской губернатора Константина Титова перечислю немнггим более 3 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "самарского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "перечислено"
+    },
+    {
+      "correctReplacement": "немногим",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

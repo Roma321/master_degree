@@ -1,0 +1,25 @@
+{
+  "text": "После монтажа металлического парнаса одной из корпусов строительные работы были прекратим , а Анистратенко и Нартового скрылись в неизвестном направлении .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "прекращены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Нартов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "каркаса",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

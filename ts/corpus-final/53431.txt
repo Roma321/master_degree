@@ -1,0 +1,25 @@
+{
+  "text": "В четверг власти США объявили о разоблачении крупного сети наркодельцов , специализировшейся на перевозка марихуаны через одну из самыми известных в мире случек доставки Federal Express .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "самых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "перевозке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "крупной"
+    },
+    {
+      "correctReplacement": "служб",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

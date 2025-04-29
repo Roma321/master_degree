@@ -1,0 +1,20 @@
+{
+  "text": "В организованные окружные медпункты обратившиеся 65 человек , не пострадавшие посредственно при взрыв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "взрыве"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обратились"
+    },
+    {
+      "correctReplacement": "непосредственно",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

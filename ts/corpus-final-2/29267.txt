@@ -1,0 +1,25 @@
+{
+  "text": "В рамках дела о подготовка покушения на Тулеева уже задержавшие несколько человек , в том числе олимпийский чемпион по биатлону Александры Тихонов р его брат Виктор .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "подготовке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Александр"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

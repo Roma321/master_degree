@@ -1,0 +1,20 @@
+{
+  "text": "Ранее португальское агенство Lusa распространило информацию о той , что все находичшиеся на борту Ан-26 , разбившегося в среду в северную части Анголы , были гражданами России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "северной"
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

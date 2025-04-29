@@ -1,0 +1,25 @@
+{
+  "text": "Два дома были полностью разрушены в результате взрывов , прогремевших в ночь на среду в нью-йоркского Бруклине , сообщаешь Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "нью-йоркском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "прогремевшего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Центральную фигуру ансамбля придется восстанавливающиеся заново , а всего , по оценкам специалистов , на реставрации памятника придется потратить не менае 3 , 6 миллиона рублей , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "реставрацию"
+    },
+    {
+      "correctReplacement": "восстанавливать",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Четыре крупные компании и два американские государственные организации поданные иски на свои страховые агентства с целями возмещённые средства , потраченные истцами на подготовку своими компьютерных систем к 2000 году .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "возместить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "своих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "целью"
+    }
+  ]
+}

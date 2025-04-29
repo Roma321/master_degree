@@ -1,0 +1,30 @@
+{
+  "text": "Граждане России , находящися в Америке в краткосрочных служебных командирофках , а также в деловых , туристических и частного поездках , сможет проголосовавшие при наличии у них открепительного удостоверению .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "проголосовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "частных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "удостоверения"
+    },
+    {
+      "correctReplacement": "командировках",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , темпы инфляции у июнях превышают аналогичный показатель всех предыдущих месяцев года , когда инфляция держалось на уровне около процессов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "держалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "июне"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

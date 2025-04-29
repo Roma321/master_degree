@@ -1,0 +1,20 @@
+{
+  "text": "По словам очевидцев эта трагедии , раненые , в том числах и дети , былигоспитализироманы в городскую клиническую больницу на нескольких машинах \"скорой помощи\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "былигоспитализированы",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

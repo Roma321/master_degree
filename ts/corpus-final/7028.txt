@@ -1,0 +1,20 @@
+{
+  "text": "В минувшее воскресенье в Москве иримерно в 17 : 00 в милицию позвонил неизвестному и сообщил о взрывчатку , якобы заложенной в магазине \"Детский мир\" на Лубянской площади .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "неизвестный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "взрывчатке"
+    },
+    {
+      "correctReplacement": "примерно",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

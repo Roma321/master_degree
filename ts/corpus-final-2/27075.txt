@@ -1,0 +1,25 @@
+{
+  "text": "В ходе экстренного заседания правительства израилевого в ночь на вторник было принято решении о продлении сроков ультиматума , предъявленного палестинскому руководству , сообщаешь Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "срока"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "Израиля",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

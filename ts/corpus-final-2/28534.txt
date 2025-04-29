@@ -1,0 +1,20 @@
+{
+  "text": "В пресс-службах отметили , что александер Федута участвовал в избирательной кампании депутатов белорусской палаты представителей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "участвует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пресс-службе"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

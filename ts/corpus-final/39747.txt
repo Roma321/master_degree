@@ -1,0 +1,35 @@
+{
+  "text": "В воскресенье утром из французской военной тюрьмы в Косово сбегу 15-летнее албанец , арестованный в субботину по подозрениям в убийстве российского военнослужащих из состава KFOR Игорей Коршунова .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "сбежал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "15-летний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "военнослужащего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "подозрению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Игоря"
+    },
+    {
+      "correctReplacement": "субботу",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

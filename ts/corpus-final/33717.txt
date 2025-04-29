@@ -1,0 +1,30 @@
+{
+  "text": "При этом США вновь призовём к гностическому диалогу и подверг критике воепного кампанию Москвы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "подвергли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "военную"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "призвали"
+    },
+    {
+      "correctReplacement": "политическому",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "военного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

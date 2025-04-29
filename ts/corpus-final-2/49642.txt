@@ -1,0 +1,35 @@
+{
+  "text": "бен нового парламента , по словам Нетаниягу , единственное , чем будет заниматься правительства , это выясняющие , как щолго протянут следующий премьер - шестью или девять месяцев\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выяснять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "протянет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "шесть"
+    },
+    {
+      "correctReplacement": "Без",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "долго",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

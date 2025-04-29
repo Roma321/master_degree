@@ -1,0 +1,25 @@
+{
+  "text": "Положение настолько серьезно , что конструкторы обратимся к владельцам машин с просьбой не перезаряжать батареи до приезда официального представителя компании , который забрафший электромобили на доработку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заберет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обратились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "электромобиль"
+    },
+    {
+      "correctReplacement": "забравший",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

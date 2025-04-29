@@ -1,0 +1,20 @@
+{
+  "text": "По одной из них , сгорел павильон , в котором выпекался лепешки , по другой - пустовавший ларек , пб третьей - помойка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "выпекались"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "пустующий"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

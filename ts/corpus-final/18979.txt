@@ -1,0 +1,25 @@
+{
+  "text": "По словам судьи Валентина Глянцева , решение суд может быть обжалую в течение 10 дням в кассационной инстанции Верховного ыуда .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "обжаловано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "суда"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

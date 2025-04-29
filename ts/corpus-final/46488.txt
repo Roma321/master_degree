@@ -1,0 +1,20 @@
+{
+  "text": "В субботине Папа Римский Иоанн Павел II прибывший в Назарет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "субботе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

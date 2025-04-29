@@ -1,0 +1,20 @@
+{
+  "text": "Один из омоновцев находится в тяжёлом состояние , двое - в состоянии средней тяжести , еще одним получил легкое ранение и уже выписан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "состоянии"
+    }
+  ]
+}

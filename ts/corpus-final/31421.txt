@@ -1,0 +1,30 @@
+{
+  "text": "В входе обследований жилых кварталов Гудермеса сотрудники Управления по борьбе с организовавшей преступностью Северо-Кавказского РУБОП по Чеченской Республике обнаружим в одной из домов 250 килограмм гексогена .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "обследования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "correctReplacement": "ходе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

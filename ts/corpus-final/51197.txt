@@ -1,0 +1,30 @@
+{
+  "text": "Это не каких-то игрушки или прихоть : для тому , чтобы с полным знанием дела и ответственно принимать решения , нужно знать это дело - и дела это очень важное , имеющая или могущее иметь капитальные последствия для всего мира , нужно знать эти проблемы в деталях\" , передает РИА \"Новости\" слова Путина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "какие-то"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "имеющее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

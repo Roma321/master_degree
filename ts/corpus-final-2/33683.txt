@@ -1,0 +1,35 @@
+{
+  "text": "На вопрос о ходе расследования делу о судьбе кредита МВФ , выделю России в июлях 1998 года , прокурор сказал , что деньги МВФ должны искать не швейцарские следователи , а российских , поскольку кредит поступивший в распоряжение россиыского правительства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "июле"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выделенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дела"
+    },
+    {
+      "correctReplacement": "российского",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

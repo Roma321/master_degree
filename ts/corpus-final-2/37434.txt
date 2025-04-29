@@ -1,0 +1,30 @@
+{
+  "text": "О своём сайте Гилад беседую в чатах : эти беседы , возможно , и послужили российскому СМИ источнрком для первая волны публикаций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "беседовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "российским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "источником",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

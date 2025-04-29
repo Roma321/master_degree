@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявил в пятницу представитель тайваньскими прокуратуры , ведущего расследбвание катастрофы , передающий BBC News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "тайваньской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "ведущей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

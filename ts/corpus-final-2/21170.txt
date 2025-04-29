@@ -1,0 +1,20 @@
+{
+  "text": "На последней минцте командой США выигрываю только пять очков .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "выигрывала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "команда"
+    },
+    {
+      "correctReplacement": "минуте",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

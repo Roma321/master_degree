@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , сочувствующие предложения направившие на защиту отечественных сельхозпроизводителей и уже подготовившие к передаче в правительство , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "подготовлены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "направлены"
+    },
+    {
+      "correctReplacement": "соответствующие",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

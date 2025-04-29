@@ -1,0 +1,30 @@
+{
+  "text": "По сообщениям телекомпании НТВ из штабоф федеральных силы в Моздоке , российска военнослужащие оснащены средствами защиты против химических оружия - в частности , противогазами и защитными химкомплектами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "химического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "штаба"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "российские",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "штабов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Директор расследований группы Amnesty International и член делегации Клаудио Кордоне заявил , что в зоне конфликте \"присутствует всю набор крупных нарушениям прав человека , которые вполне могут рассматриваться кмк военные выступления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "конфликта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "весь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "нарушений"
+    },
+    {
+      "correctReplacement": "преступления\"",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

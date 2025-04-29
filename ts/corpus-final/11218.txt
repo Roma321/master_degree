@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый USA Today , в список подозреваемых российских чиновников , составивший следователями на основе анализа банковских документов , входили бывший вице-премьер Анатолий Чубайс (благодаря усилиям которого был получен кредит мва и бывший министр иностранных дел Андрей Козырев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "входят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "составленный"
+    },
+    {
+      "correctReplacement": "МВФ)",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

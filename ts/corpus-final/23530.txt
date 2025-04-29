@@ -1,0 +1,25 @@
+{
+  "text": "По контрасту с этой новостью стоит отметить , что американская компания Intuit Inc . с 14 янтаря открывающий сайт , где американские налогоплательщики смогут заполнять налоговую декларацией 1040EZ онлайн и отсылать ее в соответствующие организации , не выходив из дома .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 37,
+      "correctReplacement": "выходя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "декларацию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "открывает"
+    },
+    {
+      "correctReplacement": "января",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

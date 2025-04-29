@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили сегодня РИА \"Новости\" в пресс-центре украинского МЧС , аоследние двое суток в большинству областей Украины идет снег с дождем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "большинстве"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

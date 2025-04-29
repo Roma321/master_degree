@@ -1,0 +1,30 @@
+{
+  "text": "Один из служителей цирка , передает ВВС , сообщил , что животных не кормифшие уже четверо суткам : у цинка не была денег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "кормили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "суток"
+    },
+    {
+      "correctReplacement": "цирка",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "кормившие",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

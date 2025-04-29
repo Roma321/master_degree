@@ -1,0 +1,30 @@
+{
+  "text": "Президент России Владимир Путин отменил указе Руслана Аушеве у принудительном сборе средства за газ и электроэнергию , действовавший в ингушской с сентября 1997 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Аушева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "указ"
+    },
+    {
+      "correctReplacement": "Ингушетии",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

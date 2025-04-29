@@ -1,0 +1,20 @@
+{
+  "text": "Задержаны исполнитель , а также заказчик преступления - диреатор одна из городских ирм .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "фирм",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "директор",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

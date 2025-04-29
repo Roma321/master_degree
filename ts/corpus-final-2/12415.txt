@@ -1,0 +1,25 @@
+{
+  "text": "Правительство Украины прибившее решение оказать материальную помощь семьям и близким погибших в Баренцева море подводников , сообщает собственную корреспондент газеты \"Красная звезда\" в Киеве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Баренцевом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "собственный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приняло"
+    },
+    {
+      "correctReplacement": "принявшее",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

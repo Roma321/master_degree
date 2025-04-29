@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , дилеров беспокоимый ситуация в Дагестане и взрыв жилой дома в Москве , произошедший в ночь со сред нк четверг .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "беспокоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "среды"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "жилого"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

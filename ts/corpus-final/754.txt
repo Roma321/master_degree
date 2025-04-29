@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает BBC , в чатверги на улиц Джакарты буду довольно спокойно , но а много военных , которые обеспечивают порядок .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "улицах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "чатверг"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

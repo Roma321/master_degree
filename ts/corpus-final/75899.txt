@@ -1,0 +1,20 @@
+{
+  "text": "Минувшего ночью боевики 14 раз обстреливали оппозиции российские войск , КПП и здания отделов внутренних дел в Чечне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Минувшей"
+    },
+    {
+      "correctReplacement": "позиции",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

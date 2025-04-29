@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , генеральнтго прокурор России считаемый , что в данном случая не было никакого необходимости в использовании \"силовиков\" с автоматами и в масках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "никакой"
+    },
+    {
+      "correctReplacement": "генерального",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

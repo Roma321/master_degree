@@ -1,0 +1,20 @@
+{
+  "text": "Работа ему выпало непростая : ещё недавно Солана как генсек НАТО сам посылали самолеты бомбить Югославию , а теперь как представитель ЕС \"выражает обеспокоенность\" по поводу того , что Россия бомбит Чечню .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "выпала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "посылал"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

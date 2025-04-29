@@ -1,0 +1,25 @@
+{
+  "text": "Во время этого визита в западных СМИ появились сообщением о намерении Китая раскупившие новые модификации самолетоф \"Су\" или \"МиГ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "закупить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "correctReplacement": "закупившие",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "самолетов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

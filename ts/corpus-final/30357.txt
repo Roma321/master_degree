@@ -1,0 +1,20 @@
+{
+  "text": "C учёта большого желающих проститься , церемония , которая должна была завершится в 16 . 00 , была продлена на час и завершифшаяся в 17 . 00 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "завершилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "учетом"
+    },
+    {
+      "correctReplacement": "завершившаяся",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

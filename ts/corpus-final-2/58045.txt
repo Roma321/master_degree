@@ -1,0 +1,35 @@
+{
+  "text": "В столице Франции произошло необычные кораблекрушение - на река Сене , в двух шагах от Эйфелевой башни , оторвавшаяся от буксире баржа с 3 тоннами цпмента протараненная пришвартованная у берега плавучий отель , который тут же затонул , сообщает телекомпания НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "пришвартованный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "необычное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "протаранила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "реке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "буксира"
+    },
+    {
+      "correctReplacement": "цемента",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

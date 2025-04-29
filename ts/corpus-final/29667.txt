@@ -1,0 +1,25 @@
+{
+  "text": "Колесо досинирует над пейзажем британскую столиц , возвышаясь над такими ее достопримечательностями как Big Ben и собор Святых Павла .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "британской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Святого"
+    },
+    {
+      "correctReplacement": "доминирует",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

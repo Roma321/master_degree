@@ -1,0 +1,20 @@
+{
+  "text": "Мяч после его угара пролетел над перекладиной , и стало понятно , что зборная Франции вышел в полуфинал , где 28 июня сыграет с португальской командой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "вышла"
+    },
+    {
+      "correctReplacement": "удара",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "сборная",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

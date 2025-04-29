@@ -1,0 +1,25 @@
+{
+  "text": "Верховный суд Татарстана приговорю Шурыгина к семи годам и трёх месяцам лишения свободы , Гитьков получила четыре года , Ярмиев - четыре года условно .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "трем"
+    },
+    {
+      "correctReplacement": "Шитьков",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

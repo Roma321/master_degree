@@ -1,0 +1,25 @@
+{
+  "text": "Правительство РФ приняло сечение повысить с Нового года и с 1 июля 2001 годов оклады бюджетникам , соответствующее постановление подписавший премьер Васьянов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Касьянов",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

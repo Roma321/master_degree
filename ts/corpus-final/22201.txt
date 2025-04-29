@@ -1,0 +1,30 @@
+{
+  "text": "Террористы также пытается под вид беженца перебраться в освобожденные районы , чтобы занять ключевые пост в новых органах самоуправления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "видом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "посты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пытаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "correctReplacement": "органах",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

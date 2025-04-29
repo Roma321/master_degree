@@ -1,0 +1,25 @@
+{
+  "text": "Фрацузский программись с высочайшим образованием Серж Хампич взломал систему платежных карточек , выпускаемого французскими банками Cartes Bancaires , сообщающий MSNBC .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "выпускаемых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "высшим"
+    },
+    {
+      "correctReplacement": "программист",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

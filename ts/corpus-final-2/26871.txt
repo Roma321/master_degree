@@ -1,0 +1,25 @@
+{
+  "text": "Директор музея Виктор Боярский сообщил , что здание , где располагаешься музею , былг построившее в 1825 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "музей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "располагается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "построено"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

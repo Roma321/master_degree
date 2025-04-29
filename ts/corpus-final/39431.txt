@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , по словах администраторов университетских компьютерных сеющих , скачивание музыки забивают каналы , в результате чего другие студенты не можете попасть в Сеть .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "забивает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "сетей",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

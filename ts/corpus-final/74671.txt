@@ -1,0 +1,20 @@
+{
+  "text": "Представитель фракции ЛДПР в Госдуме Алексей Митрофанов проложившая внести в повестку дня пленарного заседания постановлениео политической поддержке президента РФ Владимиром Путина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "предложил"
+    },
+    {
+      "correctReplacement": "предложила",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

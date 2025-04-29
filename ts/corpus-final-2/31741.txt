@@ -1,0 +1,30 @@
+{
+  "text": "На просьбы журналистов подробнее рассказать о состоянии Лайзы Минелли врач напомнил о правах пациента и заявила , что в разгрворе с ним актриса попросила поблагодарить всеми , кто о ней беспокоюсь . ограничений позволит спасти от смерти в результате ДТП 500 человек в год .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "беспокоится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "ограничения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "разговоре",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

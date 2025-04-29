@@ -1,0 +1,25 @@
+{
+  "text": "Рассказывая о своем предложении , Ахмадов особо подчеркну , что это же просьба о посредничество США в конфликте - чеченцы намерены добившиеся \"оказания их влияния в какой-либо форме на российскую сторону\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "добиться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "посредничестве"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

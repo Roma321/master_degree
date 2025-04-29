@@ -1,0 +1,20 @@
+{
+  "text": "Корпорация Microsoft опубликовала информацию об этом , сообщило , как можно бороться с напастями , но \"заплатеи\" пока не выпустила .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "напастью"
+    },
+    {
+      "correctReplacement": "\"заплатки\"",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

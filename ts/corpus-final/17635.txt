@@ -1,0 +1,20 @@
+{
+  "text": "По оценкам покинуфших Грозный человечей , сейчас там находятся от 30 до 50 тысяч мирных жителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "оценке"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "покинувших",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

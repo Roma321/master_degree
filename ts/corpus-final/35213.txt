@@ -1,0 +1,30 @@
+{
+  "text": "Координационный совета \"Союза правыми сил\" единогласно решил не поддерживать ни одного кандидата на предстоящих выборах президента , сообщил РИА \"Новости\" председатели политсовета СПС , кандидат на президентские поющий самарский губернатор Константин Титов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "совет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "президентский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "правых"
+    },
+    {
+      "correctReplacement": "пост",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

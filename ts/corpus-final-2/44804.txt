@@ -1,0 +1,20 @@
+{
+  "text": "В частности , индекс виленской биржи по российским акциям упал на 6 , 64 процента , по сообщениям из Лондона , там также происходит массовый сброс акции ЛУКОЙЛа , Сургутнефтегазу и Татнефти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Сургутнефтегаза"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "Венской",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

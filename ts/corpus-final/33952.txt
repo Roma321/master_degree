@@ -1,0 +1,20 @@
+{
+  "text": "\"Волгонефть-147\" фстали на рейд в Маскате 7 феврале , однако разгрузка началась только через 10 дней .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "февраля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "встал"
+    },
+    {
+      "correctReplacement": "встали",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

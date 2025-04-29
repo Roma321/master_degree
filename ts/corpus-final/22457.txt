@@ -1,0 +1,25 @@
+{
+  "text": "Избирательной кампания и сами выборы будут проводящиеся по новому закону \"О выбррах президента РФ\" , который был подписан Борисом Ельциным за несколько часов до объявление о сложении с себя полномочий главы государства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "объявления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Избирательная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проводиться"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

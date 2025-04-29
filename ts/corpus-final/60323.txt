@@ -1,0 +1,25 @@
+{
+  "text": "Как подчеркнул сотрудник ЯОС , сотрудникам ФСБ малось успешно реализовать очередное дела из числом так называемых \"трудно раскрываемых\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "числа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "удалось",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "ЦОС",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

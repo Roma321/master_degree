@@ -1,0 +1,20 @@
+{
+  "text": "По принятому в понедельник решению городской суда Петербург , Юрий Шутов сегодня будет доставлен на судебное заседания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Петербурга"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "заседание"
+    }
+  ]
+}

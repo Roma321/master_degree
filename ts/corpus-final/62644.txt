@@ -1,0 +1,25 @@
+{
+  "text": "Ниэняя палата парламента 17 мая рассмотрит внесенную президентом Владимиром Путиным кандидатуры Михаила Касьянова на должность продолжателем правительства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "кандидатуру"
+    },
+    {
+      "correctReplacement": "председателем",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Нижняя",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

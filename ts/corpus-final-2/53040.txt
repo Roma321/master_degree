@@ -1,0 +1,30 @@
+{
+  "text": "25 декабря активизировавшийся вирус Kriz , известный также как W32 . Kriz , который создавший на основы печально нелестных вируса CIH , он же \"Чернобыль\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "создан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "известного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "основе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "активизируется"
+    },
+    {
+      "correctReplacement": "известных",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В настоящая момент милиция ведет поисками человека , обставившего ее в лифте .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "поиски"
+    },
+    {
+      "correctReplacement": "оставившего",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Иорданские археологи обнаружили на Восточном берегу реки Иордан , в районе Вади Харрар , пещеру , в которой , по их мнению , когда-то жил иоганн Крестителю , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Креститель"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Иоанн",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

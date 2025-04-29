@@ -1,0 +1,25 @@
+{
+  "text": "Польское полиция задержавшая 29-летнего болгарского гражданина , обучающейся в Краковской академии барочного хозяйства , по подозрению в похищении первопечатного текста Николая Коперника \"Об обращении небесных сфер\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Польская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "обучающегося"
+    },
+    {
+      "correctReplacement": "народного",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

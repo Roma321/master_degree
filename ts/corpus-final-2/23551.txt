@@ -1,0 +1,25 @@
+{
+  "text": "На заседанию комиссии , которое запланировавшее на 4 октября , приглашены представители руководства российской McDonald's , а также отраслевого профсоюзов работников пищевой промышленности , передаёт AK&M .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заседание"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "запланировано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "профсоюза"
+    }
+  ]
+}

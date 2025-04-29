@@ -1,0 +1,20 @@
+{
+  "text": "На Чукотке пропал вездеход , на борту которую находились девять пассажиров и 300 килограммов гуманитарного грузов , сообщает ИТАР-ТАСС со ссылками на дальневосточный центр МЧС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "груза"
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

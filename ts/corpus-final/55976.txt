@@ -1,0 +1,30 @@
+{
+  "text": "В минувшее понедельник президент США Билл Клинтон соберу нп лиственное совещание советников по национального безопасности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "национальной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "собрал"
+    },
+    {
+      "correctReplacement": "экстренное",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

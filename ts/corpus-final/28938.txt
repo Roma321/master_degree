@@ -1,0 +1,25 @@
+{
+  "text": "Сергей Ястржембский сообщил , что Андрея Бабицкий был задержан на окраине Грозного военнослужащим , так как не имел разрешения на нахождение в расположению российских донских частей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Андрей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "расположении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "военнослужащими"
+    },
+    {
+      "correctReplacement": "воинских",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В четверг утром в уссурийских Альпах упавший в пропаыть школьный автобусу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "упал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "автобус"
+    },
+    {
+      "correctReplacement": "австрийских",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "пропасть",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

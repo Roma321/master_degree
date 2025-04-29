@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тех , сказал он , перед голосованием не было проведено кброждение постановления в думских комитете и объединениях , что необходимо по регламент .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "комитетах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "регламенту"
+    },
+    {
+      "correctReplacement": "обсуждение",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

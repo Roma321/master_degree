@@ -1,0 +1,30 @@
+{
+  "text": "Однако федеральный затон строго регламентирует правила задержания и обыска : полицейские амеют право обыскиваемые задержанного только в том случаях , если имеются веские основания полагать , что он вооружено .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "обыскивать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "вооружен"
+    },
+    {
+      "correctReplacement": "закон",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "имеют",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

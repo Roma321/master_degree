@@ -1,0 +1,25 @@
+{
+  "text": "В ночь с субботы на воскресенье на Ваганковском кладбище столицы совершён акт вандализма , сообщаешь \"Эхо Москвы\" со ссылкой на агентсьва МК-новости .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "совершен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "агентства",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

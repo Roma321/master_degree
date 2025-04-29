@@ -1,0 +1,20 @@
+{
+  "text": "Вечером в четверг в результате замыкания на электроподстанции в Москве пыть человек получим ожоги , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "пять",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

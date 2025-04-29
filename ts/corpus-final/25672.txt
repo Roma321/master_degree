@@ -1,0 +1,20 @@
+{
+  "text": "Генерал-майор Михаилом Малофеев погиб во время одной из боев в Грозном , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Михаил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

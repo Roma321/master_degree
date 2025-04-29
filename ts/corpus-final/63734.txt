@@ -1,0 +1,20 @@
+{
+  "text": "Решение принят по представлению налоговой инспекции Днепропетровской области , предъявленный иску включант пени .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "иск"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "включает",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

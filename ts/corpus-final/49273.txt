@@ -1,0 +1,25 @@
+{
+  "text": "Как утверждает один из автора проекта , \"мы хотим пробовавшие желание учиться в тех людях , которые отложили своё обучение из-за повседневных проблем - таких , как время , деньги и расстояние\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "пробудить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "авторов"
+    },
+    {
+      "correctReplacement": "пробудившие",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

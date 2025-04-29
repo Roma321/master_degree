@@ -1,0 +1,20 @@
+{
+  "text": "В связи с приходом в коалиционное австрийское правительздво ультраправой Австрийской партии свободы во главе с Йоргом Хайдером принц Уэльским Чарльз отменила свой визит в Австрию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "отменил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Уэльский"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

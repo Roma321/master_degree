@@ -1,0 +1,30 @@
+{
+  "text": "Хьюитт , к тому же , отлично подавал : процент попаданиями с первым вячу составило у него почти 80 процентов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "мяча"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "попаданий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "мячу",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

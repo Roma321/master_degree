@@ -1,0 +1,20 @@
+{
+  "text": "Напомню , уто 17 марта 55 статуэток были похищены со склада этой компании в пригороде Лос-Анджелеса , куда они были доставим из Чикаго .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "доставлены"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

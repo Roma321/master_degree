@@ -1,0 +1,30 @@
+{
+  "text": "Как считали поэтичные обозреватель , победа Хаккинённая была предопределена уже с самих старта , когда он вырвался вперед , опередив Шумахера .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "самого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "обозреватели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Хаккинена"
+    },
+    {
+      "correctReplacement": "спортивные",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

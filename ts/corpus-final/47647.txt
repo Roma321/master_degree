@@ -1,0 +1,30 @@
+{
+  "text": "В ближайшее время в кабинете министров ожидаются перемены , под угрозой отставки находитесь руководитель антимонопольной ведомства Южанов , главы Минатома Адамов и миниатр юстиции Чайки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Чайка"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "антимонопольного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "глава"
+    },
+    {
+      "correctReplacement": "министр",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

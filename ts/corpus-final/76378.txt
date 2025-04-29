@@ -1,0 +1,30 @@
+{
+  "text": "Напомните , что Пресненский суд признал незаконными обыски , которые представители Генпрокуратуры и ФСБ проведённве 11 май в помещениях ЗАО \"Медиа-Мост\" , ООО \"Группа \"Мост\" , матного охранного предприятия \"Мост Секьюрити Сервис\" и ООО \"Мемонет\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "мая"
+    },
+    {
+      "correctReplacement": "частного",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "проведённые",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

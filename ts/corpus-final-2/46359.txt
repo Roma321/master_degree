@@ -1,0 +1,30 @@
+{
+  "text": "По данным военных , всего за минувших сутки в Чечне бившее обезвредившее 29 взрывнвм устройств .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "обезврежено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "минувшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "взрывных"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "взрывным",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Террористом был захвачены самолет кинокомпании Qatar Airways совершафший рейс из Доха , столицы Катара , в Амман , столицу Иордании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "захвачен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Дохи"
+    },
+    {
+      "correctReplacement": "авиакомпании",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "совершавший",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

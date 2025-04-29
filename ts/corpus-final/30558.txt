@@ -1,0 +1,25 @@
+{
+  "text": "Как пояснило старший помощник прокурора города Татьяна Васильева , им арестовано в соответствии со статьей 90 Уголовно-процессуального кодекса РФ , которая предусматривает содержание пот стражей до десяти суток без предъявления обвинения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "пояснила"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

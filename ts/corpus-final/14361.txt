@@ -1,0 +1,20 @@
+{
+  "text": "меткость сети ОАО \"Петербургская телефонное сеть\" составляет 1 миллион 891 оысяча номеров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "телефонная"
+    },
+    {
+      "correctReplacement": "Емкость",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "тысяча",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "спрос , проведенный Д . Харрисом и К . Фомбруном и посвящённый выяснению степенр известности компаний , работающих в сфере высоких технологиями , выявили пять компаний , имеющих наиболее высокую репутацию , сообщает TechWeb .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "технологий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "посвященный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "выявил"
+    },
+    {
+      "correctReplacement": "Опрос",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "степени",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Чтобы не умереть , москвичу требовался в годе : хлебов пшеничного - 62 , 8 килограмма , молока и кефира - 105 килограмма , огурцов и помидоров - 2 , 5 килограмма , сахара - 19 , 6 килограмма , печенья - 1 килограмм , говязины - 12 , 4 килограмма , свиниными - 4 , 4 килограмма , рыбопродуктов - 13 , 3 микрограмма , творога - 8 килограммов , соли - 3 , 29 килограмма и чая - 477 граммов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "требуется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "килограммов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 52,
+      "correctReplacement": "свинины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "хлеба"
+    },
+    {
+      "correctReplacement": "килограмма",
+      "type": "paronym",
+      "wordNumber": 64
+    },
+    {
+      "correctReplacement": "говядины",
+      "type": "typo",
+      "wordNumber": 45
+    }
+  ]
+}

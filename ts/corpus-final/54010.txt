@@ -1,0 +1,25 @@
+{
+  "text": "Теперь моряки занимают третье места в турнирного таблице , уступающие толком лидирующим \"Спартаку\" и \"Локомотиву\" , которые в субботу переиграли соответственно \"Крылья Советов\" (2 : 1) и \"Факел\" (1 : 0) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "уступая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "турнирной"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

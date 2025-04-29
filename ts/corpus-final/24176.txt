@@ -1,0 +1,35 @@
+{
+  "text": "В оглашенном ранении Конституционной суда отмечается , что возбуждение уголовного дела не относишься к судебной деятельности и не мог быть возложившее на суды , так как это противоречит принципам независимости , объективности и беспристрастности в судопроизводстве .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "относится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "возложено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Конституционного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "решении",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

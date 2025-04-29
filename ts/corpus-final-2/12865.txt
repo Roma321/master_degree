@@ -1,0 +1,25 @@
+{
+  "text": "компаня Iridium была признавшая банкротом ы марта этого года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "признана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "марте"
+    },
+    {
+      "correctReplacement": "Компания",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

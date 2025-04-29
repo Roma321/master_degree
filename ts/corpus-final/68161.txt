@@ -1,0 +1,15 @@
+{
+  "text": "Полиция расценивает происшедшее как туристический акта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "акт"
+    },
+    {
+      "correctReplacement": "террористический",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

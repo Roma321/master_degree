@@ -1,0 +1,25 @@
+{
+  "text": "В принятом документе депутаты просите правительздво ежеквартально направлявшие в Госдуму информации о ходе расследования .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "направлять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "просят"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

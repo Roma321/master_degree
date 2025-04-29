@@ -1,0 +1,25 @@
+{
+  "text": "В Санкт-Петербурге в среду рано утром на пересечении проспектов Культуры и Суздальской произойду авария на подземном магистральной газопроводе высоком давления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "высокого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Суздальского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "магистральном"
+    }
+  ]
+}

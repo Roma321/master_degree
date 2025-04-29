@@ -1,0 +1,25 @@
+{
+  "text": "Для налогоплательщиков установившие вычеты из налогооблагаемой базы в размере 400 рублей в месяц (при годовом доходе менее 20 тысяч рублей) , а также по 300 рублей в месяц на каждом ребенка (также при доходе , не превышающих 20 тысяч рубля в год) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "превышающем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "установлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "каждого"
+    }
+  ]
+}

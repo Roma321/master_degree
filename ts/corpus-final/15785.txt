@@ -1,0 +1,20 @@
+{
+  "text": "По словам представителе военного ведомств , в Шали пока еще остаются небольшие групгы боевиков , которые сконцентрированы в центре населенного пункта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "представителя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ведомства"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

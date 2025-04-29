@@ -1,0 +1,25 @@
+{
+  "text": "Глава Минтруда выразила уверенность , что дополнительные довод в 2001 годом будут , \"поскольку есть возможности экономики\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "доходы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "выразил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

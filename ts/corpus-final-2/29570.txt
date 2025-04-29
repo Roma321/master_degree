@@ -1,0 +1,20 @@
+{
+  "text": "По словам Романова , это произошли после того , как сотрудники милиции удалим \"не имефших документов\" лиц , находившихся практически на всех постах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "удалили"
+    },
+    {
+      "correctReplacement": "имевших",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

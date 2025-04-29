@@ -1,0 +1,35 @@
+{
+  "text": "Однако прежнне владельцы сайта , Гэри Кремен , утверждал , что Коэн захваченный бездействующий домен , направив в Network Solutions (организацию , контролирующую присвоение доменных имен) поддельное письмо о передаче его новому владельце .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прежний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "владелец"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "бездействовавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "владельцу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "захватил"
+    },
+    {
+      "correctReplacement": "прежнее",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В последние гоэ , напоминает НТВ , Корея страдаешь от стихийных бедствий , стране грозит голод и ей необходима зарубежное помощи .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "страдает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "помощь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "годы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "зарубежная"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

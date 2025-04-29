@@ -1,0 +1,25 @@
+{
+  "text": "В минувший вторником в штаб-гвартире Организации Объединенных Наций в Нью-Йорке непавший свою работу очередная 54-я сессия Генеральной Ассамблеи ООН .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "начала"
+    },
+    {
+      "correctReplacement": "начал",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "штаб-квартире",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

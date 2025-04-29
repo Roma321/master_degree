@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал РИА \"Новости\" со ссылкой на министиа юстиции России Юрия Чайку , в субботу в следственном изоляторе N1 Владикавказа были задержан трос бандитов , вооруженных пистолетами Макарова .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "correctReplacement": "трое",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

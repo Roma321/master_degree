@@ -1,0 +1,30 @@
+{
+  "text": "Новая таможенная декларация уже вступила ц силу на территорию Украине и Белоруссии , других государства СНГ заявили о своей готовности ввести ее на своей территории до концатекущей года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "концатекущего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Украины"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

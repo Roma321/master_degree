@@ -1,0 +1,20 @@
+{
+  "text": "В номинации \"Лучший фильм\" победителем стала ленки \"Лунный папа\" , а ее постановщику Бахтиеру Худойназарову присуждена премия за лучшу. режиссерскую работу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "лента"
+    },
+    {
+      "correctReplacement": "ленты",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "лучшую",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

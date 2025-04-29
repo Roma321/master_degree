@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , как сообщают мировые агентства , по крайнему мере 8 человек арестованы в результате рейдов , которые провела полиция Бангкока среди демонстрантах , пикетированных X Конференцию ООН по торговлей и развитию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "торговле"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "крайней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "демонстрантов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "пикетировавших"
+    }
+  ]
+}

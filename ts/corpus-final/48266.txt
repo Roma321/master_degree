@@ -1,0 +1,35 @@
+{
+  "text": "На его место назначивший рпководящий Восточно-Сибирской железной дороги Геннадий Комаров , местом которого , в свои очередь , занявший Александр Касьянов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "занял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "место"
+    },
+    {
+      "correctReplacement": "руководитель",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "руководящий",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

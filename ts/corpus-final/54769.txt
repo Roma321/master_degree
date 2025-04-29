@@ -1,0 +1,20 @@
+{
+  "text": "В эту же день в городе пройдут игры мирового хоккейной первенздва и пасхальные торжества .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "хоккейного"
+    },
+    {
+      "correctReplacement": "первенства",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

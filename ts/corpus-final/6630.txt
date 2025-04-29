@@ -1,0 +1,25 @@
+{
+  "text": "Путин напомнил журналистам , что еще в первый день после своей назначения премьер-министрами дал утвердительный ответ на запрос , собирался ли он баллотироваться в президенты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "премьер-министром"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "своего"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

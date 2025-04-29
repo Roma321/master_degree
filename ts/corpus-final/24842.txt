@@ -1,0 +1,20 @@
+{
+  "text": "Вице-премьер Украины Юлия Тимошенко сообщала , вто речь идет о сумме , превышавшей 2 , 2 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "превышающей"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В четверг стало известно , что немецкая музей авиации душившая аамолет Ту-144 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "немецкий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "купил"
+    },
+    {
+      "correctReplacement": "купила",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "самолет",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

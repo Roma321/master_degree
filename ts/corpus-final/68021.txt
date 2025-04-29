@@ -1,0 +1,20 @@
+{
+  "text": "Рачато расследование происшествие , не исключено , что будет возбужден ряд уголовных дела , отметили источники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "Начато",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

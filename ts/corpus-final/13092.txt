@@ -1,0 +1,30 @@
+{
+  "text": "Министры торговли 135 стран , принятые участие в конференции всесильного торговому организации в Сиэтле , пришли к соглашению о продлении моратория на налогообложение электронноф коммерции , сообщает CNet News . com .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "торговой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Всемирной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "принявшие"
+    },
+    {
+      "correctReplacement": "Всемирного",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "электронной",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

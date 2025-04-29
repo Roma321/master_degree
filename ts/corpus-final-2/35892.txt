@@ -1,0 +1,25 @@
+{
+  "text": "В указе отметившее , чтожий делался это \"в целях повышений эффективности военно-технического сотрудничества РФ с иностранными государствами\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "повышения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "делается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "отмечено"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

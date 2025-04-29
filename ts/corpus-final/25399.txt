@@ -1,0 +1,20 @@
+{
+  "text": "В этом сезоне Судгейт играла во всех матчей клуба , а Бойер пропустил только три из них .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "играл"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "матчах"
+    },
+    {
+      "correctReplacement": "Вудгейт",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

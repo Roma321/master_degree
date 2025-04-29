@@ -1,0 +1,25 @@
+{
+  "text": "В итогу ГИБДД вынудившее , например , переводить перекресток главной и фторостепенной магистралей в равносторонние , так как невозможно установить новые знаки взамен украденных .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "вынуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "равносторонний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "итоге"
+    },
+    {
+      "correctReplacement": "второстепенной",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "А Сафины готовится к Уимблдону на турнире в Лондоне , где собрафшаяся очень сильная компания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Сафин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "собралась"
+    },
+    {
+      "correctReplacement": "собравшаяся",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

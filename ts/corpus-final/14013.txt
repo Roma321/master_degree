@@ -1,0 +1,40 @@
+{
+  "text": "Однако ситуация вышла из-под его контроля , пожара разгорелся , насмерть перепуганная банкир запершийся в ванной м отказался открывать даже прибывшим пожарным , в результате что , пока те взламываем двери , просто задохнулся в дыму вместе с няней свой дочери .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "взламывали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "дверь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "чего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заперся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "перепуганный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пожар"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

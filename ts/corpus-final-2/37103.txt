@@ -1,0 +1,30 @@
+{
+  "text": "С окончанием рабочего дня в среды члены избирательных комиссий во всех округами штата Флорида разошедшиеся по домам , пенедающий CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "разошлись"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "округах"
+    },
+    {
+      "correctReplacement": "передающий",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

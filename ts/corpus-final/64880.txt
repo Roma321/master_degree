@@ -1,0 +1,20 @@
+{
+  "text": "За минувшие сутки , по данным военных , в Чечне пзъят 63 единицы оружий , обезврежено четыре фугаса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "оружия"
+    },
+    {
+      "correctReplacement": "изъят",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

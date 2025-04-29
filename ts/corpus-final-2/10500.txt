@@ -1,0 +1,20 @@
+{
+  "text": "Мощные взрыв прогремело в понедельник рядом со зданием администрации Ленинского района Ррозного .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Мощный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прогремел"
+    },
+    {
+      "correctReplacement": "Грозного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Более того , Бабкин заявил , что никогда не употребляю термигов «Шквал» , а термин в уголовном деле возник по инициативе последователей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "термина"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "употреблял"
+    },
+    {
+      "correctReplacement": "следователей",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "терминов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

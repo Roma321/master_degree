@@ -1,0 +1,20 @@
+{
+  "text": "С начала мая в Приамурье продолжается сухов период , что сопровождался высоких температурой воздуха .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "сопровождается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "высокой"
+    },
+    {
+      "correctReplacement": "сухой",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

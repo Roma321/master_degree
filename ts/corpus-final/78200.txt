@@ -1,0 +1,25 @@
+{
+  "text": "Ранее предполагалось , что Дума преодолеет вето , наложу Совет Федерации еа новому закон , однако затем Дума приняла решение сформировать согласительную комиссию .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "наложенное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Советом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

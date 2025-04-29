@@ -1,0 +1,15 @@
+{
+  "text": "Взрывное устройство находилось в квартире номер 45 на седьмом этаже домов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "седьмом",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

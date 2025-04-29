@@ -1,0 +1,25 @@
+{
+  "text": "В понедельника , 13 ноября , пресс-служба холдинг \"Медиа-Мост\" распространила заявление , в котором обвинила следователей Генеральной прокуратуры России м предвзятости или непрофессионализмах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "непрофессионализме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "холдинга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

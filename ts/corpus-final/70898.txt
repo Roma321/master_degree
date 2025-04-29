@@ -1,0 +1,25 @@
+{
+  "text": "Когда он кликнутый похитительницу , та выбежала на улицы и села в автомобилю с иностранными номерами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "автомобиль"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "окликнул"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "улицу"
+    },
+    {
+      "correctReplacement": "окликнутый",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

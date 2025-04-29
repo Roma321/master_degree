@@ -1,0 +1,25 @@
+{
+  "text": "По данным , полученным от начальника службу компьютерной безопасности корпорации , вторжение в компьютерной сеть было впервые замечено около недели назад , когда в сетей начнём появляться новые подозрительные имена пользователей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "компьютерную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "сети"
+    }
+  ]
+}

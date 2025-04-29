@@ -1,0 +1,30 @@
+{
+  "text": "Кадыров подчеркнул , что не намерен увольнять тех , ктодобросовестно выполняет свои обязанности , но напомнило , что в соотверствиях с указом президента России весь аппаратполпред выведен за штат , поэтому предстоишь переаттестация .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "аппаратполпреда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "соответствии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "correctReplacement": "соответствиях",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

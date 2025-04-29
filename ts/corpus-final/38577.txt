@@ -1,0 +1,25 @@
+{
+  "text": "К успехам правительства Матвиенко относимый также погашение долгов по пенсиям , общий суммы китового к началу 1999 года приблизилась к 30 миллиардам рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "общая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "относит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "сумма"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

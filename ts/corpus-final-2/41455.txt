@@ -1,0 +1,35 @@
+{
+  "text": "Ранее считалось , что Чейни живет в штате Вайоминга , но юрист , представляющий жалобщиков , заявил , что в Вайоминг Чейне официально переехала лишь за 4 зня до начала избирательной кампании , а до это жил , работал и платил налогах в Техасе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "налоги"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Чейни"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Вайоминг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "переехал"
+    },
+    {
+      "correctReplacement": "дня",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

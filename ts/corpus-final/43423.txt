@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в 19 : 20 в десяти метрах от вход в здмние нелегальной агентства правительственной связи и информации в Москве (Большой Кисельный , 4) охрана обнаружила предмет , напоминающий взрывное устройство с часовым механизмом , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "входа"
+    },
+    {
+      "correctReplacement": "Федеральной",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "здание",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

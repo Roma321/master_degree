@@ -1,0 +1,20 @@
+{
+  "text": "Вскоре посло инцидента человек утихли и разошедшиеся по домам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "разошлись"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "люди"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

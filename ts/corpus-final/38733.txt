@@ -1,0 +1,25 @@
+{
+  "text": "Японский банк занимаю одно из ведущих места в банковском рейтинге своей страны и намерен через Россию информирующие проникновением на восточно-европейский финансовый рынок , заявили в МОСТ-банке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "мест"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "проникновение"
+    },
+    {
+      "correctReplacement": "форсировать",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

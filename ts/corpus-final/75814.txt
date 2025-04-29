@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшний день писки не дал практически никаких результатов , сообщал CNN .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дали"
+    },
+    {
+      "correctReplacement": "поиски",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

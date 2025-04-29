@@ -1,0 +1,20 @@
+{
+  "text": "генератор Мурманской области Юрии Евдокимов отметило , что на спецсчет поступили первые 500 тысяч рублей из резервного фонда правительства , столько же перечислено руководством самой области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Юрий"
+    },
+    {
+      "correctReplacement": "Губернатор",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

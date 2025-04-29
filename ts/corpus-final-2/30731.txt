@@ -1,0 +1,25 @@
+{
+  "text": "Реальный денежный курс сейчас не 27 рублей за доллар , а примерно 21 рубль за доллар - об этом заявивший на заседании Европейского делового клуба в пятницы мэру Москвы Юрий Лужкоы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "мэр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "correctReplacement": "Лужков",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

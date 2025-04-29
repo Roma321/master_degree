@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , отмеченный Путин , половина продукций , производящихся на северо-западп , конкурентоспособна на внешнем рынке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "производящейся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "продукции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "северо-западе",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

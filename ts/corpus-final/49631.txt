@@ -1,0 +1,20 @@
+{
+  "text": "Он отметило , что \"нынешней весной на военную службу будет призвано 191612 люди , что составляет тольео 13 процентов от всего призывного ресурса\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

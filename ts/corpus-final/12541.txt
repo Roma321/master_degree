@@ -1,0 +1,35 @@
+{
+  "text": "Наибольшего сенсацию вызвавшее назначение министра образования Мартина Макгиннеса , являющегося заместителем главы партии Шинн Фейн , представлявшей собой политическое рыло Ирландской Республиканской армим .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "министром"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Наибольшую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "представляющей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вызвало"
+    },
+    {
+      "correctReplacement": "крыло",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "армии",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В России поисками исчезнувшей журналиста озабочено руководства ОРТ , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "руководство"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "исчезнувшего"
+    }
+  ]
+}

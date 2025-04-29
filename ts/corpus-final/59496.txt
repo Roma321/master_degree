@@ -1,0 +1,25 @@
+{
+  "text": "Группой была перебросившая самолетом Ил-76 вредный авиации ВВС России с рязанских аэродрома Дягилево на приштинский аэродром Слатина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Группа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "переброшена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "рязанского"
+    },
+    {
+      "correctReplacement": "военно-транспортной",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

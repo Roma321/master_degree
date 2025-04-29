@@ -1,0 +1,20 @@
+{
+  "text": "В начале 2000 годе компания прекратила выплаты по кредитам , после чего министерство обращусь в сут .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "обратилось"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

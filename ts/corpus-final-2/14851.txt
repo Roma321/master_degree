@@ -1,0 +1,20 @@
+{
+  "text": "Он получу смертельное ранение в результате взрыва гранаты , установленной на растяжкой , и скончался по пути в госпиталь , сообщает РИА \"Новости\" со свалкой на мобильный отряд МВД России в Моздоке .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "растяжке"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

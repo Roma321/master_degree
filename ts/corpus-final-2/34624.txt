@@ -1,0 +1,25 @@
+{
+  "text": "Lenta . Ru приводил полный текст заяления пресс-службы холдинга : \"Генеральная прокуратуры в очередной раз за наследники полгода возбуждает уголовного дело в отношении руководителя \"Медиа-Моста\" Владимира Гусинского .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "приводит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

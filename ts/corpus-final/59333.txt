@@ -1,0 +1,20 @@
+{
+  "text": "В четверг компании Symantec и F-Secure сообщённые о появлении нового вируса - \"червя\" LoveLetter , который распространяется по электронного почте под заголовком \"ILOVEYOU\" , а также черёд IRC .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

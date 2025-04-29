@@ -1,0 +1,30 @@
+{
+  "text": "По окончании заседания Копылову выступил с обращением к жителям города и уточнила , что местный власти не принимал решения о введении чрезвычайного положения , а решили ушибившие антитеррористические меры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "уточнил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "местные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Копылов"
+    },
+    {
+      "correctReplacement": "усилить",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

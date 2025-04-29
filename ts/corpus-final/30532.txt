@@ -1,0 +1,30 @@
+{
+  "text": "В пятницы в полудне над резиденцией Масхадова в Доме правительства был поднявший российская флаг , передаю Федеральное агентство новостей со ссылкой на командующего объединенной группировкой генерал-полковника Виктора Казанцева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "поднят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "полдень"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "российский"
+    }
+  ]
+}

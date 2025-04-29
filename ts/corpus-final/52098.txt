@@ -1,0 +1,30 @@
+{
+  "text": "Между тем на европейских рынках во вторники цена за баррели сырой нефти упали нико 21 доллара и на 14 : 00 составила 20 , 97 доллара за баррелем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "упала"
+    },
+    {
+      "correctReplacement": "ниже",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

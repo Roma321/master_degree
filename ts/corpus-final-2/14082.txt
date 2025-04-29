@@ -1,0 +1,25 @@
+{
+  "text": "Предположительно , причиной может быть повышенные влажность воздух - воду ослабляет строительные конструкции , особенный в домах с протекающей крышей или с плохой системой водоотвода .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "воздуха"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "повышенная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "вода"
+    },
+    {
+      "correctReplacement": "особенно",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

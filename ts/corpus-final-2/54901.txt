@@ -1,0 +1,25 @@
+{
+  "text": "Кроме Крамника и каспара , это занимающий пятую строчки Александр Морозевич и экс-чемпион мир по версии ФИДЕ Александр Халифман , имеющие седьмой рейтинг .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "мира"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "имеющий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "строчку"
+    },
+    {
+      "correctReplacement": "Каспарова",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В пакетике жадные картошки Burger King дети наславший хорошо прожаренную ящерицу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "жареной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "нашли"
+    },
+    {
+      "correctReplacement": "жареным",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

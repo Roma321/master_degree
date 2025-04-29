@@ -1,0 +1,20 @@
+{
+  "text": "На рассмотрении судов уже находимся материалы на 1263 неплательщика с исками на общую сумму 127 мильтонов рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

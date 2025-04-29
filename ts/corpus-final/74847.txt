@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в парисе открылось третьи ежегодное общее собрание Европейского делового конгресса , в нем участвуют около 200 бизнесменов и политики из 19 европейских стран , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "третье"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "политиков"
+    },
+    {
+      "correctReplacement": "Париже",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

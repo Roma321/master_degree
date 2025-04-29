@@ -1,0 +1,20 @@
+{
+  "text": "Одного военнослужащий погиб , ещё одно получил ранения в результате вооруженного нападения в Грозном .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

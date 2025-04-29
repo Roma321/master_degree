@@ -1,0 +1,30 @@
+{
+  "text": "В марте Intel объявил о создании процессора Pentium 3 с тактовой частотой 1 гигагерц , это произошло через три дня после тем , как основном конкурент Intel компания AMD первой объявившая о выпуске гигагерцевой процессора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "основной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 33,
+      "correctReplacement": "гигагерцевого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "объявила"
+    }
+  ]
+}

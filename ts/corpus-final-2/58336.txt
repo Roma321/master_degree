@@ -1,0 +1,25 @@
+{
+  "text": "В Саудовской Аравии смертная казань полагклся за убийство , изнасилование , торговлю наркотиками и вооружённый ограбление .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "полагается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "вооруженное"
+    },
+    {
+      "correctReplacement": "казнь",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "полагался",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

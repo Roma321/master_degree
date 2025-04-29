@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщили в УВД республика , погибнем заместитель командира комендантской роты по воспитательного работах лейтенант юлий Григорьев и военнослужащий контрактник , призову из Новосибирска , Сергей Волошин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "воспитательной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "работе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "призванный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

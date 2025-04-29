@@ -1,0 +1,30 @@
+{
+  "text": "В заявлениа Центра общественных связи ФСБ РФ подчеркивается , чтоФСБ России \"окажет всемерный содействие и помощь следствию и , еслиподтвердится факт участий сотрудников службы в противоправнойдеятельности , будет настаивать на самом строгих наказании для них\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "строгом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "связей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "всемерное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "участия"
+    },
+    {
+      "correctReplacement": "заявлении",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

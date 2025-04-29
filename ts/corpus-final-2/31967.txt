@@ -1,0 +1,25 @@
+{
+  "text": "Итальянцы обеспеченные себе одно из двумя первых мест , на второе претендующие \"Лидс\" и \"Барселона\" , причем испанцы отстают от конкурентов на три лчка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "претендуют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обеспечили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "двух"
+    },
+    {
+      "correctReplacement": "очка",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

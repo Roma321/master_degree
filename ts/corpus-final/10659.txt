@@ -1,0 +1,25 @@
+{
+  "text": "Сольвейг Синглтон , адвокат , специализировавшийся в сфере телекоммуникаций , из Cato Institute : \"Большинство поданных прожектов чрезвычайно непрактичны , особенно те , что касаетесь национальных стандартов фильтрований доступа к информации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "специализирующийся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "касаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "фильтрования"
+    },
+    {
+      "correctReplacement": "проектов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

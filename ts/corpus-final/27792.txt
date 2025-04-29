@@ -1,0 +1,25 @@
+{
+  "text": "Тем не мкнее , руководство компании Viacom утверждает , что бракоразводный процесс семьи Редстоунам - личная их дело , не влиявшее на дела компании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Редстоунов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "личное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "влияющее"
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

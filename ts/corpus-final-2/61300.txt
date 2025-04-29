@@ -1,0 +1,25 @@
+{
+  "text": "По предварительными данным , причиной пожаре могло сжать загорание в жлектропроводке грузовика .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предварительным"
+    },
+    {
+      "correctReplacement": "стать",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "электропроводке",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

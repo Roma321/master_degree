@@ -1,0 +1,20 @@
+{
+  "text": "Српди арестованных оказалась женщина , которая сшил себе из флага платье , сообщаемый Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сшила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Среди",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

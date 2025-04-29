@@ -1,0 +1,30 @@
+{
+  "text": "Пиночет был арестовавший в Лондоне в октябре 1998 года по требованию испанское прокуроров Бальтазара Гарсона , который обвиняемый его в пытках и ыбийствах испанских граждан в Чили в период 1973-90 годов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "обвиняет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "испанского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "прокурора"
+    },
+    {
+      "correctReplacement": "убийствах",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

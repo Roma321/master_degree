@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщил сам Попов , набравшее около 25 процентов голосов в своем округе , Кузнецовы ворвался в штуб около 6 часов утра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Кузнецов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "набравший"
+    },
+    {
+      "correctReplacement": "штаб",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

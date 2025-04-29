@@ -1,0 +1,20 @@
+{
+  "text": "Сам Миронов узнал о жалобу , вернувшись из командировки в СЩА , куда был приглашён наблюдать за ходом президентских выборов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "жалобе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "приглашен"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

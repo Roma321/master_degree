@@ -1,0 +1,25 @@
+{
+  "text": "Думские комиссия по этике раасмотревший заявление авиакомпании Air France в связей с поведением лидера ЛДПР , вице-спикера Госдумы Владимира Жириновского на борту самолета этой компании в аэропорту \"Шереметьево\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "рассмотрит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Думская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "рассмотревший",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

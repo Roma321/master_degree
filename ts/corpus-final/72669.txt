@@ -1,0 +1,20 @@
+{
+  "text": "На наземном транспорте стоимость билетов увеличился на дин рубль .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "билета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "увеличится"
+    },
+    {
+      "correctReplacement": "один",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

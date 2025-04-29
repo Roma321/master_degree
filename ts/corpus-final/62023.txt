@@ -1,0 +1,25 @@
+{
+  "text": "Как заявил журналистам секретарь Совета безопасности Ингушетии Багаудин Ацшев , МВД республики проводящий рейдовые и поисковые операции , к которым подключали добровольцам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "добровольцы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проводит"
+    },
+    {
+      "correctReplacement": "подключились",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "Аушев",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

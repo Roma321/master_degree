@@ -1,0 +1,30 @@
+{
+  "text": "Интернациональный проект по строительству космодрома на искусственная стартового платформе , сооруденной в международных водах Тихого океанов , предложенные проектировщики и инженеры Boeing Commercial Space Company , одного из подразделений американской корпорации Boeing .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "предложили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "стартовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "океана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "искусственной"
+    },
+    {
+      "correctReplacement": "сооруженной",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

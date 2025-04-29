@@ -1,0 +1,25 @@
+{
+  "text": "В четверг по нескольким чатам Сети прокатилась волна слуха о внезапной уходе со своего поста или даже смерти Ларри Элисона , исполнительного директора и основателя компании Oracle , мирового лидера производств программного обеспечения , сообщаешь в пятницу информационное агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "внезапном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "производства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "слухов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 34,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "К 18-й минуте матча чемпионат Европы по футболу между командами Англия и Португалии кажусь , что его сход очевиден : англичан выигрывали со счетом 2 : 0 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Англии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "чемпионата"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "казалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "англичане"
+    },
+    {
+      "correctReplacement": "исход",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

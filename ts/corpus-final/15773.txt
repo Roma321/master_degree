@@ -1,0 +1,30 @@
+{
+  "text": "Глава заводов , представляемый интересы контролирующего завод американской компании Williams Intl , в конце прошлой недели направил письмо министру топливного и энергетики РФ Викторам Калюжному .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "представляющий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "завода"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Виктору"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "контролирующей"
+    },
+    {
+      "correctReplacement": "топлива",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

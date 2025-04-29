@@ -1,0 +1,25 @@
+{
+  "text": "Задача эта чрезвычайно труден , если учесть , что две трети населения мегаполиса живёшь в трущобы , а не меньше десяти процентов - обитал прямо на улицах и площадях . и генеральный секретарь Лиги арабских государств Абдель Магида .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "живет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "обитает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "трущобах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "трудна"
+    }
+  ]
+}

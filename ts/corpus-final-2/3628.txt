@@ -1,0 +1,25 @@
+{
+  "text": "На разоившемся вертолете находившаяся части сборной ВВС по парашютному спорту - 16 человек , среди кротового шестеро женщин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "находилась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "разбившемся",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

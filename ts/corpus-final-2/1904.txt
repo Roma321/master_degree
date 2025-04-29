@@ -1,0 +1,25 @@
+{
+  "text": "В том числах , перевозкой нефти , мазута и железного руды в цистернах и вагонах МПС сойдётся дороже на 20 , 5 процента , в собственном подвижном составе - на 13 , 5 процента (нефть и мазут) и 5 , 5 процента (железная руда) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "перевозка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "железной"
+    },
+    {
+      "correctReplacement": "обойдется",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

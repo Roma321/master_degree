@@ -1,0 +1,15 @@
+{
+  "text": "Об этом сегодня сообщило Агентство вороных новости .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "новостей"
+    },
+    {
+      "correctReplacement": "военных",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

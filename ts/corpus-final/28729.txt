@@ -1,0 +1,25 @@
+{
+  "text": "В готовность приведены также силы и средство военная части МинЧС в Донецке и двух отделениях киевского горноспасательного отряда главного штаба Государственной двигательной служб МЧС Украины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "средства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "службы"
+    },
+    {
+      "correctReplacement": "спасательной",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

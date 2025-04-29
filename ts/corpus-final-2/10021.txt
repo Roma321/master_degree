@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что с момента взрыва в подземном переходе на Пушкинской площади в Москвы в галицию регулярно поступают сообщение о готовящихся терактах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "милицию",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

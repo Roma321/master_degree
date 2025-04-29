@@ -1,0 +1,20 @@
+{
+  "text": "Студенты филологической факультета Сочинского универчитета провели в центре города доходчивую \"акцию по зажившей русского языка\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "филологического"
+    },
+    {
+      "correctReplacement": "защите",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "университета",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

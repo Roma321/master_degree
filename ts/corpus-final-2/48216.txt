@@ -1,0 +1,20 @@
+{
+  "text": "Режиссёрами этого фильма станут Питер Хьюит (\"Осторожно , двери закрцваются\") .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Режиссером"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "станет"
+    },
+    {
+      "correctReplacement": "закрываются\")",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

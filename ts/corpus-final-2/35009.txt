@@ -1,0 +1,30 @@
+{
+  "text": "Ч свою время Александр Литвиненко был уволивший из рядов ФСБ после скандала вокруг предполагаемого подготовки убийства известного предпринимателем Бориса Березовского .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "уволен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "предпринимателя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "предполагаемой"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

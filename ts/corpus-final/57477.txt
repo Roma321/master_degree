@@ -1,0 +1,20 @@
+{
+  "text": "Первый президент Российского Федерации Борису Ельцин приму приглашение президента Украины Леонида Кучмы посетить Украину .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Борис"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "принял"
+    }
+  ]
+}

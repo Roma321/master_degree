@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас в Ростове находятся сотрудники бернского УВД : они привезли некоторые документов и медицинские карт погибших , чтобы упростить работу экспертами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "карты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "документы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "экспертов"
+    },
+    {
+      "correctReplacement": "пермского",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

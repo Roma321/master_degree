@@ -1,0 +1,30 @@
+{
+  "text": "Алексеев отметил , что в результатах эта работы российские военные практически предотвратили экологическую катастрофу в бассейн Терека и Сунжи , а тагже в Каспийской море .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "бассейне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "Каспийском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Айове все еще продолжаются подсчет голосов , однако уже сейчас заходит речь о возможном пересчете голосов собиратели в этом штате .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "correctReplacement": "избиратели",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По информации спецслужб , Ялькины , работающие в отделе информационного систем одной из ООО Кирова , создал вредоносную программу , которая приводившая к збоям работы ЭВМ и локальной компьютерной сети .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "работая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "информационных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Ялькин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "приводила"
+    },
+    {
+      "correctReplacement": "сбоям",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сведениями ФСО , в акции участвовали более двух десятков представителей местной таксистской мафии и билетные спекулянтами , причем нападение происходила на глазах сотрудников местных правоохранительных органов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "спекулянтов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "происходило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "билетных"
+    }
+  ]
+}

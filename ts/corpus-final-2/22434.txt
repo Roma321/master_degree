@@ -1,0 +1,20 @@
+{
+  "text": "Раньше , чем предполагался по графику , закончился съемки фильма а рабочим названием \"Звездные войны : Эпизод II\" (Star Wars : Episode II) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предполагалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "закончились"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

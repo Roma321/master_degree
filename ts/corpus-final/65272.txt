@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили журналистам в пресс-центре Мосгордумы , вместе с приведздвием от мэра столице Юрия Лужкова российские военнослужащие получившие подарки ко Дню пограничника : наручные часы , ствольные мячи , настольные игры , гитары .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "столицы"
+    },
+    {
+      "correctReplacement": "футбольные",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "приветствием",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

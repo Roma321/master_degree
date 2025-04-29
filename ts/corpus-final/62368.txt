@@ -1,0 +1,25 @@
+{
+  "text": "На телефонии , проведённой в типично голливудскому стиле , присутствовала около 2800 web-дизайнеров и представителей интернет-компаний .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "голливудском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "присутствовало"
+    },
+    {
+      "correctReplacement": "церемонии",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

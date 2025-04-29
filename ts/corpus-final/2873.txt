@@ -1,0 +1,30 @@
+{
+  "text": "Закон устанавливает потребительскую корзину , то ест минимальный набором продукты питания , непродовольственных товаров и услуг ц натуральной форме для основного социально-демографических групп населения : трудоспособных , пенсионеров и детей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "набор"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "продуктов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "основных"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

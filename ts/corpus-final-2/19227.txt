@@ -1,0 +1,35 @@
+{
+  "text": "Представитель посольства России в Литву Борис Кириллов скаху , что знал о царствовании водки и думает , что русские не стали обижаться по этому поводу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "станут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "знает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Литве"
+    },
+    {
+      "correctReplacement": "существовании",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "скажу",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

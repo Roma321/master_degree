@@ -1,0 +1,25 @@
+{
+  "text": "Электрики , повара , мойщики окна и дворрики также не смогут обойти эту законы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "окон"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "закон"
+    },
+    {
+      "correctReplacement": "дворники",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

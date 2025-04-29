@@ -1,0 +1,30 @@
+{
+  "text": "Более подробное информации он сафшие отказался до тех пор , пока не завершишься экспертиза .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "завершится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "подробную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "информацию"
+    },
+    {
+      "correctReplacement": "дать",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "савшие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

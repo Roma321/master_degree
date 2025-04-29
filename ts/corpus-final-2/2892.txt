@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщалось , новый кабинет уже выдвигаю идею об общей увеличении в РФ пенсионной возраста до 65 лет , однако затем признали ее \"наихудшим средствос\" для реализации пенсионной реформы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выдвигал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "общем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "пенсионного"
+    },
+    {
+      "correctReplacement": "средством\"",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

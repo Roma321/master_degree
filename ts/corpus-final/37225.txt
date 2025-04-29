@@ -1,0 +1,20 @@
+{
+  "text": "Примерно в 15 : 45 к гаданию подъехал автобус , в котором находились примерно две десяток казаков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "десятка"
+    },
+    {
+      "correctReplacement": "зданию",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

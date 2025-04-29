@@ -1,0 +1,25 @@
+{
+  "text": "В официальном заявлении канцелярии Барака отмечался , чтл Гусинский имею два гражданства - израильское и российские .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "российское"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

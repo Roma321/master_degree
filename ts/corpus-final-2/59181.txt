@@ -1,0 +1,25 @@
+{
+  "text": "Поиск преступников по горячим следам результате не дал , хотя Матвеев якобы запомнивший номера их афтомобиля .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "запомнил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "преступника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "результата"
+    },
+    {
+      "correctReplacement": "автомобиля",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

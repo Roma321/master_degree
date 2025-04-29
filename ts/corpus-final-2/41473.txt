@@ -1,0 +1,25 @@
+{
+  "text": "В борьбу вступил команды групп А и В . Выступающая и группе С московский \"Спартак\" свои первый матч против лондонского \"Арсенала\" проведет в среду .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Выступающий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вступили"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

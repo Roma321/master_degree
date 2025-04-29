@@ -1,0 +1,25 @@
+{
+  "text": "После общения с журналистов Владимир Путин пригласило лидера ОВР Евгения Примаковых на отдельоую беседу , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "пригласил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Примакова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "журналистами"
+    },
+    {
+      "correctReplacement": "отдельную",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

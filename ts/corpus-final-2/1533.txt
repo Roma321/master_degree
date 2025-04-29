@@ -1,0 +1,25 @@
+{
+  "text": "Ьо информации , полученного РИА \"Новости\" в российском посольстве , нота МИД РФ была передана во французская неполитическое ведомство в пятницу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "полученной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "французское"
+    },
+    {
+      "correctReplacement": "внешнеполитическое",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

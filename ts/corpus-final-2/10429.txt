@@ -1,0 +1,25 @@
+{
+  "text": "85 процентов переселенцев составят жителей Чонкина , который окажешься в конце будущего водохранилищу , протяженность которого составит около 500 километры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "километров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "жители"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "окажется"
+    },
+    {
+      "correctReplacement": "водохранилища",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

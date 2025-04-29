@@ -1,0 +1,25 @@
+{
+  "text": "В числе приглашённых оказался человек , который несколько лет назад был объявлена в центральный розыск за участия в разбойном нападении .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "объявлен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приглашенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "участие"
+    },
+    {
+      "correctReplacement": "федеральный",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

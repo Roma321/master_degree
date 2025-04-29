@@ -1,0 +1,20 @@
+{
+  "text": "В результате открытой ими стрельбы , мать Данилина ранено в рукава , отец - в щеку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "ранена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "руку"
+    },
+    {
+      "correctReplacement": "руки",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

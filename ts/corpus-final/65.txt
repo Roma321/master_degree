@@ -1,0 +1,20 @@
+{
+  "text": "Правозащитный центры общества \"Мемориал\" , комитет \"Гражданское содействие\" и Национальный института пруссаки провели в понедельник пресс-конференцию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "институт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "центр"
+    },
+    {
+      "correctReplacement": "прессы",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

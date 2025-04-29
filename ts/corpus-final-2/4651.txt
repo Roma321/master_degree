@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник кандидат в президенты США от республиканская партии , губернатор Техаса Джордж Буш-младший официально заявленный , что пойдет на выборы в паре с бывшей министром обороны США Ричардом Чейни , который будет баллотироваться на посты вице-президента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "бывшим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "республиканской"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Президенту США Билл Клинтон также не стал принимать срочного мер , но обвинил Голливудом в той , что тот перешел рамки приличия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "срочных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Голливуд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "том"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявленный помощник и . о . президента Сергеи Ястржемпский , сообщал РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "correctReplacement": "Ястржембский",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

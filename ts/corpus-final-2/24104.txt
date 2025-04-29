@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее времени лайнер находится в море , на нем проводящиеся рекордные работы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проводятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "ремонтные",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Эвакуации подводников будет производиться а помощами подводного аппарата , который опускается в море с бортов спасательного судна , а затем в автономном режиме приближается к лодке и присоединяется к аварийной люку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "аварийному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Эвакуация"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "борта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "помощью"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

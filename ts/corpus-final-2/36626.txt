@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник предсежатель ЦИК побываю на нескольких избирательных участке в Чикаго , а также в городского комиссии и совете по проведению выборов в штате Иллинойс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "участках"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "побывал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В прошлом году французский клуб занятый четвертое место в национальному чемпиоре и будет выступать в Кубок УЕФА .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "национальном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Кубке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "занял"
+    },
+    {
+      "correctReplacement": "чемпионате",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "чемпионе",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

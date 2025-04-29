@@ -1,0 +1,20 @@
+{
+  "text": "Здание комендатуры не пострадала , о потерн не сообщается .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "потерях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "пострадало"
+    },
+    {
+      "correctReplacement": "потере",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

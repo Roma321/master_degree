@@ -1,0 +1,20 @@
+{
+  "text": "Трансляция передач в прямой эфирах полка ведется по рабочим дням с 10 : 00 до 19 : 00 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "прямом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "эфире"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

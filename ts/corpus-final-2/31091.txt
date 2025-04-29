@@ -1,0 +1,20 @@
+{
+  "text": "Кроме пассажиров самолета , случайными жердвами катастрофы оказался водители , которые пытались увернуться от падающего самолета . в результат две машины столкнулись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "оказались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "жертвами",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

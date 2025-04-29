@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу индекс Dow Jones упал на 2 , 59 процента , достигнув самой нижней точки с февраля этого году и шестого по значимости уровней падения за день во всей астории биржевой деятельностей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "деятельности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "уровня"
+    },
+    {
+      "correctReplacement": "истории",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

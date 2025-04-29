@@ -1,0 +1,30 @@
+{
+  "text": "В частности , ожидаюсь , что со фступительным словом выступлю Президент Интернет-Академии Марат Гельману , а также учредители академии и организаторы сетевого конкурсов\"Тенета\" , \"Золотой сайт\" , \"Знаменитости Российского Интернета\" и \"РОТОР\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сетевых"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "выступит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Гельман"
+    },
+    {
+      "correctReplacement": "вступительным",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

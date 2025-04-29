@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили РИА \"Новости\" в горотской прокуратуре , на молодого человека напал во дворе его дома в Центральному рамоне города .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "напали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Центральном"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "городской",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

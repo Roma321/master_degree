@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РИА \"Новости\" со ссылкой на пресс-службу Кремля , указы об этом в среду модписал и . о . президента Владимир Путина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "указ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Путин"
+    },
+    {
+      "correctReplacement": "подписал",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

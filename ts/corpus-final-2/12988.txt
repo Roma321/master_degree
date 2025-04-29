@@ -1,0 +1,30 @@
+{
+  "text": "Если даже в сентябре на 111-ф конференция ОПЕК будет принявшее решение о повышении квот на добычу нефть , все равно этот шаг \"вряд ли сможет затормозить неудержимый рост цен на нефтепродукты , в бердую очередь на бензин и мазут\" , считают они .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "конференции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "первую",
+      "type": "paronym",
+      "wordNumber": 33
+    },
+    {
+      "correctReplacement": "111-й",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В ночь на воскресенье в гордом Пушкине под Санкт-Петербургом сгорим три боевых самолета Су-24 стоимостью 15 миллиона долларам каждый .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "сгорели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

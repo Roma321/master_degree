@@ -1,0 +1,30 @@
+{
+  "text": "Он сообщивший , в частности , что из 5 миллиардов рублей , выделенных Ыедеральной продовольственного корпорации на закупку сельхозпродукции , по назначению используемо только 1 , 5 миллиард рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "продовольственной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "использовано"
+    },
+    {
+      "correctReplacement": "Федеральной",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

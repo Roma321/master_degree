@@ -1,0 +1,30 @@
+{
+  "text": "34-летнее бывшем агент провёдший четыре месяца в парижской тюрьме La Sante в 1998 году , до того как фраоцузские власти решённые отказать в выдаче его Британии для судебного разбирательства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "34-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "решили"
+    },
+    {
+      "correctReplacement": "французские",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

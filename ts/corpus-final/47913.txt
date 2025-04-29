@@ -1,0 +1,35 @@
+{
+  "text": "В настоящее время разрабатывается новое конструкция двери между салоном и кабиной пилота , которая должна быть и достаточно крепкого , и в ьо же времена не препятствовать эвакуацию при авиации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "новая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "крепкой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "эвакуации"
+    },
+    {
+      "correctReplacement": "аварии",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "то",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

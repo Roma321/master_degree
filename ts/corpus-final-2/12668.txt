@@ -1,0 +1,25 @@
+{
+  "text": "Эоо была гуманитарная операция , и об оплате ее русскими вопросе не стоит , заявленные журналисткам представители министерства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Это",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

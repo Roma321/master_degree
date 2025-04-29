@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщили ИТАР-ТАСС в штабе Объединённой группировки , Масхадов и другим лидеры с небольшими обряды постоянно перемещаются , совершая в дни от пяти до 15 переходов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "отрядами"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "correctReplacement": "отряды",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

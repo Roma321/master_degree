@@ -1,0 +1,30 @@
+{
+  "text": "Наводнение в 2001 годы угрожают более чем 40 крупным городам и нескольким тысячам населивших пунктоф России , скажу Шойгу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Наводнения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "пунктов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

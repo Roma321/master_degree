@@ -1,0 +1,20 @@
+{
+  "text": "Такое расторжение сделаю президент РФ Владимир Путин , сообщил журналистам глава этого ведомства Герман Грефом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Греф"
+    },
+    {
+      "correctReplacement": "распоряжение",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

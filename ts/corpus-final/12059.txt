@@ -1,0 +1,25 @@
+{
+  "text": "Всего с учетом нынешнешо УВКБ направил 14 гуманитарных конвоев с гуманитарного помощью , из них два - в Дагестан , один - в Моздок (Северная Осетия) и 11 - в Ингушетию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "направило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "гуманитарной"
+    },
+    {
+      "correctReplacement": "гуманитарного",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "нынешнего",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

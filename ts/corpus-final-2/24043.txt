@@ -1,0 +1,30 @@
+{
+  "text": "Тем зрителю , которые не позже , чем через полчаса после начала уйдут из зала , будут полностью вообразившие деньги за билрт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "билеты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "зрителям"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "возвращены"
+    },
+    {
+      "correctReplacement": "возвратившие",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "билет",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

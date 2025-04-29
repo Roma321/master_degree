@@ -1,0 +1,35 @@
+{
+  "text": "Он выразил протест в связи с действиями Гусева и проинформировала посла о том , что Гусев являюсь персона нон-гратс и должны в течение 10 дней покинуть территории США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "проинформировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "территорию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "персоной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "нон-грата",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

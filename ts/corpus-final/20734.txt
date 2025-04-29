@@ -1,0 +1,25 @@
+{
+  "text": "28 декабря начались ставки туркменскрй природного газа в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Россию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "туркменского"
+    },
+    {
+      "correctReplacement": "поставки",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "туркменской",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

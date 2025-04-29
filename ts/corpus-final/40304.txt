@@ -1,0 +1,25 @@
+{
+  "text": "А с бундеслигами Маттеус попрощались еще в минувшей субботу , икогда \"Бавария\" играла со \"Штутгартом\" и неожиданно уступила со счетом 0 : 2 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "бундеслигой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "попрощался"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

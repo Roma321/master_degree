@@ -1,0 +1,20 @@
+{
+  "text": "Ранее к этой просьбе ему отказали миграционный департамент МВД Венгрией и городского суд Будапешта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "городской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Венгрии"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

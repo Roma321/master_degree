@@ -1,0 +1,25 @@
+{
+  "text": "Губернатор Чукотского автономной округа Александр Назаров пойдут в пятницу к налоговое полицию \"со спокойной душой\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "автономного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "налоговую"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

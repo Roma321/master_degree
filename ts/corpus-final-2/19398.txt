@@ -1,0 +1,25 @@
+{
+  "text": "На прошлом неделе каждые из сторон проводила в Нью-Йорке сепаратным консультации ы представителями американской администрации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сепаратные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "каждая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

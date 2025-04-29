@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы найдем людей , несущих за это ответственносрью , и они нам ответят , \" - сказал Клинтон , но подчеркнул , что эти событиям не заставят США изменить свою политики на Востоке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "политику"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "события"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ответственность"
+    },
+    {
+      "correctReplacement": "ответственностью",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

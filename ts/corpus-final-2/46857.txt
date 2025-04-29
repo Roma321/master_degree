@@ -1,0 +1,20 @@
+{
+  "text": "За вторники индекс Dow Jones , платный показатель деловой активности Америки , выросла сразу на 3 процента , а NASDAQ - на 8 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "вырос"
+    },
+    {
+      "correctReplacement": "главный",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

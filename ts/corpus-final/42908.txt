@@ -1,0 +1,25 @@
+{
+  "text": "Деньги выступившие с банковских счетов в Москве и США , в том числе со счетов Bank of New York и фирмы Benex Corp . ,на счета итальянского банков , владельцами которых оказывались член криминальным группировок из России и Украины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "члены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "криминальных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "итальянских"
+    },
+    {
+      "correctReplacement": "поступали",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам Бородина , осущездвление проекта позволит создать тысячи рабочего местах в России и Белоруссии , а также привлечёт новый инвестиции в российскую экономику .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "привлечет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "рабочих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "новые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мест"
+    },
+    {
+      "correctReplacement": "осуществление",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "С поверхности АПЛ берётесь пробы металла , и , если подводный крейсер затонул в результате столкновение с иностранок субмариной , это будет установифшее .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "берутся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "иностранной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "установлено"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "установившее",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

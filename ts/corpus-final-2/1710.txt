@@ -1,0 +1,25 @@
+{
+  "text": "Дт встречи Льюиса и Боты в Лондоне состарилось поединок украинцу Владимира Кличко и американца Монте Баретта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "украинца"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "correctReplacement": "состоялось",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "До",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

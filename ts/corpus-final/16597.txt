@@ -1,0 +1,30 @@
+{
+  "text": "По имеющейся информации , пилотам с трудом удался посадившие Falcon , однако шестеро из девяти пассажира , включая первых замминистра и его сына , погибли в результате получим при посадке ранений .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "полученных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "посадить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пассажиров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "удалось"
+    }
+  ]
+}

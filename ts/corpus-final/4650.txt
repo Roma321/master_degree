@@ -1,0 +1,25 @@
+{
+  "text": "Однако , согласно новому закону , любая полодой человек , родящийся до 1 января 1973 года , может отслужить всего два месяца , если он заплаченный государству 15 тысяч немецких марок (8060 долларов) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "заплатит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "любой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "родившийся"
+    },
+    {
+      "correctReplacement": "молодой",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

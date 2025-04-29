@@ -1,0 +1,30 @@
+{
+  "text": "Как ужо сообщалось , иереговоры России с миссия МВФ на прошлом неделе в Москве закончившиеся безрезультатно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "миссией"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "закончились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

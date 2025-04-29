@@ -1,0 +1,25 @@
+{
+  "text": "Это первоиздание астрономического труда Галилея Sidereus nuncius (\"Звездный вестник\") 1610 года , в котором Галилей , изучив при помощи недавно изобретённой подзорной труба небо , описал солнечные пятна , кольцо Юпитера , лунные кремерах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "изобретенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "трубы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "кратеры"
+    },
+    {
+      "correctReplacement": "кратерах",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

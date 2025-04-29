@@ -1,0 +1,20 @@
+{
+  "text": "Правила пожарного безопасности категорически запрещаем хранение газовых баллонов емкостью более 12 литров в жилых домах , дашах , кухнях и хозяйственных постройках .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "пожарной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "запрещают"
+    },
+    {
+      "correctReplacement": "дачах",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Объектами эта террористической деятельности , помимо федеральных сил , могут ставшие и промышленные предприятия , больницы , школы , места массового скопления мирного населеная .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "стать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "населения",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

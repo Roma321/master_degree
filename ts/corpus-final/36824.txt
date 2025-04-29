@@ -1,0 +1,25 @@
+{
+  "text": "Глава МИД РФ возложил на польское руководство ответственность за инцидент в польском горохе Познань , где 23 февраля группа демонстрантов , ворвавшиеся на территорию генконсульств РФ , сорвала и сжёг российский флаг .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "сожгла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "ворвавшись"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "генконсульства"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

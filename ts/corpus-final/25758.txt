@@ -1,0 +1,25 @@
+{
+  "text": "Общая сумма долгов , по данным городского впаявших , составляемый более 104 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "городских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "властей",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

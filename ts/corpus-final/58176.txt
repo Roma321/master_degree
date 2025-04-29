@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в одном из питерскими казино состоявшийся праздник , участники которого напутствовали боснийскую сборную перед чемпионата .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "питерских"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "чемпионатом"
+    },
+    {
+      "correctReplacement": "российскую",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

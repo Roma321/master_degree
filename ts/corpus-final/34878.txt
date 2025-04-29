@@ -1,0 +1,25 @@
+{
+  "text": "Затем он был назначен председателя Октябрьского райисполкома Минском , первого замнстителя председателя Минской горисполкомом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "Минского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Минска"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "горисполкома"
+    },
+    {
+      "correctReplacement": "заместителя",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

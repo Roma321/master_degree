@@ -1,0 +1,30 @@
+{
+  "text": "Однако министерству иностранных дел страны выступило с заявлениями , в котором говорится , что покинувшие Югославию должны корреспондентов , прибывшие туда по туристическим визам , а затем запросившие аккредитации для освещения предстоящих выборы президента республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "выборов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "министерство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "корреспонденты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "заявлением"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "покинуть"
+    }
+  ]
+}

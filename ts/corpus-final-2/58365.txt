@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на развесившие повсюду фотографии разыскиваемых , участие в поисках тысяч полицейским и сотрудников ФБР , а также увеличение обещанного награды со 100 дъ 200 тысяч , обнаружить беглецов пока не удалось .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "обещанной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "развешенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "полицейских"
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

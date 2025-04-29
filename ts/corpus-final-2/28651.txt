@@ -1,0 +1,20 @@
+{
+  "text": "Израильских военные пропускали в мечеть только мкжчин старше 45 лет и обыскивали всего входящих .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Израильские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "мужчин",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

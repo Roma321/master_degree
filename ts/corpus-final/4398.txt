@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил министра финансов Михаил Касьянов на встрече с журналистами в среду , до конца текущей года России произведет заимствования на внутреннем рынке в размера 3 миллиардов рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "текущего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "министр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Россия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "размере"
+    }
+  ]
+}

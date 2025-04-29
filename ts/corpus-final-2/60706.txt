@@ -1,0 +1,30 @@
+{
+  "text": "Американца и посредника аэропортов , который , пользуясь служебным положением , пытался вывести контрабандиста с летного поле без таможенных досмотра , задержанные оперативники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "поля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "таможенного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "аэропорта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "задержали"
+    },
+    {
+      "correctReplacement": "сотрудника",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

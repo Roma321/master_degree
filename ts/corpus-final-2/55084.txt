@@ -1,0 +1,20 @@
+{
+  "text": "Огню распространилось более чем на сотни метров в радисте от вышки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "распространился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Огонь"
+    },
+    {
+      "correctReplacement": "радиусе",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

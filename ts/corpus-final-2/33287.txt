@@ -1,0 +1,20 @@
+{
+  "text": "По круглосуточному телефону и по электронной почте организовавший прием сообщения корреспондантов-добровольцев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "организован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "сообщений"
+    },
+    {
+      "correctReplacement": "корреспондентов-добровольцев",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

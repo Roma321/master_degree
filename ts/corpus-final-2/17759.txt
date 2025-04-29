@@ -1,0 +1,20 @@
+{
+  "text": "Ранее предполагалось , что эвакуировать прмдется около 200 тысяч жителей пострадавших от тайфуна района , однако ситуация продолжаешь ухудшаться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пострадавшего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "продолжает"
+    },
+    {
+      "correctReplacement": "придется",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

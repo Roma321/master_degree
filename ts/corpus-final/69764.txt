@@ -1,0 +1,30 @@
+{
+  "text": "Во-первых , валюта полагает , что правительства неверно подсчитала стоимость создания всеобщего \"центра прослушивания\" в штаб-картире спецслужбы МИ-5 и обеспечение выделенных линий от каждый провайдера к этой центру .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "каждого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "подсчитало"
+    },
+    {
+      "correctReplacement": "Палата",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

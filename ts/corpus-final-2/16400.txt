@@ -1,0 +1,30 @@
+{
+  "text": "По мнению грачёва , Путина так и не сумел объяснить народу ни звою экономическую политики , ни принципы проведения законодательного реформ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "политику"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "законодательных"
+    },
+    {
+      "correctReplacement": "Горбачева",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "свою",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

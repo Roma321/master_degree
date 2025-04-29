@@ -1,0 +1,20 @@
+{
+  "text": "Здание находилось в аварийной состоянии , и еще в чотверг всем жителям дома рекомендуем покинуть его .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "аварийном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "рекомендовали"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

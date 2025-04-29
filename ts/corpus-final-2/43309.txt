@@ -1,0 +1,25 @@
+{
+  "text": "Приказ об увольнении аргентина Плучека еще не подписавший , но уже известно , кто займет его места : это популярнейшего актер того же театра Александр Ширвиндт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "подписан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "популярнейший"
+    },
+    {
+      "correctReplacement": "Валентина",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

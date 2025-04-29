@@ -1,0 +1,20 @@
+{
+  "text": "Их служба рассчитавшая на круглосуточный режим работой , отмепил министр .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассчитана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "работы"
+    },
+    {
+      "correctReplacement": "отметил",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

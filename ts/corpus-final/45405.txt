@@ -1,0 +1,25 @@
+{
+  "text": "Выступая перед трудовому уоллективом \"Мосэнергоремонта\" , он утверждал , что в высших эшелонах власть якобы подготовлен проект \"окончательного расчленений энергетической системы страны\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "трудовым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "расчленения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "коллективом",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

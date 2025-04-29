@@ -1,0 +1,30 @@
+{
+  "text": "В среду в Вашингтоне было заявлю , что правительство Барака иакже согласилось возобновившие переговоры с палестинцами на основе предложений , выдвинем претендентом США .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заявлено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "возобновить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "выдвинутых"
+    },
+    {
+      "correctReplacement": "президентом",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

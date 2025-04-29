@@ -1,0 +1,30 @@
+{
+  "text": "Со ссылкой на офицера разведок НАТО газета сообщает , что на штабных картах альянса было правильно покажу новое расположение китайской посольства - именно в том здаеиях , которое разбомбили .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "здании"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "показано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "китайского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "разведки"
+    },
+    {
+      "correctReplacement": "зданиях",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

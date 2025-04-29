@@ -1,0 +1,25 @@
+{
+  "text": "Лондонская фондовая биржа давно перестала быть монополистом , так как возникло много других биржевых площадок , где британским компания могут предлагать звой акции на продажу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "британские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "свой",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

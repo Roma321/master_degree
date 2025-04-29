@@ -1,0 +1,25 @@
+{
+  "text": "Этот капитал должен быть обложу подоходной налогом по единой 13-процентнлму ставке , вводимой с будущего года .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обложен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "13-процентной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подоходным"
+    },
+    {
+      "correctReplacement": "13-процентному",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

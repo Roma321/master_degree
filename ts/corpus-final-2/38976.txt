@@ -1,0 +1,15 @@
+{
+  "text": "Это заявление Кох сделала в среду вечером в интервью Агентству финансовую информации , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "финансовой"
+    }
+  ]
+}

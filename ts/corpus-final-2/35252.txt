@@ -1,0 +1,30 @@
+{
+  "text": "От известного телешоу фильм принципиально отличался тем , что трех главных действующих лиц в описаниях фильма называющие \"женщины\" , а не \"крошки\" , и что упор в схватках с бандитами делается на силу и боевые искузздва , потому что у них больше нет при себе длинных пистолетов , сообщаете производители .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "называют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отличается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 48,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "описании"
+    },
+    {
+      "correctReplacement": "искусства",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

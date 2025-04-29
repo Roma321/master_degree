@@ -1,0 +1,25 @@
+{
+  "text": "За последние три дня в северной части американского города Филадельфии , где проживаю бедное население , рухну 22 жилых дома , сообщает Associated Press . По оценкам специалистов , внезапное саморазрушение грозишь тысячам дома в этом районе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "рухнуло"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "проживает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "домов"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Говоря о будущем России , Путин сказал , что Россия не должна терять свой сущность , что должны быть сохранены - при уважеоии нечеловеческих ценности -культурные корни России , \"которыми мы гордимся , которые любим икоторые формируемые нас как народ\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "ценностей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "формируют"
+    },
+    {
+      "correctReplacement": "общечеловеческих",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "уважении",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

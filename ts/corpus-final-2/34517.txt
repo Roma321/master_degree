@@ -1,0 +1,25 @@
+{
+  "text": "В настоящих время на рувах у российских граждан находящийся около 4 миллионов единиц огнестрельного орудия , в том числе и нарезного .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "оружия",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "руках",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

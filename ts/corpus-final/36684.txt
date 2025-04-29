@@ -1,0 +1,25 @@
+{
+  "text": "В рамках подготовки к визиту премьер-министров Франции Лионеля Жоспена в Азраиль на улицах Иерусалима вывесившие флаги , - сообщал BBC .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "премьер-министра"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "вывесили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Израиль",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

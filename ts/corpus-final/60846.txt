@@ -1,0 +1,40 @@
+{
+  "text": "Так , азартные людях из города Лос-Анджелес , где в эти раза лотерея не проходимый , проделали путь примерно в 3 тысячи километрах , чтобы добравшиеся до ближайшего пункта продажи билета в штате Иллинойс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проходит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "добраться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "люди"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "билетов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "километров"
+    }
+  ]
+}

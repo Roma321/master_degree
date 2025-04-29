@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям миссии ООН , передаваемым РИА \"Новости\" , в голосовании по вопросам о самопределении бывшей колонии приняли участие золее 95% зарегистрированных избавителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "вопросу"
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "более",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

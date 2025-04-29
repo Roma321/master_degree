@@ -1,0 +1,30 @@
+{
+  "text": "До 21 часу по москофскому времени на серверах www . elections . ru и www . fep . ru не буду данных exit-polls , днако сразу после этого момента результаты опросов будут возвращён на место .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "возвращены"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "московскому",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

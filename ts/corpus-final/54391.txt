@@ -1,0 +1,25 @@
+{
+  "text": "Больше всего граждане России опасались роста безработицы , причем за последние четыре года этот страх усилюсь (30 прожектов в 1996 году и 35 процентос в 2000 году) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "опасаются"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "усилился"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

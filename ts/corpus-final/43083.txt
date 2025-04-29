@@ -1,0 +1,30 @@
+{
+  "text": "По словам бизнесмена , накануне передача к нему никто не приободрившие г задаваемый вопросов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "задавал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "приходил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "передачи"
+    },
+    {
+      "correctReplacement": "приходили",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

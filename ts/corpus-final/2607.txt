@@ -1,0 +1,30 @@
+{
+  "text": "И хотя в настоящего время большинство такого человека не участвует в активной жизни двух стран , белоруссвая лидер считает , что \"союзное государство формируется не ради удовлетворения амбиций политиков , а для улучшения жизни народа\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "таких"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "белорусский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "белорусская",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

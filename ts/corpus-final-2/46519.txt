@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас ведется их опрос для выяснения личность человечка , установленного взрывное усрройство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "установившего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "личности"
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

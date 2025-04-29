@@ -1,0 +1,20 @@
+{
+  "text": "Большая часть котируемых претприятий из указанных стран уже представившая на Франкфуртской фондовом бирже .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "фондовой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "представлена"
+    },
+    {
+      "correctReplacement": "предприятий",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

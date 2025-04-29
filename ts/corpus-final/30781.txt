@@ -1,0 +1,35 @@
+{
+  "text": "Этот меморандум был подписан в ноября 1996 года и предполагал выплаты Франции 400 миллионов долларов равным порций по 50 миллионов долларов в течение четырех лет , начиная с 1997 голда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "равными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "ноябре"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "порциями"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "выплату"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

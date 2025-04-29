@@ -1,0 +1,20 @@
+{
+  "text": "А вот опередившая марокканца кениец Ноа Нгени в рейтинге - ишь четвёртое .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "опередивший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "четвертый"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

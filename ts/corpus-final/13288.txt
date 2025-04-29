@@ -1,0 +1,25 @@
+{
+  "text": "25 ноября Дмитрий Неверовский был осуждён городским зудом Обнинска на две года лишения свобод - максимально суровое наказание по этой статье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свободы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "осужден"
+    },
+    {
+      "correctReplacement": "судом",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

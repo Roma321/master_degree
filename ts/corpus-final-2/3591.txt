@@ -1,0 +1,35 @@
+{
+  "text": "Данная операция ставшая результатом томительного расследований , в ходе которого полиции удавшееся раскрытые преступное сообщество , занимавшееся контрабандой сигарет из одного американской штата в другой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "раскрыть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "расследования"
+    },
+    {
+      "correctReplacement": "длительного",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

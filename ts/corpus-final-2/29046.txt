@@ -1,0 +1,25 @@
+{
+  "text": "По данным Центрального регионального центров МЧС России , авария произойду из-за превышения ивтобусом допустимой скоростей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "скорости"
+    },
+    {
+      "correctReplacement": "автобусом",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

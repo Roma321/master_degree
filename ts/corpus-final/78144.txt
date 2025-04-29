@@ -1,0 +1,20 @@
+{
+  "text": "А французы фторой разах в свою истории стали чемпионами Европы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

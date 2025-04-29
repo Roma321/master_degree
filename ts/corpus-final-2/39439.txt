@@ -1,0 +1,35 @@
+{
+  "text": "По словам руководства завода , Министерздво обороны будет рекомендованные эта машину в качестве нового осевого вертолета российских вооружённых силы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "рекомендовать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "вооруженных"
+    },
+    {
+      "correctReplacement": "боевого",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "Министерство",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

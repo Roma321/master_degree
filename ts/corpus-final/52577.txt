@@ -1,0 +1,30 @@
+{
+  "text": "USEC , которая продает обогащённый црал коммерческим электростанциям , вынуждена покупать его по завышенной цене , которой предлагает российская стороны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обогащенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "которую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сторона"
+    },
+    {
+      "correctReplacement": "уран",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "урал",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

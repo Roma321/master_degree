@@ -1,0 +1,25 @@
+{
+  "text": "Из-за прорыва подземных теплотрассой в Санкт-Петербурге отключившее отопление 179 домов , в том числе 18 женских садов , восьми школ и ПТУ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "подземной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отключено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "теплотрассы"
+    },
+    {
+      "correctReplacement": "детских",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

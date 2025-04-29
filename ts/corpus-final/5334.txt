@@ -1,0 +1,25 @@
+{
+  "text": "Соединим Штаты собираются вывести все свои ядерные бамбы из Великобритании и другим стран Европы , сообщил в пятницу британская газета Express со ссылкой на военные и дипломатические источники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Соединенные"
+    },
+    {
+      "correctReplacement": "бомбы",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

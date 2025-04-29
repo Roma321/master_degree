@@ -1,0 +1,25 @@
+{
+  "text": "Парке оперативных развлечений был рткрывший во Флориде в 1997 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Парк"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "открыт"
+    },
+    {
+      "correctReplacement": "спортивных",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "открывший",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "еле одной ворам по этой же причине ампутировалп руку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вору"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одному"
+    },
+    {
+      "correctReplacement": "Еще",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "ампутировали",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

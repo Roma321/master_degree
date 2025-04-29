@@ -1,0 +1,25 @@
+{
+  "text": "Задержанный не отрицают , что находившийся в то утром на рынке , но не признает своей участия в теракте .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "утро"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отрицает"
+    }
+  ]
+}

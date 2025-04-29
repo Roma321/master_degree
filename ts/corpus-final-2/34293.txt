@@ -1,0 +1,25 @@
+{
+  "text": "Суды мотивировал свой отказ трм , что документы не были перевёдшие на русский языке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "язык"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "переведены"
+    },
+    {
+      "correctReplacement": "тем",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

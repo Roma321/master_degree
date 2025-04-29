@@ -1,0 +1,20 @@
+{
+  "text": "Таможенные сборы повышены с пяти до 40 процентоф на сахару-сырцу и до 45 процентов - на белое сахар .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сахар-сырец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "белый"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

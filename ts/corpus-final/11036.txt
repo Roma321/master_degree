@@ -1,0 +1,20 @@
+{
+  "text": "Согласно этому документу , детские дошкольные и образовательные учреждения должен прекратить работу , если температура в них опускаюэийся ниже 18 градусов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "должны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "опускается"
+    },
+    {
+      "correctReplacement": "опускающийся",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

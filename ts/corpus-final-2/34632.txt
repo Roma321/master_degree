@@ -1,0 +1,30 @@
+{
+  "text": "Черемушкинский межмуниципальном суд Москвы приступило в среду к сдушанию иска экс-министра юстиции Валентина Ковалева к бывшему генеральному прокурору России Юрию Скуратова о защите чести и достоинства , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "межмуниципальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Скуратову"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "приступил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "слушанию",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

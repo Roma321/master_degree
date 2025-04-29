@@ -1,0 +1,20 @@
+{
+  "text": "Компания Coca-Cola занимается наработкой нового автомата для продажу газировок .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "продажи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "газировки"
+    },
+    {
+      "correctReplacement": "разработкой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В частность , в соответствии с программой , планировалось сокращение ВВП на2 соцентов в 1999 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

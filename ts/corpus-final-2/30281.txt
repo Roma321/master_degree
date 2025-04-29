@@ -1,0 +1,25 @@
+{
+  "text": "Мосгорсут отказался удовлетворить ходатайства об отводе из судебного процесса офицера следственных управления ФСБ , который привлечен в качестве переводчиком .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ходатайство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "переводчика"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "следственного"
+    },
+    {
+      "correctReplacement": "Мосгорсуд",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

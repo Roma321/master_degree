@@ -1,0 +1,35 @@
+{
+  "text": "В та же день предстпавители Министерства юстиции обратились к главу МВД РФ Владимиру Рушайло с просьбой провёдшие доследственных проводку и дать уголовно-правовую оценку действия руководчтва движения \"Спас\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "провести"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "главе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "доследственную"
+    },
+    {
+      "correctReplacement": "проверку",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "руководства",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

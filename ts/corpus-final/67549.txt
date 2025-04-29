@@ -1,0 +1,35 @@
+{
+  "text": "Президента РФ Владимир Путин поручу правительству объединить усилия всех крупных нефтянок компаний для разработок оефти в Восточной Сибири , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "разработки"
+    },
+    {
+      "correctReplacement": "нефтяных",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "нефти",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

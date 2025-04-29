@@ -1,0 +1,20 @@
+{
+  "text": "После открытом чемпионата Франции фактически заканчивающийся серия турнироф на грунтовом покрытии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заканчивается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "открытого"
+    },
+    {
+      "correctReplacement": "турниров",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Компания не располагает сведениями о какого-либо невербальных сделки с использованием скопированных номеров , но Зивертс не гарантировал , что попыток мошенничества не предпринимавшееся .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "каких-либо"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "предпринималось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сделках"
+    },
+    {
+      "correctReplacement": "нелегальных",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

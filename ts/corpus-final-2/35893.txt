@@ -1,0 +1,20 @@
+{
+  "text": "Президент также подписало указ о назначении генеральной директором \"Рособоронэкспорта\" Ардрея Бельянинова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "генеральным"
+    },
+    {
+      "correctReplacement": "Андрея",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

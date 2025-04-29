@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , Путин , в частнысть , пообещал , что скоро в Катыни откроюсь мемориал погибшим полякам .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "откроется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "частность",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

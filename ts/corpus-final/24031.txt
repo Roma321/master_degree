@@ -1,0 +1,30 @@
+{
+  "text": "Закон о переноса губернаторских выборов на март был принявший за основу в минувший четверги и должна был быть проголосован в пятницу - последующий день , когда можно было назначить новую дату выборов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "переносе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "последний",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

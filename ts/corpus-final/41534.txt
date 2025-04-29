@@ -1,0 +1,20 @@
+{
+  "text": "Бывшего заложнику не видел влагере тяжелого вооружения , однако боевики цооружены \"отличнымстрелковым оружием\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заложник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "correctReplacement": "вооружены",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

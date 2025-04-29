@@ -1,0 +1,25 @@
+{
+  "text": "Американский юрист Джон Артур Ивз , представляющий в зуде интересы правительстве Украины , считаешь , что шанс выиграть дело существующий , поскольку схожие иски отдельных американских штатов уже были удовлетворены .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "считает"
+    },
+    {
+      "correctReplacement": "суде",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

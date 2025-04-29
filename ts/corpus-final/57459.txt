@@ -1,0 +1,25 @@
+{
+  "text": "Украинский сторона полностью признаю свою ответственность за инцидент с грузопассажирским судном \"Александр Верещагин\" , происшедший 24 апреля в району мыса Херсонес , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "признала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Украинская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "районе"
+    },
+    {
+      "correctReplacement": "произошедший",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

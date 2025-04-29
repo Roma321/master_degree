@@ -1,0 +1,25 @@
+{
+  "text": "На крутом повороте перед машиной , в которой находился полковнику Кузенко , внезапно возник грейдера без габаритных огнев , а по полосе встречным движения в этот момент двигался рефрижератор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полковник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "встречного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "грейдер"
+    },
+    {
+      "correctReplacement": "огней",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

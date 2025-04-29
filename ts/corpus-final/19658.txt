@@ -1,0 +1,25 @@
+{
+  "text": "Солдаты и мевтное население с одинаковыми энтузиазмом грабим магазины , а потом разгуливаем по улицам с криками \"Мы победили\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "одинаковым"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "грабили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "разгуливали"
+    },
+    {
+      "correctReplacement": "местное",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

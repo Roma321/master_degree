@@ -1,0 +1,35 @@
+{
+  "text": "Руководитель департамента промышленной и научно-технической продукции Минпрома РФ Александр Шкуиский очищаемый , что внедрение методов электронного бизнесов позволил на 20 процентов сократить издержки российских предприятий на транспорт , доставку товара и т . д .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "товаров"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "позволит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бизнеса"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "считает"
+    },
+    {
+      "correctReplacement": "считаемый",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Шкурский",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

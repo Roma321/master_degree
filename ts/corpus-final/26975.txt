@@ -1,0 +1,25 @@
+{
+  "text": "Об этого в понедкльник сообщил начальник Главного управления организации таможенного контроля Государственного таможенной комитету Анатолий Галактионов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "комитета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "таможенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

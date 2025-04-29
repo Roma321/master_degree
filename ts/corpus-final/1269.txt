@@ -1,0 +1,20 @@
+{
+  "text": "кат сообщал РИА \"Новости\" , в ходе осеннего призыве в соответствии с планом , утвержденным президентом , в вооруженные силы будет призвано 204 тысячи 914 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "призыва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

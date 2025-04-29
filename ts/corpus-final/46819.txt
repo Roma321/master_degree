@@ -1,0 +1,25 @@
+{
+  "text": "Во взаимодействии с Федеральной службами налогового полиции России ГТК нсмерен принимать жесткие меру по принуждению банков-должников к погашению задолженности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "меры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "службой"
+    },
+    {
+      "correctReplacement": "намерен",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

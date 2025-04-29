@@ -1,0 +1,35 @@
+{
+  "text": "По сообщерию полиции , взрывную устройство было заложено в угол женского куплета кинотеатра , расположенной на территории торгового центр .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "углу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "correctReplacement": "туалета",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

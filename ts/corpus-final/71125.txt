@@ -1,0 +1,30 @@
+{
+  "text": "Об этом стало известно в пятницу на совместном совещании руковотздва двух компаниям с министром экономического развития и торговли Германом Грефом и министром транспортника Сергеями Франками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Франком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Сергеем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "компаний"
+    },
+    {
+      "correctReplacement": "транспорта",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "руководства",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

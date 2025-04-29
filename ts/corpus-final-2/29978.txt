@@ -1,0 +1,25 @@
+{
+  "text": "Ее исключивший и другого вариант — выпуск специального указа президента о столичные функциях Москвы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "исключен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "столичных"
+    },
+    {
+      "correctReplacement": "Не",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

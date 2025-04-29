@@ -1,0 +1,25 @@
+{
+  "text": "Это связавшее с тем , что отчет о проведении технических консультациями с российской стороной будет обсужден в сентябре на заседании cовету директив МВФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "консультаций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "cовета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "связано"
+    },
+    {
+      "correctReplacement": "директоров",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

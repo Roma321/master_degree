@@ -1,0 +1,25 @@
+{
+  "text": "Пол аллан продаст 720 тысяч акций на общего сумму в 50 , 3 миллион доллара .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "общую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "Аллен",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

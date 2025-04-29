@@ -1,0 +1,20 @@
+{
+  "text": "41-летняя малазиец Абдул Муин Хамид ухаживал одновременный за двумя женщинами , каждый день он отвозил обеих на работу в своих грузовичке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "41-летний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "одновременно",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

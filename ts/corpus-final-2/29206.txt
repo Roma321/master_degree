@@ -1,0 +1,35 @@
+{
+  "text": "На сайте была также помещена очень детальное информации р том , где и как можно понаблюдавшие за принцем , что вызвала особое подозрением у полиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "подозрение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "вызвало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "информация"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "детальная"
+    },
+    {
+      "correctReplacement": "наблюдать",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

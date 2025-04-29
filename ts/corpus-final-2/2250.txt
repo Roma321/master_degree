@@ -1,0 +1,25 @@
+{
+  "text": "На беготня в край отключившее уже до 80 прдцентов потребителей электроэнергии в промышленности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отключено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "крае"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

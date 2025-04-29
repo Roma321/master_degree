@@ -1,0 +1,35 @@
+{
+  "text": "В частности , Кислицын скрою от облизбирком , что владеешь семьёй объектами тождественности , в том числе гаражом , а также занизило площадь своего дома на 100 квадратных метров .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "владеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "семью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "облизбиркома"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "скрыл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "занизил"
+    },
+    {
+      "correctReplacement": "собственности",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

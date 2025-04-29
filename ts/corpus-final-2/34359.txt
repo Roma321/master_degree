@@ -1,0 +1,20 @@
+{
+  "text": "Легендарный слепое музыкант , лауреат множества наград \"Грэмми\" , даст в России триз концерта - 1 и 2 ноября в Москве и 3 ноября в Петербурга , в БКЗ \"Октябрьский\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Петербурге"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "слепой"
+    },
+    {
+      "correctReplacement": "три",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

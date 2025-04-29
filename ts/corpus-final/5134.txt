@@ -1,0 +1,25 @@
+{
+  "text": "Финансиста отметил , что в этом случае для России всевозможный отсрочка погашения процентных платежей по обслуживанию основной коммерческого задолженности в размере до 1 миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Финансист"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "возможна"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "коммерческой"
+    },
+    {
+      "correctReplacement": "возможен",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "нерезидент Белоруссии Александр Лукашенко заявила , что народу Белоруссии если и есть чем быть недовольных , то только себя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "недовольными"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "собой"
+    },
+    {
+      "correctReplacement": "Президент",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

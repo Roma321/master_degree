@@ -1,0 +1,30 @@
+{
+  "text": "Полиция выясню , что владелец цирк купил этих слонов на Ближнем Востока и ввез в страну по поддельным документам , оформленными на давно умерших животные .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "цирка"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "выяснила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "оформленным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "животных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Востоке"
+    }
+  ]
+}

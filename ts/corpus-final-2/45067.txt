@@ -1,0 +1,25 @@
+{
+  "text": "Столь жесткая позиция связана с расследованием обстоятельства взрыва эсмипца Cole в Йемене 12 октября , когда погибли 17 американского моряках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "моряков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "американских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "обстоятельств"
+    },
+    {
+      "correctReplacement": "эсминца",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

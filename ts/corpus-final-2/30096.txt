@@ -1,0 +1,25 @@
+{
+  "text": "Госдума не дала генераторам российских регионов права избирающиеся нм третий сроки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "избираться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "срок"
+    },
+    {
+      "correctReplacement": "губернаторам",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

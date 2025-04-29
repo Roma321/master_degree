@@ -1,0 +1,20 @@
+{
+  "text": "В субботину два человека , вооруженных автоматами , убили военнослужащего и двоих гражданских лиц , а затем вошедшие в ту часть здания , оде находится музей , и начали стрелять в воздух .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "вошли"
+    },
+    {
+      "correctReplacement": "субботу",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "где",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

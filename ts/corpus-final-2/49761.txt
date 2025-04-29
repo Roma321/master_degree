@@ -1,0 +1,20 @@
+{
+  "text": "Шутов подозреваешься в организации банды , на счету которой 25 тяжким и особо тяжких преступлений , в том числе несколько \"заказных\" убийства .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "подозревается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "убийств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тяжких"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Подчеркнув , что рнчь идёт не о российским долгах , президент заявил , что обязательства , возьмём нашим государством , будут выполняться , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "взятые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "речь",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

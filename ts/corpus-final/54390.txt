@@ -1,0 +1,20 @@
+{
+  "text": "В пресс-релизах ВЦИОМ результаты этого опроса сравниваемся с результатами аналогичного исследования 1996 голда .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "сравниваются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пресс-релизе"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

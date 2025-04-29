@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-служба президента Сирии официально объявил , что 35-летняя Башар Асад нежился в новогоднего ночь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "новогоднюю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "35-летний"
+    },
+    {
+      "correctReplacement": "женился",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

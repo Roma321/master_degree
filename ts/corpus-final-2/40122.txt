@@ -1,0 +1,25 @@
+{
+  "text": "В частности , неточно указанное время поступления сигнала , позволяет сделать вывод , что пожарные ехали по вызову в десять раз дольше , чем положено , а на тушения одной квартир затраченные около еву часов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "затратили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "квартиры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "тушение"
+    },
+    {
+      "correctReplacement": "двух",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

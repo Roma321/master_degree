@@ -1,0 +1,20 @@
+{
+  "text": "Судебный процесс дважды откладывался , и , возможно , будет отложен внове , поскольку проходящая по делу свидетель изменю показания .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "изменил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "проходящий"
+    },
+    {
+      "correctReplacement": "вновь",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

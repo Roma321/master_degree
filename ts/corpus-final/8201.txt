@@ -1,0 +1,25 @@
+{
+  "text": "Однако в Цупу считающие , что ожидавшая встреча российской поэтической станции \"Мир\" с метеорным потоком \"Леониды\" для нее не опасна .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ЦУПе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "ожидаемая"
+    },
+    {
+      "correctReplacement": "космической",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

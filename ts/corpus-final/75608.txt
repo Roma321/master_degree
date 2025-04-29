@@ -1,0 +1,25 @@
+{
+  "text": "А поскольку в этом шуточного соревновании Путину противостояла девушка , президент быстро одержала побудки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "шуточном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "победу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "одержал"
+    },
+    {
+      "correctReplacement": "победы",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

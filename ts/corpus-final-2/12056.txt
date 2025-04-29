@@ -1,0 +1,25 @@
+{
+  "text": "Имя актера , выбранной на роли юного ученика чародеев , будет объявлено на официальном сайте фильма в понедельник днем - то едя , когда в Москве и Европе будет уже глубокое ночь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "глубокая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "роль"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "выбранного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "есть"
+    }
+  ]
+}

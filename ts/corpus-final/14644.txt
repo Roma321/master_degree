@@ -1,0 +1,20 @@
+{
+  "text": "В среду утром Банк России попытался скорректировать курс рублей , выставив на продаже около 100 милдионов долларов по цене 26 , 87-26 , 875 рубля за доллар .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "продажу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "рубля"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

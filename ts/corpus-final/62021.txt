@@ -1,0 +1,25 @@
+{
+  "text": "Установлена , что нападение на всероссийскую военного колонну в Галашках совершила группе боевиков из отряда полевого командира Арби Бараева , сообщает РБК со ссылкой на источники в МВД Ингушетии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "военную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "группа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Установлено"
+    },
+    {
+      "correctReplacement": "российскую",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

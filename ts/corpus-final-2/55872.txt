@@ -1,0 +1,35 @@
+{
+  "text": "Вещание , прерванное накануне по решению гендиректоров Ходаче , было возобновившее в четверг в 18 . 50 пт местной времени (20 . 50 по Москве) в соответствии с решением , принятым Чешским советом по телевидению и радиовещании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Ходача"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "гендиректора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "радиовещанию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "возобновлено"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

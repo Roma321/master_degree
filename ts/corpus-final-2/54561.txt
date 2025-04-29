@@ -1,0 +1,30 @@
+{
+  "text": "Выкладывая в свободный доступ свой рабочий инструмент , говорился на сайте Parser . Ru , Студия рассчитываю на то , ято этот шаг помогший развитию российского интервента .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "рассчитывает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "поможет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "говорится"
+    },
+    {
+      "correctReplacement": "Интернета",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

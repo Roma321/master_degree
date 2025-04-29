@@ -1,0 +1,30 @@
+{
+  "text": "Его отметила , что интерес коммерческих банков к рынку драгметаллоф в последнее время значительно вырос и в настоящее времени уже 154 банка имеем лицензии на операции с драгоценными металлами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "драгметаллов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

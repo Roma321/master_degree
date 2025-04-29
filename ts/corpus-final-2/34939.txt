@@ -1,0 +1,30 @@
+{
+  "text": "6 декабря в Третьяуовке открываюсь выставка современных каспийскими и американских художника - первая в своем роде за последние 10 лет .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "открывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "художников"
+    },
+    {
+      "correctReplacement": "российскими",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Третьяковке",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

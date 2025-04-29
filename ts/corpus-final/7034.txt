@@ -1,0 +1,25 @@
+{
+  "text": "Дизельное топливо заводы отпускает теперь по цене 3 тысячи 600 рублей за донну , что соответствующий подорожанию на 23% по сравнению с прошлым месяйем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "завод"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "correctReplacement": "тонну",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "месяцем",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

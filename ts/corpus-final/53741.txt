@@ -1,0 +1,20 @@
+{
+  "text": "По некоторым оценкам , из-за рискованной эксперимента с Левински компания потеряла около семи миллионов ролланов и объявили о сокращении 15 процентов персонала в головном предприятии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "рискованного"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

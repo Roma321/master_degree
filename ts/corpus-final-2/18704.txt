@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в ходе своей визита в Калининград жена президента России побывала на уроках русского языка и литературе в одного из калининградских школы , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "школ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "литературы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своего"
+    }
+  ]
+}

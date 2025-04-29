@@ -1,0 +1,20 @@
+{
+  "text": "По словцам главкома , частичные выплаты проводились за счет собственных средства Минобороны , поскольку Минфин средства на эти цель до сих пор не выделял .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "цели"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

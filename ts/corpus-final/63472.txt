@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня утром в Кемерове был юбивший начальник Кемеровского филиала Санкт-петербургской военного университета связей 50-летний генерал-майор Сергей Шумляев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Санкт-Петербургского"
+    },
+    {
+      "correctReplacement": "убивший",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

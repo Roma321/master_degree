@@ -1,0 +1,25 @@
+{
+  "text": "Критики вакцины между тем утверждают , что ону никогда не проверявшаяся на людях , и неизвестно , спасает ли она на самом деле от тех таммов сибирской язвы , которые можете быть использованы как биологическое оружие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проверялась"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "штаммов",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

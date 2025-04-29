@@ -1,0 +1,25 @@
+{
+  "text": "По итогам голосования реструктуризацию долгов ОНЭКСИМа одобрившие 89 , 4 процента вершителях облигаций и 85 , 95 процент держателей евробондов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "одобрили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "держателей"
+    },
+    {
+      "correctReplacement": "держателях",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

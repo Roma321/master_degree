@@ -1,0 +1,20 @@
+{
+  "text": "Таким образом пользователь , не заметившее подвоха , сами посылает хакеру вой пароль .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заметивший"
+    },
+    {
+      "correctReplacement": "свой",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

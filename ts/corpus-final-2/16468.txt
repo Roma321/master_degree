@@ -1,0 +1,30 @@
+{
+  "text": "В ходе летним раскопки 2000 года на древнем городище в Новгороде были обнадёженные навощённые табличек с текстами 75-го , 76-го и 67-го псалмов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "летних"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "навощенные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "таблички"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "раскопок"
+    },
+    {
+      "correctReplacement": "обнаружены",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

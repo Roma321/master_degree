@@ -1,0 +1,30 @@
+{
+  "text": "По данным ИТАР-ТАСС , спецопетация была провёдшая в качествах ответного меры на вылазку , предпринявшую террористами в субботу утром .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "ответной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "предпринятую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проведена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "качестве"
+    },
+    {
+      "correctReplacement": "спецоперация",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

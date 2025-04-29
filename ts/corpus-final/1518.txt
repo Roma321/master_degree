@@ -1,0 +1,30 @@
+{
+  "text": "Если второго тура не буэет , нынешнего президент Аргентины Карлос Менем , чья партия проигравшая выборы , передавший полномочия победителю 10 декабря нынешней года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "нынешний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "передаст"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проиграла"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

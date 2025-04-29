@@ -1,0 +1,25 @@
+{
+  "text": "В одной из жилых доаов в Новосибирске благодаря бдительности жильцов ликвидируема утечка бытовых газа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "ликвидирована"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "бытового"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

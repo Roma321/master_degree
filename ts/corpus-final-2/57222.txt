@@ -1,0 +1,20 @@
+{
+  "text": "В результате обстрелов был ранен по малейшегг мере один полицейский .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "меньшей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "обстрела"
+    },
+    {
+      "correctReplacement": "малейшего",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

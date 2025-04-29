@@ -1,0 +1,20 @@
+{
+  "text": "Он требует в течения сцток прекращающие стрельбу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "прекратить",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "суток",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

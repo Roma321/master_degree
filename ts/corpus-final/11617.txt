@@ -1,0 +1,30 @@
+{
+  "text": "Шпак сообщило , что в настоящая момент в Косово дейфтвует четыре пластические группы российских миротворцев , насчитываемые 3 , 5 тысяч военных .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "насчитывающие"
+    },
+    {
+      "correctReplacement": "тактические",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "действует",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Это произошлово вторник во время судебного заседания , на котором должна было быть подтвержу мировое соглашению между \"Газпромом\" и \"Медиа-Мостом\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "должно"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "подтверждено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "соглашение"
+    },
+    {
+      "correctReplacement": "судебного",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

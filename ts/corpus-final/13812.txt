@@ -1,0 +1,25 @@
+{
+  "text": "Листовки такого содержаний начали разбрасывать 6 декабря кружимые над чеченской столицей самолеты и вертолрты федеральных сил , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "кружащие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "содержания"
+    },
+    {
+      "correctReplacement": "вертолеты",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

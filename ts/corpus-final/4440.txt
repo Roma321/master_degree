@@ -1,0 +1,30 @@
+{
+  "text": "Он утверждает , что работающее на эти фирмы российский гражданин Александр бойкот , также живущий в Тенерифе , являющийся посредниками между поставщиками оружия и главарями русской мафии на Канарских островах , которые затем збывают его .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "работающий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "посредником"
+    },
+    {
+      "correctReplacement": "Бойко",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "сбывают",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

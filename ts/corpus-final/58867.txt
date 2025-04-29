@@ -1,0 +1,25 @@
+{
+  "text": "Речь идет , главными образом , о пробковых головах животных , украшавших некогда водяные часы в пекинском императорских дворце , передавал Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "императорском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "главным"
+    },
+    {
+      "correctReplacement": "бронзовых",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

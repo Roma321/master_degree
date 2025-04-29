@@ -1,0 +1,25 @@
+{
+  "text": "В ночь на среду в Северном море , неподалёку от датской города Фридриксхавен , произойду взрыве торпеды , выпущенной с борта датской подводной лодки Nordkaperen .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "датского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "correctReplacement": "неподалеку",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

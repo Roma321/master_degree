@@ -1,0 +1,20 @@
+{
+  "text": "Вслед за ураганами Флойд на американский шпат Северная Каролина обрушилась наводнение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "обрушилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "ураганом"
+    },
+    {
+      "correctReplacement": "штат",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

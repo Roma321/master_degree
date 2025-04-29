@@ -1,0 +1,25 @@
+{
+  "text": "Зданович сообщил , что благодаря активным дейздвиям и бдительности властей Санкт-Петербурга и жителей города , в четверг был предотвращено мощного взрыву .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "предотвращен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "мощный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "correctReplacement": "действиям",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

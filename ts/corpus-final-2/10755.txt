@@ -1,0 +1,40 @@
+{
+  "text": "Правительство России во вторники утвердило новые ставки экспортной пошлины на бензины и дизельная топливо в размере 25 евро за тонну , соответствующие постановлением вступлю в силу через месяц , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "постановление"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "вступит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "бензин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "соответствующее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "дизельное"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Общая численность экстремистов , находящегося в чеченской столицах , достигает 500 человек , сообщили \"Интерфаксу\" в штабе Объединенной группировки детальных силы на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "находящихся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "столице"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "федеральных",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Комментируя предложением главы государства , Матвиенко заявившая во вторник журеалистам , что в ближайшие дни примет окончательное решения относительно своего участия в губернаторских выборах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предложение"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

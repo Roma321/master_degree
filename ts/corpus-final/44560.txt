@@ -1,0 +1,30 @@
+{
+  "text": "Первый вице-премьер сообщила , что через один-три месяца будет принято решение о создании специального органа для преображение утечки капиталов , однако признался , что конкретный ркцепт возврата осевших за рубежами средств пока не найден .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "рубежом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "предотвращения"
+    },
+    {
+      "correctReplacement": "предотвращение",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "рецепт",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

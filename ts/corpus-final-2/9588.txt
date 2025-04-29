@@ -1,0 +1,30 @@
+{
+  "text": "Сафины , выиграю турниром в Торонто и ставший после этого четвёртой ракеткой мира , сначала переиграл Нэвиллом Годуина из ЮАР - 7 : 5 , 6 : 3 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Нэвилла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "четвертой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "турнир"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сафин"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "выигравший"
+    }
+  ]
+}

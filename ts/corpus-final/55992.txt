@@ -1,0 +1,25 @@
+{
+  "text": "И на прошлой неделе республиканцы сделавшие решительный шаг в этом направлении - по их инициативе , голосование по договору в Сенатах назначен па 12 октября .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сделали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Сенате"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "назначено"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

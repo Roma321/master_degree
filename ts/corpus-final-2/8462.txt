@@ -1,0 +1,30 @@
+{
+  "text": "В соответствии с закон , принятой в феврале этого года , для добровольного признания был отведен шестимесячном срок , который исоёкший в минувшую субботу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "истек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "принятым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "шестимесячный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "законом"
+    },
+    {
+      "correctReplacement": "истёкший",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

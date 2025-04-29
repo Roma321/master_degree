@@ -1,0 +1,25 @@
+{
+  "text": "Повкольку , как сообщённый Шерстюк в интервью корреспонденту РИА \"Новости\" , в этой сфере существует еще масса нерешенных проблем , российское руководство уделяет вопросам информационного безопасностей пристальное внимание .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "информационной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "Поскольку",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

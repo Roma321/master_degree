@@ -1,0 +1,25 @@
+{
+  "text": "Грузовик отправивший на МКС в рамках подготовки первой длительной экспедиции на Международную космических станцию , кмарт которой запланирован на 30 октября .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отправлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "космическую"
+    },
+    {
+      "correctReplacement": "старт",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "смарт",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

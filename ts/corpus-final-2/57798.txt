@@ -1,0 +1,20 @@
+{
+  "text": "В Санкт-петербургах из-за взрыва двух шаблонов с природным газом был разрушивший одноэтажный жилой дом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "разрушен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Санкт-Петербурге"
+    },
+    {
+      "correctReplacement": "баллонов",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

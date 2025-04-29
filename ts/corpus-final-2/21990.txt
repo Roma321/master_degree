@@ -1,0 +1,25 @@
+{
+  "text": "Играет свою роль и то , что в Сербии существует древнее пророчество , согласно которому страну спасёшь человек , у которого фамилия такие же , кук названием его родной деревни .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "спасет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "такая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "название"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

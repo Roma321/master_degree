@@ -1,0 +1,20 @@
+{
+  "text": "По его мнениям , \"пойти на такие переговоров - значит закрыть сглазы на преступления , совершенные израильтянами\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "correctReplacement": "глаза",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

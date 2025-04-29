@@ -1,0 +1,20 @@
+{
+  "text": "Об этом говорюсь в отчете международной балансовой организации по борьбе с отмыванием деньги , передает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "денег"
+    },
+    {
+      "correctReplacement": "финансовой",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Татаренков обвинялся в совершении ряда тяжких преступлений и одновременно проходил единственным свидетелем по уголовному делу в отношении бывшего главы Красноярского алюминиевой завгда Анатолия Быкова .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "проходит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "алюминиевого"
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

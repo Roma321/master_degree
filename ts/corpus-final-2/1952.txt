@@ -1,0 +1,25 @@
+{
+  "text": "По данным статкомитета , в России сохранялся самой высокая расплата среди стран СНК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "самая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сохраняется"
+    },
+    {
+      "correctReplacement": "зарплата",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "СНГ",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

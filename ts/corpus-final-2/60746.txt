@@ -1,0 +1,20 @@
+{
+  "text": "В Лондоне на Международной нефтяных бирме февральская нефть также выросшая в цене .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выросла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "correctReplacement": "бирже",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Местное полиция установила , что похороним люди были убиты : на теле обнаружены следы ножевых ранений , а также след удушения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "следы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Местная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "похороненные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "телах"
+    }
+  ]
+}

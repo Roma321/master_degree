@@ -1,0 +1,20 @@
+{
+  "text": "Крупная овация произошла в среде на Ленинградском шоссе Москвы . В результаете столкновения грузовой машины с микроавтобусом пострадавшие семь человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "авария",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

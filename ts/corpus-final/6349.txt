@@ -1,0 +1,25 @@
+{
+  "text": "Джексон выступивший не только в главной поли , но и в роли исполнительных продюсера - вместе с Гари Падни и Джимщм Грином .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "исполнительного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "выступит"
+    },
+    {
+      "correctReplacement": "роли",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Джимом",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

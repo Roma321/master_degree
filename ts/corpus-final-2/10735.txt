@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , у хозяина гаража взорвалось граната Ф-1 , в результате чего ему оторвало руке и ногу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "взорвалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "руку"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

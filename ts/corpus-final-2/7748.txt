@@ -1,0 +1,30 @@
+{
+  "text": "Однако 5 июле Andromeda предъявила встречные претензии к компании-перевозчику и заявила , что не переведет ежедневную сумму на ее счет , несмотря на тш что контракты специально оговаривал необходимость популярных выплат , с тем чтобы все спорные вопрос были решены позже .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "вопросы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "контракт"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "июля"
+    },
+    {
+      "correctReplacement": "регулярных",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "то",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

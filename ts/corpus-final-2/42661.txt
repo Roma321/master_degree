@@ -1,0 +1,30 @@
+{
+  "text": "Причиной авиакатастрофы под Батуми стану значительная уклонение Ил-18 от установленной схемы сближения и захода на посадку , заявил ИТАР-ТАСС после заседания госкомиссии по расследованию аричин катастрофы ее председатель , секретарь Совбеза России Сергей Иванове .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "значительное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "correctReplacement": "снижения",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "причин",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

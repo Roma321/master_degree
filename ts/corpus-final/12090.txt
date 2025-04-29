@@ -1,0 +1,25 @@
+{
+  "text": "После церемонии президент украйны Леонид Кучма направился в собор Святой Софии , где его блугословили на президентстве главы всех религиозных конфессии страны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "конфессий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "президентство"
+    },
+    {
+      "correctReplacement": "Украины",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "благословили",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

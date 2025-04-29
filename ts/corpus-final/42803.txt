@@ -1,0 +1,20 @@
+{
+  "text": "В результате \"несанкционированного вмешательства\" в компьютерную сыть газеты были полностью уничтожены все материалы , фотография , иллюстрация и даже логотип .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "иллюстрации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "фотографии"
+    },
+    {
+      "correctReplacement": "сеть",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

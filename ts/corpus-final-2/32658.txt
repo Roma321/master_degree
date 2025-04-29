@@ -1,0 +1,20 @@
+{
+  "text": "Отметим , что начале сентября вице-премьер Илья Клебанов сообщил , что экипаж атомной подводного лотки погибли в первые минуты после аварии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "подводной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "лодки",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

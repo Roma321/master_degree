@@ -1,0 +1,30 @@
+{
+  "text": "Распоряжение мэра подписано в связи со вступлением в силу бюджетной кодекса , предполагаемого перехода на казначейскую системы усложнения бюджета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "систему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "переход"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "предполагающего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "бюджетного"
+    },
+    {
+      "correctReplacement": "исполнения",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

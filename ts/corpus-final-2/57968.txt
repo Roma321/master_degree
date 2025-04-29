@@ -1,0 +1,25 @@
+{
+  "text": "Как передаю НТВ , Людмила Путина несколько минутам оживленно беседовавшая с Дорис Шредер-Копф у трёпа самолета без переводчика .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "беседовала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "минут"
+    },
+    {
+      "correctReplacement": "трапа",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

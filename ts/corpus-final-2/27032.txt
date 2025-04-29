@@ -1,0 +1,25 @@
+{
+  "text": "Они , в частностях , называли проект \"Илюшин-финанс\" , в рамках которого предполагается строительство семи самолётам Ил-96 с российскими двигателями и девяти самолетов Ту-214 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "самолетов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "называют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "десяти",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

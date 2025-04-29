@@ -1,0 +1,50 @@
+{
+  "text": "Д'Алема подал прошение об отставке еще во вторнику , после той , как в воскресенье правящий левоцентристский блоке проиграл региональный выборы - в подавляющем большинстве областей поддержку получили правые партии , - но президент приняло эту отставке толко после повторного обращения . Д'Алема пробыл на посту премьера полтора года и уже успела за это время пережимые правительственный кризис - в декабре прошлого года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "блок"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 55,
+      "correctReplacement": "пережить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 51,
+      "correctReplacement": "успел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "региональные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "отставку"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "принял"
+    },
+    {
+      "correctReplacement": "пережитые",
+      "type": "typo",
+      "wordNumber": 55
+    }
+  ]
+}

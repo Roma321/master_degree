@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник руководитель следственного граппы по данному делу Николай Волков вылетающий в Швейцарию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "следственной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "вылетает"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениям , ури взлете самолет был прибивший к землях сильной ветром и взорвался .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "земле"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "прибит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "сильным"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

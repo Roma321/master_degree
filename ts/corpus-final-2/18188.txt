@@ -1,0 +1,35 @@
+{
+  "text": "Дело имеющий весьма щекотливые характер , так как в процессе расследования выяснился , что к контрабанде имеют отношение павшие члены правительства КНР , к числе которых бывший глава полиции и бывший руководитель иммиграционного службы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "щекотливый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "иммиграционной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "correctReplacement": "бывшие",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

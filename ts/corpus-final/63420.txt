@@ -1,0 +1,20 @@
+{
+  "text": "Об этом Агентству военных новостей сообщили в штабе Объединю группировке федеральных сил на Северном Кафказе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "correctReplacement": "Кавказе",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

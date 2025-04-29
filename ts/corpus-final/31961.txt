@@ -1,0 +1,20 @@
+{
+  "text": "Манилов отметивший , что в нисходящее время в горных районам Чечни сосредоточено около 7 тысяч боевиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "районах"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

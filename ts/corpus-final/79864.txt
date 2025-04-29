@@ -1,0 +1,15 @@
+{
+  "text": "Число погибших достигло 36 человека ; еще около 50 человек госпитализированы в местных вольницах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "больницах",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

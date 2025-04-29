@@ -1,0 +1,20 @@
+{
+  "text": "Об этом к средой сообщённое РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "среду"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

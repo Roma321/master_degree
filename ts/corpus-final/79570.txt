@@ -1,0 +1,25 @@
+{
+  "text": "Европа должна благодарить боснию за ее борьбу с международной терроризмом в Чечне , заявлю президент России в интервью французскому журналу Paris Match , который предоставила РИА \"Новости\" его текст .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "предоставил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "международным"
+    },
+    {
+      "correctReplacement": "Россию",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На правительственном совещании в Нижнем Новгороде он сообхил , что накануне официально обратившийся к премьер-министру с предложением отменить закон , запрещаемый продажу более 25 процентах акций РАО иностранцам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "запрещающий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "обратился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

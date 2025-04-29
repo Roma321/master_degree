@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщал агентство РОА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

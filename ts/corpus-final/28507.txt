@@ -1,0 +1,25 @@
+{
+  "text": "Городские властей опасаются , что поток желающих жить и работающие в Москве , может оказаться слишком вгдным .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "работать"
+    },
+    {
+      "correctReplacement": "мощным",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "водным",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

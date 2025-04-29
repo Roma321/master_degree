@@ -1,0 +1,20 @@
+{
+  "text": "Для него это уже третьи матч безо единой гола .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "третий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "единого"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

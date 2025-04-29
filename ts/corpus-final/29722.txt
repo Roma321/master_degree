@@ -1,0 +1,30 @@
+{
+  "text": "Так или иначе , очевидно , что Новгородский университет мог бы нанять на работу грамотного web-мастера за гораздо меньшие деньги , вто \"ущерб деловой репутациях на сумму 100 тысяч рублей\" и таким образом заранее исключить появленин нежелательных гиперссылки в списка \"последних 20 слов\" своей поисковой системы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "репутации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "списке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "гиперссылок"
+    },
+    {
+      "correctReplacement": "чем",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "появление",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

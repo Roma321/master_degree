@@ -1,0 +1,25 @@
+{
+  "text": "Причины аварий - превышение скорости , нарушение правил обгона , вождение автомобилистов в пьяной виду , сообщают РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "виде"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "пьяном"
+    },
+    {
+      "correctReplacement": "автомобилей",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

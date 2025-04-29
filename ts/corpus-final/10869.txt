@@ -1,0 +1,20 @@
+{
+  "text": "Пока обязанности начальников Управленая по расследованию особо важных дел Генпрокуратуры исполняющий старший следователь по особо важным делам Владимир Лысейко .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "исполняет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "начальника"
+    },
+    {
+      "correctReplacement": "Управления",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Удрвительно , но , как оказывается , поточные благотворительные акциям не находили поддержки со стороны российского законодательства : за каждый доллары переданного бесплатно инвентаря Сергей Федоров заплаченный более 40 процентов в виде таможенных пошлины и налогов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "заплатил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "находят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "доллар"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "пошлин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "акции"
+    },
+    {
+      "correctReplacement": "подобные",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Удивительно",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

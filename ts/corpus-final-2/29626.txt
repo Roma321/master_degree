@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник , 17 октября , сотрудники транспортного полиции обнаружим на железнодорожном вокзале в Гудермесе тайник с боеприпасами и взрывчаткой .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "транспортной"
+    },
+    {
+      "correctReplacement": "милиции",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

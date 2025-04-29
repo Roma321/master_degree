@@ -1,0 +1,25 @@
+{
+  "text": "На реализации программы в течение трех годов из федерального и городских бюджетов будет выделено 7 миллиардов 424 миллиона рублрй , сообщает агентство АК&М .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "реализацию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

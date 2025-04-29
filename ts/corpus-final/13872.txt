@@ -1,0 +1,40 @@
+{
+  "text": "В то же время опубликуем некоторым СМИ сообщения о тех , что правительство Москвы принял деление организовать 14 декабря у здания телецентра \"Останкино\" массовые акции столичные мэрия считает политической провокацией Ю",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "опубликованные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "приняло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "столичная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "некоторыми"
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

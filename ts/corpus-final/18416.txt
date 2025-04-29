@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье в 8 вечера (понедельник в 4 часов утра по московскому времени) с космодрома на сысе Канаверал успешно запущен космический челнок Discovery с семью астронавтами на борта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "борту"
+    },
+    {
+      "correctReplacement": "мысе",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Каллинан заявило , что решении орегонского суда имеет большой значение для компания , поскольку может быть использовано как прецеденты при рассмотрении аналогичных жалоб на Microsoft .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "большое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "прецедент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "компании"
+    }
+  ]
+}

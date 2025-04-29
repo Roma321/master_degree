@@ -1,0 +1,25 @@
+{
+  "text": "У спортивным пар за Россию выступифшие Елена Бережная и Антон Сихарулидзе , а также Мария Петрова и Алексеем Тихонов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "спортивных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выступят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "correctReplacement": "выступившие",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

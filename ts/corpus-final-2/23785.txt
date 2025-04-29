@@ -1,0 +1,20 @@
+{
+  "text": "Власти заявляют , что там находимся соня тысяч снарядов , мин и боеголовок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сотни"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "сотня",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

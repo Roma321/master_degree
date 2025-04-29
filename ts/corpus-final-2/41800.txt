@@ -1,0 +1,20 @@
+{
+  "text": "Экипаж машины решил вернуться в Вильнюс и совершившие посадку в дазовом аэропорту , где есть опыт работы с самолётах этой марки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "самолетами"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "совершить"
+    },
+    {
+      "correctReplacement": "базовом",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

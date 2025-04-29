@@ -1,0 +1,20 @@
+{
+  "text": "В результатах взрывов в Невинномысске и Пятигорске погибли двр человека , более тридцать получили ранения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "тридцати"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "два",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

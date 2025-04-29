@@ -1,0 +1,30 @@
+{
+  "text": "креститель руководителя пресс-центра объединенной группировки опровергнувший также сообщения о якобы имевшей месте в ночь на среду попытке боевика прорвапь блокаду Грозного .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": "Заместитель",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "прорвать",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

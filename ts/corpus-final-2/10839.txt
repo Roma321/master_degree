@@ -1,0 +1,25 @@
+{
+  "text": "Они утверждаем , что действовали на основании решения арбитражного суда , котрый постановил , что помещение было куплено по поддельному документам .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "действуют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "поддельным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

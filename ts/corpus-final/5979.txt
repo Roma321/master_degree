@@ -1,0 +1,20 @@
+{
+  "text": "В спасательными работах участвуют экипажи вертолетов ближневосточных регионального центра МЧС и камчатской авиакомпании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "спасательных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Дальневосточного"
+    },
+    {
+      "correctReplacement": "Дальневосточных",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

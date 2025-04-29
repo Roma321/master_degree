@@ -1,0 +1,25 @@
+{
+  "text": "Но пери этом он подчёркнутый , что окончательное решение тстаётся за президентом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "остается"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "остаётся",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

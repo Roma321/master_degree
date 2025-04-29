@@ -1,0 +1,25 @@
+{
+  "text": "На ней представлены изделия прикладного искусства - оригами , кашпо , корзинки для фруктов и даже кукольное театру , изготовим из старых пакетов , коробок , сломанных зонтиков и прочих предметов , обычно оказывающихся в мусоре Ю",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "изготовленные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "театр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "кукольный"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

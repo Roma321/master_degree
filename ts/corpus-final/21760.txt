@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили агентств , Лейва вошел в отеля и , не говоримые ни слова , открыла стрельбу из двух пистолетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "отель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "говоря"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "открыл"
+    }
+  ]
+}

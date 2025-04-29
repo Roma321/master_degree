@@ -1,0 +1,15 @@
+{
+  "text": "Пропажа была обнаружен лишь 7 мая , но руководящее лаборатории было оповещено сотрудниками только 24 дня спустя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружена"
+    },
+    {
+      "correctReplacement": "руководство",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

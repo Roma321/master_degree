@@ -1,0 +1,45 @@
+{
+  "text": "Как сообщал РИА \"Новости\" со ссылкой на пресс-секретаря коменданта санитарной зоны Чечни Александра Антонюке , премьер связался по телефону у полпредом правительства РФ в Чеченской Республике Николаем Кошманом , начальником Генштаба Вооружённом живших Анатолием Квашниными и комендантом зоны безопасности Чечни генерал-лейтенантом Иванами Бабичевыми .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "Вооруженных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "Квашниным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "Иваном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "Бабичевым"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Антонюка"
+    },
+    {
+      "correctReplacement": "сил",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

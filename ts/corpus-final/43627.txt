@@ -1,0 +1,25 @@
+{
+  "text": "Удар был столь силён , что с амтобуса сорвали крышу и пассажей выбросило наружу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "силен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сорвало"
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "автобуса",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

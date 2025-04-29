@@ -1,0 +1,20 @@
+{
+  "text": "Скакел был арестован 19 января текущего года , радбирательства по его дело завершилось недавно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "разбирательство"
+    },
+    {
+      "correctReplacement": "разбирательства",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Вместе с тес Associated Press сообщает об аресте террористов , задачей которых было проведение терактов против американских объекта в различных стран .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "объектов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "странах"
+    },
+    {
+      "correctReplacement": "тем",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

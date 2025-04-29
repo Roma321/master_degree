@@ -1,0 +1,30 @@
+{
+  "text": "10 февраля на заседании Совета Государственной Думы должен решившиеся вопрос о вице-спикере : грацим ОВР выдвинула на это пост Георгия Бооса , а фракция СПС - Бориса Немцова , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "решиться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "фракция"
+    },
+    {
+      "correctReplacement": "фракции",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "грации",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

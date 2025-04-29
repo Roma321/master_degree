@@ -1,0 +1,20 @@
+{
+  "text": "Одновременно судья приостановило введённый ранее ограничения на деятельность Microsoft до принявшего решения по апелляции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "введенные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "приостановил"
+    },
+    {
+      "correctReplacement": "принятия",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

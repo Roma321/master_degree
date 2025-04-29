@@ -1,0 +1,35 @@
+{
+  "text": "Москвичи , в отличие от россиян в целых , среди главных событий века называли также летнюю Олимпиаду , проходившую в столицах в 1980 году , успехи генетики (расшифровку генома человеку ; обнаружение гена , ответственных за различные болезни ; клонирование ; успехи в области трансплантации органы человека) , события с Югославии , атомные бомбардировки Хиросимы и Нагасаки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "целом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "генов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "столице"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 49
+    }
+  ]
+}

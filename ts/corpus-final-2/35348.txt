@@ -1,0 +1,15 @@
+{
+  "text": "Офицер сказал , что нужно выплатившие штраф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заплатить"
+    },
+    {
+      "correctReplacement": "заплатившие",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

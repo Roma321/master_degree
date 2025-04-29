@@ -1,0 +1,25 @@
+{
+  "text": "Поздравительные телеграммы президента направившие также спортсменов Светлане Хоркиной , Алексею Немову , Сепгею Клюгину , Станиславу Позднякову , Алексеям Фросину и Сергею Шарикову .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Алексею"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "направлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "спортсменам"
+    },
+    {
+      "correctReplacement": "Сергею",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

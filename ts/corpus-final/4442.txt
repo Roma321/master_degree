@@ -1,0 +1,25 @@
+{
+  "text": "Они не только торгуют оружием , но и , отмываемые деньги , скупают недвижимость , включать целые туристические комплексы , наладиф сотрудничество с другие иностранными преступными группами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отмывая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "другими"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "наладив",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

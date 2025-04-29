@@ -1,0 +1,20 @@
+{
+  "text": "Пострадавшему госпитализирован ы тяжелом состоянье .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Пострадавший"
+    },
+    {
+      "correctReplacement": "состоянии",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

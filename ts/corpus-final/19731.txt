@@ -1,0 +1,20 @@
+{
+  "text": "Теперь лицензии у банка отобрана и он прекращу звое существование .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "лицензия"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "прекратил"
+    },
+    {
+      "correctReplacement": "свое",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

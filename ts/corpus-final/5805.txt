@@ -1,0 +1,40 @@
+{
+  "text": "Он сообщил , что за девять месяцев 1999 года в виде прямых иностранным инвестиций в Молдавию поступило 8миллионов долларов , что в три с лишним раз меньше , чем в прошлом году . В связь с эти пртзидент еще вчера рекомендую правительству и премьеру ушедшие в отставку .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 40,
+      "correctReplacement": "рекомендовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 44,
+      "correctReplacement": "уйти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "раза"
+    },
+    {
+      "correctReplacement": "лишним",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

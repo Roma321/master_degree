@@ -1,0 +1,20 @@
+{
+  "text": "По сообщанию телекомпания НТВ , с Гусинского снято предъявленное ему ранее обвинение , отменен арест наложу па его имущество .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "телекомпании"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "наложенный"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "И хотя из 640 миллионов перевезенных американскими авиалиниями пассажиров только 4000 совершаем хулиганские действия - авиакомпании пришли к выводу о необходимости принятий решительного мер по защите сметного состава .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "совершают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "решительных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "принятия"
+    },
+    {
+      "correctReplacement": "летного",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

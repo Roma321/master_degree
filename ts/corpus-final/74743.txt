@@ -1,0 +1,30 @@
+{
+  "text": "Проведя исследование нескольких сайтов с помощью специальных программ , отслеживающих передачу данных , скит выясню , что DoubleClick без спросов получает персональных информацию о тех , кто пользовались услугами AltaVista , RealNetworks и Travelocity .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "пользовался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "спроса"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "выяснил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "персональную"
+    },
+    {
+      "correctReplacement": "Смит",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Служащей ничего не оставалось , как уложенные имевшийся в кассе 130 тысяч шиллингов в специальный банковский пакет и передавшие его грабящему , которому спокойно удалюсь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "уложить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "передать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "имевшиеся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "удалился"
+    },
+    {
+      "correctReplacement": "грабителю",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

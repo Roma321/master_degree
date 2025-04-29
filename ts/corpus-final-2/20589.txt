@@ -1,0 +1,30 @@
+{
+  "text": "Помощь в решении те проблемами оказывают не только государственный и частные предприятия , но и различные российские и международный гуманитарные организации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "международные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "государственные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "этих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "проблем"
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Родители 13-летней английская девочки , подвергшихся сексуальным домогательствам в ватах , открыли сайт , цель которого - предупредить детей и родителей о том , что общение в Интернет имеет не только плюсы , но и минусы , сообщающий во вторник Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "английской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "подвергшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "чате"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 37,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "чатах",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

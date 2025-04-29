@@ -1,0 +1,30 @@
+{
+  "text": "По сведениям телерадиокомпанией , любимый сдала в областной избирком 12 тысяч 509 подписи у свою поддержку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "телерадиокомпании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "подписей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сдал"
+    },
+    {
+      "correctReplacement": "Любимов",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Бром сообщил также , что в офисе организация , координирующего бойкот Израиля , ему объяснённые , что решение запретить продукцию Intel было принявшее в Ливане 25 лет назад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "объяснили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "организации"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "координирующей"
+    }
+  ]
+}

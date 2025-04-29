@@ -1,0 +1,40 @@
+{
+  "text": "Расследование вокруг силандского сайтов началось в ноябре прошлого год , когда некоему человек , арестованные за мошенничество , заявили о своей дипломатической неприкосновенности и в доказательства продемонстрировал паспорт Силандит .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "некий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "арестованный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "доказательство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сайта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "Силандии",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

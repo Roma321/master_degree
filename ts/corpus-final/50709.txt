@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявлю в четверг вице-премьер , полномочный представитель российского правительства в Чечне Николай Кошман на заседании ремиссию по восстановлению экономики республики , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Комиссии"
+    },
+    {
+      "correctReplacement": "Комиссию",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

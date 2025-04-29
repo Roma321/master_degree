@@ -1,0 +1,20 @@
+{
+  "text": "В других комната нуходился ребенок , он не пострадал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "комнате"
+    },
+    {
+      "correctReplacement": "находился",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

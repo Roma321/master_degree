@@ -1,0 +1,20 @@
+{
+  "text": "В декабре 1999 гола Мосгорсудом признал его вину и приговорю его к 12 годам лишения свободы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Мосгорсуд"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

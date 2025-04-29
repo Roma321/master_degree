@@ -1,0 +1,25 @@
+{
+  "text": "По итогам четверг средний инбекс цены на нефть в Нью-Йорке подкатившее до 36 , 1 доллара за баррель , поставив \"абсолютный рекорд\" за последние десять лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "четверга"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "подскочил"
+    },
+    {
+      "correctReplacement": "подскочило",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "индекс",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

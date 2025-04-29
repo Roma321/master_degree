@@ -1,0 +1,30 @@
+{
+  "text": "Заместитель командующий 58-й армией сообщил также , что в минувшее воскресенье боевики попытались похищенные тело Малофеева с места его гибели , однако были уничтожис артиллерийской огнем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "похитить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "командующего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "артиллерийским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "уничтожены"
+    },
+    {
+      "correctReplacement": "уничтожим",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По мнению разведчика , в ближайшую время сопровождение боевикоф может усилиться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "разведчиков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "correctReplacement": "сопротивление",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

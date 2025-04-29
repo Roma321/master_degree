@@ -1,0 +1,25 @@
+{
+  "text": "Как подчеркнул представитель Белого дома , использование служебных компьютеров в личные целях в Белом доме строго запрещается , и есть целое ряд системы , созданных специально для того , чтобы помешать сотрудникам нарушающие это правило .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "целый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "личных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "систем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "нарушать"
+    }
+  ]
+}

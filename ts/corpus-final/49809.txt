@@ -1,0 +1,20 @@
+{
+  "text": "Он .оставивший в бойницу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "доставивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

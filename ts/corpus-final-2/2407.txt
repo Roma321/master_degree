@@ -1,0 +1,20 @@
+{
+  "text": "В результате пострадали шесть пассажиров - ими получили ушибы и ссадины . �твовать на заседаниях Совета думы и палаты будет первый вице-спикер Любовь Слиска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "заседании"
+    },
+    {
+      "correctReplacement": "Думы",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По данным отдела продаж , до настоящего времени объем поставок в страны дальнего зарубежья , в тому числе в Германию , Пакистан и Монголию , не превышаемый одного проценте от цсей производимых на фабрике продукции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "превышал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "производимой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Так заявил журналистам сам Назаров , опровергающий сообщения о той , что вызов в ФСНП связан с продажами квот на вылов рыбы и неуплату таможенного налогов в ходе поставки нефтепродуктов по северному завозу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "продажей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "таможенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "неуплатой"
+    }
+  ]
+}

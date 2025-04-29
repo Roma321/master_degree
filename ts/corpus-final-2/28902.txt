@@ -1,0 +1,30 @@
+{
+  "text": "В частность вчера оппозиция провёдшая в Минск акцию протеста пот девизом \"Нет избирательному фарсу ! \" , в ней приняли участие более двух тысячам представителей всех оппозиционных партий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "провела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Минске"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

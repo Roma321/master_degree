@@ -1,0 +1,20 @@
+{
+  "text": "В пресс-службе отметили , что текущий финансирование расходов осуществляющийся своевременно , в полном объеме сходящие из 1/12 и в строгом соответствии с утвержденным бюджетом на 2000 год .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "осуществляется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "текущее"
+    },
+    {
+      "correctReplacement": "исходя",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

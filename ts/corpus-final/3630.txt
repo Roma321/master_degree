@@ -1,0 +1,20 @@
+{
+  "text": "Самый нижайший активность граждан наблюдалась в Крыму , Киеве , Севастополе и Одессе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "низкая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Самая"
+    },
+    {
+      "correctReplacement": "низкий",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

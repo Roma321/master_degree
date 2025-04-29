@@ -1,0 +1,25 @@
+{
+  "text": "В Москве 13 марта откроюсь общественная приёмная кандидата на пост президента России , ликёром объединения \"Яблоко\" Григория Явлинского .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "открылась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "лидера"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "приемная"
+    },
+    {
+      "correctReplacement": "лидером",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

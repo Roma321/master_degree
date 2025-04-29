@@ -1,0 +1,30 @@
+{
+  "text": "Об этом заявлю быфший председатель парламентского комиссии Грузии по связям с народами Кавказа Мамуки Арешидзе , налажу контакт с захватчиками .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Мамука"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "наладивший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "парламентской"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

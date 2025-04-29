@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , заявил Арафат , в результате блокады , которой подвергался Палестинские автономия , три миллиона человек - практически все ее население - страдаете сейчас от недостатка медикаментов и товаров правой необходимости .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "подвергается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "страдают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Палестинская"
+    },
+    {
+      "correctReplacement": "первой",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

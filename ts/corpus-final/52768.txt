@@ -1,0 +1,25 @@
+{
+  "text": "Эту информацию немецкий журнал Focus предварили специальным репортажем о тех , что нынешним летом три сотрудника американской ЦРУ были высланы из Германии за лпионскую деятельность .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "предварил"
+    },
+    {
+      "correctReplacement": "шпионскую",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

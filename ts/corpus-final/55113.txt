@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщавшие журналистам в Северо-Западном региональном центре МЧС России , наиболее вероятной причина аварии - износ металла , усугубивший весенней погодой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "усугубленный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "вероятная"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

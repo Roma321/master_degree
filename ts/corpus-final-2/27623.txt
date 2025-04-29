@@ -1,0 +1,25 @@
+{
+  "text": "Руководству Североамериканского клинического агентств (NASA) пришлось в третья раз за последнюю неделю отложить старт космической челнока \"Дискавери\" , назначенный на вторник , сообщает агентство CNN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "третий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "космического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "агентства"
+    },
+    {
+      "correctReplacement": "космического",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

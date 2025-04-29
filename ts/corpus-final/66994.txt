@@ -1,0 +1,30 @@
+{
+  "text": "В соответствии с распоряжением , ставка оплаты за воду и канализацию в жилых ломах с централизованной горячей водоснабжением составленныф 22 рубля 20 копеек с человека в месяц .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "горячим"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "централизованным"
+    },
+    {
+      "correctReplacement": "домах",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "составленный",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

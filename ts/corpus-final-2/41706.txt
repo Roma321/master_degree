@@ -1,0 +1,35 @@
+{
+  "text": "помол Молдавии отметивший , что сегодня республика занимает первый места по поставкам виноградных винам в Россию и занимает седьмое место по их произвотздву в мире .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "вин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "первое"
+    },
+    {
+      "correctReplacement": "Посол",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "производству",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

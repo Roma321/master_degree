@@ -1,0 +1,25 @@
+{
+  "text": "Водитель , проснувшийся от шума , воспользовался аварийными выходом , чтобы выбраться из горящую машины , собранный Ananova . com .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "горящей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "аварийным"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

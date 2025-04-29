@@ -1,0 +1,25 @@
+{
+  "text": "Министр экономического развития м торговель Герман Греф вошел в состав директоров \"Транснефти\" , об этом стало известно по итогам прошедшего в четверг годового собраний акционеров копания , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "торговли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "собрания"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

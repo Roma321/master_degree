@@ -1,0 +1,20 @@
+{
+  "text": "Пурцел так очаровафший несчастную женщину , что она сразу забыло о своих суицидальных намерениях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "забыла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "очаровал"
+    },
+    {
+      "correctReplacement": "очаровавший",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

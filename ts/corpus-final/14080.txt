@@ -1,0 +1,25 @@
+{
+  "text": "Прибывшая во вторнику в столицу Дагестана делегация Организации \"Исламская Конференция\" (ОИК) во главе с министром иностранных дел Ирана Камалями Харрази измениба программой своего визита в республику и ограничилась пребыванием в Махачкале .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Камалем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "программу"
+    },
+    {
+      "correctReplacement": "изменила",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

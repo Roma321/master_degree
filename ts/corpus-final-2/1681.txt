@@ -1,0 +1,25 @@
+{
+  "text": "После успешного прихода границе и прибытия в Афганистан Баликов должен был получить крупную сумму денег у террориста , лидера так называемой исламского движения Узбекистана Тахире Юлдашева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "границы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Тахира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "называемого"
+    },
+    {
+      "correctReplacement": "перехода",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

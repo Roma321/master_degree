@@ -1,0 +1,20 @@
+{
+  "text": "Председатель Государственной избирательной комиссии Польши Фердинанды Рымаж заявил после голосования , что выборы прошли в спокойной обстановку , бпз серьезных инцидентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Фердинанд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "обстановке"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

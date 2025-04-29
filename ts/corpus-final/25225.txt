@@ -1,0 +1,25 @@
+{
+  "text": "Ранее на экстренной заседании христианские демократы потребовали от бывшего канцлера Германии либо раскрыть истопники тайных пожертвований в фонд партии , общая сумма которых превышу миллион немецких марками , либо уйти в отставку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "экстренном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "превысила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "марок"
+    },
+    {
+      "correctReplacement": "источники",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

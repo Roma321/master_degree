@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщивший РИА \"Новости\" главному врач Госсанэпиднадзора республикиИса Аушев , с четверга на местных рынках прекращена торговлей полуфабрикатом и сельхозпродуктами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "торговля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "главный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "полуфабрикатами"
+    }
+  ]
+}

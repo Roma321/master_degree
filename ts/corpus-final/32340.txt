@@ -1,0 +1,25 @@
+{
+  "text": "Муфтий Чечни Ахмет Хаджи Кадыров утверждает , что в найденных в Грозном рефрижераторах находились останки тел погибших во время окружённой конфликте 1994-1996 годов гражданских лиц - жителей Чечни .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "вооруженного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "конфликта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "вооружённой",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

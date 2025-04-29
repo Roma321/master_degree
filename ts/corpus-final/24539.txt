@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщают New York Times , это первое в звоей роде судебных решение возник при слушанием дела 26-летнего Дональда Таунсенда , которого обвиняют в попытке изнасилования малолетней девочки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "судебное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "возникло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "слушании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

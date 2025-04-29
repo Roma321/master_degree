@@ -1,0 +1,30 @@
+{
+  "text": "Сегодня мы запустившие проект , реализованный на базы собственных технологии , открыли актуальный для поместного интероет-рынка рейтинг-классификатор Rambler's Top100 , а завтра мы охватим поисковой машиной всю болгарскую Сеть\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "технологий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "базе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "запустили"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "интернет-рынка",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

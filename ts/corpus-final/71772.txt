@@ -1,0 +1,40 @@
+{
+  "text": "Напомнят , что недавно лидеры националистов в Тагарстане требовавшие введения в республике прямого президентской правления и отмены института президентству в Татарстане , то есть отставка нынешнегопрезидента республики Минтимера Шаймиева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "президентства"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "президентского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "требовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "отставки"
+    },
+    {
+      "correctReplacement": "республике",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Татарстане",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

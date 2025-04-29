@@ -1,0 +1,25 @@
+{
+  "text": "К аконцу января американское компанию планирует докупить оставшиеся акции и стать полноправным владельыем шведского предприятия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "американская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "компания"
+    },
+    {
+      "correctReplacement": "концу",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "владельцем",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

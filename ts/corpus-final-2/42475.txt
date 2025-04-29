@@ -1,0 +1,30 @@
+{
+  "text": "В данную момент в Саудовской Аравии живут более 25 тысячах граждан Великобританию , многие из которых работающие на министерздво обороны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "данный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Великобритании"
+    },
+    {
+      "correctReplacement": "министерство",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

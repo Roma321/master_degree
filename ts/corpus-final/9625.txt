@@ -1,0 +1,20 @@
+{
+  "text": "Компании Lowe откупилась от Рошс , переведя на его счет 250 тысячи долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "correctReplacement": "Роша",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

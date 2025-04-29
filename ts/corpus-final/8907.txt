@@ -1,0 +1,30 @@
+{
+  "text": "Отдельно оговариваюсь , что , если незаконные дейздвия по усыновлению детей совершаемся неоднократно , или группой лиц по предварительной сговору , или организую группой , то они наказываются лишением свободы на срок до четырех лет со штрафом в размере от 300 до 500 минимальных зарплат .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "предварительному"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "совершаются"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "оговаривается"
+    },
+    {
+      "correctReplacement": "действия",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

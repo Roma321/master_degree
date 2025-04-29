@@ -1,0 +1,35 @@
+{
+  "text": "Reuters приводящий слова начальника афганской авиакомпаний Ariana , заявившего , что , по всей видимостью , на борт самолеьа существует большая группа людей - около 40 человек - сядем в самолет именно для того , чтобы иметь возможность покинуть Афганистан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "видимости"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приводит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "борту"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "севших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "авиакомпании"
+    },
+    {
+      "correctReplacement": "самолета",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

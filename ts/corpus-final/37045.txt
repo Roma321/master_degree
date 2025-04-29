@@ -1,0 +1,20 @@
+{
+  "text": "По мнению прокурора , лидер ЛДПР нарушил закон о выборах президента , не указав в представивших сведениях кварту в Москве , которая зарегистрирована на имя его сына Игоря Лебедевым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Лебедева"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "представленных"
+    },
+    {
+      "correctReplacement": "квартиру",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

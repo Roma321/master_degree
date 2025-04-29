@@ -1,0 +1,15 @@
+{
+  "text": "На днях появились сообщения о той , что террористе скончался .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "террорист"
+    }
+  ]
+}

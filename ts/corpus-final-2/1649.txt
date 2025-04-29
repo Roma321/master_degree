@@ -1,0 +1,20 @@
+{
+  "text": "Это второй беррористический акты , устроенные сепаратистами за последние 24 часа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "акт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "устроенный"
+    },
+    {
+      "correctReplacement": "террористический",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

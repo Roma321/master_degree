@@ -1,0 +1,30 @@
+{
+  "text": "Ему назвавоий \"ложными слухами\" сообщения о том , что правительство решило в новом году оставить пошлины на иномарки в размере 30 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сообщение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "назвавший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

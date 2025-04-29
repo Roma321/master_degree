@@ -1,0 +1,25 @@
+{
+  "text": "Директору фирмы \"Эверест\" и аго жена погибли в результате сильного взрыве , которому прогремел вечером в минувший вторник в их доме в селе Подстепки в пригороде Тольятти Самарской области .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Директор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

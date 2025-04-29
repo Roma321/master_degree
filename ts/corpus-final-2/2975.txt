@@ -1,0 +1,25 @@
+{
+  "text": "Адвокат генерала указывали на то , что их подзащитный слишком стар , чтобы отвечать на вопросы суда , тогда как от судебного ответственности , согласный чилийским законам , освобождающиеся только сумасшедшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "освобождаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокаты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "судебной"
+    },
+    {
+      "correctReplacement": "согласно",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

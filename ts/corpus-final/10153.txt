@@ -1,0 +1,45 @@
+{
+  "text": "На месте взрыва оже побывавшие министр внутренних дел Владимир Рушайло , директор ФСБ Николае Патрушев , глмва МЧС Сергей Шойгу , мэр Москвы Юрий Лужков , и . о . генеральных прокурора Владимире Устинов и начальник ГУВД Москвы Виктора Куликовы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "Куликов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Николай"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "Виктор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "побывали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

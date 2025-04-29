@@ -1,0 +1,20 @@
+{
+  "text": "Служба безопасности базы расценила это как возможную угрозу и не разрешившая пилатам сажающие самолет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "разрешила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сажать"
+    },
+    {
+      "correctReplacement": "пилотам",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На прошлой неделях Eurobank уже получил предписание французских судебных органов л временном кресте счетов организаций , представляемых Российскую Федерацию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "представляющих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "неделе"
+    },
+    {
+      "correctReplacement": "аресте",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник Ястржембского заявлю журналистам РИА \"Новости\" , что эти населенные пункт находятся под контролпм федеральных войск .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "пункты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Ястржембский"
+    },
+    {
+      "correctReplacement": "контролем",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

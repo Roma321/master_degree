@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники правоохранительных морганов узнали р происшествии 12 сентября , когда эти сведения передал им сама заместитель главного бухгалтера НПО .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

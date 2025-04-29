@@ -1,0 +1,25 @@
+{
+  "text": "Среднегодовых курс доллара на 2001 год установлено на уровне 32 рубль за доллар , предельный размер государственных внешних заимствований определен в сумме 5 миллиардеров долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "установлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Среднегодовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "рубля"
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

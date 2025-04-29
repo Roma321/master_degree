@@ -1,0 +1,25 @@
+{
+  "text": "По словам главы отдела Грэга Крайга , сейчас в исландии доступен любое работа , которую вы хотите получить , каждый сектор экономик готов занять рабочих .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "доступна"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "любая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "экономики"
+    },
+    {
+      "correctReplacement": "Ирландии",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

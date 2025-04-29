@@ -1,0 +1,20 @@
+{
+  "text": "Губернатор утверждает , что деятельность председателя поселений РАО \"ЕЭС России\" наносит ущерб авторитету и . о . президента России Владимира Путин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "правления"
+    },
+    {
+      "correctReplacement": "правлений",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

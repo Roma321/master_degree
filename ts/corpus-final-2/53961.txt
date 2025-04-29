@@ -1,0 +1,25 @@
+{
+  "text": "Алексей пыталисл провести в ферзь сразу несколько пешки , но индиец не позволил этого сделать .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пытался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пешек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ферзи"
+    },
+    {
+      "correctReplacement": "пытались",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

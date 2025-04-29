@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает рик со ссылкой на пресс-службу МПС , причины происшедшего выясняет на месте комиссия министерств во главе с первой замминистра путей сообщения Владимиром Ильиным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "первым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "министерства"
+    },
+    {
+      "correctReplacement": "РБК",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

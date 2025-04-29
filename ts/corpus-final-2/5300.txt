@@ -1,0 +1,20 @@
+{
+  "text": "В четверг от рук террооистов погиб начальник Махачкалинской средней школы милиции , бывшее руководитель ГУВД дагестанского столицы полковник Гаджимагомед Гаджимагомедов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "дагестанской"
+    },
+    {
+      "correctReplacement": "террористов",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

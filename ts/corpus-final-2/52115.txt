@@ -1,0 +1,25 @@
+{
+  "text": "Однако недочетов при оформлению документов во время задержания Абрамкину тогда удамся избежать наказания и уголовное дело протиу него было прекращён .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "оформлении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "прекращено"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

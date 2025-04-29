@@ -1,0 +1,25 @@
+{
+  "text": "Два подростка 15-ти и 17-ти гота украдём из зоопарка Сан-Франциско самку коала с детенышем для того , чтобы подарить их на Рождество своим подружкам , сообщаешь AFP .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "украли"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

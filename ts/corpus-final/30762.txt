@@ -1,0 +1,25 @@
+{
+  "text": "8 февраля Россия выплатят Международной валютному фонду 200 миллионов долларов в счет погашенмя долга по ранее выдавшим кредитам , сообщил в понедельник \"Интерфакс\" со ссылкой на источники в Министерстве финансов РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выданным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выплатит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Международному"
+    },
+    {
+      "correctReplacement": "погашения",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

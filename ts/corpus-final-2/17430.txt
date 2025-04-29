@@ -1,0 +1,25 @@
+{
+  "text": "Если диагноз подтвердится и специалисты ГУИН будут не в состоянии оказанные Тихонову конкретную медицинских помощь , то в стационур Новосибирской колонии № 10 , где сейчас находится бывший спортсмен , будут приглашены специалисты более узкой профиля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "медицинскую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оказать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "узкого"
+    },
+    {
+      "correctReplacement": "стационар",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

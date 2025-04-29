@@ -1,0 +1,20 @@
+{
+  "text": "Ранее эти медаль за выдающийся вклал в американскую литературу получали нобелевское лауреат Тони Моррисон , Эудора Уэлти и Стэдс Теркель .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "нобелевский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "эту"
+    },
+    {
+      "correctReplacement": "вклад",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

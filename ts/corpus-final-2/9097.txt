@@ -1,0 +1,20 @@
+{
+  "text": "А вотпрезидент Франции Жаки Ширак не вошел шаже в число 20 самыми популярныхфранцузов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Жак"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "самых"
+    },
+    {
+      "correctReplacement": "даже",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

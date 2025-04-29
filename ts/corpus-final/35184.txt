@@ -1,0 +1,30 @@
+{
+  "text": "Зюгановы сообщил , что 18 февраля направивший и . о . президента России Владимирам Путину запрос с предложением отменившие распоряжение правительства от 24 декабря 1999 годе об утверждении Анатолия Чубайса на посту председателя правления РАО .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "отменить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Зюганов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Владимиру"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "направил"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

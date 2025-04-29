@@ -1,0 +1,25 @@
+{
+  "text": "личина намеченных сокращений в том , что планировцвшийся ранее слияние Dresdner Bank с крупнейшим в Германии Deutsche Bank не состоялось , передаёшь BBC .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "планировавшееся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Причина",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "планировавшийся",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На эти цели из федеральной бюджета ФСБ выделившее 13 миллионов рублей , передает РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "выделено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

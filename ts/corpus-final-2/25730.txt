@@ -1,0 +1,30 @@
+{
+  "text": "Профицит бюджета за этот период достиг 105 , 8 миллиарда рублей , сообщило журналистам в среды вице-премьер , министр финансов РФ Алексеем Кудтины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Кудрин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "Кудрины",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

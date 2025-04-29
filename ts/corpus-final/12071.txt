@@ -1,0 +1,20 @@
+{
+  "text": "Депутат Законодательного собрания Санкт-петьрбург Юрий Шутов находящийся под стражей около 10 месяцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "Санкт-петербург",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

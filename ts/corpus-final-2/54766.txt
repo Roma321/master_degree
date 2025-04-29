@@ -1,0 +1,25 @@
+{
+  "text": "В китайском городе Лоянь во вторник загорелись крупный торговый центр , в результате чего погибнем не менее 309 человек , сообщаемый Reuters со ссылкой на информативное агентство \"Синьхуа\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "загорелся"
+    },
+    {
+      "correctReplacement": "информационное",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

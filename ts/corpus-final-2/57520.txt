@@ -1,0 +1,35 @@
+{
+  "text": "Португальский предпринимающего Мануэл Субтил , забаррикадировавшаяся в четверг в здании государственное телевидения в Лиссабону , после долгих переговоров сдался чластям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Лиссабоне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "забаррикадировавшийся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предприниматель"
+    },
+    {
+      "correctReplacement": "предпринимателя",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "властям",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

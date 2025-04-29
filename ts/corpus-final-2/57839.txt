@@ -1,0 +1,25 @@
+{
+  "text": "Пражские политологи объясняли заявление Милоша Земана его стремлением сохранить поддержку своей правительству в парламенте со струны сильнейшей \"правой\" партии - Гражданских демократической партии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "своему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Гражданской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "объясняют"
+    },
+    {
+      "correctReplacement": "стороны",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

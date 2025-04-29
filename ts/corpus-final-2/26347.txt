@@ -1,0 +1,20 @@
+{
+  "text": "Главного роль в фильм сыграл Сэмюэл Ь . Джексон (\"Криминальное чтиво\" , \"Правила боя\") .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Главную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "фильме"
+    },
+    {
+      "correctReplacement": "Л",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

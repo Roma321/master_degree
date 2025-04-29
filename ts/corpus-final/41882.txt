@@ -1,0 +1,30 @@
+{
+  "text": "Согласно судебным документов , обнародовавшим в пятницу , сотрудница Northrop Grumman Бетти Лэмбут была так напугана этим , что позже отказались сообщить об оштбке своему начальствам под угрозой увольнения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "документам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "отказалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "начальству"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обнародованным"
+    },
+    {
+      "correctReplacement": "ошибке",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

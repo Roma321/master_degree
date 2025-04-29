@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , в 206-м избирательном округ Санкт-Петербурга , где Шмонов собирался баллотироваться , оставшееся всего три кандидата : тележурналист Невзоровы , деморосс Юлтй Рыбаков и аграрий Башмачников .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "осталось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "округе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Невзоров"
+    },
+    {
+      "correctReplacement": "Юлий",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

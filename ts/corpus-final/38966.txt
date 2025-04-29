@@ -1,0 +1,25 @@
+{
+  "text": "Такше подтверждению американскому претендентам придется подписывать дважды в год .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "подтверждение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "президенту"
+    },
+    {
+      "correctReplacement": "президентам",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Такое",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

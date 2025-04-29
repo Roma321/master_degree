@@ -1,0 +1,20 @@
+{
+  "text": "Зарегичтрировавшее на Кипру судно водоизмещением свыше 50 тысяч тонн направлялось в Мурманск .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Зарегистрированное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Кипре"
+    },
+    {
+      "correctReplacement": "Зарегистрировавшее",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

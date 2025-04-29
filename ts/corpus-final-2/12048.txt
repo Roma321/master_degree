@@ -1,0 +1,25 @@
+{
+  "text": "Водолазам удалось открыть и вешняя , и внутренний люк аварийно-спасательного шлюза девятых отсека \"Курсаа\" и установить , что лодка полностью затоплена .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "девятого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "внешний"
+    },
+    {
+      "correctReplacement": "внешняя",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "\"Курска\"",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

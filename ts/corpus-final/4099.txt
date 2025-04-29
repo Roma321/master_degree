@@ -1,0 +1,25 @@
+{
+  "text": "Закон наберу 234 голоса \"за\" против 122 , но все же необходимых двух третей Палат представителя , проголосовавших \"за\" , не работалось .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "набрал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Палаты"
+    },
+    {
+      "correctReplacement": "набралось",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

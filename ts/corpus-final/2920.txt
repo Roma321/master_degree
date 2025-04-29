@@ -1,0 +1,25 @@
+{
+  "text": "19 октября судебный пристав - наполнитель города Москвы вручил определение Выборгском городских суда Ленинградской области представителю АК \"Транснефто\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Выборгского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "городского"
+    },
+    {
+      "correctReplacement": "исполнитель",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "\"Транснефть\"",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

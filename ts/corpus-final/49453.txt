@@ -1,0 +1,15 @@
+{
+  "text": "Увольняются с военного службы солдаты , матросы , серванты и старшины , чей срок службы по призыву истек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "военной"
+    },
+    {
+      "correctReplacement": "сержанты",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

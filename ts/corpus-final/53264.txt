@@ -1,0 +1,25 @@
+{
+  "text": "Военные источникам не подтверждали , что федеральные силы взяли под свой полный контролт станицы БороздиновскаяШелковского районе Чеченской Республики , о чем в течение ужетрех дней сообщают различные СМИ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "источники"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "подтверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "района"
+    },
+    {
+      "correctReplacement": "контроль",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

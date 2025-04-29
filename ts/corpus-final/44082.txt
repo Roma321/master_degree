@@ -1,0 +1,25 @@
+{
+  "text": "Правительству РФ в 2000 году планирующий выдать 24-25 тысяч государственных жилищных сертификатов для уволенных и увольняемых в запас офицеров Вооружённом Силы России , а также служащих МВД , ФСБ и Минюста .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Вооруженных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Сил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Правительство"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На 64-й минуте чешский футболист закатил мяч в пустые ворота после фланговой атаки своей команды , а спустя еще три цинуте вышедший один на одному с Петером Шмейхелем и спокойно переиграл ветерана датского сборной . ролирующих органов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "датской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "минуты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "вышел"
+    },
+    {
+      "correctReplacement": "минуте",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

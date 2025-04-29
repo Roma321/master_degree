@@ -1,0 +1,35 @@
+{
+  "text": "В ГУВД Москвы опровергнутые поощрения о той , что у хулиганам , устроивших в среду вечером потасовку е сотрудники милиции , были изъяты документы неонацистских организаций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "сотрудниками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "хулиганов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "опровергли"
+    },
+    {
+      "correctReplacement": "сообщения",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

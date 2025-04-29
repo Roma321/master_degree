@@ -1,0 +1,20 @@
+{
+  "text": "Тушение пожара было затруднено отсутствием достаточное количества воды , поскольку ближайшие гидранты находимся на значитнльном расстоянии от здания АТС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "достаточного"
+    },
+    {
+      "correctReplacement": "значительном",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

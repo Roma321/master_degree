@@ -1,0 +1,25 @@
+{
+  "text": "Большого успеха добьюсь каспийская мужская теннисные сборная на командной чемпионате мира АТР в немецком Дюссельдорфе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "добилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "командном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "теннисная"
+    },
+    {
+      "correctReplacement": "российская",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Теперь на ММВБ будут проходимые торги по семи иностраннымвалютам - доллар США , евро , английском фунт стерлингов , жвейцарский франк , японская иена , украинская гривы и казахстанский тенге .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "гривна"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проходить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "английский"
+    },
+    {
+      "correctReplacement": "гривны",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "швейцарский",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

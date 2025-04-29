@@ -1,0 +1,20 @@
+{
+  "text": "РИА \"Новости\" сообщает , что в район Гило в Иерусалиме введены танках . бразильские власти объявили о закрытии международного аэропорта в секторах Газа для всех полетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "секторе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "танки"
+    },
+    {
+      "correctReplacement": "Израильские",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

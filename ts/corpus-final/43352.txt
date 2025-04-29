@@ -1,0 +1,20 @@
+{
+  "text": "В другом матч группы \"А\" \"Барселона\" на своем поле бей лишних усилийразобралось с \"Гертой\" - 3 : 1 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "усилийразобралась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "матче"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

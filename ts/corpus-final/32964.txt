@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость минуты разговора составлю в рабочие день с 20 : 00 до 8 : 00 по местному времени составлю 12 рублей , с 8 : 00 до 20 : 00 - 18 рублей , а в выходные и праздничные дни круглосуточно - 9 рубли .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "рублей"
+    }
+  ]
+}

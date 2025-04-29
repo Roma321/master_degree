@@ -1,0 +1,25 @@
+{
+  "text": "Адвокат ходатайствовал о замене меры пресечения на домашний аресты из-за состояния обвиняемого , который может ходить только при помощи костыля и перенесу инфарнт во время предварительного заключения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "перенес"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "арест"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "костылей"
+    },
+    {
+      "correctReplacement": "инфаркт",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

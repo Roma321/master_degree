@@ -1,0 +1,25 @@
+{
+  "text": "Он проводившийся под эгидой Московского федерации профсоюзов с участием студенческих и ветеранских организаций , предоставящихся столичного промышленности , московских префектур .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "столичной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проводился"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

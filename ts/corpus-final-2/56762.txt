@@ -1,0 +1,20 @@
+{
+  "text": "С таким требование к гражданам обратилась президент Сапармурат Ниязнв , выступивший с речью по национальному телевидению .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "требованием"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "обратился"
+    },
+    {
+      "correctReplacement": "Ниязов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

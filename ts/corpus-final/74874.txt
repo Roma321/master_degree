@@ -1,0 +1,20 @@
+{
+  "text": "При этом он отметила , что речь идет только \"о теъ бандитов , которые не запятнали себя преступлениями против собственного народа\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "бандитах"
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

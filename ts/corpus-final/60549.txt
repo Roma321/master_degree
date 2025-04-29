@@ -1,0 +1,40 @@
+{
+  "text": "Как говорится в опубликую PricewaterhouseCoopers отчётом , превышении размеров валютные резервов банка варьируешься ме.ду 391 миллионом долларов в сентябре 1997 года и 713 миллионами долларов в пекаре 1997 года .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "опубликованном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "превышение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "отчете"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "варьируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "валютных"
+    },
+    {
+      "correctReplacement": "декабре",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "между",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

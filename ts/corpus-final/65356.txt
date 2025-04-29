@@ -1,0 +1,20 @@
+{
+  "text": "Бирюков сообщивший , что уже около двух недель находится в Москве и решаешь проблёмкую задолженностей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "решает"
+    },
+    {
+      "correctReplacement": "проблему",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

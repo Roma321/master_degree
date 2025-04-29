@@ -1,0 +1,25 @@
+{
+  "text": "В случае вынесения обвинительного приговора , бывшемв пуританской лидеру грозящий смертная казнь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "пакистанскому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "грозит"
+    },
+    {
+      "correctReplacement": "пакистанской",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "бывшему",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

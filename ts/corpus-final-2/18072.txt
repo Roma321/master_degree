@@ -1,0 +1,30 @@
+{
+  "text": "Однако руководители союза Миндаугас Мурза уверяешь , что союз не имел ничего вобщего ч фашизмом .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "уверяет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "руководитель"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "общего",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

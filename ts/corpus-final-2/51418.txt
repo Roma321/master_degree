@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник , 19 декабря , во фторого половине дня Кадыров прибывает в Москву , где он намерен обсудить вопросы , связанный с формированием правительства Чечни , сообщают источники .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "связанные"
+    },
+    {
+      "correctReplacement": "второго",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

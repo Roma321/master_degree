@@ -1,0 +1,30 @@
+{
+  "text": "В тексте сушёного иска , копия которого приложена к заявлению адвокатской конторы , указывается , что ответчиками по данной делу являются Юрий Лубкову и Москомимущество , а сумма иска по нанёсшему урону семье погибшего и незаконной конфискованной собственности убитого составляет не менее 36 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "нанесенному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "данному"
+    },
+    {
+      "correctReplacement": "судебного",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Лужкову",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

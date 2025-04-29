@@ -1,0 +1,25 @@
+{
+  "text": "Запись также показала , что в по время , когда самолёты пропала с экранов радара , его находился на высоте 3 тысячи метров и , скорее всего , упал в озеро в полутора километрах от берега .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "самолет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "пропал"
+    },
+    {
+      "correctReplacement": "то",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

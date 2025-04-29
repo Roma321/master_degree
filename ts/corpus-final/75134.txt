@@ -1,0 +1,20 @@
+{
+  "text": "Военная прокуратура Люберецкого гарнизона возбудившая дословную дело по статьям 158 Уголовного кодекса РФ (кража в крупных размерах) и 285 УК (злоупотребление должностными полномочиями) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "возбудила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "уголовную",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

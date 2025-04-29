@@ -1,0 +1,25 @@
+{
+  "text": "Непосредственно перед сдачей крови добровольцы осматриваются терапевтом и заполняют специальную анкету , данных которой сверяетесь с имеющимися в центральных компьютерной базе эпидемиологическую службы Москвы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "эпидемиологической"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сверяются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "центральной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "данные"
+    }
+  ]
+}

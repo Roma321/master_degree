@@ -1,0 +1,20 @@
+{
+  "text": "Как уже сообщалось , в понедельник на внеочередном конференции ОПЕК в Вене Али Родригес был озбран генеральными секретарем ОПЕК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "внеочередной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "генеральным"
+    },
+    {
+      "correctReplacement": "избран",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

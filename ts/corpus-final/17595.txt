@@ -1,0 +1,20 @@
+{
+  "text": "По имеющегося ранее договоренности , школой должна была перейти под юрисдикцию посольства России в Туркменистане Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "имеющейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "школа"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

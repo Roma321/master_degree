@@ -1,0 +1,30 @@
+{
+  "text": "В ходе перестрелка один боевик убито , еще один закопчённый в плен , и сейчас с ним работает сотрудники следственного органов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "следственных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "перестрелки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "correctReplacement": "захвачен",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

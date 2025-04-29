@@ -1,0 +1,20 @@
+{
+  "text": "Он заверил , что все подразделение МВД , включая внутренние войско , переведены на усиленный режим ресения службы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "войска"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "подразделения"
+    },
+    {
+      "correctReplacement": "несения",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

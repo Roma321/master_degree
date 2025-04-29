@@ -1,0 +1,30 @@
+{
+  "text": "Однако , как отмечают критик , Lucasfilm идет дальше и хочет контролирующие интеллектуальное собственнность в такой сфере , где уже не совсем понятно , что на самом деле принадлежит создателю фильма , а что является творчеством крутых людей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "контролировать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "критики"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "создателям"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "интеллектуальную"
+    },
+    {
+      "correctReplacement": "других",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

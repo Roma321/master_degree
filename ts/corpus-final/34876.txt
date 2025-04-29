@@ -1,0 +1,20 @@
+{
+  "text": "Владимир Ермошин рожусь в 1945 году в огороде Понск Рязанской областях .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "родился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

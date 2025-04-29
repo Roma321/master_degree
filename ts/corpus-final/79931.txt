@@ -1,0 +1,25 @@
+{
+  "text": "Борьбы в этом матче не получилось , опытной американке , выигравшего Уимблдон в прошлом году , мля победы понадоблюсь лишь два сетов - 6 : 4 , 6 : 2 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "понадобилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "выигравшей"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Напомнили , что сейчас штраф за неправильную парочку составляет половине минимальной зарплаты , то есть 41 рубль .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "половину"
+    },
+    {
+      "correctReplacement": "парковку",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

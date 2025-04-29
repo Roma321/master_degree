@@ -1,0 +1,20 @@
+{
+  "text": "Первоначально старт ракеты был запланирую на четверг , однако из-за плохой колоды нём перенесли на пятницу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "запланирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "его"
+    },
+    {
+      "correctReplacement": "погоды",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

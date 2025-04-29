@@ -1,0 +1,25 @@
+{
+  "text": "Только официально , сообщает Агендздво военных новостями , автомат Калашникова приму на вооружение в 55 странах мира .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "принят"
+    },
+    {
+      "correctReplacement": "странах",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Агентство",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сначала на путых железной дороги инстанции Зензеватка был обнаружу труп офицера того же воинской части .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "той"
+    },
+    {
+      "correctReplacement": "станции",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "путях",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

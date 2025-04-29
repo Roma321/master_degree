@@ -1,0 +1,25 @@
+{
+  "text": "По его данным , по крайним мере шесть банками и три крупных производителя компьютероф уже пострадали от этой описки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "крайней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "банков"
+    },
+    {
+      "correctReplacement": "ошибки",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "компьютеров",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

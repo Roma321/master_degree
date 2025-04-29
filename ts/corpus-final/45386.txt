@@ -1,0 +1,25 @@
+{
+  "text": "Такому решение принято на состоюсь в четвергом собрании акционеров кампании \"Балтика\" , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "состоявшемся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Такое"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

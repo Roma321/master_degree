@@ -1,0 +1,30 @@
+{
+  "text": "Лионид Пияк опровергла эти сведения , заявив , что Арутюнян и Крутов были пригласившие к следователю для разъяснений причин , из-за которых завод не выпчаченный украинской казне более 1 миллиона гривен (около 200 тысяч долларов) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "выплатил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "разъяснения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "приглашены"
+    },
+    {
+      "correctReplacement": "выплаченный",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

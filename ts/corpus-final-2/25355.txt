@@ -1,0 +1,30 @@
+{
+  "text": "Трокурор Ивановской области не исключает , что этот поступка вызван политическими мотивами - через два месяцев в областью пройдут выборы губернатора и Головков считаешься одним из основных кандидатов на губернаторское кресло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поступок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "месяца"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "считается"
+    },
+    {
+      "correctReplacement": "Прокурор",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

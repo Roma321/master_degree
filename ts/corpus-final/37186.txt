@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно Христенко сообщил , что в январе зафиксирую значительное отставания в выплате заработной платы бюджетникем в Московских области .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "зафиксировано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "отставание"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Московской"
+    },
+    {
+      "correctReplacement": "бюджетникам",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

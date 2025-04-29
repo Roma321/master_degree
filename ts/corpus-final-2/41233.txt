@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник Верховное суд удовлетворил протест Главной военной прокуратуры и направлю дело Григорием Пасько на новое судебное рассмотрение , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Верховный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Григория"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "направил"
+    }
+  ]
+}

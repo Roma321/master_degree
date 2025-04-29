@@ -1,0 +1,20 @@
+{
+  "text": "На сложенном посту \"Перекоп\" была задержана машина \"Камаз\" в одесскими номерах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "номерами"
+    },
+    {
+      "correctReplacement": "таможенном",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

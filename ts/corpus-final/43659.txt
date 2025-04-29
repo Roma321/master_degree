@@ -1,0 +1,35 @@
+{
+  "text": "Новое оборудование позволит более эффективно выявляемые контрабандные грузы , что в свою очередь должно повысить притоке налогового поступлений в бюджетами как Финляндии , ткк и России , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "бюджеты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "налоговых"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выявлять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "приток"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

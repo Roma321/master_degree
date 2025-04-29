@@ -1,0 +1,25 @@
+{
+  "text": "Особое внимания уделяюсь Ахметскому району Грузии , где сейчас проживают около пяти тысяч беженцев из Чечни , причем некоторые из них замечены в совершении противоправных дейздвий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "проживает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "уделяется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "внимание"
+    },
+    {
+      "correctReplacement": "действий",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

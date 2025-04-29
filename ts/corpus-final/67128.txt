@@ -1,0 +1,30 @@
+{
+  "text": "Кстати , отставка Долматова ставшая уже пятого в нынешнем первенстве : до него звоих постов лишившиеся Анатолий Давыдов (\"Зенит\") , Владимир Гуцаев (\"Алания\") , Александр Аверьянов и Владимир Дергачом (\"Уралан\") .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "лишились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "пятой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Дергач"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "своих",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

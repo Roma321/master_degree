@@ -1,0 +1,30 @@
+{
+  "text": "В частности , потенциальные заемные ресурсы Москве в 2000 гоша оцениваетесь в 13 миллиардов ркблей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "оцениваются"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

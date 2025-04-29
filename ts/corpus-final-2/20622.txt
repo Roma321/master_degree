@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , большинство вопросов , которые ставят депутатов , могут бытьрешившие только при голосовании во второй и третьем чтений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "втором"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "чтениях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "бытьрешены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "депутаты"
+    }
+  ]
+}

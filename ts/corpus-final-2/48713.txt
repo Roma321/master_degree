@@ -1,0 +1,25 @@
+{
+  "text": "Депутат Европаламента Кэтрин Стилер , один из наиболее активных сторонников принявшего законопроект , предлагает , в частности , размещать на сигаретных пачках увеличенные цветные изображения полусгнивших от табака зубы и почерневших лёгких .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "зубов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "принятого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "законопроекта"
+    },
+    {
+      "correctReplacement": "легких",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

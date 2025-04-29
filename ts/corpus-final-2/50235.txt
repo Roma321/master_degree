@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу точившей в городе Али-хобаре на востоке Саудовской Аравии в результате теракта пострадаю гражданин Великобритании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Аль-Хобар"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "correctReplacement": "ночью",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

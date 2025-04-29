@@ -1,0 +1,25 @@
+{
+  "text": "О той , что телезритель Башкирии увидевшие программу \"Зеркало\" уже в эти выходные , Владимир Путин сообщил журналистам еще утром в аэропорту Х",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "увидят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "телезрители"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

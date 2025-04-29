@@ -1,0 +1,20 @@
+{
+  "text": "Агентство MIGnews . com сообщающий оакже , что последние несколько дней на многих израильских электронных форумах шло обсуждение \"дыр\" для атак на сайты \"Хизбаллы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "сайт"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

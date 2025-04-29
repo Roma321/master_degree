@@ -1,0 +1,25 @@
+{
+  "text": "\"Это был уже 11-й успешная пук ракеты-носителя серии \"Протон\" со спутниками в текущих году из 15 запланированных\" , - отметили м \"Росавиакосмосе\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "успешный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "текущем"
+    },
+    {
+      "correctReplacement": "пуск",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

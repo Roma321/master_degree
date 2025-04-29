@@ -1,0 +1,20 @@
+{
+  "text": "Так как количество презервативов , которое можно вывозить из страны , нигде не оговаривающийся , пограничники пропмстили россиянине на родину .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "оговаривается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "россиянина"
+    },
+    {
+      "correctReplacement": "пропустили",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Однако , признавая самому факты взломом двух образцов , представители SDMI заявляем , что значимым был только один , тап как лишь его удалось повторить на дополнительных образцах .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "факт"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "взлома"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

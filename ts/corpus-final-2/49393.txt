@@ -1,0 +1,25 @@
+{
+  "text": "Около 3 тысяч человек перегородившие тракторами , легковыми машиеах и грузовиками дороги , ведущие к городу Буяновач , и все дорог , связывающие Сербию с Грецией и Македонией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "перегородили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "дороги"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "машинами"
+    },
+    {
+      "correctReplacement": "машинах",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявлю исполняемый обязанности президента России Владимир Путины , выступая ы среду на встрече с представителями российского аэрокосмического комплекса , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "исполняющий"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

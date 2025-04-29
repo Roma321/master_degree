@@ -1,0 +1,25 @@
+{
+  "text": "Этой инициативная группа уже пыталась пройти регистрацию в ЦИК , однако отозвало слои документы в связи с тем , что в них было найдено множездво неточностей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "отозвала"
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "множество",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

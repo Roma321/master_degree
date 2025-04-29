@@ -1,0 +1,25 @@
+{
+  "text": "Полиция получили приказ арестовывать всех , кому оказался без уважительной причины в запретной зона , распространяющейся на несколько кварталов вокруг центра , где проходит саммит ВТО .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "получила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "кто"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "окажется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "зоне"
+    }
+  ]
+}

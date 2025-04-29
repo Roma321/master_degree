@@ -1,0 +1,25 @@
+{
+  "text": "\"То , что я знал Родригес - одна из важнейших вех моей жизни\" , - заявил председатель португальских департамента Антонио Альмейд Сантосы , объявляя о решении парламента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Сантос"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Альмейда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "португальского"
+    },
+    {
+      "correctReplacement": "парламента",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

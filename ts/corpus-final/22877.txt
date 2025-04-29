@@ -1,0 +1,35 @@
+{
+  "text": "В понедельнике утром жена премьер-министра Великобритании Чери Блэр не смогшая купить билет на поезд из Лондоне в Лутон , села на поезд без билета , а по прибытии в Лутон сдалась власти и добровольно оплатившая штраф в размере 10 английских фунтов , а также полную стоимость проезда , сообщал BBC .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "оплатила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "властям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Лондона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 48,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "смогла"
+    }
+  ]
+}

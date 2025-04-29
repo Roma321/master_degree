@@ -1,0 +1,25 @@
+{
+  "text": "Во время задержания один из военнослужащим был ранен , однако именная прокуратура признала действия охранников правомерными , отметивший Ястржембским .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Ястржембский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "военная",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

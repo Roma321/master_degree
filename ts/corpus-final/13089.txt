@@ -1,0 +1,35 @@
+{
+  "text": "Волков сообщил также , что не вел никаких следственных действий по делу фирмы Mabetex , поскольку его расследую старший следователь по особо важным делам Генпрокуратуры еруслан Тамаев , однако в ближайшее время швейцарские коллеги займётесь этим вопросом , и Руслан Тамав , вероятно , будет приглашён в Швейцарию .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "расследует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "Тамаев"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 45,
+      "correctReplacement": "приглашен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 34,
+      "correctReplacement": "займутся"
+    },
+    {
+      "correctReplacement": "Руслан",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Тамая",
+      "type": "typo",
+      "wordNumber": 40
+    }
+  ]
+}

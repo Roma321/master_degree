@@ -1,0 +1,20 @@
+{
+  "text": "\"Он , видимо , нв секунду забыл , что такое России , что Россия владеют полным арсеналом ядерного оружия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Россия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "владеет"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

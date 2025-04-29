@@ -1,0 +1,25 @@
+{
+  "text": "Специально прибывшие из Москвы сотрудники уголовного розыска насильно снесённые пассажиров нп Петровку , где в течения нескольких часов избивали .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "увезли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "увезённые",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

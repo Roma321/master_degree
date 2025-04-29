@@ -1,0 +1,20 @@
+{
+  "text": "По информацией из ГУВД столицы , площадь плантации обставлявшая около 700 квадратного метров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "квадратных"
+    },
+    {
+      "correctReplacement": "составляла",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

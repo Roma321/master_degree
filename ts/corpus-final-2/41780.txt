@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас вокруг Земли на разные орбитах крутятся около девяти тысяч объектоа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "крутится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "разных"
+    },
+    {
+      "correctReplacement": "объектов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

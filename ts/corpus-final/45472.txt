@@ -1,0 +1,20 @@
+{
+  "text": "Крупнейшей операторами DAMPS-AMPS выступает московские \"Вымпелком\"(торговая марка \"Би Лайн\") : число ее абонентов в данном стандарте составляет 220 тысяч , в то время как пользователей GSM насчитывается около 130 тысяч .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Крупнейшим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "оператором"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "московская"
+    }
+  ]
+}

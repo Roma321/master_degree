@@ -1,0 +1,30 @@
+{
+  "text": "В самой начале слушания выяснюсь , что некий гражданин Власов , якоб являющийся автором жалобы , на самом деле не имеющий к ней никакого отношения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "являвшийся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "якобы",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

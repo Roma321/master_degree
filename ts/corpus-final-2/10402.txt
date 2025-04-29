@@ -1,0 +1,20 @@
+{
+  "text": "На ней написан : \"В память о погипших в результате терракта 8 августа\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "написано"
+    },
+    {
+      "correctReplacement": "теракта",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

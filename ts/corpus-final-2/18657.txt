@@ -1,0 +1,20 @@
+{
+  "text": "Пакистанский диктатор возвращалось долой из Нью-йорк , где принимал участие в Саммите тысячелетия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "возвращался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Нью-Йорка"
+    },
+    {
+      "correctReplacement": "домой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

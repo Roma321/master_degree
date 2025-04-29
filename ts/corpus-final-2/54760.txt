@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник , 25 декабря , у оберегов Норвегии потерпел крушение торговые судно , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "потерпело"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "торговое"
+    },
+    {
+      "correctReplacement": "берегов",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

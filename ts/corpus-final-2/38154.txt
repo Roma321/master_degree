@@ -1,0 +1,25 @@
+{
+  "text": "Среди погибнем числящийся и Сандра Шмитт , чемпионка мира 1999 гот по фристайлу из Германии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "числится"
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Председатель КНР Цзян Цзэминь направивший Джорджам Бушу телсграмму , в которой поздравлю его с избранием на пост президента США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "поздравил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Джорджу"
+    },
+    {
+      "correctReplacement": "телеграмму",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

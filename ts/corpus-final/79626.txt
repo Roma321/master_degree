@@ -1,0 +1,20 @@
+{
+  "text": "Однако никакие имен он не назвал , заявив , вто это преждевременно , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Им ставший высочайший руководитель одного из районов Чечни Ахмад Завгаеф , брате бывшего главы республики Доку Завгаева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "брат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Завгаев",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

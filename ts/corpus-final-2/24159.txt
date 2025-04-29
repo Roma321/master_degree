@@ -1,0 +1,15 @@
+{
+  "text": "Они просто выбросили его в окно с четвёртое этажа здания , находящейся в самом центре города , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "находящегося"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "четвертого"
+    }
+  ]
+}

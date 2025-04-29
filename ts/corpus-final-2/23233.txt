@@ -1,0 +1,25 @@
+{
+  "text": "По результатам проведённого в цехе фирм лабораторного контиоля выявлено , что чипс не соответствуют санитарным нормам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "проведенного"
+    },
+    {
+      "correctReplacement": "чипсы",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "контроля",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

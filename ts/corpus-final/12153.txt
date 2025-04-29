@@ -1,0 +1,30 @@
+{
+  "text": "И хотя он все-таки относишься к категории 4 , он значительно сильнее урагана Эндрю , еоторый обрушился на Флориду в 1992 год , убившие 26 человек и оставив 160000 человек бездомными .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "убив"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "относится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "категории",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "который",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

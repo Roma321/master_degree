@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям AK&M , в пятницу после открытия биржи в Гонконге курс акций уже потерял около четырех процентов , а в Токио к середине торговой дня курс акций опущусь на самый низкий уровень за 19 месямев .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "опустился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "торгового"
+    },
+    {
+      "correctReplacement": "месяцев",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

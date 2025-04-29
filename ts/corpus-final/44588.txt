@@ -1,0 +1,20 @@
+{
+  "text": "Задержанным будет предъявлена обвиление в заговором , взяточничестве и мошенничестве со въездными визами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "заговоре"
+    },
+    {
+      "correctReplacement": "обвинение",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

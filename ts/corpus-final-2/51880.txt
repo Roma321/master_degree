@@ -1,0 +1,20 @@
+{
+  "text": "По оценке специалистов , обнаруженной в грузовик взрывчатые хватило бы для уничтожения нескольких 9-эьажных домов , сообщает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "грузовике"
+    },
+    {
+      "correctReplacement": "взрывчатки",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "9-этажных",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

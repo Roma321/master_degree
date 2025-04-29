@@ -1,0 +1,30 @@
+{
+  "text": "Зубов отметил , что в настоящее времена в России действует 11 крупных пристойных сообществ , которые включаемые в себя 243 организовавшие преступные группе и насчитывают около 50 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "организованные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "включают"
+    },
+    {
+      "correctReplacement": "преступных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "егодня утром охрана здания Верховных совета Крыма дыла усилившая .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "усилена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Верховного"
+    },
+    {
+      "correctReplacement": "Сегодня",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В частной секторе гордые уничтожены целые кваьталы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "частном"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "кварталы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

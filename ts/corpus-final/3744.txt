@@ -1,0 +1,20 @@
+{
+  "text": "С 1 ноября Газпромы сокращаемый поставку газа в мордовию на 40 процентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сокращает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Газпром"
+    },
+    {
+      "correctReplacement": "Молдавию",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

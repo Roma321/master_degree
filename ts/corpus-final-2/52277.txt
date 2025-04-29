@@ -1,0 +1,20 @@
+{
+  "text": "Водка , как и положено , завершу этот ряд , сообщаешт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "завершила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

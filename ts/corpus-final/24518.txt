@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщает Федеральное равенство новости со слова лидера \"Отечества\" Юрия Лужкова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "слов"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

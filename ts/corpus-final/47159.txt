@@ -1,0 +1,30 @@
+{
+  "text": "Выскажу в ходе венской конференции ОПЕК жесткая позиции России против увеличений квот на нефть оказала давление на решение этих стран о возможном увеличениях квоты ка 3 миллиона баррелей в день .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "увеличении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "увеличения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "позиция"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Высказанная"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

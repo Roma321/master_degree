@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает РИА \"Новости\" со ссылкой в пресс-службе УВД Томской области , первая фальшивка рывшая изъята из обращения 7 февраля , а уже с 9 февраля изготовитель поддельного денег находился \"пот колпаком\" у сотрудников милицию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "поддельных"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "\"под",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

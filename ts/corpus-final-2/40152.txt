@@ -1,0 +1,30 @@
+{
+  "text": "В обращении , адресованном к населению города , говорится , что мэр Кызыла вынужден постоянно тратящие времена на судебный разбирательства по поводу предъявляющих ему исков о незаконных увольнениях ч работы или финансовых нарушениях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "тратить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "предъявляемых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "судебные"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

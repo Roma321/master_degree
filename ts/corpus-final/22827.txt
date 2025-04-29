@@ -1,0 +1,25 @@
+{
+  "text": "Его думают , что председателя пахоты изберём уже на первом заседании , которое состоится 18 января .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "думает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "изберут"
+    },
+    {
+      "correctReplacement": "палаты",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

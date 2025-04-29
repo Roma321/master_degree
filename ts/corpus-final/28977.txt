@@ -1,0 +1,25 @@
+{
+  "text": "Сегодняшний публикацией изобилуют новыми подробностями , однако по-прежнему не сообщается ни о каком возбуждённой уголовном деле , а источником информации называетесь \"осведомленные лица\" , без указания имен и должностей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "возбужденном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сегодняшние"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "публикации"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "называются"
+    }
+  ]
+}

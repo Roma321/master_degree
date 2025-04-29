@@ -1,0 +1,25 @@
+{
+  "text": "Согласно появившейся информации , изобретённая приспособление лично видели глава компаний Apple Стив Джобс и глава Amazon . Com Джефф Безос , которые крайне восторженно отзывались об увиденном и заявляли , что в скором будущем под нового изобретение будут перестраиваться целыми города .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "изобретенное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "целые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "новое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "компании"
+    }
+  ]
+}

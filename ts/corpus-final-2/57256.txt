@@ -1,0 +1,20 @@
+{
+  "text": "Однако рекордной стало октябрь - 30678 случаев выявления инфицированной электронпой почты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "рекордным"
+    },
+    {
+      "correctReplacement": "электронной",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

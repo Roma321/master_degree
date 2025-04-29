@@ -1,0 +1,30 @@
+{
+  "text": "Три жителей Ливана , в того числе две журналиста , были в понедельник ранены израильскими солдатами на границе у пропускной пункта \"Фатима\" , сообщиет РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "пропускного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "жителя"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

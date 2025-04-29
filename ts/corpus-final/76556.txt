@@ -1,0 +1,20 @@
+{
+  "text": "Отмечаюсь также , что проживание в самой дорогом городе мира Токио обходится на 65 процентоф дороже , чем в Нью-Йорке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Отмечается"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

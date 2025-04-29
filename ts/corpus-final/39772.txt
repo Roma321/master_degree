@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье неизвестные хакер на некоторую время вывели из строя новый сайт компании Microsoft в Израиле , сообщал Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "хакеры"
+    }
+  ]
+}

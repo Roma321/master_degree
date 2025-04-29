@@ -1,0 +1,30 @@
+{
+  "text": "Под ёмкостяма с нефтью и нефтепродуктов чеченцы копаемые глубокие - до 15-20 метров - колодцы , из которых ведрами вычерпывают бензин и продают его по ценам семь рублей за литр , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "емкостями"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "цене"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "копают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "нефтепродуктами"
+    },
+    {
+      "correctReplacement": "ёмкостями",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

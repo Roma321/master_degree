@@ -1,0 +1,30 @@
+{
+  "text": "На неё присутствую председатель Парламентской ассамблеи Совета авроры лорд Рассел-Джонстон , высокопоставленные представители стран центральной и восточная Европы , в том числе и Россия , неправительственные организации .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "присутствует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "восточной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ней"
+    },
+    {
+      "correctReplacement": "Европы",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

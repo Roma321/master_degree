@@ -1,0 +1,25 @@
+{
+  "text": "Швейцарское команда Sauber объявленная сегодня о подписании трёхлетнего контракта с пилотом конешные Prost Ником Хайдфельдом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Швейцарская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "трехлетнего"
+    },
+    {
+      "correctReplacement": "конюшни",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В австрийской городе Зальцбург раскрывшая крупный мафиозная структура , которая занималась распространениями наркотиков и торговлей людьмп , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "раскрыта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "крупная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "австрийском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "распространением"
+    },
+    {
+      "correctReplacement": "людьми",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

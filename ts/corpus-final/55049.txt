@@ -1,0 +1,20 @@
+{
+  "text": "В московском аэропорту \"Шереметьево\" во фторник был задержан сотрудник охранной фирму , подозреваемый в убийстве софтверных жены и двухлетнего сына .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "correctReplacement": "собственных",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

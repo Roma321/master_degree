@@ -1,0 +1,25 @@
+{
+  "text": "В настоящего время в а.министрации президента РФ готовишься протест соответствующего указа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "готовится"
+    },
+    {
+      "correctReplacement": "проект",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

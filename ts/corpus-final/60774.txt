@@ -1,0 +1,25 @@
+{
+  "text": "Сергей Ястржемпский опроверг информацию ряда СМИ , которые со ссылкой на неназванного чеченской полевого командира сообщили , что в среды в районе Аллероя было убито около 30 российского военнослужащих .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "чеченского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "российских"
+    },
+    {
+      "correctReplacement": "Ястржембский",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

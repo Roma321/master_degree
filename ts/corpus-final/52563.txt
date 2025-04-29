@@ -1,0 +1,25 @@
+{
+  "text": "Березовский также отказал руководящему республик в проыьбе о создании гарантийного фондов в размере 3-5 миллионов долларов для привлечения в Карачаево-Черкесию американских производителей сельхозтехники .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "фонда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "руководству",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "просьбе",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

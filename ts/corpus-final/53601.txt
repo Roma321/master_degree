@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудником ФСБ Баталов доставлены в Москвй , сейчас им находится в следственном изоляторе Лефортово .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сотрудниками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

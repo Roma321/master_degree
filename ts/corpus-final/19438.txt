@@ -1,0 +1,20 @@
+{
+  "text": "По словцам российского министра финансов , дальнейший встречи лондонских кредиторов с российской сторона , вероятно , будут проходить раз в две недели .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дальнейшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "стороной"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

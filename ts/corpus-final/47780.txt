@@ -1,0 +1,25 @@
+{
+  "text": "С утра 29 март авиация федеральных сил совершила 18 боевых вылетоф по горными районам Чечне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "марта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Чечни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "горным"
+    },
+    {
+      "correctReplacement": "вылетов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

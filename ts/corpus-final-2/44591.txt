@@ -1,0 +1,20 @@
+{
+  "text": "Киллер брошенный оружье на местах преступления , сообщили РИА \"Новости\" в столичной милиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "бросил"
+    },
+    {
+      "correctReplacement": "оружие",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

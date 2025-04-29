@@ -1,0 +1,25 @@
+{
+  "text": "Срок подачи голосов за кандидатов на получения самой престижной кинопремии истекаю за пять дней до гегемонии вручения , то еденные 21 марта .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "истекает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "получение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "церемонии",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

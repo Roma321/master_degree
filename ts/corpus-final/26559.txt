@@ -1,0 +1,25 @@
+{
+  "text": "Борис Ельцин укажу , что как талантливый хозяйственник , решительный и ответственная руководитель Юрий рожков пользуется неизменным доверием и уважении москвичей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "уважением"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "указал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ответственный"
+    },
+    {
+      "correctReplacement": "Лужков",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

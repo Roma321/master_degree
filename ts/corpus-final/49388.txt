@@ -1,0 +1,20 @@
+{
+  "text": "На норвежском правительственных сайте \"Official Documentation and Information from Norway\" значится , что министром топлива и энергетики Норвегии являются Олаф Аксельсен , а не Коут Ставангер , как указано в распространенном сообщении .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "правительственном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "Кнут",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Обе речей были изначально произнесены в палате общин , китовый не была тогда оборудовавшая техниками , необходимой для записей выступлений , повторять же их снову для радио у Черчилля просто не было времени .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "оборудована"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "речи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "техникой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "записи"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "снова",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

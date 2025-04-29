@@ -1,0 +1,25 @@
+{
+  "text": "Помимо сайта www . westernunion . com , которым подвергнувшийся взлому , компания предоставляю аналогичные услуги на сейте www . moneyzap . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "подвергся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "предоставляла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "который"
+    },
+    {
+      "correctReplacement": "сайте",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

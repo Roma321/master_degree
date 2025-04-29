@@ -1,0 +1,25 @@
+{
+  "text": "К настоящему времени органы ЗАГСа Ингушетии зарегистрировали более 15 случая вступления мажчин в брак со второй и третьего женой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "случаев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "третьей"
+    },
+    {
+      "correctReplacement": "органы",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "мужчин",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

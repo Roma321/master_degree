@@ -1,0 +1,30 @@
+{
+  "text": "Это составляет четыре процента от ошщего инвестиционного портфеля банка , объёму которого достигающий 60 миллиардов далласов , передавал Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "достигает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "объем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "общего",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

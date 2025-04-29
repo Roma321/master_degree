@@ -1,0 +1,20 @@
+{
+  "text": "Ранее там была расквартирована целая дивизия , а сейчас станцию обслуживающие 1500 человек , включач членов семей военнослужащие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "обслуживают"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

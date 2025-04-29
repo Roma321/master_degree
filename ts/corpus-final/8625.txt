@@ -1,0 +1,30 @@
+{
+  "text": "Германский суд пересмотрел решения о привлечении к ответственности бывшего главе отделения CompuServe в Германии Феликса Сомма за распространение в Сетью порнографии , соодщаю Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Сети"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "сообщаю",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

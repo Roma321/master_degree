@@ -1,0 +1,25 @@
+{
+  "text": "По мнению наблюдателей , это обстоятельство может способствовать освобождению Василию Кононова , поскольку между Россией и Латвия подписана межгосударственный договор о взаимной выдаче осуждённых .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "подписан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Василия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Латвией"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "осужденных"
+    }
+  ]
+}

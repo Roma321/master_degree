@@ -1,0 +1,25 @@
+{
+  "text": "Один из них находящийся в Чернокозовчх , другой - в Грозном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Чернокозове"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "другой",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Чернокозовых",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Возмущенный этим официальный дилер пьограммные обратившийся в правоохранительные органы , сотудники которых задержим злоумышленника .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "злоумышленников"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "задержали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обратился"
+    },
+    {
+      "correctReplacement": "программы",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "программные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

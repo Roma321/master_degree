@@ -1,0 +1,20 @@
+{
+  "text": "Исполнители террористической акциях бросим вызов не только государствк , а всему народу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "акции"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "бросили"
+    },
+    {
+      "correctReplacement": "государству",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

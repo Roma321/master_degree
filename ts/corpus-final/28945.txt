@@ -1,0 +1,25 @@
+{
+  "text": "1 февраля исполняющий обязанности президента России Владимир Путин своим указом освободивший начальника Управления президента РФ по вопросам внутренней политики Андрею Логинова от занимаемого должности в связи с переходами на другую работу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "освободил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "переходом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Андрея"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "занимаемой"
+    }
+  ]
+}

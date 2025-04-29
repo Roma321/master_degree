@@ -1,0 +1,25 @@
+{
+  "text": "В Октябрьском районе городов Грозного , вблизи блокпоста номер 25 , оперативники обнаружифшие десять реактивных снарядов к гранатомету , гранате и 133 патрона различного калибра .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "гранату"
+    },
+    {
+      "correctReplacement": "обнаружившие",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

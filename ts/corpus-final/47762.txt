@@ -1,0 +1,20 @@
+{
+  "text": "В результате обстрела российской сторон ранены четыре российских вогннослужащих , сообщил \"Интерфаксу\" помощник президента России Сергея Ястржембский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "военнослужащих",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

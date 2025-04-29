@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщивший заместитель начальника штаба группировки генерал-майор Вадим Тимченко , два заводоф , некоторый расположены рядом друг с другом , взяты с минимальных потерями для федеральных сил - погибли трое военослужащих и сожжён танк .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "сожжен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "завода"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "минимальными"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "заводов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению верховного комиссару полиции Испании , в доме , где были схватившие террористы , пашедшие взрывчатые вещества и другие улики , свидетельствующие о подготовке теракта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "комиссара"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "найдены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "схвачены"
+    },
+    {
+      "correctReplacement": "нашедшие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

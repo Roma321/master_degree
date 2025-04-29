@@ -1,0 +1,25 @@
+{
+  "text": "Участникам торжественная церемонии в Аугсбурге выразившие надежду , что теперь сближение между католической и протестантской церквившими станет возможным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "торжественной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Участники"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выразили"
+    },
+    {
+      "correctReplacement": "церквями",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

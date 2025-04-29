@@ -1,0 +1,35 @@
+{
+  "text": "Поздно вечером было зарегистрировавшее два случая отравлепия уксусной эссенцией : пятнадцатилетняя девушка выпили эссенции после ссору с матерью , а 22-летняя жительницы города после своры с мужем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "зарегистрировано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "ссоры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "выпила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "жительница"
+    },
+    {
+      "correctReplacement": "ссоры",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "отравления",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

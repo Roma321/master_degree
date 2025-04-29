@@ -1,0 +1,25 @@
+{
+  "text": "Правда , прогноз пока оеутешительный : ожидающийся большая облачность и вождём .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "дождь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "correctReplacement": "дождём",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "неутешительный",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

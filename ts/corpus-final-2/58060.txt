@@ -1,0 +1,25 @@
+{
+  "text": "Многие считают , что это решение мудрым , так как фильмах разделяет десятилетием , и продолжение могу выглядеть старейшим .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "фильмы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "десятилетие"
+    },
+    {
+      "correctReplacement": "устаревшим",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Машинист остановил состав , пачсажиры поезда и обеих станциями были эвакуированы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "станций"
+    },
+    {
+      "correctReplacement": "пассажиры",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

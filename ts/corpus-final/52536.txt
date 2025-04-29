@@ -1,0 +1,30 @@
+{
+  "text": "Кризис возникла в связь с принятым накануне решениемлидеров пиртии \"Отечеству и свободе\" и движения \"Занациональную независимость Латвии\" о выходе из правительства . Они мотивировали своём шаг тем , что не можете работать под руководством Шкеле .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "возник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "партии",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

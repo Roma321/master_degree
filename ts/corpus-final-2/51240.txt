@@ -1,0 +1,20 @@
+{
+  "text": "В подельник , 18 декабре , в красноярском аэропорту \"Емельяново\" совершил аварийную посатку пассажирский самолет Ту-204 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "декабря"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "посадку",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

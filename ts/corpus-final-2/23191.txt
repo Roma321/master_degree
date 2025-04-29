@@ -1,0 +1,35 @@
+{
+  "text": "Совет Федерации не поддержали в среду стратегию развития Российского Федерации до 2010 года , претставленную на заседании верных палаты министром экономической развития и торговли Германом Грефом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "поддержал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "экономического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "верхней"
+    },
+    {
+      "correctReplacement": "верхних",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "представленную",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

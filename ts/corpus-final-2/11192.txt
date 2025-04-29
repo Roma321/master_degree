@@ -1,0 +1,30 @@
+{
+  "text": "Одним из наиболее ярких эпигоны террористической карьеры Радуеве являлось вооруженное нападение 9 января 1996 года па дагестанский город Кизляр , сопровождавшийся взрывами , массовыми поджогами , мародерством и убийствами мирных граждан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "сопровождавшееся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Радуева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "эпизодов"
+    },
+    {
+      "correctReplacement": "эпизоды",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

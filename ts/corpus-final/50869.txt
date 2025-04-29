@@ -1,0 +1,25 @@
+{
+  "text": "Это условие возникнувшее после проверки Центробанк аудиторской компанией PriceWaterhouseCoopers , когда было установлено , что ЦБ завышал валютные резервы , а также использовал часть своих фондов , которые могли включать деньги МВФ , для выкупа государственных долгами череп зарубежные отделения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "возникло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Центробанка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "долгов"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

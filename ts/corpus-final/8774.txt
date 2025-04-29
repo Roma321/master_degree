@@ -1,0 +1,20 @@
+{
+  "text": "В официальной запросе судьи Микельанджело Руссо и Магуэла Комоди по этому же делу фигурирует еще 20 человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "фигурируют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "официальном"
+    },
+    {
+      "correctReplacement": "Мануэла",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

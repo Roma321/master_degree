@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время в незаконных вооруженных формированиях насчитывается около двух тысячах броневиках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": "боевиках",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Говоря о Чечне , президент подтвердил свое доверие Ахмаду Кадырове и подчеркнул , чтожий тот останешься во главе чеченской администрации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Кадырову"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "останется"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

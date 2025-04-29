@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению РБК , в Турцию вылетает группа специалиста ЗАО \"Транспетроволга\" , котропу принадлежит танкер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "котрому",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

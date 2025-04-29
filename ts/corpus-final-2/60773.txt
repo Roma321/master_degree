@@ -1,0 +1,35 @@
+{
+  "text": "Став в 19-летнем возрасте членом запрещенной в Турции в то время коммунистической партии , Хикмете проведённый 17 лет в тюрьме , а после тех как турецкие власть под давлением мировой общественности в 1950 гоше выпущенные его , эмигрировал в СССР .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "выпустили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Хикмет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

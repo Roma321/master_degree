@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь РИА \"Новости\" со ссылкой на пресс-службу МВД России , в первом случае неизвестный злоумышленник бросили бомбу в око квартиры , где жила пенсионерка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бросил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "окно",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Прн ввоза автомобилей старше 3 лет , независимо от пробега , с объемом двигателя не выше 2 , 5 тысяч кубических сантиметров включительно устанавливающиеся таможенный платежи по единой ставке в размере 0 , 85 евро за 1 куб . см рабочих объема двигателей , а при рабочем объеме двигателя свыше 2 , 5 тысяч кубе . см - 1 , 4 евро .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "устанавливаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "двигателя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ввозе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 54,
+      "correctReplacement": "куб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "рабочего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "таможенные"
+    },
+    {
+      "correctReplacement": "При",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

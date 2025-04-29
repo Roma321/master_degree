@@ -1,0 +1,30 @@
+{
+  "text": "По слова юристов , решение суда имеет общественно значимые последствия , так как на сегодняшнее день авиакомпания имеющий 250 телестанций , вещаешь в 531 городе России с общей аудиторией около 76 миллионов человек .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "вещает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "телекомпания",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

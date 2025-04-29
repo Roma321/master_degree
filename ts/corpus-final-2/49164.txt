@@ -1,0 +1,40 @@
+{
+  "text": "Лидер Северной Кореи Ким Чен Ир отказалось принять международную премию мира Common Ground Award , присужденную он совместно с лидером Южной Кореи Кимом Дэ Чжуном американского неправительственным легализациями Search for Common Ground , сообщаемый ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "неправительственной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "организацией"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "организациями",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

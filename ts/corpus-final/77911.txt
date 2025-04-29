@@ -1,0 +1,20 @@
+{
+  "text": "С 1 июля в России оплачивается минимальном назмер оплаты труда (МРОТ) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "минимальный"
+    },
+    {
+      "correctReplacement": "увеличивается",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "размер",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

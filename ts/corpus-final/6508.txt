@@ -1,0 +1,25 @@
+{
+  "text": "Подберезкин считал , что НПСР фактически прекратил своё существование и большинство его павших членов войдут в нового Союз .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "новый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "correctReplacement": "бывших",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

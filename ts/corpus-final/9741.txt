@@ -1,0 +1,30 @@
+{
+  "text": "\"Арестованы высокопоставленный пенные , 3 офицера среднего звена и четыре унтер-офицера , еще четверо скрываются\" , - заявил журналистам в минувшие понедельник министр обороны Парагвай Нельсон Арганьи , сын убитого в марте вице-президента Луиса Марии Арганьи , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "военный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Парагвая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Арганья"
+    },
+    {
+      "correctReplacement": "военные",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

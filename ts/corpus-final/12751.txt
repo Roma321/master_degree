@@ -1,0 +1,30 @@
+{
+  "text": "2 ноября ЦИК принятый решение об отказе ФНС в регистрации на том основании , что выборочная проверка предоставивших попифших в поддержке движения выявила их недостоверность .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "поддержку"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "предоставленных"
+    },
+    {
+      "correctReplacement": "подписей",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "попивших",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

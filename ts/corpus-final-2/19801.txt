@@ -1,0 +1,20 @@
+{
+  "text": "Когда же полицейских и охранников германского парламента скрутили террориста , выяснилось , что у него в машине находиюась канистра бензина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "полицейские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "охранники"
+    },
+    {
+      "correctReplacement": "находилась",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

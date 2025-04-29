@@ -1,0 +1,30 @@
+{
+  "text": "Однако ГУБОП располагает информацией , что часть средств , полученных от преступной деятельности , была направлены на счета членов организуемой преступную группировки и коррумпировавших чиновников Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "коррумпированных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "преступной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "направлена"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "организованной"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

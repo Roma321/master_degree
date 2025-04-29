@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , по сообщению НТВ , в среду , 10 января , в Омске в результате крупной аварии на водопроводом несколько кварталах остались без водоснабжений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "кварталов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "водопроводе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "водоснабжения"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

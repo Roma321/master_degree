@@ -1,0 +1,35 @@
+{
+  "text": "В свете недавнего решений суда по антимонопольному иск Министерства юстиции США против корпораций Microsoft компании , поддерживающие операционную симтему Linux , проведённые совместная встречу в Монреале , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "решения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "иску"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "проведут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "совместную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "correctReplacement": "систему",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Поэтому , подчеркнуло он , \"мы с огромным довольствиями заключили договоры , так как наша дружба является искренней , глубокой и основательной\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "договор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "удовольствием"
+    },
+    {
+      "correctReplacement": "удовольствиями",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

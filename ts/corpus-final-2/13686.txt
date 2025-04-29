@@ -1,0 +1,30 @@
+{
+  "text": "Мосгорсуд принял к производству уголовного дело бывшего министра юстиции РФ Валентина Ковалева , который обвиняется в кипении вверенной ему имущества , получении взяток в крупной размере , а также в незаконном хранением огнестрельного оружия и боеприпасов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "хранении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "вверенного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "крупном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "хищении",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

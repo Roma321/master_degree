@@ -1,0 +1,20 @@
+{
+  "text": "Вынесенным решением суд полностью удовлетворил требования Минфинов к ответчику по выплате средств , включая штрафные проценты за просрочу платеш по кредитному договору .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Минфина"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "просроченный"
+    },
+    {
+      "correctReplacement": "платеж",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

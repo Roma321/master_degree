@@ -1,0 +1,35 @@
+{
+  "text": "В августе Паризи принявший решение отдать домен какая-либо больнице , а примерно через месяц даже выбрали в качестве получателя дара католической реабилитационную больницу Пресвятой Деве в Линкольне Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "выбрал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Девы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "какой-либо"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "католическую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принял"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

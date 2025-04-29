@@ -1,0 +1,30 @@
+{
+  "text": "По мнением разработчиков сервиса , такая возможности интересно не вольво \"продвинутым\" компьютерщикам , но и массовома пользователю .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "интересна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "возможность"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "массовому",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

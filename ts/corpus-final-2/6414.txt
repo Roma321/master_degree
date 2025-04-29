@@ -1,0 +1,30 @@
+{
+  "text": "Бурном сезон распродажи летних вещей в Германии , который из-за плохой погоды в этом году начался рено обычного , может привёдшие к разорению пяти тысяч мелких предприятиям торговли и потере 30 тысяч рабочих мест , пишущий сегодняшняя Die Welt .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "пишет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Бурный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "привести"
+    },
+    {
+      "correctReplacement": "раньше",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об эром сообщает агентское France Presse со ссылками на чеченский источники .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "чеченские"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

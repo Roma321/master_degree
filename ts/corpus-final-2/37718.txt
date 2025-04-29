@@ -1,0 +1,35 @@
+{
+  "text": "Допросу Бабкина продолжался около пяди часов , после чего 70-летнему профессор покинул здание суда , отказавшись отвечать на вопросы журналистах . оттуда пришел ответ , что бывшего военнослужащий Роман Малика был найден .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "70-летний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Допрос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "Маликов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "пяти",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

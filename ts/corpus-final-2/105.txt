@@ -1,0 +1,25 @@
+{
+  "text": "Президенты РЦ Владимир Путин подписал уаз о повышении с 1 августа текущего года пенсий на 125 рублей , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "указ",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "РФ",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

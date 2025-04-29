@@ -1,0 +1,20 @@
+{
+  "text": "Владельцы сайтах подлежим штрафу в размере 20 тысяч доллароф и более или тюремному заключению на срок до четырех лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сайтов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "подлежат"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь ИТАР-ТАСС , его новости с 27 август размещаются в открытым доступе на сайтеагентства по адресу www . itar-tass . com .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "августа"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "открытом",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

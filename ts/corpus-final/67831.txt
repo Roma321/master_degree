@@ -1,0 +1,20 @@
+{
+  "text": "СОгласно его основным параметрам , объём внутренного валового продукта составивший 6 , 8 триллиона рублей , уровень инфляции - 11-12 процентов , курс национальной валюты - 32 руля за доллар .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "объем"
+    },
+    {
+      "correctReplacement": "рубля",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

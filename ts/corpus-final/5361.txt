@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщила глазеющая \"Сегодня\" , Лучинский объяснял своё стремление усилить власть президента необходимостью покончить с ситуацией , когда ни одна ветвь власти реально ни за что не отвечают Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "отвечает"
+    },
+    {
+      "correctReplacement": "газета",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

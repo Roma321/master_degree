@@ -1,0 +1,25 @@
+{
+  "text": "Аргументировав своё мнение , он указал , что подобные взводы можно сделать \"начиная с декларации Явлинского и кончая тем , что сегодня происходит в ЛДПР\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Аргументируя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "свое"
+    },
+    {
+      "correctReplacement": "выводы",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

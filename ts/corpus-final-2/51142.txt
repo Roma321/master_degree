@@ -1,0 +1,30 @@
+{
+  "text": "После выборов президента России канадский бизнесмен послало Путину письмо с поздравлением и получивший очень теплый ответ , в котором тот писал , что сохранённый о пребывании в Канаде самых лучшие воспоминание .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "воспоминания"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "послал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "самые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "сохранил"
+    }
+  ]
+}

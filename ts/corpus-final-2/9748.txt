@@ -1,0 +1,25 @@
+{
+  "text": "Все это время эвакуировавшие в связи с угрозами взрыва жильцов двух подъездов дома находились на улице , передало \"Эхо москвы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "жильцы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "эвакуированные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "угрозой"
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

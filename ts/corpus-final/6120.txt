@@ -1,0 +1,20 @@
+{
+  "text": "После инфицирования вирус самостоятельно отправляет звои копии всем , чьи именах содержитесь в списке адресов почтовой программы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "имена"
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

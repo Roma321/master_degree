@@ -1,0 +1,25 @@
+{
+  "text": "В то время , как в Баку считают , что этот срок должен составляющие не долее пяти года , в Москве полагаем , что он должен быть не менее 20 лет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "составлять"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

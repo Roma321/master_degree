@@ -1,0 +1,25 @@
+{
+  "text": "Швейцарский полиция задержала человека , который сбрасывала с мостов на корыстные афтомагистрали украденные велосипеды , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сбрасывал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Швейцарская"
+    },
+    {
+      "correctReplacement": "скоростные",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "автомагистрали",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

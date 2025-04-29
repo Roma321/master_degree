@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , он пообещанный избавиться \"от балласта\" в органах прокуратуры , а также \"без личной шумихи\" довести до конца так называющие \"громкие дела\" и ряд дел о коррупции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "называемые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "лишней",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

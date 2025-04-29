@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники прокуратур тщательно изучили все материалы , представленный грузинской стороной , и провёдшие собственную проводку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "представленные"
+    },
+    {
+      "correctReplacement": "проверку",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

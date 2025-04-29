@@ -1,0 +1,25 @@
+{
+  "text": "За лидера коммунистов Владимира Воронина проголосовавшие 50 депутаты , а за кандидата правоцентристских аил Павлов Барбалата - 35 депутатов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "correctReplacement": "сил",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

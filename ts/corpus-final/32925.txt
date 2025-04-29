@@ -1,0 +1,20 @@
+{
+  "text": "В столице Иордании Амманах состоюсь демонстрация во главе с представителями монархией семьи , принцами и принцессами , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Аммане"
+    },
+    {
+      "correctReplacement": "монаршей",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

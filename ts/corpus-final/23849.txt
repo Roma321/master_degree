@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас для издания газетам или журналов необходим всего вишь регистрация в Минпечати .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "газет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "необходима"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

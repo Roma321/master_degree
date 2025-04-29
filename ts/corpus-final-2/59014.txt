@@ -1,0 +1,20 @@
+{
+  "text": "По данным Sport . list . ru , Марадона посулённый приглашение и от неополитанского клуба , в составе которого аргентинец дважды становились чемпионом Италии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "становился"
+    },
+    {
+      "correctReplacement": "полученный",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

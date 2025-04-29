@@ -1,0 +1,30 @@
+{
+  "text": "Даже в российской прессе писали , сказало он , что некоторые реакционные круг Востока стремитесь создать новую государство от Каспия до Черного моря с цель завладеть минеральными ресурсами данного региона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "новое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "стремятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "круги"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "целью"
+    }
+  ]
+}

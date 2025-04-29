@@ -1,0 +1,20 @@
+{
+  "text": "Сценарий написано Аленом Годаром , сценаристами фильма Анно \"Ммя розы\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сценаристом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "написан"
+    },
+    {
+      "correctReplacement": "\"Имя",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

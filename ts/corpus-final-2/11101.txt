@@ -1,0 +1,30 @@
+{
+  "text": "В этом случаях исполнять эту функции придется представителю местных власти - а эту человек может оказаться специалистом в области телекоммуникаций .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "функцию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "властей"
+    },
+    {
+      "correctReplacement": "неспециалистом",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По суидетельства очевидцев , в автобус бросили бутылку с созидательной смесью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "свидетельству"
+    },
+    {
+      "correctReplacement": "зажигательной",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "свидетельства",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

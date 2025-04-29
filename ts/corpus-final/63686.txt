@@ -1,0 +1,20 @@
+{
+  "text": "Когда взрывы закончитесь , к работе смогут приступить 15 бригад Управлением пожарной охраны , отметил дежурному .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Управления"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "закончатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "дежурный"
+    }
+  ]
+}

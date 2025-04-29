@@ -1,0 +1,20 @@
+{
+  "text": "кай сообщили \"Интерфаксу\" в МинЧС Башкирии , авария произошла накануне около 12 : 00 по местной времени на трассой Москва-Самара-Челябинск .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "трассе"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

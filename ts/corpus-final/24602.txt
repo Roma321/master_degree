@@ -1,0 +1,20 @@
+{
+  "text": "Бомба была заложена в обрезок труа и помещена в мусорный бак , стоявшая нагородском базаре , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "стоявший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "трубы",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

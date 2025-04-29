@@ -1,0 +1,40 @@
+{
+  "text": "Ситуации вокруг телеканала НТФ показываемый , что Россия разряжаешься \"по чилийскому варианту\" , заявил \"Интерфаксу\" одна из акционера телеканала ОРТ Борис Березовский .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Ситуация"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "развивается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "акционеров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "показывает"
+    },
+    {
+      "correctReplacement": "развиваюсь",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас у AFP , разумеется , есть несколько сайтов , включая собственно сайт агентства и совместную с Financial Times проект финансовых новостной службы , Однако агрессивная политика , проводимая Reuters и Associated Press , грозит существенно оттеснившие AFP .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "совместный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "финансовой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "оттеснить"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В этом году каждого британец решил потраченные на приобретение рождественских подаркоф в средних 763 футу (1243 доллара) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "потратить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "фунта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "среднем"
+    },
+    {
+      "correctReplacement": "фунту",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "подарков",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

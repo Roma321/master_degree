@@ -1,0 +1,25 @@
+{
+  "text": "За высказались 15 судей , протиф - троих , один высказал особую мнение , сообщающий UA Today со ссылкой на радиостанцию \"Континент\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "особое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "трое"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В субботу в 8 : 07 по московскому времени самолёт главой государству приземлился в столичном аэропорту \"Внуктво-2\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "самолет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "главы"
+    },
+    {
+      "correctReplacement": "\"Внуково-2\"",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

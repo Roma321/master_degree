@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшний день общее количество беженцев в республике достишнутое 210 с половиной тысяч человек , говорил Аушев .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "достигло"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "говорит"
+    },
+    {
+      "correctReplacement": "достигнутое",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "После тех , как музей отказался закрыть выставку , городское администрация не стала перечислять свой ежемесячный взнос почти в 500 тысяч долларов , а затем и рожавшая в суд штата , чтобы выселить музей из принадлежащей городу здания , в котором он находился уже более 100 гет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 42,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "принадлежащего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "городская"
+    },
+    {
+      "correctReplacement": "подала",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "typo",
+      "wordNumber": 46
+    }
+  ]
+}

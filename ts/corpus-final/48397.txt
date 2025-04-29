@@ -1,0 +1,25 @@
+{
+  "text": "Командир 160-ого танковой полка полковник юркий Буданов , арестованный по обвинению в изнасиловании и убийстве 18-летней жительницы села Танги Урус-Мартановского району Чечни , признаю свою вину лишь частично .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "признает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "танкового"
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

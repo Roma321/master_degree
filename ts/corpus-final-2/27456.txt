@@ -1,0 +1,25 @@
+{
+  "text": "Этот птицы нападаем на людей , и нинелям Канберры даже в солнечные дни приходится ходить под зонтами или надевать шляпы , чтобы защититься от когтистых лап и острых клювах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "клювов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "нападают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Эти"
+    },
+    {
+      "correctReplacement": "жителям",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

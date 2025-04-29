@@ -1,0 +1,20 @@
+{
+  "text": "ДПИ отмечают , что такие заявлений расцениваются как \"попытка рэкета под прикрытием пьавительства\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "заявления"
+    },
+    {
+      "correctReplacement": "правительства\"",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

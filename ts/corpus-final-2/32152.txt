@@ -1,0 +1,20 @@
+{
+  "text": "Сергеев сообщил , что пока по-прежнему существуют две основные версии катастроф - столкновение подлодки с подводной объездом и взрыв на ее борту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "катастрофы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подводным"
+    },
+    {
+      "correctReplacement": "объектом",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

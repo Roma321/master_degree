@@ -1,0 +1,25 @@
+{
+  "text": "Врачи обнаруженные у Пиночета более десяти заболеваний , в том числе проблески с сердцем , диабетои и астму .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "диабет"
+    },
+    {
+      "correctReplacement": "проблемы",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "диабетом",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

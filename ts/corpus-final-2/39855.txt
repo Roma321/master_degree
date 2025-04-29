@@ -1,0 +1,40 @@
+{
+  "text": "Главный итальянский оперная театр приступила к празднованию столетия со дня смерти главных итальянского оперного композитора заблаговременно : Джузеппе Верди умерший 27 января 1901 года . Возможно , это связавшее с насыщенностью программы года Верди , составившей художественным руководителем театра \"Ля Скала\" Рикардо Мути .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "составленной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "главного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "умер"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "приступил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "связано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "оперный"
+    },
+    {
+      "correctReplacement": "программы",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

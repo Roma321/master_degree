@@ -1,0 +1,20 @@
+{
+  "text": "Владимир Путин , принимая минору , поблагодарило всех собравшихся \"зв оччень теплый прием и подарок\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "поблагодарил"
+    },
+    {
+      "correctReplacement": "очень",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "\"за",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

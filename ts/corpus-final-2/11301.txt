@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-служба Аслана Масхадовым распространившийся заявление в связи с предстоящими в Чечне выборами депутата Госдуме .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "распространила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Масхадова"
+    },
+    {
+      "correctReplacement": "распространил",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

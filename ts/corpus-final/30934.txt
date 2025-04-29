@@ -1,0 +1,25 @@
+{
+  "text": "Английский банк полученный в результате продажи 25 тонн золота 206 миллионоф долларов , которые будут использованы на покупки пространной валюты и государственных ценных бумаг ведущих экономических держав .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "покупку"
+    },
+    {
+      "correctReplacement": "иностранной",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

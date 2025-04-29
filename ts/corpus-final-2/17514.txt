@@ -1,0 +1,25 @@
+{
+  "text": "По данным ГУВД столицы , около 21 : 50 неизвестный преступник расстреляю из автоматических оружия 44-летнем предпринимателя Виталия Щербакова , после что скрылся .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "расстрелял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "44-летнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "автоматического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "чего"
+    }
+  ]
+}

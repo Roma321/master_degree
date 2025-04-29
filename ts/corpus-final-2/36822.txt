@@ -1,0 +1,20 @@
+{
+  "text": "миронов сказала , что не выходил из здания на протяжении все праздничных дней .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "Смирнов",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В прошлой месяце завод поднявший отпускные оптовые цены на бензин в средних на 25% .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "среднем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "поднял"
+    }
+  ]
+}

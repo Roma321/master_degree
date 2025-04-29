@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва юдна человек погиб , трое получил ранения различной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "одна",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

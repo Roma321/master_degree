@@ -1,0 +1,20 @@
+{
+  "text": "В среду полиция объявила об ареста двадцати подозреваемых , якобы составляющих фсё командный костяк политического подразделения ЭТА .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "весь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "аресте"
+    },
+    {
+      "correctReplacement": "всё",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

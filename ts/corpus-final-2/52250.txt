@@ -1,0 +1,15 @@
+{
+  "text": "В настоящее время на рынке наблюдаются панические продажи акций крупнейшим компании , таких как Microsoft , IBM , Hewlett-Packard и Cisco , а также американских банков , заявивших о сокращении своих прибылей по итогам IV квартала .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "крупнейших"
+    }
+  ]
+}

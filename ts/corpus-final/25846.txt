@@ -1,0 +1,25 @@
+{
+  "text": "Хинштейн предъявлю служебное удостоверения за номером 03726 , выдавшее на имя сотрудника Управления уголовного розыска ГУВД столицы Александра Матвеева со звоей фотокарточкой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выданное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предъявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "удостоверение"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

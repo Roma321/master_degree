@@ -1,0 +1,30 @@
+{
+  "text": "Клинт Иствуд , режиссёр и исполнители главным роли в этом фильме , будет наградивший в Венеции Золотым Львом за достижения всю жизни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "награжден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "главной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "всей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "исполнитель"
+    },
+    {
+      "correctReplacement": "режиссер",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

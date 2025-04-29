@@ -1,0 +1,25 @@
+{
+  "text": "Если бы действия организаторов портала были оценены кап преднамеренно направленные на причинение ущербов , штраф мог возрасти до 150 тысяч долларов за каждый случай , то есть за каждое фильмы или аудиозапись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "фильм"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ущерба"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

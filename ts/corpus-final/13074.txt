@@ -1,0 +1,25 @@
+{
+  "text": "В то же времена соседняя с Литвой Калининградская область Ршссии уже четвертые сутки находится в зоне штормовых ветров и обильных осадков в виде дождя и снега , сообщал Федеральным агентство новостей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Федеральное"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

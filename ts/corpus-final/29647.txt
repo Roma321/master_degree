@@ -1,0 +1,20 @@
+{
+  "text": "В краже памятникаподозревались 30-летний безработный и 17-летний студент месмного политехническим училища - оба ранее несудимые .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "памятникаподозреваются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "политехнического"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

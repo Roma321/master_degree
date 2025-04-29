@@ -1,0 +1,20 @@
+{
+  "text": "В последнем туре россиянин играют . бразильцами , а египтяне с аргентинцах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "россияне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "аргентинцами"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

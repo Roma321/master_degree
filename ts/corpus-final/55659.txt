@@ -1,0 +1,40 @@
+{
+  "text": "После дошгого расследования прокуратура предъявил 47-летней рабочему алюминиевого заводов Роберту Ли Йетсу обвинение в убийстве 16-летнего проститутки , найду застрелившей насмерть в 1997 году на окраине Спокана , города с населением в 175 тысяч жителей на границе со штатом Айдахо .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "предъявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "47-летнему"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "найденной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "16-летней"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "застреленной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "завода"
+    },
+    {
+      "correctReplacement": "долгого",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

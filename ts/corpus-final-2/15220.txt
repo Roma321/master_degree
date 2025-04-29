@@ -1,0 +1,25 @@
+{
+  "text": "Одна из них уже находится в Пусане , а другрй дольмен прибыть в ближайшие часы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "другая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "должна"
+    },
+    {
+      "correctReplacement": "должен",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "другой",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

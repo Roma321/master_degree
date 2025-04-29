@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье сообщаюсь о том , что в захватчика стрелял снайпер из отряда специального различения , но промпхнулась .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "промахнулся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "назначения",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "промахнулась",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

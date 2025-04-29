@@ -1,0 +1,20 @@
+{
+  "text": "В Карибской море , у небольшого необитаемого острова в 240 километрах от порта Нассау села на мель 15-метровая лощка , в которой находились около 300 беженца с Гаити , сообщает BBC .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Карибском"
+    },
+    {
+      "correctReplacement": "лодка",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

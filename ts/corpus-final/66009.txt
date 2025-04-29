@@ -1,0 +1,30 @@
+{
+  "text": "С помощью концепта удамся собрать около 26 миллионов дошларов на избирательную кампанию нынешних вице-президента США , сообщаешь Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "концерта",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В шотладском городе Перт вор был задержан в кабинетах врача , после того как рентген показал , что у него в желудке лежите украденные драгоценности на тысячи фунты стерлингов , сообщал Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "кабинете"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "лежат"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "фунтов"
+    }
+  ]
+}

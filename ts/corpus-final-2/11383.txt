@@ -1,0 +1,25 @@
+{
+  "text": "Скоро , добевляют ВВС , Тамаша , которому два года назар была ампутирована правая нога , получит протез .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Тамаш"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "добавляет"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "добавляют",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

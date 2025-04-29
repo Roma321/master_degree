@@ -1,0 +1,20 @@
+{
+  "text": "Вице-премьер Селим Ясине - уже третье высокопоставленный чиновник , арестованный за послебние несколько месяцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Ясин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "третий"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

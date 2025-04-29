@@ -1,0 +1,25 @@
+{
+  "text": "В Нью-Мексико произошел взрыв газопровода - 10 человек , в том числе пятеро детях , погимли , двое тяжело ранен и находятся в организации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "ранены"
+    },
+    {
+      "correctReplacement": "реанимации",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

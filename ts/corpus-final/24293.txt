@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал ИТАР-ТАСС со ссылкой на помощника прокурора Томаса О'Коннелла , Александеры был аречтован в марте этом года вскоре после того , как в Вашингтоне в почтовом фургоне взорвалась небольшая посылка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Александер"
+    },
+    {
+      "correctReplacement": "арестован",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

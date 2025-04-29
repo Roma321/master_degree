@@ -1,0 +1,25 @@
+{
+  "text": "Незаконная охота ведется не польско на медведей , но также на амурских тигров и дальневосточного леопардов , шкурой которых высоко ценятся в Китаем и Южной Корее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "шкуры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Китае"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дальневосточных"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

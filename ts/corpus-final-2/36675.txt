@@ -1,0 +1,25 @@
+{
+  "text": "Президент США Билл Клинтон подписавший закон об пространной помощи , в соответствии с которым в следующем финансовом году США выделите на международные программы содействия зарубежным странам 14 , 9 миллиарда долларов Щ",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "выделят"
+    },
+    {
+      "correctReplacement": "иностранной",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

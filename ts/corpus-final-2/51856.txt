@@ -1,0 +1,15 @@
+{
+  "text": "Путин выступит на специальной обеде с бизнесменами , на который также приглашены политики и общездвенные деятели страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "специальном"
+    },
+    {
+      "correctReplacement": "общественные",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

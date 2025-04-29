@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщают РИА \"Новости\" , в минувшее воскресенье в этом городе группа молодых людей попыталась разгоомить подготовленную для встречи Папы вертолётной площадку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "вертолетную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "разгромить",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

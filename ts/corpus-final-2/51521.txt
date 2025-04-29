@@ -1,0 +1,25 @@
+{
+  "text": "Заявлений ОПЕК о возможном сокращении поставок нефть , а также обещания синоптиков холодной погоды на декабри вызвали рост мировых цены на нефть .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "цен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Заявления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "декабрь"
+    }
+  ]
+}

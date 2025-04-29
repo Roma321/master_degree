@@ -1,0 +1,25 @@
+{
+  "text": "Развернутая рекламная компания , обещавшие характеристики - мощность процессора существенно превышает Pentium II и даже Pentium III , а в качестве носителя информации используется DVD , - и сравнительно низкие цена послужили причиной тому , что спрос на новинку значительно превысила предлощение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "низкая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 40,
+      "correctReplacement": "превысил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обещанные"
+    },
+    {
+      "correctReplacement": "предложение",
+      "type": "typo",
+      "wordNumber": 41
+    }
+  ]
+}

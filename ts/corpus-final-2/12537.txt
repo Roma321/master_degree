@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаеп РТР , гроб с телом покойного был выставлен на протяжении нынешней дня для прощания в здании президента Академии наук Азербайджана .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "correctReplacement": "президиума",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

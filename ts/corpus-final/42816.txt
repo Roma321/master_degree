@@ -1,0 +1,25 @@
+{
+  "text": "По мнению начальник Генштабов , \"с такими людьми нтобходимо адресно работать в конфетных населенных пунктах\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "начальника"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Генштаба"
+    },
+    {
+      "correctReplacement": "конкретных",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "необходимо",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

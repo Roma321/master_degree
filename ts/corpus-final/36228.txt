@@ -1,0 +1,20 @@
+{
+  "text": "В результате этой экономического диверсии французы потерянные более 40 миллиардов франсов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "экономической"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "потеряли"
+    },
+    {
+      "correctReplacement": "франков",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

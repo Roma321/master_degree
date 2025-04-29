@@ -1,0 +1,25 @@
+{
+  "text": "Цимайло был вызову на 10 : 00 вторников в Генпрокуратуру для дачи показаний в качестве звидетеля по делам Владимира Гусинского .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "вторника"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "вызван"
+    },
+    {
+      "correctReplacement": "свидетеля",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

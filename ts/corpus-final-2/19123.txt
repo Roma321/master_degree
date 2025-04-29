@@ -1,0 +1,20 @@
+{
+  "text": "Теперь молодым отступника грозил в лучшем случае штраф в размере десять тысяч долларов , а в худшему - еще и до пяти лет лишения свободы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "худшем"
+    },
+    {
+      "correctReplacement": "преступникам",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

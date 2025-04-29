@@ -1,0 +1,30 @@
+{
+  "text": "С утра в мечетях Ингушетии прошли молебнам памяти , а в различных населённого пунктам ингушской - в той числе в местах размещения вынужденных переселенцев - состоялись ритуальные жертвоприношения , передает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "молебны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "пунктах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "Ингушетии",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

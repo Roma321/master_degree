@@ -1,0 +1,30 @@
+{
+  "text": "Аналитики из Gartner Group сообщающие , что Microsoft исключающий из лицензионных соглашений права на использования своих проектов на домашних компьютерах сотрудников , одновременное использование одной купленного копии на нескольких компьютерах и ограничивает сроки технической поддержки в рамках временной лицензии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "купленной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "исключает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "использование"
+    },
+    {
+      "correctReplacement": "продуктов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

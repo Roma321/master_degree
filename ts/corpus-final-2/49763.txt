@@ -1,0 +1,25 @@
+{
+  "text": "\"Банде Шутова\" приписываются гибель предпринимателя Дмитрия Филипповой , председателя Совета директоров ОАО \"Источник\" Николая Волотовского , заведующего юридических консультацией игора Дубовика .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Филиппова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "юридической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "приписывается"
+    },
+    {
+      "correctReplacement": "Игоря",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

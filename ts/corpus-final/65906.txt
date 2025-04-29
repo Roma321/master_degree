@@ -1,0 +1,15 @@
+{
+  "text": "Автомобиль достался московского пользоватезьнице по имени Евгения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "московской"
+    },
+    {
+      "correctReplacement": "пользовательнице",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

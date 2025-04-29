@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник фотороботы подозреваемых , составленные со слов очевидцев , были раздадим сотрудниками всех правоохранительных органов области , сообщаю Ортм .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "розданы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "ОРТ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сотрудникам"
+    },
+    {
+      "correctReplacement": "Орта",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Президент РФ Владимир Путин подписавший сегодня указ о повышении компенсационных выплатах пенсионерам , об этом сообщённый после встречи с президентом председатель Пенсионной фонда России Михаил Зурабов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Пенсионного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "выплат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    }
+  ]
+}

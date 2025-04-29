@@ -1,0 +1,25 @@
+{
+  "text": "Еак передаёшь ИТАР-ТАСС , главы МВД РФ генерал-полковнику Владимир Рушайло взял расследование под личный контроль .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "генерал-полковник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "глава"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

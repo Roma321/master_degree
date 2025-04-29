@@ -1,0 +1,30 @@
+{
+  "text": "Как известно , в связи со значительным подорожанием нефтей на мировом рынке президент Клинтон 22 сентябрей принятый решение об использовании федеральных резервов для предотвращающего в США дальнейшегр роста цен на бензин и топливо для обогрева домов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сентября"
+    },
+    {
+      "correctReplacement": "предотвращения",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "дальнейшего",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

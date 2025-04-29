@@ -1,0 +1,20 @@
+{
+  "text": "Студенты негосударственного вузов , не смевших специальной государственной аккредитации , подлежат призыву на военную службу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "негосударственных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "имеющих"
+    },
+    {
+      "correctReplacement": "имевших",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

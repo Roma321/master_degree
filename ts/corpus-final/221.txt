@@ -1,0 +1,25 @@
+{
+  "text": "Выстрелами в голову бандиты убили старшего оперуполномоченного огородного розыска капитана милиции Олега Копина и ранили прямыми попаданием гранаты заместителя начальника Красноярского РОВТ майора милиции Юрию Суючалиева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Юрия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "прямым"
+    },
+    {
+      "correctReplacement": "уголовного",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "РОВД",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

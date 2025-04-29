@@ -1,0 +1,35 @@
+{
+  "text": "В минувшее воскресенью в населенном пункте Новые Атаги Шалинского района Чечни задержан 26-летние Умар Натуев , обвиняющий в организации серии взрывов во Владикавказе , у результате которым десяток людей были убиты или получили ранения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "26-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "десятки"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

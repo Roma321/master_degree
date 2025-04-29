@@ -1,0 +1,20 @@
+{
+  "text": "В течеоие нескольких часов полиции не удавалось вынести из зоне обстрела тела погибшего .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "зоны"
+    },
+    {
+      "correctReplacement": "течение",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

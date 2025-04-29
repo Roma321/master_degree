@@ -1,0 +1,20 @@
+{
+  "text": "Сто тысяч доллара , приз за лучший режиссерский дебют , получил режиссер французского фильму \"Ошибка Вольтера\" (\"La Faute A Voltaire\") Абдель Кечиче , родившийся в Тунисе , за историю о нелегальном эмигранте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "фильма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Кечичи"
+    }
+  ]
+}

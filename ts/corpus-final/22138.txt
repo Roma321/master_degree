@@ -1,0 +1,15 @@
+{
+  "text": "По данным местной полиции , в результате аварии 3 человека погибли , 14 раним , один из них находится в крайне тяжёлом состоянии , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "ранены"
+    }
+  ]
+}

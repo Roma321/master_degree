@@ -1,0 +1,40 @@
+{
+  "text": "Акт о цифровых коммерции в новой тысячелетии гарантирует , что , если две стороны договаривающиеся об использовании электронных подписей для утверждения своих транзакций , подпись не аогущий быть признана юридически недействительным государственными законодательных органами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "недействительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "законодательными"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "цифровой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "новом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "договариваются"
+    },
+    {
+      "correctReplacement": "могущий",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

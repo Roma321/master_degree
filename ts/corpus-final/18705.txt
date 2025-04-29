@@ -1,0 +1,25 @@
+{
+  "text": "Однако в данной случай ситуация , похоже , осложняется : по некоторым ванным , террорист уже простреленный ногу заложнице , однако не позволяет войти врачам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "прострелил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "данном"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

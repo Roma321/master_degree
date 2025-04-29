@@ -1,0 +1,20 @@
+{
+  "text": "скорбящая ветре при ураган летом 1998 года достигала 31 метра в секунду , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ветра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "урагане"
+    },
+    {
+      "correctReplacement": "Скорость",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

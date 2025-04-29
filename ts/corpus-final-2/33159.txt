@@ -1,0 +1,35 @@
+{
+  "text": "Для органов государственного власти День памяти жертв политических репрессиях - предупреждение о недопустимости пренебрежения свободой человека во имя каких бы то ни есть целей , недопустимость отступлений от островная задачи государства - гарантировать и защищать права и свободы человека и гражданина , говорящийся в документе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 42,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "отступления"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "репрессий"
+    },
+    {
+      "correctReplacement": "основной",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

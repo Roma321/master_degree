@@ -1,0 +1,20 @@
+{
+  "text": "Представители израильского армии заявили , что прекратившие машину боевиков недалеко от поселения Гуш-Катиф .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "перехватили"
+    },
+    {
+      "correctReplacement": "перехватившие",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

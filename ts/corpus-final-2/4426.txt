@@ -1,0 +1,25 @@
+{
+  "text": "Моисеев был задержан сотрудником ФСБ россини после встречи в его собственного квартире с южнокорейским разведчиком , за которым велась наблюдение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сотрудниками"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "велось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "собственной"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

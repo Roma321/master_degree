@@ -1,0 +1,20 @@
+{
+  "text": "Он сообщённый , что за минувшее год было выпущено несколько тысяч постановлений и распоряжений правительства , подготовлены около 300 совместных с администрацией президента сказов президента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "указов",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

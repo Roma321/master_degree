@@ -1,0 +1,30 @@
+{
+  "text": "Минувшей ночью более чем на полтора часа было блокирую движепие на железной дороге в направлении центра России , дважды есть предприянты попытках перекрыть движение городских автотранспорта .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "были"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "попытки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "блокировано"
+    },
+    {
+      "correctReplacement": "движение",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

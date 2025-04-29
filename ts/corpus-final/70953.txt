@@ -1,0 +1,25 @@
+{
+  "text": "Согласно документам , дороже всего обойдётся восстановление объектов энергоснабжений , теплоснабжения и канализации : предполагается затратить на это 2 , 4 миллиарда рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "энергоснабжения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "обойдется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "документу"
+    },
+    {
+      "correctReplacement": "водоснабжения",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

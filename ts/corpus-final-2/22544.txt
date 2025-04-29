@@ -1,0 +1,30 @@
+{
+  "text": "Наконец , в весовой категории до 67 килограммов Олимпийский чемпионат Атланты Олег Саитов в напряженном поединке взятый верх над азербайджанец Русланом Хаирова Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "взял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "азербайджанцем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Хаировым"
+    },
+    {
+      "correctReplacement": "чемпион",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

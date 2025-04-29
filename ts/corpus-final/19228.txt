@@ -1,0 +1,25 @@
+{
+  "text": "В минувшую среду арбитражный суд Москвы обязал Министерство финансов России выплаченные группе частных иностранных инвесторов 53 миллиона долларов долга по ОВВЗ третьей транш , - сообщал \"Интерфакс-АФИ\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "третьего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "транша"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "выплатить"
+    }
+  ]
+}

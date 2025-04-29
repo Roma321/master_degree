@@ -1,0 +1,20 @@
+{
+  "text": "Предположительно взорвался газа в сети центрального газоснабжения в одной из квартир пятиэтажного дома , расположенной на сторон этаже .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "газ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "вторых",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

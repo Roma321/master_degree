@@ -1,0 +1,25 @@
+{
+  "text": "По данным правоохранительных органы , она располагавшаяся в Москофской сельскохозяйственной академики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "располагалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "органов"
+    },
+    {
+      "correctReplacement": "академии",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Московской",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

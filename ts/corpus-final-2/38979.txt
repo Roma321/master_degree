@@ -1,0 +1,20 @@
+{
+  "text": "По словам глава \"Газпром-Медиа\" , он поступил так после \"длительных консультаций с высшим руковотздвами \"Газпрома\" и рядом экспертов\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "руководством"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "главы"
+    },
+    {
+      "correctReplacement": "руководствами",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

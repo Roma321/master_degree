@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , позитивные прогнозы развития высокотехнологическую отраслей выпустифшие сразу два инвестиционных банка - Merrill Lynch и Prudential Securities .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "высокотехнологической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "отрасли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выпустили"
+    },
+    {
+      "correctReplacement": "выпустившие",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

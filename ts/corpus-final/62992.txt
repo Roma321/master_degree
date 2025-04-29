@@ -1,0 +1,25 @@
+{
+  "text": "В отличия от предыдущих лет , в число амнистированных впервой попадаете осуждённые на срок до трех лет - таких в местах лишения свободы сейчас более 10 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "осужденные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "попадают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "отличие"
+    },
+    {
+      "correctReplacement": "впервые",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

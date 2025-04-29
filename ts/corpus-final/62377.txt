@@ -1,0 +1,20 @@
+{
+  "text": "Это случусь во время проведения зварочных работы во дворе здания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "работ"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "случилось"
+    },
+    {
+      "correctReplacement": "сварочных",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам ученого , за пять суток работы в бартеневым морю было совершу десять погружений в район нахождения пндлодки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "море"
+    },
+    {
+      "correctReplacement": "Баренцевом",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "подлодки",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

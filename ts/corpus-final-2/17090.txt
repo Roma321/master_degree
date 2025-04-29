@@ -1,0 +1,25 @@
+{
+  "text": "В администрация предприятия отмечаете , чтожий у \"Кристалла\" могут возникнуть проблемы с сырьем , так как Минэкономики РФ не выделяет заводу необходимые квотами на спирт .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "администрации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "квоты"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

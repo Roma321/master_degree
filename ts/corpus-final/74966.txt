@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , сказало Садчиками , посольство Италии пока так и не получило запрошенных на летоподкрепления консыльского отдела .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "запрошенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Садчиков"
+    },
+    {
+      "correctReplacement": "консульского",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

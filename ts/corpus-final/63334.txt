@@ -1,0 +1,20 @@
+{
+  "text": "Генерал назвало \"фиговыми листочками миродворца\" разговор Масхадова о переговорах с федеральным центром , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "разговоры"
+    },
+    {
+      "correctReplacement": "миротворца\"",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

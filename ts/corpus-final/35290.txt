@@ -1,0 +1,25 @@
+{
+  "text": "24-летние выпускник филиала Московской юридического университета при Томском госуниверситете , практикант московской прокуратуры , в минувшую пятницу задержу за производство поддельных 100-рублевых купюр на свою квартире .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Московского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "24-летний"
+    }
+  ]
+}

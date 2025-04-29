@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудник милиции коло полуночи заметим подозрительную группу из трех человек , направлявшуюся к зданию ОВД .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заметили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сотрудники"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

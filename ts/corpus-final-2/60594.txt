@@ -1,0 +1,20 @@
+{
+  "text": "Лидер регионального организации \"Русское национальное единство\" Борис Паевщиков с доводах Минюста Карелии категоричкски не согласился .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "региональной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "доводами"
+    },
+    {
+      "correctReplacement": "категорически",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

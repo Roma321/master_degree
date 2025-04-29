@@ -1,0 +1,25 @@
+{
+  "text": "Лидер Северной Корей Ким Чен Ир отклонивший приглашение Презпдента Международного Олимпийского Комитета Хуана Антонио Самаранча посещённые Олимпийские Игры в Сиднее .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "посетить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Кореи"
+    },
+    {
+      "correctReplacement": "Президента",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

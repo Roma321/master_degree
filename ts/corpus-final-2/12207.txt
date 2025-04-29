@@ -1,0 +1,20 @@
+{
+  "text": "Как утверждает Тимошенко , ее муж был арестую еще 18 августов , однико ей стало известно об этом только 21 августа во второй половине дня .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "августа"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

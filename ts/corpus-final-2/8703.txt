@@ -1,0 +1,25 @@
+{
+  "text": "В результате взрыва управляемого фцгасу были ранены и доставим в госпиталь Ханкалы капитан и младший лейтенанта милиции .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "доставлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "фугаса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "лейтенант"
+    },
+    {
+      "correctReplacement": "фугасу",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В ближайшее время в Узбекистан вылетевшие три самолета МЧС России для бурений пожара на комбинате по переработке газового конденсата в городе Карши Каркадарьинского района , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вылетят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тушения"
+    },
+    {
+      "correctReplacement": "тушений",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

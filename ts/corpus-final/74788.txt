@@ -1,0 +1,30 @@
+{
+  "text": "Если в апрель количества владельцев кредитных карт , обслуживаемых системой CyberPlat , постановлявшее 50000 человек , то на 20 июней зарегистрировавшее уже 100000 клиентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "количество"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "зарегистрировано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "апреле"
+    },
+    {
+      "correctReplacement": "составляло",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

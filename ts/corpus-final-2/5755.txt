@@ -1,0 +1,20 @@
+{
+  "text": "Задержанный 25 июля рри попытке незаконной пересечения границы России и Азербайджана чеченец Бекхан Тахалаев на первых допросах признаюсь в соучастии в похищении людей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "признался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "незаконного"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

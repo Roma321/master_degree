@@ -1,0 +1,25 @@
+{
+  "text": "По ее данным , оборот в этом секторе рынка в прошлой году составлю 57 миллиардам долларов , и ежегодно вырастает на десктопы процентов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "correctReplacement": "десятки",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

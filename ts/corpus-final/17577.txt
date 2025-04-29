@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшнюю день , по разным оценкам , в Литве проживаю от 10 до 15 тыс . гражданина РФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "проживает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "граждан"
+    }
+  ]
+}

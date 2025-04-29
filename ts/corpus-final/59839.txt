@@ -1,0 +1,25 @@
+{
+  "text": "По данным пресс-служб пожарного ограды края , очаг возгорания находился в литейном цеху предприятия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "цехе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-службы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "пожарной"
+    },
+    {
+      "correctReplacement": "охраны",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

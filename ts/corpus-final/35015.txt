@@ -1,0 +1,25 @@
+{
+  "text": "Москофским арбитражный суд в понедельник отклоню иск нефтяных компании \"Лукойл\" к Министерству РФ по чрезвычайным ситуациям с требованием оплатить произведенные ранее поставки нефти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "correctReplacement": "Московским",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным на середину дня в воскресенье , из оздоровительного лагеря имени Гая в Ульяновской облачти с пищевом отравлением госпитализированы уже 140 детьми , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "пищевым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "детей"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

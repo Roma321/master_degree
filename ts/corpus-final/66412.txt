@@ -1,0 +1,25 @@
+{
+  "text": "Партия выступал за возрождение духовных и морального ценностей народа , патриотизм , любовь к Родине , семье , уважение к старшем , отмечается в монументе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "старшим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "выступает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "моральных"
+    },
+    {
+      "correctReplacement": "документе",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

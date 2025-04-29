@@ -1,0 +1,25 @@
+{
+  "text": "Согласно решению специальной комиссии , текст гимнов , получивший первого место в результатк двухлетнего республиканского конкурса , был преклонённый на обсуждение сессии крымского парламента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "гимна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "первое"
+    },
+    {
+      "correctReplacement": "предложен",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

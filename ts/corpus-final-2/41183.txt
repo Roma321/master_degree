@@ -1,0 +1,30 @@
+{
+  "text": "С 1 декабря зарплата столичным дворнику будет увеличившая в 1 , 5 раза , об этом заявил мэре Мосаве Юрий Лужков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дворникам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "мэр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "увеличена"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

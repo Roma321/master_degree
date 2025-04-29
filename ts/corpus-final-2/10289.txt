@@ -1,0 +1,25 @@
+{
+  "text": "У суда были сведения о том , что две бизнесмена , Николас Страчик и говард Рассел , в 1987 году предложили руководству Диснею идею оформлении парка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Диснея"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "оформления"
+    },
+    {
+      "correctReplacement": "Эдвард",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

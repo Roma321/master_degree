@@ -1,0 +1,25 @@
+{
+  "text": "У женщин в весовой категории до 63килограмм , фрмнцуженка Севирин Ванденхинд в финальном поединке одержанная победу над Шуфанд Ли из Китая и принёсшая своей стране пятую золотую медали .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "одержала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "принесла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "медаль"
+    },
+    {
+      "correctReplacement": "француженка",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

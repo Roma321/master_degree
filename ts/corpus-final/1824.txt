@@ -1,0 +1,20 @@
+{
+  "text": "Значительную помощь силовику в раскрытии и предотвращении терактов оказываат повышенный бдительность населения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "повышенная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "силовикам"
+    },
+    {
+      "correctReplacement": "оказывает",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

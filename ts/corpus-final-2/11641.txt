@@ -1,0 +1,25 @@
+{
+  "text": "Однако , уточнили в пресс-центре ОГВ на Северном Кавказе , террористы просчитаемся и подорвём частную легковая автомншину .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "подорвали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "просчитались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "легковую"
+    },
+    {
+      "correctReplacement": "автомашину",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

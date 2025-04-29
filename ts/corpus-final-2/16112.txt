@@ -1,0 +1,30 @@
+{
+  "text": "У противном случае сотрудники могут лишившиеся многочисленного преимуществ работы в государственной учреждении : форматированной пенсии , стабильной заработной платы , государственного страхования .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "государственном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "лишиться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "многочисленных"
+    },
+    {
+      "correctReplacement": "гарантированной",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

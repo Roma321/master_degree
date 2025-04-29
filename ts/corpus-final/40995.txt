@@ -1,0 +1,30 @@
+{
+  "text": "Тема продажи акций кружных российских предприятия алюминиевых промышленности подробно обсуждалось в ходе беседой с и . о . президента , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "обсуждалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "алюминиевой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "беседы"
+    },
+    {
+      "correctReplacement": "крупных",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

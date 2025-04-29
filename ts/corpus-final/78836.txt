@@ -1,0 +1,25 @@
+{
+  "text": "Между тем сообщается , что королевская дворы в последнее время стал экономить и существенно сократмвший расходы на транспорт и содержание семи королевских дворцов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "двор"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сократил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "королевский"
+    },
+    {
+      "correctReplacement": "сокративший",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

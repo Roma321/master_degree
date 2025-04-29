@@ -1,0 +1,25 @@
+{
+  "text": "По слова вице-премьера , проект бюджета рассчитан исходя из объема ВВП в размере 7 , 75 триллионов рублей , уровня инфляций 12 процентах в год , курса рубль - 30 рублей за 1 доллар США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "рубля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "инфляции"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Барае также впервые заявлю , что Ариэль Шарон , лидер партии Ликудами , также несет ответственность за вновь разгоревшийся противостояние , но подчеркнул , что это \"лишь часть картины\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Ликуд"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "разгоревшееся"
+    },
+    {
+      "correctReplacement": "Барак",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

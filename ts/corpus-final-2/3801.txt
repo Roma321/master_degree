@@ -1,0 +1,20 @@
+{
+  "text": "На место происшествия прибыли представители ГИБДД Московчкого области , спасатели Мосгорспаса и бригада Центра экстренной медицинской помощью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "помощи"
+    },
+    {
+      "correctReplacement": "Московского",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы не допустим перроризм против американцев в нашей стране и не дадим использованные нашу территорию для терроризма за рубежом\" , заявил представитель пакистанских властей , мешавший остаться неизвестному .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "неизвестным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "использовать"
+    },
+    {
+      "correctReplacement": "пожелавший",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "терроризм",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

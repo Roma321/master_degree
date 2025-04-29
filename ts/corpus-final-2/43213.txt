@@ -1,0 +1,25 @@
+{
+  "text": "Министерство трудом и социального развития рассчитываю в третьем квартале следующего года повысить минимальная размер лопаты труда (МРОТ) до 450 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "труда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "минимальный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "рассчитывает"
+    },
+    {
+      "correctReplacement": "оплаты",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

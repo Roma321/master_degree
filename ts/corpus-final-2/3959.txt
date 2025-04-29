@@ -1,0 +1,25 @@
+{
+  "text": "Перед отлетом из Япбния Клинтон заявили журналистам , что за время его отсутствия на переговоров был достигнут некоторый прогресс .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Японии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "переговорах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "Япония",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

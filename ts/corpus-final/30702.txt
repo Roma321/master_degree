@@ -1,0 +1,30 @@
+{
+  "text": "Однако в данном слущае возникает ряд вопроса , на которые необходимо умеющие достоверные ответ , считают в российском внешнеполитическом ведомстве .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "вопросов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ответы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "иметь"
+    },
+    {
+      "correctReplacement": "имеющие",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

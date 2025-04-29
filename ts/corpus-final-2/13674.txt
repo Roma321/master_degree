@@ -1,0 +1,20 @@
+{
+  "text": "Лайнеру , на борту которого находились 449 пассажиров , совершал регулярного рейсы из Лос-Анджелеса в Амстердам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лайнер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "регулярный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "рейс"
+    }
+  ]
+}

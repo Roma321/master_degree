@@ -1,0 +1,30 @@
+{
+  "text": "Чеченская лидер в заявлении , переданном AFP , утверждаю также , что сами он полностью соблюдает эти решения , отдав в этом месяце свои войскам приказе о прекращении огня в одностороннем порядке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "приказ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "своим"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Чеченский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "утверждает"
+    }
+  ]
+}

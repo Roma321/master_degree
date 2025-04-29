@@ -1,0 +1,40 @@
+{
+  "text": "По мнению наблюдателей , пребывание два высокопоставленных гостей в районе конфликту должно оказать усмиряющее воздействие на израильтян и палестинцам , которые , скорее ведающей , воздержались от эскалации насилий в это время .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "воздержатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "двух"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "конфликта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "насилия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "палестинцев"
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

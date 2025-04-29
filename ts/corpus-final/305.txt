@@ -1,0 +1,25 @@
+{
+  "text": "Местные власти сдобрившие также , что число раненых в зоной бедствиф превысила 600 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "зоне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "превысило"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "бедствия",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

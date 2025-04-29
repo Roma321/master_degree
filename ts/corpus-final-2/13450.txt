@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , по данным военной разведки , на пути в Чечню находимся крупные суммы денег , выделим международном террористом бин Ладеном командара арабских наемников Хаттабу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "выделенных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "командиру"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "международным"
+    },
+    {
+      "correctReplacement": "командира",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

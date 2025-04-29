@@ -1,0 +1,30 @@
+{
+  "text": "А Фонд Брижит Бардо , приветствуя этот акт , призвали чиновников освободить ещё 7000 несчастным зверей , кнторые продолжают содержаться в неволя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "неволе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "несчастных"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

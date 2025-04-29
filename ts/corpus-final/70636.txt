@@ -1,0 +1,25 @@
+{
+  "text": "Он пояснил , что речь идёт о председателе Аграрной партией России Михаиле Лапшине , лидере движения \"Духовное наследие\" Алексее Подберезкине и губернаторе Кемеровской области Амага Тулееве , которые \"порвали связь с НПСР\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Амане"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "партии"
+    },
+    {
+      "correctReplacement": "Амана",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

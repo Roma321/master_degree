@@ -1,0 +1,30 @@
+{
+  "text": "Снимки Лео Блэра были сделаны фотографом еженедельного лондонской газет во время состоявшейся в минувшую субботу церемонии крещения младенца , которая прошла в минувшую субботу в католического церкви Св . Иоанна Рыбаке в Седжфилде , графство Дэрхэм .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Рыбака"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "фотографами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "католической"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "еженедельной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "газеты"
+    }
+  ]
+}

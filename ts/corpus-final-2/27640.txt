@@ -1,0 +1,30 @@
+{
+  "text": "Во вторник американский заключённого , отбывавший срок за убийство в Клинтоновской тюрьме , одной мз самых охраняемых в штате Нью-Йорк , захватил в заложницы журналистку , которая пришла взять у него интервью для своя телепрограммы , сообщал CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 36,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заключенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отбывающий"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

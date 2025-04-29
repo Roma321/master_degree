@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник президент США встретился с премьер-министра индиры Атаюом Бехари Ваджпаи , сообщаемый CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "премьер-министром"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Индии",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Аталом",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

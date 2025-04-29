@@ -1,0 +1,20 @@
+{
+  "text": "Его обосновал своё решение заключением британскиъ врачей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "свое",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "британских",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

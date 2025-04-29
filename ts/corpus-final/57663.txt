@@ -1,0 +1,25 @@
+{
+  "text": "Генерал сообщил , кто в этого группировке много наемников , особенно из Афганистана , и существующий реальная опасность прорыва сепаратистов на территорию Россией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

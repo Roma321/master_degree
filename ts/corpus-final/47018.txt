@@ -1,0 +1,30 @@
+{
+  "text": "Вслед за канцлером Германии Герхарду Шредером , присланным Путину поздравительное письмо , другие политические лидеры ближнего и дальнего зарубежья в личного посланиях новому российской президенту и в заявлениях для прессы приветствовали победу Путина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "российскому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "приславшим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Герхардом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "личных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "приветствуют"
+    }
+  ]
+}

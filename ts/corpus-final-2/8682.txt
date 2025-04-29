@@ -1,0 +1,20 @@
+{
+  "text": "Российский теннисистом Марат Сафин выигравший крупный турнир серии Masters к Торонто .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "теннисист"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным совместному опроса Гэллапа , CNN и The USA Today , проведенного накануне телеобращения Гора , лишь 42 процентов американцев поддерживающие позицию демократам по отношению к выборам во Флориде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "поддерживают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "демократов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "совместного"
+    }
+  ]
+}

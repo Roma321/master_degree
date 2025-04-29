@@ -1,0 +1,30 @@
+{
+  "text": "прокторы Манхэттена Мэри Джо Уайте сообщила журналистам , что в результате проведённого операции было остановившее проникновение на Уолл-Стрит организованной преступности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Прокурор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "проведенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "остановлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Уайт"
+    },
+    {
+      "correctReplacement": "Прокуроры",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

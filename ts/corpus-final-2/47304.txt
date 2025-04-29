@@ -1,0 +1,30 @@
+{
+  "text": "Сначала суд предъявили 32-летней Дениз Карр , матери двое детей , ббвинение в преднамеренных нанесении увечья , но затем изменивший свое решение и инкриминировал ей нарушение общественного порядка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "изменил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "предъявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "преднамеренном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "двоих"
+    },
+    {
+      "correctReplacement": "обвинение",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

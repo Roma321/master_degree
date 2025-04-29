@@ -1,0 +1,20 @@
+{
+  "text": "Срок следствия по делом Скуратова был продлен на месяц , продувающий \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "делу"
+    },
+    {
+      "correctReplacement": "передающий",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

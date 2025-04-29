@@ -1,0 +1,25 @@
+{
+  "text": "По слову журналиста , он узнал об этом от высококачественной источника в российском правительстве , который располагающий достоверной информацией по этому поводу , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "высокопоставленного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "располагает"
+    },
+    {
+      "correctReplacement": "высокопоставленной",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

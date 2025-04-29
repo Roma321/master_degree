@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники милиции , ФСБ и саперы исследовали эти дом более двух гаснувших и ничего не обнаружим , - сообщаемый РИА \"Новости\" со ссылкой на сотрудников ОВД \"Чертаново-Южное\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "часов",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

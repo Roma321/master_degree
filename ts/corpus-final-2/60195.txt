@@ -1,0 +1,25 @@
+{
+  "text": "Ожидался , что цена бикини на аукционе Christie's , которая прошёл в Лондоне 14 февраля , достигший 75 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "достигнет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

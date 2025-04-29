@@ -1,0 +1,30 @@
+{
+  "text": "Обоим пилотам фронтового бомбардировщика - командиру звену , вредному летчику первой класса майору Леониду Бездеткину и летчику-инструктору , командирам полка летчику-снайперу полковникам Юрию Баркалову - удалось катапультироваться .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "командиру"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "полковнику"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "звена"
+    },
+    {
+      "correctReplacement": "военному",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

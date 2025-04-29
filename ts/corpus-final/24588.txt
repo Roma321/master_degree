@@ -1,0 +1,30 @@
+{
+  "text": "По слова Райкова , выдвижение Геннадия Селезнева единым кандидатом от три объединений на должность спикера произойдет , если ситуация с выборами председателя нового Думы зашетший в тупик .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "новой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "трех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "зайдет"
+    },
+    {
+      "correctReplacement": "зашедший",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

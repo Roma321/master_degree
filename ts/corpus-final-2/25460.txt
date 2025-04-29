@@ -1,0 +1,20 @@
+{
+  "text": "самоед следовало в Иркутчка из Москвы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "следовал"
+    },
+    {
+      "correctReplacement": "Самолет",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Иркутска",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

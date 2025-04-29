@@ -1,0 +1,25 @@
+{
+  "text": "В прошлой году эта цифра упал до 6 , 5 миллиардом долларов , однако в этом году опять пошла тенденция к увеличению , отметивший Макаров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "упала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлом"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В общем , все назовём снбытия века можно объединить в четыре группы : войн (26 процентов) , смена социально-политического строя (19 процентов) , научно-технические посинения (14 процентов) , катастрофы (5 процентов) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "войны"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "названные"
+    },
+    {
+      "correctReplacement": "достижения",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "события",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

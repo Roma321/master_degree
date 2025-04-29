@@ -1,0 +1,20 @@
+{
+  "text": "Эксперты считает , что это ьыл терактом , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "теракт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

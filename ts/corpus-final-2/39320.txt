@@ -1,0 +1,35 @@
+{
+  "text": "Всякий разы уголовной делу не даём ход , потому что в ситуацию вмешивалрсь богатые поклонники модели , которые плаченные большие деньги за то , чтобы об инциденте \"забыли\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "давали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "моделей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "уголовному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "платили"
+    },
+    {
+      "correctReplacement": "вмешивались",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

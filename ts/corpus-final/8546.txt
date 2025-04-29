@@ -1,0 +1,30 @@
+{
+  "text": "Правительство США подписало в среду документ о выделениях 100 миллиардов долларов на решение технических проблемах , которые может возникнуть при наступлении 2000 грда , сообщаемый газета The New York Times .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "проблем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "выделении"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

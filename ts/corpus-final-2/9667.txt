@@ -1,0 +1,20 @@
+{
+  "text": "По данным американских разведчиков , поставщиков необходимых материалов находятся в России и в Китае , а поставки происходят через очередники в третьих странах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "посредников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "поставщики"
+    },
+    {
+      "correctReplacement": "посредники",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

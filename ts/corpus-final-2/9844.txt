@@ -1,0 +1,25 @@
+{
+  "text": "Бывшие губернатор японского города Осака , в прошлом один из известнейших политиков Япония , приваривший судом к 18 месяцам лишения свободы за сексуальные домогательства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Японии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "correctReplacement": "приговоривший",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

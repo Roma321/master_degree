@@ -1,0 +1,25 @@
+{
+  "text": "20 июня около 13 часов в здании Московских арбитражного суда объявившая эвакуация сотрудников и посетителей в связи с поступим сообщением о заложенном в здании взрывном устройздве .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "поступившим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Московского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "объявлена"
+    },
+    {
+      "correctReplacement": "устройстве",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

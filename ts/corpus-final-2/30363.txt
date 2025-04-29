@@ -1,0 +1,25 @@
+{
+  "text": "Рушайло также отметил , что число топких преступления в указанная период сократилось почти на 9 процентов по сравнению с прошлогодними показателями , а кражи , грабежей и разбойных нападений стало меньше на 10 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "краж"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "указанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "преступлений"
+    },
+    {
+      "correctReplacement": "тяжких",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

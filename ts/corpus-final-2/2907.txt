@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время проезды в казённом транспорте стоит 2 рубля , в метро - 3 рубля , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проезд"
+    },
+    {
+      "correctReplacement": "наземном",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

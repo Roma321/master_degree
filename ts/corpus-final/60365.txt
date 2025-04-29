@@ -1,0 +1,20 @@
+{
+  "text": "Второй пилот взяо на себя управление автобусу и успешно посадил его в тайбэйском аэропорту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "аэробусом"
+    },
+    {
+      "correctReplacement": "аэробусу",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "взял",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

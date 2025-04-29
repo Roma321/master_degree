@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники ведомственной военизированной охраны Челябинских тракторного завода предохранённые в этом году хищений акционерного собственности на 3 миллиона 665 тысяч рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "акционерной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "предотвратили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Челябинского"
+    },
+    {
+      "correctReplacement": "предотвращённые",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

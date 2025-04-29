@@ -1,0 +1,30 @@
+{
+  "text": "Комиссии по расследованию причин произошедшего в конце июля катастрофы сверхзвуковой лайнера Concorde удалась установить происхождение на взлётной полосе куска металла , приветшего к разрыву колеса шасси самолета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "произошедшей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "сверхзвукового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "взлетной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "приведшего",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

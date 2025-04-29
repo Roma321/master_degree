@@ -1,0 +1,25 @@
+{
+  "text": "За первые семь месяцев текущей года сянганские правоохранительные органы в общего сложности конвоировавшие почти 9 миллионов ноддельных компакт-дисков на сумму 20 , 5 миллионов американских долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "конфисковали",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "поддельных",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

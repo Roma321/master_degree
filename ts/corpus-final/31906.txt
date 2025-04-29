@@ -1,0 +1,30 @@
+{
+  "text": "В соответствии с распоряжением , подпишу мэром Москвы Лрием Лужковым , за газ при наличии газовой плиты и центральной горячего водоснабжения придёшься платить 3 рубля 20 копеек с людей в месяц .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "придется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "центрального"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "подписанным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "человека"
+    },
+    {
+      "correctReplacement": "Юрием",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В октябре 1999 года отделе дознания Владивостокской таможен было вооружившее уголовное дела по факту незаконного экспорта сотрудниками Тихоокеанского океанологического института в Китай телеметрической приемной системы ТПС-8 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "таможни"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "отделом"
+    },
+    {
+      "correctReplacement": "возбудившее",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако , как сообщает DrudgeReport , президент США заявил на эты неделе , что ему нравится идея поделиться с другими странами новой технологиями , чтобы предотвратить новый виток гонки вооружений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "технологией"
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

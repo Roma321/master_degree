@@ -1,0 +1,25 @@
+{
+  "text": "Во турники в 1 : 06 по московскому времени с космодромов Байконур был осуществлён запуск ракеты-носителя \"Протон-К\" с российским космическим аппаратом связи \"Сесат\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "космодрома"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "осуществлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "вторники",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

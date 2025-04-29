@@ -1,0 +1,25 @@
+{
+  "text": "Свое требование Фонды мотивирует тем , что Клинтон дал ложныепоказания во время надругательств дела о его связях с бывшейстажеркой Белого дома Моникой Левински и фсячески мешал тогда правосудию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Фонд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "разбирательства"
+    },
+    {
+      "correctReplacement": "разбирательств",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "всячески",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

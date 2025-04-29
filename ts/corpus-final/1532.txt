@@ -1,0 +1,20 @@
+{
+  "text": "По донным РАО , сейчас восстановительные работы ведущиеся во всеми пострадавших районах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "ведутся"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

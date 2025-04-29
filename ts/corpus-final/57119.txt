@@ -1,0 +1,25 @@
+{
+  "text": "Уникальное случай произошел в понедельник а историй мировых футбола : команда отказалась выйти на официальный матч .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "мирового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "истории"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Уникальный"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

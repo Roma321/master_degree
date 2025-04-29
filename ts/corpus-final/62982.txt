@@ -1,0 +1,20 @@
+{
+  "text": "После церемоний принцесса Анна тосетили визовый отдел и детский сад посольства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "церемонии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "посетила"
+    },
+    {
+      "correctReplacement": "посетили",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

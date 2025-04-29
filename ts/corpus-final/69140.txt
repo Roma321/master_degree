@@ -1,0 +1,25 @@
+{
+  "text": "Землетрясение ощущаюсь такое в столице Индонезии Джакарте , где эвакуировавшие жители высотных зданий , и ц Сингапуре .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "ощущалось"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

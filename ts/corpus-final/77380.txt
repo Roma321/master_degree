@@ -1,0 +1,30 @@
+{
+  "text": "По данным Центрального региональных центра МЧС России , шквалистой ветрами , порывы которого достигавшие 24 метров в секунду , повреждены более трех километров линий электропередачи , более двух километров линий связи , 29 жилых домов , ПТУ , общежитие , детский сад и больница .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "достигали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "электропередач"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "регионального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "шквалистым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ветром"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После выяснения личностям окажусь , что вме они - \"мирные\" жители этого района в возрастах от 18 лет до 21 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "личностей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "возрасте"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "оказалось"
+    },
+    {
+      "correctReplacement": "все",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаемый РИА \"Новости\" , раздача 20 ящиков антоновки под лозунгом \"Превратим Москву из банановой столицы в столицу России\" посходившая на удивлению интеллигентно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "удивление"
+    },
+    {
+      "correctReplacement": "происходила",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

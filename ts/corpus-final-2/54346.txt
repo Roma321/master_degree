@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что 13 декабрю в Петербурге был убит директора другой охранных фирмы - \"Легион 94\" - Владимир Иванчишин и его водитель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "охранной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "директор"
+    }
+  ]
+}

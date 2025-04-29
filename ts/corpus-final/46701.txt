@@ -1,0 +1,25 @@
+{
+  "text": "ФБР провёл операцию совместно с британскими спецслужбам , полицией Канады , Интерполом , специалистами по интернет-безопасности , представителями банковского бизнеса и компаний по работа с кредитными каргами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "спецслужбами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "провело"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "работе"
+    },
+    {
+      "correctReplacement": "картами",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

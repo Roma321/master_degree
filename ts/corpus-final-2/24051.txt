@@ -1,0 +1,30 @@
+{
+  "text": "Помимо Рино советчиками по иску выступят целую ряд лиц , начиная от федеральных агента и заканчивая президентом США Билле Клинтоном .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Биллом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "целый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "агентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "выступит"
+    },
+    {
+      "correctReplacement": "ответчиками",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Решение принявшее с десятикратным перевесом голосов в пользу сторонников бюджета : за его принятие проголосовали 122 сенатора , против - 12 , еще двое воздержафшиеся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "воздержались"
+    },
+    {
+      "correctReplacement": "воздержавшиеся",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

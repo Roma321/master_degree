@@ -1,0 +1,25 @@
+{
+  "text": "Пока она не обращалась к Блэрам в идеей продажи доменов с именем их ребёнок , однако прибегавшее , что если продаст их , то половину денег отдаст на благотворительность .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "ребенка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "пообещала"
+    },
+    {
+      "correctReplacement": "пообещало",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

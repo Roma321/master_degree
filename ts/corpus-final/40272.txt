@@ -1,0 +1,25 @@
+{
+  "text": "В преддверии Международного женского дня исполняемый обязанности президентов РФ Владимир Путин вручил в Екатерининском зале Кремля высшие государственные награды 20 выдающимися костинским женщинам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "исполняющий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "выдающимся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "российским",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

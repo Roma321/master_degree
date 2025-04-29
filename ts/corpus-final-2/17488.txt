@@ -1,0 +1,25 @@
+{
+  "text": "Однако в Испанию россиянин пробудет недолгий : его уже ждёт в Ташкенте , где стартовало традиционный \"Кубок Президента\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ждут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Испании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "стартовал"
+    },
+    {
+      "correctReplacement": "недолго",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

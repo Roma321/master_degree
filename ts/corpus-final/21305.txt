@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , 446 журналистов были арестованы во время исполнения своей работ , более 600 подвергнувшиеся нападению , 357 запретившие занимвться профессиональной деятельностью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "подверглись"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "запретили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "работы"
+    },
+    {
+      "correctReplacement": "заниматься",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

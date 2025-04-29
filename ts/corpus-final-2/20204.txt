@@ -1,0 +1,40 @@
+{
+  "text": "Из ними за Альбертов Горе проголосуем 57 процентов , а за его основного соперника - кандидата республиканцев Джорджа Буша-младшего - 43 процента респондентов , сообщил на состоюсь во турник в Москве пресс-конференции президент \"Новокома\" Плексей Кошмаров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "состоявшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Гора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Альберта"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "Алексей",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

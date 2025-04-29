@@ -1,0 +1,35 @@
+{
+  "text": "Торжественное закрытие конкурса и вручение призов состоюсь 29 декабря в Большом зале Московского консерватории , церемония завершится концертами лауреатов в сопровождении Государственного академической Большого симфонических оикестра под управлением Владимира Федосеева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "состоится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "симфонического"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "академического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "концертом"
+    },
+    {
+      "correctReplacement": "оркестра",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

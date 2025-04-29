@@ -1,0 +1,20 @@
+{
+  "text": "Набюлюдатели отмечают , что это самое жестокое преступление подобной роду за послужные пять лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "рода"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "подобного"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

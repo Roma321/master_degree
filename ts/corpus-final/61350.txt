@@ -1,0 +1,25 @@
+{
+  "text": "Цены на нефть превысившие максимальный предел в 28 долларов за баррель , установленный ОПЕК , и вплотную подобрались к отметке в 30 долларов за апрели , как это уже было в марту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "марте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "превысили"
+    },
+    {
+      "correctReplacement": "баррели",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

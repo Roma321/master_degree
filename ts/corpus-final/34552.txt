@@ -1,0 +1,45 @@
+{
+  "text": "В четверг , 17 февраля , в день официального начала продаж ОС Windows 2000 , московское представительство компанпи Microsoft распространю официального заявление о тех , что в версии программы для России не будешь защиты с пользование сильной криптографии , сообщаешь агентства \"Алгоритм\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 39,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "официальное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "распространило"
+    },
+    {
+      "correctReplacement": "использованием",
+      "type": "paronym",
+      "wordNumber": 35
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

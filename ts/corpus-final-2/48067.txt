@@ -1,0 +1,20 @@
+{
+  "text": "До 8 декабря экипажа корабля выполнял программу своих работ , запланированнбх в рамке полета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "экипаж"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "рамках"
+    },
+    {
+      "correctReplacement": "запланированных",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "каб доложила командир корабля американская астронавт Терренс Уилкатт , отход челнока от станции прошел штатно , без замечаний . Комплексы Atlantis-МКС в эти момент как раз находился над российским Центром управления полетами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "доложил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Комплекс"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "американский"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

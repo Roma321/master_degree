@@ -1,0 +1,25 @@
+{
+  "text": "Он сообщило , что 34 процента семей с доходом менее 600 рублей в месяцы не могли быть вовлечены в прогресс ипотеки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "процесс",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр сообщил , что предательство на заседании 1 февраля намерено обсудить ситуации с зимним отопительным сезоном самой детальной образом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ситуацию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "детальным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "самым"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

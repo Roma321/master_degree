@@ -1,0 +1,25 @@
+{
+  "text": "В рамках заседания подписаны соглашения о поставках в Словакию нефтепродуктов из Россию , о взаимной обучении студентов и протокол о сотрудничестве между малым и средним предприятиями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "средними"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "малыми"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "взаимном"
+    }
+  ]
+}

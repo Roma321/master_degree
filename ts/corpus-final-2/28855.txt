@@ -1,0 +1,25 @@
+{
+  "text": "Реакция Барака на предложение Аннана некоторое время оставалась общеизвестной , но ближе к середине дня представитель ООН сообщила , что премьер Израиль также согласились приехать в Египет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "согласился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "неизвестной",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме толо , в офис московского предствительства \"АвтоВАЗа\" сотрудники налоговой полиции обнаружили \"жучки\" и спецтехнику для обнаружения подчёркивающих устройств , заявили журналистам представителях ФСНП .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "офисе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "представители"
+    },
+    {
+      "correctReplacement": "подслушивающих",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

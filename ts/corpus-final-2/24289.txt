@@ -1,0 +1,30 @@
+{
+  "text": "Однако , Умаханов смог сравнять счет , а за несколько секунд до окончания поединка перевело сопертика в партер и полученный победный балу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "балл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "перевел"
+    },
+    {
+      "correctReplacement": "баллу",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "соперника",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

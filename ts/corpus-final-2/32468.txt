@@ -1,0 +1,20 @@
+{
+  "text": "Пола Джонс обрела известность в 1996 боду , когда республиканца Боб Доул пыталась с ее помощью обойти Билла Клинтона на президентских выборах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "республиканец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "пытался"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

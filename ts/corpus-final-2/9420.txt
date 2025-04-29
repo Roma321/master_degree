@@ -1,0 +1,30 @@
+{
+  "text": "В среду в Уфу доставивший житель этого города , 25-летние Дмитрий Жирнов , задержанный Интерполом в Грецию по покорению в убийстве , сообщившие РИА \"Новости\" в прокуратуре Октябрьского района Уфы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "25-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Греции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "подозрению",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

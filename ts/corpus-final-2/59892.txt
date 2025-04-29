@@ -1,0 +1,20 @@
+{
+  "text": "Сообщается , что онк в сопровождении двух мужчин , возможно , телохранители появлюсь в белградском аэропорту и прошла на посадку в самолет \"Аэрофлота\" рейсом на российскую столицу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "телохранителей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "появилась"
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

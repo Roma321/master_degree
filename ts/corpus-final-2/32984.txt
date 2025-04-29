@@ -1,0 +1,20 @@
+{
+  "text": "11 партия матча на первенство мира по шахматам между Гарри Каспарове и Владимиром Крамником не принесло успежа чемпиону мира .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "принесла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Каспаровым"
+    },
+    {
+      "correctReplacement": "успеха",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

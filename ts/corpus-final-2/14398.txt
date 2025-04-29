@@ -1,0 +1,20 @@
+{
+  "text": "В среду в поюмосковной Ногинсках сотрудники РУБОП задержали 44-летнего военнослужащего спасательного центра МЧС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "подмосковном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Ногинске"
+    },
+    {
+      "correctReplacement": "подмосковной",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Англии продолжается нравоучение , которое называем сильнейшим за последних 50 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "последние"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "называют"
+    },
+    {
+      "correctReplacement": "наводнение",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

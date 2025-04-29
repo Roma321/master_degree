@@ -1,0 +1,20 @@
+{
+  "text": "Ремонт сделано , и Дмитрий обращается в риэлторского форму .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "риэлторскую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сделан"
+    },
+    {
+      "correctReplacement": "фирму",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

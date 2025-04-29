@@ -1,0 +1,25 @@
+{
+  "text": "Между тем в данное монумент реальная власть в стране принадлежит не Национальной ассамблеях , а Революционному совету , возглавляемому Саддамами Хусейном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Саддамом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ассамблее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "данный"
+    },
+    {
+      "correctReplacement": "момент",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

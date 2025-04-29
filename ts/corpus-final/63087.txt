@@ -1,0 +1,20 @@
+{
+  "text": "Сильный гроза с ураганной ветром обрушилась накануне на Буэнос-Айрес и соседние голоды .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сильная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ураганным"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

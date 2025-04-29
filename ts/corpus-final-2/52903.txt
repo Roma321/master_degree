@@ -1,0 +1,30 @@
+{
+  "text": "В среды президенты США Билл Клинтон провело встречу с ленами делегаций Израиля и Палестинской автономии , сообщал The Jerusalem Post .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "членами",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

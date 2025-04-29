@@ -1,0 +1,20 @@
+{
+  "text": "\"Передвижки происходят в рамках корпоративное развития и с учетом требований , касающихсф развития информационной политик холдинга\" , подтвердили в РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "корпоративного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "политики"
+    },
+    {
+      "correctReplacement": "касающихся",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

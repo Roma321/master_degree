@@ -1,0 +1,25 @@
+{
+  "text": "В субботе ночью в Москве на Сухаревской пощады нетрезвый мужчине захватил будку регулирования дорожным движением , сообщаемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "correctReplacement": "площади",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

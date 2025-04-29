@@ -1,0 +1,25 @@
+{
+  "text": "Кошман провел совещания с главами районного админисорациями , встретился со старейшинами , посетил ряд больницы и школ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "администраций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "районных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "больниц"
+    },
+    {
+      "correctReplacement": "администрациями",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

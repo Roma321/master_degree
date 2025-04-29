@@ -1,0 +1,25 @@
+{
+  "text": "Михал Зитек приговорю к лишению свобод сроком на 3 года условно с отсрочкой на 5 лет и штрафу в размеру двух миллионов крон (около пятидесятого тысяч долларов) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "размере"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "свободы"
+    },
+    {
+      "correctReplacement": "пятидесяти",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Элизабет Доул , кандидат на пост прецедент США от Республиканской партии , объявила в среду о своё решении прекратить предвыборное кампанию и выйти из президентских гонки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "предвыборную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "президентской"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

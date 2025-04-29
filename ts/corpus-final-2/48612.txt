@@ -1,0 +1,25 @@
+{
+  "text": "По населению представителей ФБР , некоторые из них сломавшие , но остальных находятся в полной исправности и вскоре лаборатория ФБР смогу восстановить их содержание .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "сломаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "остальные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сможет"
+    },
+    {
+      "correctReplacement": "заявлению",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

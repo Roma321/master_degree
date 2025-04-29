@@ -1,0 +1,20 @@
+{
+  "text": "Новый чат поддерживает русский язык , то ешь общение возможно с люборо мобильного телефона со встроенного кириллицей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "встроенной"
+    },
+    {
+      "correctReplacement": "любого",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

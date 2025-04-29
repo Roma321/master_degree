@@ -1,0 +1,30 @@
+{
+  "text": "Одновременно гердый вице-премьер заявил , что уже в начале июню начнется обмен обязательства по урегулированию долга бывшаго СССР перед Лондонского клубом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "обязательств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Лондонским"
+    },
+    {
+      "correctReplacement": "первый",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "бывшего",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

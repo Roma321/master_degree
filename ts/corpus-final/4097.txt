@@ -1,0 +1,25 @@
+{
+  "text": "пахота представителей Конгресса США , вняв жалобам демократов и представителей потребительских групп , проголосовали против одобрения Палату закона об электронной потписи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Палатой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "проголосовала"
+    },
+    {
+      "correctReplacement": "Палата",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "подписи",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

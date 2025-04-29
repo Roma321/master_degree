@@ -1,0 +1,30 @@
+{
+  "text": "Следователи подозревают , чро через счета этой фирмы проходили средства , выделившие России в 1998 году МВФ . Однако пока обыск , начавшиеся 10 дней назад , никаких результатов не принесли : этот фирма , несмотря на проходящие через нее огромные финансовые потоки , существовало фактически лишь на бумаге .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 44,
+      "correctReplacement": "существовала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "обыски"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выделенные"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

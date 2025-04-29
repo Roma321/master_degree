@@ -1,0 +1,20 @@
+{
+  "text": "Вечером 7 февраля в Белграде было совершу покушение на сторонника президентов Милошевича , министра обороны Югославии Павле Булатовича , сообщаете агентство Associated Press и информационная слуба ВВС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "президента"
+    }
+  ]
+}

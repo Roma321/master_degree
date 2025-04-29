@@ -1,0 +1,30 @@
+{
+  "text": "У каспийских олигархов - патриотов нашей космонавтик есть шанс оставить музейное экспонат на родине , отмечаешь НТВ З",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "космонавтики"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "музейный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Статистику аварий и катастроф , связанных с эксплуатациями этих машин , свидетельствуешь о том , что именно посадка сопряжена с наибольшим рискнм .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "эксплуатацией"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Статистика"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "correctReplacement": "риском",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

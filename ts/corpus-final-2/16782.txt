@@ -1,0 +1,35 @@
+{
+  "text": "В пятницу на Саммите тысячелетия в Нью-Йорке во время выступления президента Судану Омаре Хаспна аль-Башира один из переводчика cбившийся во время перевода и , не сдержавшись , нецензурный выругался в микрофон , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Омара"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "cбился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Судана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "переводчиков"
+    },
+    {
+      "correctReplacement": "нецензурно",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "Хасана",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

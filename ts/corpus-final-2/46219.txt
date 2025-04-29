@@ -1,0 +1,25 @@
+{
+  "text": "Пакеты в 50 миллиона обыкновенных акций составляемый примерно 6 , 771 процента от общего числа общественных акций и около 6 , 131 процента от уставного капитала компании , сообщает AK&M .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Пакет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "обыкновенных",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

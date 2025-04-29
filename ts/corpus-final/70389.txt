@@ -1,0 +1,30 @@
+{
+  "text": "Однако увеличения поставок нефти в июнь маловероятно , поскольку вскоре (21 июня) состоится квартальная конференция стран ОПЕК , где предстоит решить вопрос о поставки на тревиснувшем квартал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "увеличение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "третий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "июне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "поставках"
+    },
+    {
+      "correctReplacement": "третьем",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

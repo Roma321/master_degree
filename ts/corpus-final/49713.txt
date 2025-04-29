@@ -1,0 +1,15 @@
+{
+  "text": "Россия стало 16-й страной , поставившей свою подпись под зтим документом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "этим",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Доходами в бюджет достигли 221 миллиардера рублей , или 27 процентам от годового плана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Доходы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

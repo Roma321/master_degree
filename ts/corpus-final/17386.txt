@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , белорусская президент отмечу , что при подписании союзного договора не было и речи о возможном продлении полномочий Бориса Ельцина : \"Ельцин меня об этом не просил\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "белорусский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отметил"
+    }
+  ]
+}

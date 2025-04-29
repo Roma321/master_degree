@@ -1,0 +1,25 @@
+{
+  "text": "Внешний управляющий АО ЛМЗ Евгений Гуляев зазванный , что администрация завода взяла на себя обязательства выплатить заработную плата в полном объеме в ближайшие день .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "плату"
+    },
+    {
+      "correctReplacement": "заявленный",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

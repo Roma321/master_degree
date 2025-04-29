@@ -1,0 +1,25 @@
+{
+  "text": "высочайший премьер-министр Украины Павел Лазаренко , находящийся в заключению в США , передам через своих адвокатов признание в той , что он \"отмыл\" через швейцарские банки девять миллионов долларов похищенных средств , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "заключении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "передал"
+    },
+    {
+      "correctReplacement": "Бывший",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

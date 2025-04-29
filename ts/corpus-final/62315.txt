@@ -1,0 +1,25 @@
+{
+  "text": "Генеральный директор крупнейшем в РФ производителем алюминия , АО \"Красноярский алюминиевый завод\" (КрАЗ) , Алексей Баранцев заявил об уходе со своей поста , сообщает РБК сн ссылкой на заводские источники .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "крупнейшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "производителя"
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

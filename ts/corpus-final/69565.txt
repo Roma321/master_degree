@@ -1,0 +1,35 @@
+{
+  "text": "HavenCo обещаю предоставить любого компании \"совершенно секретный\" почтовый Linux-сервер по цене 1500 доклады за месчцу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "обещает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "любой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "месяц"
+    },
+    {
+      "correctReplacement": "доллары",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "месяцу",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

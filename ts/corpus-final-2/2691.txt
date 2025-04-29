@@ -1,0 +1,40 @@
+{
+  "text": "Все ракетные программе КНДР носят исключительно мирный характер , отметивший российским президент со слов Ким Чен Иров . На встрече корейским лидер изъявленный также , что \"Северная Корея вообще готова пользоваться исключительно ракетными технологиями других государств , если ей предоставят для мирного исследования космоса ракетоносители\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Ира"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "программы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "корейский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "заявленный",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

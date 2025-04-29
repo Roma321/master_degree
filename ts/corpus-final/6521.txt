@@ -1,0 +1,25 @@
+{
+  "text": "Подписаны два соглашения - о сотрудничество военных ведомств двух стран на 2000 году и о соперничестве по вопросам охраны окружающей сред .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сотрудничестве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "среды"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "год"
+    },
+    {
+      "correctReplacement": "сотрудничестве",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

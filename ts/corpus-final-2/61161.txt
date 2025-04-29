@@ -1,0 +1,25 @@
+{
+  "text": "Рогозин отметил , что в 2001 году делегация России заявлен как новая и с правое дня работы сессии сможет голосовать по любого проблеме кроме вопроса о своих полномочиях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "любой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "первое",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

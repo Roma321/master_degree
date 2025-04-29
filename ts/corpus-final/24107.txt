@@ -1,0 +1,25 @@
+{
+  "text": "Потеряв в районе горохи Муэла под Сарагоссойуправление на опасном крутом повороте , автобус на большойскорости вылетел с автостраду в кюветах и перевернулись .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "кювет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "перевернулся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "автострады"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

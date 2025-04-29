@@ -1,0 +1,30 @@
+{
+  "text": "Как выяснился , украденные мемориальные плиты подростках сданные в один из близлежащих пунктов приема цветных металла за 1200 рублей , причем иж приняли нелегально .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сдали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "металлов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "подростки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "correctReplacement": "их",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

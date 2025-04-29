@@ -1,0 +1,30 @@
+{
+  "text": "Исполняющий обязанности президента россе Владимир Путин своему указомосвободимый Дмитрий Васильевы от должности председателяФедеральной комиссии пг рынку ценных бумаг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Васильева"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "указомосвободил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "своим"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

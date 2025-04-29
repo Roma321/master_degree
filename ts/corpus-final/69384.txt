@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье в чеченском селе Гехи военнослужащими федеральных сил был взят в плены полевого командир Сараев , сообщил \"Интерфаксу\" помощника президента России Сергей Ястржембский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "помощник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "полевой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "плен"
+    },
+    {
+      "correctReplacement": "Вараев",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

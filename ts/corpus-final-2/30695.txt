@@ -1,0 +1,20 @@
+{
+  "text": "По факту преступления возбуждено уголовное дело , велось слетздвия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "следствие"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "ведется"
+    },
+    {
+      "correctReplacement": "следствия",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

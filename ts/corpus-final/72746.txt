@@ -1,0 +1,25 @@
+{
+  "text": "За прошедшие суткам в различных районах Чечни сотрудницами милиций проведено 35 оперативно-профилактических и розыскными мероприятий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сутки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "розыскных"
+    },
+    {
+      "correctReplacement": "сотрудниками",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

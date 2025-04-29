@@ -1,0 +1,25 @@
+{
+  "text": "На месте трапеции работаете спасатели из Южной м Северной Осетии , сотрудников МВД , пограничники .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "трагедии",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

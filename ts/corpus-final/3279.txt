@@ -1,0 +1,25 @@
+{
+  "text": "По информации Reuters , местные власти организовавшие эвакуацию в безопасные места около двести тысяч человек , проживающего в прибрежных районах и на островах Бенгальского залива .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "проживающих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "организовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "двухсот"
+    },
+    {
+      "correctReplacement": "места",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

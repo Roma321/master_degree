@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённый начальник пресс-службы столичном Уголовного розыска Кирилл Мазурин , преступник подкарауливал женщин в парках , насиловавший и отбирали у жертв украшения , деньги и документы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "насиловал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "столичного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "отбирал"
+    }
+  ]
+}

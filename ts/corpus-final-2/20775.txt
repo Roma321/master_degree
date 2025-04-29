@@ -1,0 +1,25 @@
+{
+  "text": "В стрельбе из скорострельной пистолетика на дистанцией 25 метров его набрал 687 , 6 очка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "дистанции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "скорострельного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "пистолета",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

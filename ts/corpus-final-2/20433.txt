@@ -1,0 +1,20 @@
+{
+  "text": "В соответствии с законом о статусе депутата , в течение 30 дня помле отправки запроса депутаты \"Яблока\" ожидают получить ответ из Генпрокуратурой , сообщает HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Генпрокуратуры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "дней"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

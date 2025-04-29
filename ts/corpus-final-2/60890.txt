@@ -1,0 +1,20 @@
+{
+  "text": "В американском штате Юта потерпел крушения небольшой двухъядерный самолет , который рухнул в Большое Соленое озеро , сообщаю СNN .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "крушение"
+    },
+    {
+      "correctReplacement": "двухмоторный",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На борту Atlantis'a нахожусь экипаж из семи человек , в том числе российская космонавт Юрий Усачев , который ранее дважды работал на орбитальной станции \"Мир\" и шесть раз выходили в открытый космос .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "выходил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "находился"
+    }
+  ]
+}

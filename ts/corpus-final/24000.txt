@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , приоритеты распространяются на страны СНГ , а также на союзники и стратегических партнеров - Китай , Индия и другие страны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Индию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "союзников"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

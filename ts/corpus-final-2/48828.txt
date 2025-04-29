@@ -1,0 +1,20 @@
+{
+  "text": "В нескольких городам штата Мичиган было объявлено чрезвычайное положение и остановлено движение транспорта для той , чтобы снегоуборочные малины могли расчистить улицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "городах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

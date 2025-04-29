@@ -1,0 +1,20 @@
+{
+  "text": "Общий долг России перед мвд оценивался в 12 миллиардов долларов , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "correctReplacement": "МВФ",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

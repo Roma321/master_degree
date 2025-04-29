@@ -1,0 +1,25 @@
+{
+  "text": "Однако она получилась довольно жёсткого - при ударе о землю при посадке один из члена экипажа лазившее голову и сломал ключицу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "членов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "разбил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "жесткой"
+    },
+    {
+      "correctReplacement": "разбило",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

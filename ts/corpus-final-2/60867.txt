@@ -1,0 +1,20 @@
+{
+  "text": "По всей вероятность , болезнь нежданйо обострилась .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "вероятности"
+    },
+    {
+      "correctReplacement": "неожиданно",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "нежданно",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

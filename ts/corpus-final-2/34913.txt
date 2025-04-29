@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый AFP со ссылкой на израильское радио , правительство отдам приказ отвести танки с палестинских территорий и убрать армейские кордоны вокрук жилых районов после достигнутой долговечности о прекращении огня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "отдало"
+    },
+    {
+      "correctReplacement": "договоренности",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "вокруг",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

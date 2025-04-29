@@ -1,0 +1,20 @@
+{
+  "text": "Эксперты МВФ в понедельник прибыли в Москву для проведений технических консультаций по запросам бюджетной и налогового политики , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "проведения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "correctReplacement": "вопросам",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

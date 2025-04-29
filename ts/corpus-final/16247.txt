@@ -1,0 +1,25 @@
+{
+  "text": "Ео сведениям министерства , от продажи неудовольствия на спецсчет Минфина поступило 4 миллиарда 709 миллионов рублей , из которых 3 миллиарда 716 миллионов рублей отправили в Пенсионный фонд , остальных посланный на социальные нужды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "пошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "остальные"
+    },
+    {
+      "correctReplacement": "продовольствия",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

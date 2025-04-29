@@ -1,0 +1,20 @@
+{
+  "text": "В аварии погибнем три скакуна , четвертую лошадь вывезшие к ветеринару .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "ветеринарам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "увезли",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

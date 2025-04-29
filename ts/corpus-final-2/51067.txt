@@ -1,0 +1,30 @@
+{
+  "text": "По словам Беляева , этб программка предусматривают размещение производства комплектующих для \"ГАЗа\" на нижегородских предприятиях с обязательным условием перевода туда персоналов автозавода , передает Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "персонала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "предусматривает"
+    },
+    {
+      "correctReplacement": "программа",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

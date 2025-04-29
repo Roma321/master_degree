@@ -1,0 +1,25 @@
+{
+  "text": "Теперь , по решению судом , Березовский обязан выступить с опровержением этихсведений на пресс-конференциях в течение 10 днями со днявступления решения суда в законного силу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "законную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пресс-конференции"
+    }
+  ]
+}

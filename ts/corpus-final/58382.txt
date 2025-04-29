@@ -1,0 +1,30 @@
+{
+  "text": "Начальник гидротехнической службы Тихоокеанской флота контр-адмирал Владимир Морев осуждён на восемь лет с конфискациями имущества и лишением воинской звания .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "воинского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Тихоокеанского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "конфискацией"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "осужден"
+    },
+    {
+      "correctReplacement": "радиотехнической",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

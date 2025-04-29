@@ -1,0 +1,25 @@
+{
+  "text": "Компании PSG , созданное американскими General Electric и Bachtel в целях строительства трубопровода дюя доставки туркменского газов в Турцию , закрывает свою штаб-квартиру в Ашхабаде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "созданная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "газа"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

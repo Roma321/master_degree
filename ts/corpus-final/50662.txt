@@ -1,0 +1,25 @@
+{
+  "text": "Теперь бывшей сотруднику Белого дома , у которое есть жена и трое ребёнка , грозит более 20 года тюрьмы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "бывшему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "которого"
+    }
+  ]
+}

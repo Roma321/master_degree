@@ -1,0 +1,35 @@
+{
+  "text": "Однако ещё более удивительное история происходит по адресу www . seleznev . ru , по которому , казафшееся бы , могут располагаться официальные сайт Селезнева .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "официальный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "удивительная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "казалось"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "казавшееся",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

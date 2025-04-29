@@ -1,0 +1,25 @@
+{
+  "text": "Задержка произошла из-за тех , что Гильяму пришлось отпустить актера Жана Рокефорту , играемого Дон Кихота , в связи с необходимостью операции на позвоночных дпсках .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "играющего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Рокефорта"
+    },
+    {
+      "correctReplacement": "дисках",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

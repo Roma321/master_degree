@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый \"Интерфакс\" сб ссылкой на пресс-службы мэрии городом , в районе остановки \"Парк Гагарина\" со стороны жилого массива было сделано несколько выстрелов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пресс-службу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

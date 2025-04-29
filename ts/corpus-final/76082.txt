@@ -1,0 +1,25 @@
+{
+  "text": "Пшэтому получив за выкуп зданию недостающее сумму , совет кредиторов получит возможность в самый ближайшее время полностью рассчитаться с частными клиентами банка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "самое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "недостающую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "здания"
+    },
+    {
+      "correctReplacement": "Поэтому",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

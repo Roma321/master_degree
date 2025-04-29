@@ -1,0 +1,20 @@
+{
+  "text": "Это последнее покорное выступление нынешнего американского президента , срок полномочиями которого заканчивается менее чем через годом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полномочий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "год"
+    },
+    {
+      "correctReplacement": "подобное",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

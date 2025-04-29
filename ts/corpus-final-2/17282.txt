@@ -1,0 +1,25 @@
+{
+  "text": "По данными пресс-службы Гантамирова , анплогичные митинги с частием его сторонников пройденные в Урус-Мартане и Ачхой-Мартане .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "прошли"
+    },
+    {
+      "correctReplacement": "участием",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "аналогичные",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

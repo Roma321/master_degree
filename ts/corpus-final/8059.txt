@@ -1,0 +1,20 @@
+{
+  "text": "Президентский байкер приземлюсь в стамбульском аэропорту в 15 : 50 по московской времени .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "приземлился"
+    },
+    {
+      "correctReplacement": "лайнер",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

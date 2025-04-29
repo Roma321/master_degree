@@ -1,0 +1,30 @@
+{
+  "text": "ЮАР входит в чиало крупнейших покупателей продукции машиностроения в мирте , доля приобретающей техники составляют около 32 процентов всего импортов республики .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "импорта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "приобретаемой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "мире",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "число",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

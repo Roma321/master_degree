@@ -1,0 +1,25 @@
+{
+  "text": "Террористы выходят на связь со слоями зарубежным хозяевами и открытой текстом сообщают о том , что испытывают серьезные проблемы и нуждаются в помощи , заявленные журналистам в пресс-центре Минобороны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "открытым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "зарубежными"
+    },
+    {
+      "correctReplacement": "своими",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

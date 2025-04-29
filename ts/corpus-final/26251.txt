@@ -1,0 +1,25 @@
+{
+  "text": "На городскиевласти , возможно , повлиял и тот факт , что в финских городахТурку и Котка уже много лет стоите памятники Ленину , а в Тамперес успехом функционирует единственное в мирах содействующий музейЛенина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "единственный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "мире"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "стоят"
+    },
+    {
+      "correctReplacement": "действующий",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

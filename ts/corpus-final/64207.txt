@@ -1,0 +1,30 @@
+{
+  "text": "В субботу ветром в ходах бое между бойцах спецназа и боевиками в горной части Чечни были уничтожены восемью сепаратистов , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "боя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "восемь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бойцами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "вечером",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

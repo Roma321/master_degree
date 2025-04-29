@@ -1,0 +1,25 @@
+{
+  "text": "Доходы от размеления рекламы в сети Интернет составили 2 , 1 миллиардер долларов во вторым квартале 2000 годов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "млрд",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "размещения",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

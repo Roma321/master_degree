@@ -1,0 +1,25 @@
+{
+  "text": "В чеченском селении Чернокозово уничтожены опорный пункт боевиков . Обнаружившие базу бойцы специального подразделения Главного управления исполнения науазаниях (ГУИН) Минюста РФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "уничтожен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "Обнаружили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "наказаний"
+    },
+    {
+      "correctReplacement": "наказаниях",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

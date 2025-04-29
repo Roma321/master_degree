@@ -1,0 +1,25 @@
+{
+  "text": "Всего на данный момент в мире эксплуатировался 13 самолетов Concorde , шестью принадлежат французпкой компании Air France , cемь - британского компании British Airways .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "шесть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "эксплуатируется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "британской"
+    },
+    {
+      "correctReplacement": "французской",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

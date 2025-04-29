@@ -1,0 +1,25 @@
+{
+  "text": "Однако агентство Bloomberg приводишь слова самого Камдессю , который сказала на пресс-конференции в Вашингтоне на прошлой неделе , что ему нравится его нынешнее работа Д",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "приводит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "нынешняя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Президент Белоруссии Александр Лукашенко принявший в канун католической Рождеству главу Католической церкви в Белоруссии кардинала Казрмира Свентека и папского нунция архиепископа Доминика Грушовского .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "католического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Рождества"
+    },
+    {
+      "correctReplacement": "Казимира",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

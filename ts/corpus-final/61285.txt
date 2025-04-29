@@ -1,0 +1,35 @@
+{
+  "text": "Манилову сообщил , что на территории Чечнёй с 1 октября 1999 года были убиты 1953 и полученные ранения 5588 военнослужащих и милиционеров , действовавших в составе Объединенной группировки войска Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Манилов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "действующих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "войск"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Чечни"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

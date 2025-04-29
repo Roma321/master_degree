@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал РИА \"Новости\" , все расходы по организации похорон взяли на себя администрация края , мэрия и другой местные легализации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "другие"
+    },
+    {
+      "correctReplacement": "организации",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

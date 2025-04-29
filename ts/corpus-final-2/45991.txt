@@ -1,0 +1,20 @@
+{
+  "text": "Затем он идет файлов с расширениями ZIP , MP3 и JPG , перемещают их в корневой каталог диска C и изменяет их имена , добавляя к ним строку \"change atleast now to LINUX\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "перемещает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "файлы"
+    },
+    {
+      "correctReplacement": "ищет",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

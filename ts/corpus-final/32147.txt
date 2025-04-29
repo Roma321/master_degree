@@ -1,0 +1,30 @@
+{
+  "text": "Муниципалрное суде Будапешта принял окончательное решение об экстрадиции в Россию председателя совете директоров Красноярского алюминиевого заводе Анатолия Быкова , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "завода"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Муниципальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "совета"
+    },
+    {
+      "correctReplacement": "Муниципальное",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным прокуратуры , снимающая у супругов житье женщина - жительница Белоруссии - занималось так называемым \"челночным\" бизнесами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "занималась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "снимавшая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "бизнесом"
+    },
+    {
+      "correctReplacement": "жилье",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

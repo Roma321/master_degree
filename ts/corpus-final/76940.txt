@@ -1,0 +1,20 @@
+{
+  "text": "Двумя россиянкм свои маты выиграли , две - проиграли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Две"
+    },
+    {
+      "correctReplacement": "матчи",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "россиянки",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

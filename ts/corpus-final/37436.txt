@@ -1,0 +1,35 @@
+{
+  "text": "На базе новой океанариума предусмотревшая подготовка тренеров , биологов , веперинарные и других специалистов-профессионалов в этой области , специальные занятия для школьников , студентов и практиканта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "практикантов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "предусмотрена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ветеринаров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "ветеринары",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "ветеринарные",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

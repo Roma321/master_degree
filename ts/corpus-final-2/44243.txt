@@ -1,0 +1,25 @@
+{
+  "text": "Таких показателей удалось добиться благодать укреплениям финансовой дисциплины и общее финансового оздоровлению РАО ЕЭС , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "общему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "финансовому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "укреплению"
+    },
+    {
+      "correctReplacement": "благодаря",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

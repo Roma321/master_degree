@@ -1,0 +1,20 @@
+{
+  "text": "Установлена личность погибшего водителя : им оказались Ш Ен Чер - сотрудник отдела торговой советника КНДР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "торгового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "оказался"
+    },
+    {
+      "correctReplacement": "О",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

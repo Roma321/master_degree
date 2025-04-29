@@ -1,0 +1,30 @@
+{
+  "text": "Московская телекомпания ТВЦ сообщившая с воскресенье днем , что полевой командире Руслану Гелаеву удавшееся уйти из села Комсомольское , окруженного федеральными войсками .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "командиру"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "полевому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

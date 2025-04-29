@@ -1,0 +1,25 @@
+{
+  "text": "Грузинское стороны утверждаю , что 17 ноября российские вертолёты обстреляли территорию республики в районах сел Шатили и Георгицминда .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Грузинская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сторона"
+    },
+    {
+      "correctReplacement": "вертолеты",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

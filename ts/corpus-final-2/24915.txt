@@ -1,0 +1,25 @@
+{
+  "text": "В самого Британии прогремели взрывы у магазина знамепитого фирмы Penguin Books , где были выставившие на продажу экземпляры романа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "знаменитой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "выставлены"
+    },
+    {
+      "correctReplacement": "знаменитого",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

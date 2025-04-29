@@ -1,0 +1,20 @@
+{
+  "text": "Президент России Борис Ельцин в телефонном разговоре с президентами США Билла Клинтоном заявин , что обвинения семьи Ельцина в коррупции имеют политическую подоплеку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Биллом"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

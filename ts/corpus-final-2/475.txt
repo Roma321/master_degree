@@ -1,0 +1,20 @@
+{
+  "text": "На Московской фондомая бирже также наблюдается снижение котировок акций \"Газпрома\" , которые к 13 . 00 упали по отношению к предыдущим дню на 4 , 4 процента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "фондовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "предыдущему"
+    },
+    {
+      "correctReplacement": "фондовая",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

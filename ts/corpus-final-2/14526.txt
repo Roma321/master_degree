@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас сотрудники милицией оцепившие здание Верховного суда , где продолжаете наклониться подсудимый и заложники , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оцепили"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "продолжают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "милиции"
+    },
+    {
+      "correctReplacement": "находиться",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

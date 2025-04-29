@@ -1,0 +1,35 @@
+{
+  "text": "Среди тех , кто также заказала новые самолеты Airbus , - компании Air France , Singapore Airlines , австралийская Qantas , американская лизинговую корпорация ILFC и одна арабская авиакомпания . Такой образом , с поступифшей заявкой от Virgin Atlantic Airways числу реальных заказа на производство A3XX достигло 50 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "заказов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "лизинговая"
+    },
+    {
+      "correctReplacement": "поступившей",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

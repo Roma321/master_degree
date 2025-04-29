@@ -1,0 +1,20 @@
+{
+  "text": "\"Рсли один голосе они посчитали за сто голоса , то , может быть , и деньги своих клиентов они считают также\" , - заметил он .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "голос"
+    },
+    {
+      "correctReplacement": "\"Если",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

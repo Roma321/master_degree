@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , руководству военного ведомства России располагает информацией о том , что 29 февраля по распоряжению украинских властей будет отключу электроэнергия в гарнизоне Гвардейское , где находится военный аэродромы , арендующий Россией у Украины для Черноморского флота Э",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "арендуемый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "аэродром"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "руководство"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "отключена"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как известно , рассмотренные жалобы адвокатов , суд составивший , что деле против главы \"Медиа-Моста\" возбуждено незаконно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "рассмотрев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "жалобу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "постановил",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

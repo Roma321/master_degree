@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что группа Metallica недавно подал в сут на компанию Napster и три американских университета , обвиняяя их в пособничестве музыкальному пиратстве , и потребовала от ответчика возмещения убытков в размере 10 миллионов доллара .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "ответчиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "пиратству"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "подала"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

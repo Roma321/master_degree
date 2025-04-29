@@ -1,0 +1,25 @@
+{
+  "text": "К счастью , сильного ветер относят пятно с скрытый океан от берегов Франции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "относит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сильный"
+    },
+    {
+      "correctReplacement": "открытый",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

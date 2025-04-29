@@ -1,0 +1,25 @@
+{
+  "text": "После того , как на аукционе будет предложена амая высокой цена , Баумгартнер сообщит избирателю каждых группы , за кого они должны проголосовать , чтобы получить свои деньги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "высокая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "избирателям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "каждой"
+    },
+    {
+      "correctReplacement": "самая",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

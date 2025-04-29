@@ -1,0 +1,40 @@
+{
+  "text": "Виторино сослался на пример скандала с Bank of New York , когда миллиардами долларов были прокачаем через банковское систему , но само предоставление было замечено лишь тогда , когда на счёте оставалась всего 20 миллионов долларами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "счетах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "оставалось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "прокачаны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "банковскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "миллиарды"
+    },
+    {
+      "correctReplacement": "преступление",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

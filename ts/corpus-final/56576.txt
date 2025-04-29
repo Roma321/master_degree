@@ -1,0 +1,25 @@
+{
+  "text": "В результате самоликвидации задней частью ракеты упала на территорию полигона , а передняя , пролечу около 75 километров , взорвалась в казахстанце .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "часть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "пролетев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "задняя"
+    },
+    {
+      "correctReplacement": "Казахстане",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

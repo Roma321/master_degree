@@ -1,0 +1,15 @@
+{
+  "text": "Среди раненых - беременная женщина , чей ребёнок погибла в утробе , самой женщине пришлось ампутировать ногу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ребенок"
+    }
+  ]
+}

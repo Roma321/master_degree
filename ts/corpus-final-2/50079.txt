@@ -1,0 +1,20 @@
+{
+  "text": "\"Вчера я поздно лег спать , смотрел по телевизору искупления вице-президентов Гора м губернатора Буша\" , - объяснил Клинтон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "вице-президента"
+    },
+    {
+      "correctReplacement": "выступления",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как подчеркну глава МИД России Игорю Иванов , \"когда Россия и США взаимодействуют друг с другом , то они сможете добиться всего\" . \"Сегодня главное - наличие и в Москвы , и в Вашингтоне стремления разжигающие отношения между двумя странами не теряя времени и не смотря на предстоящие выборы\" , - сказал Иванов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Игорь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "развивать",
+      "type": "paronym",
+      "wordNumber": 35
+    }
+  ]
+}

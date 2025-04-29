@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник в Туле задержавший 13-летняя подросток по одобрению в убийстве гражданина Камеруна Малу Клода Нсчарри , сообщающий ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "13-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "подозрению",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

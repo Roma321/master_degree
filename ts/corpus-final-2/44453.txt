@@ -1,0 +1,20 @@
+{
+  "text": "Им это объяснившие , и сотрудники охранной фирмы поуинули предприятия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "объяснили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "предприятие"
+    },
+    {
+      "correctReplacement": "покинули",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

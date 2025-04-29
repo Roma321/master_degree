@@ -1,0 +1,20 @@
+{
+  "text": "В результате в компьютерной синемой штабу был обнаруживший вирус-\"червь\" , сообщает CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "штаба"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "correctReplacement": "системе",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

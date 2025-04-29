@@ -1,0 +1,25 @@
+{
+  "text": "Вице-премьер РФ Валентина Матвиенко сообщила во вторник , что на рассмотрение правительства Российской Федерация будет вынесен целевой программа развития интернет-образования в Роасии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "вынесена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "целевая"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

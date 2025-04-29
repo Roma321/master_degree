@@ -1,0 +1,30 @@
+{
+  "text": "Поэтому те , кого свёзшее и кто сумел 31 октябрей дозвониться в клуб , чтобы заказать билеты , чувствовавшие себе так , словно они выиграли в лотерею : 1100 билетов были распроданы эа 20 минут , причем фанаты звонили со всех континентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "чувствовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кому"
+    },
+    {
+      "correctReplacement": "повезло",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Один из медвежат в ближайшую время будет взявший у работника научного станции Биолого-почвенного института Дальневосточного отделения Российской академии наук , еще одного шестимесячного медвежонка возьмут у жителя села Кокшарофка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "взят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "работников"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "научной"
+    },
+    {
+      "correctReplacement": "Кокшаровка",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

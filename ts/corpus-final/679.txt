@@ -1,0 +1,25 @@
+{
+  "text": "Тем же , у кого работы в краке не было , Алтайское отделения Западно-Сибирской железного дорога предоставит бесплатный проезд .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "железной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "отделение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "дороги"
+    },
+    {
+      "correctReplacement": "крае",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

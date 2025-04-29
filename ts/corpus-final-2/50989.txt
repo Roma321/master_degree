@@ -1,0 +1,30 @@
+{
+  "text": "Решение о предъявлении нового обвинение связаны с тем , что один из членов банда Шутова - фигурант основного уголовной дела - по ряду статей одновременно является потерпевшими .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "банды"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "потерпевшим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "связано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "обвинения"
+    }
+  ]
+}

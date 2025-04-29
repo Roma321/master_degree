@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшний день доказано , что бывший президент , смещённый с поста в результате массовых волнениям два года назад , украл олее 150 миллионов долларов через свои благотворителтные фонды .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "смещенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "волнений"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "благотворительные",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

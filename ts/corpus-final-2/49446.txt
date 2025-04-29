@@ -1,0 +1,25 @@
+{
+  "text": "Член вооруженного крыла группировки ХАМАС убита и еще пять палестинцев были ранены в ходе очередной операций израильских войск по уничтожению боевика , сообщаешь AFP .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "операции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

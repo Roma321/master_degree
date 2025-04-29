@@ -1,0 +1,25 @@
+{
+  "text": "Мужа пообещал любить обоих жен одинаково и уделять им одинаковое зодчество времени - день одной , день другоы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Муж"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "обеих"
+    },
+    {
+      "correctReplacement": "количество",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "другой",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

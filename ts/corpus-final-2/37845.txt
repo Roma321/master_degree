@@ -1,0 +1,20 @@
+{
+  "text": "Теперь Иванов будет занимающие этот пост как гражданская челомей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "гражданский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "занимать"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

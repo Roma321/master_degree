@@ -1,0 +1,20 @@
+{
+  "text": "Правительство Москвы не планируют до конца года увеличивать тарифы на газ и электроэоергии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "электроэнергию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "планирует"
+    },
+    {
+      "correctReplacement": "электроэнергии",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

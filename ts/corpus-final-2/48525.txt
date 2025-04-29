@@ -1,0 +1,30 @@
+{
+  "text": "Сотрудники журнала , в свою очереть , сообщившие , что кроме фотографий Мори , у них имеются еще и фотография одного из члены нового кабинета министров Японии с тем же людьми , сделанные в 1992 году .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "фотографии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "человеком"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "очередь",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

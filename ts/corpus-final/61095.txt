@@ -1,0 +1,30 @@
+{
+  "text": "Как уточнённые в аппарате помощника нерезидента Сергея Ястржембского , все они были уволившие в запаса и направлялись из Галашек во Владикавказу , чтобы оттуда разъехаться по домам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Владикавказ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "уволены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "запас"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "уточнили"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

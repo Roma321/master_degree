@@ -1,0 +1,25 @@
+{
+  "text": "Вот что говорится в поступившем к нам информационной обращении : Сегодня , 7 декабря в Московский избирательные штаб Союза Правых Силами вошедшие люди в штатском в сопровождении сотрудников внутренних органов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "избирательный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "информационном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "вошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Сил"
+    }
+  ]
+}

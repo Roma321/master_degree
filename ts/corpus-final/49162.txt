@@ -1,0 +1,30 @@
+{
+  "text": "Министр заметили , что на это раз \"чеченцы не станутзрелищем для российских телезрителя , страшную картину войны , горечь утраты родных и низких должны почувствовать ироссийские граждаме\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "телезрителей"
+    },
+    {
+      "correctReplacement": "близких",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "граждане\"",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

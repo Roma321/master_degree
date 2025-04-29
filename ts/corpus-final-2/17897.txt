@@ -1,0 +1,25 @@
+{
+  "text": "Из общего объема галантной линии 50 миллионов долларов будут направим на поддержку проектов в лесной отрасли , такое же сумма пойдет в угольную отрасли .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "такая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "направлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "отрасль"
+    },
+    {
+      "correctReplacement": "гарантийной",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

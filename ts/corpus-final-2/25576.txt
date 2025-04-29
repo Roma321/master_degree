@@ -1,0 +1,25 @@
+{
+  "text": "Награды в торжественном опстановке вручу в среду мэр Москвы юлий Лужков , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "вручил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "торжественной"
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "обстановке",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

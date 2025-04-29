@@ -1,0 +1,25 @@
+{
+  "text": "Цена на сырую нефть упали до рекордно низких уровней за последние семи с половиной месяцев , сообщаю AK&M . По итогам торгов во вторник в Лондоне цена за баррель нефти Brent со сроком поставки в феврале упала на 1 , 29 долларе до уровня в 24 , 95 доллара за баррель .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "семь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Цены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "доллара"
+    }
+  ]
+}

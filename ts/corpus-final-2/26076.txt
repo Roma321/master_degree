@@ -1,0 +1,15 @@
+{
+  "text": "Доктор Анжела Домокос , проводившая осмотр пациента , сказанная : \"Это случается очень едко .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "сказала"
+    },
+    {
+      "correctReplacement": "редко",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

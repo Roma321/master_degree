@@ -1,0 +1,20 @@
+{
+  "text": "По словами полиции , он был арестован в четверг в небольшого гостинице в Кштааде , неподалеку от Берна .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "небольшой"
+    },
+    {
+      "correctReplacement": "Гштааде",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

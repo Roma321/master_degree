@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник утром военнослужащими Сил по стабилизация в Боснии и Герцеговине был захвативший быфший командующего одной из корпусов сребской армии генерал Галич .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "стабилизации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "одним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "командующий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "захвачен"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

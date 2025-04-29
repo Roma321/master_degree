@@ -1,0 +1,20 @@
+{
+  "text": "Раним более 60 человек , 54 из гих госпитализируемы , остальным первая медицинская помощь оказана на месте .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Ранены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "них",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

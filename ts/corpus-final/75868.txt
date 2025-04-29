@@ -1,0 +1,30 @@
+{
+  "text": "По мнению наблюдателей , передавкл РИА \"Новости\" , причина низкой активностей избирателя - не только жаркое лето , но и \"грязные политтехнологии\" , использованный штабами некоторых кандидатов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "использованные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "активности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "correctReplacement": "передавал",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

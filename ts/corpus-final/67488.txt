@@ -1,0 +1,25 @@
+{
+  "text": "Чтой сделки не была зафиксировавшая в документах и с нее не были уплачены налоги .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "зафиксирована"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сделка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "correctReplacement": "Этой",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

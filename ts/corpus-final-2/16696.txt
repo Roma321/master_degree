@@ -1,0 +1,25 @@
+{
+  "text": "В частности , сейчас США ведут переговоры с Пекином по поводу ущерба , нанёсшего американского авиациями китайскому посольству в Белград .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Белграде"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "нанесенного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "авиацией"
+    }
+  ]
+}

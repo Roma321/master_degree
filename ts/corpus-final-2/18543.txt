@@ -1,0 +1,20 @@
+{
+  "text": "Приличный процент акций российской сторон принадлежит чиновникам Минсвязи (“Центральный Телеграф” участвуют в Sonic Duo дочерними структурными .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "участвует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "структурами)",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

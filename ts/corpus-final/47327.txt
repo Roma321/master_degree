@@ -1,0 +1,20 @@
+{
+  "text": "Нетаниягу обвиняюсь в получении взяток , мошенничестве и нанесении общественного доверии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "доверия"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "correctReplacement": "нарушении",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

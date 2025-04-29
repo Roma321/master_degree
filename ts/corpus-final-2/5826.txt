@@ -1,0 +1,20 @@
+{
+  "text": "Правоохранительных орханы попытались разогнавшие вышедших на улицы граждан , в результате чего возникли массовые беспорядки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Правоохранительные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "разогнать"
+    },
+    {
+      "correctReplacement": "органы",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

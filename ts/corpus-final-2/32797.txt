@@ -1,0 +1,25 @@
+{
+  "text": "Toysrus . com заявил , что чепез тридцать секундам после начало продаж на его сайте не осталась ни одной приставки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "осталось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "начала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "секунд"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник надзорный комитет при верховной суде штаба Арканзас рекомендую лишить Билла Клинтона юридической лицензии , дающих право вести адвокатскую практику , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "дающей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "рекомендовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "верховном"
+    },
+    {
+      "correctReplacement": "штата",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

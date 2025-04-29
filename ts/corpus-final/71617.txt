@@ -1,0 +1,15 @@
+{
+  "text": "Такое заявление Саддам сделало в понедельник вечером , во время встречи с экспертными Комиссии по производству вооружений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "сделал"
+    },
+    {
+      "correctReplacement": "экспертами",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

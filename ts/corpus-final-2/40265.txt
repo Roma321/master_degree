@@ -1,0 +1,20 @@
+{
+  "text": "Керамическая статуэтка кошки была подарено великаном художником Хемингуэю в 20-е годов в Париже .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "подарена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "годы"
+    },
+    {
+      "correctReplacement": "великим",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

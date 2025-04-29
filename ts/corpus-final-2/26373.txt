@@ -1,0 +1,30 @@
+{
+  "text": "Акции канадской компании Kasten Chase поднялись на 28 пункта после того , как предсьавители компании заявил , что министерство энергетики США использует для защиты информации программные продуктах Kasten , сообщал в четверг агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "пунктов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "продукты"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

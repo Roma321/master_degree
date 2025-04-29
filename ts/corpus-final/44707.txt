@@ -1,0 +1,30 @@
+{
+  "text": "\"Мы постараются ответить на те вопросы , на которые можно ответить\" , - заявил глаша ЦИК Александр Вешнякам , отметив , что \"на некоторые из них невозможно дать ответы за столь короткие время . \"",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "короткое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "ответ"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "постараемся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Вешняков"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

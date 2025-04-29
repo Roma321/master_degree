@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , как отмечает Reuters , судебная тяжкач скорее всего не закончится как минимумы до января , когда к присяге будет приведен новый президент - либо Алберт Гор , либо Джордж Буш .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "минимум"
+    },
+    {
+      "correctReplacement": "тяжба",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "тяжкая",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

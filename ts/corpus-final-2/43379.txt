@@ -1,0 +1,20 @@
+{
+  "text": "Однако поскольку этого не произошла , через две недели , 10 декабря , посмеялся второй тур голосования , в который вышли , соответственно , Богомолов и Багрецов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "состоится"
+    },
+    {
+      "correctReplacement": "состоялся",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

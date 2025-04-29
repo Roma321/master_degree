@@ -1,0 +1,25 @@
+{
+  "text": "Выставка проводящийся при поддержке Министерства наука и теологий ТФ , Правительства Москвы и Отделения информатики , вычислительной техники и автоматизации РАН , РНТО РЭС им . А . С . Попова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проводится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "науки"
+    },
+    {
+      "correctReplacement": "технологий",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "РФ",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

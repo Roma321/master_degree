@@ -1,0 +1,45 @@
+{
+  "text": "Возможно , среднегодовой курсы рублей по отношению к доллару будет выше , чем планировалась при формировании бюджета 2000 года , заявленный журналисту РИА \"Новости\" министр финансов России Михаил Касьянов после встреча с и . о . президента России Владимиром Пытиным и главами ЦБ Виктором Геращенко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "главой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "рубля"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "планировалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "встречи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "курс"
+    },
+    {
+      "correctReplacement": "Путиным",
+      "type": "typo",
+      "wordNumber": 39
+    }
+  ]
+}

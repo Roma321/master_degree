@@ -1,0 +1,25 @@
+{
+  "text": "По данным агентства , тело Юханова с признаком насильственного смертей обнаружено в минувшее среду в его квартире на Северном бульваре .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "насильственной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "признаками"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "смерти"
+    }
+  ]
+}

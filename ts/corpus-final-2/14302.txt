@@ -1,0 +1,30 @@
+{
+  "text": "В южной китайской провинции Гуандун начался суд над организовавшей преступной грудками фальшивомонетчиков , напечатаем почти 100 миллиона фальшивых юаней .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "группой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "напечатавших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "группами",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

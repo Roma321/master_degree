@@ -1,0 +1,25 @@
+{
+  "text": "Визит генеральной секретаря готовилась в спешке , дабы успеть предотвратить еще большие столкновения между палестинцами и аральскими силвми безопасности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "готовился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "израильскими",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "силами",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

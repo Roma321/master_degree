@@ -1,0 +1,30 @@
+{
+  "text": "Никарагуанцев охватила паники - они не забыли землетрясение 1972 года , когда оказалась разрушенного практически весь столица т погибли десятки тысяч ее жителей . и , с которым подписавший двухлетний контракт .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "вся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "разрушенной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "паника"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "подписан"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

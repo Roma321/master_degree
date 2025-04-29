@@ -1,0 +1,30 @@
+{
+  "text": "Половину вырученного на аукционе средств получит хозяин дома , а оставшуюся часть , за вычетом отчислений в детская причт , расположенные неподалеку от Строуберри Филдс , - съёмочное группа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "расположенный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "съемочная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вырученных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "детский"
+    },
+    {
+      "correctReplacement": "приют",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

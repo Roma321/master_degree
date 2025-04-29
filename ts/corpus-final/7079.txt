@@ -1,0 +1,45 @@
+{
+  "text": "Как сообщал агентство РосБизнесКонсалтинг со ссылкой на комитет по потребительскому рынку , наиболее значительные рост производств наблюдается по макаронным изделиям - 177 процентов , рваным консервам - 169 процентов , пищевого концентратам - 159 процентов , муке - 129 процентов , маргариновых продукций - 124 процентов , мясным консервам - 123 процента , детскому питанию - в 9 , 4 раза .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "пищевым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "значительный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "производства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "продукции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 45,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "маргариновой"
+    },
+    {
+      "correctReplacement": "рыбным",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

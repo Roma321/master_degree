@@ -1,0 +1,25 @@
+{
+  "text": "В связи с женитьбой Филиппа бельгийское государство увеличенное пешеходного дотацию наследного принцев с 14 миллионов бельгийских франков до 31 , 8 миллиона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "ежегодную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "увеличило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "принца"
+    },
+    {
+      "correctReplacement": "ежегодного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

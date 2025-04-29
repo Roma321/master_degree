@@ -1,0 +1,20 @@
+{
+  "text": "Рулевая «золотого» экипажа москвич Андрей Арбузов был победителемсамой первбй регат , проводившейся еще в 1994 году .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Рулевой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "регаты"
+    },
+    {
+      "correctReplacement": "первой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

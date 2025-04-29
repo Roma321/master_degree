@@ -1,0 +1,30 @@
+{
+  "text": "Противники же приравнивания статуса электронной подписи к статусу рукописного , включая организации по защите прав потребителей и администрацию Клинтона в принцепсе поддерживающие широкое использование цифровых подписями , но при этом опасается , что оно приведет к нарушению прав потребителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "поддерживают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "опасаются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "рукописной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "подписей"
+    },
+    {
+      "correctReplacement": "принципе",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

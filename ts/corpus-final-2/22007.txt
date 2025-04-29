@@ -1,0 +1,30 @@
+{
+  "text": "председательский общественному совета НТВ , президент СССР Михаил Горбачев подтвердила радиостанции \"Эхо Москвы\" , что его встреча с президентом Владимиром Путиным состоится в будущее понедельник , 25 сантября .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "общественного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "будущий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "correctReplacement": "Председатель",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "сентября",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

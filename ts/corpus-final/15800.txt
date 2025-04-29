@@ -1,0 +1,20 @@
+{
+  "text": "Председатель правления Национальной банка Белоруссии Тамара Винникова была арестована в январях 1997 гбда по обвинению в хищениях в особо крупных размерах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "январе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Национального"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

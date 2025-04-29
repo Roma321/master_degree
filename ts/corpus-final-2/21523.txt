@@ -1,0 +1,20 @@
+{
+  "text": "Выяснилось , что наркотику в Северо-западные регин поставлялся из Таджикистана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Северо-Западный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "наркотик"
+    },
+    {
+      "correctReplacement": "регион",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Эпопея хакерских атак на популярные сайты продолжается : в среде упром неизвестные выведшие из строя волосяной сервер ZDNet . com , а также сайты онлайновых брокеров E*Trade и Datek Online Holdings .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вывели"
+    },
+    {
+      "correctReplacement": "новостной",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

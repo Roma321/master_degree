@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает \"Интерфакс\" , свидания основаны на данных Сбербанка РФ по состоянию на 3 декабря текущей года Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "сведения",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

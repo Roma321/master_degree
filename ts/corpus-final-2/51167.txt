@@ -1,0 +1,20 @@
+{
+  "text": "Русская Православная Церковь приняла решение восстающие более чем через 80 года единая церковно-исторический архив .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "единый"
+    },
+    {
+      "correctReplacement": "воссоздать",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

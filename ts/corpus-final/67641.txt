@@ -1,0 +1,25 @@
+{
+  "text": "Они , могут быть , не такие хорошие , как вашими зарубежные друг , но они наши избиратели , и все нас зависим от них , от их поддержки\" , - говорится в документе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ваши"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "мы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "друзья"
+    }
+  ]
+}

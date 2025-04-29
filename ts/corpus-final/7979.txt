@@ -1,0 +1,40 @@
+{
+  "text": "На состоявшейся в минувший вторник заседании Совета по делам инвалидов при президенте РФ начальник департаменту МЧС России Надежду Герасимова заявлю , что фсе участники ликвидации чернобыльская аварии будут перерегистрирован в течение 2000-2002 года - сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "состоявшемся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "чернобыльской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "перерегистрированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "департамента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Надежда"
+    },
+    {
+      "correctReplacement": "все",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

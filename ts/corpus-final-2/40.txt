@@ -1,0 +1,20 @@
+{
+  "text": "Одни говорим , что слыштли разговоры на рынке , другие - в аэробусе и так далее .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "говорят"
+    },
+    {
+      "correctReplacement": "автобусе",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "слышали",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

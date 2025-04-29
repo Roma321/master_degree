@@ -1,0 +1,25 @@
+{
+  "text": "Этот результат засранец предсказывался аналитиками , и вопрос заключался лишь в том , набрал ли Макмагона хотя бы четверть голоса .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "наберет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "МакМагон"
+    },
+    {
+      "correctReplacement": "заранее",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

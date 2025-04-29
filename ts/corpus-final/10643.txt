@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , в этом документе управлениям ЗАГС и комитету социального зажиты населения Москвы поручено организовать торжественные мероприятие чествования юбиляров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "социальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "мероприятия"
+    },
+    {
+      "correctReplacement": "защиты",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

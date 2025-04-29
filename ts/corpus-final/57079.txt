@@ -1,0 +1,25 @@
+{
+  "text": "После суток интенсивных поисков и объявления награды в 25 тысяч долларов полиция Вашингтона задержал 16-летней подростка , расстрелявших одного и ранившего шестерых школьника в зоопарке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "16-летнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "расстрелявшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "задержала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "школьников"
+    }
+  ]
+}

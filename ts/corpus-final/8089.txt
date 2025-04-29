@@ -1,0 +1,30 @@
+{
+  "text": "Аргентинская полиции заденжанная тын и вдову колубийского нарокобарона Пабло Эскобара вскоре после выхода в эфир телепередачи , рассказывающей о присутствии в аргентинской столице родственников главу медельинского наркокартеля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полиция"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "главы"
+    },
+    {
+      "correctReplacement": "сына",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "задержанная",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

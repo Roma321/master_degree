@@ -1,0 +1,25 @@
+{
+  "text": "Задержанный передан в руки представителей трибунала в Сараево , заем он будет препровождённа в Гаага , сообщающий РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "препровожден"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Гаагу"
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники правоохранительных органов дагестанца заюержали участников преступной интернациональной группы , занимавшейся похищениями человека , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Дагестана",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "задержали",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

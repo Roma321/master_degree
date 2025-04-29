@@ -1,0 +1,30 @@
+{
+  "text": "В минувшую среду в Чечне , у населённого пункту Гойты , в четырех километрах от Урус-Мартана задержан чеченское мдеолог - редактор возобновившей в мае регулярное выход газеты \"Ичкерия\" 61-летний Ваха Дадулагов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "регулярный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "пункта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "чеченский"
+    },
+    {
+      "correctReplacement": "идеолог",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

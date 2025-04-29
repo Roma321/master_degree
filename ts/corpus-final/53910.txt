@@ -1,0 +1,30 @@
+{
+  "text": "В письма подчёркиваются , что в Бурятии \"знают Юрия Буданов как патриота России , дорожащего своей воинской частью , и внимательно следят за ходом расследоватия дела командира 160-го танкового полка . \"",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Буданова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркивается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "письме"
+    },
+    {
+      "correctReplacement": "честью",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "расследования",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

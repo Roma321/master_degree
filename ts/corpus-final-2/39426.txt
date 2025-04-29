@@ -1,0 +1,15 @@
+{
+  "text": "По версии следствию , причиной трагедии , которая произошла неподалеку от ресторана McDonald`s , стала неисправность паровбго отопления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "следствия"
+    },
+    {
+      "correctReplacement": "парового",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

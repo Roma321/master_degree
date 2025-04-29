@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что после принятия постановлений Госсовета Башкирии , Минпечати РФ выступил с страхование отменить решение как незаконном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "постановления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "незаконное"
+    },
+    {
+      "correctReplacement": "требованием",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

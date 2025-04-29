@@ -1,0 +1,20 @@
+{
+  "text": "Теперь команды переберёмся в Казань , где в чедверг и пятницу состоялись два матча .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "состоятся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "переберутся"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

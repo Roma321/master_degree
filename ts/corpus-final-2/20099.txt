@@ -1,0 +1,25 @@
+{
+  "text": "На конкурсе было подано в общую слощности четыре заявки , остальные три претендента также предложили за пакеты акций \"ОНАКО\" более миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пакет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "конкурс"
+    },
+    {
+      "correctReplacement": "сложности",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

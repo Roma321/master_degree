@@ -1,0 +1,20 @@
+{
+  "text": "Самолет вылетел с бывшую военной аваабазы , которая сейчас превращена в аэропорты для обслуживания гражданской транспортной авиации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бывшей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "аэропорт"
+    },
+    {
+      "correctReplacement": "авиабазы",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

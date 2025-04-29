@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили ИТАР-ТАСС в Главного управлении по делам гражданской обороны и чрезвычайному ситуациям столицы , водитель не справился с управлением на скользкую дороге , и машины , пробив ограждение , рухнула в воду .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Главном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "скользкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "машина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "чрезвычайным"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Девять люди погибли в результате сильной пожара на термическом предприятии \"Химполимер\" в Мытищах под Москвой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сильного"
+    },
+    {
+      "correctReplacement": "химическом",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

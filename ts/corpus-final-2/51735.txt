@@ -1,0 +1,30 @@
+{
+  "text": "С мнении Стоуна согласна и Джозеф С . Найи , декан гарвардской правительственной школы имени Джона Ф . Кеннеди , который сказал , что с большей вероятностью президентом университетов стал менее ангажированные деятель .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "согласен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "ангажированный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мнением"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "университета"
+    }
+  ]
+}

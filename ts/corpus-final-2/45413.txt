@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС в пятницу , этот вертолет был конфискован у лидера организую преступной группировке , лигвидированной в Восточный Крыму .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Восточном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "организованной"
+    },
+    {
+      "correctReplacement": "ликвидированной",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

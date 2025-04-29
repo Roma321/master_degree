@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает \"Интерфакс\" , сразу по прибытии президент направились в центр города , где возложил венок к Вечному огню памятки владимирцы , павших в годы Великой Отечественную войны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Отечественной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "владимирцев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "направился"
+    },
+    {
+      "correctReplacement": "памяти",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

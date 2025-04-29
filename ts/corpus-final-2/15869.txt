@@ -1,0 +1,25 @@
+{
+  "text": "Перед выступлением в раьочем пригорке Чикаго Нэйпервилле в День труда кандидат в президенты от республиканцев Джордж Буш нецензурно выругавшийся в адрес журналистов из The New York Times .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "журналиста"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "выругался"
+    },
+    {
+      "correctReplacement": "пригороде",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "рабочем",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

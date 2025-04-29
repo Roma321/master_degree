@@ -1,0 +1,20 @@
+{
+  "text": "В среду , 10 январе , Китае запустила на орбиту непилотируемый космический корабль Shenzhou II (\"Волшебная лодка II\") , сообщает Xinhuanet .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "запустил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Китай"
+    }
+  ]
+}

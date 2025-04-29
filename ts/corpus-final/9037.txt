@@ -1,0 +1,20 @@
+{
+  "text": "Ежедневно только из Нальчиков направляетесь от 8 до 10 машин с удовольствием .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Нальчика"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "направляются"
+    },
+    {
+      "correctReplacement": "продовольствием",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

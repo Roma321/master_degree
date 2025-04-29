@@ -1,0 +1,20 @@
+{
+  "text": "Glaxo Wellcome и SmithKline контролируем совместно почто восемь процентов мировой рынка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "мирового"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "контролируют"
+    },
+    {
+      "correctReplacement": "почти",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

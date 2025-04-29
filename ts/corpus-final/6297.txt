@@ -1,0 +1,25 @@
+{
+  "text": "Однако нынешние цены на нефть грозите повышению уровня инфляции и ростом учетных ставок в глобальных масштабах , сообщают агентство РИА \"Новости\" со ссылкой та экономических экспертов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "грозят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "повышением"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

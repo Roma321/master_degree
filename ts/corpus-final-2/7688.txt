@@ -1,0 +1,35 @@
+{
+  "text": "броневики призывали жителей Гудермесе , второго по численности населения городов Чечни , покинуть дома , которые расположены вблизи объектов федеральных силах , в радиусе до пять километров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "призывают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Гудермеса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "пяти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "Боевики",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

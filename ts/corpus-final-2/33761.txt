@@ -1,0 +1,20 @@
+{
+  "text": "Ей грозящий лишения свободы до пяти лет , сообщает РТА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "лишение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "грозит"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

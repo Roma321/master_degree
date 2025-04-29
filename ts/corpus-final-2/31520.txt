@@ -1,0 +1,35 @@
+{
+  "text": "Однако оеганизаторам пришлось отказаться от намечу билайна плакатов к фильму в связи недавним терактом в отношением американского эсминца Cole , в результате которое погибнем 17 человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "которого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "отношении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "намеченного"
+    },
+    {
+      "correctReplacement": "дизайна",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "организаторам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

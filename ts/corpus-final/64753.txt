@@ -1,0 +1,30 @@
+{
+  "text": "К нестойкое время премьер-министре Михаил Касьянов находился с визитом в Минске , где проходит расширю заседание Межгосударственного совета стран Таможенного союза .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "расширенное"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

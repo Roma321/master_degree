@@ -1,0 +1,20 @@
+{
+  "text": "В разгар предвыборного кампании в Ростове открывшийся сайт мэра города михаэля Чернышева .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "открылся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "correctReplacement": "Михаила",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

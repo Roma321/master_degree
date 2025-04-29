@@ -1,0 +1,25 @@
+{
+  "text": "Анализ ДНК шкуры мохнатого млекопитающего , найду полтора года назад в вечного мерзлоте на территории Республики Саха , показинный , что она принадлежала другому шерстистому носорогу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "найденного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "показал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "вечной"
+    },
+    {
+      "correctReplacement": "показанный",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Это произошло в воскресенье на торжественной службе в честь збилея христианства , моторный проходившая в соборе Святой Петра в Ватиканах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Святого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "проходила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Ватикане"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "юбилея",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

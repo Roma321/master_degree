@@ -1,0 +1,20 @@
+{
+  "text": "Первыми лишившиеся света офисы предприятий жилищно-коммунального хозяйства города , на очереди - учреждения культуры , сбрасываний и здравоохранения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "образования"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "лишились"
+    },
+    {
+      "correctReplacement": "образований",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В этом году конкурс проводился при господдержке Министерства образования РФ , Российской Академии Интернета и Ассоциаций RELARN Ж",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проводится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Ассоциации"
+    },
+    {
+      "correctReplacement": "поддержке",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

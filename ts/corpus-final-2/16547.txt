@@ -1,0 +1,20 @@
+{
+  "text": "Найденная на месте строительства документация на русском языке , по мнению полиции , свидетельствуют о том , что в строительстве участвовала русская магии и русские специалисты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "мафия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "correctReplacement": "мафии",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

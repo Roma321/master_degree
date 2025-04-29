@@ -1,0 +1,20 @@
+{
+  "text": "Пострадавшие ощущают угрозу для своей жизни , переживают утрату родном , мучкются от физических травмы и обнищания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "родных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "травм"
+    },
+    {
+      "correctReplacement": "мучаются",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

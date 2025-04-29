@@ -1,0 +1,20 @@
+{
+  "text": "На место происшествием прибыли пожарные машиы и полиция , провёдшая эвакуация людей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "проведена"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

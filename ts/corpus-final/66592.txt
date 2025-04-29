@@ -1,0 +1,20 @@
+{
+  "text": "В решающего встрече с \"Колорадо\" звёзд подедили (3 : 2) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "решающей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "звезды"
+    },
+    {
+      "correctReplacement": "победили",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

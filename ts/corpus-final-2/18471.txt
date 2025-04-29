@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщаемый РИА \"Новости\" со ссылкой на адвоката Виктора тихоноча Людмилу Артамонову .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Тихонова",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "тихонова",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

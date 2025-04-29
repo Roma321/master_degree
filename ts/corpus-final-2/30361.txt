@@ -1,0 +1,35 @@
+{
+  "text": "На открытии щавода в Северодвинске присутствовало председатель Комитета по предотвращению глобальных угроз Томас Кеннинге , отметившая , что \"этот завод повысит бездарность данным региона , всей Арктики и , в конечном итоге , всего мира\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "присутствовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Кеннинг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "данного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "отметивший"
+    },
+    {
+      "correctReplacement": "безопасность",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

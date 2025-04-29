@@ -1,0 +1,25 @@
+{
+  "text": "По последнем данным , число погибших постигшеп 26 человек , сообщает агентству Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "последним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "достигло",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "постигшее",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

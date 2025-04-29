@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник несколько десятка человек были задержаны гентами в штатском на площади Тяньанмынь - очевидно , таким образом китайская милиция подавляемая возможные протесты еще до того , еак они начались .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "подавляла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "десятков"
+    },
+    {
+      "correctReplacement": "агентами",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

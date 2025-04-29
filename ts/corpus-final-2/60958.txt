@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый ИТАР-ТАСС со ссылкой на областная ГУВД , именно владелец и заметивший прикрепленный к днищу машины подозрительный предмет , когда утром разгребаемый под авиомобилем снег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "областное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "разгребал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заметил"
+    },
+    {
+      "correctReplacement": "автомобилем",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

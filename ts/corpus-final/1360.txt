@@ -1,0 +1,30 @@
+{
+  "text": "В прошлом году 89-летний Папоны , бывший высокопоставленный функционер режима Виши , был приговорён к 10 годам заключение за преступления протиф человечности , совершенные им во время второй мировую войны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "заключения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "мировой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Папон"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

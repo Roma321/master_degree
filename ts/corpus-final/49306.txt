@@ -1,0 +1,25 @@
+{
+  "text": "Угроза возникновения эпидемий брюшного тифа и других инфекционных заболеваний существовал более чем в 30 населённых тпункты Чечни .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пунктах"
+    },
+    {
+      "correctReplacement": "пункты",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

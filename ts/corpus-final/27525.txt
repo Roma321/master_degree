@@ -1,0 +1,25 @@
+{
+  "text": "Однако в последившие днях поток беженца снихился , отметили военные .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "correctReplacement": "последние",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "снизился",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

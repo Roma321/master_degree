@@ -1,0 +1,25 @@
+{
+  "text": "В январе в Белграде был застреливший известная командир сербских боевиков Желько Ражнатович , в феврале - министр обороны Павле Булатовичи , в марте - бывший парламентскую лидер Бранислав Лайнович .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "парламентский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "застрелен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Булатович"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "известный"
+    }
+  ]
+}

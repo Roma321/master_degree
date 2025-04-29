@@ -1,0 +1,25 @@
+{
+  "text": "Как заявифший на пресс-конференции первый замминистра внутренних дел Игорь Зубов , проводящаяся с 25 октября по 23 ноября проверка покажу \"развал работы московской милиции\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "показала"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "проводившаяся"
+    },
+    {
+      "correctReplacement": "заявивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

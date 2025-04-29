@@ -1,0 +1,35 @@
+{
+  "text": "мак сообщаю UA today , взрыва разрушим перегородки и конструкции подваьов , а также часть внешней стены первого этажа здания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "взрывом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "разрушены"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "подвала"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "подвалов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Газ подорожавший с 20 января для промышленности и с 1 марта для населении , соответствующее решении принят в среду на правлении Федеральной энергетической комиссии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подорожает"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По сообщению Netoscope . ru , сайты TibetNet хостился в голоде Дхарамсали , куда после неудавшегося восстания бежало Далай-лама вместе со своим правительством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "бежал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "хостится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Дхарамсала"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

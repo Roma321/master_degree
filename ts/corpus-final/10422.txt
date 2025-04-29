@@ -1,0 +1,30 @@
+{
+  "text": "Нр удалось добиться и реальных роста в сельском хозяйстве , недостаточен валовые сбор зерна , продолжаешься кризис в скотоводстве .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "реального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "валовый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "correctReplacement": "животноводстве",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "Не",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Ему не очень нехорошее говоримый по-немецки и не был в Берлина с 1982 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "говорит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Берлине"
+    },
+    {
+      "correctReplacement": "хорошо",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В переговорах принятый участие вице-премьеры , министр финансов Алексей Кцдрин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вице-премьер"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "примет"
+    },
+    {
+      "correctReplacement": "финансов",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Кудрин",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

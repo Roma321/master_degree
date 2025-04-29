@@ -1,0 +1,25 @@
+{
+  "text": "Возвращение космической корабля Discovery с семью астронавтами на борту отложу из-за неблагоприятного погоды в районе космодрома на мысе Канаверал (штат Фюорида) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отложено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "космического"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "неблагоприятной"
+    },
+    {
+      "correctReplacement": "Флорида)",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

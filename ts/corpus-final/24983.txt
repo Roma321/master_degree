@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас у Glaxo лучше всей продается препарат Zantac для лечения ясф , а у SmithKline - антидепрессанты Seroxat/Paxil и Augmentin .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "язвы"
+    },
+    {
+      "correctReplacement": "язв",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

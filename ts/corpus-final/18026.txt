@@ -1,0 +1,30 @@
+{
+  "text": "Они работающие на московских предприятиях , платящие налоги , в том число и те , на которые содержащийся московское предводительство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "содержится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "платят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

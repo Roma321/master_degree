@@ -1,0 +1,25 @@
+{
+  "text": "наказание происшедшее в понедельник на окраине станицы Каргалинская Шелкофского районом , когда грузовик возвращался в расположение военной части .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "Нападение",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Шелковского",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

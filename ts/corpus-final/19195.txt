@@ -1,0 +1,25 @@
+{
+  "text": "В Увтобанку \"Интерфаксу-АФИ\" сообщили , что не половившие пока никаких официальных бумаг от Europay по поводу возможного отзыва лицензии Union Card на эквайринг .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Автобанке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "получившие",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Автобанку",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

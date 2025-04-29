@@ -1,0 +1,20 @@
+{
+  "text": "Столичное градоначальник передававший сердечные поздравления ветеранам Великой Отечественного , афганской и других войн .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Столичный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Отечественной"
+    },
+    {
+      "correctReplacement": "передал",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным оперативников , на кузове и поджигателе автомобиля перебиты номера , а госномера склеившие из двух кусков из разных номера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "склеены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "номеров"
+    },
+    {
+      "correctReplacement": "двигателе",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

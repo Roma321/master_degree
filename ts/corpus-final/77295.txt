@@ -1,0 +1,30 @@
+{
+  "text": "О том , что Бараев убивший , свидетельствудт и радиоперехват разговоров одного из боевых с Хаттабом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "разговора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": "боевиках",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "свидетельствует",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

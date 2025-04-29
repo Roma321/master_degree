@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , унифицирую режим вводился на 9 месяца , эти действия будут согласованы с государствами - участками Таможенного союза Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "вводится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "унифицированный"
+    },
+    {
+      "correctReplacement": "участниками",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

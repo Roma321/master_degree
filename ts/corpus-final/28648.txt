@@ -1,0 +1,25 @@
+{
+  "text": "В минувшее воскресенья в 16 : 45 на станции Сарга участка Шаля - Свердловск Свердловской железной дороги сршедшие с рельсов 15 вагонов грузового поезда номер 2334 , передающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "correctReplacement": "сошедшие",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

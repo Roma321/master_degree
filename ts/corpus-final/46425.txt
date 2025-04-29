@@ -1,0 +1,20 @@
+{
+  "text": "Его слыгимость оценившая в 80 миллионов долларов США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "оценена"
+    },
+    {
+      "correctReplacement": "стоимость",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "слышимость",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

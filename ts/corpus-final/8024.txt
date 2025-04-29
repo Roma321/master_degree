@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас коллективы радаостанции готовлю заявление в Генеральную прокуратуру России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "коллектив"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "готовит"
+    },
+    {
+      "correctReplacement": "радиостанции",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

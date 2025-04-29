@@ -1,0 +1,25 @@
+{
+  "text": "Адвокат компаний Антуан Шатен подтвержу , что намерения продать парусник с аукциона - сапые серьёзные .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "серьезные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "correctReplacement": "самые",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Лидер палестинской автономии Ясир Арафат твердо наменен провозгласить 13 сентября независимая палестинское государево , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "независимое"
+    },
+    {
+      "correctReplacement": "государство",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "намерен",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

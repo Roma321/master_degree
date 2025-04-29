@@ -1,0 +1,25 @@
+{
+  "text": "Отдел по борьбе с преступлениями в сфере интеллектуальной собственности ГУБЭП МВД России был создавший приказом министра внутренних белые 29 марта 1999 годом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "создан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

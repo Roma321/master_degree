@@ -1,0 +1,20 @@
+{
+  "text": "В ходе прошедшего в понедельник второго тур президентских выборов за него ртдали голоса более 56 процентов избирателей , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "тура"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "отдали",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

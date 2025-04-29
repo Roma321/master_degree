@@ -1,0 +1,25 @@
+{
+  "text": "По донным International Data Corporation , в частности , в США встретите Новая год на работе в общего сложности 5 миллионов человек , из них 2 миллиона - в государственных учреждениях .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "встретят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "общей"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

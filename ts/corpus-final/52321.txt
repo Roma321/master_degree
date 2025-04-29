@@ -1,0 +1,15 @@
+{
+  "text": "Из Москвы бмдет призову 5 , 6 тысячи человек , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "призвано"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

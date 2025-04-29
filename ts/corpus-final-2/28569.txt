@@ -1,0 +1,25 @@
+{
+  "text": "Артиллерийских снаряды и авиационные бамбы обнаруженные местный жители , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Артиллерийские"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "местные"
+    },
+    {
+      "correctReplacement": "бомбы",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

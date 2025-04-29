@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" , Келер был единственным оставшимся кандидатами на этк должность .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "кандидатом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

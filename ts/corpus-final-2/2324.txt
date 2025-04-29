@@ -1,0 +1,25 @@
+{
+  "text": "Он заявил , что религиозная полиция превысила свои полномочные , когда остановлю матч , задержанная всех игроков и обрила им головой за \"нарушение общественной нравственности\" : футболисты были в шортах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "задержала"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "остановила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "головы"
+    },
+    {
+      "correctReplacement": "полномочия",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

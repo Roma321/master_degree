@@ -1,0 +1,20 @@
+{
+  "text": "Федеральная служба безопасности уверяют , что этого адрес работает круглосутрчно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "уверяет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "круглосуточно",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

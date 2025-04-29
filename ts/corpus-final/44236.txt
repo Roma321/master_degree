@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю в воскресенье Reutes со ссылкой на французскую газету L'Alsace , в феврале 39-летнему Марку Мерже , парализованному в результате автомобильной катастрофы , в хода сложнейшей операции вживили микрочип , который помогла восмтановить работу нервных окончания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "окончаний"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "помог"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "восстановить",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно сотрудникам Шалинского ВОВД в 400 метрах от автодороги Шали-Герменчук было уничтожено взрывны. устройство на базе 152-миллиметрового артиллерийского снаряд с электродетонатором .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сотрудниками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "снаряда"
+    },
+    {
+      "correctReplacement": "взрывных",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

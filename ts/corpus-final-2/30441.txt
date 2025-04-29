@@ -1,0 +1,15 @@
+{
+  "text": "В записке же написан , что у певицы из-за прпстуды внезапно пропал голос .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "написано"
+    },
+    {
+      "correctReplacement": "простуды",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

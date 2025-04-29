@@ -1,0 +1,15 @@
+{
+  "text": "По данным BBC , в результате взрыва погиб одна человечек , ранения получили около 50 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

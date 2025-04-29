@@ -1,0 +1,20 @@
+{
+  "text": "В Новгородской области зоной бедствия ставший Пестовское район , где повреждены линии электропередач , взваленные деревья и разбиты крыши домов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Пестовский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "повалены",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

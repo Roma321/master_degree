@@ -1,0 +1,20 @@
+{
+  "text": "В частность , наблюдаются некотоиый ажиотаж вокруг сильно подешевевших акций Hewlett Packard и IBM .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "наблюдается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "некоторый",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

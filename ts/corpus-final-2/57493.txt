@@ -1,0 +1,30 @@
+{
+  "text": "Случайно проходивший рано утром женщина цслышала спящий звук , почувствую запах газ и сообщила в милицию и Горгаз .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "газа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "проходившая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "почувствовала"
+    },
+    {
+      "correctReplacement": "шипящий",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "услышала",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

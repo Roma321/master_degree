@@ -1,0 +1,30 @@
+{
+  "text": "Центризбирком \"просто обязан\" обратится в Генпрокуратуру с жалобой на решение Верховногз суда о неправомерности отказа Владимире Жириновским в регистрацию в качестве кандидата на посты президента России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "регистрации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Владимиру"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Жириновскому"
+    },
+    {
+      "correctReplacement": "Верховного",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

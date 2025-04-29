@@ -1,0 +1,15 @@
+{
+  "text": "В настоящую время спецслужбы раюотают с заявителем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "работают",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

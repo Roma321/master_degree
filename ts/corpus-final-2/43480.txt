@@ -1,0 +1,25 @@
+{
+  "text": "В него войдём все подразделяющие МВД за исключению уголовного розыска , управления по борьбе с экономическим преступлениями и управления по борьбе с наркотиками .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "войдут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "экономическими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "исключением"
+    },
+    {
+      "correctReplacement": "подразделения",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

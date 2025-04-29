@@ -1,0 +1,30 @@
+{
+  "text": "В Челябинской область разбился двухместный спортивный вамолёт , сообщили РБК в Уральском региональном центре Министерству по чрезвычайным ситуациям Россией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "correctReplacement": "самолет",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "самолёт",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

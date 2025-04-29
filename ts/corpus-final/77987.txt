@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщаю газеты , подозрение вызвало передвижение около 80 или 85 миллионов коллажей со счета правительства Казахстана в Credit Agricole Indosuez на другого счет в тем же банке , открытый \"for the benefit of the president\" . А после начала расследования по делам Кажегельдина деньги неожиданно были вновь переведены на счет правительства в банке Pictet & Cie .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "газета"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

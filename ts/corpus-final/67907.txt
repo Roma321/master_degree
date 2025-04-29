@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник на 11 линиях Симферополя , а также маршрутах , связывающих крымское столицу с курортами Ялты и Алушты , на три часом было заблокировано троллейбусное движение , сообщал РИА \"Новости\" Я",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "крымскую"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

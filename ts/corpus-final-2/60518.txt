@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость каждом из автомобилей составляет от 40 до 50 тысячам долларов в зависимости от марки и комплекиаций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "каждого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "комплектации"
+    },
+    {
+      "correctReplacement": "комплектаций",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

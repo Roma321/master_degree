@@ -1,0 +1,20 @@
+{
+  "text": "В прошлом году Марио Лемье спасла клуб от банпротства и сейчас являюсь владельцем \"Пингвинов\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "спас"
+    },
+    {
+      "correctReplacement": "банкротства",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

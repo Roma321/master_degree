@@ -1,0 +1,25 @@
+{
+  "text": "А предоставившие агентство Reuters кадр с борта американского кораблика оказались совершенно непонятными для неспециалистов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентством"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предоставленные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "кадры"
+    },
+    {
+      "correctReplacement": "корабля",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

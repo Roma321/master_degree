@@ -1,0 +1,25 @@
+{
+  "text": "Как заявляет сам Михайловы , ему помешали получить доходах в сумме 800 тысяч франков , около 600 тысяч франков было истратившее на адвокатов , а понесенный им моральное ущерб составляет 200 тысяч франков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "моральный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "истрачено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Михайлов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "доходы"
+    }
+  ]
+}

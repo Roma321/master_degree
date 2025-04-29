@@ -1,0 +1,20 @@
+{
+  "text": "Корреспонденты Reuters успел сообщить с места происшествия , что видело как минимум 50 обгоревших тел . Теперь место взрыва оцеплено полициями , ведутся спасательные работы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "видел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "полицией"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Корреспондент"
+    }
+  ]
+}

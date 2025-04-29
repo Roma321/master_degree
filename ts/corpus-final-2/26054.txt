@@ -1,0 +1,30 @@
+{
+  "text": "Денежный ее выражение расставленный семь тысячи долларов для писателя , чья книга еще не издана , и четыретысячими - для автора уже выпущенной книги .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "четыретысячи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Денежное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "составленный",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

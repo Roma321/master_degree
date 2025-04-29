@@ -1,0 +1,30 @@
+{
+  "text": "В Лондоне начались однодневные консультации между Россией и Лондонской кубом по вопросу о долгосрочной реструктуризаций внешнего финансовой задолженности бывшей СССР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "внешней"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Лондонским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "реструктуризации"
+    },
+    {
+      "correctReplacement": "клубом",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

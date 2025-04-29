@@ -1,0 +1,25 @@
+{
+  "text": "В неговходят по одному представителя от президента РФ , правительстваРФ , каждая из палат Федерального собрания РФ , два представителяот Банка России , 4 представителя от банков , состоящих на учетел корпорации , а также президент корпораций .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "представителю"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "учетев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "каждой"
+    }
+  ]
+}

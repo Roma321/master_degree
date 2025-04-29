@@ -1,0 +1,20 @@
+{
+  "text": "Новому наставником ЦСКА свало известнейший специалист 57-летний Павел Садырин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Новым"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "стало",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

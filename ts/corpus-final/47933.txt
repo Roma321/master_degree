@@ -1,0 +1,25 @@
+{
+  "text": "Среди них только троими имеют отношения к военных : один милиционер-прапорщик и двор солдат .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "отношение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "военным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "трое"
+    },
+    {
+      "correctReplacement": "двое",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

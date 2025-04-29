@@ -1,0 +1,20 @@
+{
+  "text": "В аэропорты его фстречал министр иностранные дел России Игорь Иванов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "аэропорту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "correctReplacement": "встречал",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

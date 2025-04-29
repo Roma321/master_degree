@@ -1,0 +1,25 @@
+{
+  "text": "58 собак и семь кошнк погибнем в пожаре ранним утром 25 ноября в самом большой питомнике Мичиганом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Мичигана"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "большом"
+    },
+    {
+      "correctReplacement": "кошек",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

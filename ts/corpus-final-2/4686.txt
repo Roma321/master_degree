@@ -1,0 +1,20 @@
+{
+  "text": "Это произошли в Ишимбаевском районе республики , перехаёт РБК .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "передаёт",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

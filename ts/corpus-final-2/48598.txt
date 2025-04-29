@@ -1,0 +1,55 @@
+{
+  "text": "Лидеры двух стран примете совместное заявление по итогам переговоров , а на межправительственной уровне будут подписавшие , в частности , соглашение об избежании двойного налогообложения и предотвращении уклонения от уплаты налога нй доходы и капитал , протоколы о товарооборотах на 2001-2005 годы , соглашение о правовую помощи и договор о сотрудничествах в область медицины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "налогов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "примут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "протокол"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "товарообороте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "межправительственном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "подписаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 50,
+      "correctReplacement": "сотрудничестве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "правовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 52,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

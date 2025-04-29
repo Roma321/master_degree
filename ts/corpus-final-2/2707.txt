@@ -1,0 +1,40 @@
+{
+  "text": "Тем не менее , как сообщил депутатов председатель думской комитета по делам федерации и региональной политике Леонид Иванченко , сенаторы не сочтём целесообразной проставившие Думу какие-либо поправки к законопроекту , что исключающий возможность создания согласительной комиссии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "думского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "целесообразным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Думе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "исключает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "депутатам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "сочли"
+    },
+    {
+      "correctReplacement": "представить",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

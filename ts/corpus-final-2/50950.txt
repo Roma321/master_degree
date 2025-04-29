@@ -1,0 +1,25 @@
+{
+  "text": "Как пояснили ИТАР-ТАСС в Следственной комитетах при МВД России , следователи учли заслуги 70-летнего Григоряне перед наукой и состояние здоровья (недавно академик ппренес инфаркт) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "комитете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Григоряна"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Следственном"
+    },
+    {
+      "correctReplacement": "перенес",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

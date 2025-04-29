@@ -1,0 +1,15 @@
+{
+  "text": "Затем у жеребята появилась головная боль , слабость , у некоторых температура тела поднялась до 40 градусов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "детей"
+    },
+    {
+      "correctReplacement": "дети",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

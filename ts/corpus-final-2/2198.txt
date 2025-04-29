@@ -1,0 +1,25 @@
+{
+  "text": "Согласно законодательству Украины только одноразовые налоговый сбор с частного авротранспорта составляющий порядка 300 долларов , из которых около 80 процентов должны использоваться на реконструкции автодорог .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "одноразовый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "реконструкцию"
+    },
+    {
+      "correctReplacement": "автотранспорта",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на это , посетителей нет , и к настоящему время на EXPO потерянные работу уже 2500 человеки , под вопросом еще 500 рабочих мест .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "потеряли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "времени"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "люди",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

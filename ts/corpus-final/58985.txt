@@ -1,0 +1,25 @@
+{
+  "text": "Два гражданина Ливия - 48-летний Абдельбасет али-Мохмед аль-Меграхи и 43-летний аль-Амин Халифа Фима - обвиняются в организации в 1988 году теракта , в результате цоторого пассажирские авиалайнер американской компании PanAmerican взорвался нак населенным пунктом Локерби в Шотландии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Ливии"
+    },
+    {
+      "correctReplacement": "над",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

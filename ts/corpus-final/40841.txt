@@ -1,0 +1,20 @@
+{
+  "text": "На четвертом местах закрепилась лидер КПРФ ГеннадийЗюганов , собравший 17 миллионов 234 тысяч рулей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "закрепился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "месте"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

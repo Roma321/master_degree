@@ -1,0 +1,25 @@
+{
+  "text": "По данным Лурьем , в досье указывающийся , что банк был задействую в целом ряде скандалов с ильинской и японской мафией .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "задействован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Лурье"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "указывается"
+    },
+    {
+      "correctReplacement": "итальянской",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

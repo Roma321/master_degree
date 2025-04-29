@@ -1,0 +1,35 @@
+{
+  "text": "Французский нападающим , забью недавно своём парное и пока единственный гол в чемпионате Испании (в матче прооив \"Барселоны\" , в котором мадридцы выиграли 3 : 0) , недоволен тактическими схемами наставника \"Реала\" Винсенте дель Боске и отказался выйти не тренировку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "нападающий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "забивший"
+    },
+    {
+      "correctReplacement": "первое",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

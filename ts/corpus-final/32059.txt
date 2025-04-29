@@ -1,0 +1,20 @@
+{
+  "text": "По данным Еврокомиссии , французский TotalFina обязалась способствовать эффективной конауренции в сфере розничной торговли горючим для транспорта и жидким бытового топливом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "французская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "бытовым"
+    },
+    {
+      "correctReplacement": "конкуренции",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

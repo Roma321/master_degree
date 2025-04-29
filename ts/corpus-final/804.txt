@@ -1,0 +1,25 @@
+{
+  "text": "Но допросить этого человека не удашься : он погиб при загадочных обстоятельствах в дорожная авариа в итальянской провинции амалия Романья .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "дорожной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "удастся"
+    },
+    {
+      "correctReplacement": "Эмилия",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "аварии",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

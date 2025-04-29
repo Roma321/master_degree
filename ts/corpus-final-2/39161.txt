@@ -1,0 +1,20 @@
+{
+  "text": "Текстп письменной заявления Михайлова по этому поводу поступил в среду в ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "письменного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Текст"
+    },
+    {
+      "correctReplacement": "Тексте",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

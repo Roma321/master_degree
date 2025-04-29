@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье утром был взломан сервер Фонда эффективной политики , на котором разместившие проевшие Lenta . Ru , Vesti . Ru , Русская журнал и Галерея Гельмана .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "размещены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "Русский"
+    },
+    {
+      "correctReplacement": "проекты",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

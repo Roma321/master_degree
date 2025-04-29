@@ -1,0 +1,30 @@
+{
+  "text": "А сразу по завершённом встречей вместе с полномочной представителем президента России в Чечне Николаем Кошманом на вертолете она вылетела в северные район Чечни , которые находящиеся под контролем федеральных сил .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "встречи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "полномочным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "районы"
+    },
+    {
+      "correctReplacement": "завершении",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

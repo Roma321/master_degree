@@ -1,0 +1,20 @@
+{
+  "text": "О предстоящей падении продаж объявили Motorola и Gateway , упали в цене акцизы IBM , Hewlett-Packard , Texas Instruments , а также производителей мобильных телефоноф Ericsson и Nokia .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "предстоящем"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "телефонов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

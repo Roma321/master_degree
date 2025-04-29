@@ -1,0 +1,20 @@
+{
+  "text": "Ол этом сообщает агентства рка \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Об",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

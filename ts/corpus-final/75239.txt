@@ -1,0 +1,25 @@
+{
+  "text": "Между Соединенными Штатом и Китаем вспыхнул дипломатический спор , вызванный приобретения китайским агентством новостей Спньхуа жилого дома в Вашингтоне , сообщаю BBC News .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "приобретением"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Штатами"
+    },
+    {
+      "correctReplacement": "Синьхуа",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

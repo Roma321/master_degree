@@ -1,0 +1,20 @@
+{
+  "text": "Их тел были обнаружим рано утром на окраане селения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "тела"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "correctReplacement": "окраине",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

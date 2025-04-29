@@ -1,0 +1,20 @@
+{
+  "text": "В результате стрельбы погибший сержант срочной службы и местная жттель .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "местный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "житель",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Средневзвешенный цена ГКО по итогам аукциону , проведенного среди резидентов и нерезидентов , составила 97 , 23 процента от номинальной стоимости навигациями .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Средневзвешенная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "облигаций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "аукциона"
+    },
+    {
+      "correctReplacement": "облигациями",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

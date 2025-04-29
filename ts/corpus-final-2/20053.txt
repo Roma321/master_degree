@@ -1,0 +1,30 @@
+{
+  "text": "В прошедшие выходные хакер , называющий себя Piffy и утверждающее , что ему всего 13 лет , взломал сервер , распалённое в Сеуле , на котором размещаемся сайты на корейском язаке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "расположенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "размещались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "утверждающий"
+    },
+    {
+      "correctReplacement": "расположенное",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "языке",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

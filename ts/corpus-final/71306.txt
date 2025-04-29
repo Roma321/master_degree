@@ -1,0 +1,20 @@
+{
+  "text": "Двое террористов в машине с большим зарядом взрывчатки въехавшие на улица Эльхадеф , после чего заряд взорвалась , и машину разнесло в куски вместе с пассажирами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "взорвался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "въехали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "улицу"
+    }
+  ]
+}

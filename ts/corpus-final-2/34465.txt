@@ -1,0 +1,20 @@
+{
+  "text": "По словам молодых людьми , находившихся в тот момент на улице , трагедия происшетшая в результате ссоры подростка с группой фанатов \"Спартака\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "происшедшая",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам самой Йохансена , он являлся клёном групп MoRE (Masters of Reverse Engineering) , которая и создала взламывающую программу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "самого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "группы"
+    },
+    {
+      "correctReplacement": "членом",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

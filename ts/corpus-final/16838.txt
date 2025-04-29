@@ -1,0 +1,25 @@
+{
+  "text": "Ссылающиеся на данные очевидцев , BBC передает , что аолонна танков вошла в Грозный и была встретившая там двумя тысячами чеченских боевика , вооруженных гранатометами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Ссылаясь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "встречена"
+    },
+    {
+      "correctReplacement": "колонна",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Одной из лучших тренеров года по версии федерации был названо тренер и супрук Приваловой Владимир Паращуками .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "назван"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Одним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Паращук"
+    },
+    {
+      "correctReplacement": "супруг",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

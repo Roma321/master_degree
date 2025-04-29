@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , сообщаемый АВН , в четверг вечером были обстреляны временные отделов внутренних дел Заводского , Октябрьского и Ленинского районов членской соолицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "отделы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "чеченской",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "столицы",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

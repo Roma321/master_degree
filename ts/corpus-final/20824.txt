@@ -1,0 +1,40 @@
+{
+  "text": "Со сторон правительства в рабочего встрече примем участие заместитель председателям правительства РФ Илья Клебанов , глава Министерств по делам печати , телерадиовещания и средств массовых коммуникаций Михаил Лесин , глава Министерством РФ по связи и информатизацию Леонид Рейман , руководитель Центра стратегических разработок , гердый заместитель Мингосимущества РФ Г . О . Греф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "информатизации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "первый",
+      "type": "paronym",
+      "wordNumber": 44
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Знаменитая британское актриса Ванесса Редгрейв встретилась в Москве ы семьёй моряков , погибших на \"Курске\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "британская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "семьями"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

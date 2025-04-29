@@ -1,0 +1,25 @@
+{
+  "text": "Работы ослнжняются тем , что одноэтажное здание завода сильно задымившее , у него тактично обрушились крыша и внутренние перегородки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "обрушилась"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "задымлено"
+    },
+    {
+      "correctReplacement": "частично",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "осложняются",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

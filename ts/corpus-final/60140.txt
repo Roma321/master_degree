@@ -1,0 +1,30 @@
+{
+  "text": "Президент США собираются поделиться с Россией , Китай и Израилем новой технологией противоракетной обороны , когда такая система будет создано , сообщают в ыреду DrudgeReport со ссылкой на правительственные источники .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Китаем"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

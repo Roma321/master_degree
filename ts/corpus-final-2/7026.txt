@@ -1,0 +1,20 @@
+{
+  "text": "Так , например , участие в торги eMatrix обойдепся компаниям в 100 доллара в месяц .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "торгах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "обойдется",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

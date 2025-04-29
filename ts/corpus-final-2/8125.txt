@@ -1,0 +1,30 @@
+{
+  "text": "Попытки путешествовать подложному образом случаются не фпервые - как правило , они заканчиваются тем , что людей , находящихся в нише шасси , раздавливаю размещённым там подвижными механизмами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "подобным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "раздавливает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "размещенными"
+    },
+    {
+      "correctReplacement": "подобному",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "впервые",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

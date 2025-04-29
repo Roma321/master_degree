@@ -1,0 +1,30 @@
+{
+  "text": "Комиссия рассмотрела такое вопрос об участии России в весенней саммите МВФ , которьго пройдет в Вашингтонах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Вашингтоне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "весеннем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "который"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "которого",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

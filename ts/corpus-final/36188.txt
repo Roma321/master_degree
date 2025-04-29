@@ -1,0 +1,20 @@
+{
+  "text": "\"Во время Второй Мировой войн мы вместе боролись с фашизмом , и это нашеу общая победа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "наша"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "войны"
+    },
+    {
+      "correctReplacement": "нашей",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

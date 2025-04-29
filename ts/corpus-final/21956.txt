@@ -1,0 +1,30 @@
+{
+  "text": "2 января в Израиль прибуду Патриархи Московское и Всея Руси Алексий Вторую , сообщают из Иерусалима корреспонденты ближневосточного бюро НТФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Второй"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Патриарх"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

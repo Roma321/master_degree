@@ -1,0 +1,20 @@
+{
+  "text": "В финального серии москвичи не оставили никанора шансов пермскому \"Урал-Грейту\" , завершив соперничество уже в третьем матче .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "финальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "никаких"
+    },
+    {
+      "correctReplacement": "никакого",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

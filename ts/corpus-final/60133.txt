@@ -1,0 +1,15 @@
+{
+  "text": "В среду она собрало около 1000 служащих Госдепа и более получаса позвятила рассмотрению этой проблемы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "собрала"
+    },
+    {
+      "correctReplacement": "посвятила",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

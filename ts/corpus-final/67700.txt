@@ -1,0 +1,25 @@
+{
+  "text": "В ходе проверок было выявлено , что системы безопасности , обслуживающие российский АЭС , не являемся датозависимым и поэтому збоев в их работе в ночь на 1 января 2000 года не будет .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "являются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "датозависимыми"
+    },
+    {
+      "correctReplacement": "сбоев",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

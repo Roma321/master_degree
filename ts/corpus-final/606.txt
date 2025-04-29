@@ -1,0 +1,20 @@
+{
+  "text": "Между тем Генпрокуратура готовит протест по решению Московского городской суда , оставившего в силе вердикт суда первой инстанций о незаконности продления срока по делу юлия Скуратова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "инстанции"
+    },
+    {
+      "correctReplacement": "Юрия",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

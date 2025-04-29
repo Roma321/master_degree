@@ -1,0 +1,25 @@
+{
+  "text": "МИД обеспокоена , в частности ситуацией во Львове , где национал-рсдикалы проводят митингах под лозунгами : \"Смерть за смерть\" и \"Бей моралей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "митинги"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "обеспокоен"
+    },
+    {
+      "correctReplacement": "москалей\"",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "национал-радикалы",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

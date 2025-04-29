@@ -1,0 +1,30 @@
+{
+  "text": "Компанией Benthos Inc . из Массачусетса разработавшая и протестировавшая акустический модем для пересылки электронных сообщений под водой с использованием звукового волн .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "разработала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "протестировала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "звуковых"
+    },
+    {
+      "correctReplacement": "модем",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

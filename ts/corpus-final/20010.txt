@@ -1,0 +1,25 @@
+{
+  "text": "При захвате самолета им завязаем глаза фсем пассажирах и приказали им не двигаться под угрозой смерти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пассажирам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "завязали"
+    },
+    {
+      "correctReplacement": "всем",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

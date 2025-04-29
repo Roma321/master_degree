@@ -1,0 +1,20 @@
+{
+  "text": "Он с двумя помощниками пошедший проверить , в чем делу , и увидел в темноте двух мужниных , которые направлялись прямо к посту номер 17 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "пошел"
+    },
+    {
+      "correctReplacement": "мужчин",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

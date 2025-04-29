@@ -1,0 +1,15 @@
+{
+  "text": "В финальном поединке она уступил китайской спортсменке Чень Чжул .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "уступила"
+    },
+    {
+      "correctReplacement": "Чжун",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

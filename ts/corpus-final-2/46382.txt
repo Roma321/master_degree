@@ -1,0 +1,25 @@
+{
+  "text": "Всего в выборах участвуем 12 тысяч 292 комчадала , или 63 , 4 процента ор числа зарегистрировавших в округе избирателя .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "участвовали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "зарегистрированных"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

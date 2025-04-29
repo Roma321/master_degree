@@ -1,0 +1,25 @@
+{
+  "text": "Большие часть тстровом осталась бег электроэнергии , в нескольких местах лопнули водопроводы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Большая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "острова"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "островом",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщила НТВ со ссылкой на западные тушагентства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "агентства",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "турагентства",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Эксперты высказываемые мнению , что столь резкое падение NASDAQ - это реакция рынка на чрезмерно быстрый в последнее время рост цен нс акции многих компаний .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "высказывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "мнение"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

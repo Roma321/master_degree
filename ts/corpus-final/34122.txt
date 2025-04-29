@@ -1,0 +1,25 @@
+{
+  "text": "Одобренный в целом проект национальной доктрины развитого образования будет доработавший в течения двух месяцев и представлен на утверждение , сообщила ректор МГУ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "доработан"
+    },
+    {
+      "correctReplacement": "развития",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Последний дважды явно запаздывали с выходами из ворот , чем не замедлю воспользоваться Патрик Клюйверт , жабивший в первом тайме мячи на 24-м и 38-й минутах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "запаздывал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "замедлил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "24-й"
+    },
+    {
+      "correctReplacement": "забивший",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

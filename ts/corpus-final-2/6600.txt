@@ -1,0 +1,25 @@
+{
+  "text": "Возле дома 1б по улице Синельниковская в Юго-Западном округе столицы неизвестные заступники , вооруженные пистолетом , нападём на частного предпринимателя , выстрелим ему в живот и , отберу 32 тысячи рублей , скрылись .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "напали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "отобрав"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "выстрелили"
+    },
+    {
+      "correctReplacement": "преступники",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

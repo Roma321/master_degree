@@ -1,0 +1,25 @@
+{
+  "text": "По словам операторов , банты запасаются валютой , ожидав заметного роста котировок в новом году , а также в связи с тем , что ближайшие 8 дней торги проводиться нп будут : первая валютной сессия в 2000 году состоится 5 января .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "ожидая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "валютная"
+    },
+    {
+      "correctReplacement": "банки",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

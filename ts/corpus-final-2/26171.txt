@@ -1,0 +1,15 @@
+{
+  "text": "Партия из двух тфсяч игрушек , поступившая в магазины США , была продавшая за четыре дня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "продана"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

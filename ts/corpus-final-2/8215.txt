@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщу начальник Главного управления по делу ГО и СС Сахалинских областью Николай Смирнов , эпицентр находившийся на суше - приблизительно в 200 километрах севернее Южно-Сахалинска .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Сахалинской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "делам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "ЧС",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

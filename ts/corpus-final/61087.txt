@@ -1,0 +1,25 @@
+{
+  "text": "Ранее , в среде , Филиппинское национальные бюро расследований (НБР) назвало де Гузмана как \"человека , находящегося под следствием\" , но оно не спешит предъявлять его обвинение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "национальное"
+    },
+    {
+      "correctReplacement": "среде",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Правительство России на наведении в четверг выступили с законодательной инициативой повысить в 5 раз минимальные ставки налога на игорное бизнес .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "игорный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "выступило"
+    },
+    {
+      "correctReplacement": "заседании",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

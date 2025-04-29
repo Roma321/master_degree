@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время водолаз извлекли с 12-метровой глубин на поверхность четыре тпла .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "водолазы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "глубины"
+    },
+    {
+      "correctReplacement": "тела",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Вместе с тем ранее начальник нресс-службы Северного флоту Владимир Навроцкие заявленный , что \"в девятом отсеке , действительно , было обнаружено тело одного из подводников\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "флота"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Навроцкий"
+    },
+    {
+      "correctReplacement": "отсеке",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "пресс-службы",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

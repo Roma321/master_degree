@@ -1,0 +1,20 @@
+{
+  "text": "Банках спешит скупить валюту , приток которой в Россию после вчерашнего решения ОПЕА может существенно сократиться , отмечают наблюдатели .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "спешат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Банки"
+    },
+    {
+      "correctReplacement": "ОПЕК",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

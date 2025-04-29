@@ -1,0 +1,35 @@
+{
+  "text": "В использовании денег не ио назначению уличившие Карелия , Мордовия , Бурятия , Архангельский , Ленинградская , Владимирские , Рязанская , Тверская , Ярославские и другие области , а также Алтайский и Приморский край .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "уличены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Ярославская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Архангельская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Владимирская"
+    },
+    {
+      "correctReplacement": "другие",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

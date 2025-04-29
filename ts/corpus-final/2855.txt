@@ -1,0 +1,25 @@
+{
+  "text": "\"Их правление будет свидетельствовать о том , что в российских банкомате угроза компрометации для карты ничуть не выше , чем в любой другого странах мира\" , сказал представитель одного из банков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "банкоматах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "стране"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "другой"
+    },
+    {
+      "correctReplacement": "заявление",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

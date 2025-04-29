@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщались , на протяжении почти четырех последних месяцев стоимость корзиной ОПЕК держалась выше верхних предела ценового помидора в 28 долларов за баррель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "верхнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "корзины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "коридора",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

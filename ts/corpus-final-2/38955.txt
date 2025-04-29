@@ -1,0 +1,25 @@
+{
+  "text": "По словах претставителей палестинских медицинских служб , во время сегодняшнего столкновений были ранены по крайней мере 75 палестинцев , 18 из которых находятся в критическом состоянии \"и могут умершие в любой момент\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "умереть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "сегодняшних"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

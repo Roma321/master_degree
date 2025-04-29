@@ -1,0 +1,20 @@
+{
+  "text": "На заседании Государственного Думы во вторник депутаиы примем во втором чтении законопроект \"О повышении минимального размера оплаты труда\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "correctReplacement": "депутаты",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "По сведения израрльского радио , семья Каханах заправляюсь в Иерусалим из еврейского поселения Кфар Тапуах , расположенного вблизи Наблусе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Наблуса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "направлялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Кахане"
+    },
+    {
+      "correctReplacement": "направляюсь",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "израильского",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Ранее , в 1997 году , Тернер еже прославился как меценат , когда преподнес в подарок ООН одна миллиард доллара на гуманитарные цели .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

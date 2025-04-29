@@ -1,0 +1,20 @@
+{
+  "text": "На специально отведенную площадку доставляется транспорт , не имеющее соответствующих документов иль находящийся в розыска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "розыске"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "имеющий"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

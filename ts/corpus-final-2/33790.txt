@@ -1,0 +1,25 @@
+{
+  "text": "Выступавший на митинге председатели фракции СПС в Госдуме Борисы Немцов призвал собравшихся не забываемые о жертвах патологических репрессий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "забывать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Борис"
+    },
+    {
+      "correctReplacement": "политических",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

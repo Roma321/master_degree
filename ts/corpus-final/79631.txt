@@ -1,0 +1,30 @@
+{
+  "text": "Говоримые о состоявшейся минувшей ночью совещании в Моздоке , первый заместитель начальника Генштаба сообщу , что президент Владимир Путин подчеркнули необходимость точно , \"без изъягий\" , выполнять соответствующие приказы и инструкции .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Говоря"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "состоявшемся"
+    },
+    {
+      "correctReplacement": "изъятий\"",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

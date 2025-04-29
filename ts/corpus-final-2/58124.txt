@@ -1,0 +1,25 @@
+{
+  "text": "Выйду в фойе , двое молодых человека устроил драку , избив гардеробщацу и администратора театра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "устроили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выйдя"
+    },
+    {
+      "correctReplacement": "гардеробщицу",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

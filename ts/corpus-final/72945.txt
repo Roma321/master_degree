@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу мэр Москвы Юрий Лужков был дгпрошен сотрудником Следственного комитета МВД России как созидатель по делу руководителя налоговой управлению правительства Москвы , сообщаю НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "управления"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "налогового"
+    },
+    {
+      "correctReplacement": "свидетель",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "допрошен",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

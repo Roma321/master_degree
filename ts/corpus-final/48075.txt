@@ -1,0 +1,20 @@
+{
+  "text": "Там в воскресенье одерщал убедительную победу бывшему мэр Владивостока Виктором Черепков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Виктор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "одержал",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

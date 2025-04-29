@@ -1,0 +1,25 @@
+{
+  "text": "С точки зрения Министерств печати РФ , каждый сайт в сети Интернет должен рассматриваться как \"средство массовой информации\" , если его артериальная аудимории превышает тысячу человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "аудитория"
+    },
+    {
+      "correctReplacement": "потенциальная",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "аудитории",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

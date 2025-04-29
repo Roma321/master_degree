@@ -1,0 +1,35 @@
+{
+  "text": "Наблюдатели считает , что участник рынком опять почувствовавшие интерес к подешевевшим акциям высокотехнологичных компаний , от еоторых они освобождались на протяжении ведающей предыдущей недели .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "рынка"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "почувствовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "участники"
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "которых",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

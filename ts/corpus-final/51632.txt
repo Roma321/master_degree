@@ -1,0 +1,25 @@
+{
+  "text": "Он сообщили , что на предстоящей встречах главы внешнеполитических ведомств обсудившие широкий круг политических , экономичуских и инвестиционных вопросов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "обсудят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "встрече"
+    },
+    {
+      "correctReplacement": "экономических",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

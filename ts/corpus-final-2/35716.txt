@@ -1,0 +1,25 @@
+{
+  "text": "Он был приговоривший Верховному судом Индонезии к полутора годам тюремного заключения по обвинению в коррупйии и нанесении ущерб государству .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Верховным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "ущерба"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "correctReplacement": "коррупции",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

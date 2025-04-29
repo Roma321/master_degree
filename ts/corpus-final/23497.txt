@@ -1,0 +1,25 @@
+{
+  "text": "Судя по всему , хакеры не смогшие добраться до наиболее секретная информации , хранящейся во взломанных сетях , однако представители лабораторий сообщили в интервью BBC , что власти у.е связались с подозреваемыми , хотя никаких санкций к ним тока не применялось .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "секретной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "смогли"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "paronym",
+      "wordNumber": 38
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

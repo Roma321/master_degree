@@ -1,0 +1,30 @@
+{
+  "text": "Командующий объединённой группировками федеральных войск на Северном Кавказе генерал-полковник вектор Казанцев подтвердил в субботу слухи о ранении президента Чечнёй Аслана Масхадова , сообщает ГТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "объединенной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "группировкой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Чечни"
+    },
+    {
+      "correctReplacement": "Виктор",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

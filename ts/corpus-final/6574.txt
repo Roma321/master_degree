@@ -1,0 +1,35 @@
+{
+  "text": "Главный вопрос дискуссии - насколько принытый в Великобритании комплексе профилактических ветеринарных мер ликвидированный опасность отравления людей мясом крупного рогатого скотов , перенёсшего в 1997 году эпидемии бешенства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "перенесшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "эпидемию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "ликвидировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "скота"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "комплекс"
+    },
+    {
+      "correctReplacement": "принятый",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

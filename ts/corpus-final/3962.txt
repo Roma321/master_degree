@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , на встрече с президентом США рассматривавшиеся и другие вопрос , в частности , предстоящий саммит ОБСЕ в Стамбулп .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "рассматривались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "вопросы"
+    },
+    {
+      "correctReplacement": "Стамбуле",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

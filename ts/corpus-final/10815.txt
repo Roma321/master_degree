@@ -1,0 +1,30 @@
+{
+  "text": "Россия изменю свою позицию и дал согласие на визиты председателя Организации по безопасности и соперничестве в Европе Кнута Воллебека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "визит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "сотрудничеству"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "дала"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "изменила"
+    },
+    {
+      "correctReplacement": "сотрудничестве",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

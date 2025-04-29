@@ -1,0 +1,25 @@
+{
+  "text": "В результате столкновение три челомея - два кондуктора и одно пассажиры - погибли , более 10 человек получили ранения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пассажир"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

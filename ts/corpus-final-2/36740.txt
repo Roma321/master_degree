@@ -1,0 +1,20 @@
+{
+  "text": "В пресс-релизе холдинга говорящийся , что новый портал будет знакомить студента с материалами лекций лучших преподавателях страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "преподавателей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "студентов"
+    }
+  ]
+}

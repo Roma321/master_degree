@@ -1,0 +1,25 @@
+{
+  "text": "Исполнявший обязанности главы государства Владимир Путин поздравивший в понедельник буддистов России с праздником Сагеалган - Новым годом по лунному календарю , сообщаем РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Исполняющий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "поздравил"
+    },
+    {
+      "correctReplacement": "Сагаалган",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

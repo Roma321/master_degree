@@ -1,0 +1,30 @@
+{
+  "text": "Это и не удивительно : нашедший труп , как ему известно , был аже до неузнаваемости обезобразивший , подвергнувшись тлениям из-за весеннего потеплении .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "найденный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "потепления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "тлению"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "обезображен"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

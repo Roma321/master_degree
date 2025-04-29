@@ -1,0 +1,20 @@
+{
+  "text": "Напомню , что всероссийскими спецслужбы захватили Радуева в поселке Новогрозненский в Чечне и 13 марта привезли в Москву .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "российские"
+    },
+    {
+      "correctReplacement": "российскими",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным сейсмологов , толчки силой в 6 , 7 бсллов по шкале Рихтере были зарегистрируем около 2 : 30 ночи .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "зарегистрированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Рихтера"
+    },
+    {
+      "correctReplacement": "баллов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

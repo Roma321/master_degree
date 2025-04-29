@@ -1,0 +1,20 @@
+{
+  "text": "Судебные заседания будут проходить в столице области Усть-каменогдрсках , в красному уголке следственного изолятора , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "красном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Усть-Каменогорске"
+    },
+    {
+      "correctReplacement": "Усть-каменогорсках",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

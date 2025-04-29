@@ -1,0 +1,30 @@
+{
+  "text": "Представитель Гора выступил с заявление , что щта утечка информацию явно произойду по политическим причинам , письмо же , на само деле , \"является частью усилий США повлиять на Россию с целью прекратить или ограничить ее сотрудничество с Ираном в области ядерных технологий . \"",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "заявлением"
+    },
+    {
+      "correctReplacement": "эта",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

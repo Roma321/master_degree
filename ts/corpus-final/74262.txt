@@ -1,0 +1,20 @@
+{
+  "text": "Это произошёл на островах Хальмахера , где недавно имели место столкновения между мусульманами и христианам. .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "острове"
+    },
+    {
+      "correctReplacement": "христианами",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

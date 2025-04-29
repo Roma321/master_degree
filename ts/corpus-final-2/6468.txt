@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратура Калининградского области расследованный дело по факту смерти , а ее убийства Анатолия Собчака , пояснил он .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "расследует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Калининградской"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

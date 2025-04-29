@@ -1,0 +1,25 @@
+{
+  "text": "В Санкт-Петербурге в март набор подорожавший на 0 , 6 процента по сравнениям с февралем и на 4 , 8 протесты относительно начала года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "марте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "подорожал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "сравнению"
+    },
+    {
+      "correctReplacement": "процента",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "При столкновении грузовик опрокинулись , у автобуса была сорван уасть крыши , мнущая переднее часть корпуса и выбиты стекла .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "передняя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "опрокинулся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "смята"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "сорвана"
+    },
+    {
+      "correctReplacement": "смявшая",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

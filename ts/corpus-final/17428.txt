@@ -1,0 +1,20 @@
+{
+  "text": "В Башкортостане был отключён сайте регионального отделения \"Яблока\" , сообщаеп РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "отключен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сайт"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

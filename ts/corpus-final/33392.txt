@@ -1,0 +1,25 @@
+{
+  "text": "По данным главного эксперта СКВО полковника Александром Ермакова , в этих вагонах находимся около 125 тел , из которых примерно пятая часть - останки военнослужащих российской армии , остальной - останки неопознанных гражданскрх лиц .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "остальные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Александра"
+    },
+    {
+      "correctReplacement": "гражданских",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

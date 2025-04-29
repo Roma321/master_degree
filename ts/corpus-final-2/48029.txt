@@ -1,0 +1,20 @@
+{
+  "text": "Нобелевское премию пщ физике в этом году получили три человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Нобелевскую"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

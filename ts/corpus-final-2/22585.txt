@@ -1,0 +1,25 @@
+{
+  "text": "Прокуроры Назрани Мухарбек Бузуртаноф сказали , что по данному факту по статье \"воинское преступление\" возбуждено уголовное дело , которое будет передано в 59-й военную прокуратуру .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "59-ю"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Прокурор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "Бузуртанов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

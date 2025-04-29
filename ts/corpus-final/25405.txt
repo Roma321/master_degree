@@ -1,0 +1,20 @@
+{
+  "text": "Руководство Leeds United издам официальное заявление , где говорюсь , что клуб признает факт воздержания полицией двух игроков этого клуба .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "издало"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "говорится"
+    },
+    {
+      "correctReplacement": "задержания",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

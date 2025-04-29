@@ -1,0 +1,20 @@
+{
+  "text": "Поэтому компания не приобрёл на аукционе ни одному лота , выяснивший он .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "приобрела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "пояснил",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

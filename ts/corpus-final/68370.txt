@@ -1,0 +1,35 @@
+{
+  "text": "Уставшие от пробок американские водители , увиденные в Сети рекламу устройств под названием Go-box и ценами от 69 до 150 доллара , посылали по указанной в объявлении адресу чеки и отличные деньгах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "увидев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "ценой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "указанному"
+    },
+    {
+      "correctReplacement": "наличные",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

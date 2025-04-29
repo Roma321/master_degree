@@ -1,0 +1,20 @@
+{
+  "text": "Дело в том , что посещение Кубы проамериканских туристами сильно ограничено из-за эмбарго , которое запрещающий торговлю с Кубой - и соответсвенно , запрещает туризм .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "запрещает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "американскими"
+    },
+    {
+      "correctReplacement": "американских",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

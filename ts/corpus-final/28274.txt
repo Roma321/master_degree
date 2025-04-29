@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщим РИА \"Новости\" вдальневосточном региональном центах МСС , эпицентр землетрясениянаходился примерно в восьмидесяти километрах от острова Шикотан .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "центре"
+    },
+    {
+      "correctReplacement": "центрах",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "МЧС",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

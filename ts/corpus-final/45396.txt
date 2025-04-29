@@ -1,0 +1,25 @@
+{
+  "text": "Напомните , что сотрудниками Главного управления по борьбе с организованной преступностью ликвидировано крупное преступное общество , финансирующее чеченского боевиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "чеченских"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "финансировавшее"
+    },
+    {
+      "correctReplacement": "сообщество",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

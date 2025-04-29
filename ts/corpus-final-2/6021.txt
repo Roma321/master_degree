@@ -1,0 +1,25 @@
+{
+  "text": "А английский газета News Of The World публикует на своих страницах портреты и адреса преступников , осудивших за ознаменовании детей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "изнасилование"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "английская"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "осужденных"
+    },
+    {
+      "correctReplacement": "изнасиловании",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

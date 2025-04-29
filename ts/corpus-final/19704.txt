@@ -1,0 +1,25 @@
+{
+  "text": "Спикер отметил , что оно было назначен в нарушению регламента не за три день , а всего лишь за сутки , и предложило перенести его на 29 декабря .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "назначено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "нарушение"
+    }
+  ]
+}

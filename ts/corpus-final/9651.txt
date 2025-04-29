@@ -1,0 +1,20 @@
+{
+  "text": "Однако они считают , что британское компания может позволить себе увеличивающие сумму покупки , сообщал РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "британская"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "увеличить",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

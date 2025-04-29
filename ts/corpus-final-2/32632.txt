@@ -1,0 +1,20 @@
+{
+  "text": "Предприятие недоплатило в государственных казной более 12 , 5 миллиона рублей Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "казну"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "государственную"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

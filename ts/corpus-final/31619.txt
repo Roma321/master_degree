@@ -1,0 +1,25 @@
+{
+  "text": "В неловкой положении окажемся ученики , форсировафшие запуск спутника с ракетоносителем Н-2 в ноябре 1999 года , так как на восьмой минуте после старта ракета отклонилась от намеченного курса .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "оказались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "неловком"
+    },
+    {
+      "correctReplacement": "ученые",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "форсировавшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

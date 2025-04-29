@@ -1,0 +1,35 @@
+{
+  "text": "Как считающие в США , сейчас самое время для изменения молитики МВФ : мировой финансовый кризис в основном прошел , а нынешний глава Фонду Мишели Камдессю , который поддерживаю программу МВФ по кредитованию пострадавших от финансового кризиса стран , объявила об уходе в отставку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 39,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Мишель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Фонда"
+    },
+    {
+      "correctReplacement": "политики",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

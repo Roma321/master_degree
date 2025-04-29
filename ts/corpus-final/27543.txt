@@ -1,0 +1,25 @@
+{
+  "text": "Ему сообщу , что судьбу своего корреспондента на радиостанции пытались вытеснившие как по официальным , так и по собственным каналам - через западных корреспондентов , работающих в Чечне , а также депутатов Госдумы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "пытаются"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "выяснить",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

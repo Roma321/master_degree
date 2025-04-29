@@ -1,0 +1,20 @@
+{
+  "text": "\"Первый годом сайт \"Анекдоты из России\" жил на сервере Кентуккийского университета , и делал его я в одиночку\" , - сообщили создатель сейта во время \"виртуальной встречи\" , состоявшейся в среду на сайте Anekdot . ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "сайта",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "80 процентов средства было выделена из бюджета финляндской и только 20 процентов получено от ЕС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "выделено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "средств"
+    },
+    {
+      "correctReplacement": "Финляндии",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

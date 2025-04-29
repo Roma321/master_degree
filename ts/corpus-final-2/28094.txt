@@ -1,0 +1,35 @@
+{
+  "text": "По уточненным данными , в результате взрывом , прогремевшего в четверг в Грозном , погибнем девятнадцать человеке : семерых убило на месте , и восьми скончались в больнице .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "восемь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "пятнадцать",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

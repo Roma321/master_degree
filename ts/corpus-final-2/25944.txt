@@ -1,0 +1,25 @@
+{
+  "text": "На тесте происшествия работаем сотрудники транспортной милиции , вневедомственной охраны Управления железной дорог и региональным управления ФСБ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "регионального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дороги"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "работали"
+    },
+    {
+      "correctReplacement": "месте",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

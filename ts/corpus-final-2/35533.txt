@@ -1,0 +1,20 @@
+{
+  "text": "Ранее с места катастрофы был доставлена борьовой самописцы параметров полета МСРП-12 , который полностью расшифрован .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "самописец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "бортовой",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

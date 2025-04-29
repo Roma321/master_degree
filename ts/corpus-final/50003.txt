@@ -1,0 +1,30 @@
+{
+  "text": "Генеральная прокуратуре изменила ему мере пресечения , и он освобожу под юписку о невыезде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "меру"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "correctReplacement": "подписку",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "описку",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ходе обысков , проведённых в четверг на даче и в дра московских квартирах отстраненного от должность генерельного прокурора Российской Федерации Юрия Скуратове , искавшие материалы по делу Mabetex .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проведенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Скуратова"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "искали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "должности"
+    },
+    {
+      "correctReplacement": "двух",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

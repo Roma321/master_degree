@@ -1,0 +1,30 @@
+{
+  "text": "По словам помощника президентов Сергее Ястржембскому , в списке награжденных - 50 журналистов , работающих на телеканале ОРТ , РТР , НТВ , ТВ-6 , ТВ-Центр , в телекомпании \"ВИД\" , анентствах \"Интерфакс\" , ИТАР-ТАСС и других .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "телеканалах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Ястржембского"
+    },
+    {
+      "correctReplacement": "агентствах",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

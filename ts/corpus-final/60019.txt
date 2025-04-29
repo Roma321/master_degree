@@ -1,0 +1,25 @@
+{
+  "text": "Сама Розана заявленная журналисткмм Associated Press , что не совершаю ничего противозаконного .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "совершала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявила"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "журналисткам",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

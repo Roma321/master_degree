@@ -1,0 +1,20 @@
+{
+  "text": "Вечером в воскресенье на перегонах Ежиха-Иготино Кировского отделения Горьковской железной дороги столкнёмся грузовой состав и ремонтный проезд .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "столкнулись"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "перегоне"
+    },
+    {
+      "correctReplacement": "поезд",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

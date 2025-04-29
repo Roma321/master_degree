@@ -1,0 +1,20 @@
+{
+  "text": "Если президенты Билл Клинтон подпишет закон , уже одобренный Сенатом п Белой Домом , то авиакомпании будут нести отвественность за ущерб здоровью животных или их гибель во время перелета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Белым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Вскоре в Москвы можно будет позвонить за границы с обычной уличного таксофона , сообщает \"Эхо Москвы\" со ссылкой на агентство \"МК-Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "обычного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "границу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Москве"
+    }
+  ]
+}

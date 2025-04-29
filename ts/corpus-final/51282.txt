@@ -1,0 +1,30 @@
+{
+  "text": "Все дела , связанные с уплатой налогов московскими рынками , шериданные в ведение 42-й городских налоговых инспекцией , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "инспекции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "переданы",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Колонна обжигалась Урус-мартан в Шатой для проведения инженерного и войсковойразведки варшрута .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "инженерной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Урус-Мартана"
+    },
+    {
+      "correctReplacement": "двигаласьиз",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "маршрута",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

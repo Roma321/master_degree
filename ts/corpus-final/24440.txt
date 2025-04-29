@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что 10 января при ликвидации утечек на газовых трубе в трех жилых домах Армавира ремонтники обнарижили набором предметов , явно предназначенных для той , чтобы быть взрывным устройством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "трубах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "набор"
+    },
+    {
+      "correctReplacement": "обнаружили",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

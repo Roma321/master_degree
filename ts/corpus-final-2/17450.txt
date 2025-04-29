@@ -1,0 +1,20 @@
+{
+  "text": "Торги на бирже в Нью-Йорке в понедельник закончились повышением цен на нефти : на момент закрытия биржи баррель нефти с поставке в октябре подорожал на 4 , 5 процента и стоила 35 , 14 доллара .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "поставкой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "стоил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "нефть"
+    }
+  ]
+}

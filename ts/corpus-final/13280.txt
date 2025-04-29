@@ -1,0 +1,30 @@
+{
+  "text": "3 декабря в Национальном институте прессы состоялась пресс-конференция Антимилитаристской радикального диссоциации по делу Дмитрия Неверовского , осуждённого недавно за отказом от военного службы по убеждениям .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "радикальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "отказ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "осужденного"
+    },
+    {
+      "correctReplacement": "ассоциации",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

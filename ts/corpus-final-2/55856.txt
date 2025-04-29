@@ -1,0 +1,25 @@
+{
+  "text": "В Петрозаводске тяжело раненное милиционеры сумел задержать преступника , ограбившего кассу одного из предприятий города , сообщает \"Интерфакс\" со ссылкой на источнику в МЦД Карелии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "источник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "раненный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "милиционер"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как передавал Reuters , это более чем в десять раз превышает количество игровых приставок PlayStation первого поколений , проданного за тот же период пять лет назад .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "поколения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "проданных"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

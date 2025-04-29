@@ -1,0 +1,35 @@
+{
+  "text": "Губернаторы Ульяновской область Владимир Шаманов подписал две распоряжения , направифших на проверку законности сделок по приватизации , совершенных при передней администрации области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "направленных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Губернатор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "прежней",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "направивших",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

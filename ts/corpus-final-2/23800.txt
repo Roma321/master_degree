@@ -1,0 +1,20 @@
+{
+  "text": "Об этнм сообщила заместитель официальном представителя госдепартамента США Филип Рикер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "официального"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

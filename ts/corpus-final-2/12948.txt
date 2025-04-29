@@ -1,0 +1,25 @@
+{
+  "text": "Правительство РФ планирует с 1 января 2001 года ввести на импорт зарубежных товаров унифицируемый режим , который предполагаемый снижением таможенных пошлин до 20 и менее процентоф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "снижение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "унифицированный"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

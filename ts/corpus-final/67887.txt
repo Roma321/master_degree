@@ -1,0 +1,25 @@
+{
+  "text": "Он отметил , что база была хорошо подготовлена : на ней хранилось до 60 тысяч патроны , большое количество продовольствия , в тех числу 140 мелков с мукой , сахар , масло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "патронов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "мешков",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

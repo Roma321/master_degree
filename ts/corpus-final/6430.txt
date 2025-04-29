@@ -1,0 +1,30 @@
+{
+  "text": "Ем серьезные опасения , что с отъездом миссии ООН Восточный Тимор захлестнувший ещё более мощный волна теьрора и анархии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "захлестнет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Есть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "мощная"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "террора",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данных , причинами пожара стало короткое замыкание в электропроводке в аптечных киоске .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "аптечном"
+    }
+  ]
+}

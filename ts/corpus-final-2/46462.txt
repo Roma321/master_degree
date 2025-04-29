@@ -1,0 +1,25 @@
+{
+  "text": "Система EACCESS рассчитавшая в первую очередь на рынок платежей за услуги , которые можно получить в реальной времени , например , доступы к платным информационным системам или бронирование жилетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "доступ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассчитана"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "реальном"
+    },
+    {
+      "correctReplacement": "билетов",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Управление по безопасности железных дорог США вышлю на место происшествия спиральную комиссией , которая должна установленные причину аварии и возможные послетздвие химического взрыва .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "установить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "последствия"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "выслало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "комиссию"
+    },
+    {
+      "correctReplacement": "специальную",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "последствие",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

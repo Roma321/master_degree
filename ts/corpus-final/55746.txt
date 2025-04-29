@@ -1,0 +1,45 @@
+{
+  "text": "Оплата производится просто : пользователь выбираешь те песни , за которые хочет заплатить , вводит номер своего кредитную карта , и нажимает на ОК . При этом нс сайте особо оговаривался , что перечисляемая сумма не означает точной размер греха , который вы за собой признаете (то есть можно перечислить и больше) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "кредитной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "выбирает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "размера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 37,
+      "correctReplacement": "точного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "оговаривается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "карты"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

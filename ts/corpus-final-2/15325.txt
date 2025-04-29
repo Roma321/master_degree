@@ -1,0 +1,25 @@
+{
+  "text": "По данным официальных американских источников , на которые ссылался телекомпания CNN , стоимтсти предусмотренных соглашением работ по стабилизации 34 тонн плутония составляет около 6 млрд долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "ссылается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "стоимость"
+    },
+    {
+      "correctReplacement": "утилизации",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "стоимости",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

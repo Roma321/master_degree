@@ -1,0 +1,25 @@
+{
+  "text": "В результате взрыва и начавшегося пожара в атмосферу было выброшено несколько тысяч тонн токсичных химических веществ , в том числе серная и атомных кислоту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "серной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "кислоты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "азотной"
+    },
+    {
+      "correctReplacement": "азотных",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После вывода войск из Южного Ливана Израиль намеренно защитить свою территорию от ракетных обстрелов с помощами ротных лазеров , сообщу в среду представитель Министерства обороны страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "намерен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "помощью"
+    },
+    {
+      "correctReplacement": "мощных",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

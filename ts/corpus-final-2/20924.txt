@@ -1,0 +1,20 @@
+{
+  "text": "С шестью очки на первый место здесь вышли испанцы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "очками"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первое"
+    },
+    {
+      "correctReplacement": "очки",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

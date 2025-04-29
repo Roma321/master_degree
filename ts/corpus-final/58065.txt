@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщил в путаницу назначенная решением арбитражного суде Свердловской области ликвидатор Алексей Борщенко , передает РИА \"Новости .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "назначенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "суда"
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

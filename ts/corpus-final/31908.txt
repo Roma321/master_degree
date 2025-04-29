@@ -1,0 +1,35 @@
+{
+  "text": "Плата за электроэнергию в квартирах с электрического плитой теперь cоставляешь 28 аопейки за одного киловатт-час , а с газовой плитой - 40 копеек за один милующий .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "cоставляет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "электрической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "копеек"
+    },
+    {
+      "correctReplacement": "киловатт-час",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "копейки",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

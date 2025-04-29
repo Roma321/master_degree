@@ -1,0 +1,20 @@
+{
+  "text": "Одна - толкнуть нас на контратаку , чтобы сказать потом , что Чеыня напала на ядерной державу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "ядерную"
+    },
+    {
+      "correctReplacement": "Чечня",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

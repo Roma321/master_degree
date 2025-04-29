@@ -1,0 +1,45 @@
+{
+  "text": "В пресс-центре восточной группировки федеральных сил в Махачкале сообщённые , что взрыв произошел в результате плановых уничтожения боеприпасов . По информации , получившей из военного комиссариате Дагестана , вуказанной районе прожодимые учений по уничтожению ракет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "вуказанном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "комиссариата"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "планового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "полученной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "учения"
+    },
+    {
+      "correctReplacement": "проходимые",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

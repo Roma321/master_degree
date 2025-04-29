@@ -1,0 +1,25 @@
+{
+  "text": "Полпред президента считал , что муниципальная милиция в Чечне долхна насчитывать пять-шесть тысяч люди , при этом необходим \"жесточайший отборы в ее ряды\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "отбор"
+    },
+    {
+      "correctReplacement": "должна",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

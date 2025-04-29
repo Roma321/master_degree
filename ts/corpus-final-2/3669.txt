@@ -1,0 +1,25 @@
+{
+  "text": "Он вышедший к журналистам после встречи со своим японским коллегами - главой МИД Йохъем Коно , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "коллегой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "вышел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Йохэем",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

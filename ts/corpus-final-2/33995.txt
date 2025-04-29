@@ -1,0 +1,35 @@
+{
+  "text": "В августе Пол Аллена также подам в Комиссию США по ценным бумагам заявку на подачу так называющего \"учредительского пакета\" акций , обладателем которого Аллен стао в июне 1981 годов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "подал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Аллен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "называемого"
+    },
+    {
+      "correctReplacement": "продажу",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "стал",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

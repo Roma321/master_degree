@@ -1,0 +1,25 @@
+{
+  "text": "Во время событий , предшествующих гатастрофе , разговоры экипажа самолета с аэропортами Уилксбэра прослушивал пятнадцатилетние радиолюбитель Джейсон Брайден , сообщающий агентство Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "аэропортом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пятнадцатилетний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "катастрофе",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

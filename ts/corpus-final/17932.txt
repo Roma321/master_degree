@@ -1,0 +1,20 @@
+{
+  "text": "Как считает корреспондент Reuters Лоренс Шитс , российская правительство \"пытается пристыдившие себе заслуг в эвакуации людей из Грозного\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "заслуги"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "российское"
+    },
+    {
+      "correctReplacement": "присвоить",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В нем террорист заявил также , что не имеет никакой отношения к арестованным на днях в Кувейте людям , которых обвиняющие в подготовке терактов на американских базах в этой и соседние странами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "странах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "соседних"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "никакого"
+    }
+  ]
+}

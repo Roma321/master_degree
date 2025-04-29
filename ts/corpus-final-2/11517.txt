@@ -1,0 +1,30 @@
+{
+  "text": "Конкретный план действий в эго области предстоящий обсудить 20 августе в Бишкеке , куда по поручению Владимира Путина отправится секретарь Совета безопасности России Сергей Иванову .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "августа"
+    },
+    {
+      "correctReplacement": "этого",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

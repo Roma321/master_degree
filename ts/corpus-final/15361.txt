@@ -1,0 +1,20 @@
+{
+  "text": "Путину сообщил , в частности , что дней 8-9 назад он встречался с одним из вице-премьерах правительства Масхадова , который приехал в Москву по поручению преэидента Чечни .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "вице-премьеров"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

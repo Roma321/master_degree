@@ -1,0 +1,30 @@
+{
+  "text": "кап отмечаемый корреспондент ВВС , Лавин приехала в избирательный штаб Лагосв и поздравило его с победой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "приехал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "поздравил"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Лагоса",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

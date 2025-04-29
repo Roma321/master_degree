@@ -1,0 +1,30 @@
+{
+  "text": "По итогам июнем инфляции составила 2 , 5 процента , заявивлий в понедельник президент РФ Владимир Путин на рабочей встрече с членами писательства , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "инфляция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "июня"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "заявивший",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

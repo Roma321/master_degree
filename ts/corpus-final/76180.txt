@@ -1,0 +1,30 @@
+{
+  "text": "Их ставки равняюсь десяти процентам от таможенной стоимость автомобилей ( в РФ афто с такой объемом движка не производятся) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "стоимости"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ставка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "равнялась"
+    },
+    {
+      "correctReplacement": "авто",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ответ стражи порядков в изгаженрых мундирах применили слезоточивые газ и резиновые дубинок , а затем задержали около 60 наиболее активных участников массовой акции протесте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "протеста"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "дубинки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "слезоточивый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "порядка"
+    },
+    {
+      "correctReplacement": "изгаженных",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Москву прибыла миссия Всемирного банка , которая проконтролировал ход проформ в угольных отрасли России , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "угольной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "проконтролирует"
+    },
+    {
+      "correctReplacement": "реформ",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

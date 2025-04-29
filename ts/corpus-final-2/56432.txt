@@ -1,0 +1,25 @@
+{
+  "text": "Несчастная случай произошли рыдом с кортом Чандпур , примерно в 100 километрах от столицы Бангладеш Дакки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Несчастный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "портом",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "рядом",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

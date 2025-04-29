@@ -1,0 +1,25 @@
+{
+  "text": "Китай обратился к Нобелевскому комитету , выразив озабоченность по поводу той , вто Нобелевскую премию мира в этом году могли дать китайским диссидентам Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

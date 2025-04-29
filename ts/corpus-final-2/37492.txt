@@ -1,0 +1,30 @@
+{
+  "text": "Таким образом , организация повела себя именно так , как и предсказывал ранее экспорт : SDMI , обещанная по 10 тысяч долларов за каждый удачный взлом , преуменьшает недостатки разработанной ею защиты и ставит под сомнение результаты взломах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "предсказывали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "взломов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "эксперты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "обещавшая"
+    },
+    {
+      "correctReplacement": "эксперт",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

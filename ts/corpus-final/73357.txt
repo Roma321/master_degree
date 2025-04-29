@@ -1,0 +1,30 @@
+{
+  "text": "Напротив домов имама , на берегу рек Мартанком , на песке утром была обнаружена надпись \"Свободная Чечня\" , м такое изображение головы волка и буквы \"ЦМ\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Мартанка"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "реки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

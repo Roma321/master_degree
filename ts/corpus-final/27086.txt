@@ -1,0 +1,40 @@
+{
+  "text": "Представитель пресс-служб напомнил , что это уже непервая попытка чеченских броневиков провести разведку бой впоисках возможности прорвавшиеся в Грузию через Аргунское ущелье , взятое под охрану пограничников и армейскими десантниками . Командование региональное управления пограничников СеверногоКавказа усиленное бдительность .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "прорваться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "регионального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "усилило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "боем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пресс-службы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "пограничниками"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

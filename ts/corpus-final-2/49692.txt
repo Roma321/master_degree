@@ -1,0 +1,25 @@
+{
+  "text": "Известному российскому писателю Виктору Пелевину присудившая немецкая литературный премия имени Рихарда Шенфельда , сообщаемый \"Эхо Мосувы\" со ссылкой на радиостанцию \"Немецкая волна\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "присуждена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "литературная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

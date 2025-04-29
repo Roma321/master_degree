@@ -1,0 +1,25 @@
+{
+  "text": "Полицейский частно бывало тум со своими другом : они ловили рыбу и купались .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "друзьями"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "бывал"
+    },
+    {
+      "correctReplacement": "часто",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "там",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "просители расположенного рядом паб были срочно эвакуируем , пожар потушен .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "паба"
+    },
+    {
+      "correctReplacement": "Посетители",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

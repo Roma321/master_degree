@@ -1,0 +1,20 @@
+{
+  "text": "Разрешение на этой поездке онк получила от российского правительства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "поездку"
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

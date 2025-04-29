@@ -1,0 +1,20 @@
+{
+  "text": "Общее ущерб от ограбления презрительно оценивший в сумму 56 тысяч рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "оценен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Общий"
+    },
+    {
+      "correctReplacement": "предварительно",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

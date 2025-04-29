@@ -1,0 +1,20 @@
+{
+  "text": "Однако срок призвания Татапенкова в России закончилась уже 3 сентября .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "закончился"
+    },
+    {
+      "correctReplacement": "пребывания",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Татаренкова",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Правоохранительные органы малороссии возбудившие новое уголовное дело в отношении бывших преаьер-министра страны Михаила Чигиря .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "возбудили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "Белоруссии",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "премьер-министра",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

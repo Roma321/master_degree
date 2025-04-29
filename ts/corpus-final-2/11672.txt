@@ -1,0 +1,30 @@
+{
+  "text": "В ходе консультаций будут обсуждаться последние изменения в российском внешнеторговой законодательстве , таможенные вопросы , проблематика аграрной септор и другими аспекты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "сектора"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "внешнеторговом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "аграрного"
+    },
+    {
+      "correctReplacement": "сектор",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

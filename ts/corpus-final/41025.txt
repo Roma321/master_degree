@@ -1,0 +1,25 @@
+{
+  "text": "Недавно в прессе появились сообщения о том , что , собирая средства для партий , Коль заложу свой дом , который по оценкам экспершов стоит не менее миллионов марок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "партии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "заложил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "correctReplacement": "экспертов",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

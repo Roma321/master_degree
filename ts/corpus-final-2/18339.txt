@@ -1,0 +1,25 @@
+{
+  "text": "Ряд торговых сетейпродолжаем нормирование продающих : так , в одни руку отпускаетсяне более трём килограммов сахара и трех литров молока .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сетейпродолжают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "руки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "трех"
+    },
+    {
+      "correctReplacement": "продуктов",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

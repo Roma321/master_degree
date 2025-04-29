@@ -1,0 +1,25 @@
+{
+  "text": "Бандиты изнасиловали девушку , похитившие из квартиры ювелирные изделия и 20 тысячи дублей , после чего скрывшиеся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "скрылись"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "похитили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

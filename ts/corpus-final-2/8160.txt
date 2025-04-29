@@ -1,0 +1,25 @@
+{
+  "text": "В некоторого селах Ножай-Юртовского района Чечни появились листовок с призывом к местной населению покинуть свои дбма в период с 5 по 7 августа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "некоторых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "листовки"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

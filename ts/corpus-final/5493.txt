@@ -1,0 +1,15 @@
+{
+  "text": "Весь текст , кроме центрального заголовков , написан по-русски без всяких намеков на украиноязычного версию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "заголовка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "украиноязычную"
+    }
+  ]
+}

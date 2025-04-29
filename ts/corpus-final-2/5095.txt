@@ -1,0 +1,15 @@
+{
+  "text": "Вылет рейса задержался сначала из-за ремонта , а потом из-за задержке багажом пассажиров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "задержки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "багажа"
+    }
+  ]
+}

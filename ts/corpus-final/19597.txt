@@ -1,0 +1,25 @@
+{
+  "text": "Аэробуса А-300 с 178 пассажирами на борту был захвачен прямо во время полета , едва он пересекли воздушное пространство индира по пути из Катманду (столицы Непала) в Дели .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пересек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Индии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Аэробус"
+    },
+    {
+      "correctReplacement": "Индия",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

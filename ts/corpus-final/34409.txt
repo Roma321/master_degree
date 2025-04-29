@@ -1,0 +1,25 @@
+{
+  "text": "В обращении акционеров КрАЗа , говорится , что 19 февраля , на внеочередной собрании акционеров в Москве , администрация завоза во главе с гендиректором Анатолием Баранцевым поставлю вопрос о проведении дополнительной эмиссии акций заводов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "внеочередном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "завода"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "поставит"
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

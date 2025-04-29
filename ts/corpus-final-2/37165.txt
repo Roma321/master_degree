@@ -1,0 +1,20 @@
+{
+  "text": "М по данным CNN , в ночь подсчётов голосов во Флориде исчезли 9 подобных ящиков , однако позже они якобы были обнаружившие нетронутыми .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "подсчета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "correctReplacement": "А",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

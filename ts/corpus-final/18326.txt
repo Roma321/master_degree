@@ -1,0 +1,20 @@
+{
+  "text": "Беженцы , пострадавшие от мощного наводнения , продолжаемые прибывать во временные лагеря , уже десятки тясяч человек , живших на побережья , покинули свои дома .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "продолжают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "побережье"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

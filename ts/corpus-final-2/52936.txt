@@ -1,0 +1,20 @@
+{
+  "text": "Проведённый экспертиза установила , что устройство состоишь из пластита вес 170 граммов и снабжено боевым запалом .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "состоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "весом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Проведенная"
+    }
+  ]
+}

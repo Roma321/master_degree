@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее времена радиационное фон на месте гибели аил \"Курск\" находятся в норме , никакого отклонений нет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "радиационный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "АПЛ",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

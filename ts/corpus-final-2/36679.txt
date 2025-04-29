@@ -1,0 +1,20 @@
+{
+  "text": "Как считал Билла Клинтон , \"это благотворно скажется на нашей экономике , поскольку заявляется инвестицией в будущие рынки\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Билл"
+    },
+    {
+      "correctReplacement": "является",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

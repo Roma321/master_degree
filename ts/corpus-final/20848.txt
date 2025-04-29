@@ -1,0 +1,25 @@
+{
+  "text": "ИТАР-ТАСС сообщаемый из Санкт-Петербурга , что в четверг в 23 : 13 в девятиэтажном доме номер 15 на Двинской улицу , в районе Морского порта , происшедший взрыв Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "улице"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Москве задержана некий Максим Чесноков , торгтванный разрешениями Минпечати на издания газет , передает радио \"Маяк\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "торговавший"
+    },
+    {
+      "correctReplacement": "торгованный",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сайт создаёшься благодаря сотрудничеством Cisco Systems Inc . ,крупнейшего мирового производящегося оборудования для Интернета и \"Программы развития ООН\" (UNDP) , работающей над переходом в он-лайн стран третьего мира .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "создается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сотрудничеству"
+    },
+    {
+      "correctReplacement": "производителя",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Спрос увеличусь в связи с длительными выходными и увеличением закупок в канун широко отмечавшей смены тысячелетие , а также из-за опасения населений , что в связр с \"проблемой-2000\" могут возникнуть сбои в работе банковских компьютерных систем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "отмечаемой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "увеличится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "опасений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "тысячелетия"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

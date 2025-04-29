@@ -1,0 +1,20 @@
+{
+  "text": "Он назначено главнокомандовавшим процессию звезд кино , которая торжественно прошествует по бульвару Сансет и Вайн Стрит 26 ноября .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "процессии"
+    },
+    {
+      "correctReplacement": "главнокомандующим",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

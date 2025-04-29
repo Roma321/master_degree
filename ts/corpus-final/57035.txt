@@ -1,0 +1,25 @@
+{
+  "text": "В ее задачи по замыслу авторов резолюции входит обследование сообщаний о нарушении прав человеку и установления виновных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "нарушениях"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "сообщений",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

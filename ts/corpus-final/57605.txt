@@ -1,0 +1,20 @@
+{
+  "text": "Футболисты сборная России прервали серию неудачных игр , которая началась с драматической ватча с украинцами в отборочном турнире чемпионата Европы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "драматического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сборной"
+    },
+    {
+      "correctReplacement": "матча",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

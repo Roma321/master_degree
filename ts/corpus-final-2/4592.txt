@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщавшееся ранее , фирмы Noga начала судебное разбирательство , связанное с тем , что правительство России имеет перен этой компанией определённых задолженность .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "определенную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "фирма"
+    },
+    {
+      "correctReplacement": "перед",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Дядя - единственная , кто поддерживающий начинания молодого человечка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "единственный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

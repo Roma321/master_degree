@@ -1,0 +1,30 @@
+{
+  "text": "Копия была опубликованы на сайте , содержащей коллекцию цифровых копий фильма , и выдавалась посетителям только в том случае , если они взамен отсылали на сайты файл с каким-нибудь другим фильмом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "фильмов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "содержащем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "опубликована"
+    },
+    {
+      "correctReplacement": "копий",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

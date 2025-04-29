@@ -1,0 +1,20 @@
+{
+  "text": "В то же время министр обороны РФ Игорь Сергеев в среду обсуждала с журналистоф только версию столкновения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "обсуждал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "журналистами"
+    },
+    {
+      "correctReplacement": "журналистов",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

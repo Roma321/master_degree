@@ -1,0 +1,25 @@
+{
+  "text": "Во времени работы космонавтики обнаружили крупную аварию , которая произошёл в подводке кабелей к приводному механизму , регулирующему повороты солнечных батерей экспериментальной конструкции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "поворот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "произошла"
+    },
+    {
+      "correctReplacement": "космонавты",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

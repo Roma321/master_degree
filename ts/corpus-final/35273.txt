@@ -1,0 +1,20 @@
+{
+  "text": "Совершая посадки , пилот также допустил ряд нарушений правил беспощаднбсти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "посадку"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "беспощадности",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Местный прокурор , комментируя этот случай , заявил , что многие люди обнаружили бы присутствие в доме одностороннего намного раньше , чем это сделанная матери девочке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "девочки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "мать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "сделала"
+    },
+    {
+      "correctReplacement": "постороннего",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

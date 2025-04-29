@@ -1,0 +1,20 @@
+{
+  "text": "После этого Патрушев придавивший сотрудникам УФСБ их нового руководителя , который раньше занимало пост заместителя начальнику Федеральной службы охраны в Москве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "занимал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "начальника"
+    },
+    {
+      "correctReplacement": "представил",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

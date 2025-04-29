@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с этим решением , из стратегическими запасов будет продавшее 30 миллиона апрелей нефти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "продано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "стратегических"
+    },
+    {
+      "correctReplacement": "баррелей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

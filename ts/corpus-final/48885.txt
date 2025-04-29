@@ -1,0 +1,20 @@
+{
+  "text": "В Новолакском районе Дагестан задрржаны пять боевиков , проникших накануне на территорию республик со стороны Чечни .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "задержаны",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

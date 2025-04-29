@@ -1,0 +1,35 @@
+{
+  "text": "17 ноября в Мидом России был вызвана временный поверенный в делах Чехии , где ему был заявлен решительный протест в связи с тем , что Ахмадов был приму официальными чешским фидерами в Канцеляриипрезидента , парламенте и МИД республика .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "чешскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "МИД"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "вызван"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "лидерами",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

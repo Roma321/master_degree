@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщивший в среду \"Интерфаксу\" источники в прокуратуре , в настоящее время арестован и содержится под стражей начальник тыоа космодрома полковник Прудовой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "источник"
+    },
+    {
+      "correctReplacement": "тыла",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

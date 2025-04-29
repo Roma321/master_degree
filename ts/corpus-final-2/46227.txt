@@ -1,0 +1,40 @@
+{
+  "text": "Так , например , самым распространенным наркотиком в Атланте является марихуана , однако в зоне присутствуют также метамфетамин и героин , в центральной Флориде главная проблема - героин , в центральной Калифорнии процветают целые лабораториях по производству метамфетамина , а в Огайо самым распространённой наркотиком остающийся кокаина , который уже утратило былых популярностью в США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 51,
+      "correctReplacement": "былую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 43,
+      "correctReplacement": "распространенным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 46,
+      "correctReplacement": "кокаин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 45,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 50,
+      "correctReplacement": "утратил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "лаборатории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 52,
+      "correctReplacement": "популярность"
+    }
+  ]
+}

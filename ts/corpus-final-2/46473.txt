@@ -1,0 +1,20 @@
+{
+  "text": "В результате за год брака у счастливых родителям бросалось 25 детей - 21 дочь и 4 сына .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "родителей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "годы"
+    },
+    {
+      "correctReplacement": "родилось",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

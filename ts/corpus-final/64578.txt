@@ -1,0 +1,25 @@
+{
+  "text": "Правительство готовит специальные заседание по проблеме науки , заявили в понедельник на общем собрании Российской академии навок (РАН) президент Владимир Путин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "специальное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "проблемам"
+    },
+    {
+      "correctReplacement": "наук",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

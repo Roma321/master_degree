@@ -1,0 +1,25 @@
+{
+  "text": "Как считает , например , заместитель председателя Пробизнесбанков Валерий Кузовлев , курс рубль может достичь к концом 1999 года 30 рублей за доллар , а к концу президентских выборов - 33-34 рубля за доллар , сообщиет агентство ПРАЙМ-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "концу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Пробизнесбанка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "рубля"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

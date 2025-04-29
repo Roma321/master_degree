@@ -1,0 +1,25 @@
+{
+  "text": "В ночи на пятнпцу около здания милициив городе Находка Приморского края воскликнувшая пожар .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "возник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ночь"
+    },
+    {
+      "correctReplacement": "возникла",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

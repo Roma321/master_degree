@@ -1,0 +1,20 @@
+{
+  "text": "Комиссия провела независимую экспертизу материалов работами Сойфере и пришла к выводу , что ученый не держал у себя дома материалов , представляющих государственную тайку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Сойфера"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "работ"
+    },
+    {
+      "correctReplacement": "тайну",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

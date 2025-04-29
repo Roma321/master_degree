@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратурой Люберецкого района Подмосковья возбужу уголовное дело против 17-летней студентки техникума экономикой и прав , убивших своего новорожденного ребенка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "экономики"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "убившей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "права"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Ее представляемый бельгийский аукционное общество \"Ладе-Белюкс НВ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "представляет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "бельгийское"
+    },
+    {
+      "correctReplacement": "акционерное",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "\"Лада-Белюкс",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По слоуам участников пресс-конференции , в Чечне не действует судебное система , а власти не принимаем серьезных мер для расследования преступления в отношении мирных жителей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "преступлений"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "принимают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "судебная"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

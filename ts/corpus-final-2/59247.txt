@@ -1,0 +1,35 @@
+{
+  "text": "Кузнецов сообщу , что Сутягин просил вызвать в суд в качестве свидетелей бывшего и действующего министров обороны РФ , командующих ромов войск , а также ряд известных политиков , на чьи публикации он ссылался в своих материалах , переданных в порядке научного обменов представители западные фирм .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "просит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "обмена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "представителям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "западных"
+    },
+    {
+      "correctReplacement": "родов",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

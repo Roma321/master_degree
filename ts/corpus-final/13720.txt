@@ -1,0 +1,30 @@
+{
+  "text": "По словцам отцом мальчика , его бывший жена и ее новый мужа пытались украсть ребенка у законного отца и увезённые в США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "бывшая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "увезти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "отца"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "муж"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Но если в обычное время новые Арины Родионовны берут максимум по двум доллара в часы (а чаще - доллар-полтора) , то в новогоднюю ночь придется платить 4-6 долларов . Самая низкая цена , о которой удался договориться журналистке газеты - 50 долларок за ночь .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "час"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 41
+    }
+  ]
+}

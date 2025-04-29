@@ -1,0 +1,20 @@
+{
+  "text": "Чешский совет по телевидениям и радиовещанию в понедельник вечером закончу эстрадную встречу , сообщает AFP .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "закончил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "телевидению"
+    },
+    {
+      "correctReplacement": "экстренную",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

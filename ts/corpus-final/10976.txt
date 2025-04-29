@@ -1,0 +1,30 @@
+{
+  "text": "Суть спланированного обмана сводилась к следующей : был создан Институтом исследования табака , который под давлением производителей табачных изделий скрывал результаты исследований о последствиях действие табачный дыма на здоровое человека .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "действия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "табачного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "следующему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Институт"
+    },
+    {
+      "correctReplacement": "здоровье",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

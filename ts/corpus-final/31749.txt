@@ -1,0 +1,20 @@
+{
+  "text": "На совещаниях рассматривавшиеся вопросы формирования органов местной власти , подготовки и проведения президентских поборов в освобожденных районах , подготовки посевных работ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассматривались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "совещании"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

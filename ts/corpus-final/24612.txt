@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того Юрий Чайки заявлю , что в его ведомстве создан рабочая группа по наблюдению за ходос президентской кампании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Чайка"
+    },
+    {
+      "correctReplacement": "ходом",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

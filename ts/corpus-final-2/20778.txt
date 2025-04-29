@@ -1,0 +1,25 @@
+{
+  "text": "При этом в квалификации победитель и призеры показали одинаковый результат , и лишь финальной серия выстрелов удались россиянина лучшк .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "финальная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "россиянину"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "удалась"
+    },
+    {
+      "correctReplacement": "лучше",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

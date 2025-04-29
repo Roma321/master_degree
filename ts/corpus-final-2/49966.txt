@@ -1,0 +1,20 @@
+{
+  "text": "Они заявляем , что не уйдём с площади до выполннния их требований .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "уйдут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "correctReplacement": "выполнения",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

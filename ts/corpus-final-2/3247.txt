@@ -1,0 +1,30 @@
+{
+  "text": "Сайт имел легализованный версии во многих странах , в то числе в России - ZDNet Ю ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "локализованные"
+    },
+    {
+      "correctReplacement": "локализованный",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

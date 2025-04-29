@@ -1,0 +1,20 @@
+{
+  "text": "Последнюю играли достаточно нервно , но свои вьрота уберег .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Последний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "играл"
+    },
+    {
+      "correctReplacement": "ворота",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

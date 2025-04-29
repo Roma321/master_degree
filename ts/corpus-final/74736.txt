@@ -1,0 +1,25 @@
+{
+  "text": "отрава выпроводил их с лётное поля , и только после этого самолет президента получу разрешение на посадку .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "выпроводила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "летного"
+    },
+    {
+      "correctReplacement": "Охрана",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

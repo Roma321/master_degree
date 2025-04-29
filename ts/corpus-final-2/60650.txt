@@ -1,0 +1,25 @@
+{
+  "text": "Адвокаты истца , Юридический интернет-бюро \"eBuro . ru\" , заявляют , что намерены обжаловать решение арбитражного суда в апелляционной инстанции и обращают внимания в своем пресс-релизе на следующее обстоятельством Э",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Юридическое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "внимание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "обстоятельство"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

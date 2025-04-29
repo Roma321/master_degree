@@ -1,0 +1,25 @@
+{
+  "text": "Группы людей в камуфляже и черных масках блокировали дороги , захватили рельсовые , взяли в плен председателя колхоза и силой согнавшие жителя деревни на стадион местной школы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сельсовет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "жителей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "согнали"
+    },
+    {
+      "correctReplacement": "сельсоветы",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

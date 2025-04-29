@@ -1,0 +1,25 @@
+{
+  "text": "Например , Кадыров уверен , что именно Кошман инициировало недавнее письмо 12 глав районных администраций Чечни президенту , в котором они выразили реактивное отношение к назначениям глав администрации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "инициировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "назначению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "главы"
+    },
+    {
+      "correctReplacement": "негативное",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

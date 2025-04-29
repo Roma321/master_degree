@@ -1,0 +1,25 @@
+{
+  "text": "В Ингушетии во второй половине дня 29 декабря группа гражданских лиц напал на автоколонну 276-го уральской полка российской армий , двигавшуюся всторону Грозного по нейтральной трассе \"Кавказ\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "напала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "уральского"
+    },
+    {
+      "correctReplacement": "федеральной",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Варварина называют одним из самых богатых людей северную столицы и глацный спонсором избирательного кампании Юрия Болдырева , который на днях заявил о своем намерении баллотироваться на пост губернатора петербуржца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "главным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "избирательной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "северной"
+    },
+    {
+      "correctReplacement": "Петербурга",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "главный",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

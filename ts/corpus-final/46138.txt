@@ -1,0 +1,30 @@
+{
+  "text": "Решения об аресте Морева было принята проктором флота в звязи с тяжестями инкриминируемых ему преступлений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Решение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тяжестью"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "прокурором",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

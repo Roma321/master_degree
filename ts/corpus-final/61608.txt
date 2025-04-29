@@ -1,0 +1,30 @@
+{
+  "text": "Как показал анализ терактов , произошедших в последнем время в Россия , основными источниками террористической угрозы для России являешься деятельность чеченских экскрементов , поддерживаемая зарубежными террористическими организациями , отмечался на совещании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "отмечалось"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "экстремистов",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

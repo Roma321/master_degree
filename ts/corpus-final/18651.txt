@@ -1,0 +1,25 @@
+{
+  "text": "В связи с этим больниц в Венгрия не будут в новогоднюю ночь проводимые никаких итераций , кроме срочных , а все ходячие больные будут отправлены домой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Венгрии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проводить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "больницы"
+    },
+    {
+      "correctReplacement": "операций",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

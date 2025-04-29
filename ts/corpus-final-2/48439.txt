@@ -1,0 +1,25 @@
+{
+  "text": "Корпорация Intel анонсировал в понедельник появление новой технологиями , позволяемой проиэводить транзисторы шириной в 0 , 03 микрона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "анонсировала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "позволяющей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "технологии"
+    },
+    {
+      "correctReplacement": "производить",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В состав потребительской корзины также включившие предметы первых необходамости и обихода : лакомства , туалетные мыло , шампунь , зубная паста .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "туалетное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "включены"
+    },
+    {
+      "correctReplacement": "лекарства",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "необходимости",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

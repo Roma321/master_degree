@@ -1,0 +1,30 @@
+{
+  "text": "Тем не мене , им счииаем , что тигр не охотился на людей и , возможно , даже принял их за обитателя леса .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "обитателей"
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "считаем",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

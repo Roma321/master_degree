@@ -1,0 +1,30 @@
+{
+  "text": "Правительство и Национального банку Белоруссии объявили , что с 1 января 2001 года будет произвёдшая привязка курса белорусского рубля к российскому в рамках ранее объявленных поэтапного перехода белорусской и России на единую валюту .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "произведена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Национальный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "объявленного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "банк"
+    },
+    {
+      "correctReplacement": "Белоруссии",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

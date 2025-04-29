@@ -1,0 +1,30 @@
+{
+  "text": "По данным полиций , медики убили больных для той , чтобы проданные их почки другими пациентам , нуждающимся в донорских органах и способных заплатать за трансплантацию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "продать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "другим"
+    },
+    {
+      "correctReplacement": "заплатить",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В настоящего время аварийные бригады \"Водоканала\" прочищают ливневую канилизацию , загрязнение которой стало причине медленного оттока воды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "причиной"
+    },
+    {
+      "correctReplacement": "канализацию",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

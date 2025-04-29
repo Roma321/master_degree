@@ -1,0 +1,20 @@
+{
+  "text": "На суде двое свидетелей уоказали , что подсудимый под дулом пистолета заставил их сжечь спортивный автомобиль , принадлежавший женева преступление .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "преступления"
+    },
+    {
+      "correctReplacement": "жертвам",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "показали",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

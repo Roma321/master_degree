@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям Associated Press , уровень воды в реке Тисе достигли 10 метров , что является рекордного показателем за всё историю проведения замеров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "рекордным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "всю"
+    }
+  ]
+}

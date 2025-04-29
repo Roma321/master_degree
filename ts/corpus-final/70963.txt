@@ -1,0 +1,20 @@
+{
+  "text": "Закон принята в редакцию согласительной комиссии после внесения 17 поправок , на которых настаивали депутаты верхней палитры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "редакции"
+    },
+    {
+      "correctReplacement": "палаты",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

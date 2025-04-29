@@ -1,0 +1,20 @@
+{
+  "text": "Григорян был задержавший с поличным при получении чающие оговорённой суммы - 8 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "оговоренной"
+    },
+    {
+      "correctReplacement": "части",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

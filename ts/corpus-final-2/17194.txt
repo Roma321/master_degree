@@ -1,0 +1,25 @@
+{
+  "text": "Во время той Олимпиады Присту и его приятелю , товарищу по команде , пришло в готовую идея выкрасть флак , необходимый для церемонии закрытий игр .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "пришла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "закрытия"
+    },
+    {
+      "correctReplacement": "голову",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "флаг",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

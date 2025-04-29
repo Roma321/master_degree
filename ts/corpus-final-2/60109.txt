@@ -1,0 +1,25 @@
+{
+  "text": "Другая пациентка сообщила , что акушеры , извлекав ребенка , чуть не вытащенный из кровати ее ваму .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вытащил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "извлекая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "акушер"
+    },
+    {
+      "correctReplacement": "саму",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

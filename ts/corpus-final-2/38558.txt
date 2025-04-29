@@ -1,0 +1,20 @@
+{
+  "text": "По данным счетного ведомства , в первом квартал рост ВВП составил 8 , 4 процента , а во втором снизились до 6 , 7 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "квартале"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "снизился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "процента"
+    }
+  ]
+}

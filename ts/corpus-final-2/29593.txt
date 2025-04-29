@@ -1,0 +1,25 @@
+{
+  "text": "Он баллотируюсь ба выборах в Сенат на тесто республиканца Джоне Эшкрофта .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "баллотировался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Джона"
+    },
+    {
+      "correctReplacement": "место",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

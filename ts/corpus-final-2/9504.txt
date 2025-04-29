@@ -1,0 +1,20 @@
+{
+  "text": "В резулььате столкновения олин самолет разбился , его пилоте успел катапультироваться .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "пилот"
+    },
+    {
+      "correctReplacement": "один",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Актер Максимилиан Шелл доставлен в больницу с острому распыление поджелудочной железы , сообщаемый CNN .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "острым"
+    },
+    {
+      "correctReplacement": "воспалением",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

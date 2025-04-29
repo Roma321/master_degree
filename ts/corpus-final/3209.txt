@@ -1,0 +1,30 @@
+{
+  "text": "На месте катастрофы сейчас работаете комиссии , сформированные правительздвом республики иКарагандинской областного администрацией , казахстанско-российская межправительственная комиссия , совместная комиссия Минобороны РФ и Космических центра им . Хруничеве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Хруничева"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "областной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Космического"
+    },
+    {
+      "correctReplacement": "правительством",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

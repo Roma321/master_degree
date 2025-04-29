@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данным , на парламентские выборах 31 октября в Грузии в шести из 75 избирательных округов , где подсчет голосов уже завершусь , меньшинство мест полученная правящую партия Союз граждан Грузии , которую возглавляет Эдуард Шеварднадзе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "завершился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "получила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "парламентских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "правящая"
+    },
+    {
+      "correctReplacement": "большинство",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

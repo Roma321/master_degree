@@ -1,0 +1,30 @@
+{
+  "text": "В среду , 2 августа , Генеральная прокуратура России продлило срок следствия по делу бывшего главы этого ведомства Юрия Скуратова , сообщивший формалистам заместитель начальника Управления по расследованиям особо важных дел Генеральной прокуратуры Василия Пименов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Василий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "продлила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "расследованию"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

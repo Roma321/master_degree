@@ -1,0 +1,20 @@
+{
+  "text": "По факту изъятия взрывчатой вещества возбудившее голодное дело , ведется следствие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "взрывчатого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "correctReplacement": "уголовное",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

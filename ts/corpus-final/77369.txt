@@ -1,0 +1,25 @@
+{
+  "text": "Он подчеркнул , что , по крайней мера , в будущем году птодажам не будут .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "мере"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "продаж"
+    },
+    {
+      "correctReplacement": "продажам",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

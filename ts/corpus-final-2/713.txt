@@ -1,0 +1,30 @@
+{
+  "text": "На прошедшем в среду заседании согласительной комиссии представители Госдумой выражался против соответствующей поправки Советов Федеркции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Совета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "высказались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "correctReplacement": "высказался",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

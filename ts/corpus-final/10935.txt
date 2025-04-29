@@ -1,0 +1,35 @@
+{
+  "text": "Он пояснил , что законодательство позволяемый любой гражданину после проведения выборов на территории Башкирии оспорить результаты толкований , поскольку здесь не была предоставлена полный информайия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "любому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "позволяет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "полная"
+    },
+    {
+      "correctReplacement": "голосований",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "информация",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

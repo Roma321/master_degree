@@ -1,0 +1,25 @@
+{
+  "text": "Это , укачанный министр , обусловлен разницей в величине экономического и политической мощи двух стран .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "экономической"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "обусловлено"
+    },
+    {
+      "correctReplacement": "сказанный",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

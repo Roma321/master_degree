@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщался , он был приурочивший к 40-летию ОПНК и был проведена спустя 25 лет после первого сармата .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "приурочен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "проведен"
+    },
+    {
+      "correctReplacement": "саммита",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "ОПЕК",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

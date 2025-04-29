@@ -1,0 +1,30 @@
+{
+  "text": "В четверг окло 10 утра по московскому времени у здание Дома быта в городе Бердски Новосибирской области происшедший сильный взрыв , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Бердск"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "здании"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

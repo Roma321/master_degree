@@ -1,0 +1,20 @@
+{
+  "text": "Житель Пятигорска , задержанный по подозрению в причастности к взрывк в Пятигорске , действительно произвел теракт , выполняя за большие деньгу чеченский заказе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "заказ"
+    },
+    {
+      "correctReplacement": "взрыву",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

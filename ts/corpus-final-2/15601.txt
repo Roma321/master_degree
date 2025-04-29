@@ -1,0 +1,25 @@
+{
+  "text": "чадо отметить , что обычная японской робособаки не поёт ни по-русски , ни по-японски .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "японская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "робособака"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "поет"
+    },
+    {
+      "correctReplacement": "Надо",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

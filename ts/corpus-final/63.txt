@@ -1,0 +1,25 @@
+{
+  "text": "С инициативой проведения конференции , гдр рассматриваюсь бы более широкий круг вопросов , еще в Бирмингем выступили президент РФ Борис Ельцин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Бирмингеме"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "рассматривался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "выступил"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

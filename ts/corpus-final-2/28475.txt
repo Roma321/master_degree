@@ -1,0 +1,20 @@
+{
+  "text": "На пересечении Варшавки с улицей Красной Маяка податель темно-зеленых \"Жигулей\" ВАЗ 41099 , находившийся в нетрезвом состоянии , выехал на запрещающий знак светофора и вызвало массовое столкновение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Красного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "вызвал"
+    },
+    {
+      "correctReplacement": "водитель",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

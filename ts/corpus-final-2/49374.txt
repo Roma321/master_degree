@@ -1,0 +1,15 @@
+{
+  "text": "Московский арбитражный суд запретила подмосковному заводу \"ОСТ-Алко\" выпускать вотку \"Смирновъ\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "запретил"
+    },
+    {
+      "correctReplacement": "водку",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

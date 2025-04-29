@@ -1,0 +1,25 @@
+{
+  "text": "Спецслужбы Абхазии полностью исключаемые причастносоь абхазского стороны к взрыву , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "исключают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "абхазской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "correctReplacement": "причастность",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

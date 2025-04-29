@@ -1,0 +1,25 @@
+{
+  "text": "Руководство колонии обнаружило 37-метровый подземный тоннель , который берёт начала в олиным из зданий колонии , где содержатся 250 заключенных , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "берет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "начало"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "одном",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

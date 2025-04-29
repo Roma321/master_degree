@@ -1,0 +1,30 @@
+{
+  "text": "Дополнительный избирательный участок для несколько сотен транзитных пассажиров открывший в воскресенье в аэропорт Хабаровска , сообщает агентства РИП \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "аэропорту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "нескольких"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "открыт"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

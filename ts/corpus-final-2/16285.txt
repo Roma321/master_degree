@@ -1,0 +1,25 @@
+{
+  "text": "В очередном списку , опубликованном Международной федерацией футбола , уже учтена победа подопечных Олега Романцев над швейцарцами в первом матче отборочного турнира чемпионата миоа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Романцева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "списке"
+    },
+    {
+      "correctReplacement": "списку",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "мира",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В протесте прокуратуры , в частности , отмечается : суд не учту , что Анатолий Быков , находясь на свободе , мог помешать установлению истины по челу и сбору доказательствах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "доказательств"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "учел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "делу",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

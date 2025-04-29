@@ -1,0 +1,20 @@
+{
+  "text": "По факту убийства Генеральной прокуратуру ррспублики возбуждено уголовных дело .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "прокуратурой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

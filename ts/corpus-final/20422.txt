@@ -1,0 +1,25 @@
+{
+  "text": "Католическое Рождество бельгийцы встречали под ураганный ветер и проливного дождь , в некоторых рсйоне стран выпал снег , шел град .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "проливной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "районах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

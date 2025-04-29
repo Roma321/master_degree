@@ -1,0 +1,20 @@
+{
+  "text": "При этим , сказал Уайатт , \"многие лейбористы пришли из общественного сектора и в последнюю очереть узнают о том , что происходят в данной сфере\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "происходит"
+    },
+    {
+      "correctReplacement": "очередь",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

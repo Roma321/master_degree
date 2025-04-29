@@ -1,0 +1,35 @@
+{
+  "text": "Речь идет об инциденте , произойду 9 декабрём , когда двумя батальона иракской армии , численностью около 400 челомей каждое , пересекли установленную в 1991 году \"зеленую линию\" , отделяющую территорию Курдистана от Ираку , и заняли позиции вокруг города Байдран , расположенного в пяти километрах от \"зеленой линии\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Ирака"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "произошедшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

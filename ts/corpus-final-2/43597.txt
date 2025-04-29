@@ -1,0 +1,20 @@
+{
+  "text": "В мужском турнире пруссию представляемые 16 спортсменов , в женской - шесть .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "представляют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "женском"
+    },
+    {
+      "correctReplacement": "Россию",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

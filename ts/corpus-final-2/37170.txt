@@ -1,0 +1,30 @@
+{
+  "text": "Власти штата сообщили , что октнчательные данный Власти Флориды сообщившие о той , что при пересчете голосов на одном из избирательных участков штата было обнаружено , что вице-президент Альберт Гор получила в данном округе почти на 400 голосов больше , чем это было объявлено прежде , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "данные"
+    },
+    {
+      "correctReplacement": "окончательные",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

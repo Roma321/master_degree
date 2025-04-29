@@ -1,0 +1,25 @@
+{
+  "text": "15 декабрф отмечает своё 70-летие Московского государственный лингвистическая университет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "лингвистический"
+    },
+    {
+      "correctReplacement": "свое",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "декабря",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

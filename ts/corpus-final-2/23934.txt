@@ -1,0 +1,20 @@
+{
+  "text": "К торгам 2 октября будут предложим девять участков , остальные будут выставившие 9 овтября .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "предложены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выставлены"
+    },
+    {
+      "correctReplacement": "октября",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

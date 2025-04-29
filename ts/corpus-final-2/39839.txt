@@ -1,0 +1,25 @@
+{
+  "text": "В книге резь идёт о восхождении этом знаменитого человека по ступеяям славы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "речь",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "ступеням",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

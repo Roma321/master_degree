@@ -1,0 +1,25 @@
+{
+  "text": "Председатель Центризбиркома алессандро Вешняков вручивший в четверг министру РФ по налогам и сборах Александру Починку почетную грамоту за хорошее работу во время избирательной кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "хорошую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сборам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "вручил"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

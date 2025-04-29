@@ -1,0 +1,20 @@
+{
+  "text": "Однако согласно официальному данным , погибли четырёх человека , а пострадавшие - 23 , передает ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "четыре"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "официальным"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Трехметровый бронзовый монумент подарили городу автор памятника , канатский скульптор украинской происхождения Лео Мол (Леонид Моложанин) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подарил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "украинского"
+    },
+    {
+      "correctReplacement": "канадский",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

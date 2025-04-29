@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю \"Радио Свобода\" , Чигирь , один из лидеров белорусской оппозиции , обвиняется в сокрытии доходов во бремя работы в немецком концерне Gea в Москвы в 1996 году .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Часть российских туристок , которые должны были лететь в Индонезии из Шереметьево-1 самолетом компании \"Русавиа\" , здали билет и вернулись домой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Индонезию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "билеты"
+    },
+    {
+      "correctReplacement": "туристов",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "сдали",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Израильское кнессет в среду принял в предварительном чтении законопроект , позволяющий баллотироваться на пост премьер-министра фсех гражданам страны , а не только гленам парламента , сообщает AFP .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "всем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Израильский"
+    },
+    {
+      "correctReplacement": "членам",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "всех",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

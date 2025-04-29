@@ -1,0 +1,25 @@
+{
+  "text": "Собственного корреспондент Lenta . Ru отмечаешь , что на данном участке дорожно-транспортные происшествия происходят не реже одного раза в день , а наезд на пешеходам - еда ли не раз в неделю .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "пешеходов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Собственный"
+    },
+    {
+      "correctReplacement": "едва",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

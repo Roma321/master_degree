@@ -1,0 +1,25 @@
+{
+  "text": "В Ливане в настоящее время находился спецпредставитель генерального секретарей ООН Терри Ларсен , - сообщаемыы РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "секретаря"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

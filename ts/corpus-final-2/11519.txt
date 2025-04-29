@@ -1,0 +1,20 @@
+{
+  "text": "Неожиданный вылет Путине в Москву свяжу с аварией на атомной подводной лодке \"Кунск\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "связан"
+    },
+    {
+      "correctReplacement": "\"Курск\"",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

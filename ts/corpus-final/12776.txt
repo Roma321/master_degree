@@ -1,0 +1,20 @@
+{
+  "text": "По данным социологическими опросов , рейтинг коммунистов втулы и Тульской области за последнюю неделю упал на 9 процентов , исоставляет в Туле - 14 , с в области - 17 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вТуле"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "социологических"
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

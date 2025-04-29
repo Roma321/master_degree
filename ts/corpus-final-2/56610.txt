@@ -1,0 +1,25 @@
+{
+  "text": "Прибывшие на место происшествий пожарные установили , что горит отдельно стоящий от здания вокзала строение площадью 150 квадратных метров , у которого размещается кафе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "котором"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "стоящее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

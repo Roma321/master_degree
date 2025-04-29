@@ -1,0 +1,25 @@
+{
+  "text": "В 22 : 20 он вышла из зданию , находившегося на бульваре Леси Украинки , но дома тао и не появился .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вышел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "находящегося"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "здания"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

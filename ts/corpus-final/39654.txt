@@ -1,0 +1,30 @@
+{
+  "text": "Судно будет подниму в начале следующего годоф . Мыс Игольный - самые южная точка Африканского континента . Именно здесь , а не у мыса Доброй Надежды , как приняты говоритьтуристам , сливаются два океана - Индийский и Атлантический .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "самая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "поднято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

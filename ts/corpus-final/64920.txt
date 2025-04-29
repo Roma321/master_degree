@@ -1,0 +1,25 @@
+{
+  "text": "Всего , заявленный министр , расходы на здравоохранение федерального бюджета в текущем году должны возрасти в полтора раз по сравнениям с предыдущей , когда они составляли более девяти миллиардов рублей , передает РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "предыдущим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "раза"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "сравнению"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что пакет президентские законопроектоф о государственных символике поступил в нижнюю палату накануне праздно вечером .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президентских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "государственной"
+    },
+    {
+      "correctReplacement": "поздно",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "законопроектов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

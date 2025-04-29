@@ -1,0 +1,25 @@
+{
+  "text": "По словам адвоката Батурину Дмитрия Штейнберге , его клиентка просит признать бедствия ФСБ и прокуратуры незаконными и дать им правовую оценки - сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Штейнберга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "оценку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Батуриной"
+    },
+    {
+      "correctReplacement": "действия",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

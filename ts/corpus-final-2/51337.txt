@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник Перес провело частного встречу с генеральным секрерарем Партии труда Раананом Коэном .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "частную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "провел"
+    },
+    {
+      "correctReplacement": "секретарем",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

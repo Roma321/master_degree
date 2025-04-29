@@ -1,0 +1,20 @@
+{
+  "text": "Однако президент Мосгорсуда 23 декабря отменило первоначальное решение и направил дело на повторное рассмотрение в Хамовнический суде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "отменил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "президиум",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

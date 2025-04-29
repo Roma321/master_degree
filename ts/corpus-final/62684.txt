@@ -1,0 +1,25 @@
+{
+  "text": "В МПС , облако , понимают , что пассажирам железнодорожная реформа принесу лишь роста цены на билеты .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "принесет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "рост"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "цен"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

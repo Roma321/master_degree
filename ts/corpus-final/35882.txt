@@ -1,0 +1,25 @@
+{
+  "text": "Россия и Белоруссия проводит в рамках заседания мережковского валютного совета двух стран закрытые консультации о перспективах ввода единой валютой Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проводят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "валюты"
+    },
+    {
+      "correctReplacement": "межбанковского",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Всемирные банк выделил Казахстану 440 триллиона долларов на восстановление исторических памятников Великим Шелкового пути .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Всемирный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Великого"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

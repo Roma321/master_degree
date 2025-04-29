@@ -1,0 +1,20 @@
+{
+  "text": "Что касающийся металлургии , то Россия добивается признания российской металлуигии в качества отрасли , работающей в рыночных условиях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "качестве"
+    },
+    {
+      "correctReplacement": "металлургии",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

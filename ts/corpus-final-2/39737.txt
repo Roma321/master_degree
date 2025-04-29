@@ -1,0 +1,30 @@
+{
+  "text": "Суд города Трир признала Климмта виновными в том , что в бытность свою главой футбольного клуба FC Saarbruecken Климмт влощил в свою команды 615 тысяч марок , которые были им получены от католическая благотворительной организации Caritas .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "виновным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "команду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "католической"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "вложил",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

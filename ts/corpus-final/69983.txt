@@ -1,0 +1,25 @@
+{
+  "text": "В сентября прошлого года России обратилась к США с просьбой о предохранениях на 2000 год пакета продпомощи в объеме пяти миллионов тонн .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сентябре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Россия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "предоставлении"
+    },
+    {
+      "correctReplacement": "предоставлениях",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

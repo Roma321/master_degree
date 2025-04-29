@@ -1,0 +1,25 @@
+{
+  "text": "В воскрксенье на рассвете в Карагинском заливе Беринговой моря возобновились писк пропавшего в пятницу буксира \"Бодрый\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Берингова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "поиски"
+    },
+    {
+      "correctReplacement": "поиск",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

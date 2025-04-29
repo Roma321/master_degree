@@ -1,0 +1,30 @@
+{
+  "text": "По объему трансфертов Приморье занимают третий место среди субъекты Федерации , уступаемые \"первенство\" юишь Дагестану и Алтаю .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "третье"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "уступая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "субъектов"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

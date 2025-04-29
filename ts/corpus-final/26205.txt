@@ -1,0 +1,25 @@
+{
+  "text": "В минувшая четверг у побережья Рио-де-Жанейро расплывалось огррмное нефтяному пятно , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "нефтяное"
+    },
+    {
+      "correctReplacement": "расплылось",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "огромное",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Рано утром в среду 20 сентябрей филиппинские правительственные войска освобождённые из плена двум фрмнцузских журналистов , захваченных в заложники мусульманских экстремистами более двух месяцев назад .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сентября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "двух"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "освободили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "мусульманскими"
+    },
+    {
+      "correctReplacement": "французских",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

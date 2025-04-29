@@ -1,0 +1,25 @@
+{
+  "text": "Об этим во вторник на пресс-конференции обобщённый заместитель генеральной директора авиакомпании по коммерции Юрий Мнацаканов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

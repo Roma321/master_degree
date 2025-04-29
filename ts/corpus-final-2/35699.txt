@@ -1,0 +1,20 @@
+{
+  "text": "Операция на корпусе лодки продолжились после полуночи , огда позволившие погодные условия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "позволили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "продолжилась"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

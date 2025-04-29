@@ -1,0 +1,25 @@
+{
+  "text": "В настояние времени в котировальный лист ММВБ первого уровня включены облигации Газпрома , общеп объем эмиссии которых на сумму 3 миллиарда рублей был успешно размещен на бирже в 1999 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "общий"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "общее",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

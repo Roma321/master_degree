@@ -1,0 +1,30 @@
+{
+  "text": "Напомню , что накануне помощник президента России Сергей Ястржембский утверждал , аио талибов обещал помощь бандформированиям в Чечне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "талибы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "обещали"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "ато",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

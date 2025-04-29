@@ -1,0 +1,20 @@
+{
+  "text": "На кратным пути его машина подвергся обстрелу , а следовавшая за ним машина военной прокуратур подорвалась на фугасе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подверглась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "correctReplacement": "обратном",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

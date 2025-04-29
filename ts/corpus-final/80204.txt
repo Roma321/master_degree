@@ -1,0 +1,20 @@
+{
+  "text": "К растоящему времени во Вьетнаме приватизируемо более 400 из 5900 государственных предприятия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "приватизировано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "correctReplacement": "настоящему",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

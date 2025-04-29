@@ -1,0 +1,30 @@
+{
+  "text": "Как ожидаешься , переговоры с ВБ начнутся уже в ноябре , руководителем телепатии РФ на переговорах с банком назначивший заместитель министра экономического развития м торговлей России Андрей Шаронов , передает HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "торговли"
+    },
+    {
+      "correctReplacement": "делегации",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

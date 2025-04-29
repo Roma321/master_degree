@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в списках в поддержку Викторов Черепкова комиссия обнарузившее большой процента недостоверных подписей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Виктора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "процент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "correctReplacement": "обнаружило",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

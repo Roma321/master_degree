@@ -1,0 +1,20 @@
+{
+  "text": "На постера указано имя и преступленин , за которые человек приговоривший к смерти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "постере"
+    },
+    {
+      "correctReplacement": "преступление",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

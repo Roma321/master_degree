@@ -1,0 +1,30 @@
+{
+  "text": "На днях в республике с деловым визитом побывавшая представительную группа бизнесменов , представляемых компанией \"Уралчермет\" , АО \"Уралтитан-93\" и межгосударздвенную ассоциацию \"Титан\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "побывала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "представительная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "представляющих"
+    },
+    {
+      "correctReplacement": "межгосударственную",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

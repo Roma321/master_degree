@@ -1,0 +1,25 @@
+{
+  "text": "Власть города , где 17 июне бкдет проходить матчи Германия-Англия , продажу алкоголя разрешили только в пластмассовой или бумажной посуде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Власти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "матч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "июня"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

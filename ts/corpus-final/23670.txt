@@ -1,0 +1,30 @@
+{
+  "text": "У экс-мэре Грозного , отряд которого воюют против боевики в столице Чечни , есть карикатуры на пост председателя Госсовету республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "экс-мэра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Госсовета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "отряды"
+    },
+    {
+      "correctReplacement": "кандидатуры",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

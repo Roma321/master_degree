@@ -1,0 +1,20 @@
+{
+  "text": "По предварительной версии , взрыву произошли из-жа обветшания газопровода .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "из-за",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

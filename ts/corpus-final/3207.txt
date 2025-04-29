@@ -1,0 +1,20 @@
+{
+  "text": "Гептиловое топливо , на котором работают \"Протоны\" , очень ядовито : одноро тысячной граммов достаточно , чтобы человек , вдохнувший его , погиб .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "грамма"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

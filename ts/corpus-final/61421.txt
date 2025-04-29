@@ -1,0 +1,25 @@
+{
+  "text": "Людям , выходящим с избирательного ужастиков после голосования , будет задан вопросы : \"За какого кандидата Вы проголосовал ? \" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "избирательных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "correctReplacement": "участков",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

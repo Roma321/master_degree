@@ -1,0 +1,20 @@
+{
+  "text": "Данные , указанные в каждый избирательном бюллетене , будут оглашаться для всех присутствующего на избирцтельном участке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "каждом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "присутствующих"
+    },
+    {
+      "correctReplacement": "избирательном",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

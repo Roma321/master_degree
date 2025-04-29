@@ -1,0 +1,25 @@
+{
+  "text": "Отвечая на вомросы журналистов о присвоении всем физическим лицам индивидуальным номеров налогоплательщика , Починок заявил , что ряда известных политиков , в том числе Владимир Путин и Борис Ельцин , ужеполучим такие номера .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "ряд"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "ужеполучили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "индивидуальных"
+    },
+    {
+      "correctReplacement": "вопросы",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

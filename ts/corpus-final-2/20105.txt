@@ -1,0 +1,30 @@
+{
+  "text": "Президенте Государственной нефтяной компанию Азербайджана Натик Алиев , находившийся на прошлой неделе в Вашингтонах , назвал транскаспийский трубопровод \"внутренним дело Туркменистана\" и сообщил , что никаноров контактов между Баку и Ашхабадом по этому вопросу в настоящее время нет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Вашингтоне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "делом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "никаких",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

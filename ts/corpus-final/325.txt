@@ -1,0 +1,25 @@
+{
+  "text": "Станки были продавшие китайская корпорации исключительно для гражданских елей , но шестл из них в скором времени оказались на военных заводах КНР .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "проданы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "китайской"
+    },
+    {
+      "correctReplacement": "целей",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "шесть",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

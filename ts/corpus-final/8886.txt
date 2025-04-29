@@ -1,0 +1,15 @@
+{
+  "text": "Как сообщает агентство Reuters , около 8000 офицееов полиции патрулируют эту части города .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "офицеров",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

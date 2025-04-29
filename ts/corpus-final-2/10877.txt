@@ -1,0 +1,25 @@
+{
+  "text": "Еврокомиссия гнетённая до 31 августа запрет на импорт свиней из Англии , сообщает РИА \"Новости\" со ссылкой на департамент ветеринарии Министерства сельское хозяйства Россия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "сельского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "ввела"
+    },
+    {
+      "correctReplacement": "введённая",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

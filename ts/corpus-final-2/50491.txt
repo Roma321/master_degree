@@ -1,0 +1,30 @@
+{
+  "text": "Германская позиции арестовала 48-летнего выходцу с Украины , который подозревается в организациитеракта в салгне красоты в Берлинах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Берлине"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "выходца"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "полиция"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "салоне",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

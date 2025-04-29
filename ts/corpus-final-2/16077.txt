@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявленнсй секретарь Совета Безопасности РФ Сергее Иванова после встречи в Нью-Йорке с помощником президента США по вопросам национальной безопасности Сэмюэлем Бергером , которая состоялась в среду .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "correctReplacement": "заявленный",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Захарова прошу предоставить ей невозможность хотя бы по телефону передать поздравления девочкам , сообщающий ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "просила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "девочке"
+    },
+    {
+      "correctReplacement": "возможность",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "VIII Фсероссийская конференция партии \"Демократическая Россия\" приняла решение поддержавшие на выборах на посты президента России кандидатуру самарского губернатора , председателе политсовета СПС Константина Титова , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "поддержать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "председателя"
+    },
+    {
+      "correctReplacement": "Всероссийская",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , Путин призвал мировых лидеров поставившие надежный заслон терроризма - злу , \"которое выживаю лишь тогда , икогда имеет шанс расшатать стабильность , посеять взаимное недоверие и вражду\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "терроризму"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "поставить"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "выживает"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

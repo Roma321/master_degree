@@ -1,0 +1,25 @@
+{
+  "text": "Аюсолютным чемпионом олимпиады стану школьники из Нижнего Новгорода Михаил Баутин , ученик Высшей школы общего и прикладной физики ННГУ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "школьник"
+    },
+    {
+      "correctReplacement": "Абсолютным",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

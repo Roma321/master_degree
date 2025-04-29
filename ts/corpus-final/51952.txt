@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудниками УБЭП ГУВД Москву и УФСБ по Москве разоллачен и арестован 46-летние Евгений Балуев , в течение шести лет выдававший себя за генерал-майора ФСБ России и ГРУ Генштаба Минобороны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "46-летний"
+    },
+    {
+      "correctReplacement": "разоблачен",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

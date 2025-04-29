@@ -1,0 +1,25 @@
+{
+  "text": "Он признавший , что был уверен , что в четверг пригоуор Тамара Рохлина будет отменен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Рохлиной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Тамаре"
+    },
+    {
+      "correctReplacement": "приговор",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

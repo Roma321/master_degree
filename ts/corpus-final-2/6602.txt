@@ -1,0 +1,20 @@
+{
+  "text": "Других инцидента произошел около 19 : 00 в райрне дома 46/48 по Фрунзенской набережной .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Другой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

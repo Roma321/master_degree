@@ -1,0 +1,30 @@
+{
+  "text": "Проходившие мимо люди довели мальчрков до их квартире , откуда бригадами экстренной медицинской помощи дети были доставлены в ожоговое отделение 9-й детской городских больнице .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "больницы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "бригадой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "городской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "квартиры"
+    },
+    {
+      "correctReplacement": "мальчиков",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

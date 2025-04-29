@@ -1,0 +1,35 @@
+{
+  "text": "Председатель совета Салим Заанун считаю , что новой датой провозглашения государственной суверенитета может стать 15 ноября - именно в этом день Ясир Арафат обнародовал первый декларацией независимости в 1988 году - или 1 янтаря 2001 года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "первую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "декларацию"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "января",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

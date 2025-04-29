@@ -1,0 +1,20 @@
+{
+  "text": "По словам Овсянникова , \"легализованные\" такой образом видеоносителям поступят в продажу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "видеоносители"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "таким"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

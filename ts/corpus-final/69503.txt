@@ -1,0 +1,30 @@
+{
+  "text": "Напомненные , что в русских языке имеются не менее богатые возможности построений матерных слова , однако в воне RU регистрация матерных доменов в настоящий момент запрещена .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "русском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "построения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "слов"
+    },
+    {
+      "correctReplacement": "зоне",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

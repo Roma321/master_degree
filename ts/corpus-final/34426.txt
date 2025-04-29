@@ -1,0 +1,25 @@
+{
+  "text": "День латышских легионеров Waffen-SS лишилось статуса офтгительной памятного даты , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "лишился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "памятной"
+    },
+    {
+      "correctReplacement": "официальной",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "офигительной",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

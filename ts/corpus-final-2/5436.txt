@@ -1,0 +1,35 @@
+{
+  "text": "За все времени существование башни , строительство которой завершилась около 1350 года , ее верхний намтя отклонилась от основания почти на четыре с половиной метра .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "существования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "завершилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "верхняя"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "настя",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

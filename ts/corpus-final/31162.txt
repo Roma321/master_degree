@@ -1,0 +1,20 @@
+{
+  "text": "По словам представителя Спилберга , это было сделано после выявления нарушений в работе организм 52-летней режассера , подробности представитель сообщить отказался .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "52-летнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "организма"
+    },
+    {
+      "correctReplacement": "режиссера",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

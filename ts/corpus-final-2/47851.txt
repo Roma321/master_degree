@@ -1,0 +1,20 @@
+{
+  "text": "Отмечаются , что президент России путин , бывший сотрудник КГБ , несмотря на декларации о защите свободы слова , начал наступление на прессу , критикуемую действия правительства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "критикующую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Отмечается"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

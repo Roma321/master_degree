@@ -1,0 +1,20 @@
+{
+  "text": "Гидрометцентр объявленный штормовые предупреждение , которое будет шествующие до 20 : 00 , передает РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "штормовое"
+    },
+    {
+      "correctReplacement": "действовать",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

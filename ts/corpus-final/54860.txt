@@ -1,0 +1,20 @@
+{
+  "text": "Канадская полиция арестовала в выходные в Монреале человека , подозревавшего в причастности к непальским хакерским атакам на Yahoo , eBay , CNN и другие известных сайты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "подозреваемого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "известные"
+    },
+    {
+      "correctReplacement": "февральским",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

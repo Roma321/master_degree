@@ -1,0 +1,30 @@
+{
+  "text": "Сбербанк РФ понизили процентные ставки по кредитам в рублях и повысила ставки в валюте , об этим заявила в понедельники заместителем председателя правления Сбербанка Алла Алешкина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "понизил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "повысил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "заместитель"
+    }
+  ]
+}

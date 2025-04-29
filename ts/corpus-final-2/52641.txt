@@ -1,0 +1,25 @@
+{
+  "text": "Но этот цифра будет расти - а ближайшие 10 годам , по расчетам специалиста , в мире будет уже 400 тысяч тонн такого топлива .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

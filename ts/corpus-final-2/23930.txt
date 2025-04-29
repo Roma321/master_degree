@@ -1,0 +1,25 @@
+{
+  "text": "Власти решили переправить арестованных члена поманды и капитана на остров Сирос , административной столицу района , где произошла трапеция .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "административную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "трагедия",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "команды",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

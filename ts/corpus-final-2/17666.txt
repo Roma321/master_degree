@@ -1,0 +1,30 @@
+{
+  "text": "Бойцы 98-й Ивановской дивизии внутренних десантных войск во вторник установим контроль над трансформаторной подстанцией в селе Ново-Талицы для обеспечением беспорядочному энергоснабжения своего дивизии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "обеспечения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "установили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "бесперебойного"
+    },
+    {
+      "correctReplacement": "бесперебойному",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

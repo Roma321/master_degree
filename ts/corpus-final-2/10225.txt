@@ -1,0 +1,35 @@
+{
+  "text": "Представители ответчика , сочтя решения абсурдного , заявили , что меняемые содержание сайта не собираются , а закрыть доступ к игформации по эмбриональному признаку не имеют техническая возможности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "менять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "технической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "абсурдным"
+    },
+    {
+      "correctReplacement": "национальному",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

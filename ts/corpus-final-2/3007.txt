@@ -1,0 +1,20 @@
+{
+  "text": "С 1990 по 1999 год число американцы , работающих дома , возвёдшие с четырех до почти 20 миллионов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "возросло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "американцев"
+    },
+    {
+      "correctReplacement": "возросли",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

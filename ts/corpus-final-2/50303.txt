@@ -1,0 +1,30 @@
+{
+  "text": "Хозяйка не растерялась и , выхватив у него обрез , несколько раз ударили грабителя по головах , затем связала и вызвал милицию . Однако в камеру преступник пока не помещу - его пришлось госпитализировать в реанимацию травмотологического одделения местной больницы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "помещен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "голове"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ударила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "вызвала"
+    },
+    {
+      "correctReplacement": "отделения",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

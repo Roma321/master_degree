@@ -1,0 +1,20 @@
+{
+  "text": "Как стало затем известно , банкам скупили , в общей сложностях , от 5 до 15 миллиардоф евро , и курс европейской валюты поднялся с 84 до 89 центов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сложности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "банки"
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

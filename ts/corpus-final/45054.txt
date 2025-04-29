@@ -1,0 +1,20 @@
+{
+  "text": "До этого двое заложников - сначала женщина , а затем мужчину - спогшие выбраться из дома , выпрыгнув из окна .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "смогли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "correctReplacement": "смогшие",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

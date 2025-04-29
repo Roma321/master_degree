@@ -1,0 +1,30 @@
+{
+  "text": "На вопрос , осознанноли он идет на эту пост или по пробуждения , Кадырову отвечу , что он принял решение \"самостоятельно\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Кадыров"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "ответил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "принуждению"
+    },
+    {
+      "correctReplacement": "принуждениям",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

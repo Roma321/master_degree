@@ -1,0 +1,25 @@
+{
+  "text": "Еще один госпиталь на 50 коек развёртывающие в среднего школе МЧМ России и Всероссийская центр медицины катастроф \"Защита\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Всероссийский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "развертывают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "средней"
+    },
+    {
+      "correctReplacement": "МЧС",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

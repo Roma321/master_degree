@@ -1,0 +1,20 @@
+{
+  "text": "В среду около 10 . 00 по московскому времени в подвале жилой дома в Печатниковом переулке Москвя был обнаружен предмет , напоминаемый взрывное устройство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "жилого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "напоминающий"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

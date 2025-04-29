@@ -1,0 +1,25 @@
+{
+  "text": "Путин в очередного раз подчеркнувший , что арест Гусинского связаны с его деятельностью как бизнесмена , который содержит ряд средств массового информации , а не общественного деятеля или представителя СМИ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "массовых"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "очередной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "связан"
+    }
+  ]
+}

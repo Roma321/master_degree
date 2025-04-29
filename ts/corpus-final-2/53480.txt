@@ -1,0 +1,30 @@
+{
+  "text": "Именно жён , устаревшие от его бешрного темперамента , попросим муже взять новую подругу жизни .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "попросили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "жены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мужа"
+    },
+    {
+      "correctReplacement": "уставшие",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "бешеного",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

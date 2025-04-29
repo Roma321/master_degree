@@ -1,0 +1,35 @@
+{
+  "text": "ФБР США проинформировало общественность о том , что в Уэльсе были арестованы два восемнадцатилетних хакера , которые подозреваемся во взломах , по раннему мере , девяти коммерческих сайта и краже оттуда информации о 26 тысячах кредитных карточки , включая карточке главы Microsoft Билла Гейтса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "карточек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "крайней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "сайтов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "карточку"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "подозреваются"
+    },
+    {
+      "correctReplacement": "крайнему",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

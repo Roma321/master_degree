@@ -1,0 +1,30 @@
+{
+  "text": "Он запел украинские песни , а несколько сидефших за соседним столиком молотками людей заявленные , что он мешаю им слушать блатные песни на русском языке .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "мешает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "молодых"
+    },
+    {
+      "correctReplacement": "молодыми",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "сидевших",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

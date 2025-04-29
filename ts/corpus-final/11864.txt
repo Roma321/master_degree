@@ -1,0 +1,35 @@
+{
+  "text": "Ранее предполагался , что Ясир Арафат и Алексию II обсудят вопросы , связанные с подготовке к празднованию 2000-летием христианства в звятой Земле .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "предполагалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "2000-летия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Алексий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "подготовкой"
+    },
+    {
+      "correctReplacement": "Святой",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "святой",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

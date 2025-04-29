@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время государству принадлежащий 77 , 9 процентом акций \"Кузбассугля\" и 80 , 67 процента акцизов \"Кузнецкугля\" , передает Прнйм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "correctReplacement": "акций",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "Прайм-ТАСС",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

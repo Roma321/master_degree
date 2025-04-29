@@ -1,0 +1,25 @@
+{
+  "text": "При этом превзошетшее столкновение , в результате которого серьезно пострадал один полицейские .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "полицейский"
+    },
+    {
+      "correctReplacement": "происшедшее",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "превзошедшее",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

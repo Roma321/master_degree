@@ -1,0 +1,20 @@
+{
+  "text": "Такое мнение выскажу в инрервью РИА \"Новости\" пресс-секретари премьер-министра Михаил Кожухов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пресс-секретарь"
+    },
+    {
+      "correctReplacement": "интервью",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

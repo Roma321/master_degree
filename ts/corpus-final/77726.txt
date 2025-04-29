@@ -1,0 +1,25 @@
+{
+  "text": "По данным Северокавказского регионального центра МЧС РФ , причиной инцидента стану высокая концентрация хлора в воду после проведении плановых работ по дезинфекции одним из участков водопровода на муниципальном унитарной предприятии \"Водоканал\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "унитарном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "воде"
+    }
+  ]
+}

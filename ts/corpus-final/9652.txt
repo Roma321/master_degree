@@ -1,0 +1,30 @@
+{
+  "text": "Британская компанией заверила Еврокомиссию , что ф случае поглощения все рабочие места на щербинскую фирме будут сохранены , а вновь образованное гигантская телекоммуникационная корпорация будет действовать в интересах Европейского союза .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "германской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "образованная"
+    },
+    {
+      "correctReplacement": "германскую",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

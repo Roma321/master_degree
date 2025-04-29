@@ -1,0 +1,20 @@
+{
+  "text": "По словам служителями тюрьмы , перед смертью Оливер Круз раскаялось . Он попросил прощения ы семьи убитой им девушки , у своих родных и друзей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "раскаялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "служителей"
+    },
+    {
+      "correctReplacement": "у",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

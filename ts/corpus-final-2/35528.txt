@@ -1,0 +1,20 @@
+{
+  "text": "Также обнаружены две кассет с проволочным носителем формации , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "кассеты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

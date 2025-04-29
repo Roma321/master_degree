@@ -1,0 +1,30 @@
+{
+  "text": "Выиграна 833 дела , и в ближайшем времв энергетику предполагают волочащие 63 , 3 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "энергетики"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Выиграно"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "correctReplacement": "получить",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

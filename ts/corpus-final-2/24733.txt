@@ -1,0 +1,20 @@
+{
+  "text": "В ходе проверки там были обнаружены радиомикрофоны трех ридов и специальное приёмная устроуство .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "приемное"
+    },
+    {
+      "correctReplacement": "видов",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

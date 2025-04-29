@@ -1,0 +1,20 @@
+{
+  "text": "В четвеиг в Москве состоялся вторая на этой неделе митинг горожан , протестующих против строительства нового домов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

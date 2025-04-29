@@ -1,0 +1,15 @@
+{
+  "text": "Associated Press сообщает , ято задержан 101 авиарейсы , 138 рейсов отменено .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "авиарейс"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

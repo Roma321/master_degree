@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник на пресс-конференции й Киеве Мороз обворовывавший имеющуюся у нему запись разговоров президента Украины Леонида Кучмы , главы администрации президентов Владимира Литвина и министра внутренних дел Юрия Кравченко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "него"
+    },
+    {
+      "correctReplacement": "обнародовал",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

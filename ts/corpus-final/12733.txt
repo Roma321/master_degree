@@ -1,0 +1,25 @@
+{
+  "text": "Президент Ассоциация деятели игорного бизнеса Москвы также подчеркнул , что контролем за полнотой и своевременностью перечисления пальмовых платежей занимаешься Министерство по налогам и сборам и Федеральная служба налоговых полиции , а не мэрия .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "занимается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "деятелей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "correctReplacement": "налоговых",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

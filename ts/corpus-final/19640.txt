@@ -1,0 +1,25 @@
+{
+  "text": "ИПА призову население выступившие против демонстрации женского тела , а ее лидер направил также обращения на имя президента Гейдара Алиева , в котором назвал проведения подобного конкурса проявлением \"неуважения к народу\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выступить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "обращение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "проведение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "призвала"
+    }
+  ]
+}

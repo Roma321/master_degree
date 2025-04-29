@@ -1,0 +1,20 @@
+{
+  "text": "После совещания и Ж о . президента поздравил сотрудников Центра подготовку космонавтов с 40-летием со дня созданий и вручил некоторым из них государственные награды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "создания"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

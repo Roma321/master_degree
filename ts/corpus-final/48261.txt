@@ -1,0 +1,40 @@
+{
+  "text": "Новая системы будет копировать материалы из Интернета в специальную базой , которая затем будет подвергаться анализу . При этом комиссия заверила , что не будет рассматриваемые посланием электронную почты или другие средства связи до тех пор , пока они не появятся на открытых форумах , а также не будет хранить информацию , не подражающую фальсификаций и нарушений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "рассматривать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "базу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "послания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 53,
+      "correctReplacement": "содержащую"
+    },
+    {
+      "correctReplacement": "содержимую",
+      "type": "paronym",
+      "wordNumber": 53
+    }
+  ]
+}

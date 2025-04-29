@@ -1,0 +1,30 @@
+{
+  "text": "По ыообщению сотрудник ФСБ , \"Вольво\" был заминирован самодельным разрывный устройством по мощностей эквивалентным 100 граммам тротила .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сотрудника"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "мощности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "взрывным"
+    },
+    {
+      "correctReplacement": "взрывной",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

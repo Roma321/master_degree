@@ -1,0 +1,20 @@
+{
+  "text": "Например , в строительном секторе сейчас вакантны более 10 тысяч рабочих мест , стране требовались медсестёр , инженерные , специалисты по сельскому хозяйству .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "требуются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "медсестры"
+    },
+    {
+      "correctReplacement": "инженеры",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

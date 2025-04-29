@@ -1,0 +1,25 @@
+{
+  "text": "Рестораторы завалили властей жалобами , что завидеф этот флаг , турист избегали заходить в заведение - они думают , что оно открыто только для геев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "туристы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "избегают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "завидев",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Во вторником котировку фьючерсных контрактов на нефть маркой Brent продолжали снижаться и составляют 22 , 69 (-0 , 29) доллара за баррель . Негативное влияние на ход торгов продолжает оказывать информации о намерениях Норвегии с 2000 годов увеличить добычу нефти Brent на 500 тысяч артелей в дни , а также решение Совета безопасности ООН разрешить Ираку продолжать юкспорт нефти в рамках гуманитарная операции \"Нефть в обмен на продовольствие\" до 20 ноября .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "котировки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "информация"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "марки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 46,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 61,
+      "correctReplacement": "гуманитарной"
+    },
+    {
+      "correctReplacement": "баррелей",
+      "type": "paronym",
+      "wordNumber": 44
+    },
+    {
+      "correctReplacement": "экспорт",
+      "type": "typo",
+      "wordNumber": 57
+    }
+  ]
+}

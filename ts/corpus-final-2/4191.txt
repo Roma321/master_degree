@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время швейцарский прокуратура проводишь исследование факта проведеоия через компании Forus и Andava SA в Лозанне крупных сумм из \"Аэрофлота\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "проводит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "швейцарская"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "проведения",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили Итар-тассу в пресс-центре МВД России в Моздоке , бандиты внезапно напали на пунктом дислокации милиционеров , но после той , как на помощь оборонявшимся пришли военняе , террористы отступили .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "пункт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "correctReplacement": "военные",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

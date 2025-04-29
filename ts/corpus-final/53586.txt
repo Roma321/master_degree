@@ -1,0 +1,25 @@
+{
+  "text": "По данным , представленным вице-премьерами главке государства , общей задолженность к настоящему времени составляемый \"чуть больше одного миллиарда рублей\" , что соответствует во времененном выражении 0 , 1 месяца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "общая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вице-премьером"
+    },
+    {
+      "correctReplacement": "главе",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

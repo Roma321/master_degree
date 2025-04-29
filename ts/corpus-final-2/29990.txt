@@ -1,0 +1,20 @@
+{
+  "text": "Вошедшие в квартиру , один из них затолкал военщину в спальню , ударивший пластиковым кувшином для воды и изнасиловал .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Войдя"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "ударил"
+    },
+    {
+      "correctReplacement": "женщину",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

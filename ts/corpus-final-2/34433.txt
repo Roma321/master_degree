@@ -1,0 +1,20 @@
+{
+  "text": "Была близкая к победе и еще одна российское спортсменка , Татьяна Пановых .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Панова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "российская"
+    },
+    {
+      "correctReplacement": "близка",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

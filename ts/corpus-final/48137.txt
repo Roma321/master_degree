@@ -1,0 +1,20 @@
+{
+  "text": "Это происшедшее во время сексуального скандала с участием президенте СОА и стажерки Моники Левински .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

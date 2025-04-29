@@ -1,0 +1,25 @@
+{
+  "text": "Также в субботу пограничным нарядом пункта пропусков \"Аксарайский\" недалеко от железнодорожной станции \"Аксарайская-1\" были задержаны трое граждан Афганистанов , которые сошли с поезд Душанбе-москвы до его прибытия на станцию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Душанбе-Москва"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пропуска"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "поезда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Афганистана"
+    }
+  ]
+}

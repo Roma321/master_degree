@@ -1,0 +1,30 @@
+{
+  "text": "Швейцарские судебные власти располагает докуменоами , подтверждающими переводе платежей швейцарской строительную компании Merkata Trading через счётов Павла Бородина и ряда других лиц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "располагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "счета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "строительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "перевод"
+    },
+    {
+      "correctReplacement": "документами",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

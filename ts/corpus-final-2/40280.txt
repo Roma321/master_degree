@@ -1,0 +1,30 @@
+{
+  "text": "Глава правительства также скажу , что , по данным бедствия , организация теракта скорее всей ведусь иностранными специалистами , так как данная технология подготовки не использовались ранее в Йемене .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "использовалась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "велась"
+    },
+    {
+      "correctReplacement": "следствия",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

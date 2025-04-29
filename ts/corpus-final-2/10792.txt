@@ -1,0 +1,25 @@
+{
+  "text": "Согласно их логике , в результате снижений импортных ставок увеличившийся легальный экспорт теле- и видеотехники , ыто приведет к повышению средних цены на телеприемники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "увеличится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "цен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "снижения"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "На днях Владимир Путин заявил , что он намерен внести предложение об освобождении Юрия Скуратова с поста генпрокуроров РФ на ближайшем заседании Совета Федерации РФ 19 апреля . Скуратов , в своей очередь , обещал представленные сенаторам новую информацию о ходе расследования тех дел , в связи с которыми он , по собственному мнению , был сняты с должности генпрокуроров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "представить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 59,
+      "correctReplacement": "генпрокурора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 56,
+      "correctReplacement": "снят"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "обещает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "генпрокурора"
+    }
+  ]
+}

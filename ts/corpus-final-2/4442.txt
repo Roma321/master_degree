@@ -1,0 +1,25 @@
+{
+  "text": "Из-за высокого уровня воды в Баксане были остановившие работы по тоннажу металлическому моста на федеральной автодорогам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "остановлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "автодороге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "металлического"
+    },
+    {
+      "correctReplacement": "монтажу",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

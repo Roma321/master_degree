@@ -1,0 +1,25 @@
+{
+  "text": "Суды признавший подсудимых виновными по всем статьям обвинения и приговорил каждошо из них к 20 годам заключением .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "заключения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "каждого",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

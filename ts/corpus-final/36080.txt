@@ -1,0 +1,25 @@
+{
+  "text": "Ч манифестации , посвящённой Дню защитника Отечества , которая прошло 23 февраля в центре Москвы , привившие участие от трех до пяти тысяч человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "прошла"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "посвященной"
+    },
+    {
+      "correctReplacement": "приняли",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

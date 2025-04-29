@@ -1,0 +1,30 @@
+{
+  "text": "Для полноты и объективности этого следственных действия , с учетом мести работы , связей журналиста и активного противодействия процессу расследования признавшее целесообразной провести экспертизе за пределами города Москвы и Московской области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "признано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "следственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "целесообразным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "экспертизу"
+    },
+    {
+      "correctReplacement": "места",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

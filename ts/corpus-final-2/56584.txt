@@ -1,0 +1,30 @@
+{
+  "text": "\"В течение 30 лет многие израильтяне убеждали семя , что препятствия для мирного урегулирования приходят не извне , но коренятся в самой стране , что миру препятспвует не желание нашего врагами нас уничтожить , но наше нежелании идти на компромисс , - говорит Нетаниягу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "нежелание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "врагов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "наших"
+    },
+    {
+      "correctReplacement": "себя",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "препятствует",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

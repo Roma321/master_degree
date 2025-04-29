@@ -1,0 +1,30 @@
+{
+  "text": "Несмотря на усилия журнслистов , текст нового российского гимнов , представленный на подпись президента , по-прежнему оставался дойной .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "президенту"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "гимна"
+    },
+    {
+      "correctReplacement": "тайной",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "журналистов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

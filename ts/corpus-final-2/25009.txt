@@ -1,0 +1,25 @@
+{
+  "text": "На торге в электронной системе после завершения рабочего дня в США цена ноябрьских контракта несколько скорректируюсь , однако не опущусь ниже отметки в 32 доллара - 32 , 01 доллара за баррель .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "контрактов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "скорректировалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "торгах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "опустилась"
+    }
+  ]
+}

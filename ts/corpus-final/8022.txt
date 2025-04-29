@@ -1,0 +1,30 @@
+{
+  "text": "Телевизионщики начал снимать происходящее , в результате что опечатавшие редакцию официальный лиц \"попросту разбежались\" , однако текстовые из них все же были зафиксированы на видеопленке .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "лица"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "официальные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "чего"
+    },
+    {
+      "correctReplacement": "некоторые",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

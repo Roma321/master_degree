@@ -1,0 +1,25 @@
+{
+  "text": "В ноябре налоговые полицейские проводящие широкомасштабную акцию по проверке деятельности электронных средств массовой информации , сообщал информационному агентство \"Нетоскоп\" со ссылкой на письмо адвокатского бюро Глушенкофа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "информационное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проводят"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Глушенкова",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно заявлению представителей арвии , водитель автобуса заблудился и случайно привезла военными в местность , находящуюся под полными контролем палестинцев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "полным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "военных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "привез"
+    },
+    {
+      "correctReplacement": "армии",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

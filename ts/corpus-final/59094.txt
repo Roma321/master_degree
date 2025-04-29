@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС со ссылки на Министерство обороны России , боевики также планируют перехватывать конвои с гуманитарного помощами , в том числе направленного по линии международных организаций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "направленной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "гуманитарной"
+    }
+  ]
+}

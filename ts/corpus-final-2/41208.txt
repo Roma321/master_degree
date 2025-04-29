@@ -1,0 +1,25 @@
+{
+  "text": "В чеченском плену остался очень мало заложников , и среди них нет ни одной иностранца , заявил в Варшавк министр внутреннего дел России Владимир Рушайло .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "осталось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "Варшаве",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

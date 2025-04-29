@@ -1,0 +1,20 @@
+{
+  "text": "Максимальная комплектация подразумевающий наличие дополнительных оборудования , повышающего комфорность и эксплуатационные качества автомобильного , сообщает ПРАЙМ-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подразумевает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "дополнительного"
+    },
+    {
+      "correctReplacement": "автомобиля",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "На сайтах отразим последние события Предвыборным штабов , последние пульсации о Сергее Кириенко и о Союза правых силы , а также культурные проекты Штаба : \"Москва - территория 2000\" , \"Культурные герои\" , \"Кадровый резерв\" и т . д .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Предвыборного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сайте"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Союзе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "штаба"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "отражены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "публикации",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

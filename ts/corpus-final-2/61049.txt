@@ -1,0 +1,25 @@
+{
+  "text": "\"Если такие меры в самое ближайшее времф не будут приняты , мы будем настаивать , чтобы руководители правительства отчитались перед Думой по этому вопросам на пленарном заседание в четверг\" , - сказал Зюганов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "вопросу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "заседании"
+    },
+    {
+      "correctReplacement": "этому",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

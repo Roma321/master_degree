@@ -1,0 +1,25 @@
+{
+  "text": "Афстралийские полиция арестовала 22-летнего спортсмена олимпийской команде Уганды , который подозревается в изнасиловании 17-летней местной девушка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "девушки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "команды"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Австралийская"
+    },
+    {
+      "correctReplacement": "Австралийские",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

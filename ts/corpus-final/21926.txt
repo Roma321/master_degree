@@ -1,0 +1,20 @@
+{
+  "text": "Отдельные сообщения о сбоях в компьютерах поступали из США и Японии , однако ни в одного стрчне не отмечу крупных катастроф , взрывов , крушений , сбоев в электроснабжении или транспортных сетях .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "отмечено"
+    },
+    {
+      "correctReplacement": "стране",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

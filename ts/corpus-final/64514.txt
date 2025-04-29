@@ -1,0 +1,20 @@
+{
+  "text": "При пожаре на лесобирже в деревне Важины Ленинградского гбласти огонь распространюсь на площади в 10 тысяч кв . метров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "распространился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Ленинградской"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

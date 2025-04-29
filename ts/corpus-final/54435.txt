@@ -1,0 +1,30 @@
+{
+  "text": "В США Лиховцевым добралась до полуфинала , где уступило испанке Кончишь Мартинес , а г рейтинге WTA , опубликованном в понедельник , Елена поднялась на четыре ступеньки и занимает теперь 17-е строчку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "17-ю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "уступила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Кончите"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Лиховцева"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

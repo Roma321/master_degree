@@ -1,0 +1,25 @@
+{
+  "text": "На этос раз предполагается высадить на планете два колёсные робота , которые должны будут подтвердить предположения ученых о присутствием воды на Марсе , сообщаю Associated Press .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "присутствии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "колесных"
+    },
+    {
+      "correctReplacement": "этот",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

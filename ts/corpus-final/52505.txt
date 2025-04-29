@@ -1,0 +1,35 @@
+{
+  "text": "упёртые в ссылку бмли отправившие несколько сотрудников комитетов национальной безопасности , обвиненные в вымогательстве и занятии наркобизнесом , а также бывшая вице-премьер правительства , министр энергетики и промышленности страны Сапармурат Нурыев , который похитил несколько миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Первыми"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "комитета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отправлены"
+    },
+    {
+      "correctReplacement": "Первые",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "были",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

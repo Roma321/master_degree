@@ -1,0 +1,35 @@
+{
+  "text": "Комментируя ситуацию на заводе генеральный директор заявили , что в соодветствии с производственной плащом на первое квартал 2001 году предприятие переходит с трехсменного на двухсменный режим работы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "производственным"
+    },
+    {
+      "correctReplacement": "планом",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "соответствии",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

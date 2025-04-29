@@ -1,0 +1,20 @@
+{
+  "text": "Министерство внутренних дел Мексика признало , что число пострадавших от стихии превышаемый 265 тысяч человеч .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Мексики"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "превышает"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

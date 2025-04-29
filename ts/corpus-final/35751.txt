@@ -1,0 +1,20 @@
+{
+  "text": "На всех ререкрёстках Иванова отключены светофоры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Иваново"
+    },
+    {
+      "correctReplacement": "перекрестках",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "перекрёстках",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

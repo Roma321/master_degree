@@ -1,0 +1,35 @@
+{
+  "text": "Предыдущие рекорд аля 30 декабрю был установлен 60 лет назад и составлял менее 10 см . Ни один из трех аэропорты Нью-Йорка - Ла Гуардиа , Кеннеди , Ньюарк - не работаю .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "аэропортов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предыдущий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "работал"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "мля",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

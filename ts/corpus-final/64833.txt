@@ -1,0 +1,25 @@
+{
+  "text": "Синоптиков предсказываем усиление дождей , а писатели не исключаюо , что число жертв может увеличиться .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "предсказывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Синоптики"
+    },
+    {
+      "correctReplacement": "спасатели",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "исключают",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

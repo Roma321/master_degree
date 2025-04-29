@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению Associated Press , в сражении за Уруса-мартана против примерно 500 мятежников задействовавшие российские танки и пехота при подкормке вертолетов МИ-24 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "задействованы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Урус-Мартан"
+    },
+    {
+      "correctReplacement": "поддержке",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

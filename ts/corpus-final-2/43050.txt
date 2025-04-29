@@ -1,0 +1,25 @@
+{
+  "text": "Однако в нынешней сезоне москвички играете крайне неудачно , занимая лишь 13-е место в турнирного таблице .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "нынешнем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "играют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "турнирной"
+    },
+    {
+      "correctReplacement": "москвичи",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Во вторник группировке ХАМАС заявила , что начинаемый сражение с палестинцами , сотрулничающими с Израилем , обобщавший Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "группировка"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "начинает"
+    },
+    {
+      "correctReplacement": "сообщал",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "сотрудничающими",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

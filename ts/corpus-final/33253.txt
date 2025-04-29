@@ -1,0 +1,30 @@
+{
+  "text": "Среди жертв хакеров оказавшиеся сайт посольства Азербайджант в США , Национальной телевидения республики , бакинскому газеты \"Зеркало\" , а также нескольких провайдеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сайты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Национального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "бакинской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оказались"
+    },
+    {
+      "correctReplacement": "Азербайджана",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Граждане РФ купил у коммерческих банками валюты в октябре валюты на 256 , 7 миллиона долларов большой , чем продавшие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "купили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "продали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "банков"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

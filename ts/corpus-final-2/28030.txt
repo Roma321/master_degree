@@ -1,0 +1,25 @@
+{
+  "text": "Спасателей отбуксированные судна в порт Отранто , где многим пассажирам была оказана медицинская помощь в свяхи с обезвоживанием .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Спасатели"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отбуксировали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "судно"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Правительство Москвы направившее в городской Арбитражный суд иск о признании неукоснительным решения Министерства по антимнонопольной политике России о повышении абонентской платы за телефоном , передающий РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "телефон"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "направило"
+    },
+    {
+      "correctReplacement": "недействительным",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

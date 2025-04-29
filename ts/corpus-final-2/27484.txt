@@ -1,0 +1,20 @@
+{
+  "text": "Торжественная церемония вручение неграды пройдёт в среду в Лондоне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "вручения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "correctReplacement": "награды",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

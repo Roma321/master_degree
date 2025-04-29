@@ -1,0 +1,25 @@
+{
+  "text": "Первоначально предполагаюсь , что в машине находимся дпвять человек , обобщившие в понедельник \"Интерфаксу\" в пресс-службе МЧС России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предполагалось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "находились"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "девять",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

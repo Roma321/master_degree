@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на пресс-служба ГТК Россию , экипаж самолета пытался вывезти чеченку Седу Магомедову в Молдавию , минуя пограничный и таможенная контроль .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "таможенный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пресс-службу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "России"
+    }
+  ]
+}

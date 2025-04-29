@@ -1,0 +1,20 @@
+{
+  "text": "Эксперт , однако , считаем , кто их количество уменьшится до 5-6 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Эксперты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

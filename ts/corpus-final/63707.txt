@@ -1,0 +1,30 @@
+{
+  "text": "Матч в Милане проходил по традиционного схеме : хозяева атакуем , гостьи рассчитывавшие оа контратаки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "атаковали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "традиционной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "рассчитывали"
+    },
+    {
+      "correctReplacement": "гости",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили в пресс-службе ВСК , в ненастоящее время в компании работаю опергруппа , тесно взаимодействующая по всем вопросам с соответствующих структурами в Минобороны РФ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "работает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "соответствующими"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Министр связи высказался за государственное регулироваьию тарифов , которое он считал эффективным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "регулирование"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "считает"
+    },
+    {
+      "correctReplacement": "регулированию",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

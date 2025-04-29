@@ -1,0 +1,25 @@
+{
+  "text": "Сигнал о положительным предмете , напоминающем взрывном устройство , поступлю из школы на пульт оперативных дежурного ГУВД Москвы в 11 : 15 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "оперативного"
+    },
+    {
+      "correctReplacement": "подозрительном",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

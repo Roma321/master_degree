@@ -1,0 +1,25 @@
+{
+  "text": "Выступивший на открытии Геннадии Селезнев приведздвовали изменения , начавшиеся в стране после избрания владима Путина главой государства , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "приветствовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Геннадий"
+    },
+    {
+      "correctReplacement": "Владимира",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "приветствовали",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

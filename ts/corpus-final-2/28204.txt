@@ -1,0 +1,20 @@
+{
+  "text": "В среды акции кампания Yahoo ! упали более чем на двадцать процентов , сообщает агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

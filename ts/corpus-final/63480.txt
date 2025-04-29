@@ -1,0 +1,20 @@
+{
+  "text": "С черепно-мозговой травмой Полонский в тяжёлому состояниибыл госпитализирован в одру из горбовских больниц .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "correctReplacement": "городских",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "одну",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

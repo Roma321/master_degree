@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщили в МВД , выборочные проверке показанная , вто \"в целях создания видимого благополучия , в подразделениях ГУВД Москвы сложилась системы укрытич преступлений от регистрации и учета\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "проверка"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "выборочная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "показала"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "укрытия",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

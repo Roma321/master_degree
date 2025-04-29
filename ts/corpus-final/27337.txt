@@ -1,0 +1,40 @@
+{
+  "text": "Как и в Gooey , при работе в Odigo пользователь , зашедший на какую-либо страницу WWW , видишь всех других пользователей той же программы , находившихся в это момент на данных странице , и сожет вступить с ними в личном или необъективный разговор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "личный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "данной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "находящихся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "видит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "коллективный",
+      "type": "paronym",
+      "wordNumber": 41
+    },
+    {
+      "correctReplacement": "может",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

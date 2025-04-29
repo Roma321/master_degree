@@ -1,0 +1,20 @@
+{
+  "text": "США намерены ограниченные ввоз российских азотных удобрений на уровне в 80 тысяч тоон в год , при этом их продажные цена не должна быть ниже 99 долларов за тонну .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "ограничить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "продажная"
+    },
+    {
+      "correctReplacement": "тонн",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Ранее генерал-майор Максимов занимаю должность заместителя начальника Управления уголовной розыска , а после отставки предыдущего руководителя тур Виктора Голованова с 6 января 2000 года исполняемый его обязанность .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "занимал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "обязанности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "исполнял"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "correctReplacement": "МУРа",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

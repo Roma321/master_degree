@@ -1,0 +1,20 @@
+{
+  "text": "Представитель полиций сообщил , что один из раненых находится в критическом состоянии , другого отпустили домой после оказания помощей в местного больнице .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "местной"
+    }
+  ]
+}

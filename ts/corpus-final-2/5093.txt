@@ -1,0 +1,20 @@
+{
+  "text": "В эту день машина прилетевшая из Нью-Йорка и ее первый пилот обратился в техническую службу аэропорта с просьбы починить реверсор тяги на двигателе N2 (изготовитель - фирма Rolls Royce) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "прилетела"
+    }
+  ]
+}

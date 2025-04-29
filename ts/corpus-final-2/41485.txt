@@ -1,0 +1,40 @@
+{
+  "text": "В Великом Новгороде из антикварного магазина с 18 по 20 ноябрей неизвестные похищенные более тысячи коллекционных монет , в том числе 12 серебряных монеты временами Екатерины Второй , 150 медных монет Российской империи различного достоинства , а тавже юбилейный рубли советского периода , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "похитили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "монет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "времен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "юбилейные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 43,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "ноября"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

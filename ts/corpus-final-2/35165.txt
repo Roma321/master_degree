@@ -1,0 +1,20 @@
+{
+  "text": "Шведского дом изо льда рассчитан на сто мест и исправно принимакшь гостей уже в течение 12 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Шведский"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "принимает"
+    },
+    {
+      "correctReplacement": "принимаешь",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

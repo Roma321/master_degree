@@ -1,0 +1,30 @@
+{
+  "text": "ILOVEYOU наношу значительном ущерб данным , содержащимся на диске зараженного компьютера : файлов с расширениями . js т . css стираются , а вместо них записывается файл скриптов на VisualBasic под тем же названием , что и уничтоженный файл .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "значительный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "скрипта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "файлы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "наносит"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

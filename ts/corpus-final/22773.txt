@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили а пресс-центре МВД , в боях в Дагестане участвовали около 300 человек из войсковых части №0666 ВС ЧРИ в Гудермесе , которая непосредственно подчинялся президенту Аслана Масхадову .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "подчиняется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "войсковой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Аслану"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

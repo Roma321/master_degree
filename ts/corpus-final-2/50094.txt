@@ -1,0 +1,30 @@
+{
+  "text": "С 1 января 2001 года стафка снова возрастёт до 30 процентов - об этом сообщивший заместитель главы Международной сахарного компании Денис Соколовы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "сахарной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Соколов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "возрастет"
+    },
+    {
+      "correctReplacement": "ставка",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

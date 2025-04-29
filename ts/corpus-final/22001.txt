@@ -1,0 +1,25 @@
+{
+  "text": "Возмещен ущерп насумму более 10 миллиарда рублей , разрешено более миллиона заявлениях ижалоб граждан , принята на приеме свыше 800 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "заявлений"
+    },
+    {
+      "correctReplacement": "ущерб",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

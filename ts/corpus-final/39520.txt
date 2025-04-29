@@ -1,0 +1,20 @@
+{
+  "text": "Консул посольства Украины в РФ Петр Мацарский , комментируя задержания Тимошенко , заявил , что считает действия милицию незаконныки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "задержание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "милиции"
+    },
+    {
+      "correctReplacement": "незаконными",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

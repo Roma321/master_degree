@@ -1,0 +1,30 @@
+{
+  "text": "По данным ИТАР-ТАСС , полученным в пресс-центре краевой противопожарной службы , жеребята остплись дома одни с включённым обогревателем , которым загорелись .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "загорелся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "включенным"
+    },
+    {
+      "correctReplacement": "дети",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "остались",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

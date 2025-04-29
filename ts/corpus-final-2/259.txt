@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того президент России рассказал о своём намерении плсетить по дороге в Окинаву Китай и семенную Корею - страны , ракетного оружие которых вызывает наибольшей обеспокоенность США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "ракетное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "наибольшую"
+    },
+    {
+      "correctReplacement": "Северную",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "посетить",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

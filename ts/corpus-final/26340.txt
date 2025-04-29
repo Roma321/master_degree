@@ -1,0 +1,25 @@
+{
+  "text": "Глава ЦБ подчеркнувший , что Россия выполняю все взятый на себя обязательства перед МЧФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "взятые"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "выполняла"
+    },
+    {
+      "correctReplacement": "МВФ",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

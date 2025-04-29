@@ -1,0 +1,25 @@
+{
+  "text": "В первой квартале МНС обесточенное поступлению в федеральный бюджет на уровне 127 миллиардов рублей при плане в 88 миллиардов рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "поступления"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обеспечило"
+    },
+    {
+      "correctReplacement": "обеспеченное",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

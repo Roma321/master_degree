@@ -1,0 +1,25 @@
+{
+  "text": "ейчас программа могу выполнять примерно 5 запусков в год , но к 2005 году нланируется увеличить ее возможность .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "возможности"
+    },
+    {
+      "correctReplacement": "Сейчас",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "планируется",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

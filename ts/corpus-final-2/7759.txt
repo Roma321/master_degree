@@ -1,0 +1,25 @@
+{
+  "text": "Засушливый жара увеличивал потребление электроэнергии , и в четверги калифорнийские энергетики вынуждены были объявить чрезвычайное ситуацию второго уровня , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Засушливая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "увеличивает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "чрезвычайную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "четверг"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Все 143 людей , находифшиеся на борту , включая 8 члена экипажа , погибли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

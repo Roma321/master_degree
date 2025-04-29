@@ -1,0 +1,20 @@
+{
+  "text": "Вероятно , бомба была замочившая в одной из магазинов у рынка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "заложена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "одном"
+    },
+    {
+      "correctReplacement": "заложившая",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На пьеске Мери , занимавшееся операциями с собственностью , утверждал , что строительные компании секретно переводили партии миллионами франков , чтобы заручиться контрактами со строительным департаментом ОПР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "занимавшийся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "миллионы"
+    },
+    {
+      "correctReplacement": "пленке",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

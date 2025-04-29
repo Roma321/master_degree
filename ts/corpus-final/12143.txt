@@ -1,0 +1,30 @@
+{
+  "text": "Более миллиона человек , живущих на атлантическом побережьи США в штатах Флорида и Джорджия , получим предупреждение о необходимости эвакуации ч связи с приближениями самого сильного в истории США урагана Флойд , сила ветра которого составляешь до 250 км/ч , а зона действия - более 300 километра от центра .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 35,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "приближением"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 46,
+      "correctReplacement": "километров"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

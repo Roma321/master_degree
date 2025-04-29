@@ -1,0 +1,25 @@
+{
+  "text": "На этой меру пришлось пойти послн того , как группа демонстранта , состоящая из 150-200 человек , прорвала внешнее полицейский оцепление и стала митинговать непосредственно перед отелем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "полицейское"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "демонстрантов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "эту"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

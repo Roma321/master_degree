@@ -1,0 +1,15 @@
+{
+  "text": "По словам Селезнева , один миллиону житалей области работает в Москве и там же выплачивает налоги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "миллион"
+    },
+    {
+      "correctReplacement": "жителей",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

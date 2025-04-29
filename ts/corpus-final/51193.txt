@@ -1,0 +1,30 @@
+{
+  "text": "К той же Путин напомнили , что президент страны являешься и Верховным главнокомандующим , и от него зависит принятие решений , в том число касающихся ядерныз сил .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "ядерных",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

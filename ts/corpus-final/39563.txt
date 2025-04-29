@@ -1,0 +1,25 @@
+{
+  "text": "Трое преступников , угрожав помощнику депутата помповым ружьём , отобрали у него автомобильный Toyota и скроемся .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ружьем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "угрожая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "скрылись"
+    },
+    {
+      "correctReplacement": "автомобиль",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

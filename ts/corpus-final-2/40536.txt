@@ -1,0 +1,25 @@
+{
+  "text": "На губернаторских выборах в Усть-Ордынском Бурятском автономном округе победу одерживал нынешний глава окружной администрация Валерию Малеев , сообщаю ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "администрации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Валерий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "одерживает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

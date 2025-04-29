@@ -1,0 +1,20 @@
+{
+  "text": "Почти на 30 процентов подорожаем мазут М-100 - до 1 тысяч 296 рублей за тонну , и авиационное топливо ТС-1 - ао 4 тысяч 824 рубля за тонну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "подорожали"
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

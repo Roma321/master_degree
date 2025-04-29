@@ -1,0 +1,25 @@
+{
+  "text": "Борис Эркены поштвердивший такт покушения вчера поздно вечером на помощника Владимира Семенова Юрия Антонова возле его дома .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Эркенов"
+    },
+    {
+      "correctReplacement": "факт",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "подтвердивший",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

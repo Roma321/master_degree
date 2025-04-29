@@ -1,0 +1,30 @@
+{
+  "text": "Прокурор города Линц объявивший , что четыре руководителя компания , название которой не радглашался , а также их деловые партнеры в Швейцарии и США , находятся под следствием по обвинению в продаже заражённой крови в Индию и Китай .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "зараженной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "разглашается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "разглашался",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

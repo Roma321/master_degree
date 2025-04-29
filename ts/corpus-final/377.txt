@@ -1,0 +1,25 @@
+{
+  "text": "Калашников сказал , что большинству населений России не приемлет отмену моральных льгот , к которым оно привыкли при социалистическом строе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "привыкло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "большинство"
+    },
+    {
+      "correctReplacement": "социальных",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

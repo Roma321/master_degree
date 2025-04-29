@@ -1,0 +1,20 @@
+{
+  "text": "По заявление главе ФСБ Николая Патрушева , министерство обороны , ФСБ и МВД знали , что боевики готовят в Чечна ряд террористических акций в день проведения выборов президента России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлению"
+    },
+    {
+      "correctReplacement": "Чечне",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

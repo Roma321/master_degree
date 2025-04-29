@@ -1,0 +1,25 @@
+{
+  "text": "Государственная Дума приму сегодня в третьем , заключительномчтению федермльного закон \"О гарантировании вкладов граждан вбанках\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "заключительномчтении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "федеральный"
+    },
+    {
+      "correctReplacement": "федерального",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

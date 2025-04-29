@@ -1,0 +1,20 @@
+{
+  "text": "Станция по инерции будет вращаться гигантской , массой около 120 тоннами , волчком со скоростью около 1 оборота жа 40 минут .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "гигантским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тонн"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

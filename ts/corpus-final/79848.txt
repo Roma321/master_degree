@@ -1,0 +1,20 @@
+{
+  "text": "По несовременным данным , ее получивший новозеландцы Чарльз Дэмпси , голос которого предрешил победу Германии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "новозеландец"
+    },
+    {
+      "correctReplacement": "непроверенным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

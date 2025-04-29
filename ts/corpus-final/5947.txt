@@ -1,0 +1,30 @@
+{
+  "text": "По ее словам , таким же образом обстоим дела в представительстве Буэнос-Айреса при ООН , в консульстве в Лос-анджелес , в посольстве в Ливане , \"где посрл зверевший представительство , лишённого каких-либо коммунальных услуг , и остался дома под охраной\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "обстоят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "лишенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Лос-Анджелесе"
+    },
+    {
+      "correctReplacement": "запер",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "посол",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

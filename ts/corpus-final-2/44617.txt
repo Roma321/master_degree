@@ -1,0 +1,20 @@
+{
+  "text": "Подросток ростом 150 сантиметров и весом 40 килограмм пролезший через окна на крышу , после чего спустился вниз с помощью веревки , связанноы из простыни .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "окно"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "пролез"
+    },
+    {
+      "correctReplacement": "связанной",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

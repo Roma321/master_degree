@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник 36-летний австралиец был арестованный в Англии после той , как приземлилась перед Букингемским дворцом , сообщает BBC News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "приземлился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "арестован",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

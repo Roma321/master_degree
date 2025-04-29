@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению РИА \"Новости\" , предмет , похожий на взрывного обустройство , был обнаружен в вагоне с селитра .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "селитрой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что Виктор Столповскими входит в число лиц , подозреваемых в причастности к даче и помещение многомиллионных комиссионных за предоставление выгодных контрактов на реконструкцию государственных учреждений в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Столповских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "получению"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "получение",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

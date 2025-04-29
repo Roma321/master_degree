@@ -1,0 +1,25 @@
+{
+  "text": "Министерство печати и информации Россией предупредившее Минздрав об акции , проводимой в ноябрях Управленческим центром религиозного организации \"Свидетели Иеговы\" среди медработников , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ноябре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "предупредило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "религиозной"
+    }
+  ]
+}

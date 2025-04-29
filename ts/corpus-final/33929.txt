@@ -1,0 +1,25 @@
+{
+  "text": "Тем не менее , президента \"Банка Москвы\" считает , сто \"скорее всего , это умело запущенная информационная утки в преддверия предвыборной кампании\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "преддверии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "утка",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

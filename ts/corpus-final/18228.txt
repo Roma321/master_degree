@@ -1,0 +1,30 @@
+{
+  "text": "Российские военные опровергаете информацию о рссстреле российскими солдатами группы мирных жителей чеченских села Алханы-юрты .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "опровергают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Алхан-Юрт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "чеченского"
+    },
+    {
+      "correctReplacement": "расстреле",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "расстреле",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

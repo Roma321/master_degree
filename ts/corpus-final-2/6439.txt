@@ -1,0 +1,25 @@
+{
+  "text": "Одна из посетителей был раним ч груди , остальные восемь пострадали не столь серьезно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "грудь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "ранен"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

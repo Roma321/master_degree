@@ -1,0 +1,20 @@
+{
+  "text": "Меня не говоримый \"нет\" , но разно у нас этого не было .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "говорю"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Я"
+    },
+    {
+      "correctReplacement": "раньше",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

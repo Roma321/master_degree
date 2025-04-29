@@ -1,0 +1,25 @@
+{
+  "text": "До последнего времени компания утверждаю , что собранная информации остается анонимную , и полученные данные не связываются с конкретными людьми , а используются лишь для состацления общей статистики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "анонимной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "информация"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "утверждала"
+    },
+    {
+      "correctReplacement": "составления",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

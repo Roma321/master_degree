@@ -1,0 +1,20 @@
+{
+  "text": "По словам активистов Greenpeace , проектом строительства завода не прошло государственной экологтческой экспертизы , а следовательно , строительство абсолютно незаконно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "проект"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "прошел"
+    },
+    {
+      "correctReplacement": "экологической",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

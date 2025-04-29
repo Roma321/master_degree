@@ -1,0 +1,20 @@
+{
+  "text": "Недавно венгерские сторона получу официальный запрос Генерального прокурора Россри с просьбой о выдаче задержанного .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "венгерская"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "получила"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

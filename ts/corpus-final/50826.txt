@@ -1,0 +1,25 @@
+{
+  "text": "Единственная же гол у москвичей забило Максим Бузникинам , невообразимое пробивший головой после передачи с фланга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Единственный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Бузникин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "забил"
+    },
+    {
+      "correctReplacement": "неотразимо",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

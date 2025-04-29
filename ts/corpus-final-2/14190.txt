@@ -1,0 +1,30 @@
+{
+  "text": "Они также ссылающиеся на Первое поправку к проституций США , гарантирующую звободу слова , и говорят , что \"Идеальный шторм\" не бросает тень на покойного капитана Тайна .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Конституции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Первую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "ссылаются"
+    },
+    {
+      "correctReplacement": "Конституций",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "свободу",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

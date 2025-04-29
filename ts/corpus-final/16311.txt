@@ -1,0 +1,20 @@
+{
+  "text": "В отличие от классического способов \"спрятаться\" в Интернете - банальных proxy-серверов или anonymizer'а , где IP-адрес пользователя все же сохраняется , пусть и в зашифрованном сиде или временно - продукт Zero-Knowledge Systems позволяет контролировать анонимность исключительно со стороны клиентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "клиента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "классических"
+    },
+    {
+      "correctReplacement": "виде",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

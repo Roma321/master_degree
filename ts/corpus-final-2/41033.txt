@@ -1,0 +1,25 @@
+{
+  "text": "На некоторый времена остались без света и тепла детские сады , больнице , школы , теплосети и водозаборы , что привёдшее к исчезновению в домах воды и тепла .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "привело"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "больницы"
+    }
+  ]
+}

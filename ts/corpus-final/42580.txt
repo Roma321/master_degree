@@ -1,0 +1,25 @@
+{
+  "text": "В частность , принявшее решения выделавшие на обустройство Кошильского нефтяного месторождения в Ханты-Мансийском автономном округе кредит в78 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "выделить",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

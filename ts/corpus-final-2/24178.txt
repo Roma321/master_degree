@@ -1,0 +1,35 @@
+{
+  "text": "До этого , в первой половине дня один бразильский полицейский был убит и другую раню палестинским полицейскому , уцаствующем в совместном палестино-израильском патруле .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "участвовавшем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "полицейским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "другой"
+    },
+    {
+      "correctReplacement": "израильский",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "участвующем",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

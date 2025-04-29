@@ -1,0 +1,20 @@
+{
+  "text": "В ходе производительных расследования нарушитель заявил , что хотел проникнуть на иностранное судном , чтобы уехать за границу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "судно"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "предварительного"
+    },
+    {
+      "correctReplacement": "предварительных",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

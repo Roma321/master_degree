@@ -1,0 +1,25 @@
+{
+  "text": "По словам вице-премьера РФ Виктора Христенко пошлина будет увеличившая с 15 июнь по 15 декабря на сахар-сырец до 40 процентов , а также нч сахар белом - до 45 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "увеличена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "белый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "июня"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

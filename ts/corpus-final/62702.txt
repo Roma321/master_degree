@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на пресс-службой Северокавказского регионального управления ФПС России , группа чеченских бежерцы , направлявшихся в Грузию , вступили в перепалку с Усани Масхадовой и ее двумя родственниками , возвращающимися из Тбилиси в Грозный .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "вступила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пресс-службу"
+    },
+    {
+      "correctReplacement": "беженцы",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

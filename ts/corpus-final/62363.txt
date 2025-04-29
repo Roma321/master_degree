@@ -1,0 +1,25 @@
+{
+  "text": "В частностях , речь представителем юмористического журфак The Onion звучала тек : \"Они сказали , я могу только . . . \" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "представителя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "журнала",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "так",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

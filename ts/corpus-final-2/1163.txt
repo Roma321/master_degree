@@ -1,0 +1,20 @@
+{
+  "text": "После операции здоровье генерала пойду на поправку , однако в среды его состояние резко ухудшившееся и он был госпитализирован .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "ухудшилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пошло"
+    }
+  ]
+}

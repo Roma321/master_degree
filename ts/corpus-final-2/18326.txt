@@ -1,0 +1,25 @@
+{
+  "text": "Политическое решение о возобновлении рейса Аэиофлот в Ирак было принята в ходе переговоров российского руководства с вице-премьером Ирака Тариком Азизом в августе этого года в Москве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Аэрофлота"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "рейсов"
+    },
+    {
+      "correctReplacement": "Аэрофлот",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

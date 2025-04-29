@@ -1,0 +1,30 @@
+{
+  "text": "Чубайс также заметил , что ситуация с недостатком электричества в Приморье должно уникально измениться после того , как во второй квартале 2003 года будет пущена в эксплуатации первая очереюь Бурейской ГЭС , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "втором"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "должна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "эксплуатацию"
+    },
+    {
+      "correctReplacement": "радикально",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "очередь",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как выянила полиция , схема бизнеса была такова : контрабандисты покупавшие сигареты в Северной Каролине , где за пачку берут 5 центов налогов , перевозили их в Мичиган , где суммы налога составляет 75 центов с пачви , и там продавали по завышенной цене , сообщаешь Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "покупали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "сумма"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 45,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "пачки",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

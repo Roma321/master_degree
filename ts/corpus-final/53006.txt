@@ -1,0 +1,30 @@
+{
+  "text": "Independent сообщающий , что оа прошлой неделе Камдессю провел встречу с высшими должностными лицами Фонда и сообщило о своем намерения уйти в отставку до множество .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "намерении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "Рождества",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

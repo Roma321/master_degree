@@ -1,0 +1,25 @@
+{
+  "text": "В среду , 29 ноября , в Мосгорсуде , рассматривающем дело американское гражданина Эдмонда Поупа , выступил государственные обвинитель , прокурор Игорь Волгину , сообщал НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Волгин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "государственный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

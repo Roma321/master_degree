@@ -1,0 +1,35 @@
+{
+  "text": "Финальный матч первого в истории шахматной супертурнира в Интернете между россиянином Гарри Каспаровым и голландце Йеруном Пикетом из-за технические неполатки был прерван , перенесен на день и в итоге принес сенсации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "сенсацию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "шахматного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "голландцем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "технических"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "неполадок"
+    },
+    {
+      "correctReplacement": "неполадки",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

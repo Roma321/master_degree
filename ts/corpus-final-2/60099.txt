@@ -1,0 +1,20 @@
+{
+  "text": "Президент также заявлю , что от работы россифских СМИ , \"во многом зависит моральное состояния общества\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "состояние"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

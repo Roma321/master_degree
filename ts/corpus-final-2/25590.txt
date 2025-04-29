@@ -1,0 +1,20 @@
+{
+  "text": "В том числе 61 , 8 миллиарда марок было предоставлена бывшим СССР , и 66 , 4 миллиарюа марок непосредственно России , передает Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "бывшему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "предоставлено"
+    },
+    {
+      "correctReplacement": "миллиарда",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На устранение неисправностях на место выехала бригада силах гражданской бороны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "неисправностей"
+    },
+    {
+      "correctReplacement": "обороны",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

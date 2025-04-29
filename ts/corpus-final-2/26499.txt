@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщило РИА \"Новости\" пресс-секретарь президента Алексее Громов , 7 октября в городе на Несой состоится встреча Путина с главой Всемирного банка Джеймсом Вулфенсоном .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Неве"
+    },
+    {
+      "correctReplacement": "Невой",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

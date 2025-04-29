@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , Москва - особое регионы , который ежесуточно посещает до трёх миллионов человек , и , чтобы упорядочить этот поток , необходима регистрация .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "регион"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "особый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "трех"
+    }
+  ]
+}

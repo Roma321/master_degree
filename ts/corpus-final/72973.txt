@@ -1,0 +1,25 @@
+{
+  "text": "Во время пкрегрузки списанных баллистические газет из трюмов транспортного судна на берег оборвались стропила и одна из ракет упала .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "трюма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "баллистических"
+    },
+    {
+      "correctReplacement": "ракет",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "перегрузки",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В звою очередь Ясиры Арафат расценила свою встречу с Игорем Ивановым как очень важную , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Ясир"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "расценил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "свою",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

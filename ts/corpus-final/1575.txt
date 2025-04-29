@@ -1,0 +1,25 @@
+{
+  "text": "Спустя полтора часов заложников на вертолете из киргизского села Карамык были переправившие в областной центр Баткен , а оттуда на самолете доставим в пригород Бишкека .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "переправлены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заложники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "доставлены"
+    }
+  ]
+}

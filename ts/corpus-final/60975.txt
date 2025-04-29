@@ -1,0 +1,25 @@
+{
+  "text": "Управление стиркой осуществляется через web-интерфейсы али чераз мобильном телефон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "web-интерфейс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "мобильный"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Глава компании Amazon , Джефф Безос извинился перед своими покупателями за провехенный эксперимент с цен и заявило , что компания вернёт деньги 6 896 покупателям , которых в ходах этого эксперимента покупали DVD-диски по случайным ценам , сообщает в среду агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "ценами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "ходе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "вернет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "проведенный",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

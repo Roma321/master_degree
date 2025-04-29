@@ -1,0 +1,20 @@
+{
+  "text": "По словам корреспондента ВВС , запасы нефти истощающиеся и уже нынешним летом могут стать ощутимым недостаток бензина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "истощаются"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

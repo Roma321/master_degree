@@ -1,0 +1,20 @@
+{
+  "text": "По данным Inside . com Harvard Business School Press уже заплатила изобретателю Дину Камену 250 тысячи долларов за книгу о издании \"чуда техники\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заплатило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "создании",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Путин , в частности , напомнил , что в течение последних пять годов идёт работа по издание национальной доктрины образования , но до сих пор в этом процессе не удалось уйти от декларативности .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "созданию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пяти"
+    },
+    {
+      "correctReplacement": "создание",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

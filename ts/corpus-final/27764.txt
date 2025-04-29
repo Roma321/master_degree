@@ -1,0 +1,30 @@
+{
+  "text": "Между тем в конце прошлого года китайские власти уже издали предписания , требующее , чтобы все фирмы , желающие продаватб Китаю программы с использованием шифрования , предоставляли властям сходный код этих программы для анализов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "предписание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "программ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "анализа"
+    },
+    {
+      "correctReplacement": "исходный",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "продавать",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Уайльд обрел новое видение мира после того , как в 1895 родившемуся за гомосексуальную связь с молодым аристократами угожу в Редингтонскую тюрьму и провёл там два года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "аристократом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "угодил"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

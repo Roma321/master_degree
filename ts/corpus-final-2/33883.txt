@@ -1,0 +1,25 @@
+{
+  "text": "Cуд мотивировал свой отказ тем , что представим документы не бавшие переведены на русский язык , сообщил журналистов адвокат Поупе Павел Астахов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "представленные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Поупа"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

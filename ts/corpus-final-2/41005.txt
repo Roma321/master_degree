@@ -1,0 +1,20 @@
+{
+  "text": "Работники аэропорта отметившие , что эвакуация была проведено несмотря на то , что в этр предпраздничные дни - 23 ноября Америка отмечает День благодарения - наплыв пассажиров особенно велик .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "отметили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "проведена"
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

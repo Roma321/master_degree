@@ -1,0 +1,20 @@
+{
+  "text": "В результате по меньшей мерой пять человек получили ранениях , одно находится в тяжелом состоянии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "мере"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "ранения"
+    }
+  ]
+}

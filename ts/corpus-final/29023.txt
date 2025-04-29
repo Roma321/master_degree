@@ -1,0 +1,25 @@
+{
+  "text": "По итогам работы заседания было приму совместное заявление участников группы содействию многосторонним переговорам , а также совместная заявление коспонсоров - сессии и США .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "содействия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "совместное"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

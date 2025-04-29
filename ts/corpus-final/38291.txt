@@ -1,0 +1,25 @@
+{
+  "text": "Гора поддержавшие 72 процентов принявших участие в выборах , тогда как его основной соперник по демократической партии , бывший сенатор Билл Брэдли набрал 27 процента Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "поддержали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

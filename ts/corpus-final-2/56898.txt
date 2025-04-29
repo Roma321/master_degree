@@ -1,0 +1,20 @@
+{
+  "text": "На местом происшествия нывшие вызваны 100 машин скорой помощи из соседних города .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "городов"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

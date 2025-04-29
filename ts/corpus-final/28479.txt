@@ -1,0 +1,20 @@
+{
+  "text": "На прошлой неделе журнал US News and World Report опубликовавший материал , в котором со ссылкой на \"доклады западных разведок\" сообщается , что Евгений Примакоф якобы получил от Ирака \"откуп\"в размере \"как минимум 800 тысячами долларов\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "опубликовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "Примаков",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

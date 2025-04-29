@@ -1,0 +1,25 @@
+{
+  "text": "Правительства проиндексировало р ставки пенсионной шкал в полтора ража .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "шкалы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Правительство"
+    },
+    {
+      "correctReplacement": "раза",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

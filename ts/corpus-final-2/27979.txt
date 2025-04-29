@@ -1,0 +1,25 @@
+{
+  "text": "Что же касающийся личности клонящего , то , по словам Волкодавов , он говорил с явным кавказский акцентом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "кавказским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Волкодава"
+    },
+    {
+      "correctReplacement": "звонившего",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

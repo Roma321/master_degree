@@ -1,0 +1,20 @@
+{
+  "text": "5 июлей через несколько минут послед стартом с космодрома \"Байконур\" над территорией Казахстана взорвалась российская ракета-носитель \"Протон\" , работающая на экологически вредном гептиловом топливе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "старта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "июля"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

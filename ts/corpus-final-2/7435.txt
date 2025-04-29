@@ -1,0 +1,20 @@
+{
+  "text": "В Митине , на северо-западе москвы , после полудня расстрешян мужчины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "расстрелян",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

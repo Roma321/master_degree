@@ -1,0 +1,25 @@
+{
+  "text": "Английский архитектор Йон Гринфилд , размотавшая над воссозданием театра \"Глобус\" в Юондоне , получил заказ на возведение точной копии лондонского театра XVI веков в Массачусетсе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "работавший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "века"
+    },
+    {
+      "correctReplacement": "работавшая",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Лондоне",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

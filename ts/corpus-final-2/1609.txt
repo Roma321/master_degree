@@ -1,0 +1,25 @@
+{
+  "text": "Первоначально истцы собирались получившие от пгоизводителей сигарет 196 миллиардов компенсации с формулировкой \"за отпуск продукции , убивающей 430000 американцев в год и за обман населений , продолжающийся с 1950 года , когда исследования доказали , что курение вызывает рак\" , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "получить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "населения"
+    },
+    {
+      "correctReplacement": "выпуск",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "производителей",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

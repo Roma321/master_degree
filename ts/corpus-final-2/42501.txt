@@ -1,0 +1,20 @@
+{
+  "text": "По данным оперативников , убитый являлся уроженцем Украины и в последняя время проживавший в Москве Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проживал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "последнее"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

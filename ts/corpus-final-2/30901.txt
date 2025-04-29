@@ -1,0 +1,25 @@
+{
+  "text": "Кроме Селезнёвым , тощько один депутат фракции КПРФ - Рифхат Шакиров - также проголосовавший за принятие бюджета во втором чтениях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "чтении"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "проголосовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Селезнева"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

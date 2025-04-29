@@ -1,0 +1,25 @@
+{
+  "text": "Владимиры Колесников дал понять , что эти обстрятельства могут иметь некое связь с решением об освобождении Быкове из-под стражи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "некую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Быкова"
+    },
+    {
+      "correctReplacement": "обстоятельства",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

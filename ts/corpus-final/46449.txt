@@ -1,0 +1,20 @@
+{
+  "text": "УФСБ предлагаешь гражданам сообщать о всех нештатными сииуациях по телефону дежурного УФСБ 925-28-19 .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "предлагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "нештатных"
+    },
+    {
+      "correctReplacement": "ситуациях",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

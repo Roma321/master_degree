@@ -1,0 +1,25 @@
+{
+  "text": "В момент сбытов алмаза массой в 6 , 19 карат на сумму 6О тысячи долларов задержан генеральный директор одной из московских ширм 54-летняя гражданин ИзраиляПалех Зеев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сбыта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "54-летний"
+    },
+    {
+      "correctReplacement": "фирм",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

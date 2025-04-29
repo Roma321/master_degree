@@ -1,0 +1,25 @@
+{
+  "text": "На меспе перестрелявшие обнаружено более 32 килограммах наркотических средств , в том числе 30 килограммов героина , а также автомат Калашникову .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "килограммов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Калашникова"
+    },
+    {
+      "correctReplacement": "перестрелки",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "месте",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

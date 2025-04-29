@@ -1,0 +1,35 @@
+{
+  "text": "В последнее время китайские СМИ усиленно внушают народу , что Фалуньгун является вредными , почти демоническим культом , а его лидеров обминяют в буйстве сотнях последователей , которые якобы перестали принимать лекарствами из-за своих \"религиозных заблуждений\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "убийствах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "сотен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "лекарства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "вредным"
+    },
+    {
+      "correctReplacement": "убийстве",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "обвиняют",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

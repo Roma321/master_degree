@@ -1,0 +1,20 @@
+{
+  "text": "По данным CNN , ФБР готовишь для десяти тысяч правоохранительных организации документ , содержащая предупреждение о возможном росте насилия в связи с наступлением нового тысячелетия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "содержащий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "готовит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "организаций"
+    }
+  ]
+}

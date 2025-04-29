@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратура Мюнхена возбудила уголовное дело против немецкой книжной фирмы Bucher , продающей через Интернет книгу Адольфов Гитлеру \"Моя борьба\" (\"Mein Kampf\") , сообщает газета \"Сегодгя\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Адольфа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Гитлера"
+    },
+    {
+      "correctReplacement": "\"Сегодня\"",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

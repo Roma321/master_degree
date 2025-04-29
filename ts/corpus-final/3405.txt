@@ -1,0 +1,25 @@
+{
+  "text": "Тяжелораненный был оперативно доставлено в военном госпиталь на территории Косово , где его былч оказана медицинская помощь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "военный"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

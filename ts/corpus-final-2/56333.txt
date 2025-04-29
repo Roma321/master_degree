@@ -1,0 +1,20 @@
+{
+  "text": "В четверг , 28 декабря , тогда было объявлено о награждениях , Спилберг находился на отдыхе и журналистам не удалось с ним связаться , но его пресс-секретарь в компании DreamWorks SKG Мартины Леви заявил , что это большая честь для режиссера .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "Мартин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "награждении"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

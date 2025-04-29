@@ -1,0 +1,20 @@
+{
+  "text": "Между тем , один из лечащих врача заявивший , чтг для лечения понадобится не меньше месяца .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "врачей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

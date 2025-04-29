@@ -1,0 +1,30 @@
+{
+  "text": "В частности , речью идёт о подлоге документов и контрабанде в 1996 году 3 миллиарда кубометров российского природного газа на сумму 445 гиллиан гривны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "речь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "гривен"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

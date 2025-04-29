@@ -1,0 +1,30 @@
+{
+  "text": "Многие главы регионов поддерживают идею созданий конструктивнойоппозиции власти , заявило на пресс-конференции в Москва предпринимателя Борис Березовский , передает РИЗ \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "предприниматель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "создания"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

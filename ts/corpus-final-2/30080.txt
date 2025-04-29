@@ -1,0 +1,25 @@
+{
+  "text": "Вскоре после аукциона стало известно имя покупателя , выложенного за рок-реликвию одна миллион 450 тысяч финтшв стерлингов : это знаменитый певец Джордж Майкл .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выложившего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "фунтов",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "финтов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

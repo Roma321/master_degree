@@ -1,0 +1,15 @@
+{
+  "text": "Весам , на которых проверялся веса спортсменов во время тренировок , были неисправны , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Весы"
+    }
+  ]
+}

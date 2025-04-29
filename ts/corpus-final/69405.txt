@@ -1,0 +1,20 @@
+{
+  "text": "В Сочи в результате взрыва газовых балкона погибнем два человека .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "газового"
+    },
+    {
+      "correctReplacement": "баллона",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

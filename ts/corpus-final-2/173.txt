@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаются , с начал 2000 года уголовный дела возбуждены также в отношении девяти дочерних предприятий ОАО \"Лукосл\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "уголовные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "начала"
+    },
+    {
+      "correctReplacement": "\"Лукойл\"",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

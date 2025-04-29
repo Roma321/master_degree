@@ -1,0 +1,25 @@
+{
+  "text": "Чтобы избежать конкурса , руководство телеканала направлю в арбитражный суды исковое заявление , в котором оспаривает предупреждение , вынечшее Минпечати .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "вынесенное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "направило"
+    },
+    {
+      "correctReplacement": "вынесшее",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

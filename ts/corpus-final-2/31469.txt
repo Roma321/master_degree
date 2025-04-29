@@ -1,0 +1,30 @@
+{
+  "text": "По данным НТВ , около семи часов утро подготовительных работы были закончены и под воды начали спускать чамо обоснование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "утра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "воду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "подготовительные"
+    },
+    {
+      "correctReplacement": "оборудование",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "само",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

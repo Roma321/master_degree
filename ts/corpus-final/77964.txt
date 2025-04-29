@@ -1,0 +1,20 @@
+{
+  "text": "Осуждённых сбывшие приговорены к различным срокам тюремного заключения , бичеванию и штлафам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Осужденные"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "штрафам",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

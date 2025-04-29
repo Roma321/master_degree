@@ -1,0 +1,25 @@
+{
+  "text": "По словам Козлова , взрывчатки была обслуженное после того , как спецслужбы получили сообщение о подготовке покушения на жизнь российское министра .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "обнаружена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "взрывчатка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "российского"
+    },
+    {
+      "correctReplacement": "обнаружено",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

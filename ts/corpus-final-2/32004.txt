@@ -1,0 +1,20 @@
+{
+  "text": "По данным правоохранительных органов , трое преступников остановим ВАЗ-2106 главы администрации района на окраину Курчалоя .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "остановили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "окраине"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "\"Индийские власть через наше посольство попросили о помощи , и мы согласились данные разрешение на посадку самоцвету и на его заправку\" , - заявил он .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "дать"
+    },
+    {
+      "correctReplacement": "самолету",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

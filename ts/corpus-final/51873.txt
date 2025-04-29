@@ -1,0 +1,30 @@
+{
+  "text": "На участку понраничной заставы \"Покровка\" 16-летнему житель соседней с заставой села Алексей Раков выстрелом из автомата АКА-74 по неосторожности убил младшего пограничного наряда рядового Александров Челятдинова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "16-летний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "участке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "соседнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Александра"
+    },
+    {
+      "correctReplacement": "пограничной",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

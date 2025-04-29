@@ -1,0 +1,30 @@
+{
+  "text": "Российское расследование уже открытое значительная числе транзакций , которые шли через BONY на счет компании Benex - тот самый , через который , по словам ФБР , прошедшее почти 5 миллиарда долларов из семи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "прошло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "открыло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "значительное"
+    }
+  ]
+}

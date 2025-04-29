@@ -1,0 +1,20 @@
+{
+  "text": "В среду в Московского городском суде была рассмотрю кассационные жалоба по делу \"Голубого сала\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Московском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "рассмотрена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "кассационная"
+    }
+  ]
+}

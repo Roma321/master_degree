@@ -1,0 +1,20 @@
+{
+  "text": "Каждую лиск DVD содержит ключ , который дешифруюсь другим ключом , содержащимся в плейере .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Каждый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "дешифруется"
+    },
+    {
+      "correctReplacement": "диск",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

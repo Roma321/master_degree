@@ -1,0 +1,25 @@
+{
+  "text": "В минyвший четверг в Москве на улице Нижние Мневники в результате дорожной аварией погибли двумя представителя постоянства КНДР в России , - передаёт \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "аварии"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "посольства",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

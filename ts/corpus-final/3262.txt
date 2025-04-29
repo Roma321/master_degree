@@ -1,0 +1,25 @@
+{
+  "text": "И этот перечень входят : скот и птица в живом весах , мясо и мясопродукты , молоко , яйца , масло растительным , маргарин , сахар , соль , зерно , хлеб и хлебобулочные изделия , крупе , мука , макаронные изделия , рыба живая , море- и рыбопродукты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "растительное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "крупа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "весе"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

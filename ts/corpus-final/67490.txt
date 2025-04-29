@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что в середине мая 2000 года арбитражный сад Стокгольмом принял решение об арестах счетов ряда организаций , имеющих отношение к россияскому государству , на общую сумму около 60 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Стокгольма"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "аресте"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "российскому",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

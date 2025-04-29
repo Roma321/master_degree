@@ -1,0 +1,20 @@
+{
+  "text": "Трое миллионеров погибли в субботу вечером в Шелковском районе Чечню , сообщаешь ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Чечни"
+    },
+    {
+      "correctReplacement": "милиционеров",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

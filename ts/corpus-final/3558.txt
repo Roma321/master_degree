@@ -1,0 +1,20 @@
+{
+  "text": "Кроме участию в самой церемонии Путину предстоящие встречи и переговорившие с Биллом Клинтоном , Эхудом Бараком и Ясиром Арафатом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "участия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "предстоят"
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

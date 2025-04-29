@@ -1,0 +1,25 @@
+{
+  "text": "В этом году , 18 марта , произошёл еще одно пожар в психоневрологическом интернате - в города Устюжна Вологодской огласившие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "городе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

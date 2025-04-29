@@ -1,0 +1,20 @@
+{
+  "text": "После отставкипрезидента его обязанности брал на себя прихлебатель парламентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "парламента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "берет"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

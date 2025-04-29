@@ -1,0 +1,25 @@
+{
+  "text": "По словам Хамзы , настоящим справочником по изготовлению атомных бомб стал для иракских кручёных отчет об американского программах \"Мanhattan Project\" , которая в свое время привела к созданию атомных бомб , уничтоживших Хиросиму и Нагасаки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "программе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "ученых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "американской"
+    },
+    {
+      "correctReplacement": "учёных",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

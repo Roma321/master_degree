@@ -1,0 +1,30 @@
+{
+  "text": "Рогозины выразили надежду , что по итогам своего визита в Россию представители Совета авроры смогшие убедить европейских парламентариев пересмотреть своё решение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "выразил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Рогозин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "смогут"
+    },
+    {
+      "correctReplacement": "Европы",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

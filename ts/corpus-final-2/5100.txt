@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в реанимационном отделении первого клинической больницей имени Пирогова скончался председателя Конфедерации народов Кавказе Юсуп Сосламбеков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "больницы"
+    },
+    {
+      "correctReplacement": "Кавказа",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

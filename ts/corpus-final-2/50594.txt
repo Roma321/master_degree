@@ -1,0 +1,40 @@
+{
+  "text": "После этой аварии Франция , а затем и Великобритания ввела запрет на использование этих сверхвуковых самолетов , хотя самолетостроители уверяем , что пружиной катастрофы стану некая постороний предметы на взлетной полосе , пробью топливная бак лайнера .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "некий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "уверяли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "пробивший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 33,
+      "correctReplacement": "топливный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "предмет"
+    },
+    {
+      "correctReplacement": "причиной",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

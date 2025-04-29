@@ -1,0 +1,20 @@
+{
+  "text": "В суде Майами (США) продолжается дело по иску полумиллиона курильщиков штатов Флорида к ведущим американским табачным компаниям в размер 300 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "размере"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "штата"
+    },
+    {
+      "correctReplacement": "штатов",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

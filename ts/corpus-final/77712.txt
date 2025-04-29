@@ -1,0 +1,40 @@
+{
+  "text": "Этим решением американские властп самым грубой образом нарушаете международное право , поскольку борт самолета являлся территорией стране , к которой он принадлежал , говорится в поступившем в РИА \"Новости\" заявлении парламентария .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "нарушают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "грубым"
+    },
+    {
+      "correctReplacement": "международное",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Миланцы не только проиграли стартовый матч национального главенства , но и не смогли пробиться в групповых турнир Лиги Чемпионов , уступив на предварительной раунде скромному шведской \"Хельсиборгу\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "групповой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "шведскому"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "предварительном"
+    },
+    {
+      "correctReplacement": "первенства",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он регулярно получаемый боснийские газеты и слежу за тем , как освещающийся его дело в отечественных СМИ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "освещается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "следит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "получает"
+    },
+    {
+      "correctReplacement": "российские",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам спикера , городской сут более 40 дней рассматриваю его иске , но \"из-за совершенно очевидного давления на него вынес назидательное решение\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "рассматривал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "иск"
+    },
+    {
+      "correctReplacement": "отрицательное",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

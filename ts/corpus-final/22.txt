@@ -1,0 +1,25 @@
+{
+  "text": "Комиссия состоит из представительниц правитрльства и обе палат парламент .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "обеих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "парламента"
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

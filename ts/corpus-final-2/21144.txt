@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , как сообщаж Госкомстат , с начала сентября инфляция в России достигшая оже 0 , 6 процентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "сообщал",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

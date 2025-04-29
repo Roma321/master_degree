@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям РИА \"Новости\" , подозрительную бутыль нашло женщина , оказавшаяся в эту момент у центрального входа на рынок Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "нашла"
+    },
+    {
+      "correctReplacement": "бутылку",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

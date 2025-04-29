@@ -1,0 +1,25 @@
+{
+  "text": "Пенсионеры вышли на улицы городов с лозунгами : \"Коммунизм - неистребимое учения Христа\" , \"Деклассированный баран офисный любого хищника ! \" , а также \"Родина зовет ! \" , сообщал собственный корреспондент Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "учение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "опаснее",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

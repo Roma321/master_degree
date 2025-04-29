@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщаемый агентство ПРАЙМ-ТАСС , арестовано имущество АМО \"ЗИЛ\" (на суму 948 , 7 миллиона рублям - недвижимость и автомобили) и АООТ \"Черемушкинский керамический завод\" (на сумма 14 , 8 миллиона рублей - право аренд нежилой помещения) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "аренды"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "нежилого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "сумму"
+    },
+    {
+      "correctReplacement": "сумму",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

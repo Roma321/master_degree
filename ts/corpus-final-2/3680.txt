@@ -1,0 +1,30 @@
+{
+  "text": "Экс-премьер сказанный , что ожидал худшего , посколька военные диктатор генерал Мушарраф робивший его уничтожившие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "уничтожить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "военный"
+    },
+    {
+      "correctReplacement": "решил",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

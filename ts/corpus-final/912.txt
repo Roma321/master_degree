@@ -1,0 +1,30 @@
+{
+  "text": "Эта дата считаюсь более важным , поскольку установка связей между компьютетами невозможная без предварительного подключения их к коммутатору .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "важной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "считается"
+    },
+    {
+      "correctReplacement": "невозможна",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "компьютерами",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Он напомнил , что с начала года NASDAQ упал почти на 40 процентоф , и в настоящее время его значение вдвое ниже годового максимумов , зафиксировавшего в марте .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "зафиксированного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "максимума"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

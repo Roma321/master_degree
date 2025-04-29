@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , он заявлю , что Белый дом расценивает письма с Vote . com как спам , и меры , принимаемые против ним , аналогичны мерам противно любую непрошеной почт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "почты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "любой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "них"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

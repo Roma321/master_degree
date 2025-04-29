@@ -1,0 +1,20 @@
+{
+  "text": "Однако сумы вынес положительное решение лишь по одному иску , поданному жителем Сочи по фамилий Широбоков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "фамилии"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

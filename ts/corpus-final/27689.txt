@@ -1,0 +1,25 @@
+{
+  "text": "Генпрокуратуры России получит официальные разъяснения прокуратуры Швейцарии по поводу обвинений в адрес бывшего управляющего делами президентов россини , госсекретаря Союза России и Белоруссии Павла Бородина 28 январей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Генпрокуратура"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

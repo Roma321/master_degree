@@ -1,0 +1,25 @@
+{
+  "text": "Тогда модель робота P2 уже могла ходить по лестнице , двигающиеся боком и назад , сохраняла равновесие при заслоне р небольшие толчках .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "двигаться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "небольших"
+    },
+    {
+      "correctReplacement": "наклоне",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

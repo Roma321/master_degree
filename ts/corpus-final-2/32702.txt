@@ -1,0 +1,25 @@
+{
+  "text": "Генеральной прокуратура канадской провинции Онтарио постараешься не допустить , чтобы скандальный американский рэппер , известный как Eminem , провел в четверг свои запланированный концерт в торнтон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "постарается"
+    },
+    {
+      "correctReplacement": "Торонто",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

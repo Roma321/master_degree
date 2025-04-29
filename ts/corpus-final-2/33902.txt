@@ -1,0 +1,25 @@
+{
+  "text": "Ежегодно агентство фабриковавший ряды исследований , в числе которых рейтинг крупнейших российских компаний \"Экспеьт 200\" , рейтинг регионов и др .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ряд"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "публикует"
+    },
+    {
+      "correctReplacement": "публиковал",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "\"Эксперт",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

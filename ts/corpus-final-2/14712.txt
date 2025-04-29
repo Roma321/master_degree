@@ -1,0 +1,20 @@
+{
+  "text": "Федеральная служба залоговая полицией России (ФСНП) возбудила пять уголовных дел в отношении компаний Топливно-энергетического комплекса (ТЭК) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "correctReplacement": "налоговая",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

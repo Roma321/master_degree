@@ -1,0 +1,25 @@
+{
+  "text": "В ночь с понедельника на вторник тн ведший переговорщики на эту темы по телефону с президентом США Биллом Клинтоном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тему"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "вел"
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Во вторник освободим 12 человее из число задержанных по подозрению в причастности к покушению на президента Нагорно-Карабахской Республики Аркадия Гукасяна , передающий Федеральный турагентством новостей со ссылкой на заявление прокуратуры НКР .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "числа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "освобождены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "Федеральное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "агентством",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

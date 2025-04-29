@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РИА \"Новости\" , в понедельник гениальный прокурор лорд Уильямс сообщил , что этого ге произойдут .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "произойдет"
+    },
+    {
+      "correctReplacement": "генеральный",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

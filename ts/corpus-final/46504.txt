@@ -1,0 +1,30 @@
+{
+  "text": "Храм возведен на место , где , по преданию , Архангел Гавриил повидавший Деве Марии о том , что у неё родился Сыновья Божий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Сын"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "родится"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "нее"
+    },
+    {
+      "correctReplacement": "поведал",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

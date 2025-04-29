@@ -1,0 +1,25 @@
+{
+  "text": "Компания America Online три месяца назад заблокировала доступ к своей сети для нескольких крупного провайдеров из бывшего Советского Союза , из-за чего клиенты этих провайдкров не могшие использовавшие ICQ and AOL Instant Messenger .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "крупных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "могли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "использовать"
+    },
+    {
+      "correctReplacement": "провайдеров",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

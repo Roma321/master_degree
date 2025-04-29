@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время Лео находится в Италия , где снимаются в фильме \"Бандм Нью-Йорка\" Мартин Скорсезе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "снимается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Мартина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Италии"
+    },
+    {
+      "correctReplacement": "\"Банды",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

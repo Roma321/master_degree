@@ -1,0 +1,20 @@
+{
+  "text": "Закон о выборах президента , по некоторому назначившие выборы , вступило в силу сегодня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "назначены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "вступил"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

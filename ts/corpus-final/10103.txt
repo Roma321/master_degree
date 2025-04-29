@@ -1,0 +1,20 @@
+{
+  "text": "В нынешнем годом ВГТРК уже не рас подвергались таким проверкам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "подвергалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "раз",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

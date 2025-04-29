@@ -1,0 +1,30 @@
+{
+  "text": "Де Гузман , а также еще один студент колледжа AMA , тоже написавшие хакерской программу в качестве курсовая и подозреваемый в создании \"вируса любви\" , являются членами нелегальной группы программ GRAMMERSoft , которая занималась тем , что писала курсовые для других студентоф за деньги .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "написавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "курсовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "хакерскую"
+    },
+    {
+      "correctReplacement": "программистов",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "студентов",
+      "type": "typo",
+      "wordNumber": 41
+    }
+  ]
+}

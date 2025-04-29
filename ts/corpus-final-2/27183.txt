@@ -1,0 +1,25 @@
+{
+  "text": "Глава Палестинского Автономии утверждала также , что израильская армия использовал против безоружных палестинцев банки , артиллерию , противотанковые ракеты и вертолеты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Палестинской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "утверждал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "использует"
+    },
+    {
+      "correctReplacement": "танки",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

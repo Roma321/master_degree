@@ -1,0 +1,25 @@
+{
+  "text": "В своей очередь глава Минпопэнерго Виктор Калюжный во вторник на парламентских служениях в Госдуме высказался за создания государственной нефтяной компании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "создание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "слушаниях",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Минтопэнерго",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "А затем наступил пятому сет , в котором Марат выиграю зва решающих очка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "выиграл"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пятый"
+    },
+    {
+      "correctReplacement": "два",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

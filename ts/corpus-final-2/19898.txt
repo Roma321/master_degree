@@ -1,0 +1,20 @@
+{
+  "text": "Выедем на места сотрудники управлений ФСБ и УВД изъяли гранацу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выехавшие"
+    },
+    {
+      "correctReplacement": "гранату",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

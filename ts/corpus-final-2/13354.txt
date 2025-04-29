@@ -1,0 +1,25 @@
+{
+  "text": "В рамоне катастрофы разрушившее 56 шкбл , 56 мостов , электростанция , прерву транспортное сообщение , электроснабжение .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "разрушено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "прервано"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "школ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

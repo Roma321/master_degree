@@ -1,0 +1,25 @@
+{
+  "text": "\"Если бы компьютерные компании создали дешевый лаптопу для учеников , дети могли бы носить этот небольшая компьютеры и ееколько дисков , где содержались бы все их учебники\" , - считает Хон Чун Ким .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "компьютер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "лаптоп"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "небольшой"
+    },
+    {
+      "correctReplacement": "неколько",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

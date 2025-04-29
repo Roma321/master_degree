@@ -1,0 +1,20 @@
+{
+  "text": "Распоряжение об этом подписанный первые вице-премьер правительство Москвы Борис Никольский , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "первый"
+    }
+  ]
+}

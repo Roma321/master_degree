@@ -1,0 +1,15 @@
+{
+  "text": "По данным Центра экстренному медицинской помощи , к дежурившим на празднике врачам облачились примерно 600 человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "экстренной"
+    },
+    {
+      "correctReplacement": "обратились",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

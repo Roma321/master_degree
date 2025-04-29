@@ -1,0 +1,25 @@
+{
+  "text": "Индекс акций американских высокотехнологичных компании на торгах биржи NASDAQ в понедельник поднимусь на 97 , 67 пунктоф (3 , 35%) и остригший отметки в 3015 , 1 пунктов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "поднялся"
+    },
+    {
+      "correctReplacement": "достиг",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "пунктов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

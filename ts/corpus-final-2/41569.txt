@@ -1,0 +1,30 @@
+{
+  "text": "Резкое обострение обстановки на палестинских территориях Газы и Западного берега реки Иордан произошло после взрыва автобуча в понедельник у поселений Кфар-Даром и последуем за ним ракетными ударов израильских вертолетов по палестинским объекту .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "последовавших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "объектам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "поселения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "ракетных"
+    },
+    {
+      "correctReplacement": "автобуса",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

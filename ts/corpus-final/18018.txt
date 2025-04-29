@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что 18 декабрь глава Пенсионной фонда Михаил Зурабов сообщил , что форд полностью выплатил декабрьские пенсии и пятидесятирублевые компенсации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Пенсионного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "декабря"
+    },
+    {
+      "correctReplacement": "фонд",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

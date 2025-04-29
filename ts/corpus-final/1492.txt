@@ -1,0 +1,25 @@
+{
+  "text": "Однако на собственннм серверах Ирины ход , проигнорирую организаторами матча , был опубликована вовремя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "опубликован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сервере"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проигнорированный"
+    },
+    {
+      "correctReplacement": "собственном",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

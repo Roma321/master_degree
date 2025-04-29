@@ -1,0 +1,30 @@
+{
+  "text": "Механизм поквартального определения пошлин на экспорте нефтей в зависимости от мировых цен выработан правительством в середину марта и запустивший и апреле .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "запущен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "середине"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "экспорт"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

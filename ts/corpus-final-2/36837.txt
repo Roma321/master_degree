@@ -1,0 +1,40 @@
+{
+  "text": "Вместе с Лучинским поспешившпе также министр иностранных дел Великобритании , пресс-секретарь президента Германии , официальные представители правительства Китая , Турцию , Нидерланды , Франция , Индонезии и представительский Евросоюза .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "правительств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Турции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Нидерландов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поспешили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Франции"
+    },
+    {
+      "correctReplacement": "представитель",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "поспешившие",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

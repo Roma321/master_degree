@@ -1,0 +1,20 @@
+{
+  "text": "В турнире принящ участие более 800 бойцов из Англии , Франции , Швеции , Италией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Италии"
+    },
+    {
+      "correctReplacement": "принял",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

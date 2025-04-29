@@ -1,0 +1,20 @@
+{
+  "text": "Спорный товарный знака был зарегистрирована \"Информикой\" для рекламы своих услуг в области интерес и хостинга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "зарегистрирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "знак"
+    },
+    {
+      "correctReplacement": "интернет-дизайна",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

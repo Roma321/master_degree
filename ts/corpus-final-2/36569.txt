@@ -1,0 +1,25 @@
+{
+  "text": "Между тем сама Фэллон чувствует себя хорошо , а не мать выражал чувство искренней радости по поводу того , что эту печальная история обрела счастливая конец .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "счастливый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выражает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "эта"
+    },
+    {
+      "correctReplacement": "ее",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

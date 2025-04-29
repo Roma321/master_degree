@@ -1,0 +1,20 @@
+{
+  "text": "Заложники были переданы предоставящимся Красной Креста и теперь проходят медицинскому обследование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "медицинское"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Красного"
+    },
+    {
+      "correctReplacement": "представителям",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям галеты , с 1 января по 28 октября нынешнего года Израиль принятый 40 тысячи 358 иммигрантоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "принял"
+    },
+    {
+      "correctReplacement": "газеты",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "иммигрантов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

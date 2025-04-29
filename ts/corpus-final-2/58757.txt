@@ -1,0 +1,40 @@
+{
+  "text": "Коллекция Шлимана , обнаруженная в 70-х годах XIX века и полвека тайно ставившееся в запаснике Пушкинского музея в Москве , состоял более чем из 200 бесценных произведений искусстве , включая декоративные бюсты , вазы , кубки , хрустальные увеличительные стекла и золотую корону , которую , как утверждал Шлиман , когда-то носившая царицу Трои Елена .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 52,
+      "correctReplacement": "царица"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "состоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "запасниках"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "хранившаяся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "искусства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 51,
+      "correctReplacement": "носила"
+    },
+    {
+      "correctReplacement": "хранившееся",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В церемонии принимавшие участие его родные , сотрудники центрального аппарата министерства , правоохранительного органы столицы , слушатели высших учебных заведений МВД РЧ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "органов"
+    },
+    {
+      "correctReplacement": "РФ",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

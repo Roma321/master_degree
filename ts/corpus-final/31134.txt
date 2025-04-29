@@ -1,0 +1,25 @@
+{
+  "text": "31 января и . о . президента подписанный указы об освобождении Швыдком от должности главы ВГТРК \"в связи с переходом на другую работу\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Швыдкого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "указ"
+    },
+    {
+      "correctReplacement": "другую",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

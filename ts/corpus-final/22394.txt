@@ -1,0 +1,15 @@
+{
+  "text": "После задержания он почувствовал себя плохо и был госпитализирована в звязи с сердечным приступом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

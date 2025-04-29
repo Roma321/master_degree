@@ -1,0 +1,25 @@
+{
+  "text": "Иллюзионьст из Нью-йорке , известный тем , что провел неделю под землёй в пластиковых гробу , придумал новый фокус .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "землей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пластиковом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Нью-Йорка"
+    },
+    {
+      "correctReplacement": "Иллюзионист",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "У налетчиков были изъявшие баллончиками с краской , оружия обнажённое не было , соообщил журналистам начальник пресс-службы УВД Нижнего Новгорода Алексея Шестериков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "изъяты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "баллончики"
+    },
+    {
+      "correctReplacement": "обнаружено",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

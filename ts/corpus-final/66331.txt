@@ -1,0 +1,25 @@
+{
+  "text": "При попытке открыть этот документ вредоносное программа запускается , отправляет копии саму себя электронным письмом на все адреса из пресной книги владельца компьютера , а также уничтожал ряд важных файлов и директорий по списку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "уничтожает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вредоносная"
+    },
+    {
+      "correctReplacement": "адресной",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

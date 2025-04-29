@@ -1,0 +1,25 @@
+{
+  "text": "По окончании брифинга , беседуя с журналистами , Манилов добавил , чтомосковское теракт - попытка боевиками высушившие российскоеруководство пойти на переговорам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "чтомосковский"
+    },
+    {
+      "correctReplacement": "вынудить",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

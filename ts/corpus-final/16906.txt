@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в рамки встречи было подписано двусторонний соглашение между министерствам внутренних дел России и Финляндией о сотрудничестве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "рамках"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "двустороннее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "министерствами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Финляндии"
+    }
+  ]
+}

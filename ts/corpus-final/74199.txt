@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , в нынешнему году предполагается начать строительство линий мини-метро от \"Киевской\" до \"Мозгва-сити\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "нынешнем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "линии"
+    },
+    {
+      "correctReplacement": "\"Москва-сити\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

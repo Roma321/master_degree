@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествию работают негативный группа УВД Юго-Восточного округа и ОВД \"Марьинский Парк\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "оперативно-следственная",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "демагогах , рассказывая об опыте внедрения Интернета в увебных заведениях , отмечаемые , что после нововведений дети из бедных семей даже ставшие меньше прогуливать урок .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Педагоги"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "стали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "уроки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "отмечали"
+    },
+    {
+      "correctReplacement": "Педагогах",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "учебных",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

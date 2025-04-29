@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы разбираатесь с этим делом , - сцапавший РИА \"Новости\" советник по вопросам информации и прессы Владимиры Андреев .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "разбираемся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "сказал",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "разбираетесь",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

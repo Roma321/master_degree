@@ -1,0 +1,25 @@
+{
+  "text": "Напомню , что иодписание Союзного Договора между Россией и Белоруссией планировалось на 26 ноября , облако было отложена из-за болезни президента Бориса Ельцина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "отложено"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "подписание",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

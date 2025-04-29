@@ -1,0 +1,30 @@
+{
+  "text": "Местные наблюдателям полагаемые , что еврейские демонстранты такой образом выражают свой протест протиф захвата накануне трех израильских солдат боевиками движения \"Хезболла\" на граниной с Ливаном и разгрома палестинцами гробницы Иосифа в Наблусе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "наблюдатели"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "таким"
+    },
+    {
+      "correctReplacement": "границе",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

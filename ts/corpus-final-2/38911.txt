@@ -1,0 +1,30 @@
+{
+  "text": "На крики школьниц из своего корпусе прибежим ученики этих же школы , возбудившись по дороге стульями и другой подручным оружием .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "другим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "прибежали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "корпуса"
+    },
+    {
+      "correctReplacement": "вооружившись",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщалось , Федеральная резервная система намекало на такую возможности накануне , однако на заседание во вторник отказалась снующие ставку с 6 , 5 до 6 процентов , мотивируя своё решение опасениями перед инфляцией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "намекала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "возможность"
+    },
+    {
+      "correctReplacement": "снижать",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

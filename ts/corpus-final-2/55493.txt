@@ -1,0 +1,35 @@
+{
+  "text": "Па следующий день после того , как 42-летней Майклу Макдермоте , выполнявшим в компании обязанности тестера программного обеспечений , сообщили о том , что ему надо указать свою заработную плату и уплатить налоги , тот пришел на работу с ружьё и застрелил семерых сослуживцах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "обеспечения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "выполнявшему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "ружьем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "42-летнему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "МакДермоту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "сослуживцев"
+    }
+  ]
+}

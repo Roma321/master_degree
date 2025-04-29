@@ -1,0 +1,25 @@
+{
+  "text": "Командованием либеральных сил на Северном Кавказе усиливает группировку войск на юге Чечни , сообщал \"Интерфакс\" со ссылкой на информированные источники в Москву .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Командование"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "федеральных",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

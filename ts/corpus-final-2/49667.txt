@@ -1,0 +1,30 @@
+{
+  "text": "Вице-президент Российского певческой конгресса Александра Осовцов сообщил , что представители этой организации такде побывали в испанском посольстве и встретимся с послом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "встретились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "еврейского"
+    },
+    {
+      "correctReplacement": "еврейской",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На различными базе и судоремонтных предприятиях на побережье бельского полуострову и в Северодвинске находятся в отстое около 110 выведенных из эксплуатации АПЛ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полуострова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "базах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "различных"
+    },
+    {
+      "correctReplacement": "Кольского",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

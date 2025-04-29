@@ -1,0 +1,20 @@
+{
+  "text": "Четвёртому удались добраться до израильского КПП на окраине Рамаллы , и он госпитализирован в крайне тяжёлом состоянии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Четвертому"
+    },
+    {
+      "correctReplacement": "тяжелом",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

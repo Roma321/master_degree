@@ -1,0 +1,30 @@
+{
+  "text": "Заявление Михаила Касьяновым о той , что укрепление рубля не отвечает интересам российского экономики , вызвало резкий рост курса доллара АША на дневных торгах в среды , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Касьянова"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

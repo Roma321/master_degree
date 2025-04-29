@@ -1,0 +1,15 @@
+{
+  "text": "Текст следственного поручения судьи Дево опубликовал во второик газета \"Сегодня\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "опубликовала"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Представитель компании Singapore Airlines сообщил , что на месте крушения обнаружившее шасси , не принадлежащее шотерпевшему прошение авиалайнеру .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "correctReplacement": "крушение",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "потерпевшему",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

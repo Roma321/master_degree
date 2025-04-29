@@ -1,0 +1,20 @@
+{
+  "text": "Кандидат в президенты России Григорий Явлинский обнародованный в понедельник свой преэидентскую программу , которую озаглавил \"Стратегияпрорыва\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обнародовал"
+    },
+    {
+      "correctReplacement": "президентскую",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

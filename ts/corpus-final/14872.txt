@@ -1,0 +1,25 @@
+{
+  "text": "Заседание должна было состояться еще в начале ноября , но былоотложено : вскоре после его начала было объявлено осрочного эвакуации из здвния суда из-за угрозе взрыва здания .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "осрочной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "должно"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "угрозы"
+    },
+    {
+      "correctReplacement": "здания",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

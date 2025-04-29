@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю в пятницей ZDNet со ссылкой на итальянские газеты , суд оправдал бизнесмена , которому копировал программу для обработки текстов и графики , а также бухгалтерские программы , для использования в свою компании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "программы"
+    }
+  ]
+}

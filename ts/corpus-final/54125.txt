@@ -1,0 +1,15 @@
+{
+  "text": "Как утверждает журнал Forbes , его состояние оценивается в пятр миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "correctReplacement": "пять",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

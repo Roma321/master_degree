@@ -1,0 +1,40 @@
+{
+  "text": "Несмотря на решение не разглашаемые детали орденской встречи трех министров нефтедобывающего стран до общих заседания стран ОПЕК 27 марта в Вене , журналистам стало известно , что эти государства можем рекомендовать увеличить с апреля ежесуточную квоту на добычи нефтью на 1 , 2 миллиона баррелей в день .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "разглашать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нефтедобывающих"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "добычу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "нефти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "общего"
+    },
+    {
+      "correctReplacement": "лондонской",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

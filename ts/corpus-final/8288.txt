@@ -1,0 +1,15 @@
+{
+  "text": "По его словам , \"Россия занимает первую место в вире по количеству \"готических замков\" на душу населения\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "первое"
+    },
+    {
+      "correctReplacement": "мире",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

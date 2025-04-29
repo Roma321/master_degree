@@ -1,0 +1,25 @@
+{
+  "text": "После победы на Уимблдонских турнире существенный скачок в рейтинге сделал Пит Сампрасс : с десятого места он переместился сразу на третий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Сампрас"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Уимблдонском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "третье"
+    },
+    {
+      "correctReplacement": "Сампрасы",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

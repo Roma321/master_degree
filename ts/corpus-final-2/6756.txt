@@ -1,0 +1,20 @@
+{
+  "text": "Президент высказали надежду , что его страну не оставят в беде США и другие ведущие государздва миров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "мира"
+    },
+    {
+      "correctReplacement": "государства",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Синоптик предупреждают , что ливней будут продолжаться всё среду и уровень воды в реках будет повышаться и дальше .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "всю"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ливни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Синоптики"
+    }
+  ]
+}

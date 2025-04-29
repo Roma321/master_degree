@@ -1,0 +1,20 @@
+{
+  "text": "пуд отклонил его ходатайство о признании незаконной ограничения следователем сроки ознакомления с материалами уголовного дела .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сроков"
+    },
+    {
+      "correctReplacement": "Суд",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Пострадали два верхнах этапа пятиэтажной здания .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "пятиэтажного"
+    },
+    {
+      "correctReplacement": "этажа",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "верхних",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

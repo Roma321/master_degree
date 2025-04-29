@@ -1,0 +1,20 @@
+{
+  "text": "Все арестованные - уроженцев и жители села Автуры , их возврат не превышал 25 лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "уроженцы"
+    },
+    {
+      "correctReplacement": "возраст",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

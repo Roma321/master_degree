@@ -1,0 +1,35 @@
+{
+  "text": "Командование хочет выяснить , как получилось , что солжаты британскую армия отпавшие в район , где хозяйничали боевики из небольших , но хорошо вооруженной мятежной группировки \"Вест-сайд бойз\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "хозяйничают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "небольшой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "британской"
+    },
+    {
+      "correctReplacement": "попали",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "солдаты",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

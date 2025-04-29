@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , талибы обещаем создать лагерь для обучения чеченских , узбекских и таджикских террористов , и также наемников из ряда арабских государств .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обещали"
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

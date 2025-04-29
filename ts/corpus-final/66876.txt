@@ -1,0 +1,45 @@
+{
+  "text": "В ход расследования , проведенного сотрудниками Уголовного розыска , установлено , что подросрках 25 маем проник на территорию части , выломали решетку окна склада , похитил оттуда боеприпасы , которые затем подрываем в соседнем лес .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "лесу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "проникли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "подрывали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "мая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "похитили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ходе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "подростки"
+    },
+    {
+      "correctReplacement": "подростках",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

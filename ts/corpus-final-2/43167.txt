@@ -1,0 +1,20 @@
+{
+  "text": "Самой крупным по количеству жердф стали пожар в Якутске .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Самым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "жертв",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

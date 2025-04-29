@@ -1,0 +1,30 @@
+{
+  "text": "Еще 200 миллиардов , которые потрачены на лечение болезни , вызванных куренпями , требуешь подметившие государство .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "болезней"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "требует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "курением"
+    },
+    {
+      "correctReplacement": "возместить",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "курениями",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , как сообщается в пресс-релизе компании , это первого случай , когдаподводная лодки смогло вишедшие на связь , не выдавая своей позиции всплыванием на поверхность или подъемом антенны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "смогла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "лодка"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выйти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "первый"
+    },
+    {
+      "correctReplacement": "вышедшие",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

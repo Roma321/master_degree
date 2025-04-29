@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , губернаторам не поставим свои подписи под обращением инициаторов создания движения против авторитаризме в России тонька потому , что на них \"оказывалось мощнейшее давлениа\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "поставили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "авторитаризма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "губернаторы"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "давление\"",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

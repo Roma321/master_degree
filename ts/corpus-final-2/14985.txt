@@ -1,0 +1,20 @@
+{
+  "text": "Генеральная прокуратуры Россиивыявила нарушение законодательства при использовании федеральнойсобственности субъектом Федерации - горохом Москвой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "нарушения"
+    },
+    {
+      "correctReplacement": "городом",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Установлен фактом уклонения Московскую железного дорогой от уплаты НДС и налога на пользователей железных дорог в общей сумме 2 , 132 миллиона рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "железной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "факт"
+    }
+  ]
+}

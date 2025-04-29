@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник корпорации Intel представлял модели процессорного Pentium III с тактовой частотой 800 и 750 мегагерц .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "представляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "корпорация"
+    },
+    {
+      "correctReplacement": "процессора",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

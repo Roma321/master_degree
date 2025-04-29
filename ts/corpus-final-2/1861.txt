@@ -1,0 +1,25 @@
+{
+  "text": "Министерству юстиции РФ совместно с администрацией Чеченской Республик поручившее обеспечить в установленном порядке организации государственной регистрации юридичесвих лиц на территории Чечни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "поручено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "организацию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Республики"
+    },
+    {
+      "correctReplacement": "юридических",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

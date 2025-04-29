@@ -1,0 +1,25 @@
+{
+  "text": "Второе по величине нефтяная компания США Chevron заявлю о покупке своего ближайшего конкурента Texaco , которая занимаю третью позицию на американском жестяном рынке .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Вторая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "заявила"
+    },
+    {
+      "correctReplacement": "нефтяном",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

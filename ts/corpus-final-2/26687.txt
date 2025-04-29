@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенья состоялся телефонное разговоре президента России Владимира Путина с президентом Сирии Башаром Асадом , передает корреспондент РИА \"Новости\" со ссылкой на источники в пресс-службе главы российского государздва .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "телефонный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "разговор"
+    },
+    {
+      "correctReplacement": "государства",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

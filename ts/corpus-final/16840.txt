@@ -1,0 +1,20 @@
+{
+  "text": "Корреспондент Reuters Марии Эйсмонт сморщившая , что более 100 российских военнослужащих были убьём .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "убиты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Мария"
+    },
+    {
+      "correctReplacement": "сообщила",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

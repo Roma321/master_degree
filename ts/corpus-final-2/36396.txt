@@ -1,0 +1,20 @@
+{
+  "text": "По данным опросов обществннного мнения , оба имели примерно одинаковый шансы на победу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "одинаковые"
+    },
+    {
+      "correctReplacement": "общественного",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

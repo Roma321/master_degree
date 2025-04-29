@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , уазами президента назначим : Александр Котенков - полномочнымпредставителем Президента РФ вГосударственной Думе ;",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "назначены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "указами",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно чилийских конституции , все лица в возрасте старше 70 лет должны до сумы проходящие медицинвкое освидетельствование их умственного здоровья .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проходить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "чилийской"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "медицинское",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

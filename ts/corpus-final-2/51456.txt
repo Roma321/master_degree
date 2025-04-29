@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на негативную реакцию прессы и специалиста , British Telecom не отказался от своих претензий и решённая начать с компании Prodigy Communications , переставляющей услуги доступа к Интернету для 2 , 4 млн пользователей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "отказалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "решила"
+    },
+    {
+      "correctReplacement": "предоставляющей",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

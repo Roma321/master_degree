@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал РИА \"Новости\" , об этом засвидетельствовавший повышенный режимы безопасности в этих городах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "режим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "свидетельствовал",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

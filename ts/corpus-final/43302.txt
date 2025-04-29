@@ -1,0 +1,30 @@
+{
+  "text": "Это , в частности , Ачимез Гочияевы , Юсуф Крымшамхалове , Тимур Батчаев , Адамы Деккушеф , Денисы Сайтаков , Руслан Магаяев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Адам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Денис"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Крымшамхалов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Гочияев"
+    },
+    {
+      "correctReplacement": "Деккушев",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

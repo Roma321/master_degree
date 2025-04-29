@@ -1,0 +1,25 @@
+{
+  "text": "Ровно в 8 : 15 утра - именно в это время над Хиросимой взорвалась американский атомная бомба - двое школьников ударенные в Колокол мира и собравшиеся почтили минуте молчания память погибнем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "американская"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "ударили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "минутой"
+    }
+  ]
+}

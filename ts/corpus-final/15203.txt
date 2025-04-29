@@ -1,0 +1,20 @@
+{
+  "text": "Атака Poison Null позволяет взломщикам просматривать содержимое директорий , а в некоторых случаях - читаемые и модифицировать файл на серверах Э",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "файлы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "читать"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

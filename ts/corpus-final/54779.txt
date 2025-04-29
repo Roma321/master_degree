@@ -1,0 +1,25 @@
+{
+  "text": "Петербургских милиционеры задержали в день матчем 85 болельщиков , 22 человека получили серьезные ранения и обратились за мединского помощью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Петербургские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "матча"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "медицинской"
+    },
+    {
+      "correctReplacement": "медицинского",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

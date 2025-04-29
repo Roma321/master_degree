@@ -1,0 +1,20 @@
+{
+  "text": "По повторившему сегодня из столицы гималайского королевства сообщениям , этот двухмоторный самолет совершал регулярный рейс из непальского курортной городу Покхара в Катманду .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "курортного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "поступившим",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

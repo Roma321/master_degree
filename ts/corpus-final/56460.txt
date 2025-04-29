@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает CNet , специалисты из USSR опубликуем в четверг не только сообщение о \"дыре\" , но и демо-вермию программы для Dos-атакой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "DoS-атаки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "опубликовали"
+    },
+    {
+      "correctReplacement": "демо-версию",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

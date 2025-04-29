@@ -1,0 +1,25 @@
+{
+  "text": "По словам одного из людей , прошедших через фильтрационного лагерь , там он истребившие словами : \"Добро пожаловать в ад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "встретили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "фильтрационный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "его"
+    },
+    {
+      "correctReplacement": "встретившие",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

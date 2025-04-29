@@ -1,0 +1,25 @@
+{
+  "text": "Он отметил , что на предстоящем заседании верхней палаты 27 сентября сенаторы планируем обсудить и другие вопросы , касающиеся проевшего бюджета : расход на оборона , социальную сферу , дорожное строительство .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "оборону"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "планируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "расходы"
+    },
+    {
+      "correctReplacement": "проекта",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

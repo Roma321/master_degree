@@ -1,0 +1,25 @@
+{
+  "text": "Титов стану пятой по счету зарегистрированным кандидатом на пост главы государства после Геннадия вагана , Алексея Подберезкина , Владимире Путина и Амана Тулеева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "пятым"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "Зюганова",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

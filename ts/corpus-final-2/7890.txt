@@ -1,0 +1,15 @@
+{
+  "text": "Задержан одно подозреваемый , поиски сторожа продолжаются .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "второго",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

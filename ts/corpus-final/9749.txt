@@ -1,0 +1,25 @@
+{
+  "text": "Это будет проводитося , уточнилАнтонюк , параллельно со сменой номеров - 20-й кода региона на бомерах будет заменён на другую цифру .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "код"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "заменен"
+    },
+    {
+      "correctReplacement": "номерах",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "проводиться",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Самолет использовавшийся для пассежирок перевозок .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "использовался"
+    },
+    {
+      "correctReplacement": "пассажирских",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "пассажирок",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

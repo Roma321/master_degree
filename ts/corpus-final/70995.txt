@@ -1,0 +1,25 @@
+{
+  "text": "ЦБ РФ определяешь параметры выпуска облинаций : порядок определения цены первичной размещения , дата погашения , объем выпуска , срок обращения , порядок и форма выплаты доходов и погашением облигаций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "первичного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "определяет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "погашения"
+    },
+    {
+      "correctReplacement": "облигаций",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Они хотите просить Организацию освобождения Палестины немедленно провозгласить независимость , чтобы это дкта совпала с днем , когда Ясир Арафат в 1988 году в Алжире символически провозгласила независимость Палестины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "хотят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "провозгласил"
+    },
+    {
+      "correctReplacement": "дата",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

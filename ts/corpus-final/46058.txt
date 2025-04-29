@@ -1,0 +1,20 @@
+{
+  "text": "Руководство завоза полагаешь , что причинами несчастного случая стала утечка нефти из дистиллятора .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "полагает"
+    },
+    {
+      "correctReplacement": "завода",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

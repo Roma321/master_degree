@@ -1,0 +1,20 @@
+{
+  "text": "Смерть африканца вызвало акции протеста пространных студентам , обучающихся в университетах Тулы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "студентов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "вызвала"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

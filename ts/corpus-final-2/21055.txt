@@ -1,0 +1,25 @@
+{
+  "text": "Сам Быков не намерен участвовать в намеченных на дикарь выборах в Горсовет , поскольку являлся депутата Законодательных собрания Красноярского края .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "депутатом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Законодательного"
+    },
+    {
+      "correctReplacement": "декабрь",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

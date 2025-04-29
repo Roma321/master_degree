@@ -1,0 +1,20 @@
+{
+  "text": "На сайте телекомпании НТВ открылся овчя рубрика - \"За кадром\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "открылась"
+    },
+    {
+      "correctReplacement": "новая",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "овыя",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

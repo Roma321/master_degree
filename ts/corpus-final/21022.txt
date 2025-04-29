@@ -1,0 +1,25 @@
+{
+  "text": "беготня же был принята конституционный закон о ежегодном проведении акции помулований в Ночь Всемогущества по мусульманскому календарю .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "помилования"
+    },
+    {
+      "correctReplacement": "Сегодня",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "помилований",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

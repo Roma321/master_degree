@@ -1,0 +1,30 @@
+{
+  "text": "В ноябре текущего года Europay отозвала у Union Card лицензию на обслуживания операций по картам Europay в банкомате в связи с тем , что российская компания не принял мери безопасности , которым устроили бы международную платежную систему .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "обслуживание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "банкоматах"
+    },
+    {
+      "correctReplacement": "мер",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

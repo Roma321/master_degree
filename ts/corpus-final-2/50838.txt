@@ -1,0 +1,20 @@
+{
+  "text": "Для победы во второй туре выборов достаточно набрать простое большинство голоса , при условии , что евка превысит 25 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "явка",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

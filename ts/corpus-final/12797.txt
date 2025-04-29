@@ -1,0 +1,30 @@
+{
+  "text": "В прошлом году Compaq , решив вплотную заняться рекламных кампанией поискового машин Altavista , заплатил 3 , 35 миллиона доллароф за адрес altavista . com , принадлежавший компании AltaVista Technology (эта компании в свое время разработала поисковую технологию , проданную впоследствии корпорации Digital Equipment и использованную в поисковой машине Altavista) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "машины"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "поисковой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "рекламной"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

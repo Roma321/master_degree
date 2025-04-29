@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее время завод ведущий переговоры с местной автосборочным предприятием Drackensberg Truk Assemblere SS о поставках 100 полнокомплектных автомобилей \"Урал\" , а также шасыи росийских грузовиков с следующей установкой на них двигателей немецкого Kloeckner Humboldt Deutz (KHD) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "немецкой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "местным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "ведет"
+    },
+    {
+      "correctReplacement": "последующей",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "шасси",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "И лишь в женском ватерпольном турниру российскими спортсменки не сможем удержать преимущество в матфе с канадками .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "смогли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "турнире"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "российские"
+    },
+    {
+      "correctReplacement": "матче",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

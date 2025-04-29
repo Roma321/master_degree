@@ -1,0 +1,30 @@
+{
+  "text": "По данным военных , во вторая половинах апреля и в мае боевики активизируют свои деятельность в Грозном , сообщило в пятницу на брифинге в Москве помощник президента России Сергей Ястржембский , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "половине"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свою"
+    }
+  ]
+}

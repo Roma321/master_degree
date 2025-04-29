@@ -1,0 +1,25 @@
+{
+  "text": "Основные причинами аварий австрийское МВД называешь значительное превышение скорости , особенно на автобанах , и нахождения за рулем в состоянием алкогольного опьянения или под воздействием наркотиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "состоянии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Основными"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "называет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "нахождение"
+    }
+  ]
+}

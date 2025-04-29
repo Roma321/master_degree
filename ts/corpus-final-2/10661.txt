@@ -1,0 +1,15 @@
+{
+  "text": "В вагоне находились , по официальных данным , 70 человек , по словам свидетеля происшедшего , пассажиров было больше , сообщает AFP .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "официальным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свидетелей"
+    }
+  ]
+}

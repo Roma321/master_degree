@@ -1,0 +1,30 @@
+{
+  "text": "Уровень воды в реках достигнутый рекордных отсеков - в реках Тар вода поднялась более чем на 10 метров от своего обычного уровня , и продолжающий поднимапься .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "продолжает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "реке"
+    },
+    {
+      "correctReplacement": "отметок",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "подниматься",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Ежедневно в операций участврвали около тысячи сотрудников областные подразделений и отраслевых служб ГУВД .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "областных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "операции"
+    },
+    {
+      "correctReplacement": "участвовали",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

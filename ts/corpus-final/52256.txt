@@ -1,0 +1,25 @@
+{
+  "text": "Вечером 13 апреля действующий председатели ОБМЕ , дак предполагающийся , вылетит на Северный Кавказ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "предполагается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "председатель"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "ОБСЕ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

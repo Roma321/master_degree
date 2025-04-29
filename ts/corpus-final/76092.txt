@@ -1,0 +1,25 @@
+{
+  "text": "Встрече проходила в узкой составе : кроме самих президентов , в ней принимавшие участие министры иностранных дел двух страниц .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "узком"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Встреча"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

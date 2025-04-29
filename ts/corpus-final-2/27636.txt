@@ -1,0 +1,20 @@
+{
+  "text": "Технический персонал броселся исправлять повреждение и обнаружу , что тревога оказалась ложным .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ложной"
+    },
+    {
+      "correctReplacement": "бросился",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

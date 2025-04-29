@@ -1,0 +1,20 @@
+{
+  "text": "К шести утра скорость ветра в этом районе Баренцевой моря не превышала 14 метра в секунду , а высота волн - двкх метров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "метров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Баренцева"
+    },
+    {
+      "correctReplacement": "двух",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

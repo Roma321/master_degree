@@ -1,0 +1,25 @@
+{
+  "text": "До назначения на новую должность начальника штаба и одновременно заместителя начальника областного УВД Бирюков руководила службоф уголовных розыска областной милиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "руководил"
+    },
+    {
+      "correctReplacement": "областного",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "службой",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

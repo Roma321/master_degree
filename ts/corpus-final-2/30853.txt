@@ -1,0 +1,25 @@
+{
+  "text": "Умерший один из участников бессрочной голодовки , моторного три месяца назад объявили шахтинские инвалиды-чернобыльцы в защитв своих прав , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Умер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "защиту"
+    },
+    {
+      "correctReplacement": "которую",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "защиты",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

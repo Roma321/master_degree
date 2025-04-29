@@ -1,0 +1,25 @@
+{
+  "text": "В последний раз обострение бронхита было отмечено у президента в марта нынешней год и сопрлвождалось госпитализацией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "марте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "сопровождалось",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

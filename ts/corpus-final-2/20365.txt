@@ -1,0 +1,15 @@
+{
+  "text": "За прошедший месяц цены на бензином выросли в США на девять троцентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "бензин"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

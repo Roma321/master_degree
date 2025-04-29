@@ -1,0 +1,30 @@
+{
+  "text": "Этого датойявлялся первое воскресенье месяца по истечение четырех лет содня привидений предыдущих выбороф президента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "проведения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "датойявляется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Этой"
+    },
+    {
+      "correctReplacement": "проведений",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

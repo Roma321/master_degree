@@ -1,0 +1,15 @@
+{
+  "text": "По его словам , многие жители Крыма пользуются льготами на бесплатная проест .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "бесплатный"
+    },
+    {
+      "correctReplacement": "проезд",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

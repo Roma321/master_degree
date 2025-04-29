@@ -1,0 +1,20 @@
+{
+  "text": "Одесская морскую академия - бывшее мореходный училище -находится в ведении Министерздва образования Украины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "мореходное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "морская"
+    },
+    {
+      "correctReplacement": "Министерства",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

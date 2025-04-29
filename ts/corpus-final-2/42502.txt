@@ -1,0 +1,20 @@
+{
+  "text": "Преступник произвел в Федана двум выстрела рз пистолета , после чего скроюсь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "скрылся"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

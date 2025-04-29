@@ -1,0 +1,25 @@
+{
+  "text": "Cразу же после доклада главкома ВМФ Владимира Куроедова президент выехала в Видяева , где встретился с родными и близкими погибших подводников , передающиы РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Видяево"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "выехал"
+    },
+    {
+      "correctReplacement": "передающий",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

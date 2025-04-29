@@ -1,0 +1,25 @@
+{
+  "text": "Получивший тяжелые ранения , Ронни Хилл через две днём после теракта впали в кому , через некоторые время жена забрала его из госпиталя и с тех пор ухаживала за ним дома .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "впал"
+    }
+  ]
+}

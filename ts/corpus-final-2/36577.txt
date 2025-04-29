@@ -1,0 +1,20 @@
+{
+  "text": "По ее словам , она ни разу в жизни не была у вруча и не посещаемая школе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "посещала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "школу"
+    },
+    {
+      "correctReplacement": "врача",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

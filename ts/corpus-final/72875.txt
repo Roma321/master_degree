@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявлю сегодня после встречи с премьер-министром Японии вице-премьер правителбство России Виктор Христенко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Возбуждено уголовных дела , ведутся расследованием . Кроме того , по предварительного информации военных , в среду планируется провести жесткую зачистку Заводского района Грозного .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ведется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "расследование"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "предварительной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "дело"
+    }
+  ]
+}

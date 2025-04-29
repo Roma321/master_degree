@@ -1,0 +1,20 @@
+{
+  "text": "Нынешний скачок цен на нефть специалисты связывают с забастовками в норвежского нефтяного отрасли , а также с неясной позицией руководства ОПЕК относительно увеличения квот на добычи нефти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "норвежской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "добычу"
+    }
+  ]
+}

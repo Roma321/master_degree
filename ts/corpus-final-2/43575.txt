@@ -1,0 +1,25 @@
+{
+  "text": "\"Вовсе не нарушая антиалкогольное законодательство , Microsoft выступала за свободную конкуренцию , принося гигантского выгода своим клиентам\" , говорится в заявлении компании , поданных в апелляционный суд .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "поданном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "гигантскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "выгоду"
+    },
+    {
+      "correctReplacement": "антимонопольное",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Спецслужбой Северной Осетии задержавший жительВладикавкаща , который подозреваюсь в закладке взрывногоустройства на площадь перед городским рынком Владикавказа 9 июля .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Спецслужбами"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "подозревается"
+    },
+    {
+      "correctReplacement": "жительВладикавказа",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

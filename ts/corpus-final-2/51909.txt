@@ -1,0 +1,25 @@
+{
+  "text": "Во второй раз за две дня загоревшаяся квартира № 55 на третрей этаже в жилом секторе \"И\" Главного здания МГУ имени М . В . Ломоносова на Воробьевых горах , где накануне в дыму задохнулся мужчина , сообщает собственный корреспондент Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "загорелась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "третьем"
+    },
+    {
+      "correctReplacement": "третьей",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

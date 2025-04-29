@@ -1,0 +1,25 @@
+{
+  "text": "За три дня до старку 9-го чемпионата России по футболу в Саратове и Волгограде были сыграны отложившие матчи одной восьмая финала Кубка России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "старта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "восьмой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "отложенные"
+    },
+    {
+      "correctReplacement": "старту",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Госдума направила исполняющей обязанности президента России Владимир Путиным парламентский запрос по поводу реализации зукона о ставшемся военнослужащих , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Владимиру"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "исполняющему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Путину"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "статусе",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "закона",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

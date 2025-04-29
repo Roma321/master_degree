@@ -1,0 +1,30 @@
+{
+  "text": "Расхождение мнений членов избиркома при голосовании вызову тем , что Подберезкин ошибся , указываемые размеры своего земельного участка в Подмосковье : Подберезкин указал , что имеемый земельные участке в 330 квадратных метров , хотя его общая площадь составляет 3300 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "участок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "земельный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "вызвано"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "указывая"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По ее словам , причиной такого несения стал вчерашнее вердикт московского Арбитражного суда , который постановила , что столичная прокуратура должна была бы представить не единый иск к нескольким ответчикам , и конкретные иски к каждому из них .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "постановил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "вчерашний"
+    },
+    {
+      "correctReplacement": "решения",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

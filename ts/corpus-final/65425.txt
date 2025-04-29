@@ -1,0 +1,25 @@
+{
+  "text": "Cпециальный представителю президента РФ , посол по особым поручениям российского МИДа Николай Кортунов прибыло в Багдад с личными посланием президентов РФ Владимира Путина иракскому президенту Саддаму Хусейну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "личным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "прибыл"
+    }
+  ]
+}

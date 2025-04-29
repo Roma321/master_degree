@@ -1,0 +1,30 @@
+{
+  "text": "Спасатели , продолжающие работу на месте катастрофы , говорят , что воздушные судна погоревшее на 95 процентоф и разобраться в причинах катастрофы будет очень трудно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "судно"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выгорело"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "воздушное"
+    },
+    {
+      "correctReplacement": "выгоревшее",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

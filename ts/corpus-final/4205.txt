@@ -1,0 +1,30 @@
+{
+  "text": "Во вторник вечером из Владикавказа в Тбилиси был доставлена Нугзар Чухца , обгонявший в участиях в теракте против президента Грузии 9 февраля 1998 года .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "участии"
+    },
+    {
+      "correctReplacement": "обвинявший",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Чухуа",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

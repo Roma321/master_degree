@@ -1,0 +1,40 @@
+{
+  "text": "18 июля состоится заседания Совета гордумы , а 19 июле по просьбе правительства пройдет дополнительное пленарное заседание нижней палатой парламентов , на которои будут рассматриваться законопроекты в рамки налоговой реформы , объявленной президентом и правительством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "парламента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "палаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "заседание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "июля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "рамках"
+    },
+    {
+      "correctReplacement": "Госдумы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

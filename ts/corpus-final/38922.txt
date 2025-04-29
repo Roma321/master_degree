@@ -1,0 +1,30 @@
+{
+  "text": "минако на прямой вопрос о том , получил ли Россия в октябре очередной кредитную транш МВФ , сейчас не могущий одветить даже руководство \"семерки\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "кредитный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "получит"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "ответить",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

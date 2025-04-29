@@ -1,0 +1,20 @@
+{
+  "text": "Вечером той же дня общеизвестный напал на директора школа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "школы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "неизвестный",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

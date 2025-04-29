@@ -1,0 +1,20 @@
+{
+  "text": "Днем раньше в этом же районе городв на такой же взрывном устройстве была подорван машина \"Урал\" с сотрудниками СОБРа Волго-Вятского ГУВД .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "таком"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "подорвана"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

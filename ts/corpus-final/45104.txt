@@ -1,0 +1,25 @@
+{
+  "text": "Около 14 . 00 московского времени Путин вылетел в Набережные Челны , где посетила КамАЗа и проведу совещания по вопросам развитого отечественного машиностроения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "совещание"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "посетил"
+    },
+    {
+      "correctReplacement": "развития",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

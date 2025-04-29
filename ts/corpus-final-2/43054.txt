@@ -1,0 +1,25 @@
+{
+  "text": "Новым главными тренерами динамовцев стал Владимир Семенов , до этого тренировавший екатеринбуркского команду \"Динамо-Энергия\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "тренером"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "главным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "екатеринбургскую"
+    },
+    {
+      "correctReplacement": "екатеринбургского",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

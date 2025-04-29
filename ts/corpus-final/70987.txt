@@ -1,0 +1,20 @@
+{
+  "text": "По версий полиций , авария произошла из-за попыток водителя грузовика проскочить переезде перед поездом , когда для этого оставалось слишком мало времени .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "переезд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "версии"
+    }
+  ]
+}

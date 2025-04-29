@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , из пеняющие стартовавших в Париж россиянок лишь Анна Курникова , обыгравший канадку Ванессу Уэбб (6 : 4 , 6 : 4) , продолжает выступать на чемпионате Францри в одиночном разряде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "обыгравшая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Париже"
+    },
+    {
+      "correctReplacement": "девяти",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Франции",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно сообщение министерства внутренних дел Алжира , в местечках Уэд-эль-Анаб , провинции Сннаба , были обнаружены тела четырех граждан России , работавших в Алжире по контракту с компанией по производству фосфатных удобрений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "провинция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "местечке"
+    },
+    {
+      "correctReplacement": "Аннаба",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

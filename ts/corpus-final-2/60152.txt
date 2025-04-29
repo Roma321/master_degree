@@ -1,0 +1,25 @@
+{
+  "text": "В субботу в Газе и Наблусе были расстрелявшие двое палестинцев , побуженных за сотрудничество с израильскими спецслужбой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "спецслужбами"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "расстреляны"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "осужденных"
+    },
+    {
+      "correctReplacement": "осуждённых",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

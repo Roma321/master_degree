@@ -1,0 +1,25 @@
+{
+  "text": "При втором опстреле зданием блокнота была повреждено , и бойцам пришлось по рации вызвать артиллеристов , которые огнем подавили нападением боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "здание"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "нападение"
+    },
+    {
+      "correctReplacement": "блокпоста",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "обстреле",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

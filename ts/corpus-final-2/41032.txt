@@ -1,0 +1,20 @@
+{
+  "text": "В результате внезапной отключению вышли из строя три котла теплосети , четыре электродвигателя и восемь теплотрассах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "отключения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "теплотрасс"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "внезапного"
+    }
+  ]
+}

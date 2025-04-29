@@ -1,0 +1,20 @@
+{
+  "text": "Однако батарейке на приемном устройстве взрывной механизма \"полсели\" и взрыв не состоялся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "батарейки"
+    },
+    {
+      "correctReplacement": "\"подсели\"",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

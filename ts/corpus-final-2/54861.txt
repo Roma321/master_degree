@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники ГИБДД начавшиа преследование , и приблизительно через полтора километра автомашина остановилось на обочине .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "остановилась"
+    },
+    {
+      "correctReplacement": "начавшие",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

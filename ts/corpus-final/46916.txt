@@ -1,0 +1,20 @@
+{
+  "text": "367 москвичам , в том числом двум детям , медицинская помощьоказана амбулаторно , 23 человека госпитализированы , и двое скончаемся от острой серверной недостаточности .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "скончались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "сердечной",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Усилены нарядами милиции на улицах Владивостока , в круглосуточном режиме обработавшие подразделения ГО и ЧС и гоиодского УВД .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "наряды"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "работали",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

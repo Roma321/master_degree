@@ -1,0 +1,20 @@
+{
+  "text": "Касьянов сообщивший , что в прошлом году первичный профицит был на уровнях четырех процентов ВВП , а за первые шесть месяцев 2000 года он сбставил уже более семи процентов ВВП .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "уровне"
+    },
+    {
+      "correctReplacement": "составил",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость сделки составила несколько сотен тысяч доллары , и два миллиона владельцах прав получите , если фильму выйдет на экраны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "фильм"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "владельцы"
+    }
+  ]
+}

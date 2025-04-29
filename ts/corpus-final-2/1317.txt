@@ -1,0 +1,25 @@
+{
+  "text": "Зверское убийство семьи из 11 человек совершу в пятницу в Душанбе . Как сообщили РИА \"Новости\" в пресс-центре МВД Таджикистана , группа вооруженных людям в масках ворвалась в частный дом , расположенный на восточной окраинп городу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "окраине",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомните , что в минувшую пятницу состоялась пресс-конференция с участием кандидат от \"Яблока\" по одномандатному округу N 209 Петербургу серьёз Степашина и председателя политсовета петербургского движения \"Яблока\" Александру Шишлова , на которой также шла речь о грязных предвыборных технологиях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Петербурга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Александра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "кандидата"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "Сергея",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

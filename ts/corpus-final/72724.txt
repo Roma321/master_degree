@@ -1,0 +1,20 @@
+{
+  "text": "Отставной генпрокурор Юрий Скуратов утверждаешь , что счета бившие открыты , карточки - выданы , и что по это карточкам осуществлялись платежи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "этим"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

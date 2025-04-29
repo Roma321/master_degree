@@ -1,0 +1,20 @@
+{
+  "text": "павший начальник УФСБ Александра Григорьев освобожден от занимаемой должности в связи с переходом ни другую работу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Александр"
+    },
+    {
+      "correctReplacement": "Бывший",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Одна из ними - чисто поверенная , другая подразумевает абонентских плату за фиксируемый лимит времени от 300 до 600 минуты в месяц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "минут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "фиксированный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "абонентскую"
+    },
+    {
+      "correctReplacement": "повременная",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

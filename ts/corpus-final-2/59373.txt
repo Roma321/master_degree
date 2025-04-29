@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению Reuters , 40 проценты автоматов для продажи билетов на центральные станциях дамского метро не работают , в киосках билетов также не хватающий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "хватает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "центральных"
+    },
+    {
+      "correctReplacement": "римского",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

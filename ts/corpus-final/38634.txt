@@ -1,0 +1,30 @@
+{
+  "text": "17-й лама Кармапы , Верховный Лама Тибета , чью власть признают Пекин и Далай-ламой , прибыли в Индию 5 яндаря 2000 гога , проделанные более чем 1400-километровый путь через Гималаи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "проделав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Далай-лама"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "января",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

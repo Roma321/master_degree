@@ -1,0 +1,25 @@
+{
+  "text": "На церемонии вручения награды , добавляющий Ара , присутствовали высочайшие чилийские диссиденты , а также Исабель Альенде - дочь свергнутого и убитого Пиночете президента Сальвадора Альенде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "добавляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "АР"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Пиночетом"
+    },
+    {
+      "correctReplacement": "бывшие",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Результаты экспертизы позволяют слезающие его с убийствах по малейшей мере еще 12 женщинам в возрасте от 16 до 47 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "женщин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "убийствами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "меньшей"
+    },
+    {
+      "correctReplacement": "связать",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

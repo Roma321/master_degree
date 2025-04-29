@@ -1,0 +1,45 @@
+{
+  "text": "Вся операция с момента погружения аппаратов до посадку в него членов экипажа подлодки займу не менее 7 часов - после присопдинения к борту лодки требуюсь сначала откачать воду из резиновой обшивкой , сравнявшие давление и открыть аварийный люк .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "аппарата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "посадки"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "займет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "обшивки"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "требуется"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "уравнять"
+    },
+    {
+      "correctReplacement": "уравнявшие",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "присоединения",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

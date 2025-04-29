@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее времена сотрудники Миссию ООН находятся в Кутаичи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Миссии"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Кутаиси",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

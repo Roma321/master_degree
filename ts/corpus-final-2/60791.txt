@@ -1,0 +1,20 @@
+{
+  "text": "Он побеседуешь , в частности , с президкнтом Владимиром Путиным и премьер-министрами Михаилом Касьяновым .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "побеседует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "премьер-министром"
+    },
+    {
+      "correctReplacement": "президентом",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

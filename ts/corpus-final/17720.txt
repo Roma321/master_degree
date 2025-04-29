@@ -1,0 +1,25 @@
+{
+  "text": "Символику , изображённое на плакатах ОВР , также донельзя считать только мшсковской , так как , по замечанию членов комиссии , \"Москва является частями России\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "изображенную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "частью"
+    },
+    {
+      "correctReplacement": "нельзя",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "московской",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

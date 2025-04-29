@@ -1,0 +1,25 @@
+{
+  "text": "В связи с окончанием Рамадана верховный муфтии России и европейских страниц СНГ Талгат Таджуддин по традиции совершивший в среду торжественную службу в главную российской мечети , которая находится в Уфе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "муфтий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "главной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "совершил"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

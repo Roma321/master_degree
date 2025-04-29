@@ -1,0 +1,20 @@
+{
+  "text": "Участники митингов считают итоги выборам сфальсифицированными и подлежашими отмене .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "митинга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "выборов"
+    },
+    {
+      "correctReplacement": "подлежащими",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "А сына кормящий в одной из черновицких благотворительные столовых .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "благотворительных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "кормит"
+    },
+    {
+      "correctReplacement": "столовых",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

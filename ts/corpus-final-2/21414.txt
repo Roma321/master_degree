@@ -1,0 +1,25 @@
+{
+  "text": "Впервые в истории американского судопроизводств несовершеннолетнее хакер приговорён к шести месяцам лишения слободки , сообщает в четверг Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "несовершеннолетний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "судопроизводства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "correctReplacement": "свободы",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Переговорах Иванова м Аннана с премьер-министром Израиля Эхудом Бараком пройдёт уже посло крайнего срока прекращение огня с палестинской стороны , указанной в ультиматуме Израилем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "пройдут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "указанного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "прекращения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Переговоры"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

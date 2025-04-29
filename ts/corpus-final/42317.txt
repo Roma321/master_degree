@@ -1,0 +1,20 @@
+{
+  "text": "По закону , каждые кандидате в президеньы может иметь не более 600 доверенных лиц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "кандидат"
+    },
+    {
+      "correctReplacement": "президенты",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

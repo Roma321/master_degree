@@ -1,0 +1,25 @@
+{
+  "text": "Индивидуальным разрешения предоставляетесь на основании заявления сотрудниц и на сумму , равную размеру месячной зарплаты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "заявлений"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "предоставляются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Индивидуальные"
+    },
+    {
+      "correctReplacement": "сотрудников",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

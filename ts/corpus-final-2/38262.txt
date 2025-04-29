@@ -1,0 +1,45 @@
+{
+  "text": "Приводите полная тексты этого заявления : ЗАЯВЛЕНИЕ ПРЕСС-СЛУЖБЫ \"МЕДИА-МОСТА\" Решением Генеральной прокуратуры о привлечении Владимира Гусинских в качестве обвиняемого , объявление его в ршзыск сразу же после извёстки о заключении мирового соглашения между \"Газпромом\" и \"Медиа-Мостом\" может свидетельствовать о двух вещи .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Приводим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "текст"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "полный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Гусинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "вещах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Решение"
+    },
+    {
+      "correctReplacement": "известия",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "розыск",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

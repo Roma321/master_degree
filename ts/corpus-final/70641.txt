@@ -1,0 +1,20 @@
+{
+  "text": "Еще одним сопредседателем НПСР стало вице-спикер Госдумы Пётр русанов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Петр"
+    },
+    {
+      "correctReplacement": "Романов",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

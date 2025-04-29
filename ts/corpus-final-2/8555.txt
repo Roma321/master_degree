@@ -1,0 +1,25 @@
+{
+  "text": "Очередная поражение в чемпионатах России по футболе потерпел семикратный чемпион страны столичный \"Ппартак\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "футболу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Очередное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "чемпионате"
+    },
+    {
+      "correctReplacement": "\"Спартак\"",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

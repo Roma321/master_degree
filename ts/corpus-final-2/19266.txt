@@ -1,0 +1,20 @@
+{
+  "text": "По оценке российских военврача , оборудование госпиталь стоит не менее 50 тысяч далласов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "военврачей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "госпиталя"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёшь Los Angeles Times со ссылкой на источники в Вашингтоне , предложению Microsoft , посланный в пятницу в министерство петиции , 19 штатов и округ Колумбия , было признано правительством неадекватным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "посланное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "предложение"
+    },
+    {
+      "correctReplacement": "юстиции",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

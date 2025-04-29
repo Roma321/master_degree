@@ -1,0 +1,20 @@
+{
+  "text": "Компания 20th Century Fox сближалась выпустить картину к Рождеству , но теперь сроки выхода передвинулись на лето следующей годе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "следующего"
+    },
+    {
+      "correctReplacement": "собиралась",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

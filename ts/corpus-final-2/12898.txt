@@ -1,0 +1,25 @@
+{
+  "text": "мак сообщает Узбекский информационное агентство , 15 бандитов напавшие на группупограничников , совершавших обход участке в приграничной зонеУзбекистана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "участка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Узбекское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "напали"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

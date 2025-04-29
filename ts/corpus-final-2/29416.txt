@@ -1,0 +1,20 @@
+{
+  "text": "На втором месте голландской Royal Dutch/Shell (221 миллиард долларов) , на третьем - британские BP-Amoco (209 миллиардоа долларов) , затем идет французская TotalFina Elf (113 миллиардов долларов) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "голландская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "британская"
+    },
+    {
+      "correctReplacement": "третьем",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что 19 декабря 1999 года выборы президента и депутатами Государственного думу России на территории Чеченского республики не проводились .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "думы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Чеченской"
+    }
+  ]
+}

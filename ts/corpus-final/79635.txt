@@ -1,0 +1,25 @@
+{
+  "text": "Поводом для отката стала жяд нарушений в оформлениях документов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "оформлении"
+    },
+    {
+      "correctReplacement": "отказа",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "ряд",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

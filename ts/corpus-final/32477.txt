@@ -1,0 +1,30 @@
+{
+  "text": "Со своей стороны глува индонезийских вооруженных силы сказал , что ария поддерживал решение президента , сообщаемый ВВС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "армия",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

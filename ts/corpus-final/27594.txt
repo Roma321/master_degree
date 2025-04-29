@@ -1,0 +1,25 @@
+{
+  "text": "По данным пресс-службы администрации Ижевска , за минувший годы в наркологические сйужбы города за помощью обратимся около 11 тысячи школьников .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "обратились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

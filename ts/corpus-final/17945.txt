@@ -1,0 +1,25 @@
+{
+  "text": "пучиной отставок премьер-министра стал начавшееся на этой неделе правительственный кризис , вызвавший разногласиями в правящей левоцентристкой коалиции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "начавшийся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "вызванный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отставки"
+    },
+    {
+      "correctReplacement": "Причиной",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

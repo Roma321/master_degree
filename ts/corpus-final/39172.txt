@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , Доренко сообщённый , что предприниматешя Андрей Батурин , родственник Лужкова , тоже замешаны в деле Mabetex .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "предприниматель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "замешан"
+    },
+    {
+      "correctReplacement": "предпринимателя",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

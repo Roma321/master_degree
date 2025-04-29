@@ -1,0 +1,25 @@
+{
+  "text": "Группа кдвокатов подала в суд на городские властью от имени 50 тысяч граждан , пострадавших от незаконных обыска и добилась выплаты крупнейшей в историей города коменсации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "обысков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "истории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "адвокатов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

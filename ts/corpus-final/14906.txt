@@ -1,0 +1,25 @@
+{
+  "text": "В преддверии визита президиум РФ Бориса Ельцина в Пекин Россия и Китай подписали крупное контракт на поставку китайским ВВС партией новейших российских истребителей , передаваемый \"Интерфакс\" со ссылкой на западные CМИ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "партии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "крупный"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

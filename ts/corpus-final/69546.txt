@@ -1,0 +1,25 @@
+{
+  "text": "Ранее лидера чеченских сепаратистов распространённый в зарубежных СМИ информация о якобы произошедшем в минувший понедельник бое в районеКурчалоя , в результате которого подразделения ВДВ понесли большаки потери .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "лидер"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "распространил"
+    },
+    {
+      "correctReplacement": "большие",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

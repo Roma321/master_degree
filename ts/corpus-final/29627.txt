@@ -1,0 +1,25 @@
+{
+  "text": "Проценко бвл задержано оперативниками еще 20 января , однако эта информация до последних момента держалась в рекруте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "последнего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "секрете",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

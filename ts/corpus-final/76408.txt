@@ -1,0 +1,30 @@
+{
+  "text": "В письме инвестор даёт свои оценку бизнеса холдинга в размере более двух миллиардов долларов , а также просит уточнить , неуверенные ли сами \"Газпром\" конвертировать обязательства медиа-холдинга в его акции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "намерен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "намеренны",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

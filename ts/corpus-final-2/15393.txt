@@ -1,0 +1,25 @@
+{
+  "text": "Врачи фсем ставите одно и тот же диагноз : токсикодермии - отравление химическими веществами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "токсикодермия"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "ставят"
+    },
+    {
+      "correctReplacement": "всем",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Владимир Путины , возглавлявший в то время ФСБ РФ , заявлял , что проведенная его ведомством проверка не позволила выявить никакого данных , подтверждающих обвинения сотрудниц УРПО .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "никаких"
+    },
+    {
+      "correctReplacement": "сотрудников",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

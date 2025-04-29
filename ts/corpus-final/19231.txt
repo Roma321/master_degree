@@ -1,0 +1,15 @@
+{
+  "text": "Вечером 22 декабря южнокорейский транспортный самолет Boeing-747 , направляфшееся в Италию , рухнул на землю при взлете из английского аэропорта Stansted .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "направлявшийся"
+    },
+    {
+      "correctReplacement": "направлявшееся",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

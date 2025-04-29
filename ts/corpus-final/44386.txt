@@ -1,0 +1,30 @@
+{
+  "text": "В районе чеченской селения Дуба-Юрт сотрудники ГУБОП и Северокавказского РУБОП задержавшие лидера олиного из бандформирований 39-летнего Салаутдину Тимирбулатова , который активно участвовал в казнях российских военнопленного , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Салаутдина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "задержали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "военнопленных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "чеченского"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

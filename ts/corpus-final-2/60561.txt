@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на это , рекламный плакаты BT уверяете : мобильники только оттягивают бармены , и пользоваться ими не стоило .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "уверяют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "стоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "рекламные"
+    },
+    {
+      "correctReplacement": "карманы",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

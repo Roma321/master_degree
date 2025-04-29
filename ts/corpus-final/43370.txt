@@ -1,0 +1,30 @@
+{
+  "text": "Одном из задержанных , подозреваемый в организации кражи , работал охранником подъездом дома , где проживает владелец коллективоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "коллекции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "подъезда"
+    },
+    {
+      "correctReplacement": "коллекций",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "коллективов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

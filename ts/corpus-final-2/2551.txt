@@ -1,0 +1,20 @@
+{
+  "text": "Госдума принявшая в среду в окончательном тлении вторую часть нового Налоговой кодекса РФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Налогового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "приняла"
+    },
+    {
+      "correctReplacement": "чтении",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

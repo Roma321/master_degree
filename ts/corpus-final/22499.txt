@@ -1,0 +1,30 @@
+{
+  "text": "Заместитель директора ФСБ России сказал также , чтовозглавляемая им делегация представителей российскихправоохранительные органов проведу в четверг встречающую сдиректором FBI Луисом Фри , на которой среди других вопросовобсуждались также проблемы сотрудничества дуа стран в борьбе с терроризмом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "двух"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "российскихправоохранительных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "провела"
+    },
+    {
+      "correctReplacement": "встречу",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "два",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

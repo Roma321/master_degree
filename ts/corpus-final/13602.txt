@@ -1,0 +1,30 @@
+{
+  "text": "како сообщившие журналистам РИА \"Новости\" в юридическом отднле Центробанком России , согласно Гражданскому кодексу РФ , решения об ограничениях на проведение финансовых операции со счетами юридических и частных вкладов могут принимать только правоохранительные органы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "операций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Центробанка"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "отделе",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

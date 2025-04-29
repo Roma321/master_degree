@@ -1,0 +1,20 @@
+{
+  "text": "Его состояние оцениваешься журналом Forbes в 13 миллиарда доллароф .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

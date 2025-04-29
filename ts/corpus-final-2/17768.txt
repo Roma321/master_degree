@@ -1,0 +1,35 @@
+{
+  "text": "Необходимость в таких радикальных мерах продиктую кризисной ситуацией , возникшей с результате блокаду нефтеперерабатывающих завода и распределительных центров водителями грузовиков , таксистами и вертёршими , возмущенными высокими ценами на бензин и дизельное топливо , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "продиктована"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "блокады"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "заводов"
+    },
+    {
+      "correctReplacement": "фермерами",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

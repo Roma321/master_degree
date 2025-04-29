@@ -1,0 +1,20 @@
+{
+  "text": "Объединение будет реализован на базе немецкой телекомпании CLT-UFA , представленной на 22 телепрограммах с аудиторией в 120 миллионов кителей ежедневно , и британской Pearson TV , которая участвует в создании 160 телепрограмм в 35 странах миров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "реализовано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "мира"
+    },
+    {
+      "correctReplacement": "зрителей",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

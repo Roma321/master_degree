@@ -1,0 +1,30 @@
+{
+  "text": "Договорённости об это достигшая между Внешторгбснком и временной обладминистрацией \"Мост-банка\" , сообщает Агенство финансовой информации .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "достигнута"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Договоренность"
+    },
+    {
+      "correctReplacement": "администрацией",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Внешторгбанком",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

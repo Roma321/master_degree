@@ -1,0 +1,30 @@
+{
+  "text": "Подземный толчок силой около восьми баллов по шкале Рихтера уничтожу в ннчь с понедельников на вторник 30 тысячам построек на острове , без электроэнергии по-прежнему оставались около 6 миллионов семей на половине территории Тайваня .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "остаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "понедельника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "уничтожил"
+    },
+    {
+      "correctReplacement": "ночь",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

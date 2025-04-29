@@ -1,0 +1,15 @@
+{
+  "text": "В понеделькус в результате падения дерева на автомобиля было убито 2 человека , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "автомобиль"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

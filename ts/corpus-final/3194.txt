@@ -1,0 +1,25 @@
+{
+  "text": "эля победы в первом туре кандидатах (на пост президента Украины претендует 13 человек) необходимо получить поддержку более половины (50 процентов плюс один голои) пришедших на избирательных участки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "избирательные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "кандидатам"
+    },
+    {
+      "correctReplacement": "Для",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "голос)",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

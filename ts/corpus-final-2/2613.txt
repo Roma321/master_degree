@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает ВВС , в алицию поступило сообщением о заложенном взрывном устройствах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "устройстве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сообщение"
+    },
+    {
+      "correctReplacement": "полицию",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

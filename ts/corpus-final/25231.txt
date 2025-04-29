@@ -1,0 +1,25 @@
+{
+  "text": "Тучи над головами Шойбле стали сгущаться , когда он признала , что получил от торговый оружием Шрайбера 100 тысяч марок наличными в качествах пожертвования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "головой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "качестве"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "признал"
+    },
+    {
+      "correctReplacement": "торговца",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

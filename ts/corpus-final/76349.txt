@@ -1,0 +1,30 @@
+{
+  "text": "В обращении к мэру Киева также предлагаюсь установить в столице дополнительный местному сбор с изданир , продажи и распространений русскоязычной печатной , видео- и аудиопродукции .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "предлагается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "распространения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "издания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "местный"
+    },
+    {
+      "correctReplacement": "издание",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

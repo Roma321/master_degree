@@ -1,0 +1,35 @@
+{
+  "text": "Осенью прошлого года , когда в американских СМИ появились сообщения о том , что российская мафия ьтмыл 10 миллиарда доллары через Bank of New York , женевский суд направил запросу в США с просьбой подтвердить эту информацию , однако так и не получила ответа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "отмыла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 42,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "запрос"
+    },
+    {
+      "correctReplacement": "отмыл",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

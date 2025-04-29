@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , ы соответствии с временной схему движения транспорта будут перенесены светофоры , переоборудован контактная сеть троллейбуса , смонтированы остановки городского транспорта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "схемой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "переоборудована"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "троллейбусов"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

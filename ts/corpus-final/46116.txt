@@ -1,0 +1,25 @@
+{
+  "text": "Зданович отметил , что помощник Басаева охотно рассказываешь следователям о финансировании боевики , их контактах в России , в той числах в Москве , а также за рубежом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "рассказывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "боевиков"
+    }
+  ]
+}

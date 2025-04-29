@@ -1,0 +1,20 @@
+{
+  "text": "амбулатория помощь оказана 157 пострадафшим , 46 человек госпитализируемы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "Амбулаторная",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "пострадавшим",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

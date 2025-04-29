@@ -1,0 +1,25 @@
+{
+  "text": "Швейцария выдала Аргентины бразильского националиста Вилсона Роберто дос Сантоса , обвиняемого в дачей нежных показаний при расследовании обстоятельств взрыва в еврейаком центре в Буэнос-Айресе в 1994 году , когда погибли 86 человек , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Аргентине"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "даче"
+    },
+    {
+      "correctReplacement": "ложных",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "еврейском",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Повреждена автомобильная дорога , проходящая по недостроенного дамбе , связывающей Петербург и кронштейн Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "недостроенной"
+    },
+    {
+      "correctReplacement": "Кронштадт",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

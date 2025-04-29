@@ -1,0 +1,25 @@
+{
+  "text": "Кроме тем , генеральное директору НТВ предупредил , что \"Медиа-Мост\" может подать в суд на депутатов Госдумы , экс-премьера Виктора Черномырдина в связи с его высказываниями в адрес руководства холдинга .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "директор"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "депутата"
+    }
+  ]
+}

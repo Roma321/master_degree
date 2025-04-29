@@ -1,0 +1,30 @@
+{
+  "text": "В четвергом в США был арестую 43-лнтний Фред Молдофски , вызванный на прошлой неделе падение акций компании Lucent Technologies путем публикации фальшивой пресс-релиза на электронной \"доске объявлений\" Yahoo ! .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "вызвавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "фальшивого"
+    },
+    {
+      "correctReplacement": "43-летний",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

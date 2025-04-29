@@ -1,0 +1,35 @@
+{
+  "text": "В конвоя вошедшие 15 машин с грузу муки общего весом 230 бонн , 4 машины с продовольствием от организации \"Действие против голода\" п еще 6 грузовиков , присланных в рамках Международной продовольственной программы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "грузом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "общим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "конвой"
+    },
+    {
+      "correctReplacement": "тонн",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "При осмотре тела погибшего были найдены документы на имена 32-летней Григория Алоевича Байронянов , уроженца Армении .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "32-летнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "имя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Байроняна"
+    }
+  ]
+}

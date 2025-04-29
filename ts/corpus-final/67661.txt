@@ -1,0 +1,30 @@
+{
+  "text": "Боевики бали заранее проинформируем о время выезда кортежа из Грозного , но не рассчитали момент взрывом , отмечают военный разведчики .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "военные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "проинформированы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "времени"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

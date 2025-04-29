@@ -1,0 +1,20 @@
+{
+  "text": "Савчук сообщили , что подразделение УБЭП города Москвы за первые четыре месяца 2000 года возбудили 31 уголовное дело по фактам нарушения авторскмх и патентных прав .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "подразделения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "авторских",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

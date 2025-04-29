@@ -1,0 +1,30 @@
+{
+  "text": "Сейчас задержанный проверяется тагже на причастность к обстрелу американской посольств в марте прошлого года . определим после приезда генерального художественного директора Геннадия Рождественского , который в настоящее время дорабатывает по конструктам за рубежом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "американского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "посольства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "определены"
+    },
+    {
+      "correctReplacement": "контрактам",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

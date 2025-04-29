@@ -1,0 +1,25 @@
+{
+  "text": "По данным полиции , на оставлении откликнувшиеся пять человек Л",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "объявление"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "откликнулись"
+    },
+    {
+      "correctReplacement": "объявлении",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

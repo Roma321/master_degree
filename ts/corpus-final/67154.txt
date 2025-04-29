@@ -1,0 +1,25 @@
+{
+  "text": "При устранении последствий аварии танкеру в среднем течении Невы во внутренних водоёме Санкт-Петербурга было соберу 38 , 2 тонны водонефтяное смеси .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "танкера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "водонефтяной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "водоемах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "собрано"
+    }
+  ]
+}

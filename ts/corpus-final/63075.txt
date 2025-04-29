@@ -1,0 +1,20 @@
+{
+  "text": "Самолет должен был лететь в Бэлфастах , но в связи к обнаружившейся опасностью было принят решение попытаться совершить посадку в Ливерпуле .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Бэлфаст"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

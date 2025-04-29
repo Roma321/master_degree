@@ -1,0 +1,25 @@
+{
+  "text": "Публикация исходных тексты ОС - фактически беспрецедентный шаг в направлении создания и техподдержки коммерческой операционного системе , обладающей достоинствами некоммерческих аналогов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "операционной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "текстов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "системы"
+    },
+    {
+      "correctReplacement": "поддержки",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

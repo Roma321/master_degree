@@ -1,0 +1,25 @@
+{
+  "text": "К запланированной сроку (около 01 : 30 вторника по московскому времени) этому не произошёл , и шаттл остался на орбите до 24 октября .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "запланированному"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "этому",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

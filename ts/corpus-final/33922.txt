@@ -1,0 +1,25 @@
+{
+  "text": "По слова Клинтона , из-за высоких мировых цен на нефть и значительных холодов низкооплачиваемые групп населения испытывают сложности с приобретением мазута - расходы на него составляли от 200 до 300 долларов ежемесячный .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "составляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "ежемесячно",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Среди выводов , которые были сделан ГВП , оо отметило следующие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сделаны"
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

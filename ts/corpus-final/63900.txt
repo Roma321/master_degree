@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу он эаявил в зале суда , что приговоре юридически ничтожно и будет обжалован .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "приговор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ничтожен"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

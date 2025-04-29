@@ -1,0 +1,25 @@
+{
+  "text": "Со мнению журналистах , у Анны пустым пошаливают нервы , поскольку недавно ее дочь пострадал в автокатастрофе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "пострадала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "просто",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

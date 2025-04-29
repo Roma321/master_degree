@@ -1,0 +1,25 @@
+{
+  "text": "Последний раз выборы мэра Владивостока проходим 27 сентябре 1998 года и были признаем несостоявшимися , так как более половины вологжан проголосовали против всех кандидатов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "признаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сентября"
+    },
+    {
+      "correctReplacement": "горожан",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

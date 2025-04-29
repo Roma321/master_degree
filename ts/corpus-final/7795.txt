@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю агентство РИА \"Новости\" со ссылкой на источник в лондонском сить , закрытие отделений станет компонентом более широких программы по реструктуризации деятельности банка .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "источники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "широкой"
+    },
+    {
+      "correctReplacement": "Сити",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

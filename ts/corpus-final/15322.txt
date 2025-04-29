@@ -1,0 +1,20 @@
+{
+  "text": "Каждое третьи дело о бандитизме было возвращено судами на доследование , а из 47 преданных суду за бандитизмы ишь 18 человек признаны виновными в совершении этого преступления .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "третье"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "бандитизм"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , Украина сало третьей страной в мире после Пакистана и Эгвадоре , не вернувшей еврокредитов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Эквадора"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "стала"
+    },
+    {
+      "correctReplacement": "стало",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Эквадоре",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

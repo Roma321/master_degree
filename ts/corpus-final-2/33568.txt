@@ -1,0 +1,20 @@
+{
+  "text": "Наиболее вероятной причине пожара представитель даминистрации лагеря считают неосторожное обращенре кого-то из переселенцев с огнем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "представители"
+    },
+    {
+      "correctReplacement": "обращение",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

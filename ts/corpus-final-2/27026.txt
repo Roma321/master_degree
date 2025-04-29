@@ -1,0 +1,35 @@
+{
+  "text": "Согласно опросам общественного мнения , пока что у Хиллари Клинтон больше шансов попасть в сенат чем у Рике Лацио : 52 процента опросим заявленные , что целостное проголосовали за неё .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Рика"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "проголосуют"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "нее"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "опрошенных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "заявили"
+    },
+    {
+      "correctReplacement": "вероятно",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

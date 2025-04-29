@@ -1,0 +1,30 @@
+{
+  "text": "Будут показаны самые разные фильмы американских экспериментаторов - Майи Дерен , Йонаск Мекаса , Кеннетов Энгера , Ширли Кларку и многих друганных режиссеров , сообщаю информационное агентство Intermedia .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Кларк"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Кеннета"
+    },
+    {
+      "correctReplacement": "других",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "Йонаса",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

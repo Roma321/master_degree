@@ -1,0 +1,20 @@
+{
+  "text": "Иваненко сказавший , что во вторник для утверждения в Генеральное прокуратуру поступило обвинительное заключение по уголовному делу в сношении Чигиря .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Генеральную"
+    },
+    {
+      "correctReplacement": "отношении",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

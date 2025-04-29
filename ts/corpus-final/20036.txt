@@ -1,0 +1,20 @@
+{
+  "text": "По информации сотрудников сервиса , в цехах находилось более 50 балло с пропаном м ацетиленом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "баллонов"
+    },
+    {
+      "correctReplacement": "баллона",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

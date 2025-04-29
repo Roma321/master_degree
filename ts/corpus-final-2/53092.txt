@@ -1,0 +1,30 @@
+{
+  "text": "Пользователи Сети смогли круглосуточно наблюдать за районами , где ранее находим отпечатками ног сшежного человека и другие признаки его присутствия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ноги"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "находили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "отпечатки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "смогут"
+    },
+    {
+      "correctReplacement": "снежного",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

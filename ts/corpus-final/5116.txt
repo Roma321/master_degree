@@ -1,0 +1,25 @@
+{
+  "text": "Их примеру последовавший датский Central Bank of Denmark , который повысивший ключевую ставку на 0 , 45 процента до 3 , 3 процента (первый раз за период более года) , а также дисконтную ставку на 0 , 25 процента до 3 процесов годовым .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "повысил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "годовых"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "последовал"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 41
+    }
+  ]
+}

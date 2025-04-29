@@ -1,0 +1,35 @@
+{
+  "text": "По его словам , ОПЕК уже четыре раз открывала свои нефтяной краны и выбросившая на мировые рынки долее 4 миллионов барреля нефтей в день дополнительно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "раза"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выбросила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нефтяные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "баррелей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

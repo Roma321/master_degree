@@ -1,0 +1,30 @@
+{
+  "text": "Владимир Путин и Михаил Касьянов рассмотрим также ситуацию с исполнением федерального бюджет за февраль и признавшие ех \"весьма удовлетворённой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "признали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "рассмотрели"
+    },
+    {
+      "correctReplacement": "удовлетворительной\"",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "ее",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

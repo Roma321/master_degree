@@ -1,0 +1,30 @@
+{
+  "text": "Агентство Associated Press напоминаешь , что эта ситуация весьма похожм на аварию 1995 году , когда в жилой квартал около гватемальской аэропорта врезался грузовой самолёты и погибли 6 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "самолет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "гватемальского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "correctReplacement": "похожа",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "4 сентябрей 1998 года на улице Пархоменко в Махачкале прогремел взрыв , в результате которого 18 человек погиб , 91 канувшую , разрушено 28 домов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сентября"
+    },
+    {
+      "correctReplacement": "раню",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

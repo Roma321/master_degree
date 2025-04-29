@@ -1,0 +1,25 @@
+{
+  "text": "Ожидаются , передают РИА \"Новости\" , что нерезидент США обратится калбанским лидерам с призывом отказаться от этнического ненависти - придавэтому , как он заявил накануне в Софии , особое значение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "этнической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

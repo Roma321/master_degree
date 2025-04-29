@@ -1,0 +1,20 @@
+{
+  "text": "Числа заболевших дыстро увеличивавшееся : еще в среду оно составляло 90 человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "увеличивалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Число"
+    },
+    {
+      "correctReplacement": "быстро",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

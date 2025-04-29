@@ -1,0 +1,20 @@
+{
+  "text": "Заявление подано против каспийского сайта \"Русский музыкального портащ\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "музыкальный"
+    },
+    {
+      "correctReplacement": "российского",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "портал\"",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

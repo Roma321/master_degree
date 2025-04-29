@@ -1,0 +1,25 @@
+{
+  "text": "На прошлых выборах , сообщаю Reuters , 54 процента женщины проголосуем на демократа Билла Клинтона и всего лишь 39 процентов отдали свои голоса за кандидата от республиканцев Бобов Доула .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "женщин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "Боба"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "проголосовали"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Тела двух убежавших из подмосковную воинской части дезертиров были обнаружены в 20 : 30 в воскресенья в одной из гаражных кооперативов под город Иваново .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "подмосковной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "городом"
+    }
+  ]
+}

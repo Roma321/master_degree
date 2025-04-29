@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва и последовавшего перестрелки погибафшие двое бойцов , еще семеро получили ранения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "последовавшей"
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "погибавшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В минувшую среду состоялось 14 товарищеских матчей , в которых принятые участия футбольные скорые европейских стран , в том числе - сборные , которым летом предстоят принять участие в чемпионате континента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "участие"
+    },
+    {
+      "correctReplacement": "сборные",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

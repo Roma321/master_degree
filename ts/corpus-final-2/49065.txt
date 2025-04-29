@@ -1,0 +1,25 @@
+{
+  "text": "Специальной премии - \"За поддержку театрального искусства России\" - удостоены губернатор Иркутской области Борис Гоморины и производителе балетных костюмов и обуви Николай Гришки , президент фирмы \"Гришко\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Говорин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "производитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Гришко"
+    },
+    {
+      "correctReplacement": "Говорины",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

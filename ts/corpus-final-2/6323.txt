@@ -1,0 +1,25 @@
+{
+  "text": "Вице-премьер прокомментировал появившиеся в СМИ сообщения о якобы имеющихыя платах правительств увеличить ставку подоходный налога , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "подоходного"
+    },
+    {
+      "correctReplacement": "планах",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "имеющихся",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

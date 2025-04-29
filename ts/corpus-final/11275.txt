@@ -1,0 +1,30 @@
+{
+  "text": "Пока особыми спросом виртуальное кладбище не пользуешься : с понедельника , когда оно было представившее на еукцион , поступила одно единственная заявка на покупку проекта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "особым"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "представлено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "пользуется"
+    },
+    {
+      "correctReplacement": "аукцион",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Левые , социалистическое правительство Франции натолкнулась на противодействие рабочих и профсоюзов , когда пугалось ввёдшие в стране 35-часовую рабочую неделю вместо 39-часовой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "ввести"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "натолкнулось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Левое"
+    },
+    {
+      "correctReplacement": "попыталось",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

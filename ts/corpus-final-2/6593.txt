@@ -1,0 +1,30 @@
+{
+  "text": "Прибывшие на помощь дополнительные силы полиций осматривают окрестности в поисках других полицейских из отряда , защищавшего город , однако вероятности тех , что они останемся в живых , большой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "остались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "вероятность"
+    },
+    {
+      "correctReplacement": "невелика",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

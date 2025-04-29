@@ -1,0 +1,25 @@
+{
+  "text": "Так как для западного Иетернета подобные сервисы не в новинки , только что анонсированная новый проект компании Kodak SnapFish отличающийся от всех предыдущих тем , что предлагает полный спектр услуг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "новинку"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "анонсированный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "отличается"
+    },
+    {
+      "correctReplacement": "Интернета",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Член Совета Федерации могут быть отобравший , есши за это проголосуют две трети депутатов местной законодательного органа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "отозван"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "местного"
+    },
+    {
+      "correctReplacement": "отозвавший",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "если",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

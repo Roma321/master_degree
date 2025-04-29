@@ -1,0 +1,25 @@
+{
+  "text": "Кроме всё прочего , надзирающая чиновник запретил Митнику публично высказываться или писать обо всем , что связано с высоким технологиями , и заниматься любой деятельностью , которая могло бы дать ему доступ к компьютеру .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "надзирающий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "могла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "высокими"
+    }
+  ]
+}

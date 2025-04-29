@@ -1,0 +1,25 @@
+{
+  "text": "Он опознал в стрелявшей своего бывшем охноклассника магомета Цагораева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "стрелявшем"
+    },
+    {
+      "correctReplacement": "Магомеда",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "одноклассника",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

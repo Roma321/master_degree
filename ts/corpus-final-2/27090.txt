@@ -1,0 +1,20 @@
+{
+  "text": "В отсутствие свидетельских показания и товарных чеков экспертная производиться не будет , предупреждают на сайте корпорацией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "показаний"
+    },
+    {
+      "correctReplacement": "экспертиза",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

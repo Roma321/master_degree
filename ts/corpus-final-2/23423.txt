@@ -1,0 +1,20 @@
+{
+  "text": "Президент Путин говорённый , ато свободное пресса - ключ к здоровому обществу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "свободная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "говорил"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

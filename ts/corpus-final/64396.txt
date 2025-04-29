@@ -1,0 +1,25 @@
+{
+  "text": "В минувшее воскресенья в 12 : 40 кисели Каширского шоссе позвонили в милицию и сообщили оо обнаружении склада оружии и боеприпасов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "оружия"
+    },
+    {
+      "correctReplacement": "жители",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

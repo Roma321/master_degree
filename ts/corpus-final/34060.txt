@@ -1,0 +1,15 @@
+{
+  "text": "Сразу после вылета пилот сообщило о технических неполадках и запросил экстренная посадку на том же аэродроме .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "экстренную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    }
+  ]
+}

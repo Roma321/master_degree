@@ -1,0 +1,25 @@
+{
+  "text": "По ставке 35 , 6 процента будут облагаться годовые доходы , выплачиваемые ратникам в объеме до 100 000 рублей , по ставкам 20 процентов - от 100 001 рубля до 300 000 рублей , 10 процентов - от 300 001 рубля до 600 000 руолей , 5 процентов% - свыше 600 000 рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "ставке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "работнику"
+    },
+    {
+      "correctReplacement": "работникам",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "typo",
+      "wordNumber": 44
+    }
+  ]
+}

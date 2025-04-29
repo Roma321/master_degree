@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , необходимо учитывать , что в Россию куришь около 30 процентов населения , или около 45 миллионов человек , а среднегодовая потребность жителей России в табачных изделиях , как утверждаем экслеры , - до 320 миллиардов сигарет .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "курит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "эксперты",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

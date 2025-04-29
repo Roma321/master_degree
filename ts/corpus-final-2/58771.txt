@@ -1,0 +1,25 @@
+{
+  "text": "Ранее телеканал Channel 2 распространённый информацию о той , что бывший глава администрации Барака Хаим Мандели-шакед от имени многих влиятельных лиц из окружения главы правительства обратился к тому с просьбой отступитбся \"во имя мира\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "распространил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Мандель-Шакед"
+    },
+    {
+      "correctReplacement": "отступиться",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

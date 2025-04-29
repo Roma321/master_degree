@@ -1,0 +1,20 @@
+{
+  "text": "Сама будущий кандидаты в президенты России Джабраилов во время пресс-конференции находился в задних рядах зала и не отвечало на вопросы журналистов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "отвечал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "кандидат"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Согласно опросу RIAA , 22% пользователей Napster проигрались , что стали покупать меньше CD из-за использования возможностях Интернетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "возможностей"
+    },
+    {
+      "correctReplacement": "признались",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По решению суда , Бондаренко признан виновной в организации должностного подлога и приговорён к трем годам лишения свободы , однако освобождена \"за истечением срока давности\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "виновным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "освобожден"
+    }
+  ]
+}

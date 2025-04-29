@@ -1,0 +1,20 @@
+{
+  "text": "В марте странице ОПЕК договоримся увеличить нефтедобычу , чтобы несколько снизить цены , которые превышали в начале марта 30 долларов баррель .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "договорились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "стране",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

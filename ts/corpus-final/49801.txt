@@ -1,0 +1,35 @@
+{
+  "text": "Во вторник , 4 апреля , в Итум-Калинском району освободим два заложника , которые находифшиеся в плену 11 лет - с 1989 год , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "освобождены"
+    },
+    {
+      "correctReplacement": "находившиеся",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Еще двух участника беседы , представитель главы Чечни при нерезидентах РФ Шамиль Бено и главы Госсовета ЧР Малик Сайдуллаев , выступили за то , чтобы выстроить в республике \"жесткую вертикаль справедливой власти\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "глава"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "президенте"
+    },
+    {
+      "correctReplacement": "президентах",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

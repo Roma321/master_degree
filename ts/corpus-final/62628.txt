@@ -1,0 +1,20 @@
+{
+  "text": "В результате обстрела пять бойца месткого отряда ополчения получили осколочные ранения различного степени тяжести .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "бойцов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "различной"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В та же день указом петина начальника Управления президентарфе по вопросам внутреннего политики назначен Андрей Поповы , сообщает РИА \"Новости\" со ссылкой на пресс-службу Кремля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "президентаРФ"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "внутренней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Попов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "начальником"
+    },
+    {
+      "correctReplacement": "Путина",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

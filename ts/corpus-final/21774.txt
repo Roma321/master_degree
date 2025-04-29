@@ -1,0 +1,20 @@
+{
+  "text": "Хинштейн предъявил служебное удостоверение за номером 03726 , выдавшее на имя сотрудника Управления уголовной розыска ГУВД столицы Александра Матвеева ст своей фотокарточкой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выданное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "correctReplacement": "со",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

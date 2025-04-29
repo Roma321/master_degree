@@ -1,0 +1,25 @@
+{
+  "text": "Большая часть капитала бак , составляющего милжиард франков , принадлежишь Банку Россия .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "банка",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "миллиард",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

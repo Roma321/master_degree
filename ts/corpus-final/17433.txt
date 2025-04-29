@@ -1,0 +1,25 @@
+{
+  "text": "В минувший четверг рано утром в Калининграде неизвестное при помощи трактора вывалил около двух тонн экскременты на крыльцо здания областной Думы , расположу на улицах Кирова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "неизвестный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "улице"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "экскрементов"
+    }
+  ]
+}

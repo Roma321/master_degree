@@ -1,0 +1,30 @@
+{
+  "text": "Во время сделке , умозаключение которой происходило вблизи кинотеатра \"Аврора\" , всех пятерых участника незаконных бизнеса с поличным задержали сопрудники ФСБ и милиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "незаконного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сделки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "участников"
+    },
+    {
+      "correctReplacement": "заключение",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "сотрудники",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

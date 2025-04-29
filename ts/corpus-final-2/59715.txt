@@ -1,0 +1,20 @@
+{
+  "text": "Всего Шипман подозревается в убийство около 300 люди , но рагее удалось доказать лишь его непосредственное участие в смерти 15 пациенток .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "убийстве"
+    },
+    {
+      "correctReplacement": "ранее",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

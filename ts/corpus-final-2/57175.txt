@@ -1,0 +1,35 @@
+{
+  "text": "Жана-кристофа Миттераны категорически отрицаешь своё участие в незаконного сделках , хотя и признал , что на один из его жвейцарских счетов было переведено 13 миллионов франков (1 , 8 миллионов долларов США) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "незаконных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Миттеран"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "отрицает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Жан-Кристоф"
+    },
+    {
+      "correctReplacement": "швейцарских",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

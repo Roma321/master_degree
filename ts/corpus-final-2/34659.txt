@@ -1,0 +1,30 @@
+{
+  "text": "Пока Лайза лржала в больнице , сестре говорили по телефону , и обеих присланный к выводу , что пора помирившиеся .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "пришли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "помириться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "сестры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "обе"
+    },
+    {
+      "correctReplacement": "лежала",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

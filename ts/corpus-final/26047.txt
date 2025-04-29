@@ -1,0 +1,20 @@
+{
+  "text": "Там же находится главный претендентом на президентское пост , мэр Буэнос-Уйреса Фернандо де ла Руа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "претендент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "президентский"
+    },
+    {
+      "correctReplacement": "Буэнос-Айреса",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

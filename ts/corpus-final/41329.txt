@@ -1,0 +1,25 @@
+{
+  "text": "Глава российское правительства высказавшийся за создание единого банка данных СНГ по терроризмам и террористическим группировкам , а также источникам их финансировании , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "финансирования"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "высказался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "российского"
+    },
+    {
+      "correctReplacement": "террористам",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

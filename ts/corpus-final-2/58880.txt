@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь CNN , появлению нового памятника предшествуем шестилетняя борьба между родственниками бывшего президента и сторонниками исторической справедливостей Ю",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "предшествовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "справедливости"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

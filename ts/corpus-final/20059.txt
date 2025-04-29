@@ -1,0 +1,20 @@
+{
+  "text": "Как стал известно , 1 сентября , когда появились первые сообщения о начафшем полицией расследовании , Нетаниягу встречался с Амеди .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "начатом"
+    },
+    {
+      "correctReplacement": "начавшем",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

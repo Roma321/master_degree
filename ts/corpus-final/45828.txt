@@ -1,0 +1,30 @@
+{
+  "text": "В районах Чечни , граеичащих с Дагестаном , создано множество тайных складов , где боевиков пополняют запасы возложений и боеприпасов , отметившие военные .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "вооружения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "отметили"
+    },
+    {
+      "correctReplacement": "вооружений",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "граничащих",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

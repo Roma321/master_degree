@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее время фондами обязательного медицинского требования прорабатывался вопрос об участия в платежах частей населения , не занятого на производстве , включая детей и учащихся .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "фондом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "прорабатывается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "части"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "участии"
+    },
+    {
+      "correctReplacement": "страхования",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

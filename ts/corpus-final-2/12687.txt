@@ -1,0 +1,30 @@
+{
+  "text": "Во вторник , 22 августа , примерно в 12 : 20 по московской времени , в Болотнинском районе Новосибирской области при проведение ремонтного работ на вторлй ветке магистрального нефтепровода Омск-Иркутск разорвался поперечный шов трубы , сообщим РИА \"Новости\" в пресс-службе МЧС России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 35,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "ремонтных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "проведении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "московскому"
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

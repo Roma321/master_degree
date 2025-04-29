@@ -1,0 +1,25 @@
+{
+  "text": "Военное руководство России располагает данными о намерения боевика осущездвить террористические акты и диверсии по случаю так называющего Дня независимости Ичкерии , приходящегося на 6 августа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "называемого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "намерениях"
+    },
+    {
+      "correctReplacement": "осуществить",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

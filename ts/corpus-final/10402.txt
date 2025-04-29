@@ -1,0 +1,20 @@
+{
+  "text": "Получить заказ можно любый удобным способом : по факсом , по электронной или обычной почте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "факсу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "любым"
+    },
+    {
+      "correctReplacement": "любой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщивший журналистам в понедельник после встречи с президентом минивтра торговли и экономического развития Герман Греф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "министр"
+    },
+    {
+      "correctReplacement": "министра",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

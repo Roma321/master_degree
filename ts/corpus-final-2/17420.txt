@@ -1,0 +1,20 @@
+{
+  "text": "Это потдверждённый журналистам на состоявшейся в понедельник , 11 сентября , пресс-конференции сами президент Грузии Эдуард Шеварднадзе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "подтверждённый",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

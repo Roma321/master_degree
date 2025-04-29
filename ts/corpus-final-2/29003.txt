@@ -1,0 +1,25 @@
+{
+  "text": "В понеделоник Мосгорсуд отложил на неопределённое время начало судебное процесса по уголовном делу экс-министра юстиции РФ Валентина Ковалева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "уголовному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "неопределенное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "судебного"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В среду Палата представителях Конгресса США проголосовал за частичного отмену экономиыеских санкций против Кубы , введенных в начале 60-х годов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "проголосовала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "частичную"
+    },
+    {
+      "correctReplacement": "экономических",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

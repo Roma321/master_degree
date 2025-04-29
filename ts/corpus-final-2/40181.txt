@@ -1,0 +1,25 @@
+{
+  "text": "Посетитель сайт видимый на экране точную копию бюллетеня , который образумившие на своих избирательных участках жители округа Палм-Бич , пришедшие 7 ноября выбрать новой президента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "видит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сайта"
+    },
+    {
+      "correctReplacement": "обнаружили",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

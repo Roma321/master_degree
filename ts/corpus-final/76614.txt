@@ -1,0 +1,25 @@
+{
+  "text": "меньшинство туристами покидают курорты в опасной зоне , однако местные жители остаюгся : по их мнению , ураганом будет не таким уж страшным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "туристов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "ураган"
+    },
+    {
+      "correctReplacement": "Большинство",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "остаются",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

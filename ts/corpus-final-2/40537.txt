@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данным , в четырех районах округа из шести он набравший от 50 до 60 процентов голосов избипателей , а в остальных двух делю лидерство с другим кандидатом в губернаторы - своим бывшим заместителем Кузьмами Алдаровым .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "набрал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "Кузьмой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "делит"
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

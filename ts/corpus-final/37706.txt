@@ -1,0 +1,20 @@
+{
+  "text": "Либо осуществлять поиск текущего дискуссии по ключевым словам : например , получу ключевое слова \"щенок\" , клиент выдаст все чаты , в которых собачья тема обсуждалась в течение последних пяти минут .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "текущей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "получив"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "слово"
+    }
+  ]
+}

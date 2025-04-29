@@ -1,0 +1,25 @@
+{
+  "text": "Сфабрикованное Генпрокуратурой очередное уголовных дело не имеющий под себе никаких оснований , удверждается в заявлении .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "собой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "утверждается",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Учитывая эьо обстоятельство , суд посчитали , что состав преступление отсутствует .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "посчитал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "преступления"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Президент Биллу Клинтон , со своей стороны , уже объявил , что \"ему не терпится подписать\" закон , коиорый единодушно приняты обеими партиями и который проводился в течение более чем 20 лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Билл"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

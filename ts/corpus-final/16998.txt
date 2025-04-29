@@ -1,0 +1,25 @@
+{
+  "text": "Банки отрицаешь , что его уход из России связавший со скандалом в британских СИИ , опубликовавших сообщения об отмывании \"грязных\" российских денег через его счета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "связан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "отрицает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Банк"
+    },
+    {
+      "correctReplacement": "СМИ",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

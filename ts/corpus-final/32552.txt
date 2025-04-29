@@ -1,0 +1,30 @@
+{
+  "text": "Прибывшие на указанный место сотрудник подразделения Дальневосточного регионального центра по делам гражданской оборон , чрезвычайных ситуаций и ликвидации посредств стихийных бедствий установили , что бомбы , видимо , лежит здесь давно , поскольку наполовину заглублены в грунт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "обороны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "указанное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "лежат"
+    },
+    {
+      "correctReplacement": "последствий",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

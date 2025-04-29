@@ -1,0 +1,25 @@
+{
+  "text": "Накануне население Шали сообщило командованию федералов , что боевиков изгнаны из населённого пункта , однако до настоущих времени российские войска не входили в город .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "настоящего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "боевики"
+    },
+    {
+      "correctReplacement": "настоящих",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

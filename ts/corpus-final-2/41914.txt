@@ -1,0 +1,15 @@
+{
+  "text": "Врачи Артема не получали заплатку уже четырём месяца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "четыре"
+    },
+    {
+      "correctReplacement": "зарплату",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

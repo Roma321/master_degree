@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , за установке фугаса некто Равиль Салимоф заплатил ему 1000 долларах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "установку"
+    },
+    {
+      "correctReplacement": "Салимов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По мнению защиты , прокурор не могло быть объективен в ходе судебным заседание , и все материалы , полученные в рамках дела на стадии судебного слушания , \"не имеют юридического силы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "судебного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "мог"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "юридической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "заседания"
+    }
+  ]
+}

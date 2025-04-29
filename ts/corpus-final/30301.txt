@@ -1,0 +1,20 @@
+{
+  "text": "Двое , по удверждению врачей , по-прежнему находятся в крайне тяжёлых состояние .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "состоянии"
+    },
+    {
+      "correctReplacement": "утверждению",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

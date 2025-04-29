@@ -1,0 +1,25 @@
+{
+  "text": "Согласно исследованиям , проведённым в 10 отрасли промышленного производства , McKinsey пришла к выводу , что экономический потенциал России претполагаю возможность достижения устойчивого прироста ВВП в размере 8% ежегодно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведенным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "отраслях"
+    },
+    {
+      "correctReplacement": "предполагаю",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

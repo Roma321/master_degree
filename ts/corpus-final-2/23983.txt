@@ -1,0 +1,20 @@
+{
+  "text": "Главной роль в фильма будет играть Джереми Дэвис , известнчй по фильму \"Спасти рядового Райана\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Главную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "фильме"
+    },
+    {
+      "correctReplacement": "известный",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

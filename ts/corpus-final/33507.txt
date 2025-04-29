@@ -1,0 +1,25 @@
+{
+  "text": "В начале февраля российский танкер был задержавший американскими ВМС по подозрениям в транспортировках иракской невшей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "транспортировке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "подозрению"
+    },
+    {
+      "correctReplacement": "нефти",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

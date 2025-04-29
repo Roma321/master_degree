@@ -1,0 +1,20 @@
+{
+  "text": "\"Я сожалею , что не смош показавшие зрителям большему , но я старался изо всех сил\" , заявил семикратный победитель Уимблдона на церемонии награждения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "показать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "большего"
+    },
+    {
+      "correctReplacement": "смог",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

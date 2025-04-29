@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , соответствующие предложение комиссия готова внести на заседание палаты 26 июля . дполагала действовать в одностороннем непорядках , однако эти планы встретили возражения в ОПЕК , в частности у Иранов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "соответствующее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "Ирана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "порядке"
+    },
+    {
+      "correctReplacement": "порядках",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

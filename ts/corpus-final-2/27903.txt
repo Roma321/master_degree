@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что с помощью такого атаки в феврале были блокированы сайты Yahoo , eBay , СNN и других компань .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "таких"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "атак"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

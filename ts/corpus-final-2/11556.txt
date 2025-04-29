@@ -1,0 +1,25 @@
+{
+  "text": "ростовский экспорт в Германию составлю 18 , 5 миллиарда немецкого марок , а импорт ожидался в размере 11 , 1 миллиарда марок .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "немецких"
+    },
+    {
+      "correctReplacement": "Российский",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

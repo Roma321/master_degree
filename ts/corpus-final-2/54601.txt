@@ -1,0 +1,25 @@
+{
+  "text": "По словам суидетелей случившегося , сразу после перестрелки люди выскочившие из машины и скроемся в неизвестной направлении .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выскочили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "неизвестном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "скрылись"
+    },
+    {
+      "correctReplacement": "свидетелей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

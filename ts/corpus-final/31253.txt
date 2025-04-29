@@ -1,0 +1,40 @@
+{
+  "text": "Кроме расследованием преступлений Абачи , нигерийские власти вели переговоры с Международным валютным фондами об освобождении страны от значительном части внешнего долга , который составляешь 30 миллиардов доллароф , сообщающий CNN .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "фондом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "ведут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "расследования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "значительной"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

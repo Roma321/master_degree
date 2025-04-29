@@ -1,0 +1,30 @@
+{
+  "text": "Рушайло заявил , что в ближайшее время планируешься совместная командировка членов Совет безтпасности на Северный Кавказы ; ее цель - оказание помощи школам , учреждениям здравоохранения и другим социальным объекту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "объектам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Кавказ"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Совета"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

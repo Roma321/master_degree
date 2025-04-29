@@ -1,0 +1,25 @@
+{
+  "text": "Необходимо срочно изыскать хотя бы 42 миллиона , чтобы включившие в домах горячую воды , откллченную на плановой профилактику .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "плановую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "воду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "включить"
+    },
+    {
+      "correctReplacement": "отключенную",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что в настоящее время группа российских экспертов нахожусь в сушащие в командном центре в Колорадо , где во вторники начался их совместный с американскими специалистами трехнедельный мониторинк возможных сбоев в области ядерного вооружения , вызванных \"проблемой-2000\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "мониторинг",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

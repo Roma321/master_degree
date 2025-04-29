@@ -1,0 +1,30 @@
+{
+  "text": "Грыу также сообщу , что после формирования новой правительства в Москву отправится ещё одно шелегация .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "делегация",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

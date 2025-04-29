@@ -1,0 +1,25 @@
+{
+  "text": "История , случившийся с Тарбокс пять лет назад , считается первой случаем подобного интернет-преступления , и потому книга устала бестселлерами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "первым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "бестселлером"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "случившаяся"
+    },
+    {
+      "correctReplacement": "стала",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "К концу прошлой недели стоимость экспортной нефти Urals достигнутая отметки 28 , 5 доллара за баррель , более качественной Siberian Light - , 30 , 3 доллароф за барель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "доллара"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

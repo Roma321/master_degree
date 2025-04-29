@@ -1,0 +1,25 @@
+{
+  "text": "Чисто военного операции , подчеркнувший он , действительнореально завершить \"в ближайшее время , дальше должны действоватьспецслужбы , включать такие элитные подразделения , как \"Альфа\" , спецназ , ГРУ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "военную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "операцию"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

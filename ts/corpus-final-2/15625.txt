@@ -1,0 +1,25 @@
+{
+  "text": "По данным Романова , старому руковотздвом завода с \"Кристалла\" было вывезено большое количество продукцией , стоимости которой \"измеряется семизначными цифрами\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "стоимость"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "продукции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "старым"
+    },
+    {
+      "correctReplacement": "руководством",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

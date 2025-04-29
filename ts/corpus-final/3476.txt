@@ -1,0 +1,25 @@
+{
+  "text": "В карманах убитой оперативники нашли кипу квитанций об обмкнах валюты , а также доллары , марки и драмой (армянские деньги) различного достоинства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "убитого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "драмы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "обмене"
+    },
+    {
+      "correctReplacement": "обменах",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

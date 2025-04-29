@@ -1,0 +1,25 @@
+{
+  "text": "В беседе с российскими журналистами в Нью-Йорке Игорь Иванов сообщила , чоо жестко поставивший этот вопрос во время встречи в понедельнику с Генеральным секретарем ООН Кофи Аннаном .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "поставил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

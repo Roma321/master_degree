@@ -1,0 +1,25 @@
+{
+  "text": "Передовые колонны западную и восточной группировки федералов находитесь друг от друга на расстояниях 30 километров пб трассе Ростов-Баку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "западной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "расстоянии"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

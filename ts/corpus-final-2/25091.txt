@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник Военное суд Азербайджана по делам о тяжкмх преступлении приговорённый к пожизненному заключению лидера радикальной исламистской организации \"Армия Аллаха\" Мубариза Алиева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Военный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "преступлениях"
+    },
+    {
+      "correctReplacement": "тяжких",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

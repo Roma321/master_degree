@@ -1,0 +1,20 @@
+{
+  "text": "Об этом в четаерг на совещании работников органов казначейства заявило председателя Счетной палаты Сергей Степашин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "председатель"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомнят , что ранее избирательная комиссмя Таганрога отказала Михайлову в дегустаций в качества кандидата в Госдуму России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "качестве"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "регистрации"
+    },
+    {
+      "correctReplacement": "регистраций",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "комиссия",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

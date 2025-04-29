@@ -1,0 +1,20 @@
+{
+  "text": "Врачи сообщили , что ему была оказаны медицинская помощь , однако комментировать его состояния отказабись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "оказана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "состояние"
+    },
+    {
+      "correctReplacement": "отказались",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

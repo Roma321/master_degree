@@ -1,0 +1,25 @@
+{
+  "text": "Раков утверждаер , что пограничника разрешила ему подержать автомат , а выстрелу произошел случайно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "разрешил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "выстрел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пограничник"
+    },
+    {
+      "correctReplacement": "утверждает",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

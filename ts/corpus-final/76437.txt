@@ -1,0 +1,25 @@
+{
+  "text": "В письме депутаты обращающие внимание на то , что РАО в настоящему бремя является \"успешно действующим предприятием России , существенно увеличившим после приматизации объем производства и расширившим свою долю на мировом рынке\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обращают"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "приватизации",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "У московских властей уже едящие опыт такое родов : в прошлой году аналогичной операции был подвергнут Андреевский железнодорожный мост , напоминает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "такого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "рода"
+    }
+  ]
+}

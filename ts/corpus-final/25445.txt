@@ -1,0 +1,25 @@
+{
+  "text": "Судебный процесс над павшим премьер-министром Беларуси Михаилом Чигирь начинаешься в среду в городской суде Минска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Чигирем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "начинается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "городском"
+    },
+    {
+      "correctReplacement": "бывшим",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

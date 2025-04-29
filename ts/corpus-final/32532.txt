@@ -1,0 +1,30 @@
+{
+  "text": "Сайт lujkov . ru был удален из баз РосНИИРОС , где ведаемые регистрациями домены зоны Ru , и в перерегистрации этого домена было отказана , поскольку РосНИИРОСу не были представлены паспортные данные предполагаемого администратора сайта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "ведают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "базы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "отказано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "доменов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "регистрацией"
+    }
+  ]
+}

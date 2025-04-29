@@ -1,0 +1,20 @@
+{
+  "text": "Представитель Скотланд-ярду заявил : \"Иы просто шокированы подобного практикой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Скотланд-Ярда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "подобной"
+    },
+    {
+      "correctReplacement": "\"Мы",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

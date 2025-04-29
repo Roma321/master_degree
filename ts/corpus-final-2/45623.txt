@@ -1,0 +1,25 @@
+{
+  "text": "Для помады в первом тура кандидат должен набрать не менее 25 процентов голосов от об общей числа , принятых участие в выборах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "туре"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "общего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "принявших"
+    },
+    {
+      "correctReplacement": "победы",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

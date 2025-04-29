@@ -1,0 +1,15 @@
+{
+  "text": "Сейчас в суде рассматриваются материалы этого уголовном дкла .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

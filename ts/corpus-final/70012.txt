@@ -1,0 +1,30 @@
+{
+  "text": "Народное депутата , лидеры партии \"Громада\" , павший руководитель фракции этой партии в парламенте Украины , экс-премьер-министр Павел Лазаренко в начале сентября обратился с ходатайздвом к Верховной Раде Украины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Народный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "лидер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "депутат"
+    },
+    {
+      "correctReplacement": "бывший",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "ходатайством",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

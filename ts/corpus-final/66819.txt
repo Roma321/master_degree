@@ -1,0 +1,30 @@
+{
+  "text": "\"Пб крупицам мы начинаю собирать духовность нашей великого культуры , и сегодняшнее событие лишь частичка этного большого и длительного процесса\" , - отметил на церемонии открытия памятника президент Российского Фонда культуры Никита Михалкову .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "великой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Михалков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "начинаем"
+    },
+    {
+      "correctReplacement": "этого",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "\"По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

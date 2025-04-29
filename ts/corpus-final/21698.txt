@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , программе DeCSS была создано норвежскими программистами в процессе написания DVD-плейера для операционной системы Linux - в одном из плейеров под Windows обнаружился незашифрованный клич для расшифровки ключа , помещенного на любой DVD и блокирующего копирование .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "программа"
+    },
+    {
+      "correctReplacement": "ключ",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

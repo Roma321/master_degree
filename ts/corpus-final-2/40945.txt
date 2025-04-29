@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , подтвержденным празлно Максачевым , человек , представлюсь той генерал-лейтенантом ГРУ и первым заместителем нового губернаторов Курской области Василием Олейниковым , пытался с помощью избиений добиться от Максачева неких показаний против Руцкого .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "представившийся"
+    },
+    {
+      "correctReplacement": "позже",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "праздно",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

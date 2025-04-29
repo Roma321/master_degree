@@ -1,0 +1,20 @@
+{
+  "text": "Корабль доставивший на станцию 2 , 4 тонны груза , основную часть которого составляют горючее (1 , 5 тонны) , а такое научное оборудование .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "доставил"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

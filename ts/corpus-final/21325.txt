@@ -1,0 +1,30 @@
+{
+  "text": "Ответчики заявляют в суою защиту , что эту утилите была создам на основе нормальной обратной технологии , и , следовательно , ее создание не являюсь незаконным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "утилита"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "эта"
+    },
+    {
+      "correctReplacement": "свою",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

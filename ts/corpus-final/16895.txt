@@ -1,0 +1,20 @@
+{
+  "text": "По мнению специалистов , рассол очень полезном напиток - в нем содержатся молочную кислота и соль , которые спосшбствуют борьбе с похмельем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "молочная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "полезный"
+    },
+    {
+      "correctReplacement": "способствуют",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

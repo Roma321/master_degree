@@ -1,0 +1,25 @@
+{
+  "text": "По мнению спецпалистов , все этим обстоятельства могут весьма негативно сказаться на предвыборной кампании мэра Нью-йорке , к тому же он сам заявил , комментируя своему развод , что \"политика его сейчас особенно не волнует\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Нью-Йорка"
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

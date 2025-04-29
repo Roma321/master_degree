@@ -1,0 +1,25 @@
+{
+  "text": "Неизвестный электронного вирус в среду утром поразила компьютерные истомы многих владивостокских средств массовую информации , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "массовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "электронный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "поразил"
+    },
+    {
+      "correctReplacement": "системы",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

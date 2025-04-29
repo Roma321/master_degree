@@ -1,0 +1,40 @@
+{
+  "text": "Одновременнл финская стороне передам на рассмотрение проект двусторонней соглашения о защите прав в сфере интеллектуальной собственности , а также вручен список российских предприятий , которые могут представляющие интерес тля финских инвестора .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "двустороннего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "финской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "инвесторов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "передан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "представлять"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "Одновременно",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

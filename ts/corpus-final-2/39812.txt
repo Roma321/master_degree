@@ -1,0 +1,20 @@
+{
+  "text": "Президент такое высказался против возвращения к системе гарантируемого распределения выпускников вузам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вузов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "гарантированного"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

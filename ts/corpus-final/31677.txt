@@ -1,0 +1,25 @@
+{
+  "text": "В прошлом году Национальная федерации слепых уже глодавшая в суды против известного контент-провайдера America Online , обвиняя его в том , что приложениями AOL не могут пользоваться слепой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "слепые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "федерация"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "подала",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

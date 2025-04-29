@@ -1,0 +1,20 @@
+{
+  "text": "Министра путей сообщения РФ Николай Аксененко пострадал в автокатастрофе , сообщающий \"Эхо Мозгвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Министр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

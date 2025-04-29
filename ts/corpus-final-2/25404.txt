@@ -1,0 +1,30 @@
+{
+  "text": "Семь сингапурских корабликоф мобилизуем для наблюдений за распространением нефти , по их информаций Сингапуру опасность загрязнения не грозит .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "мобилизованы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "наблюдения"
+    },
+    {
+      "correctReplacement": "кораблей",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "корабликов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

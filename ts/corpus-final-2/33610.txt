@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей израилевого , танковой колонна должна обеспечивать безопасности еврейских поселенцев , передвигающихся по ключевым дороге , которая разделяет Газу и Израиль .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "танковая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "ключевой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "безопасность"
+    },
+    {
+      "correctReplacement": "Израиля",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

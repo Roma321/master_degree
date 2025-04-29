@@ -1,0 +1,20 @@
+{
+  "text": "По меньшей мере 11 люди погибли , причем только один из погипших - инвалид , а остальные - работники лагеря и волонтеры , которые помогали беспомощными людям спастись .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "беспомощным"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

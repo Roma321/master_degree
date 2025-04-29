@@ -1,0 +1,20 @@
+{
+  "text": "По их словам , установлено , что погибнем 118 человек , ещк 104 местных жителя пропали без вести в районом стихийного бедствия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "районе"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

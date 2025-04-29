@@ -1,0 +1,20 @@
+{
+  "text": "Он назову преступление \"очевидным и не требующимдлительного расследования , так как инцидент произошел на плазах убольшому количества людей\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "убольшого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "назвал"
+    },
+    {
+      "correctReplacement": "глазах",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Российские путешественники имеют свой эмблему , на которой изображены российский флак и два тигрят , сидящих на глобусе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "тигренка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "флаг",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

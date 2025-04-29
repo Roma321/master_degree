@@ -1,0 +1,20 @@
+{
+  "text": "По словам генералом , боевики хотят обвинённые россиыских военнослужащих в массовой продаже оружия чеченским террористам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "генерала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "обвинить"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

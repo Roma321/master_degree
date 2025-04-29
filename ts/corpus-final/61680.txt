@@ -1,0 +1,20 @@
+{
+  "text": "Объем транша составляемый 1 , 3 миллиарда доллмров , выплаты по нему производимся два раза в год .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "производятся"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

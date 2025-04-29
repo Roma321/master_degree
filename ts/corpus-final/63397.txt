@@ -1,0 +1,30 @@
+{
+  "text": "Возможность вхождения представителей Ruhrgas в состав руководства российской таковыей концерна обсуждался на протяжении полутора лет после той , как немецкий концерн высказал заинтересованность в покупке его акций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "газового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "российского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "обсуждается"
+    },
+    {
+      "correctReplacement": "газовой",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

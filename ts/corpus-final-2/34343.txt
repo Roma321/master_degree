@@ -1,0 +1,35 @@
+{
+  "text": "Аль Пачино захотело участвовать в проекте после того , как актриса и рродюсеры Колин Кэмп дал ему прочитать сценарий , написавший Жаном-Клодом Карриером , сценаристе \"Невыносимой легкости бытия\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "написанный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "захотел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "дала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "продюсер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "сценаристом"
+    },
+    {
+      "correctReplacement": "продюсеры",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

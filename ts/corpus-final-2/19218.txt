@@ -1,0 +1,20 @@
+{
+  "text": "В Литве выпустившая новая разновидность водок , передает турагентство Associated Press .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выпущена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "водки"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

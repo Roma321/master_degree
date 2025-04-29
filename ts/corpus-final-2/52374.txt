@@ -1,0 +1,25 @@
+{
+  "text": "Сообщается , в частности , что уже до конца текущего года Киев получу порядка 246 миллионов доллары кредита , который будет направлены на осуществления экономических проформ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "направлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "получит"
+    },
+    {
+      "correctReplacement": "реформ",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

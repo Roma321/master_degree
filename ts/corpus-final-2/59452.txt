@@ -1,0 +1,25 @@
+{
+  "text": "Штудниц также заявивший , что России не удастся , как она предлагала , обменять звои долги Парижскому клубу на долгов ей со стороны третьих стран в рамках той же Парижского клуба .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "долги"
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

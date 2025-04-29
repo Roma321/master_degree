@@ -1,0 +1,25 @@
+{
+  "text": "Тем самыми было удовлетворю требование адвокатоф корпорации и аннулировано решение министерства юстиции , постановлю , что дело о разделении Microsoft должно рассматриваться в верховном суде .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "постановившего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "удовлетворено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "самым"
+    },
+    {
+      "correctReplacement": "адвокатов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

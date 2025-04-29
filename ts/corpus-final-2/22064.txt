@@ -1,0 +1,25 @@
+{
+  "text": "В правоохранительных органах республики заявил , что в самое дражайшее время планируется арестовать сразу несколько чкловек , подозреваемых в этом преступлениях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "преступлении"
+    },
+    {
+      "correctReplacement": "ближайшее",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

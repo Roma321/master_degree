@@ -1,0 +1,30 @@
+{
+  "text": "Выступая сегодня на пресс-конференции в Москве , Березовскому категорически отвергнувший факт заговоров с Удуговым и Махашевым накануне вторжения боевикоф в Дагестан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Березовский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отверг"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "разговора"
+    },
+    {
+      "correctReplacement": "разговоров",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

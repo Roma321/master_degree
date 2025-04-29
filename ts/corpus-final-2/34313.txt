@@ -1,0 +1,25 @@
+{
+  "text": "Российский сторона также готова к сотрудничеству в области сбережениях энергоресурсов и тепла , почерневшее Владимир Путин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Российская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сбережений"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "подчеркнуло",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

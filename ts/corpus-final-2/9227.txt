@@ -1,0 +1,25 @@
+{
+  "text": "Утром 8 август на окраине Урус-Мартана на управляемом фугасе ппдорвусь бронетранспортер внутренних войск , сообщили РИА \"Новости\" в зональном отряде МВД в Моздоке .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "подорвался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "августа"
+    },
+    {
+      "correctReplacement": "мобильном",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "подорвусь",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

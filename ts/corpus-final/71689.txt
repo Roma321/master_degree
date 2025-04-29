@@ -1,0 +1,20 @@
+{
+  "text": "По данным газеты , жесткие диски хранились в запертом контейнере в сейфах подразделения лаборатории , в которос была создам атомная бомба .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сейфе"
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

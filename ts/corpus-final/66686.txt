@@ -1,0 +1,20 @@
+{
+  "text": "Режиссер обратилось с заявлением в ащицию , которая возбудила в отношении хулиганов уголовное дело по статье 213 УК РФ (хулиганство) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "обратился"
+    },
+    {
+      "correctReplacement": "милицию",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "алицию",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

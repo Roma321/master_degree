@@ -1,0 +1,25 @@
+{
+  "text": "Однако власти не собираетесь вмест специалистов определять , какие именно компании и по каким технологиям будут проводить операцию , подчеркнул российском премьеры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "собираются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "премьер"
+    },
+    {
+      "correctReplacement": "вместо",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

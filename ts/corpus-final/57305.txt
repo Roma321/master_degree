@@ -1,0 +1,25 @@
+{
+  "text": "Щначительное участь контрабанды поступает на российские рынок из-за границы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Значительная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "российский"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Значительное",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

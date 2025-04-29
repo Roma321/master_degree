@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что 12 декабря танкер Erika , шедший под мальтийский флагом из французского порта Дюнкерке в Италию , потерплю катастрофу в Бискайском заливе , неподалеку от мыса Пенварш на западном побережье Франции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мальтийским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "потерпел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Дюнкерк"
+    },
+    {
+      "correctReplacement": "Пенмарш",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

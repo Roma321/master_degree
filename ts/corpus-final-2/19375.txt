@@ -1,0 +1,25 @@
+{
+  "text": "Они утверждали , что комната с веса на ночь закрывался , а звидетельства взлома отсутствуют .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "весами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "закрывалась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "свидетельства",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По мнению экслер , работающих на месте происшествий , одновременное взрывы всех трех бомб должен был причинить зданию значительный ущерб .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "одновременный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "работавших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "взрыв"
+    },
+    {
+      "correctReplacement": "экспертов",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

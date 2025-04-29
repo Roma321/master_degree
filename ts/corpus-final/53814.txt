@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявлю в субботу дополняемый обязанности президента Владимир Путин , передающий \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "исполняющий"
+    },
+    {
+      "correctReplacement": "исполняемый",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным японских СМИ , вснося решение суд руководствовался аргкментом адвоката подсудимого о тем , что Инуи в момент совершения преступления полностью находился под влиянием культов , в ряды последователей которого вступил в возрасте 16 лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "адвокатов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "культа"
+    },
+    {
+      "correctReplacement": "вынося",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

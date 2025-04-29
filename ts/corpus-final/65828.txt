@@ -1,0 +1,20 @@
+{
+  "text": "Текст листовок гласишь : \"Деньги москвичек на хорошем счету .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "листовки"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "гласит"
+    },
+    {
+      "correctReplacement": "москвичей",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

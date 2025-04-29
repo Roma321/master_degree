@@ -1,0 +1,35 @@
+{
+  "text": "Напомнят , что во время губернаторству Руцкого Ткачев возглавляю областную прокуратуру и завёл несколько десятков уголовных дел , в том числе против ближайших родственниках и ратников экс-губернатора . До суда было доведено лишь одно из них .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "губернаторства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "завел"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "родственников"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "возглавлял"
+    },
+    {
+      "correctReplacement": "соратников",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

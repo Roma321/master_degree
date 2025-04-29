@@ -1,0 +1,20 @@
+{
+  "text": "Американские инвесторы утверждают , что ТНК продала нефтяные запасы своим клиенту по ценам ниже мёртвых , но причитающиеся прибыль не была переведена на счета материнской компании СИДАНКО .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "причитающаяся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "клиентам"
+    },
+    {
+      "correctReplacement": "мировых",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

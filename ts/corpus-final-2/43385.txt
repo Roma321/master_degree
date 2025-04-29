@@ -1,0 +1,20 @@
+{
+  "text": "Председатель областной Думы Лев Ефремов набравший всего 15 процентоф голосами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "набрал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "голосов"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

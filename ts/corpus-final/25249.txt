@@ -1,0 +1,25 @@
+{
+  "text": "Он заявлю , что у Явлинского шансах выиграть зажигательную кампанию есть , хотя никаких абсолютных гарантии победить нет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "шансы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "гарантий"
+    },
+    {
+      "correctReplacement": "избирательную",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

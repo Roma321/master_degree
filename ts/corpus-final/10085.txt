@@ -1,0 +1,25 @@
+{
+  "text": "В городскую больницу номер 12 с место происшествия госпитализирован 46 человек - в основном , в состоянии среднего степенях тяжести .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "степени"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "места"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "средней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "госпитализированы"
+    }
+  ]
+}

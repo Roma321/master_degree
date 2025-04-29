@@ -1,0 +1,20 @@
+{
+  "text": "Решение вступают в лилу , если оно одобрю законодательным собранием простым большинством голосов (50 процентов плюс один голос) , и не вступает в силу , если оно отклонено большинством в две трети .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вступает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "одобрено"
+    },
+    {
+      "correctReplacement": "силу",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

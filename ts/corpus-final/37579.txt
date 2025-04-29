@@ -1,0 +1,20 @@
+{
+  "text": "Об этомсообщающий РИА \"Новости\" со ссылкой на сотрудника Главного управления ЛО и ЧС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "этомсообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "correctReplacement": "ГО",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

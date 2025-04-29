@@ -1,0 +1,25 @@
+{
+  "text": "Греческий правительство надеется , что знаменитыми мраморные фризы , опоясывавшие некогда Парфенон финского Акрополя , вернувшиеся на свое исконное место уже к 2004 году , когда в Афинах состоится Олимпиада .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "знаменитые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "вернутся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Греческое"
+    },
+    {
+      "correctReplacement": "афинского",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

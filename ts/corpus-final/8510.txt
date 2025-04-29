@@ -1,0 +1,20 @@
+{
+  "text": "Заявления заполняются всеми работающими , кроме тех , кому уже присвою идентификационный номер , и тех , для кого данное место работу не являются основным .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "присвоен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "работы"
+    }
+  ]
+}

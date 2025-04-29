@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщал агентство со ссылкой на прокурора округа Манхэттен Мэри Джо Уайт , уголовные дела были завёдшие еще 16 сентября , однако известно об это стало только в минувший фторника .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "заведены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "вторника",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

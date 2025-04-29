@@ -1,0 +1,40 @@
+{
+  "text": "В свою очередь , представитель МВФ в Москвоф Мартин Гилманы заявил , что на миссию положительная впечатление произвёл развитии макроэкономической ситуации в России , что , по его мнению , отражаемый \"правильное , осторожное управление ситуацией со стороны российских властей\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "произвело"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "положительное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "отражает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Гилман"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "развитие"
+    },
+    {
+      "correctReplacement": "Москвой",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

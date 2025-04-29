@@ -1,0 +1,25 @@
+{
+  "text": "По согбщению \"Эха Москвы\" , в большинстве городов автомобилистам предлагается бесплатный общественный транспорт и зрелищные массовые неприятием на улицам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "улицах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "мероприятия"
+    },
+    {
+      "correctReplacement": "мероприятием",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

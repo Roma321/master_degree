@@ -1,0 +1,35 @@
+{
+  "text": "Огисов сказал , что когда в прошлую пятницу он встречался с компетентными лицом в будапештском городской суде и в министерстве юстиции Венгрии , даже речь не шло о какой-либо просьбе санаторий Быкова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "Анатолия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "речи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "городском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "лицами"
+    },
+    {
+      "correctReplacement": "Анатолиев",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "Олисов",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

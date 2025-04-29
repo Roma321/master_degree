@@ -1,0 +1,20 @@
+{
+  "text": "На этот раз реальные актеры будут высмеивать президентов , политиками и популярные масс-медиа в манерах непшлиткорректных героев \"Южного Парка\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "политиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "манере"
+    },
+    {
+      "correctReplacement": "неполиткорректных",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

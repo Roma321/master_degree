@@ -1,0 +1,15 @@
+{
+  "text": "По мнению Путина , в последний время в этом опросе наблюдается \"некоторая несогласованность\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "последнее"
+    },
+    {
+      "correctReplacement": "вопросе",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

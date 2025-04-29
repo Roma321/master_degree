@@ -1,0 +1,20 @@
+{
+  "text": "Лидером среди партий , за которые собираются голосуемые россияне , на выборах в Государственную думу является КПРФ . 26 , 3% нинелей России полагает , что отдадут свои голоса в поддержку КПРФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "голосовать"
+    },
+    {
+      "correctReplacement": "жителей",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

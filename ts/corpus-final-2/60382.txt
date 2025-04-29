@@ -1,0 +1,30 @@
+{
+  "text": "Тогда реставраторы прибегнули к старинным охотничьему способу : в ружье залившие мышиного масло , а затем через запальный отверстие откачали пороховую смесь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "залили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "машинное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "запальное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "старинному"
+    },
+    {
+      "correctReplacement": "машинного",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

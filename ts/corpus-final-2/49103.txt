@@ -1,0 +1,20 @@
+{
+  "text": "Корабль остановлюсь в порту для заправки , когда к нему подойду надувная сатиновая лодка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "остановился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "подошла"
+    },
+    {
+      "correctReplacement": "резиновая",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

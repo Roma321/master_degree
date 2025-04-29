@@ -1,0 +1,20 @@
+{
+  "text": "Он считаемый , что результаты референдума в данного ситуации будут построены лишь на эмоциях , поскольку люди не имеют полной инфотмации по этому вопросу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "данной"
+    },
+    {
+      "correctReplacement": "информации",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

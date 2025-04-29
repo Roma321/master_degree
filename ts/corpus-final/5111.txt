@@ -1,0 +1,20 @@
+{
+  "text": "Защищая своего босса , пресс-секретаря техасского губернатора Карен Хьюэ уже сделала заявление , в котором объяснила , что чеченского президента в США не знающий никто .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "знает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пресс-секретарь"
+    },
+    {
+      "correctReplacement": "Хьюз",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

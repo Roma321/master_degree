@@ -1,0 +1,25 @@
+{
+  "text": "Все водители были убьём выстрегом в голову из образа 12-го калибра , зарядившего дробью .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "убиты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заряженного"
+    },
+    {
+      "correctReplacement": "обреза",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "выстрелом",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

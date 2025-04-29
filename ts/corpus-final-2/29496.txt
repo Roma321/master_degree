@@ -1,0 +1,25 @@
+{
+  "text": "Космический грузовик доставивший на борт орбитального комплекса необходимые материалы , продовольствие для следующую экспедиции , которая запланировано на конец января - началб февраля 2001 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "следующей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "запланирована"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "доставит"
+    },
+    {
+      "correctReplacement": "начало",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Предполагается , что когда погоду стабилизируется , водолазов продолжите работа в восьмом и девятом отсеках атомохода , где по штатного расписанию должны были находиться десять человек .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "продолжат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "водолазы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "штатному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "погода"
+    },
+    {
+      "correctReplacement": "работу",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

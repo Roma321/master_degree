@@ -1,0 +1,20 @@
+{
+  "text": "По последним данным , выписаны ордера на арест трех офицеров охраны хранилища , которых подозревают в совершении этом невероятной ограбления .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "невероятного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

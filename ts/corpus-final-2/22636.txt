@@ -1,0 +1,30 @@
+{
+  "text": "Водитель машины к той времени быг аже настолько пьян , что старшие экипажу , сержант Александр Шишкин , сам сел за рычаги машины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "старший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "экипажа"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По информации пресс-центров концерна \"Росэнергоатом\" , радиоактивных выбросов в результат случившегося не была .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-центра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "результате"
+    }
+  ]
+}

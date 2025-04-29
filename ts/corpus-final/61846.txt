@@ -1,0 +1,20 @@
+{
+  "text": "Как передает РИА \"Новости\" , в милицию позвонили бдительным семинаристы , готовый увидели под скамейкой собора предмет , показавшийся пм подозрительным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "бдительные"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "им",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

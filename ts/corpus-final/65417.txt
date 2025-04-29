@@ -1,0 +1,35 @@
+{
+  "text": "Передачей документов завершилась трёхдневной встрече российских и швейцарского следователей , проходимая в городе Аппензель в рамках соглашения об объединении усилий для борьбы с отмыванием российских криминальных денег через швейцарский банки , которое было подписано евой странами в 1998 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "трехдневная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проходившая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "швейцарских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "встреча"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "швейцарские"
+    },
+    {
+      "correctReplacement": "двумя",
+      "type": "paronym",
+      "wordNumber": 34
+    }
+  ]
+}

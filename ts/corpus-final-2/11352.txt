@@ -1,0 +1,25 @@
+{
+  "text": "Ход подготовки к выборам депутата Госдумы от Чечни обсуждавшийся на встрече президента России Владимире Путина с руководителем чеченских администрации Ахмадом Кадыровым , прибывшим в четверг Сочи , гдр отдыхает глава государства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "чеченской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обсуждался"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

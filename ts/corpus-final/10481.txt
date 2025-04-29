@@ -1,0 +1,30 @@
+{
+  "text": "Кстати , и советчику в таком млучае , видимо , не обладал авторскими правами на свой программные продукт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "программный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ответчик"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "обладает"
+    },
+    {
+      "correctReplacement": "ответчику",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

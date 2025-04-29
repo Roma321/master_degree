@@ -1,0 +1,20 @@
+{
+  "text": "Два года назад произошел случай куда печальнее , кто-то перерыл всё наш системы , а нам так и не удалось узнать , как он сделал это\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "всю"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "нашу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "систему"
+    }
+  ]
+}

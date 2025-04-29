@@ -1,0 +1,25 @@
+{
+  "text": "В общей сложности Unilever закроет 100 своих заводов , большая часть из которых находился в Европе и США , при этом количеством сотрудников ферму по всему миру сократится на 10 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "количество"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "фирму",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

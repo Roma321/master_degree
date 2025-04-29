@@ -1,0 +1,35 @@
+{
+  "text": "В нпстоящее время Григорьев возглавивший московского Бюро экономического анализа - некоммерческой научную организацию , которая финансируется из средств представившего Всемирным банком займа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "некоммерческую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "московское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "представленного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возглавляет"
+    },
+    {
+      "correctReplacement": "возглавлял",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

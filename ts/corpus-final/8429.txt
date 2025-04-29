@@ -1,0 +1,30 @@
+{
+  "text": "Борис Березовский имеет совокупный доход за прошлый год 14 миллионов 677 тысяч 204 рубля , у него в имущественном пользованиях два земельного участка в Московской области , а также часть жилого дома и один-единственный автомобиль ваш 21093 . рмацию , потому что это наносит прямых ущерб люди , которые смотрят ее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 46,
+      "correctReplacement": "людям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 44,
+      "correctReplacement": "прямой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "пользовании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "земельных"
+    },
+    {
+      "correctReplacement": "ВАЗ",
+      "type": "paronym",
+      "wordNumber": 35
+    }
+  ]
+}

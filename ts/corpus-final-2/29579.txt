@@ -1,0 +1,20 @@
+{
+  "text": "Международный арбитражная суд постановлявший , что прежний владелец домена незаконно зарегистрировал и использовало его для наживы на имени певицы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "постановил",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

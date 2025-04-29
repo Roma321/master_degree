@@ -1,0 +1,25 @@
+{
+  "text": "В ближайших дни будет подписано распоряжение правительства России о финансировании и начале работах по реконструкции Останкинской телебашни , пострадавшего в результате августовского пожара , сооблает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ближайшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "пострадавшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "работ"
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

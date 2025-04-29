@@ -1,0 +1,15 @@
+{
+  "text": "По данным ФСБ , уроженец Грозного , 34-летний помещик и финансист Басаева окончило экономический факультет университета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "окончил"
+    },
+    {
+      "correctReplacement": "помощник",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

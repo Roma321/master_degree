@@ -1,0 +1,20 @@
+{
+  "text": "Эти люди переданы в орган ФСБ и МВД , в отношенпи них начался проверка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "началась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "органы"
+    },
+    {
+      "correctReplacement": "отношении",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

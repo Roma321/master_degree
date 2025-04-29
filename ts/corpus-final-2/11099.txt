@@ -1,0 +1,25 @@
+{
+  "text": "Согласно закону во время каждого прослушивания должен присутствовать представитель компании-провайдера - однако он не могут узнать , какой именно информация утекает к полиции , и не может прекратить прослушивание , если оно нарушает закона , а может вишь пожаловаться в суд .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "какая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "закон"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

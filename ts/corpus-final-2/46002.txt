@@ -1,0 +1,20 @@
+{
+  "text": "В рамках этих договоров фирма поставлявшая в Россию продовольствие и товары насосного потребления , за которые Москва расплачивалось нефтью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поставляла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "расплачивалась"
+    },
+    {
+      "correctReplacement": "народного",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

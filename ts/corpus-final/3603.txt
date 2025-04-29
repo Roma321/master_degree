@@ -1,0 +1,30 @@
+{
+  "text": "В рамке исследования опрошено 1595 респондентов в 28 областях , краях и республике РФ по стратифицировавшей , многоступенчатой выборке , репрезентативного бля избирателей России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "республиках"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "стратифицированной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "рамках"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "репрезентативной"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

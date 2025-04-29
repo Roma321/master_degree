@@ -1,0 +1,30 @@
+{
+  "text": "сумы сделки составлю 25 миллионов долларов , половина из которых будет выплачу бывшими владельцам акциями \"Голден Телеком\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выплачена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сумма"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "бывшим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "составила"
+    },
+    {
+      "correctReplacement": "Суммы",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

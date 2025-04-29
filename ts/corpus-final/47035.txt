@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителей Air Transport Association , не исключено , что после принятием закона меньшинство авиакомпаний перестанут перевозимые животных , однако они называет новые правила разумными и прогнозируют возникновение нового рынка услуг - авиакомпаний , готовых специализироваться на транспортировке домашних питомцев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "называют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "перевозить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "принятия"
+    },
+    {
+      "correctReplacement": "большинство",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

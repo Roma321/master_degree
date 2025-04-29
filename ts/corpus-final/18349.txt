@@ -1,0 +1,30 @@
+{
+  "text": "В США существуешь также отдельную географический домен . us , но правиларегистрации в нем сложнее , чем в других доменных зонах , поэтомукоммерческих предприятия его , как правило , не используете (в домене , зарегистрированном в зоне . us , поясняет Wired News , должно содержатьсяназвание штата и города - не amazon . us , а amazon . seattle . wa . us , к привету .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "используют"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "отдельный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "поэтомукоммерческие"
+    },
+    {
+      "correctReplacement": "примеру)",
+      "type": "paronym",
+      "wordNumber": 65
+    }
+  ]
+}

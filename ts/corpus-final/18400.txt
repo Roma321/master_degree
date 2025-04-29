@@ -1,0 +1,30 @@
+{
+  "text": "Западные банкам проявляли все большее беспокойство по поводу работой своих отделений в России из-за поспешных скандалов с \"отмыванием\" российских денег , нестабильносью российской экономики , а также волной теракиов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "банки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "работы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "проявляют"
+    },
+    {
+      "correctReplacement": "последних",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "терактов",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

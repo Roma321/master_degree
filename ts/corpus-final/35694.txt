@@ -1,0 +1,25 @@
+{
+  "text": "Теперь же украинский парламенте формально подтвердивший решение суда . ствующих\" коммунистам коммерческим госструктур , - подчеркнул Трапезников .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "парламент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "коммерческих"
+    },
+    {
+      "correctReplacement": "структур\"",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

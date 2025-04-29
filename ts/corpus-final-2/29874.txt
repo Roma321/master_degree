@@ -1,0 +1,20 @@
+{
+  "text": "В шестиподъездном деревянном доме , снаружи обложу кирпичом , оживавшеп 128 человек , из них - 21 ребенок .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обложенном"
+    },
+    {
+      "correctReplacement": "проживало",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "оживавшее",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

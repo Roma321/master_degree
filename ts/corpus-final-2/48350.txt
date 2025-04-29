@@ -1,0 +1,25 @@
+{
+  "text": "Если суд признает ручной пересчет незаконным , то президентами США становлюсь Джордж Буш : накануне представители Гора заявили , что прекратили борьба в этом случае .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "борьбу"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "становится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "прекратят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "президентом"
+    }
+  ]
+}

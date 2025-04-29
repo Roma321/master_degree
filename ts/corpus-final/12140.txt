@@ -1,0 +1,25 @@
+{
+  "text": "При этом он сказала , что в России всегда с уважением относились к исламу , а также к теа , кто исповедуемый этой религию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "эту"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "исповедует"
+    },
+    {
+      "correctReplacement": "тем",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

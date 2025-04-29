@@ -1,0 +1,20 @@
+{
+  "text": "Путин заявивший , что подобная решение будет приниматься при учустии Государственной думы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "подобное"
+    },
+    {
+      "correctReplacement": "участии",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

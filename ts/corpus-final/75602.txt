@@ -1,0 +1,25 @@
+{
+  "text": "В результате сильного взрыва осанки летательных аппарата обрушились на находящееся ряднм здание , причинив ему существенном ущерб .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "аппаратов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "существенный"
+    },
+    {
+      "correctReplacement": "останки",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "рядом",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Во второй победила Петровых 6 : 2 , но в решающей партии лучше выглядела теннисистка из белорусской - 6 : 4 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Петрова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "Белоруссии",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

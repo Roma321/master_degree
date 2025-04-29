@@ -1,0 +1,25 @@
+{
+  "text": "Фотокорреспондент агентства France Presse , принявшее учвстие в процессии , запечатлел Владимира Жириновских в обнимке с медведем , также замеченным среди манифестантов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "обнимку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Жириновского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "принявший"
+    },
+    {
+      "correctReplacement": "участие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

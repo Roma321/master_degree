@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщу журналистам претседатель горизбиркома Михаил Степанов , явка избирателей на выборах градоначальников была явно ниже , чем на президентских , и составлю соответственно 46 , 3 процента против 64 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "составила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "градоначальника"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

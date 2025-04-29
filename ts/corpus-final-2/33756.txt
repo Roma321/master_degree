@@ -1,0 +1,25 @@
+{
+  "text": "В минувшую субботу по не выясненным пока мотивам мать , завернуф новорождённого дочку в полиэтиленовый пакете , выбросили ее с четвертого этажа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пакет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "выбросила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "новорожденную"
+    },
+    {
+      "correctReplacement": "завернув",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

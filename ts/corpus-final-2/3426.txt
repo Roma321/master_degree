@@ -1,0 +1,25 @@
+{
+  "text": "Президент Россией Владимир Путин подписанный федеральный закон \"Об общих принципах организации общин коренных многочисленных народов Севера , Сибири и Дальнего Востоке России\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Востока"
+    },
+    {
+      "correctReplacement": "малочисленных",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

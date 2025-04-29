@@ -1,0 +1,30 @@
+{
+  "text": "По версию следователей , мужчина , работавшие в этой школе учителем , застрелил свою знакомая , а затем расправился само .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "знакомую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "версии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "работавший"
+    },
+    {
+      "correctReplacement": "застрелился",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

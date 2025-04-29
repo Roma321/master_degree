@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что эта цифра значительно превышает прогнозную цене российской нефти (18 доллара за баррель) , которая была взята за основу правительством РФ при ьасчете госбюджета .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "цену"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "расчете",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

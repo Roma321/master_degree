@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу на площади Святой Петра в Риме в честь 80-летия Иоанна Павла II была отслужена самая грандиозгая месса , когда-либо отслужу Папами римским .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "отслуженная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Святого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Папой"
+    },
+    {
+      "correctReplacement": "грандиозная",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

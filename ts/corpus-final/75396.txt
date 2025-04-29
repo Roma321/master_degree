@@ -1,0 +1,25 @@
+{
+  "text": "Аэробус под кодовым названием A3XX рассчитавший на перевозку 550 пассажирок и имеемый дальность полета в 15 тысяч километров , что позволил совершать беспосадочные перелеты от западного побережья США до Австралии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "позволит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "рассчитан"
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

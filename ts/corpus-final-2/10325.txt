@@ -1,0 +1,20 @@
+{
+  "text": "Был открыто ответный огонь , но о потерях боевиков нр сообщающийся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "открыт"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

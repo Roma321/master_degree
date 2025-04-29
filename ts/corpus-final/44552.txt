@@ -1,0 +1,30 @@
+{
+  "text": "По одной из версии , они пронпкли в отсек демонтирую лодках для поиска деталей из цветными и драгоценных металлов , но задохнулись в модуле , где скопились токсичные газы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "лодки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "цветных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "версий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "демонтированной"
+    },
+    {
+      "correctReplacement": "проникли",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Кроме этого , Yahoo предоставляешь пользователям систему онлайновой оплаты чековом и услуги по поиску кандидатоф на патентные должность , - этот платный сервис приносишь компании немалый доход .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "должности"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "приносит"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "предоставляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "чеков"
+    },
+    {
+      "correctReplacement": "вакантные",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "кандидатов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

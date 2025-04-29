@@ -1,0 +1,25 @@
+{
+  "text": "Вирус Melissa . AO , уже погасивший локальные сеть нескольких компаний , был впервые выявлено в Австралии , но , судив по языку инфицированного документа , он разработана не в англоязычной стране .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "судя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "выявлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сети"
+    },
+    {
+      "correctReplacement": "поразивший",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

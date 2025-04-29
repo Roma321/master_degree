@@ -1,0 +1,25 @@
+{
+  "text": "Рейтинг кандидатах в президенты пока не посчитаны , и окончательные данные появитесь в среду , в течение дня Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "посчитан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "появятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

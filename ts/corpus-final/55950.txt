@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва вспыхнул пожар , который быстро охватил весь квартиры Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "квартиру"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "всю"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

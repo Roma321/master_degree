@@ -1,0 +1,25 @@
+{
+  "text": "В распоряжении газеты оказались судебные материалы ФСБ , из которых журналисты делающие вывод , что HALO Trust действовало в интересах иностранных спецслужб , в частность , британской MI-6 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "действовала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "делают"
+    },
+    {
+      "correctReplacement": "служебные",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

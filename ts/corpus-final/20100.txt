@@ -1,0 +1,25 @@
+{
+  "text": "В это времена полиция проверявшая территорию на наличие взрывных устройздф , и в ресторане никого , кроме служителей правопорядка , не есть .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проверяла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "устройств",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

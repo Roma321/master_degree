@@ -1,0 +1,20 @@
+{
+  "text": "Впрочем , сам Мозес вовсе не считает , будто его сервиса способна заменить визир к врачу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сервис"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "способен"
+    },
+    {
+      "correctReplacement": "визит",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

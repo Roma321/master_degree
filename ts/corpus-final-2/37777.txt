@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что на прошьой неделях Березовского получила повестку от следователя с вызовом для дач показаний по делу \"Аэрофлота\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Березовский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "неделе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дачи"
+    },
+    {
+      "correctReplacement": "прошлой",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

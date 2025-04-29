@@ -1,0 +1,15 @@
+{
+  "text": "Среди компаний , акции которых на тоегах NASDAQ выросли в цене в понедельник - Microsoft (+6 , 66%) , Intel (+10 , 11%) и онлайновый книжный магазины Amazon . Com (+8%) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "магазин"
+    },
+    {
+      "correctReplacement": "торгах",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

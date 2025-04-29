@@ -1,0 +1,35 @@
+{
+  "text": "На пост главы объединенного министерства экономики и промышленностей президент предложенный кандидатуру Вано Чхартишвили , нынешнего первой заместителя госминистра страны , а минюстом культуры выдвину Сесилия Гогиберидзе , которая занимает пост заместителя министра иностранных дела .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "выдвинута"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "промышленности"
+    },
+    {
+      "correctReplacement": "министром",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "дюна Корзун и Пэдди Консайдин , играющие в этом фильме главные роли , получили призы за наихорошего женское и мужскую роль .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "лучшую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "женскую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "игравшие"
+    },
+    {
+      "correctReplacement": "Дина",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

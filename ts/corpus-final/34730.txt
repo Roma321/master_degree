@@ -1,0 +1,25 @@
+{
+  "text": "Компании Microsoft усиленно опровергает распространившееся в информационных агентствах сообщение о том , что билль Гейтс согласился открытые исходный код Windows , чтобы уладить судебное разбирательство по повода нарушения компанией Microsoft антимонопольного законодательства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "открыть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "поводу"
+    },
+    {
+      "correctReplacement": "Билл",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "\"Подобных очередей , такого стечения народов мы не помним\" , - рассказал корреспонденту РИА \"Новости\" заведующие отравление 2-й краевой клинической больницы Сергей Ганичев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "народа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "заведующий"
+    },
+    {
+      "correctReplacement": "отделением",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

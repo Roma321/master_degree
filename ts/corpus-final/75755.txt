@@ -1,0 +1,20 @@
+{
+  "text": "Машинист поезда рассказала , что он заметил разрыв рельсов и включённый экстренное торможение , однако состав не мог остановиться до места разрывов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "разрыва"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "включил"
+    }
+  ]
+}

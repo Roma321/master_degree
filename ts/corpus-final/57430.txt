@@ -1,0 +1,20 @@
+{
+  "text": "В ходе проверку , проведенной сотрудниками УБЭП ГУВД Москвы , были выдавленные нарушения закона , сообщающий РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "проверки"
+    },
+    {
+      "correctReplacement": "выявлены",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

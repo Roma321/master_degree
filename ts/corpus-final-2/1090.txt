@@ -1,0 +1,25 @@
+{
+  "text": "В двухкилометровой зоне вдоль южной границы Болгарии запрещается пахоту земли а использование парнокопытных животных , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "использованием"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "пахота"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

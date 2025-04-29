@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас ремантадин новь появился в продажу , и спрос на него остаётся крайне высоким .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "продаже"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "остается"
+    },
+    {
+      "correctReplacement": "вновь",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

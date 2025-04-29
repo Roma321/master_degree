@@ -1,0 +1,20 @@
+{
+  "text": "Экспедиция должна была стартовать еще в октябре , но была отложены из-за нешедших на корабле неполадок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отложена"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "найденных"
+    },
+    {
+      "correctReplacement": "нашедших",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщим журналистам в рувд столицы , среди участников мероприятия было замечу \"большое количество молодым людей в состоянии алкогольного опьянения\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "замечено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "молодых"
+    },
+    {
+      "correctReplacement": "ГУВД",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

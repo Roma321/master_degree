@@ -1,0 +1,20 @@
+{
+  "text": "Первое заседание по этому делу состоится в следственных изолятор 9 ноябрч .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "изоляторе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "следственном"
+    },
+    {
+      "correctReplacement": "ноября",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

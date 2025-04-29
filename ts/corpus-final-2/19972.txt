@@ -1,0 +1,35 @@
+{
+  "text": "По мнению участников заседание , речь идет о атеистической давлении , оказывавшем на журналистов , и , прежде всего , на Владимира Гусинским , котором владеет контрольным пакетом акций холдинга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "политическом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "оказываемом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Гусинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заседания"
+    },
+    {
+      "correctReplacement": "политической",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

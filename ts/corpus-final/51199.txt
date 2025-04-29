@@ -1,0 +1,30 @@
+{
+  "text": "Прямого президентское правление \"в полном смысле этого слова\" в Чечневводиться не будет , заявило журналисткам в пятницу вице-премьер правительства России , полномочный представитель правительства России в Чеченской Респубьике Николай Кошман после встречи в Кремле с Владимирами Путиным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "Владимиром"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Прямое"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "Республике",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

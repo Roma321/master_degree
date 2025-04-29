@@ -1,0 +1,35 @@
+{
+  "text": "В офисе генпрокурора Швейцарии сообщили , что на встречу обсуждаемся детали расследований , в том числе м такими громких , как дело швейцарская строительного компании Mabetex , дело об отмывании денег через Bank of New York и \"дело Аэрофлота\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "таких"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "обсуждались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "швейцарской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "строительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "встрече"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По мнению 17 процентов респондентов , России угрожает отсутствия уверенности в завпрашним днях , причем за 4 года эта цифры не изменилась .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "завтрашнем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "отсутствие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "цифра"
+    },
+    {
+      "correctReplacement": "завтрашним",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

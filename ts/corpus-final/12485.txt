@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник ог сбывший госпитализирован в Центральную клинической больницу с подозрением на воспаление легких .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "клиническую"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

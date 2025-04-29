@@ -1,0 +1,35 @@
+{
+  "text": "В ответ на открытое письмо , подписанный цедущими журналистами страны , президент Украины Леонид Кучма поручу правоприменительным органам изучившие все случаи преступлений против журналистов и предоставленные ему информацию по этому вопросу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "подписанное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "предоставить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "изучить"
+    },
+    {
+      "correctReplacement": "правоохранительным",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "ведущими",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

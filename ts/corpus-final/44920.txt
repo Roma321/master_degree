@@ -1,0 +1,20 @@
+{
+  "text": "Аудиты должен быть составлен в несоответствии с российскими и международными стандартам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "стандартами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Аудит"
+    },
+    {
+      "correctReplacement": "соответствии",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Компания eBay хочет , по ее собственным словам , внести некоторое оживление в процесс проведения аукциона и привлёкшие новых покупателях из чисел тех , кто смотрят телевизор чмще , чем пользуюсь Интернетом .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "пользуется"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "привлечь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "смотрит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "покупателей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "числа"
+    },
+    {
+      "correctReplacement": "чаще",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

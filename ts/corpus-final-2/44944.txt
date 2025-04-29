@@ -1,0 +1,25 @@
+{
+  "text": "Комментируя предстоящее с 1 января 2001 года масштабный изменение ставок ввозных таможенных пошлин председатель ГТК сообщила , что из примерно трети из 3 , 5 тысячи ставок будут скорректированы в сторону снижения , и лишь 12 процентов ставок будут повышены .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "треть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "масштабное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "представитель",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

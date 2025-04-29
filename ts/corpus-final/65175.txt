@@ -1,0 +1,20 @@
+{
+  "text": "Некоторыми медики даже полагтет , что доктор может скорее сделать ошибку в диагнозе , когда он видит выражение лица пациента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Некоторые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "полагает",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

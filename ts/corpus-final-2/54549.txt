@@ -1,0 +1,25 @@
+{
+  "text": "Сложной пожарная обстановка ожидаешься в южных районах Сибири , на Дальнем Постоке и Забайкалье , а также в отдельных районах Северо-Западного и Центральной регионов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "Центрального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сложная"
+    },
+    {
+      "correctReplacement": "Востоке",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

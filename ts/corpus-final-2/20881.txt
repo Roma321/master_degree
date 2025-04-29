@@ -1,0 +1,25 @@
+{
+  "text": "Генеральная прокуратура Россией начинающий уголовное расследовкние сведений о возможных уводе активов холдинга \"Медиа-Мост\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "начинает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "возможном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

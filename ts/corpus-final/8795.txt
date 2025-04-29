@@ -1,0 +1,20 @@
+{
+  "text": "Он собирается принявшие участие в допросах свидетеля в швкйцарском суде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "свидетелей"
+    },
+    {
+      "correctReplacement": "швейцарском",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

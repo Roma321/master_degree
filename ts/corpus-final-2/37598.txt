@@ -1,0 +1,25 @@
+{
+  "text": "Поддержанием забальзамированной тела Владимира Ленина в надлежащем состоянии занимаются сотрудники Научно-исследовательского цента биомедицинскими технологтй ВИЛАР .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "биомедицинских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "забальзамированного"
+    },
+    {
+      "correctReplacement": "центра",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "технологий",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

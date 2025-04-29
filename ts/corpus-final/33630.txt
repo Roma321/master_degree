@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению полиций , виновником катастрофы стал водитель польского автопоезда , который в результате неудачного маневра выехавший на встречную полосы , где в него врезалось такси .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выехал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "полосу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    }
+  ]
+}

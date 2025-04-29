@@ -1,0 +1,20 @@
+{
+  "text": "Греф также высказался за развития фондовой рынка , чтобы предприятия получили доступ к \"длинным\" деньгам без посредничества анков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "фондового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "развитие"
+    },
+    {
+      "correctReplacement": "банков",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

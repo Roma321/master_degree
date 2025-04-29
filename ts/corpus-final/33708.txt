@@ -1,0 +1,25 @@
+{
+  "text": "Нефтяные министр стран ОПЕК , несмотря на недавний значительное повышение цен на нефть , договорились о соблюдении картельнуж \"дисциплины добычи\" : совокупная добыча нефти не должна превышать 22 , 9 миллионов баррелей в день .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "недавнее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "министры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "картельной"
+    },
+    {
+      "correctReplacement": "картельную",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

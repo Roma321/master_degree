@@ -1,0 +1,20 @@
+{
+  "text": "Это новый продукт поставляется в комплекте с устройством Microsoft WebTV , беспроводного клавиатурой и двумя месяцами бесплатного польэования Интернетом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "беспроводной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Этот"
+    },
+    {
+      "correctReplacement": "пользования",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

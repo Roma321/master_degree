@@ -1,0 +1,30 @@
+{
+  "text": "Центральная избирательной комиссия Грузии во вторник отказавшаяся затегистрировавшие внука Иосифа Сталин - Евгения Джугашвили кандидатом на высший государственный пост на предстоящих в апреле президентских выборах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отказалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Сталина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "избирательная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "зарегистрировать"
+    },
+    {
+      "correctReplacement": "зарегистрировавшие",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

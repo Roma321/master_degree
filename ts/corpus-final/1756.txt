@@ -1,0 +1,25 @@
+{
+  "text": "Он выразил надежду , что соглашение вступит в силу к 2003 госу и , будучи подписанной государствами - членами ООН , явится действенным орудием против табачных компании , особенно активно действующих в развивающемся мир .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подписанным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "мире"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В прошлом году несколько сотрудникоф Белого доме уже пострадали из-за нелюбви к подобного рода продукции : одних наказали выговорами , других - отстранением от работы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "любви",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "сотрудников",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

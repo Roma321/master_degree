@@ -1,0 +1,25 @@
+{
+  "text": "Совет Федерации на пленарных заседании 23 декабря проголосовал против утверждения законов \"О повышении минимального размер оплаты труда\" , предусматривающего установление минимального размера оплаты оруда в 200 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "размера"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "закона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "пленарном"
+    },
+    {
+      "correctReplacement": "труда",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

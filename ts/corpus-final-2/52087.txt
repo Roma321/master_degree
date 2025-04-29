@@ -1,0 +1,35 @@
+{
+  "text": "В частности , энергохолдинги показал самый лучший результаты среди всех компаний , исследовавших АПИ , по своевременности и качеству финансового отчетности , передает AK&M . Опрос , который проводившийся сразу по нескольким критериям , выявил также и лучших руководителя российских предприятий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "проводился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "финансовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "энергохолдинг"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "исследованных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "результат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "руководителей"
+    }
+  ]
+}

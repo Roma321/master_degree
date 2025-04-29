@@ -1,0 +1,25 @@
+{
+  "text": "И . о . президента Влажимиры Путин назову \"неожиданным\" предложение Владимира Жириновского выпихнувшие единого кандидата от оппозиции на предстоящих президентских выборах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "выдвинуть",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Владимиры",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

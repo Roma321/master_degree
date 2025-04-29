@@ -1,0 +1,20 @@
+{
+  "text": "Фильме , еосле которого Франка Потенте стала известного - \"Беги , Лола , беги\" - культовое молодежное кино .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "известной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Фильм"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

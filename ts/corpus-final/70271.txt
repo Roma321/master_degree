@@ -1,0 +1,20 @@
+{
+  "text": "Он подчёркнутый , что некоторые объекты так и не были подвергнуты бомбардировки , поскольку вероятность случайной гибели при этом гражданских лиц была выше 10 процентоф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "бомбардировкам"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

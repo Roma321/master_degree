@@ -1,0 +1,20 @@
+{
+  "text": "В Баку завершился суды по \"делу полковников\" , признавший трех азербайджанских офицерами виновными в попытке государственного переворота в страну .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "офицеров"
+    },
+    {
+      "correctReplacement": "стране",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

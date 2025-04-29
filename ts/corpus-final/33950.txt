@@ -1,0 +1,25 @@
+{
+  "text": "Агентстве Интерфакс сообщаю об ночном обстрел со сторон Чечни подразделения внутренних войск России , дислоцированном в селении Дучи Новолакского района Дагестана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "обстреле"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Агентство"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "стороны"
+    }
+  ]
+}

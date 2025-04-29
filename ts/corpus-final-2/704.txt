@@ -1,0 +1,20 @@
+{
+  "text": "\"Philip Morris просто разорится , если на начавшемся судебном процессе в Майами будут удовлптворены иск американского курильщиков\" , заявляют адвокаты компании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "американских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "иски"
+    },
+    {
+      "correctReplacement": "удовлетворены",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

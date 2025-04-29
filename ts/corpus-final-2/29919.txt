@@ -1,0 +1,25 @@
+{
+  "text": "Так , подразделения израильских армии оставались пока на прежних позициях в южных пригородах Иерусалима , а также в некоторых районах на Западном берегу реве Иордан .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "остаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "реки"
+    },
+    {
+      "correctReplacement": "реке",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

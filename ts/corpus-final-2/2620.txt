@@ -1,0 +1,20 @@
+{
+  "text": "Пять человек пропихнувшие в результатах автокатастрофы , которая произошёл в среду в районе Новомосковска Тульской области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Из здания были саешно эвакуировавшие пассажирках и сотрудники вокзала .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пассажиры"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "correctReplacement": "пассажирах",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "спешно",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Предположительно , основным континентом для новинки станeт других успешно продававший \"паркетный\" внедорожнику - Honda HR-V .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "внедорожник"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "продаваемый"
+    },
+    {
+      "correctReplacement": "конкурентом",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

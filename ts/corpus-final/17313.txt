@@ -1,0 +1,30 @@
+{
+  "text": "В Чечне в результате спецоперации , проведенной сотрудниками ГУБОП МВД России , Северо-Кавказского и Приволжского РУБОП , в районе населённой тпункта Шали была освобождена 13-летняя Алла Гейфмана , дочь одного из российских предпринимателей , сообщаю РИА \"Новости\" со чсылкой на пресс-службу ГУБОП МВД России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 34,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Гейфман"
+    },
+    {
+      "correctReplacement": "пункта",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Владельцами 50 процентов акций ЗАО \"Торговый дом потомков П . А . Смирнова\" стала группа иностранных компаний , об этом сообщил журналистам в среду Олег седовы , юрисконсульт новых акционероф ЗАО и и . о . генерального директора ЗАО Сергея Юзефов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Владельцем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Серов"
+    },
+    {
+      "correctReplacement": "Серовы",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "акционеров",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

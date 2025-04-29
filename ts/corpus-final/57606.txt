@@ -1,0 +1,25 @@
+{
+  "text": "На 63-е минуте Егор Титов переуинул мяч через вратаря гостями , а на последней минуте игры Александр Панов убежал от своего опекуна и выдал отличный пас Валерию Карпину , который и удвою счет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "удвоил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "гостей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "63-й"
+    },
+    {
+      "correctReplacement": "перекинул",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

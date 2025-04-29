@@ -1,0 +1,30 @@
+{
+  "text": "Суд констатированный , что доказать законность владения недвижимостью или опровергнуть это не представляюсь возможным до того пор , пока из администрации Московской областр , Генпрокуратуры и Следственному комитета МВД не поступят соответствующие документы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "констатировал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "представляется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "тех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Следственного"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

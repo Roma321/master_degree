@@ -1,0 +1,25 @@
+{
+  "text": "Потенциальными кандидатами на пост директора МВФ являлись Жан-Кллд Трише , глава французского центрального банка , министр финансов Франции Доминик Страус-Кан и его британское коллега Гордон Брауна .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "являются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Браун"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "британский"
+    },
+    {
+      "correctReplacement": "Жан-Клод",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

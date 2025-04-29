@@ -1,0 +1,35 @@
+{
+  "text": "Трехсторонние переговоры по урегулированию ситуации на Ближнем Востоке между премьер-министром Израиля Эхудом Бараком , предводителем Палестинского национальной администрации Ясиром Арафатом и госсекретарем США Мадлен Олбрайт проходимые в напряженной обстановке , п в один из моментов Мадлен Олбрайт с трудом удалось удержанные Ясира Арафата за столом переговорам .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Палестинской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "проходили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 40,
+      "correctReplacement": "удержать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "переговоров"
+    },
+    {
+      "correctReplacement": "председателем",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

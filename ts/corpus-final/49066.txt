@@ -1,0 +1,25 @@
+{
+  "text": "Согласно сянганским законам , задержанным свозящий наказание в 4 года тюремного заключений и штрафы , превышающий 128 тысяч долларов США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "штраф"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "заключения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "грозит"
+    },
+    {
+      "correctReplacement": "грозящий",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

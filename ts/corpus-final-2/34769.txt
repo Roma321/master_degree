@@ -1,0 +1,15 @@
+{
+  "text": "По некоторых данным , самолет взорвался в воззухе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "некоторым"
+    },
+    {
+      "correctReplacement": "воздухе",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

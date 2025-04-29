@@ -1,0 +1,30 @@
+{
+  "text": "Организовавшая преступное группировка , аоторая незаконно ввезла на территорию России более сотни иномарок , обезвредившая во вторнике в Санкт-Петербурге .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обезврежена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "преступная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Организованная"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

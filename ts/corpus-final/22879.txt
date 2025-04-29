@@ -1,0 +1,35 @@
+{
+  "text": "Официальные представитель премьер-министра Великобритании подтвердил эту информации , отметившие , что считает поступок премьерской жены разумным , так как еей действительно надой было вовремя попасть в Лутон , и принятое решение позволяло ей это сделать .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "отметив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "ей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Официальный"
+    },
+    {
+      "correctReplacement": "надо",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "ней",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

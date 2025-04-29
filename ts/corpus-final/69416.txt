@@ -1,0 +1,20 @@
+{
+  "text": "До этого военными и члены британского правительства уже не раз теряем секрптные лэптопы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "военные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "теряли"
+    },
+    {
+      "correctReplacement": "секретные",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

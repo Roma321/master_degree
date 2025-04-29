@@ -1,0 +1,20 @@
+{
+  "text": "Эстонский премьер-министре получил в подарок \"потребительскую корзину\" с прожектами и рекомендацию растянуть ее содержимое на 30 дней , передают \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "продуктами",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

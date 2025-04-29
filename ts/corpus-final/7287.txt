@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщила в понедельник 15 ноябрь журналистам председатель Центризбиркома Александр Вешняков посло встречи с главой государстве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "государства"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "А после всего этогл выбежали на балкон и попыталась покончить с себе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "выбежала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "собой"
+    },
+    {
+      "correctReplacement": "этого",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

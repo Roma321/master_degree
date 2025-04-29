@@ -1,0 +1,20 @@
+{
+  "text": "Отравифшиеся госпитализированы , одну женщина - 77-летние старушка - умерла .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "77-летняя"
+    },
+    {
+      "correctReplacement": "Отравившиеся",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

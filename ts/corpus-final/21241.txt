@@ -1,0 +1,20 @@
+{
+  "text": "Настоящий Мухит Лайпанову погибший в феврале 1999 года в Ставропольском крае я результате ДТП .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Лайпанов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

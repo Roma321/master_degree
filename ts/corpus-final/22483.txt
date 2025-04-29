@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёшь Федеральное агентство ьовостями , генерал особо отметил политического зрелость избирателей , сумевших \"сделать свой выбор , несмотря на прессинг со стороны федеральных властей и СМИ\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "политическую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "новостей"
+    },
+    {
+      "correctReplacement": "новостями",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "постелька тексте акта , одобренный Сенатами , отличается от текста , одобрившего Палатой представителей , теперь законодателям предстоящий приведение двух рассматриваемых версий к общему знаменателю , а затем повторное обсуждение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "текст"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Сенатом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "одобренного"
+    },
+    {
+      "correctReplacement": "Поскольку",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

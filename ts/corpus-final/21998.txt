@@ -1,0 +1,30 @@
+{
+  "text": "В прошлом году органами прокуратуры России было направлено в судом свыше миллиона уголовныхдел более чем на 1 триллионы 200 тысячам человек , передаваемый информационное агентство \"Интерфакс\" cj ссылкой на источники в Генеральной прокуратуре РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "миллион"
+    },
+    {
+      "correctReplacement": "миллионы",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

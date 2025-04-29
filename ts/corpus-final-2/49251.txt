@@ -1,0 +1,20 @@
+{
+  "text": "В юбилейных концертах , сообщаешь РИА \"Новости\" , примут участие ведущие солисты из России и другим стран Евромы , прозвучат шедевры русской и зарубежной музыки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Европы",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

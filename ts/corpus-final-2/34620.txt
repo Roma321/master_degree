@@ -1,0 +1,20 @@
+{
+  "text": "По факту контрабанды возбуждён уголовное дело , перевозчик задержафший , начато расследование .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "задержавший",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

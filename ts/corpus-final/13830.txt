@@ -1,0 +1,20 @@
+{
+  "text": "По двум актам ограблентй возбуждено уголовную дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "фактам",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "ограблений",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По олову и . о . президента , встречи подобное рода не ставят целью добиться каких-то конкретных решений , он подчеркнул , что произошла \"обмен взглядами х мнениями\" по решению широкого круга проблем , стоящих перед страной .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "подобного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "слову",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

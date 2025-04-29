@@ -1,0 +1,20 @@
+{
+  "text": "По всей видимости , альпинисты поскользнулись при спуске на относительно пологом клоне , не смогли удержаться и упал с отвесной скалы высотой около 50 метры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "метров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "упали"
+    },
+    {
+      "correctReplacement": "склоне",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

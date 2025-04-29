@@ -1,0 +1,20 @@
+{
+  "text": "Лечащий врач монарха настоял на медицинском обследовании , которое выявилп проблемы с сердечного деятельностью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "выявило"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сердечной"
+    },
+    {
+      "correctReplacement": "выявила",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Парламент Японии в среду изберу новой промер министра , поскольку Кейдзо Обути по-прежнему находится в коме .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "избрал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "премьер",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

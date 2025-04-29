@@ -1,0 +1,25 @@
+{
+  "text": "Возвращение президента Азербайджанов на родину было отложившее менно из-за гриппа , сообщил Сулейманов , и состоюсь в ближайшие дни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отложено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Азербайджана"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "состоится"
+    },
+    {
+      "correctReplacement": "именно",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "20 ноябрей стало известно об уходе из компании Port . Ru двух топ-менеджеров - вице-президента по развитию Никиты Корзуна и директора департамента нейтронного коммерции Андрея Табуринского , сообщаесый агентство \"Нетоскоп\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "электронной"
+    },
+    {
+      "correctReplacement": "электронного",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Подобный несчастный случай произошел два годов назад примерно в лотов же местах на северо-западе Намибии , когда другой турист тааже был раздавлен насмерть слоном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "слонами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

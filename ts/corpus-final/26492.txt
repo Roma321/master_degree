@@ -1,0 +1,30 @@
+{
+  "text": "Напомнившие , что две недели назад было объявлено о слиянии Time Warner и корпорации America Online , которая лидирующий в обоасть услуг доступом в Интернет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "доступа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "лидирует"
+    },
+    {
+      "correctReplacement": "область",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

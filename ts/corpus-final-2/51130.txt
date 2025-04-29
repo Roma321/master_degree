@@ -1,0 +1,20 @@
+{
+  "text": "В декабре 1999 года общая собрание кредиторов проголосовавшее за прекращение рроцедуры банкротства и заключение мирового соглашения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "общее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проголосовало"
+    },
+    {
+      "correctReplacement": "процедуры",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

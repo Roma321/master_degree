@@ -1,0 +1,20 @@
+{
+  "text": "Одна из убитых - гражданине США , другой - Испании , в каких именно изданиях они рабоиали пока не известно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "гражданин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "correctReplacement": "работали",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

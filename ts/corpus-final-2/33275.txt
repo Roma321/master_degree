@@ -1,0 +1,20 @@
+{
+  "text": "Погода пока не позволяет вертолёту доставить тела погибших моряки на берущий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "моряков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вертолетам"
+    },
+    {
+      "correctReplacement": "берег",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

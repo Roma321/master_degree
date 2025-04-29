@@ -1,0 +1,25 @@
+{
+  "text": "Альтернативой сценарию , подготовленным фондом , является продолжение резкого подъема американской экономики в 2000 году , что приведет к увеличению инфляционных ожиданий и уже неуправляемой резкрму росту процентных стопок .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "неуправляемому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подготовленному"
+    },
+    {
+      "correctReplacement": "ставок",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "резкому",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

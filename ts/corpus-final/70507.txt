@@ -1,0 +1,25 @@
+{
+  "text": "Второго теннисист России , девятая ракетка мира Мараты Сафин в точности повторённый на Открытом чемпионате Францит турнирный путь Евгения Кафельникова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "повторил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Марат"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Второй"
+    },
+    {
+      "correctReplacement": "Франции",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

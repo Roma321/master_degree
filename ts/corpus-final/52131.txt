@@ -1,0 +1,30 @@
+{
+  "text": "Инцидент между соенными и местным жителем произошел в понедельник в населённом тпункту Самашки , на западе Чеченского республики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "населенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пункте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Чеченской"
+    },
+    {
+      "correctReplacement": "пункту",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "военными",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

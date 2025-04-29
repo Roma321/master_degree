@@ -1,0 +1,40 @@
+{
+  "text": "Щоходы , получаемые пророссийского казной от продажи нефти , добытой на территориях Чеченской республики , планируюсь направленные на частичный покрытие расходов по восстановлению народно-хозяйственного комплекса республики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "направить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "частичное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "территории"
+    },
+    {
+      "correctReplacement": "российского",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Доходы",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

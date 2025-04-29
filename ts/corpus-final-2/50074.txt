@@ -1,0 +1,20 @@
+{
+  "text": "Счётом президента на 24 фунта стерлингов выкупленная газета The Daily Mirror , которая щедро выделила хозяину бара еще 3 унта чаевых .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выкупила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Счет"
+    },
+    {
+      "correctReplacement": "фунта",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

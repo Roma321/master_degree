@@ -1,0 +1,25 @@
+{
+  "text": "Об этом происшествии сообщает Washington Post cо ссылкой на пресс-секретаря японской полиций . В прошлом годы в японке было совершено 1265 убийств - это гораздо меньше в пересчете на душу населения , чем в других развитого странах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "развитых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "полиции"
+    },
+    {
+      "correctReplacement": "Японии",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

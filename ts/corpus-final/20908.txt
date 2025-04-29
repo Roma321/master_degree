@@ -1,0 +1,20 @@
+{
+  "text": "Кроме той , обвиняемые толком не ознакомились с материалами дела : на изучение 140 томов дела им было предоставившее лишь 63 дня Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "предоставлено"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

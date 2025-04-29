@@ -1,0 +1,30 @@
+{
+  "text": "Президенты России и Финляндии опсудим такое вопросы экономической сотрудничества , программу взаимодействия на таможенную границе , а также затронули двусторонние экономические проекты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "экономического"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "обсудили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "таможенной"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "обсудим",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

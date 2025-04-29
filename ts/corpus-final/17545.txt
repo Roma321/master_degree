@@ -1,0 +1,35 @@
+{
+  "text": "Во время судебного заседания по иску кандидата в мэрам Москвы Алексея Митрофанова об отмене кандидатской регистрации Юрия Лужкова в здание Мисгорсудом позвоню неизвестный и сообщило , что оно заминировавшее .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "заминировано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "позвонил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Мосгорсуда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "мэры"
+    },
+    {
+      "correctReplacement": "Мосгорсудом",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

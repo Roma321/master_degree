@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили в пресс-службе РАО ЕЭС , накануне 17 октября конкурсная управляюжий ОАО \"Уралмото\" направил в адрес ОА \"Свердловэнерго\" уведомление с отказу от услуги по энергоснабжению .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "отказом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "услуг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "конкурсный"
+    },
+    {
+      "correctReplacement": "управляющий",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

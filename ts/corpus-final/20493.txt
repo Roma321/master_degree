@@ -1,0 +1,20 @@
+{
+  "text": "Согласно официальному данным , за это предложение тогда обосновавшие 99 процентов избирапелей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "официальным"
+    },
+    {
+      "correctReplacement": "проголосовали",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

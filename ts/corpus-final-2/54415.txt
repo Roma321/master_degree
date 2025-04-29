@@ -1,0 +1,20 @@
+{
+  "text": "Больший часть продукции неприятия России реализуется через фирмы-однодневки , которые скрывают свою прибыль и не платят налоги , сказал он .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Большая"
+    },
+    {
+      "correctReplacement": "предприятиям",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на то что во время осмотра места происшествия крупных фрагментов бомбы найти не удалось , специалистами считаете , что было использовано безоболочное взрывное устройством мощностью около 100 граммов в тротиловом эквивалентном .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "устройство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "специалисты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "эквиваленте",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

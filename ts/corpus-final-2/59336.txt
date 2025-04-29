@@ -1,0 +1,20 @@
+{
+  "text": "Полицейские полка не готовы утверждатл , что оба преступления совершил одному и тот же человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "утверждать",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

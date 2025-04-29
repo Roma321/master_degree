@@ -1,0 +1,30 @@
+{
+  "text": "Первые заместитель министра государственным имущества РФ Герман Греф подписало распоряжение об учреждении состава совет директоров ОАО \"АК \"Транснефть\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "государственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "совета"
+    },
+    {
+      "correctReplacement": "утверждении",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

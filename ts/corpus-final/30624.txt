@@ -1,0 +1,30 @@
+{
+  "text": "Тем не менее , митинг в Нью-йорках , на котором Хиллари Клинтон выступила с получасовой речью , освещали около 50 американским и зарубежных телекомпаний , а на территории штата Нью-Йорк в это время проходили 600 собраний активистов , в которых участвовавшие более 20 тысяч ее сторонников , сообщаемый рка \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 40,
+      "correctReplacement": "участвовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Нью-Йорке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 47,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "американских"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "paronym",
+      "wordNumber": 48
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Речь идут о программе , присоединяемой к письму электронного почты под вижом вложу документа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "вложенного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "электронной"
+    },
+    {
+      "correctReplacement": "видом",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

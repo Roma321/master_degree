@@ -1,0 +1,30 @@
+{
+  "text": "Лидер парпии , выступая на торжественной заседании , заявил о полном поддержке правительства владимир Путина и \"предал анафеме\" мэра Москвы , заявив , что \"Лужков не имеет права быть мэром столицы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "полной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "торжественном"
+    },
+    {
+      "correctReplacement": "Владимир",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "партии",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

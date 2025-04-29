@@ -1,0 +1,25 @@
+{
+  "text": "В самой России , продолжил далёкий II , \"сегодня создан огромный рынки алкоголя , наркотиков , порнографии , контрацептивов\" , что вызвало \"небывалый демографическая кризис и приводит к вырождению и выииранию нашего народа\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "демографический"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "рынок"
+    },
+    {
+      "correctReplacement": "Алексий",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "вымиранию",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

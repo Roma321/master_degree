@@ -1,0 +1,20 @@
+{
+  "text": "Адвокаты отметивший , что \"по каким-то причинам\" это ходатайство , переданное его подзащитным через администрацию лефортовского СИЗО , \"до суда не дошло\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

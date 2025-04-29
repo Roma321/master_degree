@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечалось на коллеги , главные сейчас - правильно организовать процесс дальнейшего работы , учту все замечания специалистов , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "дальнейшей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "главное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "учтя"
+    },
+    {
+      "correctReplacement": "коллегии",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

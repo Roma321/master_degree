@@ -1,0 +1,30 @@
+{
+  "text": "Военные называют обороны чеченцеф глубоко эшелонированного , подразумевая , что осадка продлишься не один день .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "эшелонированной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "продлится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "оборону"
+    },
+    {
+      "correctReplacement": "осада",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "чеченцев",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "У нас еденные уголовное дело , по которос проходят Фламинго-банк , Собинбанк , отчасти Депозитарно-клиринговый бан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "которому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "банк",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

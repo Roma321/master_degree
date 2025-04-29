@@ -1,0 +1,20 @@
+{
+  "text": "Братья Ашоты и Давид Шагеряны , эмигрировавшие в США , и Андрей Козленок - он же грек Андреас Иллеадис по поддельному паспорту - создававшие фирму для алмазном контрабанды .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "алмазной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Ашот"
+    },
+    {
+      "correctReplacement": "создали",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

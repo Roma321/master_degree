@@ -1,0 +1,20 @@
+{
+  "text": "Возмущенным ростом цен горожанам продавцы объясняем , что в Грозный покрасивший завоз товаров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "прекращен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "объясняют"
+    },
+    {
+      "correctReplacement": "прекративший",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

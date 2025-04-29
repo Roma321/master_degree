@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю BBC News , полиции склонялась к предположению , что полотна были покаченные по заказу какого-нибудь богатого иностранца-коллекционера и уже переправлены за рубеж .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "полиция"
+    },
+    {
+      "correctReplacement": "похищены",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

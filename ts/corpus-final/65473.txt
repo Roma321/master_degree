@@ -1,0 +1,25 @@
+{
+  "text": "В среду в США выпустившие в обращения купавшие нового образцов достоинством 5 и 10 долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "обращение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выпущены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "образца"
+    },
+    {
+      "correctReplacement": "купюры",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

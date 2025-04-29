@@ -1,0 +1,20 @@
+{
+  "text": "Однако во вторники заклятия в школе возобновился , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "возобновились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "занятия",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

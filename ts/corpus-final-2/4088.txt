@@ -1,0 +1,20 @@
+{
+  "text": "На совещании глава государства отметил , что многие проблемы региона имеющие объективную осеову и обусловлены , по его мнению , излишнего забюрокраченностью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "излишней"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "имеют"
+    },
+    {
+      "correctReplacement": "основу",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

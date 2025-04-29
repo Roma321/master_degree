@@ -1,0 +1,25 @@
+{
+  "text": "Предложение , как выразилась Харитонам , было \"несовместимым с дальнейшим проживаниями в городе\" , потому человек был вынужден отказаться от участия в кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "выразился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "проживанием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Харитонов"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

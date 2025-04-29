@@ -1,0 +1,20 @@
+{
+  "text": "Пожарным понадоблюсь коло семи часов , чтобы потушенные огонь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "потушить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "понадобилось"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

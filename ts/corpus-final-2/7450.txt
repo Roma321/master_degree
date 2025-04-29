@@ -1,0 +1,25 @@
+{
+  "text": "Адвокаты Внешэкономбанке рассматривали вопрос о предъявлении компании Noga иска о возмещении прямых и косвенных убытков , нанёсших банк ее неправомерными действиями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Внешэкономбанка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "банку"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "рассматривают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "нанесенных"
+    }
+  ]
+}

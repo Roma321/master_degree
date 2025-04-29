@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщило в среде \"Интерфаксу\" красноярский адвокат бывшей главы \"КрАЗа\" Роберт Дубинников , срок содержаний его подзащитного под стражей продлен на три месяца , и Быков остается в \"Лефортово\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "содержания"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённыу РИА \"Новости\" оказавшийся свидетелем происшествия депутат законодательного собрания Петербурга Виктор Евтухов , Максим Соколов намерен отстаивать своих честь и достоинстве всуде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "достоинство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

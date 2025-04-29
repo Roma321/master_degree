@@ -1,0 +1,30 @@
+{
+  "text": "Президиуме Верховного суда рассмотрю аротест Генпрокуратуры на решение Верховного судов по делу о регистрации Российской консервативной епархии предпринимателей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президиум"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "рассмотрел"
+    },
+    {
+      "correctReplacement": "партии",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "протест",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

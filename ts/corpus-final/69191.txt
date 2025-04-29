@@ -1,0 +1,30 @@
+{
+  "text": "По словам лечимого врача чешского президента Илью Котика , при отсутствии послеоперационных осложнений пациент проведу в воспитателе два недели .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Ильи"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "лечащего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "проведет"
+    },
+    {
+      "correctReplacement": "госпитале",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

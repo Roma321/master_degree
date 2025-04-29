@@ -1,0 +1,30 @@
+{
+  "text": "По заявления Кесса , сущездвующая сегодня систему налогообложений по углеводородному сырью \"не совсем нормальная и приводит к сочувственным потерям в консолидированном бюджете страны\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "налогообложения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "система"
+    },
+    {
+      "correctReplacement": "существенным",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "существующая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

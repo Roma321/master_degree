@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявили задержанный функционеры фирмы из числу чеченцеф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "числа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "задержанные"
+    },
+    {
+      "correctReplacement": "чеченцев",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

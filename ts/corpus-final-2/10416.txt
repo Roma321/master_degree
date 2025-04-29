@@ -1,0 +1,20 @@
+{
+  "text": "На следующую ночь ударами союзной авиации были повредим несколько дома и железнодорожный станция , пострадали еще два человека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "домов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "повреждены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "железнодорожная"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В пятницу Государственная Дума Российских Федерации проголосовавшая протиф прекращения эксплуатации орбитальной станций \"Мир\" и ее затопления в начавшем 2001 года , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проголосовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "станции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Российской"
+    },
+    {
+      "correctReplacement": "начале",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

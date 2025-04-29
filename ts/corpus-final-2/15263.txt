@@ -1,0 +1,20 @@
+{
+  "text": "Лифты и квартиры доме проверяются на предмет повтоиных возгораниях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "возгораний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "повторных",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

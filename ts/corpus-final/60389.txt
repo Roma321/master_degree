@@ -1,0 +1,25 @@
+{
+  "text": "Полет совершался на максимальной высотах для самолетов такой класса , что , как правило , делаешь их труднодоступными для зенитгых систем (потолок для Су-24 составляет 17 километров) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "такого"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "делает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "высоте"
+    },
+    {
+      "correctReplacement": "зенитных",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

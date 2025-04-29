@@ -1,0 +1,25 @@
+{
+  "text": "После этого оборона фавориты не допускала трубных ошибок , и матч так и закончилось со счётами 2 : 1 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "счетом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "фаворитов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "закончился"
+    },
+    {
+      "correctReplacement": "грубых",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

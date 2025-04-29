@@ -1,0 +1,25 @@
+{
+  "text": "Новач сервак впервые появится в 2001 году на линиях North American , позволил пассажирам использовать электронную почту , бродить по Сети или смотретьтелепрограммы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "позволит"
+    },
+    {
+      "correctReplacement": "сервис",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Новая",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

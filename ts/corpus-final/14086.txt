@@ -1,0 +1,40 @@
+{
+  "text": "В минувшая понедельник заместители главы Министерства юстиции РФ Юрий Калинин , выступая перед Центральной избирательной комиссиями , заявил , что в предстоящем голосовании на выборах депутата Госдумы не смогут принять участие около 110 тысяч человек - половина всех лиц , содержащихся в следственных изоляторах России , сообщал Федеральное агентством новости .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 49,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "комиссией"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "депутатов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 48,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 46,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

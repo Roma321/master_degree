@@ -1,0 +1,25 @@
+{
+  "text": "В результате страшного удара у машины оказалась полностью смята всей носовая часть и с корнем вырваны трёх колёсе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "три"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "вся"
+    },
+    {
+      "correctReplacement": "колеса",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "колёса",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

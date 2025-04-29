@@ -1,0 +1,20 @@
+{
+  "text": "В Аргуне боевики убил пятерых местных жителей , среди которых сотрудник городской отряба милиции особого назначения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "убили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "городского"
+    },
+    {
+      "correctReplacement": "отряда",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

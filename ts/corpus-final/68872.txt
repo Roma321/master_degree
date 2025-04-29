@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники транспортного милиции задержали на железнодорожной станции в Кисловодске троих пассажирова , которые , по смешения оперативников , можете являться членами ваххабитских организаций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "транспортной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "сведениям",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Бахрейнах начато расследование обстоятельств крушения самолета A320 компании Gulf Air , разбившегося в четверг при заводе на посадку в аэропорту столицы Бахрейн Манама .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Бахрейне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Манамы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Бахрейна"
+    },
+    {
+      "correctReplacement": "заходе",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

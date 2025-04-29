@@ -1,0 +1,25 @@
+{
+  "text": "Выступав на митинге в Ляньюньгане , заместитель главы Минатома России Евгений Решетников назвавший сооружение АЭС \"самым крупным и самым важными проспектом российско-китайского практического сотрудничества\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "важным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выступая"
+    },
+    {
+      "correctReplacement": "проектом",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "На сегодняшней заседаниях Мосгосуд отказал в удовлетворении жалобы супруги мэра Момква Елены Батуриной на действия ФСБ России , но посчитанный справедливыми чающая ее требований к прокуратуре Владимирской области .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "посчитал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшнем"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "Москва",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В четверг , по информации секретариата ОПЕК в Вене , 20-дневная средневзвешенная доставляющаяся мировой цена на нефть достигшая 28 , 08 доллара за баррель , превышу верхнюю границу установленного коридором в 28 долларов за баррель .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "превысив"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "цены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "коридора"
+    },
+    {
+      "correctReplacement": "составляющая",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

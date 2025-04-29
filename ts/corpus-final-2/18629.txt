@@ -1,0 +1,25 @@
+{
+  "text": "За деньги Чэн Кэдзэ закрывал глаза на сомнительные операцией с государственного собственностью и способствовал кассетному ростам чиновников , дающих взятки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "росту"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "операции"
+    },
+    {
+      "correctReplacement": "карьерному",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

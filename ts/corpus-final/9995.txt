@@ -1,0 +1,35 @@
+{
+  "text": "В четверг войска Западной группировки федеральные силы начали операцию по взятию Урус-Мартана , сообщаемый Агентство вечных новостей со ссылкой на штаб 58-й общевойсковое армии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "общевойсковой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "начнут"
+    },
+    {
+      "correctReplacement": "военных",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

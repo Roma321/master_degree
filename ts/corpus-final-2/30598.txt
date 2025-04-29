@@ -1,0 +1,25 @@
+{
+  "text": "В четверг высочайшее народный суд китайской провинции Цзизинь приговорил к смертную казни 30-летнего местного жителя Чэнь Анго , который в апреле 1995 года беззаконное пересек границу и убил российского пограничника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "смертной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "высший"
+    },
+    {
+      "correctReplacement": "незаконно",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "Цзилинь",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

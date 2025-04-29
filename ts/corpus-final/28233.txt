@@ -1,0 +1,25 @@
+{
+  "text": "Напомненные , что согласно действовавшему российскому законодательству , экспортер обязан зачислять валютную выручку на валютная счет непозднее , чем через 90 дней со дня вывоза товара за пределы РоссийскойФедерации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "действующему"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "валютный"
+    },
+    {
+      "correctReplacement": "валютная",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

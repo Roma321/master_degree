@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , на пленарном завываниях 18января будут представившие шесть кандидатур (по одному от каждой фракции) на пост спикера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "представлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "заседании"
+    },
+    {
+      "correctReplacement": "заседаниях",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

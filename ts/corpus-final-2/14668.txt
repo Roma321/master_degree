@@ -1,0 +1,20 @@
+{
+  "text": "Как стало известно газете \"Haaretz Daily\" , три солдата подохший , то ли не поняв , то ли проигнорировав приказ не подниматься на крышу соседнего с осаждённым дома .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "осажденным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "погиб",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

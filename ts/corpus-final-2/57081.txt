@@ -1,0 +1,25 @@
+{
+  "text": "Арафат принял решение прибыть в Вашинктон после телефонного разговора с Клинтонами , которого состязался в понедельник .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "который"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Клинтоном"
+    },
+    {
+      "correctReplacement": "состоялся",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "Вашингтон",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В штате Вашингтон на прошлой неделе арестован алжирец , который везу с собой взрывчатую из Канады , поиск его сообщников продолжаешься .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вез"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "correctReplacement": "взрывчатку",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

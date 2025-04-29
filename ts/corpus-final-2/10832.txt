@@ -1,0 +1,20 @@
+{
+  "text": "В роли беглеца выступаешь голландский тренер по имени Роджер , победивший в конкурсе , где участвовавшие 9 тысяч рецензентов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "участвовали"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "выступает"
+    },
+    {
+      "correctReplacement": "претендентов",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Испанское информационное агентство EFE сообщаешь , что в своем решении взять Гусинского под стражу судья Гарсон руководствуюсь рекомендациям общественной обвинителя , укажу на веский риску бегства предпринимателя из Испании в случае освобождения под залог .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "рекомендациями"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "руководствовался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "указавшего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "риск"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "общественного"
+    },
+    {
+      "correctReplacement": "высокий",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

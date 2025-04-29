@@ -1,0 +1,25 @@
+{
+  "text": "Председатель ТНК Семен Кукес подчеркнул , что общая сумма кредитов в рамках данного соглашения , которое такое включает предоставлении гарантий на выделяемый ТНК кредиты , составит 500 миллионов долларами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "выделяемые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "предоставление"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

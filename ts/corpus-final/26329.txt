@@ -1,0 +1,25 @@
+{
+  "text": "Власти Бирмы запретили пользователям Интернета в своего стране размещать в Сетр любые материалы политического содержанием , которые прямо или косвенно \"вредят государству\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "содержания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Сети"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "Сеть",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

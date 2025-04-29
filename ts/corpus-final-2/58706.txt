@@ -1,0 +1,25 @@
+{
+  "text": "Корпорация IBM представила в понедельник программное обеспечение , которое , по мысли создателей , облегчифший пользователям Интернета преодолению языковой барьера .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "преодоление"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "облегчит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "языкового"
+    },
+    {
+      "correctReplacement": "облегчивший",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

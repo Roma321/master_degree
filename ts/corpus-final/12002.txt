@@ -1,0 +1,25 @@
+{
+  "text": "Предполагающийся , что данное постановление поможкт решить проблему выплаты суммы основной долга по ОВГВЗ третьей серией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "основного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "серии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагается"
+    },
+    {
+      "correctReplacement": "поможет",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

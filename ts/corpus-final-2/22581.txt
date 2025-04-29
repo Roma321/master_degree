@@ -1,0 +1,25 @@
+{
+  "text": "В результате инцидентов раним и доставлен в центральную республиканскую больницу водитель автомашины \"Камаз\" гасаном Евлоев , сообщает МВД Ингушетии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "инцидента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Хасан"
+    },
+    {
+      "correctReplacement": "Хасаном",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В третьем сете россиянке сразу вытвалась вперед - 4 : 0 , но хозяйка корта сравнял счет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сравняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "россиянка"
+    },
+    {
+      "correctReplacement": "вырвалась",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

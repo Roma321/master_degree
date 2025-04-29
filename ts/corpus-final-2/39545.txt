@@ -1,0 +1,20 @@
+{
+  "text": "Московский арбитражного суд взысканный еще 3 , 6 миллиона долларов с ЗАО \"Бонум-1\" , бочерней компании \"НТВ Плюс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "взыскал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "дочерней",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

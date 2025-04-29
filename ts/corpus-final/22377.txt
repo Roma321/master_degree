@@ -1,0 +1,20 @@
+{
+  "text": "Лидер КПРФ Геннадий Зюганов выдвину кандидатом на пост прежидента РФ от Народно-патриотических сил , сообщают РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "выдвинут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

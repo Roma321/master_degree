@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу Госдума приняла решенае продлить весенних сессию до 8 июле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "июля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "весеннюю"
+    },
+    {
+      "correctReplacement": "весенних",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

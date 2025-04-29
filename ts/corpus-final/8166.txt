@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщают агентство РосБизнесКонсалтинг со посылкой на пресс-службу завода , причины возврата к давно устаревшим и неэкономичным технологиям мартеновского плавкм стали многочисленные нарушения договорных обязательств предприятиями-поставщиками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "мартеновской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "причиной"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "плавки",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

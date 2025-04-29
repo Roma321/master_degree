@@ -1,0 +1,35 @@
+{
+  "text": "Начальник пассажирской слежки Московской железной дорогу Олег Прохоров скептически отнесусь к предложению Юрием Лужкова о переносе вокзалов из центром города в район третьего транспортного кольца и о передачей зданий вокзалов под торговые комплексы , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отнесся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "передаче"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Юрия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дороги"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

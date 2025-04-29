@@ -1,0 +1,20 @@
+{
+  "text": "А самой быстрорастущей группой пользователей интереса за последнюю год стали женщины старше 55 : их количества за год выросло на 98 . 1 процентов и в апреле составляло 3 . 19 миллионов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "последний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "количество"
+    },
+    {
+      "correctReplacement": "Интернета",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

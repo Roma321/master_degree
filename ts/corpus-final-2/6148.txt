@@ -1,0 +1,25 @@
+{
+  "text": "Никто из сотрудников ФСБ не пострадавший , так как снаряд выпущенная из гранатомётов попал в ствол дерева и разорвался в 20 метрах от здания . Взрывной волной были выбьем окна в близлежащих домах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "выпущенный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "выбиты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "гранатомета"
+    }
+  ]
+}

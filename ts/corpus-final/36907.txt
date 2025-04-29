@@ -1,0 +1,25 @@
+{
+  "text": "Однако поскольку некоторых кандмдаты могущие отказавшиеся от участия в той или иной дискуссии , в графике дебатов возможны изменения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "отказаться"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "некоторые"
+    },
+    {
+      "correctReplacement": "кандидаты",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

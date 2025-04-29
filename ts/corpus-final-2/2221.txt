@@ -1,0 +1,30 @@
+{
+  "text": "Сейчас системы обслуживает такие популярные игмой как Unreal Tournament и Quake2/3A . Результаты каждой онлайн-игры зарегистрированного на ngWorldStats пользователя заносятся в систему , которая определяет его рейтинг в мировую классификации и регистрирует множества других параметров , позволяющих оценивать уровень мастерства игрока .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "игры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "система"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "мировой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "множество"
+    },
+    {
+      "correctReplacement": "игрой",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , обнаруженный взрывпакетом скорее являешься светозвуковым изделием , пежели взрывчаткой , и не представляющий опасности .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "представляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "взрывпакет"
+    },
+    {
+      "correctReplacement": "нежели",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

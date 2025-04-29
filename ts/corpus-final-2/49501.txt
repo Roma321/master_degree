@@ -1,0 +1,20 @@
+{
+  "text": "Более того , такие водители ездим очень аккурат и не превышают скорости .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "ездят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "скорость"
+    },
+    {
+      "correctReplacement": "аккуратно",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

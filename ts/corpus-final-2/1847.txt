@@ -1,0 +1,20 @@
+{
+  "text": "Третье и победный голе принёсший с пенальти на 77-й минуте Дмитрий Лоськов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Третий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гол"
+    },
+    {
+      "correctReplacement": "провел",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Корпорация De Beers отозвало своих экспертов по закупке алмаза из Конго и Гвинеи и завшая распоряжение своим офисам в Антверпене и Тель-Авиве не закупать сырье , импортируемое из Африки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "отозвала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "алмазов"
+    },
+    {
+      "correctReplacement": "дала",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

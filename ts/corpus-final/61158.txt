@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшнюю день компания \"Роснефть\" прекратила почтавки топлива в регин из-за большой задолженности потребителей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "correctReplacement": "регион",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "поставки",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

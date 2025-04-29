@@ -1,0 +1,20 @@
+{
+  "text": "Впрочем , передавал слова Пикфорду Reuters , речь идет об останках не одной , а , по меньшей мере , пяти особей , мужских и ческиёв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Пикфорда"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "женских",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

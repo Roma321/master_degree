@@ -1,0 +1,35 @@
+{
+  "text": "Следователь сказал , что экспертиза может быть проведены насильно , и не исключённый изменения нынешнего меры пресечения журналистам - потписка о невыезде - на более жесткую , то ев арест .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "исключил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "проведена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "нынешней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "журналисту"
+    },
+    {
+      "correctReplacement": "подписка",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

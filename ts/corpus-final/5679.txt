@@ -1,0 +1,30 @@
+{
+  "text": "Международный уголовноро суд будет находиться в Гааге и рассматривающие дела людей , обвиняемых в геноциде , агрессий , военных преступлениям , и преступлениях против человечества .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "рассматривать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "агрессии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "преступлениях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "уголовный"
+    },
+    {
+      "correctReplacement": "уголовного",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

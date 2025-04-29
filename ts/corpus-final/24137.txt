@@ -1,0 +1,20 @@
+{
+  "text": "Дефицит зерна вызвали утвердительный рост цен на хлебе по всей Украине .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "хлеб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вызвал"
+    },
+    {
+      "correctReplacement": "стремительный",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

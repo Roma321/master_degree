@@ -1,0 +1,30 @@
+{
+  "text": "Шкура , владельцем которой до сегодня ошибочно считали мамонтом , была единственной приобретением , сохранившим полноценные клетки , ищ которых можно вырастившие клоне животного .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "единственным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "клон"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "мамонта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "вырастить"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

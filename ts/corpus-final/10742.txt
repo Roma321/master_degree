@@ -1,0 +1,25 @@
+{
+  "text": "Во вторником компания начала процедуру банкротства после той , как ее кредиторам не удамся договориться по плану спасений компании на сумму около 3 миллиардов марок .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "спасения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "удалось"
+    }
+  ]
+}

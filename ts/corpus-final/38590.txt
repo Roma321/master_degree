@@ -1,0 +1,20 @@
+{
+  "text": "Ролан дюш , близкое друг бывших президента Франции Франсуа Миттерана , в течение семи лет возглавлял МИД Франции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "близкий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "Дюма",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , как сообщающий РТР , спикер Госдумы Геннадий Селезнев заявило во вторник утром , что все эти законопроект могли быть перенятые сразу в трех чтениях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "законопроекты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "приняты",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

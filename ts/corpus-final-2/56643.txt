@@ -1,0 +1,35 @@
+{
+  "text": "А подросткам грозишь еще одно дополнительное обвинения - во время обыска в их домах полмция обнаружу огнестрельное оружие и взрывчатую .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "обвинение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "доме"
+    },
+    {
+      "correctReplacement": "взрывчатку",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "полиция",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

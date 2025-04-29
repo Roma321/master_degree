@@ -1,0 +1,30 @@
+{
+  "text": "Кандидат в президенты США от республиканского партии Джорджу Буш-младшего заявленный , что это решение продиктовано политическими соображениями и призвано повысить популярность другого кандидата - нынешнего вице-президента Альберта гора , поддердживаемого администрацией Клинтона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Джордж"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Буш-младший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "республиканской"
+    },
+    {
+      "correctReplacement": "Гора",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

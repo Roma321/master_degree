@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , через месяц в крупных населенных пункте на территории освободивших районов Чечни будут проводиться собрания , сотовый изберёте депутатов верхней и нижней палаты чеченского парламента .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "изберут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "освобожденных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "пунктах"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

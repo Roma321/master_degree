@@ -1,0 +1,20 @@
+{
+  "text": "В матче против Каспарова приняли участие более 30 тысяч игроков , кьторым каждый два дня обменивались вариантами возможных ходов по электронной почте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "каждые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "которым",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

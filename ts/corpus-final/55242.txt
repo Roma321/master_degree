@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники правоохранительных органов , в своя очередь , утверждаем , что \"преподаватели шариата\" знакомы со своему предметом очень поверхностно Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "своим"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В связей с расследованию этого дела полицейскими были отстранены от своих собранностей и отосланы на родину - в Англию , США и Испанию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "полицейские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "расследованием"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "обязанностей",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

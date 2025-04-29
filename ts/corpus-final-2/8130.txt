@@ -1,0 +1,25 @@
+{
+  "text": "За это время самолит поднимался на большей высоту , где очень низкие температура воздуха и крайне разреженная атмосфера , мало неугодная для дыхания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "низкая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "большую"
+    },
+    {
+      "correctReplacement": "пригодная",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "самолет",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

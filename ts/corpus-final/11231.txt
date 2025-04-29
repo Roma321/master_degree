@@ -1,0 +1,35 @@
+{
+  "text": "В настоящее времени гбтовящийся просек указа президента России о дислокации общевойскового соединения российских Вооруженных сил на территории Чечни на постоянных основах , в рамках фланговых ограничений договора об обычных вооруженных силах в Европе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "готовится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "постоянной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "основе"
+    },
+    {
+      "correctReplacement": "проект",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "готовящийся",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

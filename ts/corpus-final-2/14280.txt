@@ -1,0 +1,20 @@
+{
+  "text": "Правда , как отмечаемый ZDNet , среди отрицательные качеств нового устройства - его высокая цена : 350 фуноов (515 долларов) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "отрицательных"
+    },
+    {
+      "correctReplacement": "фунтов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

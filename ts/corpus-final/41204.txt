@@ -1,0 +1,30 @@
+{
+  "text": "Михаил Сеславинский сообщило , что сегодня днем руководвтво министерств проведёт пресс-конференцию , в которой высказал свою позицию в этом конфликте .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "выскажет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "проведет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "министерства"
+    },
+    {
+      "correctReplacement": "руководство",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

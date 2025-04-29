@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что архиерейскому соборы Русской православной церкви недавно объявивший о своем решении причислить Николая II к лику звятых .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "собор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "архиерейский"
+    },
+    {
+      "correctReplacement": "святых",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сотни богатеющих жителей Бейрута , являющиеся членом секты Накшбанди , по призыву своему лидера уходят в горы , чтобы спасшиеся от катастроф , которые якобы начнутся непосредственно перед наступлением 2000 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "членами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "спастись"
+    },
+    {
+      "correctReplacement": "богатых",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Москве около 19 : 00 на пересечении Волгоградского проспекта с нашенской улицей большегрузный автомобиль столкнулся с трёх легковыми машинами , сообщаешь \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "тремя"
+    },
+    {
+      "correctReplacement": "Ташкентской",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

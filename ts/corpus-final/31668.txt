@@ -1,0 +1,25 @@
+{
+  "text": "Но слепые хотели бы , чтобы на сайтах были сделан добавления : все картинки должны содержать подписи , которыми могут интерпретировать специальными программы для слепых .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "сделаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "программами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "интерпретироваться",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

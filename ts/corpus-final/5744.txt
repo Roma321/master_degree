@@ -1,0 +1,25 @@
+{
+  "text": "В заявлении Красного креста говорятся , что в официальной статистике фигурирует цифра 3460 погипших , при этом не учитываются те , кто был кремируем или похоронен родственниками или соседями до прибытия власти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "властей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "кремирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "говорится"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

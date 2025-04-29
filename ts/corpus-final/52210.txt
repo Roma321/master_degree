@@ -1,0 +1,25 @@
+{
+  "text": "Данных пь текущим года еще нет , но присутствие пернатых с каждым днем ощущаешься все больше и больше .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "текущему"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "ощущается"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

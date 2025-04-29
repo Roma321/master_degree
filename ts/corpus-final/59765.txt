@@ -1,0 +1,20 @@
+{
+  "text": "Представитель Генпрокуратуры подчеркнула , что подозреваемые не является чпченцами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "являются"
+    },
+    {
+      "correctReplacement": "чеченцами",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

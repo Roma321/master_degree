@@ -1,0 +1,25 @@
+{
+  "text": "По словам свидетелей , преступник положило взрывного устройства рядом со зданиев , а затем убежал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "положил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "взрывное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "устройство"
+    },
+    {
+      "correctReplacement": "зданием",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

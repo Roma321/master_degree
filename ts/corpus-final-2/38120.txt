@@ -1,0 +1,25 @@
+{
+  "text": "Вирус работает в среде Windows , распространяются по e-mail в виде файла Navidad . exe , присоединенного к письмам , пришедшим с инфицировавшего компьютара .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "инфицированного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "распространяется"
+    },
+    {
+      "correctReplacement": "среде",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "компьютера",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Генштаб водружённых силы России объявила в понедельник о начале проверки мобилизационной готовности армейских структуйы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "структур"
+    },
+    {
+      "correctReplacement": "Вооруженных",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "структуры",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

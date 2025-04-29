@@ -1,0 +1,30 @@
+{
+  "text": "Как полагаешь Пентагон , массированное наступление на компьютеры министерства обороны и минимуществ энергетики США ведут хакеры из Российской Академии наук , которая связана с военным лабораториями и спонсируешься правительством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "министерства"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "спонсируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "военными"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "полагает"
+    },
+    {
+      "correctReplacement": "министерств",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

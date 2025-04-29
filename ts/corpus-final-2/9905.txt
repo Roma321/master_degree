@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время с этим диагнозом госпитализированы уже 26 человечек , 160 находящиеся на опследовании .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "обследовании",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

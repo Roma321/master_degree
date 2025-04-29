@@ -1,0 +1,20 @@
+{
+  "text": "При этому авторы фильма напомнили , что цена одной ракеты составляют 1 миллиону долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "миллион"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "составляет"
+    }
+  ]
+}

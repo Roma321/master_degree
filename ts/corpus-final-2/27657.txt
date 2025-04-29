@@ -1,0 +1,25 @@
+{
+  "text": "Американские и британские самолеты совершают патрулирования так напевающих зон , закрытых для полетоф иракских ВВС , на юге и севере страны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "называемых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "патрулирование"
+    },
+    {
+      "correctReplacement": "называвших",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "полетов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

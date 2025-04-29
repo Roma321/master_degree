@@ -1,0 +1,25 @@
+{
+  "text": "Россия утверждавшая для себя срок до конца 2001 годов завершившие переговоры по основным товарным позициям для вступления во Всемирную торговую организацию (ВТО) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "утвердила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "завершить"
+    },
+    {
+      "correctReplacement": "утвердившая",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

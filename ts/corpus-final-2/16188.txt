@@ -1,0 +1,25 @@
+{
+  "text": "А депутат Дмитрий Катаев считает , что присвоение такое звания предстоятелю Русской православной церкви могу создать прецедент , в результате чего высочайшая лицо любой конфессии булет претендовать на такое звание .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "высшее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "такого"
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

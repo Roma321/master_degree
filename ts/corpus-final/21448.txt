@@ -1,0 +1,25 @@
+{
+  "text": "В это время армейские наблюдатели в Ханкале сначала зафиксировали мощный взрыв на северной окраинах чеченской столиц , а затем появившееся ы небе белое облачко , которое постепенно накрыло город , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "окраине"
+    },
+    {
+      "correctReplacement": "облако",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

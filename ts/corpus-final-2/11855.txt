@@ -1,0 +1,20 @@
+{
+  "text": "В шести километрах от села Аллерой , в леса , разведчики из подразделения внутренних войчк МВД РФ обнаружим танк Т-72 , принадлежавший боевикам .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "лесу"
+    },
+    {
+      "correctReplacement": "войск",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

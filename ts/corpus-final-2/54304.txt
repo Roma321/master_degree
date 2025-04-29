@@ -1,0 +1,25 @@
+{
+  "text": "Позиция президента Венесуэлы исключительно важна , так как именно позиция этой страны повлияла на новый курса ОПЕК , который привёл на протяжении нынешних года к стабилизации , а затея и повышению цен на нефть до отметки выше 30 долларов , передает AP .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "привел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "курс"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "нынешнего"
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Уход Павлу Бородина с должности обусловивший его личной желанием , в частности , стремлением не связывать владим Путина с предыдущей президентской командой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Павла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "личным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обусловлен"
+    },
+    {
+      "correctReplacement": "Владимир",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

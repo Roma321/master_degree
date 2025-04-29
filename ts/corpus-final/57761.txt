@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , соответствующие службы в США не позаботились о своевременной оформлению санитарных сертификатов , без которых ввоз саженцев на территорию стран Европейского союза категорически запрещу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "запрещен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "оформлении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "своевременном"
+    },
+    {
+      "correctReplacement": "стран",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

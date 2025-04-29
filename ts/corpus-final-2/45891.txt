@@ -1,0 +1,25 @@
+{
+  "text": "Главах администраций избиравшие в воскресенье жители Архангельского , Астраханской , Ивановской , Камчатской , Пермской , Рязанской областей , Краснодаракого и Ставропольского краев , Корякского и Коми-Пермяцкого автономных округов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "избирали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Глав"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Архангельской"
+    },
+    {
+      "correctReplacement": "Краснодарского",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Инцидент произошел в международном аэропорту столицы Олимпийских игр лорода Сиднея , сообщал телекомпании НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "телекомпания"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

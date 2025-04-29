@@ -1,0 +1,30 @@
+{
+  "text": "Новой компании придется позволить своим клиентам пользоваться любым понравившимся им провайдером ее услуг , не принуждая их становиться клиентом сети AOL , и , с другой стороной , позволить провайдеров своих услуг создавать свои сейты и вести финансовые расчеты с клиентаси самостоятельно , а не посредством AOL-Time Warner .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "провайдерам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "клиентами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "сайты",
+      "type": "paronym",
+      "wordNumber": 34
+    },
+    {
+      "correctReplacement": "клиентами",
+      "type": "typo",
+      "wordNumber": 40
+    }
+  ]
+}

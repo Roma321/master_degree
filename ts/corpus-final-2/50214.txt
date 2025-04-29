@@ -1,0 +1,25 @@
+{
+  "text": "В городе Электрогорске толстовской области в субботу совершившее разбойный нападение на генеральной директора местного завода фирмы \"Ферейн\" Николая Мандрова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "разбойное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "Московской",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

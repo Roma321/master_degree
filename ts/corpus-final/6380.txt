@@ -1,0 +1,30 @@
+{
+  "text": "Однако суд не поддержавший позицию Госдумы , моторный полагала , что полномочие нижнего палату после роспуска ее президентом прекращаются лишь с момента начала работы Думы нового созыва .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "палаты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "нижней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "полномочия"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "поддержал"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

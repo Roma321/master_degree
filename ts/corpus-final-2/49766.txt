@@ -1,0 +1,25 @@
+{
+  "text": "Ы Москве на пересечении проезда Ольминского и проспекта Миров происшедшие дорожно-транспортное происшествие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Мира"
+    },
+    {
+      "correctReplacement": "произошли",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

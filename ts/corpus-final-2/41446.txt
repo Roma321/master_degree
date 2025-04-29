@@ -1,0 +1,20 @@
+{
+  "text": "Вездеходы , вышедшие утром из сало Мэйнепыльдино , не пробились в заваленный снегом район предполагающего местонахождения терпящих бедствие людей и вернулись обратно в село .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "предполагаемого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "села"
+    },
+    {
+      "correctReplacement": "селе",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

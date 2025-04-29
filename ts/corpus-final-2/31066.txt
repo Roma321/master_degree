@@ -1,0 +1,20 @@
+{
+  "text": "На место происшествием прибыло 15 пожарных расчетов , две машинз скорой помощи и оперативная дежурный УГПС ЦАО .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "оперативный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

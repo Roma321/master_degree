@@ -1,0 +1,30 @@
+{
+  "text": "Главы фирмы Penny Black Марией Элдридж выдвинувшая встречный иск и заявили на предварительном слушании , что по требованию Джонса сменила рекламного фирму , в результате чего потеряла 80 тысяч фунтов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Глава"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Мария"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выдвинула"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "рекламную"
+    }
+  ]
+}

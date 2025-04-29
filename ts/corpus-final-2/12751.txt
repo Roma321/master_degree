@@ -1,0 +1,25 @@
+{
+  "text": "В селе Ишхой-юрты боевики обещали местным жителям по 100 доллара США за установку фугаса и по 1000 долларов за подрыв бронетранспортеров или других боевых машин , сообщённые РИК \"Новости\" в пресс-центре Объединенной группировки войск на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Ишхой-Юрт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

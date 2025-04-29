@@ -1,0 +1,20 @@
+{
+  "text": "Город Бумбуна , расположу в центральной области Сьерра-Леоне , поразило эпидемиы холеры .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "расположенный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "поразила"
+    },
+    {
+      "correctReplacement": "эпидемия",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В февралю из зданпя бесследно исчез переносного компьютер , содержащий секретные сведения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "переносной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "феврале"
+    },
+    {
+      "correctReplacement": "здания",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

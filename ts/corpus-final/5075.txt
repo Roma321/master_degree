@@ -1,0 +1,25 @@
+{
+  "text": "Покупателями совершаем в магазине покупку , оплачивали ее кредитной картой , номер карте стыковался известен хакеру .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "карты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Покупатели"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "совершали"
+    },
+    {
+      "correctReplacement": "становился",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Председатель ОБСЕ заверю , что возглавляющая их международная формализация \"в любой момент готова оказать содействие в решении конвликта\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "возглавляемая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "заверил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "им"
+    },
+    {
+      "correctReplacement": "организация",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "конфликта\"",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

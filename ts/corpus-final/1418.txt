@@ -1,0 +1,20 @@
+{
+  "text": "Фабрикой по производству зажигалок была открыта в прошлом месяце и работаю нелегально .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "работала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Фабрика"
+    },
+    {
+      "correctReplacement": "прошлом",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

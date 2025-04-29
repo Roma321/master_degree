@@ -1,0 +1,35 @@
+{
+  "text": "Выступающие от имени депутатов , которыми выдвинули кандидатуру главы Конституциьнного суда Павла Барбалата , председатель парламентов Дмитрия Дьяков заявлю , что это является нарушением процедуры тайного голосования и прервал голосование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Дмитрий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Выступая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "парламента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "Конституционного",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как передало в понедельник Reuters со ссылками на китайские газеты , первым о появлении снежных человека рапортовал охотник , встретивший это огромная существо , покрытое рыжими волосах , в национальных заповеднике провинции Хубей в Центральном Китае .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "волосами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "снежного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "национальном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "огромное"
+    }
+  ]
+}

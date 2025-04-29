@@ -1,0 +1,30 @@
+{
+  "text": "Из восьми россиянки , начнём борьбу на открытом чемпионате США в женском одиночном разряде , после матчей второй круга остались лишь три - Анна Курникова , елень Лиховцева и Елены Дементьева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "второго"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "начавших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "Елена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "россиянок"
+    },
+    {
+      "correctReplacement": "Елена",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

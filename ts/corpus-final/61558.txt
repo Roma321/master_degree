@@ -1,0 +1,20 @@
+{
+  "text": "Одним из горняков находился в тяжелом состоянии , второй получил обоги средней тяжести , третий не пострадал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Один"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "ожоги",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

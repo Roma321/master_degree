@@ -1,0 +1,25 @@
+{
+  "text": "Московский арбитражное суд во вторник признаю недействительной решение о взыскании аналоговых недоимок с компании Coca-Cola Refreshments Moscow (завод Coca-Cola в Москве) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "недействительным"
+    },
+    {
+      "correctReplacement": "налоговых",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

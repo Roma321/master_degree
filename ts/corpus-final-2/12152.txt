@@ -1,0 +1,30 @@
+{
+  "text": "По ее словам , доход федерального бюджета в 2001 году запланированы на уровне 1193 , 5 миллиарда рубля , а объем консолидированных бюджета , фключаемого доходы регионов - на уровне 2073 миллиарда рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "включающего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "доходы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "консолидированного"
+    },
+    {
+      "correctReplacement": "включаемого",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Ранее сообщаюсь , что Шаманов перенес сердечный приступ , но эти дангыми не подтвердились .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "данные"
+    },
+    {
+      "correctReplacement": "данными",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

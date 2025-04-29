@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу на улицах Владивостока появились лозунги , направленные против полномочной представителя нерезидента в Дальневосточном федеральном округе Константин Пуликовского .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Константина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "полномочного"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

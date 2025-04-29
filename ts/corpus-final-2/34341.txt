@@ -1,0 +1,20 @@
+{
+  "text": "За фильм \"Те , кто меня люблю , поедут поездом\" Шеро получил грецию \"Сезар\" как лучший режиссер в 1998 годы , а также был награжден за лучший оригинальный сценарий .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "любит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "премию",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

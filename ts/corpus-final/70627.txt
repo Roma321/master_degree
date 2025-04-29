@@ -1,0 +1,25 @@
+{
+  "text": "Манилов заявил , ато п настоящего время лидер чеченских сепаратистах находится \"где-то на юге Курчалоевскоего района\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сепаратистов"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

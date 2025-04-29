@@ -1,0 +1,25 @@
+{
+  "text": "По данным московского мэра , за время своего существовании экологическое милиция Москвы приняла более 700 решений по различным нарушениям , и меньшинство дел передавшее в суды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "существования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "экологическая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "передано"
+    },
+    {
+      "correctReplacement": "большинство",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

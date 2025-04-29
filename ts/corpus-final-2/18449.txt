@@ -1,0 +1,25 @@
+{
+  "text": "Это произошли из-за халатности тюремного влестей , которйм решили \"разгрузить\" переполненные места лишения свободы от лиц , совершивших мелкие правонарушения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "тюремных"
+    },
+    {
+      "correctReplacement": "которым",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

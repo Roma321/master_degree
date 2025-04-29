@@ -1,0 +1,30 @@
+{
+  "text": "По данным Федеральной миграционной служб России , на 25 ноябрь из Чечни прибылей 233 тысяч 400 временных переселенцев , из них в Ингушетии зарегистрированы 219 тысяч 400 человек , заявленный сегодня на брифинге руководитель ФМС Владимир Каламанами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Каламанов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "прибыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ноября"
+    }
+  ]
+}

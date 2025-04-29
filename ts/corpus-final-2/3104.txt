@@ -1,0 +1,20 @@
+{
+  "text": "По данным столичной мэрии , аварийное отключении потстанцию произошло в четверг в 7 : 40 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "отключение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "подстанции"
+    },
+    {
+      "correctReplacement": "подстанцию",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

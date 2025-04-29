@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям Associated Press со ссылкой на представителей израильской армии , палестинцы обстрелянные место диспозиции израильских частей и еврейское поселения в секторе Газа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "поселение"
+    },
+    {
+      "correctReplacement": "дислокации",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

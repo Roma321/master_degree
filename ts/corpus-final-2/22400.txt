@@ -1,0 +1,35 @@
+{
+  "text": "В рамке расследования этого дела швейцарский прокуратуры обратилась к российской стороне с международным следственным поручением , а совсем недавно руководители прокуратур Швейцарии и России договорились о сотрудничестве в расследованиях этого и ряда других делах о коррупции в бывших эшелонах власти в России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "расследовании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "рамках"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "швейцарская"
+    },
+    {
+      "correctReplacement": "высших",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

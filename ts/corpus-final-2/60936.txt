@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , прежнее величина среднемесячных зарплату , утвержденная по итогам третьего квартала 2000 года , аоставляла 1383 рубля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "среднемесячной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "зарплаты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "прежняя"
+    },
+    {
+      "correctReplacement": "составляла",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

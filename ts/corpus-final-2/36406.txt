@@ -1,0 +1,25 @@
+{
+  "text": "Пользователи Интернета заметили , что некоторые данные , в том числе о ходе голосование , появляются там раньше , чем в других средстках массового информаций , поэтому стараются получить последние сведения именно из Интернета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "массовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "информации"
+    },
+    {
+      "correctReplacement": "средствах",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

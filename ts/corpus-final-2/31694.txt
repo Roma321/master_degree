@@ -1,0 +1,30 @@
+{
+  "text": "Церетели , в настоящая момент возглавляющий Российскую академию художеств , отказались открыть , что именно он преподнесённый первуж леди .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "преподнес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отказался"
+    },
+    {
+      "correctReplacement": "первую",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Лишь во втором тайме немецкими фудболисты забитые три безответных мяча и завоевали бронзу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "забили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "немецкие"
+    },
+    {
+      "correctReplacement": "футболисты",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

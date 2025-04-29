@@ -1,0 +1,25 @@
+{
+  "text": "Трагедия случившаяся спустя чезара дня после той , как в одном из торговым комплексов Манилы взорвалась бомба .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "случилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "торговых"
+    },
+    {
+      "correctReplacement": "четыре",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

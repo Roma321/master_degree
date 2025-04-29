@@ -1,0 +1,35 @@
+{
+  "text": "После похищения правоохранители органы подчёркиваем , что картины имрют больших ценность , и , скорее всей , будут предпринявшие попытки вывезти их за рубеж .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "предприняты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "подчеркивали"
+    },
+    {
+      "correctReplacement": "правоохранительные",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "имеют",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

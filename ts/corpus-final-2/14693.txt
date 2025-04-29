@@ -1,0 +1,25 @@
+{
+  "text": "В четверги , 31 августа , президент России Владимир Путин по окончании совещания с руководителями субъектов Федерации Приволжского федерального округа сообщивший , что намерен уничтожить статусы о суверенитете в конституциях республик России , передаю РТР .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 33,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "статьи",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

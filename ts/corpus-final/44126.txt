@@ -1,0 +1,25 @@
+{
+  "text": "В ночь с воскресные на понедельником нк Тайване вновь зафиксирована землетрясение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "зафиксировано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "воскресенья",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

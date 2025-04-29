@@ -1,0 +1,25 @@
+{
+  "text": "Так , группа компаний Belka опровергал какую-либо связь с Bank of New York , а также ео , что один из ее сотрудников , Леонида Дьяченко , был вызвавший на допрос по этому делу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Леонид"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "опровергает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "вызван"
+    },
+    {
+      "correctReplacement": "то",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

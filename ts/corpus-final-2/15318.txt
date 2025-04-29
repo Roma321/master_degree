@@ -1,0 +1,25 @@
+{
+  "text": "В случае , если сут признаешь его виновным по всем предъявленным статьям обвинения , физику угрожает пожизненное заключение независимо от выяснение вопроса о передаче секретных сведения Китаю .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "выяснения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "признает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "сведений"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

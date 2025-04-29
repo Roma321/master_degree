@@ -1,0 +1,25 @@
+{
+  "text": "Атомный подводный ракетоносец Севарного флота под командованием капитана первой ранга Сергея Шняк произвел пуск двух баллистических ракетам из подводного положений с интервалом два часа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "ракет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "положения"
+    },
+    {
+      "correctReplacement": "Северного",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сроки соглашение составляет 10 лет , передаёт агендздво Bloomberg .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Срок"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

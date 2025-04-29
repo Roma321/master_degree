@@ -1,0 +1,20 @@
+{
+  "text": "По данным кафедрального патрульной службы , Кристов прибыл в Россию по оформившей по всем правилам визе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "оформленной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "correctReplacement": "Федерального",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Напомните , что накануне в этой вольнице во втором хирургической корпусе произошел взрыв .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "хирургическом"
+    },
+    {
+      "correctReplacement": "больнице",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

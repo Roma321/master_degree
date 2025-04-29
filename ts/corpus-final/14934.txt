@@ -1,0 +1,25 @@
+{
+  "text": "10 декабря в Италии не выйду ни одна газета - ни местная , ни общенациональная , всё день будут молчать все радиостанции и телеканалами , не будут обновляться информационные ресурсы в Интернет .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "выйдет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "весь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "телеканалы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Интернете"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По его словам , очередной дбъем немецкого кредитов в отношении Россия , на которые Hermes получили \"добро\" на выдачу страховок , составит миллиард марок (500 миллионами долларов) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "немецких"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "получила"
+    },
+    {
+      "correctReplacement": "объем",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

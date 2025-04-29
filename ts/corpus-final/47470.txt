@@ -1,0 +1,20 @@
+{
+  "text": "Во турник мужчины исполните коротких программу , а в четверг - произвольную .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "короткую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "исполнят"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

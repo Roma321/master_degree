@@ -1,0 +1,30 @@
+{
+  "text": "Собственный корреспондент Lenta . Ru передает , что скорость передвижений машин по Варшавскому шоссе ое превышаю 30 километров в часы из-за сильного обледенения дорожного покрытий .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "передвижения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "час"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "покрытия"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

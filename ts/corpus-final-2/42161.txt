@@ -1,0 +1,20 @@
+{
+  "text": "Фрэнка Лой так прокомментировали происшедшее : \"Конечно , в День Благодаррния я бы скорее выбрал традиционный тыквенный пирог , а не шоколадный торт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "прокомментировал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Фрэнк"
+    },
+    {
+      "correctReplacement": "Благодарения",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

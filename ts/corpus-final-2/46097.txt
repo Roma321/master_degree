@@ -1,0 +1,20 @@
+{
+  "text": "Мы самиъ дети госслужащих\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сами"
+    },
+    {
+      "correctReplacement": "дети",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "самих",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По сообщениям ОРТ , пожар был оценено по \"второй\" категории сложности , однако из-за взрывов к борьбе с огнем пожарные приступили не сразу . Сейчас повар уже локализован .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "оценен"
+    },
+    {
+      "correctReplacement": "пожар",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

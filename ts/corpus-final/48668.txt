@@ -1,0 +1,25 @@
+{
+  "text": "По данным правоохранительных органов , пострадавших нет , социалисты коммуеальных служб перекрытые магистрали и начали ее герметизацию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "перекрыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "магистраль"
+    },
+    {
+      "correctReplacement": "специалисты",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "коммунальных",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

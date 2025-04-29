@@ -1,0 +1,25 @@
+{
+  "text": "Нью-йоркский адвокатом Волковых , сообщает газета The wall Street Journal , сообщу : \"Господин Волков полностью отрицает своё причастность к противоправнымдействиям\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Волкова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "адвокат"
+    }
+  ]
+}

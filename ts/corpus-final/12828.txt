@@ -1,0 +1,25 @@
+{
+  "text": "По данным МЧС России , из-за пожара прекратившая подача газа в збывший населенных пунктов Кировского области , где проживают 24 тысячи человека .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Кировской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "прекращена"
+    },
+    {
+      "correctReplacement": "шесть",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

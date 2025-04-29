@@ -1,0 +1,40 @@
+{
+  "text": "Во вторник американское гражданином Эдмонд Поуп , обвиняющий в шпионаже в пользу США , был срочно доставивший из Мосгорсудов в СИЗО \"Лефортово\" с приступом сглей в суставах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гражданин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "американский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Мосгорсуда"
+    },
+    {
+      "correctReplacement": "болей",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "солей",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

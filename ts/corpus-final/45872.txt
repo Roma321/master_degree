@@ -1,0 +1,30 @@
+{
+  "text": "Генеральный секретарь НАТБ Джордж Робертсон и Верховное главнокомандующий войсками альянсов Уэсли Кларк дольмены были посетить городе Митровица , где до сих пор постоянно возникают стычки между силами KFOR и местными жителями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "город"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "альянса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Верховный"
+    },
+    {
+      "correctReplacement": "должны",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "НАТО",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

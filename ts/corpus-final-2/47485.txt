@@ -1,0 +1,25 @@
+{
+  "text": "Ведомство по делам кармел ФРГ приняло решение оштрафовать на 1 , 1 миллиона марок группу немецких промышленных компаний , включая сталелитейный концерну Mannesmann , за сговор в области производства и продажи трубы для трубопроводов в Германия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "труб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "концерн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "Германии"
+    },
+    {
+      "correctReplacement": "картелей",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

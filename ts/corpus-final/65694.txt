@@ -1,0 +1,25 @@
+{
+  "text": "Что касался претставителей организаций , борющихся за права женщин , то их мнения разделились - одни сочли поединок поворотной моментом в истории борьбы военщин за равноправие , другие отнеслись к этому бою как к пропаганде насилия над женщинами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "поворотным"
+    },
+    {
+      "correctReplacement": "женщин",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

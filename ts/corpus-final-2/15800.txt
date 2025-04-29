@@ -1,0 +1,20 @@
+{
+  "text": "В первом случай , сообщим \"Интерфаксу\" в пресс-центре Объединенной группировки войск , в бой вступило армейское подразделение , во втором - сводные отряд внутренних войск МВД РФ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "сводный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "случае"
+    }
+  ]
+}

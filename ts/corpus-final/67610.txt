@@ -1,0 +1,20 @@
+{
+  "text": "В Белоруссии вновь повысившие цены на хлебо-булочные изделия : на 30% уединилась стоимость массовых сортов хлебов и на 20% - булочных изделий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "повышены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "хлеба"
+    },
+    {
+      "correctReplacement": "увеличилась",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

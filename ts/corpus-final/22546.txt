@@ -1,0 +1,25 @@
+{
+  "text": "10 янтаря в Центризбирком поступившие документы на регистрацию инициативной группы , выдвинувшего губернатора Кемеровском области Амана Тулеева кандидатом в президенты России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "поступили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выдвинувшей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Кемеровской"
+    },
+    {
+      "correctReplacement": "января",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

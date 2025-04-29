@@ -1,0 +1,25 @@
+{
+  "text": "По словам Теблоева , убийство лейтенанта Янченко и обнаружение в его квартире оружия рассматривающийся следствием отдельно и , по презрительным сведениями , не имеем ничего общего .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "correctReplacement": "предварительным",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

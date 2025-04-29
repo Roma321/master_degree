@@ -1,0 +1,20 @@
+{
+  "text": "Сам генерал был похищу 5 мврта 1999 года в аэропорт в Грозном .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "похищен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "аэропорту"
+    },
+    {
+      "correctReplacement": "марта",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Против принятия поправок , ужесточающих меры взыскания с нарушителей правил дорожного движение , выступал большинство фракций , прежде всей СПС и \"Яблоко\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "движения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "выступает"
+    },
+    {
+      "correctReplacement": "правил",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

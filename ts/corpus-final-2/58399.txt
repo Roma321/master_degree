@@ -1,0 +1,25 @@
+{
+  "text": "Это - единственная миниатюра Вашингтона , о которой тот сам упоминающий в своёс дневниках .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дневнике"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "упоминает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "своём",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

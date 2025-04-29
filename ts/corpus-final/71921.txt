@@ -1,0 +1,30 @@
+{
+  "text": "Уже на 23-ц минуте Луишу Фигу феноменальным по силах и точности ударом вогнавший мяч из-за пределов штрафные в самую девятку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "штрафной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "вогнал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "силе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Луиш"
+    },
+    {
+      "correctReplacement": "23-й",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Периодически в домах замыкает электропроводку , поэтому в любой моменту можешь нкчаться пожар .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "момент"
+    },
+    {
+      "correctReplacement": "начаться",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

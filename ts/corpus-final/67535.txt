@@ -1,0 +1,20 @@
+{
+  "text": "вторых матч финального серии пройдет в Нью-Джерси в четверг .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "финальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Второй"
+    },
+    {
+      "correctReplacement": "Вторых",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На большинстве автозаправочного станций Санкт-петербург к концу недели стал ощущаться дефицит топлива , а в пятницу зафиксировавший существенный всплеск цен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "зафиксирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Санкт-Петербурга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "автозаправочных"
+    }
+  ]
+}

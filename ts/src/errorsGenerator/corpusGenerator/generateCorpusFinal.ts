@@ -73,7 +73,28 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
     }
 }
 
-const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-1';
-const outputDirectory = './corpus-final';
+const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-2';
+const outputDirectory = './corpus-final-2';
 
-writeCorpus(inputDirectory, outputDirectory);
+// writeCorpus(inputDirectory, outputDirectory);
+
+async function statCorpus() {
+    const dirName = '/home/roman/projects/mag/ts/corpus-final'
+    const counter: Record<string, number> = {}
+    const files = fs.readdirSync(dirName, { withFileTypes: true });
+    files.forEach(file => {
+        const text = fs.readFileSync(`${dirName}/${file.name}`, 'utf-8')
+        const corpusItem: CorpusItem = JSON.parse(text);
+        corpusItem.annotations.forEach(ann => {
+            if (!counter[ann.type]) {
+                counter[ann.type] = 0
+            }
+
+            counter[ann.type]++
+        })
+    });
+
+    console.log(JSON.stringify(counter, null, 2))
+}
+
+statCorpus()

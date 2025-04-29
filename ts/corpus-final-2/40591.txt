@@ -1,0 +1,35 @@
+{
+  "text": "Пока , в рамки третьих пилотного этапа , который начнусь 17 ноября , около 60 библиотек начавшие принимаемые запросы от клиентов в оффлайне : через интелефоны , факсы , e-mail , личные посещения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "третьего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "рамках"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "принимать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "начался"
+    },
+    {
+      "correctReplacement": "телефоны",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщаешь РИА \"Новости\" со ссылкой на Департамент внешних и общественным связей Банкв России .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "общественных"
+    },
+    {
+      "correctReplacement": "Банка",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

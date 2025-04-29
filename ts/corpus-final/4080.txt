@@ -1,0 +1,25 @@
+{
+  "text": "После очередной раунда американо-северокорейских переговоривших в Берлине в еентябре Вашингтон объявил о частичного отмене торгово-экономических санкций против КНДР .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "частичной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "очередного"
+    },
+    {
+      "correctReplacement": "переговоров",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "сентябре",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

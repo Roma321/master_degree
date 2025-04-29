@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествия в Мытищах работает комиссия областной прокуратуры , эксперты противопожарного службы , сотрудники санэпидемстанций , специалисты других служек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "санэпидемстанции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "противопожарной"
+    },
+    {
+      "correctReplacement": "служб",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

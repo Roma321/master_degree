@@ -1,0 +1,35 @@
+{
+  "text": "Европейский суд первого инстанцти в четверг заявили , что Европейская Комиссия напрасно отказало в рассмотрении иска французского оптовой торговцев программным обеспечением против корпорации Microsoft , сообщает Newsbytes .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "отказала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "первой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "торговца"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "оптового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "инстанции",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

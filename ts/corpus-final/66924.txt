@@ -1,0 +1,30 @@
+{
+  "text": "Источник в российском внешнеполитическом ведомстве уточнивший , что беседа с Драшковичами и друганными представителями сербской оппозиции в МИДе ношенная консультативный характер и прохожу на рабочем уровне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "уточнил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "носила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Драшковичем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "проходила"
+    },
+    {
+      "correctReplacement": "другими",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

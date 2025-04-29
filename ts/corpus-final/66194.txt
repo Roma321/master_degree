@@ -1,0 +1,20 @@
+{
+  "text": "Он оснащён современным аэронавигацтонным оборудованием и соответствует всем экологическим требованиям , сообщающий РБК .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "оснащен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "аэронавигационным",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Водолазы , обследовав тогда судно , пришли к выводу , что топливные танкам теплоходом разъела солёная морская вода , что и стало причиной разлива нефтепродукты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "соленая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "нефтепродуктов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "танки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "теплохода"
+    }
+  ]
+}

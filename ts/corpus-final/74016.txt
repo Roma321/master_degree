@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил журналистам начальника пресс-бюро Службы внешней разведки России Борис Лабусов , убийство не имеемый никаких отношения к служебеой деятельности разведчика .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "начальник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "никакого"
+    },
+    {
+      "correctReplacement": "служебной",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

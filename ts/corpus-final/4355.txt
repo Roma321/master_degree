@@ -1,0 +1,20 @@
+{
+  "text": "По данным МВД РФ , возбуждённое по данномц фактам уголовное дело - одно из самых крупных .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "возбужденное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "факту"
+    },
+    {
+      "correctReplacement": "данному",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

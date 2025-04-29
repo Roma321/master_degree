@@ -1,0 +1,25 @@
+{
+  "text": "Реализация проекта поручу известное художнику-постановщику Борису Краснову - оформлявшему , в частности , концертам практически фсех поп-звезд в \"России\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "концерты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "известному"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "поручена"
+    },
+    {
+      "correctReplacement": "всех",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

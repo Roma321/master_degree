@@ -1,0 +1,30 @@
+{
+  "text": "Решением последствий сейчас наложены арест на дом Гусинскогв в поселке Чигаево Захаровского района Московской областью , а также на земельныйучасток , на котором он находится .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "наложен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "следствия"
+    },
+    {
+      "correctReplacement": "следствий",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Гусинского",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

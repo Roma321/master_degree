@@ -1,0 +1,30 @@
+{
+  "text": "В данной случае , по словам прокурора , именно в результате второй взрыва , которого никем не ужинавший , пострадало большое число людей , главным образом иирных граждан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "данном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "никто"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "второго"
+    },
+    {
+      "correctReplacement": "ожидал",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "мирных",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

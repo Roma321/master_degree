@@ -1,0 +1,35 @@
+{
+  "text": "В распоряжениях комиссии при президенте Росыии по противодействию политическому экстремизму имеюсь информация о том , что представители ряда общественные объединений намерены провести мероприятия , направившее на срыв предстоящих выборов в Госдуму .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "распоряжении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "мероприятие"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "имеется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "общественных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "направленное"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

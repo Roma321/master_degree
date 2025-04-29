@@ -1,0 +1,35 @@
+{
+  "text": "ВТО уже дважды выступавшая с осуждением европейской политики , направленной против латиноамериканских производящихсы бананам и их американского дистрибьюторы , обвинив Евросоюз в протекционизме в пользу бывших европейских колоний Карибского бассейна .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "американских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дистрибьюторов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выступала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "бананов"
+    },
+    {
+      "correctReplacement": "производителей",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "производящихся",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

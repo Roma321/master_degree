@@ -1,0 +1,20 @@
+{
+  "text": "Во вторник 7 марта компания Dell Computer объявившаяся о том , что разобралась в причинах нестабильной работы некоторого своих ноутбуков выпуска 1999 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "некоторых"
+    },
+    {
+      "correctReplacement": "объявившая",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

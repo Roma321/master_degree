@@ -1,0 +1,25 @@
+{
+  "text": "У результате столкновения погибну один из машинисток , его напарник госпитализирован с серьёзными травмами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "серьезными"
+    },
+    {
+      "correctReplacement": "машинистов",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

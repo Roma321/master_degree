@@ -1,0 +1,25 @@
+{
+  "text": "Чиновники Владимирского городишка управления образования в пятнице отправиышиеся в Москву за новыми бланками аттестатов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "отправились"
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "отправившиеся",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

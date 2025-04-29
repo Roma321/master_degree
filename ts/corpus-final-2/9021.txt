@@ -1,0 +1,25 @@
+{
+  "text": "По словам президентов Ингушетии , 6 августа примерно в 14 часов с военных вертолетов были расстреляны мирные люди , которые в это время косившие травы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "косили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "траву"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

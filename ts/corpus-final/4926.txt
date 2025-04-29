@@ -1,0 +1,55 @@
+{
+  "text": "В этом году , отметил он , дефицит бюджет сокращусь до 5 процентов , инфляция остается на низком уровне , начался рост промышленности и сельской хозяйства , курса молдавского лея остающийся стабильного , ставка по кредиту находились на рекордно низком уровне , многое сделано для тракторных реформ в энергетике , сельском хозяйстве , приватизации земли .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "сельского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "ставки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "кредитам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 36,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "курс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "стабильным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "сократился"
+    },
+    {
+      "correctReplacement": "структурных",
+      "type": "paronym",
+      "wordNumber": 45
+    }
+  ]
+}

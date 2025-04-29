@@ -1,0 +1,30 @@
+{
+  "text": "А на последней мигнувшие Малышев , Ткачев и Еременко забившие еще три мяча в ворота забытых об оборонам аргентинцев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "обороне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "минуте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "забили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "забывших"
+    },
+    {
+      "correctReplacement": "минуты",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

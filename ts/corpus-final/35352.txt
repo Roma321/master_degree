@@ -1,0 +1,25 @@
+{
+  "text": "На состоявшихся в минувшее воскресенье выборах депутатов парламента Киргизии по партийным снимкам победу одержавшие коммунист , сообщает ИТАР-ТАСС со ссылкой на Центральную избирательную комиссия по проведению выборов и референдумов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "одержали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "коммунисты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "комиссию"
+    },
+    {
+      "correctReplacement": "спискам",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

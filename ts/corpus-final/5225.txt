@@ -1,0 +1,35 @@
+{
+  "text": "Из-за невыполнения ранее согласовавших с правительством России договоренностей невелико вепроятность той , что до конца года Россия получишь транш (100 миллионоф долларов) кредита на структурную перестройку экономик .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "согласованных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "получит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "невелика"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "экономики"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

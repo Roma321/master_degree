@@ -1,0 +1,20 @@
+{
+  "text": "Однако продюсер проекта Лоуренс Майерс заявифший : \"Я взал ее не для того , чтобы она раздевался на сцене .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "раздевалась"
+    },
+    {
+      "correctReplacement": "заявивший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

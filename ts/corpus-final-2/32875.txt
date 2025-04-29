@@ -1,0 +1,25 @@
+{
+  "text": "Предварительная расследование , провёдшее кипрскими властями , нр подтвержу наличие счетов Милошевича и его окружения в банках страны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Предварительное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проведенное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "подтвердило"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

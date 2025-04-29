@@ -1,0 +1,30 @@
+{
+  "text": "Уже известно , сообщаашь AP , что госсекретарь США Мадлен Олбрайт во время свыей пресс-конференции в среду осудила действия албанского экстремистов и призвала положенные конец насилию в крае .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "положить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "албанских"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "сообщаешь",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

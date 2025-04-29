@@ -1,0 +1,15 @@
+{
+  "text": "По данным агентства , полученным из пресс-службы Аслана Масхадова , на лицейская блок-пост напали около сотни боевиков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "милицейский"
+    },
+    {
+      "correctReplacement": "милицейская",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

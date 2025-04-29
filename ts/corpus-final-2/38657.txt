@@ -1,0 +1,30 @@
+{
+  "text": "После террористических нападения на израильтян в понедельник Барак распространил заявлению , в котором говорился , что Израиль \"серьезно рассматривает\" продолжавшееся нарушение соглашений , которые имеют своей целью положить конец наличию в Палестине .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "заявление"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "продолжающееся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "нападений"
+    },
+    {
+      "correctReplacement": "насилию",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

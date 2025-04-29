@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РБК со словах Лысенко , советские паспорта у россиян являются собственность России , и не Украине решать , икогда они прекратят свое действие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "собственностью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "слов"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

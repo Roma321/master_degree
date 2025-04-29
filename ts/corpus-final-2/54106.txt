@@ -1,0 +1,30 @@
+{
+  "text": "Правда , букмекер , принявший такую заявки , сомневается , что игрокам удастся пошутившие звои приз .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "игроку"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "заявку"
+    },
+    {
+      "correctReplacement": "получить",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

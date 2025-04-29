@@ -1,0 +1,25 @@
+{
+  "text": "Однако ц истории США были случаи , когда в последний момент наборщики отдаём свои голоса другой кандидату .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "отдавали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "другому"
+    },
+    {
+      "correctReplacement": "выборщики",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

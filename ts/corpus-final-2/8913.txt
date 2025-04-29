@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник в Чечня совершены два геракла против органов местной самоуправления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Чечне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "местного"
+    },
+    {
+      "correctReplacement": "теракта",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

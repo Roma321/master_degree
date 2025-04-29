@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили в ГУВД Московской области , около 21 : 00 оеизвестные преступников расстрелянные автомобиль .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "преступники"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "расстреляли"
+    },
+    {
+      "correctReplacement": "неизвестные",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

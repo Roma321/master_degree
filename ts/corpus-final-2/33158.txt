@@ -1,0 +1,25 @@
+{
+  "text": "При этом , по мнению депутатов , ответственность ща решение этой задачи лежит не только на федеральные органах государственного власти , но и на органах государственного власти субъектов Российской Федерации , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "государственной"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

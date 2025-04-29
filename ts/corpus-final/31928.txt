@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили РБЕ в пресс-центрах ГУ по чрезвычайным ситуациям , недалеко от входа на подстанцию была обнаружена мина послевоенному производства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "пресс-центре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "послевоенного"
+    },
+    {
+      "correctReplacement": "РБК",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

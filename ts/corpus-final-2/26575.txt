@@ -1,0 +1,20 @@
+{
+  "text": "НТВ . Ru сообщающий о тех , что составлен фоторобот одена из подозреваемых в совершении теракта в Невинномысске .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

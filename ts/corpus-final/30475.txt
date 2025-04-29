@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающий РИА \"Новости\" , эта золотая мебель на шелковой муаровой ленте цветов герба графа Сергеем Витте фпервые вручается в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "медаль",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "впервые",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

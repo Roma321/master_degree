@@ -1,0 +1,25 @@
+{
+  "text": "Согласно сообщению официальной представителя администрации Клинтона , в ходе разговора обсуждался вопрос о проведении двусторонней стрелы на высшем уровне , но никаких конкретных планов выработавшее не буду .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "официального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "выработано"
+    },
+    {
+      "correctReplacement": "встречи",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В данный момент Беллази находится в заключением по обвинению в растрате 6 миллионов долларов . Федеральный прокурор добавила , что расследования будет продолжено в отношении Фреда Шрайером , шефов стратегической информационной службы , которая возникну в документах по делу Беллази .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "заключении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "расследование"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "возникла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Шрайера"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "шефа"
+    }
+  ]
+}

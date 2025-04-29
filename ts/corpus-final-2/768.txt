@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщаюсь , накануне во вторник Парижский суд высшей инстанции отклонило иск России по поводу незаконности замораживания ее госсчётам во станции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "госсчетов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "Франции",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

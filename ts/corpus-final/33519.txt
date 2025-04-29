@@ -1,0 +1,20 @@
+{
+  "text": "По информации агентства Итар-тассом , взрыв происшедший в 15 : 16 и к месту происшествия выедем сотрудники МЧС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "выехали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ИТАР-ТАСС"
+    }
+  ]
+}

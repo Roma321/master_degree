@@ -1,0 +1,20 @@
+{
+  "text": "Угрожая дружищами , преступники похитили один миллион 450 тысяч рубли и скрылись на угнанной ими в Ставрополе \"девятке\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "оружием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "оружиями",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

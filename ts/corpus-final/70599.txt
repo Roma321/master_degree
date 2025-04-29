@@ -1,0 +1,30 @@
+{
+  "text": "фак заявил секретарю Совета безопасность России Сергей Иванов , именно это предусматривают подписанное президентом Владимиром Путиным указ о временных органах исполнительной власти в Чечне , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "секретарь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "подписанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "предусматривает"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

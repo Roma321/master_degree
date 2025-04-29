@@ -1,0 +1,20 @@
+{
+  "text": "Врачи института имени Склифосовского , где находится сейчас Орджоникидзе , утверждаем , что он может быть выписавший из больницы оже через месяц .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "выписан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

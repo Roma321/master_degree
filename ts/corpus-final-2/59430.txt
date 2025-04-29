@@ -1,0 +1,20 @@
+{
+  "text": "В Петербург приз задержании правонарушителя сотрудник ГИБДД применили оружие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Петербурге"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "применил"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

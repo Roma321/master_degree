@@ -1,0 +1,20 @@
+{
+  "text": "На самой же депо , в настоящее времени только стоящих на учете в миграционной службе беженцев насчитывается более 140 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "деле",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

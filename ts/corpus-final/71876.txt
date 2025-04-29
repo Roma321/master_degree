@@ -1,0 +1,25 @@
+{
+  "text": "Аукционная стоимость одного из самые знаменитых полотна Анри Матисса может исчисляющиеся десятками миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "исчисляться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "самых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "полотен"
+    },
+    {
+      "correctReplacement": "десятками",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

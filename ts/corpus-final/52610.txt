@@ -1,0 +1,30 @@
+{
+  "text": "6 апрель ПАСЕ приняло резолюцию , осуждающее Россию за нарушение прав человека в Чечне , и призвала Комитеты министров иностранных дел Совета Европы немедленно начать процедуру приостановки членства России в Совете Евтопы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Комитет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "осуждающую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "апреля"
+    },
+    {
+      "correctReplacement": "Европы",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

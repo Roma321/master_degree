@@ -1,0 +1,25 @@
+{
+  "text": "Представитель налоговой инспекции возражавший против отложения дел , отметив при этом , что не видит веских причин для выделения данные исков из общей потока дел .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "возражал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "общего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "данных"
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

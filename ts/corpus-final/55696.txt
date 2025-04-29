@@ -1,0 +1,15 @@
+{
+  "text": "Погибли три человека : две женщины и одно мужчина .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "женщины",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

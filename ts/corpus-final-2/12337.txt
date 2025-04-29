@@ -1,0 +1,20 @@
+{
+  "text": "Интернет был отключён примерно в течения 40 синут , затем работоспособность основной части оборудования была восстановлена .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "отключен"
+    },
+    {
+      "correctReplacement": "минут",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

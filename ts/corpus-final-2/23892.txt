@@ -1,0 +1,20 @@
+{
+  "text": "У мужчин в весовой категории 80 кг сильнее оказалось кубинский спортсменАнжел Фуентёсы Матос , серебряную медаль завлевал немец Файсал Абнуталиб , натретьем месте Гарибай Эстрада из Мексики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "оказался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Фуентес"
+    },
+    {
+      "correctReplacement": "завоевал",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

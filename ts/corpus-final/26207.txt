@@ -1,0 +1,20 @@
+{
+  "text": "Причиной катострофы стало разрыве проложенного по дну моржи нефтепровода .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "разрыв"
+    },
+    {
+      "correctReplacement": "моря",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

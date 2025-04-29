@@ -1,0 +1,25 @@
+{
+  "text": "Все началось с товших , что в 1998 году Тереза Рид купившая в местной закусочной McDonald's стаканчик кофе и поставила его в подставку для стаканчики в машине своей матери .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "купила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "стаканчиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "тех",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

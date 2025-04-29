@@ -1,0 +1,35 @@
+{
+  "text": "Фотограф , сообщаю 7am News , обвинял ditto . com п тех , что владельцы сайта нарушили его котовские прав , использовав фотографии без разрешения и без выплатам компенсации автору .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "выплаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "права"
+    },
+    {
+      "correctReplacement": "авторские",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

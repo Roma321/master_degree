@@ -1,0 +1,20 @@
+{
+  "text": "Возле самого причала люди как будто смогли одурачить корову и отрезать ей все путь к отступлениям , но животное как-то ловко вывернулось и ушло буквально у них из рук .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "пути"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "отступлению"
+    },
+    {
+      "correctReplacement": "животное",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

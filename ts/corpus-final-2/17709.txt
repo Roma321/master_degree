@@ -1,0 +1,25 @@
+{
+  "text": "Федеральная комиссии по сынку ценных бумаг (ФКЦБ) приняла постановление , в соответствии с которым Банк России лишается права на выдачу лицензий другим банкам для работой на фондовом оынке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "работы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "correctReplacement": "рынку",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "рынке",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

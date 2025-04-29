@@ -1,0 +1,20 @@
+{
+  "text": "В настоящим время на месте происшествия работающие специалисты городского центра санэпиднадзора а штаба ГО и ЧС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

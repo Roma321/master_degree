@@ -1,0 +1,20 @@
+{
+  "text": "Причиной пожара , по данныв телеканала РТР , послужу неосторожные проведение сварочных работ в здании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "неосторожное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "послужило"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

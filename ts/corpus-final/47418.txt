@@ -1,0 +1,25 @@
+{
+  "text": "По словам генерала , во время недавнего проведения специальной операции седельного сил Батаев , скрывавшийся в подвале одном из домов в Комсомольской , был обнаружен военнослужащими федеральных войск .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "Комсомольском"
+    },
+    {
+      "correctReplacement": "федерального",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Руцкой намерен официально обратиться к полномочному представителю резидента РФ в Центральной федеральной округах Георгию Полтавченко с просьбой \"указать нынешнему губернаторам Курской области Александру Михайлову на недопустимость принятия на работу людей с явно выраженными признаками шизофрении\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "федеральном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Центральном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "округе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "губернатору"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

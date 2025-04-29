@@ -1,0 +1,25 @@
+{
+  "text": "Репутация немецких железном дорог , славившихся своей безопасность и надежностью передвижения , и беш того была подпорчена недавней катастрофой под Кельном , когда при крушении скоростного поезда девять человек погибли и более 100 получим ранения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "безопасностью"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "железных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

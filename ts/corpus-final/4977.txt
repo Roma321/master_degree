@@ -1,0 +1,25 @@
+{
+  "text": "За зто преступлению его приговорившие к трем пожизненное заключениям и 6 годам лишения свободы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пожизненным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "преступление"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "приговорили"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

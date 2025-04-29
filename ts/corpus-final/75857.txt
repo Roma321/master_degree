@@ -1,0 +1,20 @@
+{
+  "text": "Как показало следствие , крушение поезда произошло потому , что злоумышленники не просто разъединившие рельсовый сиык , но и отвелиправой нитку рельса на 20 санитиметров в сторону .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "разъединили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "отвелиправую"
+    },
+    {
+      "correctReplacement": "стык",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

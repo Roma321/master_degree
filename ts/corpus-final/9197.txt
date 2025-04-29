@@ -1,0 +1,20 @@
+{
+  "text": "В аварию попали 4 из 6 автобусов , которые везли 280 студентов пенсильванского университета из Нью-йорков , где тем проводили свой выходной пенящий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Нью-Йорка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "те"
+    },
+    {
+      "correctReplacement": "день",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Беседуя с журналистами , Зюганов заявлю , что кандидат от коммунистов будет претендовать та посты спикера будущей Госдумы , поскольку фракция КПРФ будет самого крупной из фракций в нижнего палате парламента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "нижней"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

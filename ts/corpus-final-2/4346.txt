@@ -1,0 +1,25 @@
+{
+  "text": "Теперь , однако , после повледних высказываний представителя ФБР , получаешься , что Carnivore - это всего лишь простая технический реализация санкции суда .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "техническая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "получается"
+    },
+    {
+      "correctReplacement": "последних",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

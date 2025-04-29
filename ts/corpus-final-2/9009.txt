@@ -1,0 +1,15 @@
+{
+  "text": "Среди пострадавших ешь дети , они доставлены в 1-ю детскую больницу Москвы , одна девочка в тяжёлом состоянии , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    }
+  ]
+}

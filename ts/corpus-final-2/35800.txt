@@ -1,0 +1,20 @@
+{
+  "text": "Максимального наказанием , грозящее альпинисту , составляет триз месяца тюрьмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "наказание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Максимальное"
+    },
+    {
+      "correctReplacement": "три",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

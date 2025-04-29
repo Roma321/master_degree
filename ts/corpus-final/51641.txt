@@ -1,0 +1,25 @@
+{
+  "text": "В своё очередь , банк \"Крещатик\" предъявил иск в Арбитражный суд Киева о признании недействительным везения налоговой инспекции Печерского району Киева , согласно которому банк оплатила около 43 тысяч гривен налога и штрафных санкций .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "оплатил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "решения",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

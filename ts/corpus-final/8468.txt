@@ -1,0 +1,30 @@
+{
+  "text": "Кроме тех , в фильме было показано , как при проведении проверки сотрудники ГУВД допустили ряд вопиющих случаев халатности : в частности , допущенные в служебное помещение и к секретный документах лиц с явно поддельным удостоверениями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "секретным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "документам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "допустили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "поддельными"
+    }
+  ]
+}

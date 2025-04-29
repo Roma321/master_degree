@@ -1,0 +1,25 @@
+{
+  "text": "Так , вблизи Грозного образуюсь \"линза\" нефтепродуктов площадью 30 квадратного метров , объем которой , по оценкам неспециалистов , составляет около 2 миллионов тонны , подчеркнул Маргелов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "квадратных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "образовалась"
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Церемонию должна была ведшие Вупи Голдберга , но она неожиданно заболею гриппом , и в последнюю минуту ее заменили на британсколо актера Иэна Аберкромбившим и Бренду Блефин .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "заболела"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "вести"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Аберкромби"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Голдберг"
+    },
+    {
+      "correctReplacement": "британского",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

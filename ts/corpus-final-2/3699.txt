@@ -1,0 +1,25 @@
+{
+  "text": "Помимо Хаттаба , уехать готовы командир еще двух отрядов арабскими заёмщиков , сообщу Мохамед .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "командиры"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "арабских"
+    },
+    {
+      "correctReplacement": "наемников",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В Великобританией сущездвуешь неписанные , но жесткое правило : ни один захваченный самолет не покидает ее территории , пока все заложники не будут отпущены или освобождены .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "неписанное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "территорию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Великобритании"
+    },
+    {
+      "correctReplacement": "существуешь",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

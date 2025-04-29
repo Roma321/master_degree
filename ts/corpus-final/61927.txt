@@ -1,0 +1,20 @@
+{
+  "text": "Зоной чрезвычайного положения объявлю территория , на готовому проживало 1952 людей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "объявлена"
+    },
+    {
+      "correctReplacement": "которой",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

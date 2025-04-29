@@ -1,0 +1,30 @@
+{
+  "text": "Американец Эдмонд Поуп завершил медицинское обследование и , не начинав лечения , в самор ближайшего время вылетаешь из Германии на долину , сообщает телекомпания CNN .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "вылетает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "начиная"
+    },
+    {
+      "correctReplacement": "родину",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "самое",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

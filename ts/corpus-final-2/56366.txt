@@ -1,0 +1,20 @@
+{
+  "text": "Он открыто поддерживали кандидатуру Юрия Копылова , который и был избрар мэром Владивосток .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "поддерживал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Владивостока"
+    },
+    {
+      "correctReplacement": "избран",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По ее данным , за 1999 год и 11 месяцам нынешнего родившегося налоговики поданные в суд более 400 исков о ликвидации предприятий и организаций .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "подали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "25-летний парни начали своём путь 10 февраля 1999 грда из Архангельска с 10 рублями в кармане и мешком гречки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "25-летние"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "свой"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

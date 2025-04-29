@@ -1,0 +1,30 @@
+{
+  "text": "Причиной смертью по меньшей мере 34 малазийских детей в возрасте от 5 месяцев до 7 года стану неизвестный вирус , вызывающим прекращение деятельности сердца и мозгов , утверждают ученые , проводимые свои исследования в этой стране .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "проводящие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "мозга"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "смерти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "стал"
+    }
+  ]
+}

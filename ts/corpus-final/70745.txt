@@ -1,0 +1,40 @@
+{
+  "text": "Старший лейтенант Виктор Шурыгин , лейтенант Владимир Шитьковы и старший оперуполномоченный Ильшат Ярмиеф обвиняемся в получении взяток в крупные размере , а первым - еще и в сексуальном домогательстве , передавал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "крупных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "размерах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Шитьков"
+    },
+    {
+      "correctReplacement": "Ярмиев",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

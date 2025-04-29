@@ -1,0 +1,20 @@
+{
+  "text": "По окончании эту встречи Иванов подтвердил журналистам , что на данный момент опознаем тела 13 погибщих .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "опознаны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

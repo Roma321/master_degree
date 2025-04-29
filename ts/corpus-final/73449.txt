@@ -1,0 +1,30 @@
+{
+  "text": "В данных случае троян не выполняемый никаким разрушительных действий , а сканировал диск на предмет определенной информации и отсылаю ее отражателю .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "данном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выполнял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "отсылал"
+    },
+    {
+      "correctReplacement": "отправителю",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

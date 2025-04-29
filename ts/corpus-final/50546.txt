@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю ранее газета Moscow Times , согласно данным ее источники , антиконституционное внедрение подслушивающих устройств СОРМ-2 уже давно проходит по всец России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "источников"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщала"
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

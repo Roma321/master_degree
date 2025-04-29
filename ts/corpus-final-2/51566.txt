@@ -1,0 +1,25 @@
+{
+  "text": "Четырёхкратное олимпийский чемпиона по битлону Александр Тихонове , обвиняемая в организации покушения на кемеровского губернатора Амана Тулеева , госпитализирован в одну из клиник Новосибирска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Тихонов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "чемпион"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Четырехкратный"
+    }
+  ]
+}

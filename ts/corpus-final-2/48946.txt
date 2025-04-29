@@ -1,0 +1,20 @@
+{
+  "text": "По словам адвоката , глинский вылетел всего на два дня из Лондонов в Испанию , чтобы повидавшиеся с семьей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "повидаться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Лондона"
+    },
+    {
+      "correctReplacement": "Гусинский",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

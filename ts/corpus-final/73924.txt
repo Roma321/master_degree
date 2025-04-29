@@ -1,0 +1,20 @@
+{
+  "text": "Контролировать регистрация и денежный отчисления поручено ОВТ , налоговой инспекции и главам районных администраций .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "денежные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "регистрацию"
+    },
+    {
+      "correctReplacement": "ОВД",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

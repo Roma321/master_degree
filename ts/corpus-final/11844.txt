@@ -1,0 +1,25 @@
+{
+  "text": "Министр указавший , что в ближайшее время в Москву будут мобилизованы увольнительные сил участковых Щ",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "указал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "силы"
+    },
+    {
+      "correctReplacement": "дополнительные",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

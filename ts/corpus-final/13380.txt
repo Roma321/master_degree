@@ -1,0 +1,25 @@
+{
+  "text": "Эту информацию официально подтвердило ч минувший четверг заместитель председателе парламентского комитета по международным делам Венгрии , депутат от партии Свободных демократов Иштван Сент-Ивани , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "председателя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

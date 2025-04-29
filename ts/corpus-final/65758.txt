@@ -1,0 +1,20 @@
+{
+  "text": "В четверг рано утром , около 3 часов по паришскому времени , на взлетно-посадочной полосе французской аэропорта имени Шарля де Голля столкнулись грузовой самолет и пассажирском лайнер Air Liberte , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "французского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "correctReplacement": "парижскому",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

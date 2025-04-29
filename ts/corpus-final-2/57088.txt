@@ -1,0 +1,20 @@
+{
+  "text": "Все 58 человек доставлены в Центральную больница Аликово , где их оборудовавшие врачи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "больницу"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "обследуют"
+    },
+    {
+      "correctReplacement": "обследовали",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Пенсионная возраст в Россией не будет выплачиваться , как минимум , до 2010 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Пенсионный"
+    },
+    {
+      "correctReplacement": "увеличиваться",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

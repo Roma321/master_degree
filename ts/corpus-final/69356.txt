@@ -1,0 +1,25 @@
+{
+  "text": "Московский арбитражный суду наложила запрет на ополчение решения совета директоров ОАО \"Крисьалл\" о назначении нового гендиректора завода , передает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "наложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "исполнение",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "\"Кристалл\"",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

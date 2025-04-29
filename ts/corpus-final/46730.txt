@@ -1,0 +1,20 @@
+{
+  "text": "Столичный милиция изъял крупную партию изумрудовобщей стоимостью 4 миллиона 300 тясяч долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Столичная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "изъяла"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

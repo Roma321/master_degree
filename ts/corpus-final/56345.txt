@@ -1,0 +1,20 @@
+{
+  "text": "Трошев скажу , ато \"колонна состояла из 22 машины , их охраняли пять боевых машин , одна из них - с зенитной установкой .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "машин"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

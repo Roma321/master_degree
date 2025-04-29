@@ -1,0 +1,25 @@
+{
+  "text": "Президент России Владимиру Путин встретился в Кремле с премьер-министром Михаилом Касьяновым , который доложило главе государства о мерах , принимавших правительством в рамках ботьбы с терроризмом , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "доложил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "принимаемых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "борьбы",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Преступникам вязнувшие домой похитившего ими в понедельник утром отца одному из крупнейших бизнесменов Санкт-Петербурга и вице-президента Российского еврейской конгресса .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "похищенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Преступники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "еврейского"
+    },
+    {
+      "correctReplacement": "вернули",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

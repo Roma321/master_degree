@@ -1,0 +1,25 @@
+{
+  "text": "В текущем финасовом году , кротовый заканчиваешься в сентябре , Carl Zeiss ожид.ет увеличения оборотов на 16 процентов до 3 , 7 миллиарда немецкие марок (1 , 85 миллиарда долларов) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "заканчивается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "немецких"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "ожидает",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

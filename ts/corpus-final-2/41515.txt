@@ -1,0 +1,25 @@
+{
+  "text": "В международном аэропорту \"Шереметьево-2\" высокого гост встречали главный российский Дет Мороз , русских красавицу с хлебом и солью , персонажи сказок , мультфильмов и герои детских телепередач .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "русские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "красавицы"
+    },
+    {
+      "correctReplacement": "гостя",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Дед",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

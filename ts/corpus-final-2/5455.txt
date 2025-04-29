@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы готов вновь сесть за стол переговорщиков на основе палестинских принципы , главным из которых является мир в обмрн на землю\" , - подчеркнул Арафат .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "готовы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "принципов"
+    },
+    {
+      "correctReplacement": "переговоров",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "обмен",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

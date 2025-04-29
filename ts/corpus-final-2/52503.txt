@@ -1,0 +1,20 @@
+{
+  "text": "Представитель сил полиция заявил , что в инциденте никто не нострадал , но было серьезно повреждено здание и пятью машин ООН .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "пять"
+    },
+    {
+      "correctReplacement": "пострадал",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

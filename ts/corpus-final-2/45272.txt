@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , cовет глав государств супружество заслушал отчет о мерах по созданию зоны свободной торговли и принявший совместное заявление в связей с предстоящей в декабре закрытием Чернобыльской АЭС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "примет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "предстоящим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "заслушает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "связи"
+    },
+    {
+      "correctReplacement": "Содружества",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

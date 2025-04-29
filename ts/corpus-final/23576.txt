@@ -1,0 +1,30 @@
+{
+  "text": "Ранее в интервью западной прессе Ходорковский заявлял , что по его сведениям , за последние 3 года через Bank of New York были провёдшие в общей сложности около 6 миллиардов долларов , причем , по его словам , далеко не весь эта сумма имеемый отлучение к отмыванию криминальных денек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "проведены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 40,
+      "correctReplacement": "вся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 43,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "отношение",
+      "type": "paronym",
+      "wordNumber": 44
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 48
+    }
+  ]
+}

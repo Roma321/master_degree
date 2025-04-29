@@ -1,0 +1,20 @@
+{
+  "text": "За период с лекаря 1999 год по май 2000 года предприниматель незаконно добывший и продал 20 тысяч кубометров природного песка",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "добыл"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "декабря",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

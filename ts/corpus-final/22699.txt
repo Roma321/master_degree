@@ -1,0 +1,20 @@
+{
+  "text": "Как отмечается в заявления министерства , \"в последние дни эмоциональное напряжение , сущездвующее в обществе , стало выплескиваться в ряде СМИ в совершенно недопустимых формы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заявлении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "формах"
+    },
+    {
+      "correctReplacement": "существующее",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

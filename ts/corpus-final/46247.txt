@@ -1,0 +1,20 @@
+{
+  "text": "Ставка налогом в Дорожного фонд юля автовладельцев будет повышена , нозначительно меньше , чем ожидалось ранее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Дорожный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "налога"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

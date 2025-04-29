@@ -1,0 +1,30 @@
+{
+  "text": "По данным Министерства энергетик США , в общих сложности на сегодня уже заключившие сделку на поставку 23 миллионов баррелей нефти девяти нефтяным компаниям США Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "энергетики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "сделки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заключены"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

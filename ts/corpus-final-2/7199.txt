@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщившие ЕИА \"Новости\" в МВД республики , около полуночи неизвестный преступник бросил гранату РГД-5 во двор растного дома министра .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "частного",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

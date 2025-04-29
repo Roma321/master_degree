@@ -1,0 +1,20 @@
+{
+  "text": "Двое тяжело раним - командир взвода оморовцев , лейтенант Сергей Закржевский и боец отряда ОМОН сержанте Вячеслав Шевченко - скончались в вертолете по пути в госпиталь .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "раненных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "сержант"
+    },
+    {
+      "correctReplacement": "омоновцев",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В помещении , гдр содержались черепахи , ежедневно меняются вода и опилка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "опилки"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

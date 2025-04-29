@@ -1,0 +1,25 @@
+{
+  "text": "После обследований , проведенного в среду специалистами хабаровского проектного института , принявшее решение разрушу пятым подъезд жилого дома не восстанавливать , а полностью разобрать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "пятый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "разрушенный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "обследования"
+    }
+  ]
+}

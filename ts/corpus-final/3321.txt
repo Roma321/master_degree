@@ -1,0 +1,25 @@
+{
+  "text": "Дома у неги были обнаружены пустые пластиковые карты и программное обеспечению , предназначенная для взлома компьютерным систем .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "обеспечение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "компьютерных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "предназначенное"
+    },
+    {
+      "correctReplacement": "него",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

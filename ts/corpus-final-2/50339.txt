@@ -1,0 +1,20 @@
+{
+  "text": "По дарным \"Интерфакса\" , причиной отказа губернатора от участия в выборах стала бесперспективность дальнейшего борьбой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "дальнейшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "борьбы"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Международные эксперты утверждаете , что в сходе выборов были допущены серьезные нарушения , сообщаемый Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "ходе",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

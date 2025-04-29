@@ -1,0 +1,20 @@
+{
+  "text": "В Москве , минувшей вечером , на проспекте Мира струилась часть фасада 8-этажного жилой дома старой постройки , передает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "жилого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "минувшим"
+    },
+    {
+      "correctReplacement": "обрушилась",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

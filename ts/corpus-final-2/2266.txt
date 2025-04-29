@@ -1,0 +1,20 @@
+{
+  "text": "Женщине объяснившая , что сделала это неосознанно , поскольку милиционер причинило ей сильную боль .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Женщина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "причинил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "объяснила"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Другой космическое аппарат под названиями Near к дню святого Валентина открыфший астероид , который назовём \"Эрос\" - в честь древнегреческого бога любвей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "космический"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "названием"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "назвали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "любви"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "открыл"
+    },
+    {
+      "correctReplacement": "открывший",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

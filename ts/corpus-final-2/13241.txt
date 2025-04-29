@@ -1,0 +1,35 @@
+{
+  "text": "А в марта , за несколько дней до визита президента США Клинтона в Пакистаны , на том же сайтах были опубликованы снимки военных объектов Пакистана , подтверждающие , что пакистанское ядерный арсенал претставляет собой серьезную угрозу для соседних Индии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "соседней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "марте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "пакистанский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Пакистан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сайте"
+    },
+    {
+      "correctReplacement": "представляет",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

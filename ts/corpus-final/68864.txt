@@ -1,0 +1,25 @@
+{
+  "text": "По информации спецслужб , боевик валяются доверенным лицом Аслана Масхадоуу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Масхадова"
+    },
+    {
+      "correctReplacement": "являются",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Масхадову",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

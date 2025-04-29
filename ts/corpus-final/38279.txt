@@ -1,0 +1,20 @@
+{
+  "text": "Согласно приказ местного УВД всех промывших из Ростова , Ставрополя и Краснодара задерживаем и отбирают у них паспорта до выяснения личности .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "приказу"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "задерживают"
+    },
+    {
+      "correctReplacement": "прибывших",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

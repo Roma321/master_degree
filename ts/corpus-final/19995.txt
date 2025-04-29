@@ -1,0 +1,30 @@
+{
+  "text": "Штаб Объединившей группировки войск (ОГВ) на Северном Кавказе сообщили , что федеральные силы совместно с подразделениями чеченской милиций под командованию Бислана Гантамирова \"медленно и последовательно пг секторам зачищают Грозный\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "командованием"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

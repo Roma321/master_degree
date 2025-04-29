@@ -1,0 +1,20 @@
+{
+  "text": "В полиций подчеркивают , что ни одна плот не был замешан в переправке наркотиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "пилот",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "В результате пожара пострадали четырёх людей , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "четыре"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "человека"
+    }
+  ]
+}

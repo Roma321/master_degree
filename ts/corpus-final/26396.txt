@@ -1,0 +1,20 @@
+{
+  "text": "Его вылет в Мозгву запланирована на 26 янтаря .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "запланирован"
+    },
+    {
+      "correctReplacement": "января",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

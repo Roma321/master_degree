@@ -1,0 +1,20 @@
+{
+  "text": "Теперь 23-летнему жителю Нью-йорков гтожу до трех лет тюрьмы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Нью-Йорка"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "грозит"
+    },
+    {
+      "correctReplacement": "грожу",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Генеральной генпрокуратуре России подтверждённые во вторник , что от швейцарского судьи Даниэлей Дево пришло следственному поручение по делу фирмы Mabetex .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подтвердили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Даниэля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "следственное"
+    },
+    {
+      "correctReplacement": "прокуратуре",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

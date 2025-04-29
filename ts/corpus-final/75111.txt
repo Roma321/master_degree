@@ -1,0 +1,30 @@
+{
+  "text": "В этом матче испанцам не устраивал даже ничья , а пб ход стрелы им все время приходилось отыгрываться .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "устраивала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "испанцев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ходу"
+    },
+    {
+      "correctReplacement": "встречи",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Корпусы отличается сложной планировкой , имеет множество пристроек , так что для писков пришлось привлечь кинологов со служебными собаками , однако поиски не дадим никаких результата .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "дали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "результатов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Корпус"
+    },
+    {
+      "correctReplacement": "поисков",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

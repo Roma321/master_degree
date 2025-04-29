@@ -1,0 +1,25 @@
+{
+  "text": "Организаторы миссии не уточнившие , какую часть расходов взятая на себя \"Сибнефть\" , а какую - костинские бизнесмен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "уточнили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "взяла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "российский"
+    },
+    {
+      "correctReplacement": "российские",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

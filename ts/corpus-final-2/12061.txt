@@ -1,0 +1,25 @@
+{
+  "text": "\"Гарри Поттеры и колдофской камень\" - экранизация первого тома , в оригинале называющегося \"Гарри Поттер и философские камень\" (Название было изменено для американского выпусков книги) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Поттер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "выпуска"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "философский"
+    },
+    {
+      "correctReplacement": "колдовской",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

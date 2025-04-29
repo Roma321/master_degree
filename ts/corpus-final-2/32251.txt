@@ -1,0 +1,25 @@
+{
+  "text": "Texaco , третья по величине нефтяная компания в США , с начала года достиг оборотоф в 36 , 7 миллиарда докладов и более чем на 10 миллиардов превысила показатели прошлых года (25 , 1 миллиарда долларов за 9 месяцев 1999 года) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "прошлого"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "оборотов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

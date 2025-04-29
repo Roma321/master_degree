@@ -1,0 +1,25 @@
+{
+  "text": "Выступая на заседании парламент Кучма сказали : \"Я осознанно подавал предложение по кандидатуре на пост премьер-министра Валерию Павловича Пустовойтенко и еще раз это подтверждаю прред всеми присутствующими .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Валерия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "парламента"
+    },
+    {
+      "correctReplacement": "перед",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

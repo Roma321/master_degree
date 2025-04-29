@@ -1,0 +1,25 @@
+{
+  "text": "Так , каждую полет Ил 62 по маршруту Москва - Владивостоку или Москва - Хабаровск приносящий от 3 до 6 тысяч долларами убытка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Владивосток"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "приносит"
+    }
+  ]
+}

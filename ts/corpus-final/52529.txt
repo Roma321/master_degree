@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что накануне вице-премьер правительства России Валентина Матвиенко заявила , что с 1 мая федеральные пенсии будут проиндексированы такой образом , чтобы ее минимальный размеру совтавил 440 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "размер"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "составил",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

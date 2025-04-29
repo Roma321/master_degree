@@ -1,0 +1,30 @@
+{
+  "text": "Актриса Ольга Аросева приехавший в четверг на празднование собственной юбилея в Московский театру сатиры за рулем троллейбусов - кпк в знаменитом фильме \"Берегись автомобиля\" (1966) , где ее героиня - невеста главного героя Люба - была по профессии водителем троллейбуса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "собственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "приедет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "театр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "троллейбуса"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

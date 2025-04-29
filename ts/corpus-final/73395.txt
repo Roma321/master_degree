@@ -1,0 +1,15 @@
+{
+  "text": "А в некоторых домах обнаружились предвыборные листовые , хотя агитация в день голосования запрещён .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "запрещена"
+    },
+    {
+      "correctReplacement": "листовки",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "С докладом об урегулировании долгов бывший СССР на заседании представительства выступило первый замминистра финансов РФ Алексей Кудрин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "выступил"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

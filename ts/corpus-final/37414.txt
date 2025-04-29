@@ -1,0 +1,20 @@
+{
+  "text": "Дипломату было предложено покинуть территорию ЫША , однако он заявлю , что предъявленные обвинения являются ложными и не уехали из страны в течение отведенного ему срока .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "уехал"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

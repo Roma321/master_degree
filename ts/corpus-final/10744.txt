@@ -1,0 +1,30 @@
+{
+  "text": "Убытки компанией в размере 2 , 4 миллиарда марок связывались с неудачным вложением собственных средств в строительство на территории Восточного Германии в расчете на строительный бум после объединения стороны , однако за 90-е годы цены упали на 30 процентоф и покрывшие убытки не удалось .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 40,
+      "correctReplacement": "покрыть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "Восточной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

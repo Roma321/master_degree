@@ -1,0 +1,20 @@
+{
+  "text": "По оперативным данным , несчастного слычай произошел около 6 : 00 в Первом Красногвардейском проездом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "несчастный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "проезде"
+    },
+    {
+      "correctReplacement": "случай",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

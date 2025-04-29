@@ -1,0 +1,25 @@
+{
+  "text": "Жуков требовал 150 тысяч рублей , кодовый акционерное общество задолжало его родственникам за приобретённый у них трактор или саси трактор .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "приобретенный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "сами",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

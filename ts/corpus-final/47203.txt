@@ -1,0 +1,20 @@
+{
+  "text": "Планируемый объем инвестиций компаний на текущий год составлял на менее 20 миллионов евро , из них 40% будет вложено в проекты для России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

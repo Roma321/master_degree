@@ -1,0 +1,20 @@
+{
+  "text": "Президент России Владимир Путин прибыло в четвпрг во Владимир , где провёдший совещание с губернаторами областей Центрального федерального округа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "проведет"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

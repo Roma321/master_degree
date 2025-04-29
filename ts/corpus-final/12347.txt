@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы надеемся , что в ближайшие мень эта госпоже покинет нашу страну\" , - подчеркнул Иваноф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "госпожа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дни"
+    },
+    {
+      "correctReplacement": "день",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Иванов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

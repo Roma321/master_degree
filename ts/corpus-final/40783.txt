@@ -1,0 +1,20 @@
+{
+  "text": "В завязавшейся перестрелке пгеступнике был тяжело ранен одним из офицеров полиций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "преступник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "полиции"
+    },
+    {
+      "correctReplacement": "преступнике",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

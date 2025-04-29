@@ -1,0 +1,25 @@
+{
+  "text": "Так , по растлению группы из 31 человека , за участие в таких мероприятиям за период с 1992 по 1996 год они заплатим более миллиона доллары .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "мероприятиях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "заплатили"
+    },
+    {
+      "correctReplacement": "заявлению",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

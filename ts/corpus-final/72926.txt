@@ -1,0 +1,30 @@
+{
+  "text": "Кроме то , по мнению Сеславинского , возможностью госузарственного контроль за содержанием интернет-сайтов сильно ограничены - \"когда сервер находится в Бельгии , доменное имя присвоено в США , а информации идет для российской аудитории\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "контроля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "возможности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "информация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "государственного",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

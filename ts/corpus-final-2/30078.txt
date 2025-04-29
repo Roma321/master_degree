@@ -1,0 +1,40 @@
+{
+  "text": "Возможно , замечаю НТВ , их отпугивает зловещая судьба прежних владельцев : после Леннонов , погибшей от рук маньяка , итальянские спортивный автомобиль принадлежал Доди Аль-Файету , разбиишемуся в автокатастрофах вместе с принцессами Дианой .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "замечает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "погибшего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "итальянский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "автокатастрофе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Леннона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "принцессой"
+    },
+    {
+      "correctReplacement": "разбившемуся",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

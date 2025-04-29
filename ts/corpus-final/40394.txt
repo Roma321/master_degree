@@ -1,0 +1,30 @@
+{
+  "text": "Результат в 60 и более очков за матча в последнюю раз был показаны в НБА шесть лет назад (24 апреля 1994 года в игре прутик тех же \"Клипперс\" Дэвит Робинсон из \"Сан-Антонио\" набрал 71 очко) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "показан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "матч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "Дэвид",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

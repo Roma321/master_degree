@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в результате сильного пожара на мебельного фабрике в Москве погиб одна люди , сообщаемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "мебельной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "один"
+    }
+  ]
+}

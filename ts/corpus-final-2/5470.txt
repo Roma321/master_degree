@@ -1,0 +1,35 @@
+{
+  "text": "После вступительного слова Путин предложу высказаться по очереди всем участникам встречи , в числе которых - Ремы Вяхирева , Михаил Фридман , Владимир Потанин , Михаил Ходорковские , Каха Бендукидзе , Дмитрий Зимин и другие известные российским бизнесменами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Вяхирев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Рем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "Ходорковский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "бизнесмены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "предложил"
+    }
+  ]
+}

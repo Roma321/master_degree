@@ -1,0 +1,30 @@
+{
+  "text": "Корпорация Microsoft заявила во вторника , что в нового операционной системе Windows 2000 , которая помтупит в продажу в феврале , будет использую технология сильных шифрования (strong crypto) со 128-битным ключом , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "сильного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "использована"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "поступит",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

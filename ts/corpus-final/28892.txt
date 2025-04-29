@@ -1,0 +1,20 @@
+{
+  "text": "К зданию парламента на улице Грушевских пришло коло полутора тысяч человеке , поддерживающих парламентское меньшинство и примерно две тысячи человек , выступающих в поддержку большинства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Грушевского"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Согласно заявлению национального союза журналиста , нежелании руководства решить назревшие проблески толкнуло сотрудников телерадиокорпорации на крайние меры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "нежелание"
+    },
+    {
+      "correctReplacement": "проблемы",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Стивен Спилберг , решивший недавно порадовать своё жену , актрису Кэйт Кэпшоу постройкой огромной площадки для верховой езды , вызвало резкое неудовольствие своих соседей , которые объявили , что это сооружение испорчу внешний вид холта , и подадим в суды на режиссера .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 31,
+      "correctReplacement": "испортит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "вызвал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 37,
+      "correctReplacement": "подали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "холма",
+      "type": "paronym",
+      "wordNumber": 34
+    }
+  ]
+}

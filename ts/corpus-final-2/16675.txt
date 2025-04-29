@@ -1,0 +1,20 @@
+{
+  "text": "Крупнейший онлайновый магазин изменяет свои цены в зависимости от того , кто являюсь покупателем . Агентством Wired News опубликовало в чедверг репортаж , сделанный на основе писем от клиентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Агентство"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

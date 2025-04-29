@@ -1,0 +1,25 @@
+{
+  "text": "У бетонной стены перехода , где происшедший взрыв , горят десятки чвечи , жители столицы приносимые сюда живые цветы и иконки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "приносят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "свечей"
+    },
+    {
+      "correctReplacement": "свечи",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

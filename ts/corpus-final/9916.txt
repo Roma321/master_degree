@@ -1,0 +1,25 @@
+{
+  "text": "Ряд аналитиков , сообщаешь инфляционная служба CNN , прямо связывали отказ от программы с попыткой давления на мировой рынок с целью увеличить стоимости нефти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "стоимость"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "связывают"
+    },
+    {
+      "correctReplacement": "информационная",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

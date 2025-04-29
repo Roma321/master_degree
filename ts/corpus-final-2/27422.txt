@@ -1,0 +1,30 @@
+{
+  "text": "Кроме тосу , на сложность нефтей влияющий наступление отопительного сезона в странах-потребителях нефти , и прежде всего в США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "влияет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "стоимость",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "тому",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

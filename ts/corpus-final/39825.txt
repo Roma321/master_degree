@@ -1,0 +1,25 @@
+{
+  "text": "Закрытый судебный процесс над военным журналистом начались 21 января 1999 года в военных суде Тихоокеанского фота и продолжался пять месяцкв .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "военном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "начался"
+    },
+    {
+      "correctReplacement": "флота",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "месяцев",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

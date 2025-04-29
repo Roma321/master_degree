@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщившие РЫА \"Новости\" в мобильном отряде МВД РФв городе Моздоке , блокнот подвергался обстрелу дважды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "блокпост",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

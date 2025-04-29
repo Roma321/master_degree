@@ -1,0 +1,30 @@
+{
+  "text": "В задачи экспедиции входившая доставка на строящуюся станцию около тонн различных груза , выполнение ремонтно-профилактических работ и подготовка станции к предстоящей в июле этого года стыковкам ы российским служебным модулем \"Звезда\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "входила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "стыковке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "грузов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "тонны"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

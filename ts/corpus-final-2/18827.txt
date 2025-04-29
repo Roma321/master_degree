@@ -1,0 +1,25 @@
+{
+  "text": "Последний взрыв произошел 12 сентябрей в здании баижи в Джакарте , накануне предполагаемого допроса Сухарто в судах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "суде"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сентября"
+    },
+    {
+      "correctReplacement": "биржи",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "баржи",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

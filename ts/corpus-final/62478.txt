@@ -1,0 +1,20 @@
+{
+  "text": "Положение усугубляются тем , что отоплению и гооячей воды в городе также нет , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "отопления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "усугубляется"
+    },
+    {
+      "correctReplacement": "горячей",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

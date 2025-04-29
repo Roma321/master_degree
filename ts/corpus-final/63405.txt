@@ -1,0 +1,20 @@
+{
+  "text": "Адвокат , в свою очередь , сообщил , что полученный эти данные из бюллетеня Congressional Record , где они полированные регулярно , по мере назначения военными на новые должности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "военных"
+    },
+    {
+      "correctReplacement": "публиковались",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

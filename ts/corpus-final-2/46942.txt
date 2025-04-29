@@ -1,0 +1,50 @@
+{
+  "text": "Пока суд Флориды решают , кем же станешь следующему президентом США , монетный двор Вашингтон , который с 1981 года выпускаю \"инаугурационные монеты\" , уже отчеканил памятную монету , где с одной стороны Джордж Буш-млатший , а с другой - Алберт Гор . Эта серебряная монете изготовлена специально к интеграция , которая состоится в январе , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "выпускает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "следующим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "решает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Вашингтона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "монета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "кто"
+    },
+    {
+      "correctReplacement": "инаугурации",
+      "type": "paronym",
+      "wordNumber": 49
+    },
+    {
+      "correctReplacement": "Буш-младший",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

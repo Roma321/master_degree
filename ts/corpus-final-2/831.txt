@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявившее на официальная пресс-конференции компаним в Лондоне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "официальной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявлено"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

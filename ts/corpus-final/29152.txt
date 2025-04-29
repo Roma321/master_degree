@@ -1,0 +1,25 @@
+{
+  "text": "Сообщение о кражах поступило в военного прокуратуру Вилючинского гарнизона оп командиром соединения 13 января .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "командира"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "военную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "краже"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

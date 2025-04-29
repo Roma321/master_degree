@@ -1,0 +1,15 @@
+{
+  "text": "Значительная части здания разрушена , на верхних этажах фспыхнул пожар .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "вспыхнул",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

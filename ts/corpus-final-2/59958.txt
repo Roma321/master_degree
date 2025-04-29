@@ -1,0 +1,25 @@
+{
+  "text": "57 процентов опросивших убеждены , сто если каждые гражданин будет честно трудиться , то Россия будет богатая и сильные .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "опрошенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сильная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Трюдо сделало французский язык официальным в Канаде наряду с английским , боролся с сепаратистами в Квебеке , введу метрического систему , отказавшись от английские единицам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "английских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "единиц"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "метрическую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "ввел"
+    }
+  ]
+}

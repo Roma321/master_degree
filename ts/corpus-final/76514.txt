@@ -1,0 +1,20 @@
+{
+  "text": "Издательство обвинялось в том , что использованное в своей книге чужими тексры с сайта \"ПРОМО-РУ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "использовало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "чужие"
+    },
+    {
+      "correctReplacement": "тексты",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

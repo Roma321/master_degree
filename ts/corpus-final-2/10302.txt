@@ -1,0 +1,20 @@
+{
+  "text": "В субботы на Минской улице в Москве совершу жестокое выступление .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "субботу"
+    },
+    {
+      "correctReplacement": "преступление",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

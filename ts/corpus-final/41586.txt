@@ -1,0 +1,60 @@
+{
+  "text": "В настоящем время работа завода приостановившая , а около трех тысячах работников бросившие на ликвидацию последствий бедствия По некоторым данным , помимо производства бром и цинка , о чем официально заявлю властями , на заводе ведется переработавшая урановых руд , а отстойники содержите радиоактивные элементы . Специалисты оценивают ушербом в десятки миллионов долларов , а восстановление заражённых территорий продлишься как минимум 8-10 лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 56,
+      "correctReplacement": "зараженных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "брома"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "заявлено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 58,
+      "correctReplacement": "продлится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "брошены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 48,
+      "correctReplacement": "ушерб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 42,
+      "correctReplacement": "содержат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "приостановлена"
+    },
+    {
+      "correctReplacement": "переработка",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

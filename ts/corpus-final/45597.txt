@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным сведениям , в ходе боя убью полевая командир Джабаев , пь приказу которого в июнях 1995 года бандиты расстреляли 38 чеченских семей , поддержанных новую администрацию республики .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "поддержавших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "июне"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "полевой"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

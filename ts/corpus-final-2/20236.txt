@@ -1,0 +1,25 @@
+{
+  "text": "Депутаты предлагали также расширить полномочия палаты в области финиковых контроля за деятельности Центробанка РФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "деятельностью"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "финансового"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предлагают"
+    },
+    {
+      "correctReplacement": "финансовых",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

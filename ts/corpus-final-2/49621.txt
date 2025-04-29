@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь ИТАР-ТАСС , в 14 : 15 по московскому времени президент Украины Леонид Кучма дал из Киема команду на отключению третьего энергоблока - единственного из четырех работающего на АЭС .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "отключение"
+    },
+    {
+      "correctReplacement": "Киева",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

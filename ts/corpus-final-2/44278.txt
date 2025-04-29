@@ -1,0 +1,25 @@
+{
+  "text": "Согласно предварительную информации , израильчкие военный патруль заметил , как группа террористов пытаешься пересечь границу Израиля рядом с кибуцем Алумим , и открыл огонь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "предварительной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "пытается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "израильский"
+    },
+    {
+      "correctReplacement": "израильские",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

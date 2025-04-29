@@ -1,0 +1,30 @@
+{
+  "text": "Известно , что этот билеты были проданы в штатами Мичиган и Иллинойсы , но счастливчик до сих пор ничего о себе не сообщим - они должны связаться с организаторами лотереи и назвать номер купленного ими билета .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Иллинойс"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "штатах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "счастливчики"
+    }
+  ]
+}

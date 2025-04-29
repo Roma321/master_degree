@@ -1,0 +1,20 @@
+{
+  "text": "По данным налоговойслужбы , лидер уважения Григорий Явлинский не укажу в доходахза 1998 год сумму в 82 , 5 тысячи рублей , Сергеи Степашин - 13 , 5 тысяч рублей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "указал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

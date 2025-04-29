@@ -1,0 +1,45 @@
+{
+  "text": "После перерыва в судебном заседании , когда подсудимого вели в камеру предварительное заключения , расположенную ч подвальном помещении здания суда , он неожиданно набросилось на одного из сопровождаемых и , забрав оружия , силе затолкнул всего пятерых конвоиров в каморку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "набросился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "сопровождающих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "силой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "оружие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "предварительного"
+    },
+    {
+      "correctReplacement": "камеру",
+      "type": "paronym",
+      "wordNumber": 39
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

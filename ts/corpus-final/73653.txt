@@ -1,0 +1,20 @@
+{
+  "text": "Его обвиняемые в извержении государственного измены по статье 275 УК РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "государственной"
+    },
+    {
+      "correctReplacement": "совершении",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

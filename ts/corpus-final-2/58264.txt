@@ -1,0 +1,20 @@
+{
+  "text": "После этого он сообщивший своим нанимателям в Наблус , что дело доделанное , и спокойно отправилось на работу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "отправился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "сделано",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Министр сослался на Статью 4 законов о конкуренции , в которую говорящийся о том , что акционер , владеющий пакетом акации в менее , чем 35 процентов от уставного капитала какого-либо предприятия , не может считаться егш монопольным владельцем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "которой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "закона"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

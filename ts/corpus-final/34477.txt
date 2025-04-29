@@ -1,0 +1,25 @@
+{
+  "text": "Пианино , на котором Леннон сочинил свою заменимую песню Imagine , будет выставившее на интернет-аукцион с рекордными стартовой ценой : 1 миллион фунтов стерлрнгов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выставлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "рекордной"
+    },
+    {
+      "correctReplacement": "знаменитую",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "стерлингов",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

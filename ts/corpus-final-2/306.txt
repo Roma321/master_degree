@@ -1,0 +1,35 @@
+{
+  "text": "В 1998 и 1999 годах работнику концернов приходился изымать в гипермаркетах Германии продукцией Nestle с вложенныви записками \"Robin Food\" и следами ядохимикатов от насекомых .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "приходилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "продукцию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "концерна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "работникам"
+    },
+    {
+      "correctReplacement": "супермаркетах",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "вложенными",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

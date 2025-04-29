@@ -1,0 +1,20 @@
+{
+  "text": "В аервой половине день там произошли несколько незначительных аварий , в результата чего осложнилось движение автотранспорта , сообщает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "первой",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

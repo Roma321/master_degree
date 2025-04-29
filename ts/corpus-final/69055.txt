@@ -1,0 +1,25 @@
+{
+  "text": "Утром в воскресенье были приплётшие две последние коррекции орбиты , после чего опсерватория направился к поверхности Земли .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "произведены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "направилась"
+    },
+    {
+      "correctReplacement": "произвёдшие",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "обсерватория",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

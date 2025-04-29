@@ -1,0 +1,25 @@
+{
+  "text": "Найденные тело убитой ребенка удалось только после того , как вымогатель поплатились показать ту самую яму с водой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Найти"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "убитого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "согласился"
+    },
+    {
+      "correctReplacement": "согласились",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

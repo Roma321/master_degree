@@ -1,0 +1,25 @@
+{
+  "text": "Ее муж Петра Берлин , по мнению следователя , контролировало банковские счета компании \"Benex\" , через которые прошли более 4 миллиардов докладов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "контролировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "следователей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Петр"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

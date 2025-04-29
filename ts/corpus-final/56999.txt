@@ -1,0 +1,20 @@
+{
+  "text": "виновный происшествия был задержавший , позже его отпустили под подписки о невыезде .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "подписку"
+    },
+    {
+      "correctReplacement": "Виновник",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За прошедшую неделю в Москве от переохлаждению умершие девять человек , сообщаемый РИА \"Ровости\" со ссылкой на Комитет здравоохранения столицы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "переохлаждения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "умерли"
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

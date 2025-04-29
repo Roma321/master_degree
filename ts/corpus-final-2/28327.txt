@@ -1,0 +1,25 @@
+{
+  "text": "Адвокаты обвиняемых намерены настаивать на открытом судебном разбирательстве , однако им можешь бьющие отказавшее из-за того , что по деле проходит ряд секретных документов Министерства обороны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "отказано"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "делу"
+    },
+    {
+      "correctReplacement": "быть",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

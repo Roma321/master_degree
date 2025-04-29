@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям газета , Елена Масюк будеп заниматься на РТР гениальными репортерскими проектами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "газеты"
+    },
+    {
+      "correctReplacement": "специальными",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

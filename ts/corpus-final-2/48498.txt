@@ -1,0 +1,25 @@
+{
+  "text": "По данным журналисты , ссылающихся на источники в банке , Credit Agricole требует возмещения долга в 100 миллионов долларов по форвардным контрактам , заключенным компаниями Indosuez International Finance с российскими партнерами др кризисов 1998 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "кризиса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "компанией"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

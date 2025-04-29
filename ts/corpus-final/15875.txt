@@ -1,0 +1,25 @@
+{
+  "text": "Сообщение , появившийся 12 декабря в 17 : 44 по моське на единой новостной ленте агентства , гласило : КОМПЬЮТЕРНЫЕ ТЕРРОРИСТЫ Повредил СТРАНИЦУ ИТАР-ТАСС ВИНТЕРНЕТЕ , ЗАЯВЛЯЯ , ЧТО Протестовали ПРОТИВ ВОЙНЫ В ЧЕЧНЕС Р О Ч Н О МОСКВА , 12 декабря .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "ПРОТЕСТУЮТ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "ПОВРЕДИЛИ"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "появившееся"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Этот награду французский еженедельник France Football ежегодно вручает лучшему футболист , играемому в Европе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "играющему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "футболисту"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Реонель Рамонес , приятель сестры де Гузмана , который тоже жил в квартире Гузману , был ранее задержан полициями , но отпущены до суда , который ыостоится 19 мая .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "отпущен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "полицией"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Гузмана"
+    },
+    {
+      "correctReplacement": "состоится",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый Агентство военных новостей со ссылкой на оперативную группу внутренних войск при штабе объединенной группировки , штурмовые группы захватили автомобильного оста через реку Сунжа , который связывал восточную и западную части города .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "мост"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "автомобильный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "связывает"
+    },
+    {
+      "correctReplacement": "моста",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

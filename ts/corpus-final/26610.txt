@@ -1,0 +1,20 @@
+{
+  "text": "Около полутора миллионам человек принявшее участие в воскресной демонстрации в Мадриде против группировки баскских сепаратистов ETA , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "приняло",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Первыми этот вопрос подняли бельгийские парламентарий : если государственная служба печатающий марки с изображениями Ленина , то почему не издено Гитлер - так же , как и большевистский вожди , \"виновный в геноциде\" ?",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "печатает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "вождь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "парламентарии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "изображением"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "издан"
+    },
+    {
+      "correctReplacement": "издано",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

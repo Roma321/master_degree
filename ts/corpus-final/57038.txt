@@ -1,0 +1,25 @@
+{
+  "text": "Со вторника прекратившая подача горячая воды в жилые дома город , а отопление было отключено на месяц ано срока .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "горячей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "прекращена"
+    },
+    {
+      "correctReplacement": "раньше",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

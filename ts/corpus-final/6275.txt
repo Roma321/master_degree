@@ -1,0 +1,20 @@
+{
+  "text": "Как полагаемые представители Минюста в суда , \"складывается впечатление , что штветчик пытается затянуть процесс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суде"
+    },
+    {
+      "correctReplacement": "ответчик",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

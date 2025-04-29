@@ -1,0 +1,20 @@
+{
+  "text": "Мой фильм рассказываемый об актерах , об истории актерской семьи , о том , как они путешествовали по миру , в связи с чем и возникают различные суетные коллизии . \"",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "рассказывает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "путешествуют"
+    },
+    {
+      "correctReplacement": "сюжетные",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

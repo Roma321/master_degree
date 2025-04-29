@@ -1,0 +1,25 @@
+{
+  "text": "74-летний Константиносе Стефанопулос переизбрано во вторник на пост президента Греции на ближайшие пять голы , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "переизбран"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Константинос"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "годы",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

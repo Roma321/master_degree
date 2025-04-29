@@ -1,0 +1,20 @@
+{
+  "text": "Орден святого Георгия имеет четыре степени , высшей степенью орденов являлся I степень .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ордена"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "Святого",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

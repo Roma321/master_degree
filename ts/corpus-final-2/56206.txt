@@ -1,0 +1,25 @@
+{
+  "text": "В подписании договором участвовали генерал Освободительную армии Китая Фи Кванью и заместитель министра Вооруженных революционностей сил Кубы генерал Альваро Лопес .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Освободительной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "договора"
+    },
+    {
+      "correctReplacement": "революционных",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "Фу",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

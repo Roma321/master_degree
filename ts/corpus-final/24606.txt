@@ -1,0 +1,20 @@
+{
+  "text": "Полиции мрочесывает окрестностями и проверяет все мало-мальски подозрительные предметы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Полиция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "окрестности"
+    },
+    {
+      "correctReplacement": "прочесывает",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

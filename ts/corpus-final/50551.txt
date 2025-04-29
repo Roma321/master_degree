@@ -1,0 +1,25 @@
+{
+  "text": "Первая версия Сорме появилась в 1995 году и предполагала , что ФСБ будет заниматься электронных подслушиваниями в отношении отдельных лиц , предъявляющие при этом санкцию прокурора на каждый такой случай .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "предъявляя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "СОРМ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "электронным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "подслушиванием"
+    }
+  ]
+}

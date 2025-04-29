@@ -1,0 +1,25 @@
+{
+  "text": "Кроме то , как сообщает театральное агентство новостей со ссылкой на представителя штаба Объединенной группировок на Северном Кавказе , в ней участвовали добровольцы бывшего полевого командира Сулимов Ямадаева и экс-мэра Грозного Бислана Гантамирова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "Сулима"
+    },
+    {
+      "correctReplacement": "Федеральное",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

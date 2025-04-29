@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , такому образими власти хотят решить возможные проблемы с отоплением жилых домов : \"нужно , чтобы американским семье было тепло этой зимой\" , показавший министр энергетики США Билл Ричардсон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "семьям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "образом"
+    },
+    {
+      "correctReplacement": "сказал",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "образами",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Большего настя времени представители обеих сторон отвечали на вопросы членов суда и адвокатов противнипа , передает CNN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Большую"
+    },
+    {
+      "correctReplacement": "часть",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "противника",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

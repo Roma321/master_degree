@@ -1,0 +1,25 @@
+{
+  "text": "Выяснюсь , что подозреваемый , работавшая не чак давно в должности участкового инспектора , задерживался за пьяный дебоши и имел два взыскания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "дебош"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выяснилось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "работавший"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

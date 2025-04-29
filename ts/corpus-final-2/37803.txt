@@ -1,0 +1,20 @@
+{
+  "text": "К месту происшествия вызвавшие все оперативные службы города , тама находящийся бригада центра экстренной медицинской помощи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "вызваны"
+    },
+    {
+      "correctReplacement": "там",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

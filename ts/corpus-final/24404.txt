@@ -1,0 +1,35 @@
+{
+  "text": "Телекомпания НТВ сообщаешь со ссылкой на чеченские источники , что в переговорах с лидером талибов в Кандагаре участвовал небезызвестный чеченский лидеры Зелимхан Яндарбиеф , который и получило от Мухаммеда Омара обещание о скором установлении дипотношений между Грозным и Кабулами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "участвует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "Кабулом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "лидер"
+    },
+    {
+      "correctReplacement": "Яндарбиев",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителя штаба ОГВ , частью и подразделения Объединённого группировки войск на Северном капкане осуществляют перегруппировку силах и средств для проведения третьего этапа контртеррористическая операции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "контртеррористической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "части"
+    },
+    {
+      "correctReplacement": "Кавказе",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

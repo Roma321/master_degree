@@ -1,0 +1,20 @@
+{
+  "text": "Его ремонтом должен был осуществить экипаж кораблей Discovery , но запуск несколько раз откладывалчя по различным причинам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "корабля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ремонт"
+    },
+    {
+      "correctReplacement": "откладывался",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

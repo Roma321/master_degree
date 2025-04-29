@@ -1,0 +1,25 @@
+{
+  "text": "Первые десятью пункты связаны с причинением умышленного вреда сайтам , а остальные - с нелегальным использованием компьютеров , принадлежащих американским госуниверситету .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "десять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "пунктов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "университетам"
+    },
+    {
+      "correctReplacement": "университету",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

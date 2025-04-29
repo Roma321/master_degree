@@ -1,0 +1,30 @@
+{
+  "text": "Выборы губернатор , главы района и депуиатов органов местного самоуправления в Самарской области , проходящие в воскресенье , признаны состоявшимися , передающий \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "районов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "глав"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "correctReplacement": "депутатов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

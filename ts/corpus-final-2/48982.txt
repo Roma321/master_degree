@@ -1,0 +1,20 @@
+{
+  "text": "Депутату не удалось выяснить , кто распорядился разобрать монумент , и они поручили прокуратуре города провести расследование по данной пакту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Депутатам"
+    },
+    {
+      "correctReplacement": "факту",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

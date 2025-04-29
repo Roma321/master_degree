@@ -1,0 +1,20 @@
+{
+  "text": "Преступник несколько раз выстрелило в Тюрина из пистолета с глушителем иностранной производства и скроюсь на поджидавшем его \"Мерседесе\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "иностранного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "выстрелил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "скрылся"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающий ИТАР-ТАСС , мэр зазвмвший , что глава российского государства не может \"по состоянию здоровье эффективно выполнять свои обязанности\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "здоровья"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "зазвавший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сам Джон Дрейпер заявленный , что одной из целей мероприятию является попытка улучшившие образ хакера и дать верное представление г том , что делают эти люди .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "улучшить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "мероприятия"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

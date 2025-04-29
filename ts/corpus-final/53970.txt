@@ -1,0 +1,20 @@
+{
+  "text": "Премьер-министр намерен поручившие главе Пенсионного фонда рассмотреть этот вопрос и обсудить проблему на меате , во время специальной командировках в Свердловскую область .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "поручить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "командировки"
+    },
+    {
+      "correctReplacement": "месте",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

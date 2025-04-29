@@ -1,0 +1,25 @@
+{
+  "text": "Кроме то , Морозов отметило , что следствие по его делу провожу гражданский следователь из Генпрокуратуры , который не владел спецификой вопроса и просто подгонял дело под необходпмые рамки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "проводил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "необходимые",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

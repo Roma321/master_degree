@@ -1,0 +1,25 @@
+{
+  "text": "В нем нуходился армейская ящик , а в ящиках сумка , в которой были обнаружившие четыре магазина с патронами к автомату Калашникова и три гранаты со взрывателями .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "армейский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "ящике"
+    },
+    {
+      "correctReplacement": "находился",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

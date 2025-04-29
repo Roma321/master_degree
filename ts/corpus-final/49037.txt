@@ -1,0 +1,25 @@
+{
+  "text": "Гиганты табачного бизнеса обвиняющиеся в том , что продукция , которую они производят , вредны аля здоровья и вызываемый привыкание .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "вредна"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "вызывает"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

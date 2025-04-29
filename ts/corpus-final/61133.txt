@@ -1,0 +1,20 @@
+{
+  "text": "Оружие было найду не тонька в Шатойской , но и в Итум-Клинском районе , в Гудермесе , В Урус-Мартановском районе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Шатойском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "найдено"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

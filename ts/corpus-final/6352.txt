@@ -1,0 +1,20 @@
+{
+  "text": "Его тело нашлите на улице Балтимора - был ли виноват в этой смерти алкоголь , сердечный приступ , эпидемические припадок или все вместе , так и осталось загадкой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "нашли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "эпилептический"
+    },
+    {
+      "correctReplacement": "эпилептические",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

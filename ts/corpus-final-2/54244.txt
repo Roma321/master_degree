@@ -1,0 +1,20 @@
+{
+  "text": "В воскресившее завершилась церемония вручений награды , проходившая в московском театре \"Новая опера\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "наград"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вручения"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

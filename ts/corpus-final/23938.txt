@@ -1,0 +1,20 @@
+{
+  "text": "Продукция обеих компаний успешно дополняешь друг друзей : Glaxo успешно разрабатывают медикаменты против астмы и ВИЧ , а SmithKline - антидепрессивные средства , средства для лечения диабета , антибиотики и вакцины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "друга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "разрабатывает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "дополняет"
+    }
+  ]
+}

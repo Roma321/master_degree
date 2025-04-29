@@ -1,0 +1,20 @@
+{
+  "text": "Этна - самые высокий в Европе дейздвующий вулкан , его высота превышал 3 300 метров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "самый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "превышает"
+    },
+    {
+      "correctReplacement": "действующий",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

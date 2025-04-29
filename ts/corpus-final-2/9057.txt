@@ -1,0 +1,30 @@
+{
+  "text": "Но в сентябре 1998 года , как раз тогда , когда его популярность резко шла в гору , Анвар вдруг был исключу из правительства , а немногим позже обвинивший в злоупотребляющее властями , а также в содомии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "обвинен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "злоупотреблении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "исключен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "властью"
+    },
+    {
+      "correctReplacement": "злоупотребление",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

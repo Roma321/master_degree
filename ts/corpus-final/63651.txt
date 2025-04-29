@@ -1,0 +1,30 @@
+{
+  "text": "Работникам здравоохраненгя Чечни в ближайших время придусь принимать экстренные меры для превращения эпидемий и локализации возникающих очагами инфекции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "очагов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "придется"
+    },
+    {
+      "correctReplacement": "предотвращения",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "здравоохранения",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

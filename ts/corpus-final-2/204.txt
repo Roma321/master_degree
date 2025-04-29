@@ -1,0 +1,25 @@
+{
+  "text": "В отчете рассматривался широкий спектр тем , включая зашиту правах потребителя , секретность , безопасность и налогообложения в Интернете .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "налогообложение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "прав"
+    },
+    {
+      "correctReplacement": "защиту",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Полиция вскоре обнаружил прятафшегося преступнике и сталась его обезвредить .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "преступника"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружила"
+    },
+    {
+      "correctReplacement": "попыталась",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "прятавшегося",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

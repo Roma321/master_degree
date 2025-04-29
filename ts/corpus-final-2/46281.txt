@@ -1,0 +1,25 @@
+{
+  "text": "В число шести финалистов , помимо Шишкина , входившие москвич Виталий Золотуха , петербуржец Николай Кононов , живущие ныне в Голландии Марина Палей , алексий Слаповский из Саратова и бывшая москвичка Светлана Шенбрунн , живущий сейчас в Израиле .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "входили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "живущая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "живущая"
+    },
+    {
+      "correctReplacement": "Алексей",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

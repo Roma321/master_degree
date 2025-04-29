@@ -1,0 +1,20 @@
+{
+  "text": "Съёмки картины с бюджетом 15 мильонов долларов начались весной .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "начнутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Съемки"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

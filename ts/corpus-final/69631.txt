@@ -1,0 +1,30 @@
+{
+  "text": "Речб идут о специальном подразделении , совершавшем рейды по стране и скандирующим противников военного режиму .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "режима"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "ликвидировавшем"
+    },
+    {
+      "correctReplacement": "ликвидирующем",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Речь",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Спустя несколько часов оцепление вокруг предприятий было снято , разъехались прибудем на комбинаты социалисты ФСБ , МВЭ и МЧС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "комбинат"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "прибывшие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "предприятия"
+    },
+    {
+      "correctReplacement": "специалисты",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

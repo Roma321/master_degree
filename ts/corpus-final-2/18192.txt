@@ -1,0 +1,20 @@
+{
+  "text": "При взрыве по меньшей герам один человек погиб и 15 пострадал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "мере"
+    },
+    {
+      "correctReplacement": "мерам",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

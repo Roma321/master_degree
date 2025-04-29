@@ -1,0 +1,35 @@
+{
+  "text": "Через некоторое время после пропажи , музей полученный письма от человека , назвавшего себя The Master , который заявивший , что в данный момент машина находится в его распоряжении и , если ему не заплатили выкуп в размере 25 тысяч фунтов , она будет уничтожифшая .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "заплатят"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "письмо"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 44,
+      "correctReplacement": "уничтожена"
+    },
+    {
+      "correctReplacement": "уничтожившая",
+      "type": "typo",
+      "wordNumber": 44
+    }
+  ]
+}

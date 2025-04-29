@@ -1,0 +1,20 @@
+{
+  "text": "Сообщение о находках в дежурную часть киликии поступившее по телефону .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "поступило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "находке"
+    },
+    {
+      "correctReplacement": "милиции",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

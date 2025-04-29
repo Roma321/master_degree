@@ -1,0 +1,25 @@
+{
+  "text": "В результате столкновение грузчика с двухэтажным туристическим автобусом , перевозившим детей из Германии , четыре девочки и три мальчика погибли , 21 человек получила тяжелые ранения и доставлены в местные больницы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "correctReplacement": "грузовика",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

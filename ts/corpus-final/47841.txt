@@ -1,0 +1,25 @@
+{
+  "text": "Двое жеребят погибли , пятеро пострадавшие в результате столкновения школьного автобуса с товарному поездом на границе американских штатов Теннесси и Джорджия , сообщающий Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "товарным"
+    },
+    {
+      "correctReplacement": "детей",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Чечне были убиты 10 сотрудника органов внутренних зел и ранившие 25 милиционеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "ранены"
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "дел",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

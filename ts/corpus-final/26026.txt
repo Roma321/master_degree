@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты полагаем , что в квартире взорвался бытоыого газ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бытовой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "бытового",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

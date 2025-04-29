@@ -1,0 +1,30 @@
+{
+  "text": "- Однако значмтельно полезнее было бы узнать , куда на самой село уходил этот экспорт и какова его истинная цена\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "деле"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "уходит"
+    },
+    {
+      "correctReplacement": "дело",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "значительно",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

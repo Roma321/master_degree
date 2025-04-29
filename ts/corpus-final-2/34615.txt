@@ -1,0 +1,20 @@
+{
+  "text": "Первый фильм собранный в американском прокате 26 миллионов долларов , а \"Следующая пятница\" за первые девятнадцать дней после выхода заработчла уже 39 , 8 миллиона долларами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "собрал"
+    },
+    {
+      "correctReplacement": "заработала",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

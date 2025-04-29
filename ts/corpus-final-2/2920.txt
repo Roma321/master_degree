@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в южнокорейских порту Ульсан торжественно поднявший российский флаги на борту супертанкера \"Приморье\" , построенного по заказу Приморского морского первородства , сообщает РИА \"Новости\" со ссылкой на дирекцию пароходства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "южнокорейском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "флаг"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "поднят"
+    },
+    {
+      "correctReplacement": "пароходства",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

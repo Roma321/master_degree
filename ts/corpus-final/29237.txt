@@ -1,0 +1,20 @@
+{
+  "text": "Возбудифшее уголовное делу , сообщили РИА \"Новости\" в пресс-службе прокуратуры Москвы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Возбуждено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "Возбудившее",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

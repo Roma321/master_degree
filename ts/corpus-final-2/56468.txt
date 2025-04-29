@@ -1,0 +1,30 @@
+{
+  "text": "Митрофанов отметил , что это серным серьёзный иск к действующим на ооссийском рынке западных компаниям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "западным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "серьезный"
+    },
+    {
+      "correctReplacement": "первым",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "российском",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

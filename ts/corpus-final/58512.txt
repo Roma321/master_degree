@@ -1,0 +1,25 @@
+{
+  "text": "По мнению полицейских и агентов ФБР , которые начали расследшвание по этому поводу , Бохаммерс является убежденным басист и ненавидимый людей с другим цветом кожи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "расистом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "ненавидит"
+    },
+    {
+      "correctReplacement": "расисте",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

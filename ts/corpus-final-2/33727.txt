@@ -1,0 +1,20 @@
+{
+  "text": "Это был бы перебор , - скажу Владимир Путин в одвет на вопросы журналистик .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "журналистов",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "ответ",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

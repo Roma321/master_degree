@@ -1,0 +1,25 @@
+{
+  "text": "В жалобе Жириновский указал , что такое нарушение можно считать несущественным , поскольку стоимость квартиры на улице Коштоянца в Москве , н которой идет течь , составляю 0 , 69 процента от стоимости всего имущества , указанного в общее списке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "общем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "речь",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

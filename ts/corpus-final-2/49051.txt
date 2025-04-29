@@ -1,0 +1,20 @@
+{
+  "text": "При этом там отметили , что пока американцу не предъявлнн никакие обвинений .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "никаких"
+    },
+    {
+      "correctReplacement": "предъявлен",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

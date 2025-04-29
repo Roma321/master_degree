@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщалось , с иску о погашении гособлигаций разнмх берий телекомпания НТВ обратился в суд осенью прошлого года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "иском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "correctReplacement": "серий",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "разных",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Сейчас в SEC работали около 240 спеыиалистов для выявления случаем мошенничества в Интернете , и в прошлой месяце комиссия запросили у Конгрессов 150 миллионов далласов для фининсирования своей работы в 2001 году .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "запросила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Конгресса"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

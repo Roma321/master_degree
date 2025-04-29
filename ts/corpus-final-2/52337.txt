@@ -1,0 +1,30 @@
+{
+  "text": "В письме , которое получу владелец паба Portobello Gold в районе Ноттинги-хиллы , кот Клинтона по имени Сокс извинялась за поведение своего хозяев и в знак примирения пришлю чек на 10 фунтов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "извинялся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "прислал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Ноттинг-Хилл"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "хозяина"
+    }
+  ]
+}

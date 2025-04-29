@@ -1,0 +1,30 @@
+{
+  "text": "Он отметифший , что работа руководителя всегда оценивалась по той , как прошло зина в его регионе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "прошла"
+    },
+    {
+      "correctReplacement": "зима",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "отметивший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

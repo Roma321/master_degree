@@ -1,0 +1,30 @@
+{
+  "text": "В 14 : 00 по местном времени проголосовавшие 28 , 7 проценте избирателей , при обязательной явки 25 процентам , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "процента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "явке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "процентов"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Все критические системы жизнеобеспечрния перенесли роковое дату без проблемами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "роковую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "проблем"
+    },
+    {
+      "correctReplacement": "жизнеобеспечения",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Прибудем в поселок саперы обследовали местность и путем подрыва уничроженные 14 мин типа ТМ-62 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "уничтожили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Прибывшие"
+    },
+    {
+      "correctReplacement": "уничтоженные",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "генпрокуратурой Центральной района Петербурга возбуждено уголовное дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Центрального"
+    },
+    {
+      "correctReplacement": "Прокуратурой",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Так , например , аппликация кода запрещена на конкретным сайтах - но на других сайтах код все равно можешь быть опубликована , а владельцы сайта , фигурирующих на процессе , могут вместо публикации коде опубликовать ссылку на другой сайт (публикация ссылки тоже не запрещена) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "кода"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "опубликован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "конкретных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "сайтов"
+    },
+    {
+      "correctReplacement": "публикация",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

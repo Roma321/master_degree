@@ -1,0 +1,30 @@
+{
+  "text": "В марте Зезов продемонстрировал , что не шутит : в то же дню , кода Майкл Блумберг получил очередное письмо массажиста , в агентства Bloomberg поступил факс , представляющий собой персональное досье главы компании , куда входило фото с его документа , имя пользователя и пароль , а также номера кредитными карточек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "документов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 50,
+      "correctReplacement": "кредитных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "день"
+    },
+    {
+      "correctReplacement": "шантажиста",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

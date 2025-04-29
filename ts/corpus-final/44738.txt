@@ -1,0 +1,25 @@
+{
+  "text": "Европой нуждается не в меньшем , а в большей количестве иммигрантов , полагают эксперты ОЛН , недавно завершившие изучения этого вопроса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "изучение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "большем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Европа"
+    },
+    {
+      "correctReplacement": "ООН",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

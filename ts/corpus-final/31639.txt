@@ -1,0 +1,25 @@
+{
+  "text": "Их представителями на преговорах с Россией выступаешь Банковский консультативный сонете и агентов в лице банков \"Чейз МанхэттенБэнк\" , \"Бэнк оф Америка\" , \"Дойче Банк АГ\" и юридической компании \"Клиффорд Чанс\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "выступает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "агенты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "совет"
+    },
+    {
+      "correctReplacement": "совете",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

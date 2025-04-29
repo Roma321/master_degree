@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва погибшая одне женщины , еще четыре получили ранения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "женщина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "погибла"
+    },
+    {
+      "correctReplacement": "одна",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

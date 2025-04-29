@@ -1,0 +1,20 @@
+{
+  "text": "По утверждению главы Госсобраний Константина Толкачева , в конституцию было внесу более сотни иоправок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Госсобрания"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "внесено"
+    },
+    {
+      "correctReplacement": "поправок",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

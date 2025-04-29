@@ -1,0 +1,30 @@
+{
+  "text": "Президент Белоруссии даже сообщил , на основании каком фактов сделан таких вывод : сразу же после разгона митинга гоздепартамент США осудил режим Лукашенко за нарушение прав человека , отя , по мнению Лукашенко , информация о разгоне не могли дойти до США так быстро .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "могла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "такой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "каких"
+    },
+    {
+      "correctReplacement": "хотя",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "госдепартамент",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

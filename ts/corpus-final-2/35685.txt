@@ -1,0 +1,30 @@
+{
+  "text": "По утверждению диссоциации , молодежные онлайновые выборы призваны привлечённые внимание молодых людей к политике и воспитать из них политически активных граждан , которыми всю оставшуюся жизни принимаем бы активное участие во всех выборах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "привлечь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "жизнь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "принимали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "ассоциации",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

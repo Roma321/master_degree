@@ -1,0 +1,25 @@
+{
+  "text": "Также полковникам грезимся \"атомные самолеты\" , доставляющие солдат и оборудование по всему миру за считанные минуты , и военная база бля космические кораблей на Луне , которая обеспечивает безопасность и используется при исследовании других планет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "полковнику"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "космических"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "грезились"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

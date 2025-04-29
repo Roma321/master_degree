@@ -1,0 +1,25 @@
+{
+  "text": "Он даже не точившая сообщить , выйдешь ли кто-нибудь из дипломатов к родителям , которые стоят у дверей посольства , сообщает радиостанция \"Эхо Мосувы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "выйдет"
+    },
+    {
+      "correctReplacement": "смогла",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Москвы\"",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

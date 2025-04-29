@@ -1,0 +1,25 @@
+{
+  "text": "Помощник президента России Сергей Ястржембский назвал сообщения о гибели ольший числа российских военнослужащими в пригороде Грозного полной дезинформацией и очередного \"уткой\" , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "большого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "очередной"
+    },
+    {
+      "correctReplacement": "большой",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

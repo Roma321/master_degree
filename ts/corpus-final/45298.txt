@@ -1,0 +1,30 @@
+{
+  "text": "Специалисты компании обнаружили , что эта программа , находящаяся на раннего стадии развитий , была доступна для звободных скачивания на некоторого сайтах в Интернете , в том числе сайтах образовательных учреждений , - сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "ранней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "некоторых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "свободного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "развития"
+    },
+    {
+      "correctReplacement": "свободных",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

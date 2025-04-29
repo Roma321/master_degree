@@ -1,0 +1,25 @@
+{
+  "text": "Мхр Москвы Юрий Лужков впервые заявило минувшую ночью об отказе выдвигать свою карикатуру на пост президента на предстоящих выборах летом 2000 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "минувшей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "кандидатуру",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Мэр",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

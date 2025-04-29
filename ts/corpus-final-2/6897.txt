@@ -1,0 +1,35 @@
+{
+  "text": "Андриаш Вер , директор Венгерского государственной института психиатры и неврологии , сообщил в понедельник , что одном из пациентов Котельнической психбольницы , расположившей в 750 км к востоку от Москвы , венгру по национальности , скоро вернется на ро.ину .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "венгр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "государственного"
+    },
+    {
+      "correctReplacement": "психиатрии",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "родину",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

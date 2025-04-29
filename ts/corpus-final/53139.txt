@@ -1,0 +1,30 @@
+{
+  "text": "В своем заявлениях Юрий Лужков отмечаю , что указ президента Бориса Ельцина об отстранении Куликова от занимаемой должности противоречишь Конституции , уставу город Москве и закону \"О милиции\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявлении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отмечал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "противоречит"
+    }
+  ]
+}

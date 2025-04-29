@@ -1,0 +1,30 @@
+{
+  "text": "Предполагающийся , что он встретится с президент Йемена , который в среду объявивший , что йеменские выпавшая располагают некоторыми чрезвычайно важным сведениями о взрыве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "важными"
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

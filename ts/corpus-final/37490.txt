@@ -1,0 +1,25 @@
+{
+  "text": "В законе , в частности , отмечается что право гражданином РФ на выезд из страны можер быть временно ограничу в случае , если ему выстуает в качестве обвиняемого по уголовному делу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "ограничено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "гражданина"
+    },
+    {
+      "correctReplacement": "может",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

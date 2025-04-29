@@ -1,0 +1,25 @@
+{
+  "text": "Первой строчку по-прежнему занимаешь американка Линдсейте Дэвенпорт , немного отстает от нее швейцарская спортсменка Мартина Хингис .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Линдсей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Первую"
+    },
+    {
+      "correctReplacement": "ненамного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

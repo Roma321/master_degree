@@ -1,0 +1,35 @@
+{
+  "text": "Южная Африка , главный производителю золота в мире , выпустили крюгерранд 2000 года до конца 1999-го год , так как цены на золото , еще недавно державшаеся на сама низкой за 20 лет отметке , в последнему время заметно пошли вверх .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "производитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "выпустила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "самой"
+    },
+    {
+      "correctReplacement": "державшиеся",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

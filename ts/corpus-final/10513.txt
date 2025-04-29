@@ -1,0 +1,35 @@
+{
+  "text": "В четверг седельный окружной арбитражная суд Мозгвы рассмотревший жалобу Федеральной службы по финансовому оздоровлению и банкротству Российской Федерации (ФСФО) и ОАО \"Кондпетролеум\" по поводу назначения внешним управляющим нефтяной компаний \"СИДАНКО\" Станислава Егорушковой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "рассмотрел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Егорушкова"
+    },
+    {
+      "correctReplacement": "Федеральный",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

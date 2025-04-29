@@ -1,0 +1,25 @@
+{
+  "text": "В настоящегб время Россия экспортирую в Турцию около 7 уиллардов кубометров газа через Украину , Молдавию , Румынию и Болгарию .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "экспортирует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "настоящего",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

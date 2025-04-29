@@ -1,0 +1,25 @@
+{
+  "text": "В его рамках Путин провёдший переговоры с президентом Шираком , премьер-министром Лионелем Жоспеном , председателями обоих галахов французского парламента , представителями деловых кругов , интеллигенция .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "обеих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проведет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "интеллигенции"
+    },
+    {
+      "correctReplacement": "палат",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

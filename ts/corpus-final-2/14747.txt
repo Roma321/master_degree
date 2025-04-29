@@ -1,0 +1,30 @@
+{
+  "text": "Из Владивостока Ричардсон отправятся в Южно-Сахалинск для участия в рабочего встрече руководителя нефтяных и газовых компаний Россия т США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "отправится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "руководителей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

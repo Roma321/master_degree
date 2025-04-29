@@ -1,0 +1,30 @@
+{
+  "text": "Ожин заложник - представитель местного самоуправлений - остался , однако , жива и сумел , несмотря на раны , добравшиеся до районной центра и сообщить о случившемся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "районного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "добраться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "самоуправления"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "жив"
+    },
+    {
+      "correctReplacement": "Один",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

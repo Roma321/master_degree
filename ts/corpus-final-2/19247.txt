@@ -1,0 +1,30 @@
+{
+  "text": "К радости местных зрителей австралийские пловец Ян Торп установленный новый мировой ректор на дистанций 400 метров вольным стилем - 3 минут 40 и 59 сотых секунды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "установил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "австралийский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "минуты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дистанции"
+    },
+    {
+      "correctReplacement": "рекорд",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

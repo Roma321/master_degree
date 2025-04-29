@@ -1,0 +1,20 @@
+{
+  "text": "Несмотря на эти грозы , The Master утверждал , что он не имеет никакой отношения к краже и лишь представляющий человека , случайно купившего украденную вещь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "представляет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "никакого"
+    },
+    {
+      "correctReplacement": "угрозы",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

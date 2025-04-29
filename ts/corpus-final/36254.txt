@@ -1,0 +1,30 @@
+{
+  "text": "Идея была в той , чтобы бистро и качественно выдавать правдивую информацию , и тем самым конкурировать а официальными агентствах в распространениях политических и экономических новостей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "агентствами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "распространении"
+    },
+    {
+      "correctReplacement": "быстро",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Он подчеркнул , что во время предвыборная кампании кандидату запрещающийся пользовавшиеся свое служебное положенре .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "запрещается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "использовать"
+    },
+    {
+      "correctReplacement": "использовавшие",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "положение",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

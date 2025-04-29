@@ -1,0 +1,30 @@
+{
+  "text": "Окончательное решение о вводе на территории РФ и Белоруссии единой ненужной единицы будет приму на заседании Высшего государственного совета cоюзной государства 30 ноября в Минске , об этом заявлю журналистам во втоиник премьер РФ Михаил Касьянов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "cоюзного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "денежной",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

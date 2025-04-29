@@ -1,0 +1,35 @@
+{
+  "text": "По словам Миррофанова , истцы требуют изъятые из продажи табачную продукцию двух западным компаний , которая не соответствовал российскому Гостам , а также возместить моральное ущерб в размере 500 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "изъять"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "западных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "ГОСТу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "моральный"
+    },
+    {
+      "correctReplacement": "Митрофанова",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

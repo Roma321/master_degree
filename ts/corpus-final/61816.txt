@@ -1,0 +1,20 @@
+{
+  "text": "Компания Microsoft признал наличии данной ошибок , и сообщила , что начата работа по созданию соответствующего патча .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "наличие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "ошибки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "признала"
+    }
+  ]
+}

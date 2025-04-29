@@ -1,0 +1,35 @@
+{
+  "text": "Президент России Владимира Путин подтвердивший , что государства - участники Договора коллективной опасности в оценке ситуации в Афганистане основывающиеся на позиции ООН , которая заявлю , что движение \"Талибан\" претставляет угрозу как источник международного терроризма .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "основываются"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "представляет",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

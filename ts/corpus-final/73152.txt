@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщвл РИА \"Новости\" , новый генеральный секретарь НАТО выступает за усиление роли европейских государств в деятельность Североатлантического блока .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "деятельности"
+    },
+    {
+      "correctReplacement": "сообщал",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

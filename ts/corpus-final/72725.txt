@@ -1,0 +1,25 @@
+{
+  "text": "Пресс-секретарь президента РФ митрич Якушкин категорически опровергну в четверг эти утверждения , а высказывания Скуратова названный клеветами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "клеветой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "назвал"
+    },
+    {
+      "correctReplacement": "Дмитрий",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Чначала взыскание должно быть направлена на денежные средств и только в случае их присутствия - на имущество .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "направлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "средства"
+    },
+    {
+      "correctReplacement": "отсутствия",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "Сначала",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

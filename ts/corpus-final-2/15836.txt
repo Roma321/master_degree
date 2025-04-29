@@ -1,0 +1,20 @@
+{
+  "text": "Холл погибло под ногой разъяренной слонихи , а сам д-р Сэд иолучил серьезные ранения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ногами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "получил",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

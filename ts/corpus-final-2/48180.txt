@@ -1,0 +1,30 @@
+{
+  "text": "На другого участках шоссе рейсовые автобус не подъезжают к краю тротуарам , а останавливаются посредине дороги , так как возле бордюров скопились большие груда снегу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "груды"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "снега"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "тротуаров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "автобусы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "других"
+    }
+  ]
+}

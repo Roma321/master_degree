@@ -1,0 +1,20 @@
+{
+  "text": "Преступник захвачу в заложники находившуюся в доме мать девушки , а также друга матени с 12-летним сном .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "захватил"
+    },
+    {
+      "correctReplacement": "сыном",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "матери",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

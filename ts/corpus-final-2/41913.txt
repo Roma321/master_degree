@@ -1,0 +1,15 @@
+{
+  "text": "Кроме того , в больнице нпт горячих воды , лекарств , пациентов нечем кормить .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "горячей"
+    },
+    {
+      "correctReplacement": "нет",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

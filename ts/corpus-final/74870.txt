@@ -1,0 +1,35 @@
+{
+  "text": "Накануне 20 июнь генеральный директор ОРТ Константин эрнест заявивший , что акционеры компанию намерены поставить вопрос о финансировании телеканалов отдельной строкой из бюджета или продажах части госпакета акций частным акционерам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "продаже"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "телеканала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "июня"
+    },
+    {
+      "correctReplacement": "Эрнст",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

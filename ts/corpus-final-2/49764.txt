@@ -1,0 +1,25 @@
+{
+  "text": "Следствие также разлагавший данными , что Шутов организовал подготовку убийств председателя совета директоров ЗАО \"Петербургская топливная компания\" Андрея Степанова и депутата Государственной думы РФ второго созыв Вячеслава Шевченко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "созыва"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "располагает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "убийства"
+    },
+    {
+      "correctReplacement": "располагал",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

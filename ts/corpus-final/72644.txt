@@ -1,0 +1,30 @@
+{
+  "text": "Что касается cookies , то они , как утверждают компании , используются только для тех , чтобы идентифицировать уже захоженного на сайт пользователя и не показывать ему ту же рекламу повтирно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "заходившего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "повторно",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

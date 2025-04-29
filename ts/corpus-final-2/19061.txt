@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратура Свердловской область возбудила уголовное дела по факту массовую драки , произошедшего 14 сентября в здании заводоуправления \"Уралхиммаша\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "произошедшей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "массовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "области"
+    }
+  ]
+}

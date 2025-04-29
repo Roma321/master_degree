@@ -1,0 +1,20 @@
+{
+  "text": "В среду в Москве был избит руководитель секретариата высокого арбитражного суда , помощник председателя Высшего арбитражной суда России Борисом Полонский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Борис"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "арбитражного"
+    },
+    {
+      "correctReplacement": "Высшего",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Полозы были отвезены в заповедник , где их отпустим на волю , а питона отдали хозяину : поместить змею было некуда , а выпустившие нельзя , поскольку её не приспособлена к местному климате .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "выпустить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отпустили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "климату"
+    }
+  ]
+}

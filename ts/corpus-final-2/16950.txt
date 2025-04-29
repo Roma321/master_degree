@@ -1,0 +1,25 @@
+{
+  "text": "На последних выборов коммунисты не получили ничего , потому что уже никто не верит , что они пьидёте к волость .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "придут"
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "придёте",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

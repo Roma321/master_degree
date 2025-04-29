@@ -1,0 +1,25 @@
+{
+  "text": "\"Газпром\" подписал в среду соглашения с компании Gaz de France , Snam , Wintershall и Rurhgas о создании консорциума по строительству обходной вятки газопровода вокруг терррторией Украины через Польшу на Словакию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "компаниями"
+    },
+    {
+      "correctReplacement": "ветки",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "территорией",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

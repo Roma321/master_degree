@@ -1,0 +1,20 @@
+{
+  "text": "Своё первый матч протиф француза Фабриса Санторо Марат Сафин провёл в среду .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "проведет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Свой"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

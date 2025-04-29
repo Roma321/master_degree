@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что недавно останкам дневной человека бали обнаружены в Испании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "древнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "останки"
+    },
+    {
+      "correctReplacement": "древней",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "были",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

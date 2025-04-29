@@ -1,0 +1,20 @@
+{
+  "text": "29-я телеканал в Санкт-Петербурге выигранное \"ВГТРК\" для канала \"Культура\" , московскую частоту 103 , 4 FM - радиоспанция \"Маяк\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "29-й"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выиграло"
+    },
+    {
+      "correctReplacement": "радиостанция",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

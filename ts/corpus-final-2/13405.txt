@@ -1,0 +1,25 @@
+{
+  "text": "На рынках дагечтанского города Хасавюрт в субботу вспыхнула паника , вызванная слухом , о заложенном взрывной устройстве , которое должно взорваться в ближайшего время .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "взрывном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "рынке"
+    },
+    {
+      "correctReplacement": "дагестанского",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

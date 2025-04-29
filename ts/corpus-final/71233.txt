@@ -1,0 +1,25 @@
+{
+  "text": "Касаясь отношений с Русских Зарубежноы Церковью , предстоятель заявивший , что представители Русской Православную Церкви неоднократно призывали к зарубежный синод к воссоединению .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Православной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Русской"
+    },
+    {
+      "correctReplacement": "Зарубежной",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "С 1 декабря по редению московских властей в городе вводились новые правила выгула и дрессировок собаками , сообщающий РИА \"Новости\" со высылкой на мэрию столицы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дрессировки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "вводятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "собак"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "решению",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

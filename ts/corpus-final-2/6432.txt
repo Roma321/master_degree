@@ -1,0 +1,25 @@
+{
+  "text": "В ответы на приказ пограничники остановиться неизвестными был открыт огонь из станкового оркжия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пограничников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "ответ"
+    },
+    {
+      "correctReplacement": "стрелкового",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "оружия",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "такий информация появилась в понешельники на сайте газеты Los Angeles Times .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Такая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "correctReplacement": "Такой",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "понедельники",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

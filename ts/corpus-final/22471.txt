@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , пучиной пожаров ставшее короткое замыкание электропроводки на чердаке пятиэтажного дома старой постройки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "стало"
+    },
+    {
+      "correctReplacement": "причиной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

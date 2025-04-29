@@ -1,0 +1,15 @@
+{
+  "text": "Водитель микроавтобуса марки Volkswagen не справился с управлением и на говорящем , пробитые ограждение , упал с девятиметровой высоты в реку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "пробив"
+    },
+    {
+      "correctReplacement": "повороте",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

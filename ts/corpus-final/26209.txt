@@ -1,0 +1,20 @@
+{
+  "text": "Государственная компания Petrobras , по вине которой произошла катострофа , утверждаешь , что в воде было выброшен 500 тонн нефтепродуктов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "выброшено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "воду"
+    }
+  ]
+}

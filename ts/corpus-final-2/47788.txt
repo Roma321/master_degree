@@ -1,0 +1,25 @@
+{
+  "text": "В это время в комнаты вошел Холодов , не поздоровавшись , прошёл к овну , сели на стул , и в следующую минуту раздался хлопок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "комнату"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сел"
+    },
+    {
+      "correctReplacement": "окну",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

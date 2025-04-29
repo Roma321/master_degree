@@ -1,0 +1,30 @@
+{
+  "text": "Закон также устанавливаешь , что в договоры о создании хостингов не можер устанавливаться запрет на права выхода из холдинга на срок , превышающий три года .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "устанавливает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "право"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "договорах"
+    },
+    {
+      "correctReplacement": "холдингов",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "может",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомнили , что Napster создала систему , которая позволяет пользователей получаемые доступ к музыкальным архивам на компьютере друг друла и таким образом обмениваться цифровой музыкой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "получать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пользователям"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "компьютерах"
+    },
+    {
+      "correctReplacement": "друга",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

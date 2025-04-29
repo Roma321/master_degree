@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что в февралях 2000 годов министр по антимонопольной политике Илья Южанов жаявили РИА \"Новости\" , что в ближайшие два года повременная оплата за телефон будет введена по всей России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "феврале"
+    },
+    {
+      "correctReplacement": "заявили",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

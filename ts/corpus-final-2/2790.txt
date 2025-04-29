@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщившие в ГУВД Москвы , около 23 : 00 возле стройплощадки возводящего рядом дома собрались около 400 человек , протестующих против этого строительству .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "возводимого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "строительства"
+    }
+  ]
+}

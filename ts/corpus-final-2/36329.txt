@@ -1,0 +1,20 @@
+{
+  "text": "Однако НТВ располагаешь ведениями , что это произошло в 13 часов по московской времени .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "располагает"
+    },
+    {
+      "correctReplacement": "сведениями",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

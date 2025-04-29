@@ -1,0 +1,30 @@
+{
+  "text": "TrustUK будет выдающие свой знаком отличия тем онлайновым торговцам , которые соответствуют весьма жестким требованиям и правилам , обеспечивая тем самой высокпх стандарты качества обслуживания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "знак"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "высокие"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выдавать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "самым"
+    },
+    {
+      "correctReplacement": "высоких",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

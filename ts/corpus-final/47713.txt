@@ -1,0 +1,30 @@
+{
+  "text": "Французы Марине Анисина и Гвендали Пейзера занявшие первое место после исцеления венского вальса и ароентинского танго .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Марина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Гвендаль"
+    },
+    {
+      "correctReplacement": "исполнения",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "аргентинского",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

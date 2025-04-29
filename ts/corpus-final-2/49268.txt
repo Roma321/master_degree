@@ -1,0 +1,25 @@
+{
+  "text": "Так , из-за того , что сегодня Генпрокуратура не представившая импанской стороне материалы дела , судьи Бальтасар Гарсон отказал адвокатам Владимира Гусинского в освобождении их беззащитного .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "представила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "судья"
+    },
+    {
+      "correctReplacement": "подзащитного",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "испанской",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

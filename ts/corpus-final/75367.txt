@@ -1,0 +1,35 @@
+{
+  "text": "Французской газета Le Monde сообщаемый о том , что Борис Березовский причастно к недавнему освобождениям из чеченского плена французского фонограф Бриса Флетьр .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "причастен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Французская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "освобождению"
+    },
+    {
+      "correctReplacement": "фотографа",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Флетьо",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

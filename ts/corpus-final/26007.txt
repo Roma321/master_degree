@@ -1,0 +1,25 @@
+{
+  "text": "Исполняемый обязанности президента напомнил , что террористические акт в Москве , Буйнакске и Волгодонске были совершены после то , как \"мы далт им по морде в Дагестане\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Исполняющий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "акты"
+    },
+    {
+      "correctReplacement": "дали",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Однако встречей с ним только накалила страсти : по словам туроператоров , консул заявил , что сорвавшие обязательства турфирмы паред клиентами - это их проблемы , а консульский отдел работает как обычно и не виноват , что желающих поехать в Италию стало больше .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сорванные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "турфирм"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "встреча"
+    },
+    {
+      "correctReplacement": "перед",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

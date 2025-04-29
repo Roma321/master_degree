@@ -1,0 +1,25 @@
+{
+  "text": "Во время землевладения в городах задрожали стены , практически на час прервалось мобильная телефонные связь .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "телефонная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "прервалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "городе"
+    },
+    {
+      "correctReplacement": "землетрясения",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

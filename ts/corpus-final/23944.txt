@@ -1,0 +1,25 @@
+{
+  "text": "Во временем чтения приговора , которое длилось более часов , в основном фигурировали эпиздды хищения проектов питания : колбасы , огурцов , помидоров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "часа"
+    },
+    {
+      "correctReplacement": "продуктов",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "эпизоды",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

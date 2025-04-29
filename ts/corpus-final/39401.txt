@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , в населивших пунктах остаётся тайникам с оружием и боеприпасами , которые не удамся выявить ы ходе так называемых \"мягких зачисток\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "тайники"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "остаются"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

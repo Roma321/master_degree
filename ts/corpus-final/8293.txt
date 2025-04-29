@@ -1,0 +1,20 @@
+{
+  "text": "В Москве состоялась встреча премьер-министра России Владимира Путина с муфтием Чечни Ахмедом Кадырова , делегированным фитилями Гудермеса на переговоры с российскому правительством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "российским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Кадыровым"
+    },
+    {
+      "correctReplacement": "жителями",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

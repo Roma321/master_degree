@@ -1,0 +1,20 @@
+{
+  "text": "Взрывы должны были сопровождающиеся крупными пожарами и массового гибелью мерных жителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сопровождаться"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "массовой"
+    },
+    {
+      "correctReplacement": "мирных",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

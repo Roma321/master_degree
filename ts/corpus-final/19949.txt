@@ -1,0 +1,30 @@
+{
+  "text": "Татарстан не отказывающийся от участия в призывп на военнуюслужбу в республике для защиты внешних границ РоссийскойФедерации , но в соответствие с действующими законодательством , заявило Фарид Мухаметшин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "отказывается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "действующим"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "соответствии"
+    },
+    {
+      "correctReplacement": "призыве",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Самым бедным кандидатом в этой кампании окажусь Элла Памфилова , на избирательные счёт которой поступили только бюджетные 400 тысяч рублей , положившие по закону каждому кандидату .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "положенные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "избирательный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "оказалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "счет"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После того как капитан корабль сообщил , что вникнувшая проблема с электрогенератором , Кретьен подошла к журналистам и успокоили их , сказав , что все будет нормально .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "подошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "успокоил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "корабля"
+    },
+    {
+      "correctReplacement": "возникла",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

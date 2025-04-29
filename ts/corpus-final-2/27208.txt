@@ -1,0 +1,25 @@
+{
+  "text": "По одной из версий , скрыть информацию о пожаре пытаемся торговцы : рынок находится под грозой закрытия , и сообщение о происшествии могу , по их опасениями , ускорить этот процесс .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "пытались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "опасениям"
+    },
+    {
+      "correctReplacement": "угрозой",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Один из официальных представителя Белого дому объяснил в интервью Drudge Report , что серверы Белого домов не справляется с такой нарезкой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "справляются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "представителей"
+    },
+    {
+      "correctReplacement": "нагрузкой",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

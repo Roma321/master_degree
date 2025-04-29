@@ -1,0 +1,25 @@
+{
+  "text": "Несколькими днями ранее он был объявивший персоной нон грата в связи ч причастностью к деятельности высокопоставленного чиновника американского иммиграцонной службы , обвинившего в шпионаже .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "обвиненного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "объявлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "американской"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

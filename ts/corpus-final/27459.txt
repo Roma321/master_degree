@@ -1,0 +1,20 @@
+{
+  "text": "В доме хакера проведен обыск , конфискованы два компьютера , мобильному телефон и несколько дискп .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мобильный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "дисков"
+    },
+    {
+      "correctReplacement": "диски",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

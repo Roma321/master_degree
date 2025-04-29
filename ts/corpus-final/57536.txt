@@ -1,0 +1,30 @@
+{
+  "text": "В качестве обвиняемых назовём тремя физических лица - Пётр Лерлин , Люси (Людмила) Эдвардс и Алексей Волков , а такое три компании - Benex , BECS International и Torfinex .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "три"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Петр"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "названы"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Берлин",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

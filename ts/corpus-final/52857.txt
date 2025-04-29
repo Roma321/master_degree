@@ -1,0 +1,45 @@
+{
+  "text": "В Ольстер разразилась кризису , вызванный приостановлением его автономии из-за отказов вооруженных группировок свавшие оружие . За толь в урегулировании конфликта в Северной Ирландии полицейские Ольстером удостоены столь высокой награды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "сдать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кризис"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Ольстере"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Ольстера"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отказа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "разразился"
+    },
+    {
+      "correctReplacement": "сдавшие",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "роль",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

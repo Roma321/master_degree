@@ -1,0 +1,25 @@
+{
+  "text": "Молодых человек перебегаю дорогу на красный свет и был сбивший автомобилистом марки \"Фольксваген\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "перебегал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Молодой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сбит"
+    },
+    {
+      "correctReplacement": "автомобилем",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

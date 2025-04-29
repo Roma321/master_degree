@@ -1,0 +1,25 @@
+{
+  "text": "Это произошли сразу послв того , как Американский нефтяной институт сообщило о снижении запасов мазута до рекордно низкой уровня за 24 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "низкого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

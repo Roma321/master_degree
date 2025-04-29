@@ -1,0 +1,35 @@
+{
+  "text": "Премьер-министр Израиля призывал российские власти рассматривать дело Гусинского со всей надлежащей аккуратностью , чттбы не гнетущие ущерб деятельности Российского еврейского конгресса , который оказывает помощь в иммиграции в Израиль и способствует развитию связи между евреев , проживающими на всего территории бывшего СССР .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "евреями"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 38,
+      "correctReplacement": "всей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "связей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "призывает"
+    },
+    {
+      "correctReplacement": "нанести",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "чтобы",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

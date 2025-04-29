@@ -1,0 +1,20 @@
+{
+  "text": "Чайка считаемый , что \"это нормальная работа , министерское юстицию проверяет все организации , и у многих из них на уровне субъектов Федерации наблюдаются нарушения\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "юстиции"
+    },
+    {
+      "correctReplacement": "Министерство",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

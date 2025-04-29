@@ -1,0 +1,15 @@
+{
+  "text": "В квартиру этого гражданина , проживающего на втором этаже , ворами проникли , разобщившие окно балкона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "воры"
+    },
+    {
+      "correctReplacement": "разбив",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "К счастью , во время позаром животных в вольеры не было .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пожара"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "вольерах"
+    },
+    {
+      "correctReplacement": "пожаром",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

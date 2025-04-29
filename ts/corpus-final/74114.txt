@@ -1,0 +1,25 @@
+{
+  "text": "Сторож лыл убит разрядом большой мощностью при попытке демонтировавшие медные детали из трансформаторного подстанции , находящейся на территории школы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "демонтировать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "мощности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "трансформаторной"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

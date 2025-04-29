@@ -1,0 +1,20 @@
+{
+  "text": "Главным кандидатом на пост президента называли Шимона Переса , бывшим премьер-министра Израиля и лауреата Нобелевской иеремии мира .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "называют"
+    },
+    {
+      "correctReplacement": "премии",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

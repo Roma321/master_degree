@@ -1,0 +1,30 @@
+{
+  "text": "Жириновский выскажу уверенность в том , что в течение семи дней будут произведены все необходимые пртцедуре по созданию нового политического объединения и уже с 1 ноября 1999 года оно смог принять частие в выборах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "сможет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "процедуры"
+    },
+    {
+      "correctReplacement": "участие",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "процедуре",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

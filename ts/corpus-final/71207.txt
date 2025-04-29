@@ -1,0 +1,20 @@
+{
+  "text": "Ожидается , что матчи чемпионата посещённые боле миллионом болельщиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "посетят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

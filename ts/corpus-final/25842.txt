@@ -1,0 +1,20 @@
+{
+  "text": "Расследование по делу будет продолжен после выздоровления Хинштейна\" , говорится в официальном удобрении пресс-службы Следственных комитета при МВД РФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "продолжено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Следственного"
+    },
+    {
+      "correctReplacement": "сообщении",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

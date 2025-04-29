@@ -1,0 +1,30 @@
+{
+  "text": "Орденом будет вручён Валерию Гергиеву послом Германии в России в четверги перед начслом московской гала-концерта Мариинского театра .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "московского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "вручен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Орден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "началом",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

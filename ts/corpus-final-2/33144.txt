@@ -1,0 +1,20 @@
+{
+  "text": "Недавно в передаче \"Шоу Рози О'Доннел\" по американскому телевидению он сказал , что в ходе подготовки к съёмках \"Матрицы II\" (\"The Matrix 2\") он собирается пройти четырехмесячный урс тренировок , который начнется на следующих неделе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "следующей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "съемкам"
+    },
+    {
+      "correctReplacement": "курс",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

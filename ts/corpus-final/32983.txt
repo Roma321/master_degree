@@ -1,0 +1,20 @@
+{
+  "text": "На звание худшему актера 1999 года претендурте Кевин Костнер , Кевин Клайн , Адам Сэндлер , Арнольд Шварцнеггер и Робин Уильямс .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "претендуют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "худшего"
+    },
+    {
+      "correctReplacement": "претендуете",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

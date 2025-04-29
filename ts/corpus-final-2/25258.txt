@@ -1,0 +1,25 @@
+{
+  "text": "Тем на менее , полиции пришедшееся снять этот лот с продаж .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "продажи"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "пришлось"
+    },
+    {
+      "correctReplacement": "этот",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

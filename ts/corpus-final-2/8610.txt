@@ -1,0 +1,15 @@
+{
+  "text": "Оба водителя получили тяжелые травмы и сигнализировавшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "госпитализированы"
+    },
+    {
+      "correctReplacement": "госпитализировавшие",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

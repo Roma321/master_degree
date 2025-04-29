@@ -1,0 +1,30 @@
+{
+  "text": "В Архангельской , Амурских , Омской , Курганской , Китовской , Нижегородского , Магаданской , Волгоградской , Костромской , Пермской , Свердловской областях , Алтайском , Красноярском краях , республиках Коми , Саха , Тыва , Коми-Пермяцком Автономном округе сохраняющийся весьма пожароопасный обстановка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 39,
+      "correctReplacement": "сохраняется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 41,
+      "correctReplacement": "пожароопасная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Амурской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Нижегородской"
+    },
+    {
+      "correctReplacement": "Кировской",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

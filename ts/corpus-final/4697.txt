@@ -1,0 +1,30 @@
+{
+  "text": "Как заявили пре.ставители EgyptAir , протечка была ликвидировано , а в рабочем состояние была оставившая только исправная - правый - система реверса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "правая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ликвидирована"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "состоянии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "оставлена"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

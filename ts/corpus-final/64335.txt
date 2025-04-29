@@ -1,0 +1,25 @@
+{
+  "text": "В минувшее воскресенья в Чечне в районе населенного пункте Самашки и в Шатойском райане было уничтожены более 50 боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "пункта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "уничтожено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

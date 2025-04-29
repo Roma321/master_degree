@@ -1,0 +1,20 @@
+{
+  "text": "Накануне премьер заявил , что его правительство не отступил перед улрозами террористами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отступит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "террористов"
+    },
+    {
+      "correctReplacement": "угрозами",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

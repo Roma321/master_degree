@@ -1,0 +1,25 @@
+{
+  "text": "Министра тагже сообщил , что президент РФ Владимир Путин поручил принятые мер для скорейшей реализации закона по соглашениям о разделе продукции (СРП) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Министр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "принять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "меры"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

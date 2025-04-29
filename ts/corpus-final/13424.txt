@@ -1,0 +1,25 @@
+{
+  "text": "Вслед за станцией Mars Climate Orbiter , пропавшей на орбите красной планеты , втоной аппарат проекта Mars Polar Lander потеряюсь на просторах макс при посадке .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "потерялся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Марса"
+    },
+    {
+      "correctReplacement": "Марсов",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

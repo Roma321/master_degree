@@ -1,0 +1,20 @@
+{
+  "text": "В случае срочной погашению евробондов банку потребуешься 200 миллионов долларов , однако данных об их наличии у Альфа-Банка нет , пояснил адвокат .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "срочного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "потребуется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "погашения"
+    }
+  ]
+}

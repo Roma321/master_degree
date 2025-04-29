@@ -1,0 +1,25 @@
+{
+  "text": "Специулисты склонны считать , что к концу сентября местные НПЗ искусственно придерживаемые поставки топливо на АЗС в расчете на очередное повышение отпускных цен с 1 октябрей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "придерживают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "топлива"
+    },
+    {
+      "correctReplacement": "Специалисты",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

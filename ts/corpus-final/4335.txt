@@ -1,0 +1,30 @@
+{
+  "text": "Совете директоров согласилась а необходимостью развития парка компании за счет региональных самолёты с дальностью полета до 1200 километров и рекомендовали проработать вопросы , связанные с выбором типа самолета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "самолетов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "согласился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Совет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "рекомендовал"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

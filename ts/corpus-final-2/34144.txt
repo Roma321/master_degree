@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что в конце сентября президент России Владимир Путине на совещанию Совета безопасности , посвященном вопросам военного строительства , заявил , что решение по вопросы военного проформы должно быть принято не позже чем через месяц .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "совещании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "вопросам"
+    },
+    {
+      "correctReplacement": "реформы",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

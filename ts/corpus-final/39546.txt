@@ -1,0 +1,30 @@
+{
+  "text": "Буквально за несколько минут до прибытия президента Австрии к зданию оперы подъехавший лимузином , в котором находился одному из демонстрантов , одетый в нацистской форму и замаскированный под Гитлера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "подъехал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "лимузин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "нацистскую"
+    },
+    {
+      "correctReplacement": "загримированный",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По банным полиций , никто не пострадал , хотя некоторые туристах находятся в состояние шока .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "туристы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "состоянии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиции"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

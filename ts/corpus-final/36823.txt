@@ -1,0 +1,25 @@
+{
+  "text": "Иванов также заявила РИА \"Новости\" , что российский посол в Польша в ближайшее время будет отозван для консолидаций ы Москву .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Польше"
+    },
+    {
+      "correctReplacement": "консультаций",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

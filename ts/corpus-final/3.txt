@@ -1,0 +1,30 @@
+{
+  "text": "Команда с берегов левый взяла старт в Кубке Интертото и , одержу две победы над словенской \"Приморьем\" , вышла в третий крыг эти соревнований .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "этих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "словенским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "одержав"
+    },
+    {
+      "correctReplacement": "Невы",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "круг",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

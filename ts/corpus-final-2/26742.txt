@@ -1,0 +1,45 @@
+{
+  "text": "Следствие не связывал данное теракт со служебного мечтательностью убитых . Майор федерального службы безопасности Александром Зачиняев , майор внутренних войск Олег Шербаков и прапорщик Алексей Иванов стали жертв борьбы за власть между полевыми командирами , пытающимися дестабилизироватьобстановки в республике .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "федеральной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "данный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "дестабилизироватьобстановку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "жертвами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "служебной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "связывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Александр"
+    },
+    {
+      "correctReplacement": "деятельностью",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

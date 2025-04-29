@@ -1,0 +1,30 @@
+{
+  "text": "Как всякий подобный текст , напишу действующей политике , он не содержащий никакого намека на искренность или хотя бы бесспорную историческую достоверность : плохо скрытое самолюбование пополам с попутными облачениями коллег по большой политике и лозунгами об особом пути Украины под руку с Россией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "действующим"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "содержит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "написанный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "политиком"
+    },
+    {
+      "correctReplacement": "разоблачениями",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

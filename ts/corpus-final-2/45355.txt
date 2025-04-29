@@ -1,0 +1,30 @@
+{
+  "text": "За последнее год акции рой корпорации потеряли примерно половину стоимостей , и тенденций к повышению их цены не наблюдаешься .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "наблюдается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "стоимости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "той",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "В своей ежегодном отчете организация объяснила этот факт увеличением числа вооруженных конфлиетов в мире .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "конфликтов",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

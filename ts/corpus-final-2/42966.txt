@@ -1,0 +1,30 @@
+{
+  "text": "Такой образом , Кафельников без борьбе вышел в финар , где сыгравший со шведским теннисистом - победителем пары Магнус Норман - Томасом Йоханссон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Томас"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "борьбы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сыграет"
+    },
+    {
+      "correctReplacement": "финал",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

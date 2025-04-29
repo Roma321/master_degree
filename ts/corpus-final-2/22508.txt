@@ -1,0 +1,20 @@
+{
+  "text": "После взрыва вспыхнул и сгорел целую мешбк писек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "целый"
+    },
+    {
+      "correctReplacement": "писем",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "мешок",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Для KLM расставание с англичанами такое имеет негативный оттенок - весне этому года эта компания вёл аналогичные переговоры с AllItalia , которые также закончились неудачей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "весной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "вела"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Курса на выходные был определен еще в четверг по итогам фьючерсных торгм .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "торгов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Курс"
+    },
+    {
+      "correctReplacement": "торга",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

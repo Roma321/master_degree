@@ -1,0 +1,25 @@
+{
+  "text": "Полиция намерены допросить сотрудника охран торгового центром , заявившего , что нём видел какого-то человека в районе взрыва незадолго до происшествия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "охраны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "намерена"
+    }
+  ]
+}

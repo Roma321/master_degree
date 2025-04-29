@@ -1,0 +1,35 @@
+{
+  "text": "В прошлом году на конгрессе много говорюсь о немецком хакера Борисе Флорицик , известном также под именем Tron : в октябре 1998 года он покончивший ы собой , и многие до сих порами уверены , что это самоубийство было сфальсифицировано полицией .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "покончил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "хакере"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "говорилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Флорицике"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "пор"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

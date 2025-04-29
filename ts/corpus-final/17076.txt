@@ -1,0 +1,25 @@
+{
+  "text": "Московский городской суд приговорил 16 декабря бывшего заместителя директора первого департаменту Азии МИД РФ Валентина Моисеева п 12 годам лишения свободы с отставание в колонии строгого режима и конфискациями имущества .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "департамента"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "конфискацией"
+    },
+    {
+      "correctReplacement": "отбыванием",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

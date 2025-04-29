@@ -1,0 +1,25 @@
+{
+  "text": "Помощник президента России Сергей Ястржембский заявила в понедельник на брифингк в Росинформцентре , что \"вопрос о переносе чеченской столиц из Грозного в практической плоскость пока не стоит\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "плоскости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "брифинге",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

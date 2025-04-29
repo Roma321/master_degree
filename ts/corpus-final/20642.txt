@@ -1,0 +1,20 @@
+{
+  "text": "Ночью на вторник урагане двинулось широким фронтом от Атлантического побережья к юго-восточным рамонам Франции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "двинулся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ураган"
+    },
+    {
+      "correctReplacement": "районам",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

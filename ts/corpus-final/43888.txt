@@ -1,0 +1,25 @@
+{
+  "text": "Конференция организуема по мнициатива министра иностранных дел Австрии Вольфганга Шюсселя и государственного секретарю США Мадлен Олбрайт .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "организована"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "инициативе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "секретаря"
+    },
+    {
+      "correctReplacement": "инициатива",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

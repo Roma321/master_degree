@@ -1,0 +1,20 @@
+{
+  "text": "Об этом Черномырдина сообщила журналистам на состроившей в среду пресс-конференции в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Черномырдин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "состоявшей",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

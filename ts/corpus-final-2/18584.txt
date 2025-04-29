@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее время на долю ОПКК , которая объединяющий 11 крупных производителей и экспортеров нефти , приходишься 40 процентов ее мировым поступков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "мировых"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "объединяет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "приходится"
+    },
+    {
+      "correctReplacement": "поставок",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "ОПЕК",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

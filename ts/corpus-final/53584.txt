@@ -1,0 +1,25 @@
+{
+  "text": "Вице-премьеры российского правительства Валентина Матвиенко в пятницу доложу и . о . президента Владимиру пунины о выполнении его поручения , касающегося погашения долгов по зарплате бюджетникам .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "доложила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Путину"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Вице-премьер"
+    },
+    {
+      "correctReplacement": "Путиным",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Согласно решению последнего совета директоров АРКО , суммы каждого последующего транш будет составляемые 50 мильонов рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "составлять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "транша"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сумма"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

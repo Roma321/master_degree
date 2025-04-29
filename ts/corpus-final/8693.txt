@@ -1,0 +1,25 @@
+{
+  "text": "Обвинения свяжем с ролью Шарифа в попытках не допустить посадки в Пакистане самолета , на котором генерал Мушарраф , возглавивший приворот , возвращалось из Индии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "возвращался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "связаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "попытке"
+    },
+    {
+      "correctReplacement": "переворот",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

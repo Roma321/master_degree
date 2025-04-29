@@ -1,0 +1,20 @@
+{
+  "text": "Они ввести сели в машину и уехавшие в неизвестном направлении , сообщал НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "уехали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "вместе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

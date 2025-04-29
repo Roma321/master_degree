@@ -1,0 +1,20 @@
+{
+  "text": "Агентство военных новостей передаю , что авиации федеральных сил с 13 . 00 по московскому времени непрерывно бомбящий Грозный .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "бомбит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "авиация"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "передает"
+    }
+  ]
+}

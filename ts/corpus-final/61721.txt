@@ -1,0 +1,20 @@
+{
+  "text": "Около 100 тысяч человек покинули свой дома на юге Филиппин из боязни быть захватившими в плёс .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "захваченными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "плен",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

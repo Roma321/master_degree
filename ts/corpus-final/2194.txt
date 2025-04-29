@@ -1,0 +1,25 @@
+{
+  "text": "Минимальная пенсия в Российской Федерации составлял около 14 доллароф в месяца (в пересчете по курсу 25 , 7 дубля за доллар) .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "месяц"
+    },
+    {
+      "correctReplacement": "рубля",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

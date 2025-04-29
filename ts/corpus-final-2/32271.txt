@@ -1,0 +1,30 @@
+{
+  "text": "От правительздва требуем погасить валютные облигации на общую сумму 2 , 21 миллиона долларов , а также выплатить компенсацию за ущербу из-за отказа исполняемые свои обязательства в установленный сроки .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "требуют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "ущерб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "срок"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "исполнять"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

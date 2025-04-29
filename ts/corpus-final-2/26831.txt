@@ -1,0 +1,25 @@
+{
+  "text": "Но мне эти пальцы не нужны , тем более , я подумаю , что здорово был , если их выставите на вообщее обозрение\" , - добавил майор в отставке .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "подумал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "выставят"
+    },
+    {
+      "correctReplacement": "всеобщее",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По сообщению пресс-служб , это первый с момента создании Западно-Сибирского регионального управления вооруженное наведение , повлеку смерть сотрудника РУБОП .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "первое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "создания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-службы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "повлекшее"
+    },
+    {
+      "correctReplacement": "нападение",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

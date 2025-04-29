@@ -1,0 +1,15 @@
+{
+  "text": "По факте возбуждено уголовнье дело , ведется расследование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "факту"
+    },
+    {
+      "correctReplacement": "уголовное",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

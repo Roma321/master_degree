@@ -1,0 +1,30 @@
+{
+  "text": "Не дождавшиеся официального приглашении , орлеанские мпасатели вылетел в порт Тронхейм (Норвегия) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "вылетели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "приглашения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "дождавшись"
+    },
+    {
+      "correctReplacement": "британские",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "спасатели",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

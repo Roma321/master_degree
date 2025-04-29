@@ -1,0 +1,25 @@
+{
+  "text": "До сих пор никто из жителей деревни не был арестован , хотя родственник погибшиэ назвали полиции около 20 фамилии людей , вытаскивавших нештатных на расправу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "фамилий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "родственники"
+    },
+    {
+      "correctReplacement": "несчастных",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "погибших",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

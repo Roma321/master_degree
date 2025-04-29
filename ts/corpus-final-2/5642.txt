@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающий РИА \"Новости\" , одно из них было закреплено на фруктовыэ дереве , два других были замаскированы на дороге .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "фруктовом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "фруктовых",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

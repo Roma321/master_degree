@@ -1,0 +1,25 @@
+{
+  "text": "Путин также сообщивший , что намерен в следующем году выделить из президентского фонда 10 миллионах рублей еа реабилитацию инвалидов Вооруженных силы и 60 миллионов - на помощь детям-инвалидам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сил"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На судух Копаев не признал своего вины , заявив , что дело в отношении него сфабрикована .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "суде"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "сфабриковано"
+    },
+    {
+      "correctReplacement": "судах",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

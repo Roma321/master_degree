@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье в Лиссабон произошло нападение на ночника клуб \"Луанда\" , где собираются выходцы из Африки , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Лиссабоне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ночной"
+    },
+    {
+      "correctReplacement": "ночного",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

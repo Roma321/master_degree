@@ -1,0 +1,20 @@
+{
+  "text": "Санитарные инспекторы провели проверку помещений фабрики , однако причин , вызвавших массового отравление продуктом , обнаружить не удалась Ю",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "массовое"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

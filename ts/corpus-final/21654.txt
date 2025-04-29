@@ -1,0 +1,20 @@
+{
+  "text": "Из зоны бедствий (ис прибрежных районов) эвакуировано рекордное за историю США числа людей - 3 , 1 миллиона человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "бедствия"
+    },
+    {
+      "correctReplacement": "(из",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

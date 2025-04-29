@@ -1,0 +1,25 @@
+{
+  "text": "Таможенникам обещают вернуть изыму , как только им преъявят документы , удостоверяющие , что брошюры предназначифшие для легального использования .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "изъятое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Таможенники"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "предназначены"
+    },
+    {
+      "correctReplacement": "предназначившие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

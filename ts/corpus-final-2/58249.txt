@@ -1,0 +1,35 @@
+{
+  "text": "Эти организации начали свое расследованием после того , лак у лагере Вумера в Южной Австралии 12-летний иракский мальчик , согласно сообщениям , был изнасиловавший и продавший собственным отцом другим эмигрантам из той же лагеря .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "продан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "изнасилован"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "расследование"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

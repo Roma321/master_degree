@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщалась ранее , Руперт Мэрдок веду переговоры о создании на российском телевидении совместной компании с участием капицы Борисов Березовским .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Бориса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Березовского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "вел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "капитала",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

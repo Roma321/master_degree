@@ -1,0 +1,25 @@
+{
+  "text": "После этого властью признали , что названные в El Pais дипломаты действительно побывали в Лондоне и вели переговоры с английскими юрисов , ео \"по чисто техническим вопросам\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "юристами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "юристов",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

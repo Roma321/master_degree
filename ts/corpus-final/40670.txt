@@ -1,0 +1,20 @@
+{
+  "text": "Окружного суд ладвийской города Лиепая прервал на неопределенное время рассмотрение дела 86-летнегогражданина России Евгения Савенко , обвиняемого в геноциде латышского народа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Окружной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "латвийского"
+    },
+    {
+      "correctReplacement": "латвийской",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

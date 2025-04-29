@@ -1,0 +1,35 @@
+{
+  "text": "Он сообщённый , что думская часть комиссии не ставшая визировать топовый протокол , поскольку сенаторы отказались рассмотреть предложением депутатов , согласно которому представители исполнительной властей в Совете Федерации и назначаются , и отзывались при согласовании с законодательными собраниями регионов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "предложение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "отзываются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "итоговый",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

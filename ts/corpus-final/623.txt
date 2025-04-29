@@ -1,0 +1,25 @@
+{
+  "text": "\"В таком случае , - cказал Логинов , - я не сомневаюсь , что в ходе предвыборную кампания аркан будет делать заявления , которые можно будет идентифицировать как разжигание национальных розни\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "национальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "кампании"
+    },
+    {
+      "correctReplacement": "Баркашов",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

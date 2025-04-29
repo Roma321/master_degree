@@ -1,0 +1,25 @@
+{
+  "text": "тест сопровождался редакционное пояснением о тех , что Маркес сейчас тяжело болен и \"Марионетка\" ке что иное как завещание , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "редакционным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "Текст",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

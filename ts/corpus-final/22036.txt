@@ -1,0 +1,25 @@
+{
+  "text": "За последние дни в столице значительно увеличившееся количество желающих безвозмездно сдать свой кровь для нужд пострадавшего в результате давних террористических актов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пострадавших"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "увеличилось"
+    },
+    {
+      "correctReplacement": "недавних",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

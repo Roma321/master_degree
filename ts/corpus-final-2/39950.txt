@@ -1,0 +1,15 @@
+{
+  "text": "По словам местной полиции , ни один из них в катастрофе не выжило .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "выжил"
+    },
+    {
+      "correctReplacement": "катастрофе",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

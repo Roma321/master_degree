@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый РБК со ссылкой на пресс-службу президента , в апреле 2000 года будет проведена долговременная выплата пенсионерам-участникам Великой Отечественной войн в сумме , равной трехкратному минимальной размеру пенсии по старости .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "минимальному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "войны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "единовременная",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что две первые подозреваемые по данному делу - уроженка города Ровно 27-летние Надежда Ракс т 22-летнюю Ольга Неврская из Волгоградской области - были задержаны 23 февраля , и им уже предъявлены обвинения по статье 205 УК РФ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "обвинение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "22-летняя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "27-летняя"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

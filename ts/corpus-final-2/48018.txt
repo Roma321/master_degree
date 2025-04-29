@@ -1,0 +1,25 @@
+{
+  "text": "Фондовый рынок США под конец недели продемонстрировавший оптимизм - индекс акций высокотехнологичных компаний Nasdaq в пятницы повысилась на 5 , 99 процента , сводный индекс S&P (500) по 500 ведущим компаниям вырос на 1 , 9 процента , американский индекс биржевые активности Dow Jones - на 0 , 9 процента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "повысился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "продемонстрировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "биржевой"
+    }
+  ]
+}

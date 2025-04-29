@@ -1,0 +1,25 @@
+{
+  "text": "Накануне бгевики предприняли попытку прорыва из блокированного войсками высокогорной селение Хал-Килой в 15 километрах к югом от Шатоя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "высокогорного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "селения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "югу"
+    },
+    {
+      "correctReplacement": "боевики",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

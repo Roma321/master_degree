@@ -1,0 +1,20 @@
+{
+  "text": "Тревогу поднявший слесарь : он всем рассказал об ужасных существах , которых он видел ч квартире девушкам , когда пришел чинить кран .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "поднял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "девушки"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

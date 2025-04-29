@@ -1,0 +1,25 @@
+{
+  "text": "При ввозах автомобилей из этой суммы будет удерживаться стоимость таможенный офоьмления машины , а остаток будет возвращаться владельцу таможней , которая производит регистрацию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "таможенного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "ввозе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "автомобиля"
+    },
+    {
+      "correctReplacement": "оформления",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

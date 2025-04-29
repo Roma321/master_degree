@@ -1,0 +1,20 @@
+{
+  "text": "Непосредственный подсчет голосов избирателей проводящийся в отсутствиях наблюдателей в специально отведенных местах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проводится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "присутствии"
+    },
+    {
+      "correctReplacement": "присутствиях",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

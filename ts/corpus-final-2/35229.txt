@@ -1,0 +1,35 @@
+{
+  "text": "Кредит выделяется срока на шесть лет , он предоставлены гот гарантии администрации Нижегородской области и Нижнего Новгорода , которые владели 80 процентами акции ЗАО \"Нижегородская ярмарка\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сроком"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "владеют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "предоставлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

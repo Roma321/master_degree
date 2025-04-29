@@ -1,0 +1,20 @@
+{
+  "text": "Она иообещала белорусским власти , что находясь в эмиграции будет заниматься политического деятельностью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "властям"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "политической"
+    },
+    {
+      "correctReplacement": "пообещала",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

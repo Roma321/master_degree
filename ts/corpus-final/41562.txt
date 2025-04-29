@@ -1,0 +1,25 @@
+{
+  "text": "Цеттризбирком разрешённый проведение досрочного голосования по выборам президента России на отдельного избирательных участках , образованных за пределами территории страной .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "разрешил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отдельных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "Центризбирком",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас на месте боя проводится спецоперации по выявлению боевых и поиску оружие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "спецоперация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "оружия"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

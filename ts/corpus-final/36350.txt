@@ -1,0 +1,20 @@
+{
+  "text": "В пятницы оно будет опубликовавшее в галете \"Известия\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "опубликовано"
+    },
+    {
+      "correctReplacement": "газете",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Обращающиеся к собравшемуся президент заявило : \"Не ваша вина в том , что страна очищалась в том состоянии , в котором она находится сейчас .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Обращаясь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "собравшимся"
+    },
+    {
+      "correctReplacement": "оказалась",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

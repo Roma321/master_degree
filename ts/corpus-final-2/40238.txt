@@ -1,0 +1,25 @@
+{
+  "text": "По слову пресс-секретаре Путина Алексея Громова , предметом насаждения былс \"различные вопросы внутренней и внешней политики России\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-секретаря"
+    },
+    {
+      "correctReplacement": "обсуждения",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "были",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Адвоката заявил , что неоднократно обращался в Генеральную прокуратуру , Министерство юстиции , МВД , ФСБ и других силовые структуры России с запросами по этой поводу , но никаких вразумительных ответов не получил .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "другие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "этому"
+    },
+    {
+      "correctReplacement": "силовые",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

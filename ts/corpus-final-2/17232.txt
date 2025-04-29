@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , согласно экспертам из мэрии , кажюой москвичу полагался одном телевизор на 15 лет и один утюгу на 9 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "каждому"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "полагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "утюг"
+    },
+    {
+      "correctReplacement": "каждой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

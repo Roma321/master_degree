@@ -1,0 +1,25 @@
+{
+  "text": "Новое президент выразил надежду , что совместно с Албертом Рором ему удавшийся \"вылечить\" страну от последствий тяжелой битвы за Белого дом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "удастся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Белый"
+    },
+    {
+      "correctReplacement": "Гором",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

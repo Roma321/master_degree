@@ -1,0 +1,30 @@
+{
+  "text": "Ранее эти фирм создафшие совместное предприятие PSG , которое 19 февраля 1999года подписало с Туркмению соглашение о назначении спонсора-учредителя консорциума по строительству и эксплуатации транскаспийского газопровод .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "газопровода"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "создали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Туркменией"
+    },
+    {
+      "correctReplacement": "создавшие",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

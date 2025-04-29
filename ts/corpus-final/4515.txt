@@ -1,0 +1,40 @@
+{
+  "text": "По его слов , Владимир Путин доливший президенту о своем разговорах с главой МЧС Сергеем Шойгу , которому было поручу совместно с военными принятые все необходимый меры , чтобы ситуация с вынужденными переселенцем находилась под постоянным контролем .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "поручено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "принять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "переселенцами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "разговоре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "необходимые"
+    },
+    {
+      "correctReplacement": "доложил",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

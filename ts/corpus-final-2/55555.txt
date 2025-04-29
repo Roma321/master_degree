@@ -1,0 +1,25 @@
+{
+  "text": "В Непале начались маковые беспорядки из-за той , что популярный индийские киноактер Хритик Рошан в интервью по непальскому телевидению сказавший , что ему несимпатичен Непал и непальцы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "индийский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "массовые",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

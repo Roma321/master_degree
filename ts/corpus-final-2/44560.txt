@@ -1,0 +1,20 @@
+{
+  "text": "По данным пресс-службы администрации городов , снаряд лежавший между двумя многоэтажными домами , жильцч которых и обратили внимание на странный предмет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "лежал"
+    },
+    {
+      "correctReplacement": "жильцы",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

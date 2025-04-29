@@ -1,0 +1,20 @@
+{
+  "text": "В результате этой атаке почти 70 человек были убившие или посулившие серьезные ранения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "атаки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "убиты"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

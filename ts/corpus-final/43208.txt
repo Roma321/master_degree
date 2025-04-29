@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министр Украины Вактор Ющенко отменённый свой визит в США после заявление администрации президента Клинтона о необходимости \"почистить\" кабинет министров стране .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "заявления"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отменил"
+    },
+    {
+      "correctReplacement": "Виктор",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

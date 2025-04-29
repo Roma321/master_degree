@@ -1,0 +1,30 @@
+{
+  "text": "Руководители аппарата думского комитета по безопасности евгений Чугановый заявленный корреспонденту РИА \"Новости\" , что покушение га Виктора Илюхина связано с его общественно-политической деятельностью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Чуганов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Руководитель"
+    },
+    {
+      "correctReplacement": "Евгений",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

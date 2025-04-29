@@ -1,0 +1,20 @@
+{
+  "text": "По российским данным , этих потери составляемые порядка 100 человек в месяц , по данным немецкой разведслужбы - эта цифра знакительно выше .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "эти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "составляют"
+    },
+    {
+      "correctReplacement": "значительно",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

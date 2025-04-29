@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РБК , около 11 часов утра на пульт дежурного МЧС России поступил сигнал о том , что в сауне на Верхних Первомайского улицах найдена бомба .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "Верхней"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "Первомайской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "улице"
+    }
+  ]
+}

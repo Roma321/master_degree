@@ -1,0 +1,25 @@
+{
+  "text": "Находившийся среди них Вениамин Филатов объявивший себя восполнявшим обязанности генерального директора ГОК \"Ванадий\" , сообщает пресс-служба завода .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "исполняющим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Находящийся"
+    },
+    {
+      "correctReplacement": "исполнявшим",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

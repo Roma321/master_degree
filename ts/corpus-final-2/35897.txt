@@ -1,0 +1,25 @@
+{
+  "text": "Операция разрабатываюсь с начала нынешнего годов , когда полиция установила наблюдение за известным наркоторговцем из Марркко Рашиде Тенсамани , специализирующемся на гашише .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Рашидом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "разрабатывалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "Марокко",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

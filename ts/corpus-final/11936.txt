@@ -1,0 +1,25 @@
+{
+  "text": "В случае принятия палатой документ в четвертом чтении он направляешься на рассмотрением сонета Федерации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "документа"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "направляется"
+    },
+    {
+      "correctReplacement": "Совета",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

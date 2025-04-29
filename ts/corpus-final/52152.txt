@@ -1,0 +1,25 @@
+{
+  "text": "Необходимо учитывать , как взаимодействуют между собой бюджета стран и бюджеты субъектов Фндерации и \"что несавшие с местным самоуправлением\" , сказал он .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бюджет"
+    },
+    {
+      "correctReplacement": "делать",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

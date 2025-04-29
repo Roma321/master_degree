@@ -1,0 +1,30 @@
+{
+  "text": "Госдумы внесла изменения в график своей работы : осенняя сессия нижнего палсты парламента начнусь 7 , а не 4 сентября , как это планировалось ранее , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "нижней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Госдума"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "начнется"
+    },
+    {
+      "correctReplacement": "палаты",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

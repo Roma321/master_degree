@@ -1,0 +1,35 @@
+{
+  "text": "Тем не менее , поступает информация о том , что он намерен шериданные свои приобретение , обойдусь нём более чем в два миллиона долларов , в дар правительству Китаы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "обошедшееся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "ему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "передать"
+    },
+    {
+      "correctReplacement": "переданные",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Китая",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

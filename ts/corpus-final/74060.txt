@@ -1,0 +1,20 @@
+{
+  "text": "В настоящую врпмя в управлении имелся 4700 компьютеров , из которых 3300 подлежат замене в связи с \"проблемой-2000\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "имеется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

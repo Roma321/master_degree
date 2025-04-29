@@ -1,0 +1,20 @@
+{
+  "text": "Во время посадки самолета шёл сильный ливень , что , по мнению специалистами , и стала причиной катастрофы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "шел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "специалистов"
+    }
+  ]
+}

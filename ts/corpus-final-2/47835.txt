@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники ОМОНа начали сопздвенную рассказывание .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "собственное"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "собственную",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

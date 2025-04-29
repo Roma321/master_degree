@@ -1,0 +1,25 @@
+{
+  "text": "Многие связывают это похищение с политической деятельности депутат : месяц назад он объявифший о намерении бороться в этом году за кресло мэра Сочи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "деятельностью"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "депутата"
+    },
+    {
+      "correctReplacement": "объявивший",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

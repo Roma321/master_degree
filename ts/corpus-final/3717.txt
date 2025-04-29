@@ -1,0 +1,25 @@
+{
+  "text": "Компания NetAid заявляет , что открывающийся сегодня сайт будет один из самых мощных в мире : его пропусные способность будет составлять 60 миллионов оповещений в час - больше , у чем у любого из действоваших до сих пор общедоступного интернет-сайтов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "пропусная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "одним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "общедоступных"
+    },
+    {
+      "correctReplacement": "посещений",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

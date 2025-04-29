@@ -1,0 +1,25 @@
+{
+  "text": "Но , несмотря на то , что британская королевская почте считаюсь лучшей в мире , за этот срок около 90 тысяч животных выпали из сферы контролей правительств , так как уведомления не были получены .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "считается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "почта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "контроля"
+    }
+  ]
+}

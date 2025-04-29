@@ -1,0 +1,25 @@
+{
+  "text": "Дагестанцами лбвиняются в том , что 8 декабрю они по телефону сообщили директору Кизлярского электромеханического колледжа о якобы заложу в здании бомбе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "заложенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Дагестанцы"
+    },
+    {
+      "correctReplacement": "обвиняются",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

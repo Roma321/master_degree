@@ -1,0 +1,20 @@
+{
+  "text": "Лидерами роста стали две крупнейших производителя микрочипов - United Microelectronics Corp . ,чьи акции подорожали на 6 , 8 процентов , и Taiwan Semiconductor Manufacturing Co . со вторым показателем в шесть пролётов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "процента"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

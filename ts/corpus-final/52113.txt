@@ -1,0 +1,35 @@
+{
+  "text": "Дипломат опроверг сообщение некоторых российских СМИ о тех , что американская сторона якобы возвратила капитану судовые документы , разъяснив , что оригиналы не изымались , а были сделаны копии - в отличию от инцидента с другому задержанному российских танкером \"Волгонефть-147\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "отличие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "задержанным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 35,
+      "correctReplacement": "другим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "российским"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "том"
+    }
+  ]
+}

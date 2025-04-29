@@ -1,0 +1,30 @@
+{
+  "text": "Ассоциация вычислительного оборудования распространяет по электронной почта письмо , в котором призываю пользователей вдовствовавшие на своих представителям в Конгрессе с тем , чтобы последние голосованные против принятия акта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "голосовали"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "призывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "почте"
+    },
+    {
+      "correctReplacement": "воздействовать",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Также 15 тысяч жителя Ливерпуля смогшие увидеть концерт на большом экране , который установят в городском парике .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "жителей"
+    },
+    {
+      "correctReplacement": "парке",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

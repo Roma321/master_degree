@@ -1,0 +1,25 @@
+{
+  "text": "Среди подписанных документ - руководителей Московской Хельсинской группы , экологической организации «Зеленый мир» , фогда «Гласность» , Центра ядерной экологии , Фонда защит гласности , Союза «За химическую безопасность» .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подписавших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "руководители"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "защиты"
+    },
+    {
+      "correctReplacement": "фонда",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

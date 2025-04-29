@@ -1,0 +1,25 @@
+{
+  "text": "Ранее IE посылал файлы cookie по любому внешнему запросам , даже если он исхоженный не от посещавшего сайта , а от третьей стороны , например страницы , баннер которой имеешься на данном сайте .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "имеется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "запросу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "исходил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "посещаемого"
+    }
+  ]
+}

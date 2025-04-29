@@ -1,0 +1,25 @@
+{
+  "text": "Япония , готовности которой к 2000 гоюы эксперты подвергают серьезным сомнениям , объявившая во вторник о выделении военных подразделений для борьбы с возможными последствиями \"проблемы-2000\" , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "готовность"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "объявила"
+    },
+    {
+      "correctReplacement": "годы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

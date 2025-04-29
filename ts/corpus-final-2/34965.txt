@@ -1,0 +1,30 @@
+{
+  "text": "Администрация тюрьмы помогла оформифшие изобретения как положено и направили их в Государственная патентном управление . и взорвал блок-пост израильской армии в Газе . �ается уже более месяца и в ходе которого погибли около 160 человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оформить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "патентное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Государственное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "направила"
+    },
+    {
+      "correctReplacement": "оформившие",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что бывшего министром петиции обвиняют в хищениях казённого имущества в крупных размерах , получение взяток , а также незаконном хранении оружия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "получении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "казенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "министра"
+    },
+    {
+      "correctReplacement": "юстиции",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Его место в качестве посредника опять занял секретарь США Мадлен Олбрайтом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Олбрайт"
+    },
+    {
+      "correctReplacement": "госсекретарь",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

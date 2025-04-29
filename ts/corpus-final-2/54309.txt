@@ -1,0 +1,35 @@
+{
+  "text": "В январе 1996 года Александр Фогель , узнав от знакомой работника Волжского автозаводом о заселении руководства АО взыскать с некоторых фирмам задолженности за поставленный автомобили и запчасти , предложиб директору АвтоВАЗа свои услуги по работе с должниками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "поставленные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "автозавода"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "фирм"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "знакомого"
+    },
+    {
+      "correctReplacement": "намерении",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "предложил",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

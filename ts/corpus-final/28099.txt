@@ -1,0 +1,25 @@
+{
+  "text": "По мнениям Клинтона , США заинтересованы в поддержке демократии и экономических проформ в России , тем более , что пока они еще не могут бытт уверены , в каком направлением пойдет дальнейшее развитие России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "направлении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "реформ",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "быть",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

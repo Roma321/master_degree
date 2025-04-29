@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщают анонимные источники , провинность посла заключалась в тем , что он небрежно обращевшийся с серверными документами , хранил их на незасекреченном лэптопе и оставляла в своем кабинете .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обращался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "оставлял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "секретными",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "обращавшийся",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

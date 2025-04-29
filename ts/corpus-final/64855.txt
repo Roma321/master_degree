@@ -1,0 +1,25 @@
+{
+  "text": "Россия выдвинула кандидата на посты вице-президента Европейского банка реконструкцией и развития (ЕБРР) , фпервые заявив о своих претензиях на место в высшем руководстве этого международной финансовой организации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "пост"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "реконструкции"
+    },
+    {
+      "correctReplacement": "впервые",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

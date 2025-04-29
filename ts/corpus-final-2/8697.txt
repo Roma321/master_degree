@@ -1,0 +1,20 @@
+{
+  "text": "По смотрению РИА \"Новости\" , совет образован для обеспечения эффективного взаимодействия федеральных органами исполнительного власти и предпринимателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "органов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "исполнительной"
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

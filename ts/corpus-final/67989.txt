@@ -1,0 +1,20 @@
+{
+  "text": "Сафин выиграл четвёртое партию 6 : 3 , а в пятых Элие практически не сопротивлялась .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "четвертую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "сопротивлялся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "пятой"
+    }
+  ]
+}

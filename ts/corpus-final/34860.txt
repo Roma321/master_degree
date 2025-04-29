@@ -1,0 +1,25 @@
+{
+  "text": "Он объяснивший , что недостающий 20 тысяч подписей его инициативная группа не смогла сдать из-за технических проблем - поломки лапин , которые везли коробки с подписные листами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "объяснил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "подписными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "недостающие"
+    },
+    {
+      "correctReplacement": "машин",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

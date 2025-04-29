@@ -1,0 +1,25 @@
+{
+  "text": "Дом Хачилаевых был блокируем силамимилиции , однако том , призвав на помощь своих сторонников , 21 маяпрорвал оцептение и вышел на главную площадь города .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "блокирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Хачилаева"
+    },
+    {
+      "correctReplacement": "оцепление",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

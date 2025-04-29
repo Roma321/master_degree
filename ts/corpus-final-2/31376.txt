@@ -1,0 +1,35 @@
+{
+  "text": "Согласно распоряжению мэра предприятия , организации и образовательные учреждения должны представить в районные военкоматы списки работавших или обучавшихся в ними молодых людей 1984 гбду рождении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "рождения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "работающих"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "обучающихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

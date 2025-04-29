@@ -1,0 +1,25 @@
+{
+  "text": "9 мая в Махачкале за час до начала торжественное ппрада на центральной площади были обезврежены две мощных взрывных устройством , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "устройства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "торжественного"
+    },
+    {
+      "correctReplacement": "парада",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

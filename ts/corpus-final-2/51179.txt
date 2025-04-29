@@ -1,0 +1,25 @@
+{
+  "text": "К настоящему времени от этих кинокомпаний поступили заказы на производства 44 самолетов A3XX , и еще 30 может быть заказавшее в дальнейшем Э",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "производство"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "заказано"
+    },
+    {
+      "correctReplacement": "авиакомпаний",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

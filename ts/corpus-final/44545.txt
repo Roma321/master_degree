@@ -1,0 +1,25 @@
+{
+  "text": "татьянина Панока опущусь на одно строчку : теперь она 43-я ракетка мира .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "опустилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одну"
+    },
+    {
+      "correctReplacement": "Татьяна",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Панова",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

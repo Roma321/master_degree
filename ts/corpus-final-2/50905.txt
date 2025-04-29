@@ -1,0 +1,20 @@
+{
+  "text": "Cпециалисты со служебной собаку более двух часа обследуем здание университета , но никакого взрывного устройства не обнаружили .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "собакой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "обследовали"
+    }
+  ]
+}

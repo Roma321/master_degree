@@ -1,0 +1,40 @@
+{
+  "text": "Выступая в столице государства городе Фунафути на вечер , посвятившем приближавшемуся празднику Рождества , Ионатана неожиданно прекратил говорить , после небольшой паузы извинился и шут же упал на пола Ж Попытки врачей вернувшие его к жизни не увенчались успехом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "пол"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "приближающемуся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "вернуть"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "посвященном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вечере"
+    },
+    {
+      "correctReplacement": "тут",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

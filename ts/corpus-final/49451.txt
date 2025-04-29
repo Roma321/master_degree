@@ -1,0 +1,25 @@
+{
+  "text": "В минувший четверг претендент РФ Борис Ельцину подписавший Указ \"О призыве в октябре-декабре 1999 года граждан Российской Федерации на военную службу и об увольнении с военной службы граждан , проходящих военных службу по призыву\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Ельцин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "военную"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

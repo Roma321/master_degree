@@ -1,0 +1,30 @@
+{
+  "text": "По данным ИТАР-ТАСС , в новую декларации содержащийся более подробный перечтённый товатов , подлежащих обязательной декларированию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "обязательному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "содержится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "перечень",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "товаров",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

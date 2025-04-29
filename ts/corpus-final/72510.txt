@@ -1,0 +1,25 @@
+{
+  "text": "Все саратовский медики , оккзываемые помощи населению Чечни , отозваны на родину , сообщил РИА \"Новости\" главный государственный санитарный врач по Саратовской области Александр Добло .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "помощь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "оказывавшие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "саратовские"
+    },
+    {
+      "correctReplacement": "оказываемые",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В частности , некий Семёну Кислин , упоминавшийся во внутреннихдокументах ФБР как член русского преступного сиодиката , внёсший в 1993 и в 1997 годах 46 , 2 тысячи долларов в фонд мэра Нью-Йорка Рудольфе Джулиани .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "внес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Семен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Рудольфа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "упоминающийся"
+    },
+    {
+      "correctReplacement": "синдиката",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

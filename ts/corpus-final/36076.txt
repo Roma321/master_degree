@@ -1,0 +1,30 @@
+{
+  "text": "По словам министра , в течения полутора лет предполагаешься введённые единого тариф на телефонные переговоры для физических р юридических лиц , в том числе для бюджетных и хозрасчетных организаций .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "ввести"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "единый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "предполагается"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

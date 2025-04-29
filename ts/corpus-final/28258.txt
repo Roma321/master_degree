@@ -1,0 +1,20 @@
+{
+  "text": "Они живущие в крайне тяжелых условиях : не хватает угля , люди живём в летних палатках , теснятся по 50-60 челгвек в палатке .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "живут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "живут"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

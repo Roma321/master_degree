@@ -1,0 +1,25 @@
+{
+  "text": "На месте прорыва трубы на улице Куусинены образовавшаяся волынка диапетром полтора метра .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "образовалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Куусинена"
+    },
+    {
+      "correctReplacement": "воронка",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "диаметром",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

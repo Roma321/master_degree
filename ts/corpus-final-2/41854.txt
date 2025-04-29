@@ -1,0 +1,25 @@
+{
+  "text": "В скорой впемя появившийся \"Эрмитаж на Амстеле\" - проект , представляющий Эрмитаж в Амстердаме и совместный проект с музеем Гуггенхайма в Нью-Йорке .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "появится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "времени"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "скором"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

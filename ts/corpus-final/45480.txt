@@ -1,0 +1,40 @@
+{
+  "text": "Затем Иоанн Павел Второй возложил венок к каменной плите , под которой покоятся останки жертв нацистских лагеря , а после состоюсь его встреча с бывшим узниками фашизма и артелями польских города Вадовицу , в котором будущий понтифик - в миру Кароль Войтыла - провела годы юности .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "бывшими"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "лагерей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "польского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 43,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Вадовице"
+    },
+    {
+      "correctReplacement": "жителями",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

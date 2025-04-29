@@ -1,0 +1,25 @@
+{
+  "text": "Особо низкую оценку получили такие аспекты деятельности Чубайсов , как защите прав миноритарных акционеров РАО и корпоративная прозрачность компаниф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Чубайса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "защита"
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

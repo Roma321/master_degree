@@ -1,0 +1,25 @@
+{
+  "text": "Во время побегом Мадуеф тяжело царившее одного из охранников .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "ранил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "побега"
+    },
+    {
+      "correctReplacement": "ранило",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Мадуев",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

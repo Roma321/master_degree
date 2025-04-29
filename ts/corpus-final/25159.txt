@@ -1,0 +1,25 @@
+{
+  "text": "18 январей вице-премьер правительству России Виктор Христенко обсудил с главой представительства мич в Москве Мартином Гилманом вопросы организации работы миссии Фонда в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "января"
+    },
+    {
+      "correctReplacement": "МВФ",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "миф",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

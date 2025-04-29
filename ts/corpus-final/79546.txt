@@ -1,0 +1,20 @@
+{
+  "text": "В проводной случае \"террорист\" грозился выбросить из окна четвертого этажа своего трехмесячного сына , которого он объявил жаложником .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "противном"
+    },
+    {
+      "correctReplacement": "противной",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "заложником",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

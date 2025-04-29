@@ -1,0 +1,25 @@
+{
+  "text": "Новый пистолет , по сообщению собственной фотокоррнспондента Lenta . ru в Праге , внешне напоминаемый оружие из фантастических фильмов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "собственного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "correctReplacement": "корреспондента",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "фотокорреспондента",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

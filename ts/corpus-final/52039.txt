@@ -1,0 +1,20 @@
+{
+  "text": "Четверо из них учатся в школа , а двое - в технакум .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "школе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "техникуме"
+    },
+    {
+      "correctReplacement": "техникум",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

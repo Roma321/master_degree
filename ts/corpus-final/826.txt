@@ -1,0 +1,25 @@
+{
+  "text": "Предварительное расследования инциденти свидетельствовал о том , что неуставные отношения в училище имели место , отметивший представитель МВД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "расследование"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "отметил"
+    },
+    {
+      "correctReplacement": "инцидента",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

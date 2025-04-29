@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии со справкой , выдам Михайлову муниципальным округом Солнцевом , в 1998 году его совокупный довод составил 1388 , 79 рубля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Солнцево"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "выданной"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

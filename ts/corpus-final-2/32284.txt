@@ -1,0 +1,20 @@
+{
+  "text": "Фильм повествуешь о нескольким менях из жизни французского философа эпохи Просвещения Дени Дидро (1713-1784) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "повествует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "нескольких"
+    },
+    {
+      "correctReplacement": "днях",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

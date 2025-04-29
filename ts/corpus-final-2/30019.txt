@@ -1,0 +1,25 @@
+{
+  "text": "Его команда вёл раскопки под 62-метровой пирамидой при поддержке Университета Аризоны и национального географическоло отчеств .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "общества"
+    },
+    {
+      "correctReplacement": "обществ",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "географического",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Он рассказавший , что в ЦИК прислали замечания \"Союс правых сил\" и КПРФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "correctReplacement": "\"Союз",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

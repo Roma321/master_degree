@@ -1,0 +1,30 @@
+{
+  "text": "Прокурор сообщила журналистам , что Логвинович , ведущее разработчике в области ракетостроения , уже десятки лрт не выезжавший за границу и не мог находиться в Пенсильванском университете .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "выезжал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "разработчик"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ведущий"
+    },
+    {
+      "correctReplacement": "лет",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

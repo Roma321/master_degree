@@ -1,0 +1,25 @@
+{
+  "text": "Тогда Наваз Шариф запретил посадку самолета , на ббрту которое в числе прочего пассажира находился Мушарраф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "которого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "прочих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пассажиров"
+    },
+    {
+      "correctReplacement": "борту",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Результаты так называемых exit polls огласил Центр социологических исследований , который по заказу 1-е канала Общездвенного телевидения Польши провоженный опросы избирателей более чем на 600 избирательного участках по всей стране .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "проводил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "избирательных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "1-го"
+    },
+    {
+      "correctReplacement": "Общественного",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

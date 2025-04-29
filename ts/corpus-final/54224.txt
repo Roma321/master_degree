@@ -1,0 +1,25 @@
+{
+  "text": "проведение рейтингов Санкт-Петербурга связаны с улучшением экономического положения города , ростом доходной части его бюджета , а также с увеличением притока иностранного инвестиций в экономику городом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "связано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "correctReplacement": "Повышение",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

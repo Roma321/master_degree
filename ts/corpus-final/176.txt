@@ -1,0 +1,25 @@
+{
+  "text": "Они также утверждали , что из 14 членов окружной избирательной комиссии в голосованиях по кандидатуре анатоля Быкова примем участие лишь пятеро .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "голосовании"
+    },
+    {
+      "correctReplacement": "Анатолия",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

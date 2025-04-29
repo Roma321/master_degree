@@ -1,0 +1,20 @@
+{
+  "text": "В Белоруссии , в Гомельской области в один дни произошло два пожара - сначала загорелся дом местной жительниц , а черес считанные минуты еще один дом , пренадлежащий ее знакомому .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "жительницы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "день"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

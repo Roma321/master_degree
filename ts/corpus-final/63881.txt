@@ -1,0 +1,25 @@
+{
+  "text": "Если пользователь все-таки открыла вложение , вирус рассылаешь своим копии по всем адресам , нашедшим в адресной книжке почтовой программы MS Outlook на зараженной машине .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "рассылает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "открыл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "найденным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "свои"
+    }
+  ]
+}

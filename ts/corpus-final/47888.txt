@@ -1,0 +1,15 @@
+{
+  "text": "Каунасская полиция сообщил РИА \"Новости\" подробности происшедшеро .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "correctReplacement": "происшедшего",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

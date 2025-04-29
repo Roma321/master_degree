@@ -1,0 +1,20 @@
+{
+  "text": "Как передает РИА \"Новости\" , он заявил об этом на встрече с избирателяма во время предвыборной поездкой в столицы Калмыкии Элисту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "поездки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "столицу"
+    },
+    {
+      "correctReplacement": "избирателями",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

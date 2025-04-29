@@ -1,0 +1,30 @@
+{
+  "text": "Представитель израильских армии уверен , что Уидмен либо был на палестинской сторонах , либо направлялся туда , когда в нём попало шальнаф пуля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "попала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "стороне"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "него"
+    },
+    {
+      "correctReplacement": "шальная",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

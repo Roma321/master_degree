@@ -1,0 +1,20 @@
+{
+  "text": "Пожар улался глушащие примерно через час .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "потушить",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "удался",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

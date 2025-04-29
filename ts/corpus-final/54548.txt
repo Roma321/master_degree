@@ -1,0 +1,30 @@
+{
+  "text": "По сообщениям местными СМИ , в Чили съехавшиеся члены нацистских организаций из разных страны , в том числе из Испанией , Германии , Аргентины , Бразилии , Мексики , Парагвая и Эгвадора .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "стран"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Испании"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "местных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "съехались"
+    },
+    {
+      "correctReplacement": "Эквадора",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

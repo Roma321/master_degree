@@ -1,0 +1,30 @@
+{
+  "text": "Проверка , недавно завершу РАО \"ЕЭС\" , выявила в содействии менеджмента \"Тюменьэнерго\" ряд крупных наргшений российского законодательств и внутренних документов РАО .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "законодательства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "действиях"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "завершенная"
+    },
+    {
+      "correctReplacement": "действии",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "нарушений",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

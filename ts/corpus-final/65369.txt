@@ -1,0 +1,25 @@
+{
+  "text": "По данным территориального упрааления , в ближайшее времени в федеральное бюджет из Чечни будет перечислю более 12 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "федеральный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "перечислено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "управления",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

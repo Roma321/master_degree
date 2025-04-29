@@ -1,0 +1,15 @@
+{
+  "text": "Бывало , что я много выпивал , и в бот день я тоже выпило .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "выпил"
+    },
+    {
+      "correctReplacement": "тот",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На допитой площадке в течение года предполагается построить двухэтажный супермаркет общего площадь 2400 квадратных метров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "площадью"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "общей"
+    },
+    {
+      "correctReplacement": "купленной",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению госпиталя , в передвлках были ранимы два палестинца .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "перестрелке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "ранены"
+    },
+    {
+      "correctReplacement": "перестрелках",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "переделках",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

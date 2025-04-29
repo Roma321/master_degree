@@ -1,0 +1,20 @@
+{
+  "text": "монументов у певцов не оказавшееся , и номер ему предоставлен не был .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "оказалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "певца"
+    },
+    {
+      "correctReplacement": "Документов",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

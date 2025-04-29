@@ -1,0 +1,30 @@
+{
+  "text": "В ходе обмена мнения по этой проблеме , сообщила Путин , стороны пришли к единой мнению о необходимости подписания Хартией евразийской безопасности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Хартии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мнениями"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "единому"
+    },
+    {
+      "correctReplacement": "европейской",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

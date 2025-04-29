@@ -1,0 +1,30 @@
+{
+  "text": "Говоря о ближайших планах Бориса Ельцина , Дмитрий Якушкин подчеркнуло , что лидеры мировых держав сохранили добрые отношения с первому президентом России г готов поддерживать им впредь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "первым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "готовы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "их"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

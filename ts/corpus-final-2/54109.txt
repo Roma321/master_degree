@@ -1,0 +1,25 @@
+{
+  "text": "Еще одно необычное пари было заключено в Лейстере - 45-летняя Джон Берзинс поставленный две тысячи на то , что смогший на Рождество переплыто местное озеро и забраться на близлежащую гору .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сможет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "45-летний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "поставил"
+    },
+    {
+      "correctReplacement": "переплыть",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Главу концерна Михаил Ходорковский в понедельник начну в Пекин переговоры с Китайской национальной нефтяной компанией об увеличенши поставок российского нефти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Глава"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Пекине"
+    },
+    {
+      "correctReplacement": "увеличении",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Он тскже сообщённый , что на выборам мэра , которые пройдут одновременно с выборами в Горсовет , будет поддерживать действующего глав горадминистрации Красноярска Петра Пимашкове .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "главу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Пимашкова"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

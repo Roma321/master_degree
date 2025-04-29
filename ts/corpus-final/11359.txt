@@ -1,0 +1,25 @@
+{
+  "text": "В южного чающие Тихого океана в субботе произошло сильнмйшее землетрясение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "южной"
+    },
+    {
+      "correctReplacement": "части",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "сильнейшее",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

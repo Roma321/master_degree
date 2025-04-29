@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , это позволит ликвидировать засоление , подтапливание и заболачиванием земель и даст прирост урожая хлопка на 450-470 тысяч тонны в год , зерном - на 300 тысяч тонн в год , а также увеличит сбор овощей и бахчевых .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "заболачивание"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "зерна"
+    }
+  ]
+}

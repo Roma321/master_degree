@@ -1,0 +1,25 @@
+{
+  "text": "Представитель Черепкова отмечу , что лозунги появились в та день , огда приморский губернатор Евгений Наздратенко возвратилась из Москвы .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "возвратился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "тот"
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

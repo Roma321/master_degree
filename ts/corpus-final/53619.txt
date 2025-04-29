@@ -1,0 +1,30 @@
+{
+  "text": "Недовольных выступают протич нынешней политики кабинета министров и экономического положения в стране и добиваемся пересмотра ряда законов , согласно которым государственный собственность попавшая в руки узкого круга лиц .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "попала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "добиваются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "государственная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Недовольные"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

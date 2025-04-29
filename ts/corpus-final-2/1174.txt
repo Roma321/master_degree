@@ -1,0 +1,25 @@
+{
+  "text": "В багажа террориста , выдающего себя за правозащитника , были найдены тексты локаций по проведению терактов , а также карты и схемы с расположением части и милицейских подразделений на территории Чечни .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "багаже"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "выдававшего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "частей"
+    },
+    {
+      "correctReplacement": "лекций",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

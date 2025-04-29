@@ -1,0 +1,20 @@
+{
+  "text": "По факту каннибализма возбуждено уголовным дела , ведется последствие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "следствие",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

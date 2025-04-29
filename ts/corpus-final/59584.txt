@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники предохранительных органов Ингушетиии обезвредили мощные взрывное устройство , заложенная под магистральному газопроводом Ставрополь - Владикавказ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "мощное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "магистральным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заложенное"
+    },
+    {
+      "correctReplacement": "правоохранительных",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

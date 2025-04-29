@@ -1,0 +1,20 @@
+{
+  "text": "Двое чеченцев задержавшие в Москве при попытке получения десяти тысяч долларов уруководителя одного из российских внешнеторговых фим .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "фирм",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

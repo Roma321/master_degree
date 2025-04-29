@@ -1,0 +1,25 @@
+{
+  "text": "Никто из живцов не пострадал , сообщим ИТАР-ТАСС я областной администрацию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "администрации"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "жильцов",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

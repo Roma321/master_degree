@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в новогоднюю ночь проезд в московской , а равно м петербургской метро , вероятно , будет бесплатными .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "московском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "бесплатным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "петербургском"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

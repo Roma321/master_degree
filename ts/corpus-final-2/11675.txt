@@ -1,0 +1,35 @@
+{
+  "text": "роберу Стармы , продюсер и специалист по сохранениям и реставрации фильмов , восстановил три классических американских ленты 1950-э годов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Старм"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Роберт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сохранению"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "восстановит"
+    },
+    {
+      "correctReplacement": "Роберте",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "1950-х",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

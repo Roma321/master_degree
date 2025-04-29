@@ -1,0 +1,25 @@
+{
+  "text": "Ни лидирующая после двух дней борьбы Мария Бутырская , ни ее соотечественница Ирина Слуцкая , занимаемая второе место , не точившие избежать ошибок ц произвольной программе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "лидировавшая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "занимавшая"
+    },
+    {
+      "correctReplacement": "смогли",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

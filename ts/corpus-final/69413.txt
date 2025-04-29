@@ -1,0 +1,20 @@
+{
+  "text": "Вор проникло в квартиру министра через одно и забравший компьютер , однако он не тронул две коробки с правительственными документами , где как раз и была важная оборонная информация .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "проник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "забрал"
+    },
+    {
+      "correctReplacement": "окно",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

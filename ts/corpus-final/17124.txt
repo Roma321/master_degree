@@ -1,0 +1,25 @@
+{
+  "text": "Помимо это городской власти , подчеркпул Никольские , разрешают проводить техосмотр всем предприятиям , имеющим необходимое для этого техническое оборудование .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "городские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Никольский"
+    },
+    {
+      "correctReplacement": "подчеркнул",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Российский теннисист Евгений Кафельникоф одержал второе победу на Олимпийском турнире в одиночной разряде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вторую"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "одиночном"
+    },
+    {
+      "correctReplacement": "Кафельников",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшней брифинге в Росинформцентре помощник и . о . президента России Сергей Ястржембский подгнивший , что военные финансисты будут отвечать за выдачу пенсий и зарлатами населению республик .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшнем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "зарлат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "пояснил",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

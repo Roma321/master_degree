@@ -1,0 +1,30 @@
+{
+  "text": "Иванов выразил уверенностью , что в России будут принявшие налоговая и земельный кодексы , а также продолжатся совершенствования законодательства по соглашениям о разделе продукции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "совершенствование"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "продолжится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "налоговый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "приняты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "уверенность"
+    }
+  ]
+}

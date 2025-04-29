@@ -1,0 +1,20 @@
+{
+  "text": "По коробу огонь распространилась на чердак , а затем охватил несколько квартир на четвертом и мятых этажах дома .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "распространился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пятом"
+    },
+    {
+      "correctReplacement": "пятых",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

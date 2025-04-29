@@ -1,0 +1,30 @@
+{
+  "text": "Торговец антиквариатом Артур Розенблату выставили на интернет-аукцион подлинный , как он утверждает , электрический спул одной из тюрем штата Теннесси , на которой с 1916 по 1960 год окончили свою жизнь 125 заключёнными .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Розенблат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "выставил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "заключенных"
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "стул",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "\"Мы можем выразить осторожная оптимизмы по поводу достоверности информации о смерти Шамиля Басаева\" , - сообдил источник РБК в Объединенной группировке войск на пещерный Кавказе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "осторожный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "оптимизм"
+    },
+    {
+      "correctReplacement": "Северном",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

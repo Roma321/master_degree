@@ -1,0 +1,35 @@
+{
+  "text": "К вечеру того же дня была установлен причастность к кражей четверыж матросов срочной службы и одной бывшего военнослужащего службы радиационной безопасности соединения , которые в ходе допросов сознался в сговору и совершении преступления .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "сговоре"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "краже"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "установлена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "сознались"
+    },
+    {
+      "correctReplacement": "четверых",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

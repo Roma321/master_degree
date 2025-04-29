@@ -1,0 +1,20 @@
+{
+  "text": "Документ , сфабрикованный Молдофски на основании реального пресс-релиза Lucent , опубликую в январе этого года , утверждал , что компанию ждёте финиковые потери .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "опубликованного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "ждут"
+    },
+    {
+      "correctReplacement": "финансовые",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

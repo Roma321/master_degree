@@ -1,0 +1,20 @@
+{
+  "text": "Объем торгов составивший 85 миллионов долларов , всего зарегистрирую 1631 сдещка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "зарегистрирована"
+    },
+    {
+      "correctReplacement": "сделка",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

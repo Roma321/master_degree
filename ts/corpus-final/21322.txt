@@ -1,0 +1,25 @@
+{
+  "text": "Компании , производящие DVD , во вторник предъявили иск 72 хакерам , опубликую DeCSS , программный продукт , позволяющий взломать защиты DVD , обеспечивающее невозможность копирования его содержания , сообщаешь Wired News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "защиту"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "обеспечивающую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "опубликовавшим"
+    }
+  ]
+}

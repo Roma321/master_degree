@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , их подчеркнули , что передача Доренко является авторской программой и идущий в эфир без предварительной записи , поэтуму канал не может нести ответственности за ее содержание .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В звоих высказываниях все из преступников отрицаем свой вину .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "отрицали"
+    },
+    {
+      "correctReplacement": "своих",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

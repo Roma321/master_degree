@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас МАП иже рассматриваешь механизм установления тарифов и после его утверждения на правление направит его на регистрация в Минюст .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "правлении"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "рассматривает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "регистрацию"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

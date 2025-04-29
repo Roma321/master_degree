@@ -1,0 +1,30 @@
+{
+  "text": "Подробности сделки пока не разглашаемся , но представители компании CompTek , создавшей поисковых систему Яndex , обещающие рассказать в четверг о деталях соглашению , таймерах инвестиций и основных перспективах развития проекта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "обещают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "поисковую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "разглашаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "соглашения"
+    },
+    {
+      "correctReplacement": "размерах",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

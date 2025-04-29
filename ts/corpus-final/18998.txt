@@ -1,0 +1,20 @@
+{
+  "text": "Здание суд оцеплено сотрудниками правоохранителей органоф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "суда"
+    },
+    {
+      "correctReplacement": "правоохранительных",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

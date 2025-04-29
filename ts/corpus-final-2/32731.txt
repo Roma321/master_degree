@@ -1,0 +1,25 @@
+{
+  "text": "На рабочем столе депутат ослабивший записку : \"Я , Молокоедов Вячеслав Александровичи , находясь в здравом умах и твердой памяти , заявляю , что , после того как губернатора нашего не поняли , я решил свёдшие счеты с жизнью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Александрович"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "свести"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "уме"
+    },
+    {
+      "correctReplacement": "оставил",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

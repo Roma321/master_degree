@@ -1,0 +1,25 @@
+{
+  "text": "Со стороны Осетии 500 человечек в 24 автомашинах и 17 автобусах ждали , когда аварийные службы шеспублик расчистят дорогу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "ждут"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "республик",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министром России Владимиру Путин и другие претставители правительства находятся в постоянном контакте с теми , кто считает сеню официальными руководителями Чечни , в том числе с Асланом Масхадовым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Премьер-министр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "себя",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Нападение на известной корсиканской политического деятеля произошло в 9 : 00 по местным времени : неизвестные люди в масках откроем огонь по автомобилю Росси .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "корсиканского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "известного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "местному"
+    }
+  ]
+}

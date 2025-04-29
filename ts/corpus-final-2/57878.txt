@@ -1,0 +1,25 @@
+{
+  "text": "Саддам выглядел здоровым , хотя не ясно , показываюсь речи в прямой трансакции или в записи , отмечаешь BBC News .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "показывалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "речь"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "correctReplacement": "трансляции",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

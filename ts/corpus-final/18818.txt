@@ -1,0 +1,20 @@
+{
+  "text": "The Wall Street Journal сообщивший сегодня , что при переводеденег на счета в Bank of New York , якобы связанные с отмываниемденег из России , были , как выясняется , задействованы десяткибанкшв , в том числе из США , Китая , Австралией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "Австралии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "десяткибанков",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В тоже время посол довела до сведения канцлера Австрии , что американский администрация крайне озабояен вхождением в состав нового кабинета лидера крайне правого партии свободы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "американская"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "озабочена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "правой"
+    },
+    {
+      "correctReplacement": "озабочен",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

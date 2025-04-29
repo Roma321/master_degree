@@ -1,0 +1,25 @@
+{
+  "text": "В перспективе функции транспортного карты будут расширены и ею можно будет пользоваться для проезда в троллейбусах , автобусах , а также звонящие по таксофону .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "автобусе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "транспортной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "троллейбусе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "звонить"
+    }
+  ]
+}

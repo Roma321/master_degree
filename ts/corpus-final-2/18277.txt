@@ -1,0 +1,30 @@
+{
+  "text": "Согласно заявлению первого заместителя министра финансов РФ Алексея Улюкаева , которое он сделавший накануне , до конца 2000 года правительства направлю в общей сложностях восемь миллиардов рублей на погашение кредиторской задолженности бюджетополучателях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "направит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "сложности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "правительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "бюджетополучателей"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В ходе бомбардировки , произведенной в ночь на субботу , по подтверждению иракских властей , пострадаю складу с продовольствием , полученным в обмен на нефти в рамках гуманитарной программы ООН .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "склад"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "утверждению",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

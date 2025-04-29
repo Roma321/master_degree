@@ -1,0 +1,15 @@
+{
+  "text": "Как сообщает Reuters , значительную части задержанных составляют сотрудники сети рестораноф быстрого обслуживания Ranch-1 , от рядовых служащих до руководителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "ресторанов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

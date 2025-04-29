@@ -1,0 +1,25 @@
+{
+  "text": "Министр обороны РФ Игорь Сергеев подтвержу факт преследований российскими самолетами иностранной субмарины в Баренцевом морзе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "преследования"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "море"
+    },
+    {
+      "correctReplacement": "морях",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

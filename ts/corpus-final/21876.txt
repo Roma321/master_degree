@@ -1,0 +1,25 @@
+{
+  "text": "В Грозном и других городах уцелевших зданий практически нр осталась , а в сохранившихся домах и так ютятся по несколько семьи в одного квартире .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "семей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "осталось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

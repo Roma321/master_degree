@@ -1,0 +1,25 @@
+{
+  "text": "В этом году Пьер Эллиот Трюдо был признаю канадскими СМИ самой популярным человеком страны в минувшего столетии , сообщает ЧВС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "признан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "минувшем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "самым"
+    },
+    {
+      "correctReplacement": "ВВС",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

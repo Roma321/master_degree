@@ -1,0 +1,30 @@
+{
+  "text": "пятииетровая статуи установившая напротив президентской дворца Ла Монеда , где 11 сентября 1973 года президент-социалист покончил с собой , не желая сдаваться войскам генерала Пиночета , осаждавшим здание .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "президентского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "установлена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "статуя"
+    },
+    {
+      "correctReplacement": "Трехметровая",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "пятиметровая",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

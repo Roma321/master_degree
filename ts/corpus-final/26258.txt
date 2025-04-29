@@ -1,0 +1,35 @@
+{
+  "text": "Кроме сторонников Владимира Путина подписи теперь имеете право собирать грьппы Юрия Скуратове , Анатолия Панфилова , Валерия Немце-Петровского , Галин Божедомовых и Николае Аверюшкина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Скуратова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Николая"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Галины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Божедомовой"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

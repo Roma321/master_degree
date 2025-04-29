@@ -1,0 +1,35 @@
+{
+  "text": "По его словам , в ходе первого этого выполнена задача правительства и Министерства обороны России по созданиям санитарной зоны , куда вошла одно трети Чечни , и в субботу начался движение вглубь Чечни , на юг Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "начнется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "треть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "созданию"
+    },
+    {
+      "correctReplacement": "этапа",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

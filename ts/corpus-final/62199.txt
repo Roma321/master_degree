@@ -1,0 +1,25 @@
+{
+  "text": "DeBeers продавший российской \"Алроса\" все свои акции предприятия ОАО \"Севералмаз\" , которое имеет лицензию на разработку круглую в Европе Ломоносовского месторождения алмазов (Архаргельская область) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "продаст"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "крупнейшего"
+    },
+    {
+      "correctReplacement": "крупнейшую",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "(Архангельская",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

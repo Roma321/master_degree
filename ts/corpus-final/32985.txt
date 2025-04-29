@@ -1,0 +1,25 @@
+{
+  "text": "За звание худшего фильма 1999 году борющиеся \"Большой папочка\" , \"Ведьма из Блэр\" , \"Призран дома на холме\" , \"\"Звездные войне : эпизод 1\"\" и \"Дикий дикий Запад\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "борются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "войны"
+    },
+    {
+      "correctReplacement": "\"Призрак",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

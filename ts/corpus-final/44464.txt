@@ -1,0 +1,20 @@
+{
+  "text": "Расстрелянные все патроны , Кондратьев сменил магазин и попытался застрелиться , приставив ствол автомата в своего груди , но неудачно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Расстреляв"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

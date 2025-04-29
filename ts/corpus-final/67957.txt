@@ -1,0 +1,20 @@
+{
+  "text": "Преступник смертельно ранен , никеи из захваченных человека не пострадал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "никто"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "людей"
+    },
+    {
+      "correctReplacement": "никем",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

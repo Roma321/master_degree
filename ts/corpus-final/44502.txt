@@ -1,0 +1,25 @@
+{
+  "text": "И кан передает CNet , по крайней мере в Сан-Франциско i-opener уже оказался распролавший в большинстве компьютерных магазинам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "распродан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "магазинов"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "распродавший",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "\"Leeds United твердь верит , - говорится в заявлении , - что все игроки несут личную ответственности зс то , что они делают .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "ответственность"
+    },
+    {
+      "correctReplacement": "твердо",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

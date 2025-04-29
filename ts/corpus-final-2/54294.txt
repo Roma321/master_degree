@@ -1,0 +1,30 @@
+{
+  "text": "Также инженер сообщивший , что был арестован и подвергнусь пытками после тому , как отказался работать над восстановленное проекта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пыткам"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "подвергся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "восстановлением",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В обладминистраций портала сочли требование суд нелепым и заявила , что не располагает техническим средствами для ешо выполнения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "техническими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "администрации"
+    },
+    {
+      "correctReplacement": "администраций",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

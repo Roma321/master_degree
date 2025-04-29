@@ -1,0 +1,20 @@
+{
+  "text": "Вероятно , он стрелял не наугад , но в корректных людей , так как большинство из семерыми убитого работали в бухгалтерском отделе компании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "убитых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "семерых"
+    },
+    {
+      "correctReplacement": "конкретных",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

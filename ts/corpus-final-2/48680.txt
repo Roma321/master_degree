@@ -1,0 +1,35 @@
+{
+  "text": "У Кремлевской стен находитесь могилы 22 маршалов кадетского Союза , 18 дважды Героев Советской Союза , 24 Героев Советского Союза , трех Героет Социалистического труда , академиков и космонавтов , подчёркиваете представители общества .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "подчеркивают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "Советского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "стены"
+    },
+    {
+      "correctReplacement": "Советского",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Героев",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В ходе работы согласительной комиссии , в которую войдём представители Совета Федераций , Государственной Думы и правительствов , в частности министр финансов Алексей Кудрин , вице-премьер правительства Валентина Матвиенко и министр трудаАлександр Починкам , сроки и суммы МРОТ были изменены .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "вошли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Федерации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Починок"
+    },
+    {
+      "correctReplacement": "правительством",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

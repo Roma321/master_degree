@@ -1,0 +1,30 @@
+{
+  "text": "Напомню , что олимпийских чемпиона , который почто месяц находится в Новосибирской областная больнице , врачи собираются прооперировать в связи с урологическими заболеванием .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "олимпийского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "областной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "урологическим"
+    },
+    {
+      "correctReplacement": "почти",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Иванов привел еще ряд обвинений в адрес российских военнослужащих и заввил , что , по его мнению , это все часть информационная войны , развязанной чеченским пропагандистами , в том числе Мовлади Удугового .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "чеченскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Удуговым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "информационной"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

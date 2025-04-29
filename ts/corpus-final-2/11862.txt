@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявил начальника Главных управления охраны общественного порядка МВТ РФ Александр Чекалин , выступая в воскресенье в прямом эфире программы \"Время\" канале ОРТ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "канала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Главного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "начальник"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

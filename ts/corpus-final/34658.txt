@@ -1,0 +1,20 @@
+{
+  "text": "В пятницы Госдума приняла сразу в первом и втором учениях изменениях в закон \"О свободе совести и о религиозных объединениях\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "изменения"
+    },
+    {
+      "correctReplacement": "чтениях",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

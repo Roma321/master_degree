@@ -1,0 +1,30 @@
+{
+  "text": "Предваримельный результаты досрочной голосования граждан США показывающие , что кандидаты от демократического партии США получили больше голосов , чем кандидаты от республиканцев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "демократической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предварительные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "показывают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "досрочного"
+    },
+    {
+      "correctReplacement": "Предварительный",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

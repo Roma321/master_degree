@@ -1,0 +1,30 @@
+{
+  "text": "После превышение месячного лимита , который составляющий 613 минут , стоимость телефонного разговора для москвичей составят 10 копеечек в минуту , сообщила в эфире радиостанции \"Эхо Москвы\" первый заместитель генерального директора МГТС Семен Рабовский .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "превышения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "копеек",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

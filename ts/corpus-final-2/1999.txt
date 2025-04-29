@@ -1,0 +1,25 @@
+{
+  "text": "зам было обнаружу 55 килограммов ртути в пятью емкостях , 100 граммов гексогене и 40 килограммов азотной кислоты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "гексогена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "пяти"
+    },
+    {
+      "correctReplacement": "Там",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

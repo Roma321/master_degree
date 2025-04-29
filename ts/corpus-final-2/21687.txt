@@ -1,0 +1,25 @@
+{
+  "text": "Наиболее остро нехватка ощущаются в старом здании парламент , где обычно находятся аккредитуем жарналисты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "аккредитованные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ощущается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "парламента"
+    },
+    {
+      "correctReplacement": "журналисты",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

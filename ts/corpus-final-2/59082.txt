@@ -1,0 +1,25 @@
+{
+  "text": "Этот платеж , средства для которого пакануне были зарезервировавшие во Внешэкономбанке , осуществляется в пользы ряда стран-членов Парижского клуба , в кратности Германии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пользу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "зарезервированы"
+    },
+    {
+      "correctReplacement": "частности",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "накануне",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

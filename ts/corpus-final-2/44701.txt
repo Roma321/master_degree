@@ -1,0 +1,30 @@
+{
+  "text": "Московское окружного военный суд допрошу в четверг еще одного обвиняемого по делу об убийстве журналиста Дмитрия Холодове - бывшего заместителя командира отряда спецназа ВДВ майоров Александра Сороку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "окружной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "допросил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Холодова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "майора"
+    }
+  ]
+}

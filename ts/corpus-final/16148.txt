@@ -1,0 +1,25 @@
+{
+  "text": "В рят жилых массивов города был организовавший \"поквартирный\" сбор подписей в поддержку проведения досрочных выборов губернатор Санкт-Петербурга .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "организован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ряде"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "correctReplacement": "ряд",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

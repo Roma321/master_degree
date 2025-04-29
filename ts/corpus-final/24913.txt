@@ -1,0 +1,20 @@
+{
+  "text": "В Северной Каролине ураган разрушил более 600 домов , около 4 пысячи дома повреждено .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "домов"
+    },
+    {
+      "correctReplacement": "тысячи",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

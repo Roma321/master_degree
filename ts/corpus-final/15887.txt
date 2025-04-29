@@ -1,0 +1,25 @@
+{
+  "text": "В частности , два дня назад , когда Илюхин вернусь из Петербурга , в столичного аэропроту один из находящихся в зале мужчин бтосила реплику : \"Если бы ты не был депутатом , то с тобой бы разобрались\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "бросил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "столичном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "вернулся"
+    },
+    {
+      "correctReplacement": "бросила",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

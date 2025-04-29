@@ -1,0 +1,25 @@
+{
+  "text": "Как выяснилось , чат начало функционировать еще в середине 80-х . Хотя , по заверениям представителей ЦРУ , никакой секретной информации в чате не обсуждалось , сам факт , что в рамках секретных служб действую еще более секретный чат , насторожил руководстве Э",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "руководство"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "действовал"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 42
+    }
+  ]
+}

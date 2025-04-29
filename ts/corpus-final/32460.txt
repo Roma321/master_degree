@@ -1,0 +1,30 @@
+{
+  "text": "По заключению медика , состояние Станимиров петровича сейчас тяжелое и по желкнию сына он будет госпитализирую в одну из столичных клиник .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "госпитализирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "медиков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Станимира"
+    },
+    {
+      "correctReplacement": "Петровича",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "желанию",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

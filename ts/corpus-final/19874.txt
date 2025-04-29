@@ -1,0 +1,20 @@
+{
+  "text": "Место обнаружения мин было офепившее , движение по Балаклавскому проспекту перекрыто .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "мины"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "оцеплено"
+    },
+    {
+      "correctReplacement": "оцепившее",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

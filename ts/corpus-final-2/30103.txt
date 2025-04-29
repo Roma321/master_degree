@@ -1,0 +1,25 @@
+{
+  "text": "После прошлогодней эпидемии вируса Melissa многие компанию и частные пользователи уже усвоили основные урок , преподанный этим вирусом : аттачмент , пришедший даже а хорошо знакомого адресе , необходимо протестировать антивирусом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "адреса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "основной"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Лапшину подчеркнула , что президент и вредительздво РФ \"начали разворот к агропромышленному комплексу\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лапшин"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "вредительство",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

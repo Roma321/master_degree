@@ -1,0 +1,25 @@
+{
+  "text": "Заседание суда , на котором им будут определены сроках наказания , должно состоявшиеся в дражайшие три месяц .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сроки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "состояться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "месяца"
+    },
+    {
+      "correctReplacement": "ближайшие",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

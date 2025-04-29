@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщило вчера со ссылкой на высокопоставленные источники , знакомые с ходом рассказывании , газета \"USA Today\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "расследования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "correctReplacement": "расследовании",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

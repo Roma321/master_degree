@@ -1,0 +1,30 @@
+{
+  "text": "Американский парламент на днях озаботился правами человека , которые в Интернете рискующие быть нарушены сразу с двух сторон : и со стороны правительздва , которое хочешь предотвращать преступления , и со стороны компаний , которые занимающиеся рекламной в Интернете .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "хочет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "рискуют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "занимаются"
+    },
+    {
+      "correctReplacement": "рекламой",
+      "type": "paronym",
+      "wordNumber": 36
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

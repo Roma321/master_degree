@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает Агентство военных новостей , инциденты произошел в четверг на одном из участков Кызылского отряда Забайкальского региональной управления Федеральную пограничных службы России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "регионального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "пограничной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Федеральной"
+    }
+  ]
+}

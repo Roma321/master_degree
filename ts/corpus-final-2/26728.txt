@@ -1,0 +1,20 @@
+{
+  "text": "Бригада Управлдения Федеральной службы безопасностей проводящий на месте происшествия следственные меропгиятия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "проводит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "мероприятия",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

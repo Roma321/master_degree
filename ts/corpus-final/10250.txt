@@ -1,0 +1,30 @@
+{
+  "text": "Оба они обвиняетесь в нарушении экспортногозаконодательздва США и ими грозит штраф до 1 миллиону коллажей и тюремноезаключение до 10 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "им"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "миллион"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "экспортногозаконодательства",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

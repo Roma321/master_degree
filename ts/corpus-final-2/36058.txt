@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник утром избирательная комиссия Калининградского области опубликовала предварительные итоги голосований по выборам губернатора , которое состоялся в воскресенье .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Калининградской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "состоялось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "голосования"
+    }
+  ]
+}

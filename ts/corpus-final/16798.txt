@@ -1,0 +1,25 @@
+{
+  "text": "Шторм возник вследствие мощном циклона , охватившей весь север Испании и прилегавшие у нему воды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мощного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "прилегающие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "охватившего"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

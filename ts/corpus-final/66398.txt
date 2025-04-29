@@ -1,0 +1,25 @@
+{
+  "text": "Прошлой ночью неизвестные разбили автомобили российских дипломатов на склынка у здания посольства России в столице Дании , сообщал \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "стоянке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "стоянка",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "склянка",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

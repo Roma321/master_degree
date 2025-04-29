@@ -1,0 +1,35 @@
+{
+  "text": "Единственный присутствующий на заседании комитета демократ , сенатор от татов Делавэр Джо Байден , замечу , что то договор с Москвой бсл \"хорошим , взвешенным соглашением\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "штата"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "присутствовавший"
+    },
+    {
+      "correctReplacement": "штатов",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

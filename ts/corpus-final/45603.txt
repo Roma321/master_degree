@@ -1,0 +1,20 @@
+{
+  "text": "Погибли 12 сотрудникам афтоматизированной части .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "correctReplacement": "военизированнойгорноспасательной",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "автоматизированной",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

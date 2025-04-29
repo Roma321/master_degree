@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению World Entertainment News Network , Сэмьюэл Л . Джексон на съемках другой фильма , гангстерской чёрной комедии \"51-й стат , по неосторожности ударил по голове клюшкой для гольфа дублера Рея Николаса , которого пришлось отвезти в больницу и наложить три жва .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "другого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "черной"
+    },
+    {
+      "correctReplacement": "штат\"",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "шва",
+      "type": "typo",
+      "wordNumber": 42
+    }
+  ]
+}

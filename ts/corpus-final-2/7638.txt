@@ -1,0 +1,25 @@
+{
+  "text": "По словар Колерова , ему надоевшая политика , и теперь ему хотелось бы \"сосредоточиться на новых информационным прокатах , а также развивать уже существующие (REGIONS . RU , RUSOIL . RU , RBN . RU)\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "надоела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "информационных"
+    },
+    {
+      "correctReplacement": "проектах",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В очаги эпидемий производишься дезинфекция , медицинские работники осуществляют вакцинацию населения против брюшного тифа .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "производится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "очагах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "эпидемии"
+    }
+  ]
+}

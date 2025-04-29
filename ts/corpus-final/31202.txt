@@ -1,0 +1,30 @@
+{
+  "text": "Путин признал , что в Чечне еще долгих времени будут продолжаться столкновения с экстремистами , но уже не со столь крупными бундформированиями , как те , что вторглись в прошлых году в Дагестаны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "долгое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "Дагестан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "correctReplacement": "бандформированиями",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

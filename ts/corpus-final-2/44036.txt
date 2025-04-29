@@ -1,0 +1,25 @@
+{
+  "text": "Владимир Морозопа заявил , что на него оказывалась психологическое воздействие со сторону сотрудников прокуратуры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "оказывалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Морозов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "стороны"
+    },
+    {
+      "correctReplacement": "Морозова",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

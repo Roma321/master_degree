@@ -1,0 +1,25 @@
+{
+  "text": "Джавахишвили уже допросивший сотрудников прокуратуры , одкако пока не взят под стражу , поскольку обладал депутатским иммунитетом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "обладает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "допрошен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сотрудниками"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

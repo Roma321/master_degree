@@ -1,0 +1,25 @@
+{
+  "text": "За два последних года Россия вместе с пноцентом не смогла заплатить 3 , 5 миллиарде коллажей наличными и новыми облигациями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "процентами"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "процентом",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

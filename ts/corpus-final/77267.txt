@@ -1,0 +1,30 @@
+{
+  "text": "Перед участниками заседания выступлю президент России Владимир Путин , заявившая , что прокуратура - это части государством , общества , \"на нее устремлены вздоры граждан , других государств и правительств\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "государства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявивший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "часть"
+    },
+    {
+      "correctReplacement": "взоры",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

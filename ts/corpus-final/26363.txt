@@ -1,0 +1,25 @@
+{
+  "text": "Своим сегодняшним приговором московский окружной удвоенный отменили аресты , наложенный на имузество подсудимых .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "отменил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "арест"
+    },
+    {
+      "correctReplacement": "военныйсуд",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "имущество",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

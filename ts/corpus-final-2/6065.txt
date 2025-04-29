@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , пресс-центром Объединенной группировки сообщил о том , что в состояние повышенной боеготовностей приведены силачи местной самооборон на западе Дагестана , в теми селах , которые ранее подвергались нападению ваххабитов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "боеготовности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "самообороны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "тех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пресс-центр"
+    },
+    {
+      "correctReplacement": "силы",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Государственная Дума принявшая в первой чтении проекте седельного закона \"О внесении изменения и дополнений в закон РФ \"О подоходном налоге с физических лиц\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "изменений"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "проект"
+    },
+    {
+      "correctReplacement": "федерального",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

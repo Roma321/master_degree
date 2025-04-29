@@ -1,0 +1,30 @@
+{
+  "text": "Первый крупный прецедент , связанное с возвращением \"чисто именного\" домен имел месту на прошлой неделе , когда британская слушательница Джанет Уинтерсон выиграла суду по поводу имени JeanetteWinterson . com , зарегистрированного Марком Хогартом из Кембриджа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "связанный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "домена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "писательница",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

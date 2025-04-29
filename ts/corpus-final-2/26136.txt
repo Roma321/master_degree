@@ -1,0 +1,25 @@
+{
+  "text": "На состоявшемся в четверк пресс-конфереции Климентьев назвали это решение судов \"неожиданным , но законным\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "состоявшейся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "назвал"
+    },
+    {
+      "correctReplacement": "четверг",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

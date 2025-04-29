@@ -1,0 +1,30 @@
+{
+  "text": "Кроме тгго , Сергеев отметивший , что возрастает опасность совершения чеченскими бандитами целенаправленных террористических актов в отношении конкретных лиц командного состава Объединившей группировок войск и чеченского администрации .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "чеченской"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Вдова Анатолия Собчакоф Людмила Нарусов обвинял питерского губернатора Владимира Яковлева и его администрацию в травле мужа , направленного \"прямо в усердие , и в его смерти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Собчака"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "направленной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Нарусова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обвиняет"
+    },
+    {
+      "correctReplacement": "сердце\"",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "Собчаков",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

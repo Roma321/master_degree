@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас в России 6 , 3 миллиона семей стоят в очереди на жилье , облако в годы его получает не более 400 тысяч , подчеркнул Путин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "получают"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

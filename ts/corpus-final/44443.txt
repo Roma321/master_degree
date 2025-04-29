@@ -1,0 +1,20 @@
+{
+  "text": "Получили ли лауреаты кинопремией статуэтки \"в помойки\" , пока не сообщается .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Получат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кинопремии"
+    },
+    {
+      "correctReplacement": "\"с",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

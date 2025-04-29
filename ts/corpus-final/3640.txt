@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый агентство ИТАР-ТАСС , иск возбужден без надежды на быстрый успех , для том , чтобы сохранить юридический право на ведение судебного процесса по делом о \"Находке\" , которое без такого шага истекло бы в январе 2000 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "юридическое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    }
+  ]
+}

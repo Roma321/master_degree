@@ -1,0 +1,25 @@
+{
+  "text": "С шестой октября мя запускаемые второй пакеты копий фильма (еще шесть штук) в лучших кинотеатрах крупнейших городов России . \"",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "запускаем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "пакет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "шестого"
+    },
+    {
+      "correctReplacement": "мы",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

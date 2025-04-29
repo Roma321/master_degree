@@ -1,0 +1,30 @@
+{
+  "text": "Верховный суд Дагестана приговорю к пожизненному заключению Зубайрой Муртузалиева и Тамерлана Алиева , обвиняющих в организации теракта в Сахачкале 4 сентября 1998 года , сообщаешь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "приговорил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Зубайру"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "обвиняемых"
+    },
+    {
+      "correctReplacement": "Махачкале",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

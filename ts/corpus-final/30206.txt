@@ -1,0 +1,15 @@
+{
+  "text": "Им предоставляется сьол , четыре стулов , телефон , а также питание для компьютеров и людей на 24 часа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "стула"
+    },
+    {
+      "correctReplacement": "стол",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

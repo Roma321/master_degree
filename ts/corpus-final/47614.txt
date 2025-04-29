@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , по мнению Козленка , его задержание в Греции 3 января 1997 годов было проведено с нарушением международной договоров о выдаче преступниками , заключённого между Россией и Грецией , а также Конституцией РФ и Уголовно-процессуального кодекса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "преступников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Конституции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "международного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "договора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "заключенного"
+    }
+  ]
+}

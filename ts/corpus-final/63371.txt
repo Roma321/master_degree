@@ -1,0 +1,30 @@
+{
+  "text": "Президент ЕБРР Чарльз Франк выразил надежду , что в нынешнем году капиталовложения банка в новая экономики РФ удвоимся и достигнут 20 процентов от общей объема инвестиций ЕБРР Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "новую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "экономику"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "удвоятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "общего"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

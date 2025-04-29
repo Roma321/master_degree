@@ -1,0 +1,35 @@
+{
+  "text": "Как заявлю представитель силами KFOR в Македонии Андреас Рaйнекe , руководство американской группировки войска НАТО в Косово сожалею о проиcидущем , силами македонской и американсеой военной полиций проводится расследование .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "войск"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сожалеет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "проиcшедшем"
+    },
+    {
+      "correctReplacement": "американской",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

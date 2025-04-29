@@ -1,0 +1,30 @@
+{
+  "text": "Они обращающие внимание , что на их встрече с избирателями постоянно поднимающиеся вопросы о преждевременности введение моратория на смертную казнь , люди ткебуют более сурового наказания уля лиц , совершивших особо тяжкие преступления .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обращают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "введения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "поднимаются"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "требуют",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

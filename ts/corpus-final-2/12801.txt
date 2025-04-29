@@ -1,0 +1,20 @@
+{
+  "text": "Кроме этого , каждую член семьи долщен получить дополнительно 25 окладов военнослужащих .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "военнослужащего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "должен",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

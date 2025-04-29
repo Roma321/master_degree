@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня днем из-за неисправности тормозные системы произойду авария электрбпоезда на Ярославском вокзалу в Москве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "вокзале"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "произошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "тормозной"
+    },
+    {
+      "correctReplacement": "электропоезда",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

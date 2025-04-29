@@ -1,0 +1,30 @@
+{
+  "text": "В медицинском кабинете заключённым напал на странника , отниму у он оружие и вырвался на свободу Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заключенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "отнял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "него"
+    },
+    {
+      "correctReplacement": "охранника",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

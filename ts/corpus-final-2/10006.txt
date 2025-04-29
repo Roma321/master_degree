@@ -1,0 +1,30 @@
+{
+  "text": "Путине назвал процессы ближневосточного урегулированием очень сложным , но отмечу , \"что так близко к разрешению эттго вопроса мы не стояли еще никогда\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "процесс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "урегулирования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Путин"
+    },
+    {
+      "correctReplacement": "этого",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После убийства Новосёлова заседании суда , на котором предполагалось рассмотревшие злобность переноса выборов , было отложено .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "рассмотреть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Новоселова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заседание"
+    },
+    {
+      "correctReplacement": "законность",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

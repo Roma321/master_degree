@@ -1,0 +1,30 @@
+{
+  "text": "Венгрия намерены сохранённые безвизовый режим лишь для некоторых категорий российских граждан , в том числе для дипломатоф , а также лица , имеемых служебные паспорта , сообщает РИА \"Новости\" со ссылкой на дипломатические источники .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сохранить"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "имеющих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "лиц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "намерена"
+    },
+    {
+      "correctReplacement": "дипломатов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

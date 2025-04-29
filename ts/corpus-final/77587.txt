@@ -1,0 +1,25 @@
+{
+  "text": "В Генеральной прокуратуре отметим , что намерены опротестовать определение Московского заводского суда и подать апелляцию по этому вопросу в высшую судебную инстанции - Верховный сцд России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "отметили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "инстанцию"
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

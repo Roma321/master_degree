@@ -1,0 +1,25 @@
+{
+  "text": "Центризбирком РФ обнародовал сведения об имуществе и доходах кандидатов федеральным списка КПРЫ , зарегистрированной 14 октября , сообщаемый ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "федерального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "зарегистрированного"
+    },
+    {
+      "correctReplacement": "КПРФ",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На баскетбольной площадке парка , за сценой , на которой выступавшая устная группа , неизвестный открыла огни из полуавтоматического оружия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "выступала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "открыл"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "огонь"
+    },
+    {
+      "correctReplacement": "местная",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

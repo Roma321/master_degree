@@ -1,0 +1,20 @@
+{
+  "text": "Платежным агентом Мтнфина по обслуживанию еврооблигаций выступают Внешэкономбанк , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "выступает"
+    },
+    {
+      "correctReplacement": "Минфина",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

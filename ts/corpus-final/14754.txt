@@ -1,0 +1,20 @@
+{
+  "text": "Заподозрифшие , что в ней заложена бомба , полицейские подняли по тревоге специальные службе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Заподозрив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "службы"
+    },
+    {
+      "correctReplacement": "Заподозрившие",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

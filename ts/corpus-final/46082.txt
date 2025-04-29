@@ -1,0 +1,25 @@
+{
+  "text": "В Новгородской области продолжаются поиски четверых солдаты , 21 марта самовольно покинутых воинского часть , дислоцирующуюся в Тверского области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Тверской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "солдат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "покинувших"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "воинскую"
+    }
+  ]
+}

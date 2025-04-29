@@ -1,0 +1,25 @@
+{
+  "text": "По словам Латышева , этт высказываний - \"не что иная , дак подстрекательство к совершению уголовного преступления , за которое закон предусматривает ответственность в виде лишения свободы на срок до 5 лет\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "иное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "высказывания"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "эти",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

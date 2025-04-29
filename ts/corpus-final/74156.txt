@@ -1,0 +1,35 @@
+{
+  "text": "Как считаем специалисты , в случай , если бы взрывное устройстве сработало , пострадавшие бы не только те , кто нахожусь на дороге , нои жилой дома в окрестности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "пострадали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "устройство"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "жилые"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "случае"
+    }
+  ]
+}

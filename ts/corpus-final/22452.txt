@@ -1,0 +1,25 @@
+{
+  "text": "Регистрация кандидатов мог быть проведена ЦИКом в течение 10 дней после сдачи всех документов , в том числе сведений о доходов , имуществе и банковских счетах как самих кандидатов , так и их супруги и детей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "кандидата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "доходах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "супругов"
+    }
+  ]
+}

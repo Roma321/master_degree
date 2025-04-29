@@ -1,0 +1,20 @@
+{
+  "text": "Атаку по методу \"denial of service\" заключается в том , что на конкретный компьютер (чаще сервер , но при постоянном подключении через DSL это может быть и персональный компьютер) , посылается огромное число сообщений , ыто приводит к сбоям в работах системы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "работе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Атака"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

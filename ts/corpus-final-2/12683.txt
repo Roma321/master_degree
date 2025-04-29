@@ -1,0 +1,20 @@
+{
+  "text": "Согласно прогнозам министерства сельского хозяйства США , Россия произведет в 2000 году 34 миллиона бонн пшеницы и не сможет обеспечить собой зёрнами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "зерном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "себя"
+    },
+    {
+      "correctReplacement": "тонн",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

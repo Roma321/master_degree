@@ -1,0 +1,30 @@
+{
+  "text": "В целое сводного индекс деловой активности в Германии DAX вырос на 1 , 8 процента , во Франции CAC40 повысились на 1 , 53 пролёты , в Швейцарии SMI вырос на 0 , 36 процента , а в Великобритании FT-SE 100 вырасту на 1 , 19 процента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "повысился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 41,
+      "correctReplacement": "вырос"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "целом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сводный"
+    },
+    {
+      "correctReplacement": "процента",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

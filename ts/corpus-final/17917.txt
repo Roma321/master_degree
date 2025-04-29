@@ -1,0 +1,20 @@
+{
+  "text": "По совращению генеральных менеджера службы водоснабжения города Лэри Андерсона , компьютерная программе , которая использовалась для распечатки счетов , приняла год \"00\" за 1900-й .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "программа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "сообщению",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

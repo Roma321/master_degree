@@ -1,0 +1,20 @@
+{
+  "text": "Когда охранный остановило террориста , тот открыл огонь и бросил гранату , которую взорвалась в салоне .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "которая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "остановил"
+    },
+    {
+      "correctReplacement": "охранник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

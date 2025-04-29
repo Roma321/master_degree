@@ -1,0 +1,20 @@
+{
+  "text": "Только черрз несколько минут подоспела помощь , после чего гонщик в сопровождении медперсонала проследую в пункт скорой помощей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "проследовал"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

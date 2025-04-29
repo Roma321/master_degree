@@ -1,0 +1,20 @@
+{
+  "text": "Благодаря этой победе лионцы занятые второе место , оттеснив греков на третьи курочку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "заняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "третью"
+    },
+    {
+      "correctReplacement": "строчку",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

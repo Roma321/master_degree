@@ -1,0 +1,25 @@
+{
+  "text": "Торжествеоная награждение победителей пройдет 21 октября в Москва в Государственном центральных концертном зале \"Россия\" , сообщает HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "центральном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Торжественное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "Торжественная",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

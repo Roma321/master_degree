@@ -1,0 +1,25 @@
+{
+  "text": "Пока гипотезы сводятся к то , что на станции случился какие-то повреждения при посадке - она могла либт сильно пострадать от удара о поверхность , либо приземлиться на крутое склон кратера и скатиться с него вниз .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "крутой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "случились"
+    },
+    {
+      "correctReplacement": "либо",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Лидеры \"Кедра\" также сообщил , что формалист Григорий Пасько возглавляет региональный список и будет баллотироваться в депутаты Государственной Дум по Кунцевскому одномандатному округой города Москвой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "округу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Лидер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Думы"
+    },
+    {
+      "correctReplacement": "журналист",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

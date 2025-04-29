@@ -1,0 +1,35 @@
+{
+  "text": "В сообщении говорился , что Мельниченко обвиняются в клеветой в соответствии со утатуей 125 часть 3 УК Украины , а также в совершении государственного и других тяжких преступления .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "преступлений"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "обвиняется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "клевете"
+    },
+    {
+      "correctReplacement": "статьей",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "статуей",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

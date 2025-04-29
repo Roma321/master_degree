@@ -1,0 +1,20 @@
+{
+  "text": "При этом он назвавший рядом кандидатов на должностьспикера нижней палаты парламента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ряд"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

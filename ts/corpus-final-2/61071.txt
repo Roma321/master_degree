@@ -1,0 +1,25 @@
+{
+  "text": "Однако , с кем именно ведутся переговоров , Кадыров не уточнил , отметив только , что , возможно , кто-то из ставших на путь миру боевиков пошёл работать в администрацию республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "мира"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "пойдет"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

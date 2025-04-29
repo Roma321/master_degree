@@ -1,0 +1,30 @@
+{
+  "text": "В настоящих время разрабатывающийся маршрут выдвижения внутри девятых отсека , который , как было установлена в ходе предыдущих погружений , частично завален сорвавшимся с мест оборудованием и ящиками с запчастями .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "разрабатывается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "установлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "девятого"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В частность , комиссия будет рассматривать демографические проблемные и проблемы ихноса основных фондами , с которыми Россия , как ожидающийся , столкнется в 2003 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "фондов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "проблемы",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "износа",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

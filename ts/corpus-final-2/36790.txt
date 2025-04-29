@@ -1,0 +1,25 @@
+{
+  "text": "В связи с созданием миссии по вопросам использования систем магистральных нефтегазопроводов и нефтепродуктопроводов упразднены две межведомственные комиссии , занимающиеся ранее данными вопросах , передает РТА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "занимавшиеся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "вопросами"
+    },
+    {
+      "correctReplacement": "комиссии",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

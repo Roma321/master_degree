@@ -1,0 +1,30 @@
+{
+  "text": "В субботу в Гудермесе на совещании главок районных удминистраций и военных комендантов Чеченской республики был зачитавший приказе министра обороны о присвоении Бислану Гантамирову очередного воинского званий подполковник .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "зачитан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "звания"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "приказ"
+    },
+    {
+      "correctReplacement": "глав",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "администраций",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

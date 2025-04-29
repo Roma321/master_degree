@@ -1,0 +1,30 @@
+{
+  "text": "За последние годы Генпрокуратурой России было возбуждено более чем 150 уголовных дел по факты нарушения неприкосновенностей частных жизни граждан , нарушения тайны переписки , а также по фактам незаконной получения и разглашения сведений , составляемых государственнуютайну , сообщил Данилов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "неприкосновенности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "частной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "фактам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "составляющих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "незаконного"
+    }
+  ]
+}

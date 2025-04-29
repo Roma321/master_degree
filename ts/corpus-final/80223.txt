@@ -1,0 +1,20 @@
+{
+  "text": "Евгений Савенко не признал себя виновным и намерен обжаловафшие приговор .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "признает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обжаловать"
+    },
+    {
+      "correctReplacement": "обжаловавшие",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

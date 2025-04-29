@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее времепи пожар полностью ликвидирован , агентстве возобновило работу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "времени",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

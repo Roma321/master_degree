@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , выделяющая шахтерам немощь рассчитана на две года .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выделяемая"
+    },
+    {
+      "correctReplacement": "помощь",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

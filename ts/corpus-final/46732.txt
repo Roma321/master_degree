@@ -1,0 +1,35 @@
+{
+  "text": "Уних были обнаружены и изъяты изумруды весом более пятисоткарат , готовый они пытались продать за указанную выше сумму . По данные из других источников , в числе задержанныхоказался двое руководителей Международной академиибезопасности и бухгалтера одна из столичным фирм .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "задержанныхоказались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "бухгалтер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "столичных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На выборах депутата Госдумы , состоявшихся в Чечне в минувшая воскресенье , по количеству голосов лидируете два кандидата : президент Ассоциации работника правоохранительных органов России Асламбек Аслаханов и лидероп чеченского общественно-политического движения \"Человечность\" Адам Дениев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "работников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "лидер"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "минувшее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "лидируют"
+    },
+    {
+      "correctReplacement": "лидером",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

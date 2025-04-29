@@ -1,0 +1,30 @@
+{
+  "text": "Когда несчастным муж спросил полицейских , почему его не поставившие в известность о происходящей , ему ответили : \"Задержанная сразу во всем призналось , поэтому нам незачем было вызывать вас в суд в качестве звидетеля\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "поставили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "происходящем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "несчастный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "призналась"
+    },
+    {
+      "correctReplacement": "свидетеля\"",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

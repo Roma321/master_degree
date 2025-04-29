@@ -1,0 +1,25 @@
+{
+  "text": "Лидерам гонки объявляют о своего победе , проигравшие искали оправдания поражению , специалисты по избирательным технологиям ооценивают проделанную работу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лидеры"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "ищут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "оправданий"
+    }
+  ]
+}

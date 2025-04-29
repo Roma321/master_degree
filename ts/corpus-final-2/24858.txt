@@ -1,0 +1,30 @@
+{
+  "text": "Речью идет , в частности , о разработке эффективной механизмов короля за поступлением и использованием возможных дополнительных доходов федеральной бюджета на 2001 год .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "эффективного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Речь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "механизма"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "контроля",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В нем он предложила разделить всей ответственность за проводимую ргссийскому правительством политику в Чечне , в том числе и по проблеме беженцы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "российским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "всю"
+    },
+    {
+      "correctReplacement": "российскому",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

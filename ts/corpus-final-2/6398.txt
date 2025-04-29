@@ -1,0 +1,45 @@
+{
+  "text": "Кроме того , Щэнни Хаммертон из города Миннеолу , штату Флорида , зарегистрировавший эти сайты , предложило Jethro Tull выкупившие их за 13 тысяч долларов , поэтому суд смог применить соотвествуемый загон о киберсквоттерах , запрещающий регистрацию доменов с целью наживы на чужих торговых марок .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "соотвествующий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Миннеола"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "выкупить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "марках"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "штат"
+    },
+    {
+      "correctReplacement": "закон",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "Дэнни",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

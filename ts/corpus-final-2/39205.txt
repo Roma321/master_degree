@@ -1,0 +1,20 @@
+{
+  "text": "На место происшествий были найдены гильзы от патроноф калибром 9 миллиметров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "месте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "correctReplacement": "патронов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

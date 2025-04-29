@@ -1,0 +1,20 @@
+{
+  "text": "Однако Интернета , где встречаются ссылки на порнографический сайты (а главное - сами порнографические сайты , куба так легко попасть) , по их мнению , определенно выходит за рамки дозволенного .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "порнографические"
+    },
+    {
+      "correctReplacement": "куда",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

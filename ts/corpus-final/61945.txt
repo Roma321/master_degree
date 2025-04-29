@@ -1,0 +1,15 @@
+{
+  "text": "По данным Reuters , ежегодно от огнестрельных ранения в США погибающие около 600 детей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "погибают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "ранений"
+    }
+  ]
+}

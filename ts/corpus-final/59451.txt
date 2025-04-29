@@ -1,0 +1,20 @@
+{
+  "text": "4 тысячи милиционеров , прибывших в столица аз других регионах после взрывов в Печатниках и на Каширском шоссе , покинут Москву .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "регионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "столицу"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

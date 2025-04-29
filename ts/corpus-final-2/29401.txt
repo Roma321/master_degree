@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшнюю день первенство по посадке деревьев прочно удерживаешь Бразилия : весной 1976 года в Сан-Паулу за неделе было посадившее 24 тысячи 199 деревьев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "посажено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "удерживает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "неделю"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Водитель и пассажир во время падения поруоивший травмы , но сумели самостоятельно выбраться из утонувшего машины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "утонувшей"
+    },
+    {
+      "correctReplacement": "получил",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "порушивший",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

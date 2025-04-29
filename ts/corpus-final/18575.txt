@@ -1,0 +1,30 @@
+{
+  "text": "\"По сути дела , Ельцин и вся это предательское кликом осуществили гитлеровское \"план Барбаросса\" по разрушению нашей страны\" , они \"попрали волю 27 миллионов наших соотечественников , которые полегли за сохранение единства страны и ее независимость\" , утверждал Зюганов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "клика"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "гитлеровский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "предательская"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

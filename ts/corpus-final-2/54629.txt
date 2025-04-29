@@ -1,0 +1,30 @@
+{
+  "text": "Это увеличение , благодаря которому каждый солдатами получаю бы на 14 долларах больше , обошлась бы правительству более чем в 20 миллионов доллароф ежегодно .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "получал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "обошлось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "солдат"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

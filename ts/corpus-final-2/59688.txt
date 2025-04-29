@@ -1,0 +1,35 @@
+{
+  "text": "Губернатор заявил , что оо прекращает всяческие работы в свою резиденции , проводимые заключенными . �т предусматривающий изъятие у прокуратуры функции надзора и следственную функции , чтобы прокуратура сосредоточилась на поддержании обнищания в уголовных процессе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "предусматривает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "следственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "процессах"
+    },
+    {
+      "correctReplacement": "обвинения",
+      "type": "paronym",
+      "wordNumber": 31
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

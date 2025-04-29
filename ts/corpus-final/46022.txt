@@ -1,0 +1,20 @@
+{
+  "text": "Центризбирком РФ объявил об открытии сайта www . izbircom . ru , где будут публиковаться официальные данных о ходе выбороф президента России , передавал РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "данные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

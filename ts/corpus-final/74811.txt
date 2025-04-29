@@ -1,0 +1,20 @@
+{
+  "text": "Проект Rambler . De предоставляю своим посетителям весь набор сервисов российской Rambler : поиск с широким спектром пристроек , рейтинг Топ100 , новости , развлечения , справочную информацию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "российского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "предоставляет"
+    },
+    {
+      "correctReplacement": "настроек",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

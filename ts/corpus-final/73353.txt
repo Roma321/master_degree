@@ -1,0 +1,20 @@
+{
+  "text": "Они выстрелили имаму двумя раза в голову и зва раза в усердие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "сердце",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "два",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

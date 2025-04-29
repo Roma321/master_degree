@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время в 22 областях Украины без электроэнергии остающийся 2051 населённое пункт , выведем из строя 5972 трансформаторные подстанции , из-за отсутствия электроэнергии не работают 1302 АТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "населенный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "выведены"
+    },
+    {
+      "correctReplacement": "АТС",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

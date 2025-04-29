@@ -1,0 +1,25 @@
+{
+  "text": "В субботу здание московского мэрии на Тверской и здсние Московской городская избирательной комиссии были проверим кинологами с собаками .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "московской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "проверены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "городской"
+    },
+    {
+      "correctReplacement": "здание",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

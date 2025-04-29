@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас сотрудники отдела по борьбе с незаконным оборот наркотиков УВТ Томскую области выясняют , кто поставлял старушке дурман .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "оборотом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Томской"
+    },
+    {
+      "correctReplacement": "УВД",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

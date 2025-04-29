@@ -1,0 +1,30 @@
+{
+  "text": "Расследованием дела Гусинского по-прежнему руковожу старшой следователь по особо важным делам Валерий Николаев , заявлю журнплистам начальник Управления по расследованию особо важного дел Генпрокуратуры России Владимир Лысейко .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "важных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "руководит"
+    },
+    {
+      "correctReplacement": "старший",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

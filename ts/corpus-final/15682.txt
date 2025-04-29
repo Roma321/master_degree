@@ -1,0 +1,20 @@
+{
+  "text": "По поведения Минобороны , во время выполнения боевой вылета на борту фронтового штурмовика СУ-25 произошла неисправности .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "неисправность"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "боевого"
+    },
+    {
+      "correctReplacement": "сведениям",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

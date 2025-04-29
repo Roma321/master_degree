@@ -1,0 +1,25 @@
+{
+  "text": "Он сообщило , что 30 мая подписал приказ о создании единых вартикали по борьбе с организованного преступностью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "единой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "вертикали",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

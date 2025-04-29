@@ -1,0 +1,25 @@
+{
+  "text": "Совет Федерации приняла обращение к президиуму Владимиру Путину с просьбами ввести указом минимальное размер оплаты труда (МРОТ) в 132 рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "минимальный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "correctReplacement": "президенту",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

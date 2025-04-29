@@ -1,0 +1,20 @@
+{
+  "text": "Они , в частности , касаемся искового заявления , которое , по мнению представители оиветчика , было \"ненадлежащем образом оформлено\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "касались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "представителей"
+    },
+    {
+      "correctReplacement": "ответчика",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

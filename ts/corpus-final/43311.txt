@@ -1,0 +1,25 @@
+{
+  "text": "Там же было найдено около шести тонн компонентов взрывчатого смеси , идентичной той , с помощью которой планировалось взорвавшие жилого дом на улице Борисовские пруды в Москве и еще несколько домов в других российских городах Х",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "жилой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "взорвать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "взрывчатой"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

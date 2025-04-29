@@ -1,0 +1,20 @@
+{
+  "text": "Из нормированной запаса Федеральных Фонда Обязательного медицинского страхования делённое 5 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нормированного"
+    },
+    {
+      "correctReplacement": "выделено",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

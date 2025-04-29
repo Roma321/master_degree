@@ -1,0 +1,25 @@
+{
+  "text": "49 человек осуждён на 13 лет лишения свободы , 51 - на 12 лет , 20 албанцев приговорён к десяти годам тюремпого заключения , 11 членов ОАК волочившие по девять лет и десять человек проведут в тюрьме семь лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "осуждены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "приговорены"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "тюремного",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

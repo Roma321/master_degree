@@ -1,0 +1,20 @@
+{
+  "text": "Известной фирмы Benetton , крупный производитель одежды , присоединилась к кампании противу смертной казни .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "фирма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Известная"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

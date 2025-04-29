@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в обмен на подневольные признание суд не стал предъявлять ему два других обвинения - в хранении детской порнографии и развращении несовершеннолетних через Интернет , сообщаешь ZDNet News .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "добровольное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "добровольные",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

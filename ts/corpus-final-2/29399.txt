@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас все население страны с подарков премьер-министра сажающий по 100 тысяч деревьеф в минуту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "подачи"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сажает"
+    },
+    {
+      "correctReplacement": "подач",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "деревьев",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

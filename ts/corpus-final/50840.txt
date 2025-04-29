@@ -1,0 +1,25 @@
+{
+  "text": "На этой же подлодкой , находившейся в погрузившем состояним , Путин провел предыдущая ночь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "предыдущую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "подлодке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "погруженном"
+    },
+    {
+      "correctReplacement": "состоянии",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

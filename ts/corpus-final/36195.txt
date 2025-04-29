@@ -1,0 +1,30 @@
+{
+  "text": "По сведениям из дипломатических источников , одна из основного целей нынешнего визита Кука в Россией - лично познакомиться с Пугиным , а такое изучить на месте политическую ситуацию в странах накануне президентских выборов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "основных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Россию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "стране"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "Путиным",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

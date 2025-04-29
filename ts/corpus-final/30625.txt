@@ -1,0 +1,25 @@
+{
+  "text": "Президента США Билл Клинтон присутствовал на митинге , где его супруга объявифшая о своем решении , но не выступали .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "выступал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Президент"
+    },
+    {
+      "correctReplacement": "объявившая",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

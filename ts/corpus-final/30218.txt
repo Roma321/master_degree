@@ -1,0 +1,30 @@
+{
+  "text": "В систем сетевой торговли имеется серьёзная \"дыра\" , которая позволяет хакеров не просто ломать web-сайты , но и извлекать из взломов пользу - например , делать себе скидки при покупке поваров через Интернету .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "хакерам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "серьезная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "системах"
+    },
+    {
+      "correctReplacement": "товаров",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

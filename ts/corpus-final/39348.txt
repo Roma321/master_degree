@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителей следственная службы , в понеделькус 35-летнего жительнице Подмосковья Татьяне Нехорошевой будет предъявившее обвинение по статьи 205 УК РФ (терроризм) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "следственной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "35-летней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "статье"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

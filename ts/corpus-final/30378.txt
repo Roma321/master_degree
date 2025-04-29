@@ -1,0 +1,30 @@
+{
+  "text": "В 5 : 22 в четверги , после многоязычного запросов по радио , на которые экипаж судна не отвечал , с самолета были сделаем предупредительные выстрел .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "многократных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "сделаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "выстрелы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "многократного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На место происшествий выедем руководители правоохранительных орланов республикой во главе с одним из заместителей министра внутренних дел Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "выехали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "республики"
+    },
+    {
+      "correctReplacement": "органов",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

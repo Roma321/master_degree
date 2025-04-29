@@ -1,0 +1,20 @@
+{
+  "text": "Рассматривались два вариантов - в Баку мли в Стамбуле .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "варианта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Рассматриваются"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

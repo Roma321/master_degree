@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечаешь BBC , эти выборы должны изменившие мажоритарную систему управления страной , установленную покойной президентом Туджманом .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "покойным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "изменить"
+    },
+    {
+      "correctReplacement": "авторитарную",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

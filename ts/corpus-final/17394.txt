@@ -1,0 +1,25 @@
+{
+  "text": "Напомним , что в ноябре корпорация Microsoft предъявила Yadu Technology Group иск , обвиняв китайских компанию в использовании на офисных компьютерах пиратского программной обеспечения , ц том числе Microsoft Office и Windows .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "программного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "китайскую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "обвиняя"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

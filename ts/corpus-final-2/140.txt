@@ -1,0 +1,30 @@
+{
+  "text": "Напомненные , что основанием для ходатайства послужила , по словам адвоката Павла Астахова , \"предвзятое ведение следователем дела Александровым , предъявление обвинения заведомо невиновному лицам , понуждение к даче показаний и превышение должностей полномочий\" . огибли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "лицу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Александрова"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "послужило"
+    },
+    {
+      "correctReplacement": "должностных",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам спикера , депутат , в частности , обвинявшийся в том , что является гражданином России , не имеет украинского гражданств и , следовательно , не может быть депутатом Верховный сонета Крыма , \"что не соответствует действительности\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "гражданства"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обвинялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Верховного"
+    },
+    {
+      "correctReplacement": "Совета",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

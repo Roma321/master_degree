@@ -1,0 +1,20 @@
+{
+  "text": "Изначально сеть спутниковая связи , созданная компанией Iridium и включавшая в себя коло 70 спутника , обошлась в пять миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "спутниковой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "спутников"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

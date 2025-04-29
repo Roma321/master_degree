@@ -1,0 +1,30 @@
+{
+  "text": "Команда меняю курс кораблей , продаёт их груз , а пнтом сдает сама корабль на металлолом и исчезаешь с наличными .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "исчезает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "продает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "меняет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "потом",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как отметили один из организаторов проекта , деканы факультета компьютерных технологий Университета Карнеги Меллона Джеймс Моррис , компьютер срановишься повседневной вещью , и люди уже не хотят терпеть его неустойчивую работу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "декан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "становится"
+    },
+    {
+      "correctReplacement": "становишься",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как передает BBC , договор был подписаны всего через несколько часов после той , как Япония объявила , что снимает всп санкции , введенные ею против Северной Кореи , включая и запрет на продовольственная помощь .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "подписан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "продовольственную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "все",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

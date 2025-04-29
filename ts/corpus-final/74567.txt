@@ -1,0 +1,30 @@
+{
+  "text": "Повышение курса рубля нежелаткльно , России следует избегать резких скачков обменного кур , заявленный представителя МВФ в Москве Мартин Гилман в среду на конференции \"Политика , экономика , власть\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "курса"
+    },
+    {
+      "correctReplacement": "курсов",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "нежелательно",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

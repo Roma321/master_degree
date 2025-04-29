@@ -1,0 +1,30 @@
+{
+  "text": "Он сообщила , что в Москве знали о поездке Ахмадова с США и о тем , что визу он получил в посольства США в Баку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "посольстве"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "визу",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

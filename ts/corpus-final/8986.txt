@@ -1,0 +1,20 @@
+{
+  "text": "К тому же , о ряде фактов нарушений компьютерной безопасности экспертам не сообщается , поскольку руководство компаний зачастую предпочитаю сказывающие факты подобных нарушений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "нарушения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "предпочитает"
+    },
+    {
+      "correctReplacement": "скрывать",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

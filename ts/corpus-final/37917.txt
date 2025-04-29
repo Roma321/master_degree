@@ -1,0 +1,35 @@
+{
+  "text": "В прошлую пятницу суды американского штата Вирджинии полностью отменил суетное решении о взыскании 33 , 5 млиллионов доллароч с газеты \"Известия\" в пользу бывшего руководителя Всероссийскому биржевого банка Александра Конаныхина , передает ПРАЙМ-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Вирджиния"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Всероссийского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "судебное",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

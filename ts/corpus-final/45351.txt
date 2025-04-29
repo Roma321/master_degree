@@ -1,0 +1,20 @@
+{
+  "text": "Полностью парализованной оказалась самая загруженная - северная - ветка лондонских метро , которой ежедневно пользуется более полумиллиона пассажиров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пользуются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "лондонского"
+    },
+    {
+      "correctReplacement": "которым",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

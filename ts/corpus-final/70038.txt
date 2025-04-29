@@ -1,0 +1,40 @@
+{
+  "text": "Как заявлю на пленарном заседании нижнец палаты парламента председатель думского бюджетной комитета Александр Жуков , монумент будет рассмотрю в третьем , окончательном , чтениях в конце июнь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "чтении"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "рассмотрен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "бюджетного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "документ",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "нижней",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

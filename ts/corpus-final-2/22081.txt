@@ -1,0 +1,20 @@
+{
+  "text": "Самого громкого успеха в своего спортивной карьере доучилась российская теннисистка Елену Дементьева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Елена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "добилась",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В результату дракм пятеро рабочих получили ножевые ранения различного степени тяжести .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "различной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "драки",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

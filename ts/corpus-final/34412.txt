@@ -1,0 +1,25 @@
+{
+  "text": "В обращении отмечаюсь , что сейчас производства алюминиев \"чрезвычайно рентабельно\" : при себестоимости в 1100 коллажей за тонну , его цена на международных рынках доходит до 1700 долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "алюминия"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "производство"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

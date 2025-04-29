@@ -1,0 +1,25 @@
+{
+  "text": "Глава МВД России Владимир Рушайло приму отставку оачальника Главного управления внутренних демые Ставропольского края генерал-лейтенанта милиции Александра Волкодава .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "начальника",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

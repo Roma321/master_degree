@@ -1,0 +1,25 @@
+{
+  "text": "Срези них много известных ученых , литературных переводчиками , журналистов и политиков , в той числе - министр иностранцев дел России Игорь Иванов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "переводчиков"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "Среди",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

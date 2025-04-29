@@ -1,0 +1,25 @@
+{
+  "text": "Толедо обвинил Фухимори в подтасофках и проведении репрессивной и диктаторской политики и призвало армию вставшие на сторону наряда .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "призвал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "встать"
+    },
+    {
+      "correctReplacement": "народа",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "подтасовках",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Их претензии сводились к тому , что данному вопроса якобы нельзя рассматривать , постольку на эту должность предсравлю только одна кандидатура .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "представлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "данный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "представлю",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

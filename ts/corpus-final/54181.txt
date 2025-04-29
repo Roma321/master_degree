@@ -1,0 +1,25 @@
+{
+  "text": "По мнениям Андрея Андреева , руководителя протеста SpyLOG , \"сотрудничество открывает широкие возможностью в наших исследованиях , связанных со сбором и анализом статистических данных о русскоязычном секторе Интернет и ено аудитории . \"",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "возможности"
+    },
+    {
+      "correctReplacement": "проекта",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

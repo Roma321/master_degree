@@ -1,0 +1,25 @@
+{
+  "text": "Вскоре после появлений налетчиковв приемной смс на пульт дежурных по городу поступила анонимное сообщение об инциденте .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "появления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "дежурного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "поступило"
+    },
+    {
+      "correctReplacement": "СПС",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

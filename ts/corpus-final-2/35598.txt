@@ -1,0 +1,35 @@
+{
+  "text": "Между тем британского Bank of England заявил , что ни он , ни министерздво финансов Великобритании не стали участвовать в коллективного поддержки евро , сообщал информационная служба немецком журнала Spiegel .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "британский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "коллективной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "немецкого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "поддержке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "министерство",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

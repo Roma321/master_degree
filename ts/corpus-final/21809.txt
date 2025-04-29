@@ -1,0 +1,30 @@
+{
+  "text": "Однако в связи с тем , что президент уходит досрочно по новому закону о выборах , президент может своим указ назначенные дату досрочных выборов , моторный должны пройденные не позже , чем через три месяца с момента его отставка .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "пройти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "назначить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "отставки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "указом"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

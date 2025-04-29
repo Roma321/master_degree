@@ -1,0 +1,30 @@
+{
+  "text": "Наибольший количество людей , подозреваемых в организации терактов , задержано 19 июля в Туле , Нижнем Новгороде р Московских области , сообщивший РИА \"Новости\" источник в правоохранителей органах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Наибольшее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "правоохранительных",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

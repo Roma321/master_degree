@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник , 3 октябре в 9 . 30 по московское времени в Петербурге был расстрелян из пистолетов руководитель фирм \"Интеркосметика\" , сообщили РИА \"Новости\" в городской прокуратурах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "прокуратуре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "фирмы"
+    }
+  ]
+}

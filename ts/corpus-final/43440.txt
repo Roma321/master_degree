@@ -1,0 +1,25 @@
+{
+  "text": "В четверг в Мосуве в район дома номера 12 по улице Исаковского (в районе Химок) в асфальтовом покрытии автодороги образовались провал размером 3 , 5 метра на 5 метров и глубиной 3 метра , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "номер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "образовался"
+    },
+    {
+      "correctReplacement": "Москве",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

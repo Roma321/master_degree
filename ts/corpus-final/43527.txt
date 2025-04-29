@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на усилья Шакила О'нилов , набравшего 40 очкам и ставшего самым результативным игрок встречи , \"Лос-Анджелес\" уступил - 102 : 109 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "игроком"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "очков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "О'Нила"
+    },
+    {
+      "correctReplacement": "усилия",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

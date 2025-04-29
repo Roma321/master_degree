@@ -1,0 +1,20 @@
+{
+  "text": "На рынке \"Садовод\" планируется проводить ежегодные российский голубиными фестивали и петушиные бои , сообщил \"Эху Москвы\" генеральный директор рынка Валерий Плиев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Всероссийские"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "голубиные"
+    },
+    {
+      "correctReplacement": "Всероссийский",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

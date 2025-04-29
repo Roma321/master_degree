@@ -1,0 +1,30 @@
+{
+  "text": "В интервью французский телевидению Ширак назвавший выдвинем газетой обливания \"ложью , основанной на абракадагре\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "французскому"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "выдвинутые"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "назвал"
+    },
+    {
+      "correctReplacement": "обвинения",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "абракадабре\"",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

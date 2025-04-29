@@ -1,0 +1,25 @@
+{
+  "text": "Такая решение было принято в понедельник на закрытом заседании фракции ОВР , которое проше.шее в Колонном зале домна Союзов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Такое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "прошло"
+    },
+    {
+      "correctReplacement": "Дома",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "прошедшее",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

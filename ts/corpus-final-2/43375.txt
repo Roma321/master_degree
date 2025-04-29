@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , суд приобщил к делу материалы судебной проверок состояния здоровья Поупа : копии истории болезни , медицинского карты и журналов операций по удаление раковых опухолей , проведенных в саши 1987 и 1994 годах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "медицинской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "удалению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "проверки"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

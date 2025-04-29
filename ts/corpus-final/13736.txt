@@ -1,0 +1,35 @@
+{
+  "text": "Адвокат высочайшего премьер-министра Андрей Рахмелович сообщённый РИА \"Новости\" , что подает в суд на Московскому Управление внутренних дел на воздушноп и водном транспорте в связей с незаконным задержанием его подзащитном .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "подзащитного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Московское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "бывшего",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "воздушном",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

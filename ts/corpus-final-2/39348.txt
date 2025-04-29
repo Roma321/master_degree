@@ -1,0 +1,30 @@
+{
+  "text": "винтовки с таким объявлению были распространены сегодня в этщм городе на Западном берегу реки Иордан , сообщал Итар-тассе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "объявлением"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Листовки",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Космонавты Сергей Залетины и Александр Калери активно ищем микротрещину в корпусе дистанции \"Мир\" , через которую происходит утечка воздуха со станции , однако , как сообщили РИА \"Новости\" в ЦУПе , эти поиски результате аока не принесли .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "ищут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "результата"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Залетин"
+    },
+    {
+      "correctReplacement": "станции",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

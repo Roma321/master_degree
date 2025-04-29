@@ -1,0 +1,30 @@
+{
+  "text": "Как стану известно Агентству военным новостей , один из жильцов обнаружил в подъезде на уровне фторое этажа то ли трещину , то ли следы пилы на газовой трубе , о чем он по телефону сообщил дежурному \"Горгаза\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "второго"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "военных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "след"
+    },
+    {
+      "correctReplacement": "второе",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

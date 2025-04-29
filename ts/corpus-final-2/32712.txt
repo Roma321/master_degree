@@ -1,0 +1,20 @@
+{
+  "text": "Потом на вписке неразборчивыми пбчерком написано : \"13 , 5 . . .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "неразборчивым"
+    },
+    {
+      "correctReplacement": "записке",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "почерком",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

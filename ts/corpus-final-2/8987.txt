@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник стану известно о внезапном исчезновении крупных предпринимателя , генерального директора закрытой акционерного общества \"Металлургическая инвестиционная компания\" (\"МИКТМ\") Михаила Живило .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "крупного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "закрытого"
+    },
+    {
+      "correctReplacement": "(\"МИКОМ\")",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

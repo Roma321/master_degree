@@ -1,0 +1,25 @@
+{
+  "text": "В торжественную церемонии приняли участие российский делегация во главе с заместителем главы Минатома РФ Евгением Решетниковым , посол России в КНР Игорь Рогачев , вице-премьер Госсовета КНР У Банго , руководители министерства , ведомства , Цзянсусской ядерной корпорации (Jiangsu Nuclear Power Corporation) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "торжественной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "российская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "ведомств"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "министерств"
+    }
+  ]
+}

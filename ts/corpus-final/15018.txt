@@ -1,0 +1,25 @@
+{
+  "text": "А в минувший вторник в Москве был задержан некий граждане , который передал ложное сообщение о заминировании Казанского вокзала только для того , чтобы продемонстрировать своей перепуганных взрывы матери , что милиция в столице работающий оперативно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "работает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "гражданин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "взрывами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "перепуганной"
+    }
+  ]
+}

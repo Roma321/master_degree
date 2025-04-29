@@ -1,0 +1,25 @@
+{
+  "text": "Клиентов также привлекаемый полный анонимность в работе специалистов , с которыми можно связаться только по телефону али факсам - а теперь еще и через Интернет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "полная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "факсу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "привлекает"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

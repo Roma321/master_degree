@@ -1,0 +1,20 @@
+{
+  "text": "Он сказал , что этой практике , фключая аудиторские проверки , будет продолжаться и впредь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "практика"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "эта"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

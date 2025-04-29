@@ -1,0 +1,30 @@
+{
+  "text": "В дни президентских мыборов в США было отмечу значительное повышение интереса американского населения к данным , доступного в Интернет , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "доступным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "отмечено"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

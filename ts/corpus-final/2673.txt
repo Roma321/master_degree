@@ -1,0 +1,20 @@
+{
+  "text": "Он уверял Конгресс СШК , что открытия фирмы тоже будут распространились свободно и бесплатно , но теперь собираются запатентовать более 6000 документов с информацией о генах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "распространятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "собирается"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

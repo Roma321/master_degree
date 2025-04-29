@@ -1,0 +1,25 @@
+{
+  "text": "Сильный взрыв прогремевший в субботу в 13 . 30 по местному времени в частном гаражном комплексе в центу Уфе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "прогремел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Уфы"
+    },
+    {
+      "correctReplacement": "центру",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

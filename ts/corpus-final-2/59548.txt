@@ -1,0 +1,25 @@
+{
+  "text": "По официальнон сообщению Генпрокуратуры , целью обыска было изъятие документов , касающихся оценки рыночного стоимостью ЗАО \"Медиа-Мост\" , проведенной ЗАО \"Международный центр оценки\" в 1998-2000 годах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "рыночной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "официальному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "стоимости"
+    },
+    {
+      "correctReplacement": "официальное",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

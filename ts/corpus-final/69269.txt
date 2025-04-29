@@ -1,0 +1,30 @@
+{
+  "text": "В процессах допросов выяснилось , что некий алжирец подложил на путь кусок лежащего рельсов , что и спровоцирую аварию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пути"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "спровоцировало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "рельса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "процессе"
+    },
+    {
+      "correctReplacement": "сломанного",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

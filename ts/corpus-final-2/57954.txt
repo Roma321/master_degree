@@ -1,0 +1,20 @@
+{
+  "text": "Таксину прочащие победу на выборах премьер-министра тайланда Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "прочат"
+    },
+    {
+      "correctReplacement": "Таиланда",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

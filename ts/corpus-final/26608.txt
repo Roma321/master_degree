@@ -1,0 +1,20 @@
+{
+  "text": "Пока неясно , передают CNN , виноваты ли в происшествиях поганые условия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "происшествии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "погодные",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

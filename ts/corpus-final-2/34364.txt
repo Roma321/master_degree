@@ -1,0 +1,25 @@
+{
+  "text": "Представитель министерства обороны заявлю во вторник , что вооруженные силы сны в Персидским заливе перевёдшие в \"состояние угрозы \"Дельта\" , высшую степень готовности в войсках США , в связи с угрозой терактов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "переведены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Персидском"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

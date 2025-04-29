@@ -1,0 +1,20 @@
+{
+  "text": "Причиной пожара стала автомобильной авария , произошедшая два дня назад на автодорогам недалеко от города Хэнфорд , когда машина врезалась в стоявший на тротуаре тягачи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "автомобильная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "тягач"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "автодороге"
+    }
+  ]
+}

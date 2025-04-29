@@ -1,0 +1,25 @@
+{
+  "text": "Miramax ведёшь активные переговоры с несколькими коммерческими компаниями , в том числе с Gaylord Entertainment , о возможном спонсорском своей 12-миллионного проектк .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "ведет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "своего"
+    },
+    {
+      "correctReplacement": "спонсорстве",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "проекта",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

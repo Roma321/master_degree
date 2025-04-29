@@ -1,0 +1,25 @@
+{
+  "text": "Автомобиль Mercedes с дипломатическими номером , принадлежащее посольству КНДР , выехал на полосу встречного движение и столкнулись с грузовым автомобилем МАЗ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "столкнулся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "номерами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "движения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "принадлежащий"
+    }
+  ]
+}

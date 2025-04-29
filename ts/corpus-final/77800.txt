@@ -1,0 +1,20 @@
+{
+  "text": "В четверг суд Нью-Джерси вынес приговор подростку , который признал себя виновным в том , что распечатал фальшивые 20-долларовые купюры со своего домашней компьютера , сообщал Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "домашнего"
+    },
+    {
+      "correctReplacement": "домашней",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

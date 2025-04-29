@@ -1,0 +1,20 @@
+{
+  "text": "Те , кто уже получил единовременных выплату ф честь праздника Победы в соответствии с ранее вышедшей указом от 25 февраля 2000 года , ничего не получат .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "вышедшим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "единовременную"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

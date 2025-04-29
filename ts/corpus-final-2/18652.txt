@@ -1,0 +1,25 @@
+{
+  "text": "В самолете , следующем по маршруту Нью-Йорк - ланкастеры (Великобритания) - Карачи (Пакистан) , кроме Мушарраф , было еще 120 пассажиров , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "следовавшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Мушаррафа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Манчестер"
+    },
+    {
+      "correctReplacement": "Манчестеры",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

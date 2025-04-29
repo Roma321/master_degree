@@ -1,0 +1,25 @@
+{
+  "text": "С 16 января 2000 года будут отменены все действующий таможенные льготы при ввозе легковых автомобилей , кроме тех , что распространяются на беженцев , вынужденных переселенцев и лиц , пересыпанных в Россию на постоянное место жительств .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "переезжающих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "действующие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "жительства"
+    },
+    {
+      "correctReplacement": "переезжаемых",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

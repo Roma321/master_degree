@@ -1,0 +1,30 @@
+{
+  "text": "По мнению Мосгоризбиркома , редакция газеты самовольно искажал данные , предоставлявшие ей избиратальной комиссией , а также нарушавшая порядок агитаций участниками предвыборной компании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "предоставляемые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "искажала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "нарушала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "участников"
+    },
+    {
+      "correctReplacement": "избирательной",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

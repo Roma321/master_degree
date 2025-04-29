@@ -1,0 +1,20 @@
+{
+  "text": "Они выразившие готовность ежегодно покупать у республики до 100 тысячи тонн концентратора .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "выразили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "концентрата",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

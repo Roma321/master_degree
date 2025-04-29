@@ -1,0 +1,20 @@
+{
+  "text": "Однако некоторые компоненты этим аппарата лже испытываемся : семнадцати пациентам к сетчатке подключали электроды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "испытывались"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

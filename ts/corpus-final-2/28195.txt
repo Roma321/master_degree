@@ -1,0 +1,20 @@
+{
+  "text": "Он заявил , что алиции доподлинно известно , кто помог заключённых бежать и скрываться от правоохранительного органов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "заключенным"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам истца , он приобрел автомобилист за два дня до составления им сведений , но не указал его по того причине , что машины на тот момент не была зарегистрировавшая на его имена в ГИБДД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "машина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "имя"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "зарегистрирована"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "той"
+    },
+    {
+      "correctReplacement": "автомобиль",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

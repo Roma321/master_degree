@@ -1,0 +1,25 @@
+{
+  "text": "По действующему сейчас Кодексу гражданин имеют право требовать консультации с адвокатом только после того , как против него выдвинуто обвинение и им арестовавший , а не когда он задержавший в административном порядке .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "имеет"
+    }
+  ]
+}

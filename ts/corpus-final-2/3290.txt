@@ -1,0 +1,25 @@
+{
+  "text": "Как отметили в аппарате Ястржембского , в последнее время боевики сменившие тактику : теперь они нападают не на волонны федерального силам , а на отдельные автомобили комендатур , райотделов милиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сменили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "correctReplacement": "колонны",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

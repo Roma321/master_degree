@@ -1,0 +1,35 @@
+{
+  "text": "На совещании были предложим конкретные меры по стабилизацией обстановки , в первый очередь , в Шалей , а также меры по недопущению в дальнейшем осложнения положения в населённых пунктах , находящихся под контролёром федеральных сил .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "стабилизации"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "первую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Шали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "предложены"
+    },
+    {
+      "correctReplacement": "контролем",
+      "type": "paronym",
+      "wordNumber": 32
+    }
+  ]
+}

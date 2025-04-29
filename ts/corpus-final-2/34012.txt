@@ -1,0 +1,20 @@
+{
+  "text": "Сафин занимающий пока второе место , Кафельников - мятая .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "пятое"
+    },
+    {
+      "correctReplacement": "пятая",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

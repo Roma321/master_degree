@@ -1,0 +1,25 @@
+{
+  "text": "Штудниц сказало , что Россия - богатой страна , ее золотовалютные запасы достигаете 28 миллиардов долларов по сравнению с 12 миллиардами долларов годы назад .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "достигают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "богатая"
+    }
+  ]
+}

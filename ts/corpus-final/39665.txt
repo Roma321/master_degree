@@ -1,0 +1,25 @@
+{
+  "text": "ЦИК в эти выходной изучает информацию о незадекларировавшей недвижимости кандидатов в президенты РФ - Владимира Путина и Амана Тулеева , сообщённая дистанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "незадекларированной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выходные"
+    },
+    {
+      "correctReplacement": "радиостанция",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

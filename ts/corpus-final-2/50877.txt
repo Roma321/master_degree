@@ -1,0 +1,25 @@
+{
+  "text": "В Москве в микрорайоне Косино по адресу улица Чепное озеро , дом 9 , произошел пожар в трехкомнатной квартире на 14 этаже , в результате которого погибла 16-летние девушка , сообщаемый собственный респондент Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "16-летняя"
+    },
+    {
+      "correctReplacement": "корреспондент",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "Черное",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

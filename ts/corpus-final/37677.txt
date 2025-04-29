@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщающий AP , с 1998 года ООН одобрила закупки запчасти для нефтяной промышленности Ирака на общее сумму в 1 , 2 миллиарда долларов , между тем сам Ирак утвержаемый , что получивший оборудования только на 186 мильонов долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "утвержает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "общую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "запчастей"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 37
+    }
+  ]
+}

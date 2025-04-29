@@ -1,0 +1,25 @@
+{
+  "text": "Ари это ему было так плохо , что он не смог сами выбраться из льдины и пришлось прибегнуть к помощи спасающих .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "спасателей",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "При",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

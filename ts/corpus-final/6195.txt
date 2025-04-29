@@ -1,0 +1,30 @@
+{
+  "text": "Как заявивший Агваном Овсепян , тот факт , что теракт был осуществлю под руководством депутата Национального Собрания Мовсесяна , основывающийся на показаниях руководителя агриппы террористов Наири Унаняна , который подтвердил их на очной ставке с Мовсесяном .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "осуществлен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "основывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Агван"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Казьмин рассказали также од улучшениях качества обслуживания клиентов , о чем говорится в принятой акционерами \"Концепции развитию Сбербанка РФ до 2005 года\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "улучшении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "развития"
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

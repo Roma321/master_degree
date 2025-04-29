@@ -1,0 +1,25 @@
+{
+  "text": "Cтоимость карточкам составленный 15 рублей , ее будет выдавать государственное унитарные претприятие \"МТПК \"Мосрегионторг\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "карточки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "унитарное"
+    },
+    {
+      "correctReplacement": "предприятие",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Федеральной пограничная служба России заявляю об отсутствии российского следа в инциденте , произойду в смязи с нелегальными мигрантами из Китая в британской порту Дувр .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "произошедшем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "британском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Федеральная"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

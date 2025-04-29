@@ -1,0 +1,25 @@
+{
+  "text": "На состоявшейся в Москве 27 сентября пресс-конференции было объявившее , что кампания \"Сибнефть\" и Борис Березовский стали спонсорами благотворительного миссий в России , получившей название \"летающий госпиталь\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "объявлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "миссии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "благотворительной"
+    },
+    {
+      "correctReplacement": "компания",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

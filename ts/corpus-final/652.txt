@@ -1,0 +1,30 @@
+{
+  "text": "Россия вместо с США и другими государствами участвовали в разработках договора о запрещении ядерного испытаний и Москва уверено , что договор надо ратифицировать .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ядерных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "разработке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "уверена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "участвовала"
+    },
+    {
+      "correctReplacement": "вместе",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

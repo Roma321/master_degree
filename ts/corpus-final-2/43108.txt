@@ -1,0 +1,30 @@
+{
+  "text": "Поскольку не идущий речи о нанесению большого вреда , обитаемому грозит максимум год тюремного заключении или штраф в размере 30 тысячами иен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "нанесении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "заключения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "обвиняемому",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Перед голосованием две фракции - НДР и \"Яблоко\" -объявили , что будут голосовать против данных поправок . Депутатская группе \"Российские регпоны\" сообщила , что частьдепутатах их группы будет голосовать \"за\" , части \"против\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "группа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "часть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "частьдепутатов"
+    },
+    {
+      "correctReplacement": "регионы\"",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

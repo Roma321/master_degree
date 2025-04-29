@@ -1,0 +1,30 @@
+{
+  "text": "Российская сторона считаешь , что сумма задолженности Украины за российский гащы составляющий 1 , 9 миллиарда долларов , заявил журналистам РИА \"Новости\" в среду первый вице-премьеры , министр финансов России Михаил Касьянов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "газ"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "вице-премьер"
+    },
+    {
+      "correctReplacement": "газы",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

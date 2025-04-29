@@ -1,0 +1,30 @@
+{
+  "text": "Вице-премьера , полномочный представитель правительств РФ в Чечню Николай Кошман обратилось 23 марта к старейшинам республики с просьбой не допустившие срыва президентских выборов в Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "допустить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вице-премьер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Чечне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "обратился"
+    }
+  ]
+}

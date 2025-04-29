@@ -1,0 +1,25 @@
+{
+  "text": "В дойную момент на месте взрыва работали бригады пожарныщ и спасателей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "данный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "данную",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "пожарных",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

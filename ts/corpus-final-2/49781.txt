@@ -1,0 +1,30 @@
+{
+  "text": "Суд Лос-Анджелеса признала правомочными требование авиакомпании Southwest Airlines , чтобы пассажиры , страдающие хроническим ожирением , при покупках авиабилетов платившие не за одно место , а за два , сообщают агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "платили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "покупке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "правомочным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

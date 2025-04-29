@@ -1,0 +1,30 @@
+{
+  "text": "Генералу инкриминируешься превышение служебных полномочия при переводе 450 миллионов коллажей на оплату материально-технических ресурсов для армий , которые впоследствии не были полностью получены от Укпаины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "инкриминируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "полномочий"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "Украины",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

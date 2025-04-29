@@ -1,0 +1,30 @@
+{
+  "text": "В четверг правительство России одобрило предложение установить предельный объем государственного внешней долга в размере 158 миллиарда долларов США , сообщил РИА \"Новости\" первый заместитель министра финансов России Алексеи Кудриоа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "внешнего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Кудрин"
+    },
+    {
+      "correctReplacement": "Кудрина",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

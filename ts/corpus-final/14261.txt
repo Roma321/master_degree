@@ -1,0 +1,30 @@
+{
+  "text": "В ночи на понедельник в центре Мадрида укравшие двухметровую бронзовую статуей 1937 года работы известившего испанском скульптора Хулио Гонсалеса , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "ночь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "испанского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "статую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "украли"
+    },
+    {
+      "correctReplacement": "известного",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

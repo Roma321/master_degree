@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно США настоявшие на увеличении порога минимальной цена на нитрат аммония до 85 долларов за бонну с доставкой в российская порт (FOB) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "настояли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "цены"
+    },
+    {
+      "correctReplacement": "тонну",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

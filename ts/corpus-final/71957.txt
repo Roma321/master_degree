@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили ИТАР-ТАСС в Управлении внутренних дел МВД РФ в Чечне , отец заплативший тогда похитителям крупную сумму в рубле и долларах , однако детей ему бак и не вернули .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "рублях"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "ребенка"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заплатил"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

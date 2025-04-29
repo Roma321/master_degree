@@ -1,0 +1,20 @@
+{
+  "text": "\"Я считаю её одной из лучших актривы нашего времени .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "ее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "актрис"
+    },
+    {
+      "correctReplacement": "актрисы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

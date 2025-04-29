@@ -1,0 +1,35 @@
+{
+  "text": "Принимая во внимание масштаба обоих финансовых институтов , занимающих вторую и третьи позиции среди косметического банки Германии после Deutsche Bank , \"говорить о приемлемой концепции сотрудничества между ними можно будет лишр после тщательного анализа\" , говорится в заявлении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "банков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "масштаб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "коммерческих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "третью"
+    },
+    {
+      "correctReplacement": "коммерческого",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

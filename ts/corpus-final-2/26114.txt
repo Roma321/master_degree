@@ -1,0 +1,20 @@
+{
+  "text": "По подсчетам медиков , сайлас в России проживаем 37 миллионов женщинам детородного возраста .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "женщин"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "проживают"
+    },
+    {
+      "correctReplacement": "сейчас",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По признанию сдавшихся американским властям сотрудников банка , им заплатили два миллиона долларов иа содействию в незаконных банковских операции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "операциях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "содействие"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

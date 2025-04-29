@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениям английской газеты The Sun , в Букингемском дворце пока не подтверждённые эти информацию , облако обещали проверить , правда это или нет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подтвердили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "эту"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

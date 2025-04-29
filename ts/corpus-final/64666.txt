@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю агентстве РИА \"Новости\" , акционерная компания \"Алмазы сессии - Саха\" (\"АЛРОСА\") получит долгосрочный кредит в размкре 7 миллионов долларов для финансирования поставляемого из ЮАР оборудования для алмазодобывающих предприятий в Якутии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "размере",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

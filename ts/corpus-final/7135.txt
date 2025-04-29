@@ -1,0 +1,20 @@
+{
+  "text": "Части кредитоф выданы Eximbank USA под гарантии правительстве России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Часть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "правительства"
+    },
+    {
+      "correctReplacement": "кредитов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

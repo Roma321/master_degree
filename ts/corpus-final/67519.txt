@@ -1,0 +1,35 @@
+{
+  "text": "Напомню , что некоторый время назад российской таможне было дано указание задерживать ввозимую в России литературу , которой может быть истолкованная в интересах чеченского боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "которая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "чеченских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Россию"
+    },
+    {
+      "correctReplacement": "использована",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

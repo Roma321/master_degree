@@ -1,0 +1,20 @@
+{
+  "text": "Он перечеркнувший , что в этом году правительство полностью погасило все долг пенсионерам и вовремя выплачиваемый текущие пенсии , сообщает агентство РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выплачивает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "долги"
+    },
+    {
+      "correctReplacement": "подчеркнул",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

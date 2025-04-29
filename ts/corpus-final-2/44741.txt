@@ -1,0 +1,25 @@
+{
+  "text": "Мало того , что оглохнете , так еще и насмотрелись , как взрослые дяди и тети используемые . . . предметы домашнего обихода не по назначению . \"",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "используют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "насмотрятся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "оглохнут"
+    },
+    {
+      "correctReplacement": "домашнего",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "61 человеке болевший вирусным гепатитом , из них 15 детей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "заболел",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

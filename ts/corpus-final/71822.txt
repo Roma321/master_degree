@@ -1,0 +1,30 @@
+{
+  "text": "Водители - уроженецУрус-Мартана Игнат Денежкину - погиб . По предварительным данным , Денежкина за несколько тысяч рублей наняли боевик , чтобы перегнать автомобиль со взрывчаткой в Грозный , и он сам не знал , что вёз взрывооопасный грузы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Денежкин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "груз"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 35,
+      "correctReplacement": "везет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Водитель"
+    }
+  ]
+}

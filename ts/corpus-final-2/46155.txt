@@ -1,0 +1,25 @@
+{
+  "text": "покоритель пожелаю остаться неназванной , однако извечтно , что он голландский промышленник и коллекционер вин и произведений искусства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "неназванным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "пожелал"
+    },
+    {
+      "correctReplacement": "Покупатель",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "известно",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

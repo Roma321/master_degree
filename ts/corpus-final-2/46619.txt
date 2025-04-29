@@ -1,0 +1,25 @@
+{
+  "text": "Книгу пытались проданные на аукционе Christie's , но , узнаю о кримвнальном происхождении лота , аукционный дом сам решивший вернуть редкую книгу законному владельцу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "решил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "продать"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "узнав"
+    },
+    {
+      "correctReplacement": "криминальном",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

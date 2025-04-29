@@ -1,0 +1,35 @@
+{
+  "text": "Сотрудники прокуратуры сообщили , что в минувшее воскресенья прокуратура Гудермесского района возбудила уголовную дело по факту задержания бензовоза с похищенного оефтью , который следовавший в сторону Дагестанов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "похищенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "следовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "correctReplacement": "нефтью",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

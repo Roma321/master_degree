@@ -1,0 +1,20 @@
+{
+  "text": "Интерпол просит российскими власти прояснить причины объявления в международное розыск главы холдинга \"Медиа-Мост\" Владимира Гусинского , сообщает новое .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "международный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "российские"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

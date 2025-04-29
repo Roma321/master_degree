@@ -1,0 +1,25 @@
+{
+  "text": "Это дающий право некоторым категории быфших заключенных на получение пенсий на общих основаниях в соответствии с пенсионным законодательством в связи с особыми условиями труда .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "пенсии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "категориям"
+    },
+    {
+      "correctReplacement": "бывших",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

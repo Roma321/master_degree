@@ -1,0 +1,30 @@
+{
+  "text": "позиция сообщила , что машинисты не пострадавший , но находился в шоке п не может отвечать на вопросы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "машинист"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "correctReplacement": "Полиция",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

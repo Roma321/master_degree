@@ -1,0 +1,20 @@
+{
+  "text": "Позже в нижнего палате российского постамента с чеченским религиозным лидером встретился председатели Госдумы Геннадий Селезнев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "нижней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "председатель"
+    },
+    {
+      "correctReplacement": "парламента",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

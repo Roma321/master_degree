@@ -1,0 +1,35 @@
+{
+  "text": "Ставки акциза на ювелирные изделия будут начисляющиеся в размере 15 процентов от стоимость товара , на нефти и стабильный газовый конденсат - 55 рублей за одну тонну , на автомьбилей легковые с рабочим объёмами двигателя более 2 тысяч 500 кубических сантиметров - 10 процентов от стоимости автомобиля .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "начисляться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "нефть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "стоимости"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "автомобили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "объемом"
+    },
+    {
+      "correctReplacement": "автомобилей",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

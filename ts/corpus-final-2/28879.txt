@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаешь НТВ , электростанция остановлю из-за колонки котла .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "остановлена"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "поломки",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

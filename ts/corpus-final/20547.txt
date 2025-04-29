@@ -1,0 +1,20 @@
+{
+  "text": "Объем ВВП увеличился к концу 1999 года на 1 , 5 процента , а рост промышленной произвотздвенное составил 7 , 5-8 процентов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "промышленного"
+    },
+    {
+      "correctReplacement": "производства",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "производственное",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

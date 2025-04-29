@@ -1,0 +1,30 @@
+{
+  "text": "За это время Волкова ознакомятся с банковскими документами швейцарских фирмах \"Форус\" и \"Андава\" , через которыми проходила валютная выручка российской авиакомпании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ознакомится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "фирм"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Волков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "которые"
+    },
+    {
+      "correctReplacement": "Волкове",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

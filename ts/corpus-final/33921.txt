@@ -1,0 +1,25 @@
+{
+  "text": "Президент танже распоряжусь направить 175 милионов долларов из \"чрезвычайных фондов\" правительстве на оплаты зимних счетов за отопление домов американских семей с низкими доходами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "распорядился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "оплату"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

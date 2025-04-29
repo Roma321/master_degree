@@ -1,0 +1,20 @@
+{
+  "text": "Они расстанемся месяц назад и теперь адвокаты Бейсингер казавший бракоразводный процесс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "адвокат"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "расстались"
+    },
+    {
+      "correctReplacement": "начал",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

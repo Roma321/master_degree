@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаемый ИТАР-ТАСС , суд города Лахор началразбирательство по делу группы наркодельца , которые в периоднахождения Бхутто у власти в середине 90-х годов задвигались сбытомкрупных партий наркотиков на сотни тысячи долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "наркодельцов"
+    },
+    {
+      "correctReplacement": "занимались",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

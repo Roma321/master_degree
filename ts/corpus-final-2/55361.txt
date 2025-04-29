@@ -1,0 +1,30 @@
+{
+  "text": "Согласно данным корреспондента The Times , в этом году военкоматы Москвы сумели выполнившие план по призыву молодым людей в армию лишь на 22 процента - остальных любыми путями уклоняются от выполнения своего гражданских долга Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "гражданского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выполнить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "молодых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "остальные"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По факу двойной убийства прокуратураВосточного административного округа возбудила уголовное дело . Вндется поиск преступников .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "двойного"
+    },
+    {
+      "correctReplacement": "факту",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Ведется",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В русскую партии Грищук был близок к победе , но в решающая цемент ело соперник свёл матч к ничьей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "решающий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "русской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "свел"
+    },
+    {
+      "correctReplacement": "момент",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

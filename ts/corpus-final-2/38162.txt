@@ -1,0 +1,25 @@
+{
+  "text": "По утверждение чеченских стороны , в реэультате боя погибли по меньшей мере 35 федералов , более 50 получили ранения , а среди чеченцев один был убит и трое ранившие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "чеченской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "утверждению"
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

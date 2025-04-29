@@ -1,0 +1,25 @@
+{
+  "text": "На торлах в понедельник акции Microsoft потеряем более 15 процентов стоимости , или по 12 долларов , снизившись в цены с 78 до 66 далласов за акцию .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "потеряли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "цене"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "торгах",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

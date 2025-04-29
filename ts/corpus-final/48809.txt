@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , сообщает РБК , Госдума предлагаю правительству РФ обеспечить полномасштабное целевое финансирование объединифшей группировки войск на Северном Кавказе , а также финансирования боевой подготовкой в воинских соединениях , которым предстоит участвовать в боевых действиях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "финансирование"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "объединенной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "предлагает"
+    },
+    {
+      "correctReplacement": "объединившей",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

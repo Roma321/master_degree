@@ -1,0 +1,30 @@
+{
+  "text": "Британские правоохранительные органы считаем , что г-на Могилевич связавший с криминальным бизнес в Восточной Европе , от контрабанд оружия и проституции до транспортировки наркотикоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "контрабанды"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "бизнесом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "связан"
+    },
+    {
+      "correctReplacement": "наркотиков",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

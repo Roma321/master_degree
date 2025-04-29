@@ -1,0 +1,15 @@
+{
+  "text": "По сообщению ВВС , Зугич был застрелен неизвестными коло его квартиры вблизи центрального площади Подгорицы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "центральной"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

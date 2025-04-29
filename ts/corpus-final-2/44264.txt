@@ -1,0 +1,25 @@
+{
+  "text": "Во турник SDMI объявила о своей решении выплатить два денежных премии по пять тысяч долларах , сообщает информационное агентство Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

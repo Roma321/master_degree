@@ -1,0 +1,25 @@
+{
+  "text": "Однако единовременный подъем сменился огда непрерывным спадом , тем более что Федеральная резервная система в прошлых году так и не исполнило своего обещаниями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "исполнила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "обещания"
+    },
+    {
+      "correctReplacement": "тогда",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям , полученным в результате радиоперехватом , в ближайшее время его намеренно покинуть Чечню . Не исключено , что его отряд предпримет попытки прорваться из республики на территориях сопредельных государств .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "намерен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "радиоперехвата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "территории"
+    }
+  ]
+}

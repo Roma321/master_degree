@@ -1,0 +1,30 @@
+{
+  "text": "Для той , чтобы доказать нарушении , нужно найти и подводящие либо незаконный вывоз твердой валюты , либо факты уклонения ыт уплаты налогов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "нарушение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "факт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "подтвердить",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

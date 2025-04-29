@@ -1,0 +1,25 @@
+{
+  "text": "Турист Дональд Холл вышел из машины возле рек неподалеку от города Хориксасом , чтобы сделать несколько фотоснимков , и был захвачен врасплох грурпой из семью слонов , среди которых находились два детеныша .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Хориксас"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "семи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "реки"
+    },
+    {
+      "correctReplacement": "группой",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

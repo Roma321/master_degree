@@ -1,0 +1,15 @@
+{
+  "text": "Производство энергии на этой .лектростанции сократилась на 30 процентах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "электростанции",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

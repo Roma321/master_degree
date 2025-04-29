@@ -1,0 +1,30 @@
+{
+  "text": "Известно лишь , что на немы было надето большое количества одежды , а в кармане у него голландская полиция обнаружила российскому паспорт , согласно которому погибший нахожусь в возрасте 21 год .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "нем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "количество"
+    }
+  ]
+}

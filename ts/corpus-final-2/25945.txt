@@ -1,0 +1,25 @@
+{
+  "text": "Предварительно установившее , что кража произошло с 8 : 00 до 12 : 00 по местному бремя Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "времени"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "установлено"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

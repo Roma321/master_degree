@@ -1,0 +1,35 @@
+{
+  "text": "Экспертный совет Школы профессиональной политики опроверг удобрения ряда российских СМИ , в которых утверждалось , что это учебные заведение представляющий собой кузницу регионального кадров для президентской администраций , а ее учредителем являлся частное охранное предприятие “Атолл” .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "учебное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "региональных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "представляет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "администрации"
+    },
+    {
+      "correctReplacement": "сообщения",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

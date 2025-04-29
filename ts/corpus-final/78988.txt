@@ -1,0 +1,25 @@
+{
+  "text": "В мэрии сообщили также , что стоимость магнитных билетов на одну поездку в метро составишь 5 рублей , на две поездки - 10 рублей , на 10 поездок - 35 рублям , на 20 поездок - 70 рублей и на 60 порядков - 150 рубля .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 44,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "поездок",
+      "type": "paronym",
+      "wordNumber": 41
+    }
+  ]
+}

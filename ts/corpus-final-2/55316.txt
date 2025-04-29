@@ -1,0 +1,35 @@
+{
+  "text": "Лишь пргигрываемые - 2 : 3 , игроки превратитесь , и за семи минуты до конца матча Гребешков сравнял счет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "семь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "проигрывая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "спохватились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "минут"
+    },
+    {
+      "correctReplacement": "спохватимся",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "проигрываемые",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

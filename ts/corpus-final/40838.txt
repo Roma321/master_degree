@@ -1,0 +1,25 @@
+{
+  "text": "По данным на 2 марта , самая большая сумма - 29 миллионов 886 тысячах рублей - поступлю на счет избирытеля фонда Владимира Путина .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "поступила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "избирательного",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "избирателя",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

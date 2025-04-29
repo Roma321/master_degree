@@ -1,0 +1,25 @@
+{
+  "text": "Американские военный моряки покинули борт каспийских танкера \"Волгонефть-147\" , который сейчас находится на рейде оманского порта Маскат и готовится к разгрузке , передает РИА \"Новости\" со ссылкой на сообщение Мидом России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "МИД"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "военные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "российского"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

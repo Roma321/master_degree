@@ -1,0 +1,20 @@
+{
+  "text": "Утечка возникла во время замены 15-килограммовых баллонами с этим взрывоопасным газот , который используешься в системе охлаждения электростанции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "баллонов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "используется"
+    },
+    {
+      "correctReplacement": "газом",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

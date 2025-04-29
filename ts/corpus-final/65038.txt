@@ -1,0 +1,35 @@
+{
+  "text": "В работе съезда принимаем участие вице-премьер , министр финансов Россией Алексец Кудрин , арендодатель Центробанка Виктор Геращенко и его заместитель Татьяна Парамонове , глава АРБ Сергей Егоров , представители российским и зарубежных банков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "принимают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Парамонова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "председатель",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "Алексей",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

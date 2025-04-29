@@ -1,0 +1,20 @@
+{
+  "text": "Он сообщил , что \"в настоящий момента в Федеральной службе воздушного транспорта РФ находится просьба разрешить 14 чартеров миланским авиакомпаниям , идут переговоры\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "момент"
+    },
+    {
+      "correctReplacement": "испанским",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "моменты",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

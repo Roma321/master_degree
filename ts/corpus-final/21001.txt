@@ -1,0 +1,25 @@
+{
+  "text": "Например если сейчас отправка одной письма обходится в 1 рубль 20 копеек , то после повышений получился 1 дубль 32 копейки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "получится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "повышения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "рубль",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

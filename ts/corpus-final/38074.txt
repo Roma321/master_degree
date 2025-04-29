@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник в 12 . 20 в досе номере 11 га улице Верхняя Красносельские в центре Москвы произошел взрыв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "номер"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Красносельская"
+    },
+    {
+      "correctReplacement": "доме",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

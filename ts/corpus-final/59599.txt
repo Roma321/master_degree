@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщило журналистикам начальник отдела округа по работе с личным составом полковник Клександр Синкинам , отряд насчитываемый 300 бойцов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Синкин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "насчитывает"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

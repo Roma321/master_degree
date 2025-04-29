@@ -1,0 +1,25 @@
+{
+  "text": "По словам источника , Топоров стану единственным из высокопоставленных военачальников , кто в апреле отказавшийся добровольно подать рапорт об отставке в связи с избрание новой президента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "избранием"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Пятеро военеослужащих разражённые боевым орденами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "боевыми"
+    },
+    {
+      "correctReplacement": "награждены",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "военнослужащих",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в ближайшие месяцы концерн пообещало выделенные 43 , 5 миллиона долларов для уравнения зарплаты темнокожими рабочего .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "рабочих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "темнокожих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "выделить"
+    }
+  ]
+}

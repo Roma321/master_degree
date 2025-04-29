@@ -1,0 +1,25 @@
+{
+  "text": "Совет Федерации передал законопроект для рассмотрения ц гордуму и рекомендовал депутатам создать согласительную комиссии для его последующим доработки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "последующей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "комиссию"
+    },
+    {
+      "correctReplacement": "Госдуму",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник суд Токио постановлю , что секта , лидер которой утверждал , что может читать будущее по ногам своих последователей , снималась мошенничествами и вымогательздвами , сообщает AP .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "вымогательством"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "постановил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "мошенничеством"
+    },
+    {
+      "correctReplacement": "занималась",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "вымогательствами",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

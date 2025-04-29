@@ -1,0 +1,25 @@
+{
+  "text": "В Нью-Йорке продолжался выяснение обсьоятельств событий , посходивших в воскресенье в городском Центральном парке , сообщаешь CNN .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "происходивших",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "обстоятельств",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

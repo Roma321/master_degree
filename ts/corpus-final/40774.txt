@@ -1,0 +1,20 @@
+{
+  "text": "Им грозит тюремноезаключение на сроком до двух месяцам , штраф в размере 100дирхамоф (27 долларов) за каждый просроченный день и департация из страны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "срок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "correctReplacement": "100дирхамов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

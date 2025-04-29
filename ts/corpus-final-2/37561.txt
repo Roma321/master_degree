@@ -1,0 +1,20 @@
+{
+  "text": "Потенциального террориста сдал властям таксист , котрый услышал , как один из его пассажиров , общающиеся со своими спутниками , призывал убить Эхуда Бараком .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Барака"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "общаясь"
+    },
+    {
+      "correctReplacement": "который",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

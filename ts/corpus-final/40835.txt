@@ -1,0 +1,25 @@
+{
+  "text": "Центризбирком обнародую в четверг сведения о денежных средствах , поступивших в избирательные фонды кандидата на пост президента Россией , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "обнародовал"
+    }
+  ]
+}

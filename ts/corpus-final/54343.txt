@@ -1,0 +1,20 @@
+{
+  "text": "Об этом объявивший в монедельник на специальной брифинге министр культуры РФ Михаил Швыдкой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "специальном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "объявил"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

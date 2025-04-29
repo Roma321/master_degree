@@ -1,0 +1,20 @@
+{
+  "text": "При нема был обнаружено паспорт нп имя азербайджанца Али Мусаева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нем"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

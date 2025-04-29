@@ -1,0 +1,20 @@
+{
+  "text": "Землетрясение унесло жизна более двух тысяч человек , 12 тысяч тайваньца получили ранение , свыше 100 тысяч остались без крова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "тайваньцев"
+    },
+    {
+      "correctReplacement": "жизни",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

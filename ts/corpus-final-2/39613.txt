@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно Кузнецов пообещанный , что финальный размер пенсий подмосковным пенсионерам в течение следующего года будет доведена до уровня 550 рублей в месяц , передающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "доведен"
+    },
+    {
+      "correctReplacement": "минимальный",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

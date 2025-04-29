@@ -1,0 +1,30 @@
+{
+  "text": "По словам источника , 20 апрель на Гончаровском военном полигоне в Черниговской области проводимся оперативно-тактические учения всего каретной бригады Северного командование , в ходе которых была запущена ракета класса \"земля-земля\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "проводились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "всей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "апреля"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "командования"
+    },
+    {
+      "correctReplacement": "ракетной",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

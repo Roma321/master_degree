@@ -1,0 +1,20 @@
+{
+  "text": "17 февраля из России был выслана сотрудник посольства Чехии , сообщаемый РИИ \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "выслан"
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

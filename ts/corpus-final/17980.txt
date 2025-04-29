@@ -1,0 +1,30 @@
+{
+  "text": "20 апреля эти молодой люди совершившие нападение на школа , убили 12 школьных и преподавателя , а зптем совершили самоубийство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "совершили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "молодые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "школу"
+    },
+    {
+      "correctReplacement": "школьников",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

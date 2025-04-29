@@ -1,0 +1,25 @@
+{
+  "text": "В результата авиалайнер съехал с полосы и врезался в жилые дома , котшрые находились в лощине всего в 30 метрах от аэродром , сообщают ВВС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "аэродрома"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

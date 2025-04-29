@@ -1,0 +1,25 @@
+{
+  "text": "На 90-метровой глубине этот подводная лодка нашло и сфотографирочала остатки обвалившегося прямоугольного здания длиной 12-метров и 4 метров шириной , \"похожего на хороший амбар\" , как сказал Баллард .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "нашла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "метра"
+    },
+    {
+      "correctReplacement": "сфотографировала",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

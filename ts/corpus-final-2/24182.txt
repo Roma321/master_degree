@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению AFP , бокмер , теперь его зовущие Паринья Киатбусаба , в прошлом году перенесло операцию по смене пола .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "перенес"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "зовут"
+    },
+    {
+      "correctReplacement": "боксер",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В минувшее среды в Красногвардейском районе Санкт-Петербурга бившее совершившее нападение на председателя участковой избирательной комиссии №1279 (213-й одномандатный округ) Татьяну Смироову .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Смирнову",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

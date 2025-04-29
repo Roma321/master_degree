@@ -1,0 +1,25 @@
+{
+  "text": "носитель афтомобиля погиб , само Орджоникидзе с ранениями в ногу и живот был доставлена в НИИ имени Склифисовского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "Водитель",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "автомобиля",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

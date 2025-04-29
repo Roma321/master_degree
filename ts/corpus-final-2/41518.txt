@@ -1,0 +1,35 @@
+{
+  "text": "Затем Санта Клаус отправлюсь в московского резиденцию своей российского коллеги в Измайлово , где деды морозов заведут символические часам , установленные на западном и восточном полушариях глобуса , а также зажёгшие праздничную елку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "московскую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "отправится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "морозы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "часы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "зажгут"
+    }
+  ]
+}

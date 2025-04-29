@@ -1,0 +1,20 @@
+{
+  "text": "Таможенный патрульный корабль назову в честь персонажа фильм \"Белое солнце пуутыни\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "фильма"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "назван"
+    },
+    {
+      "correctReplacement": "пустыни\"",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

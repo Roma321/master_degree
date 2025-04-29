@@ -1,0 +1,30 @@
+{
+  "text": "Ингушский лидер сообщил , что на территории республики сейчас находится пойти 214 тысяч беженцах , причем одиннадцать тысячи не могли вернутся , потому что их доме полностью разрушены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "беженцев"
+    },
+    {
+      "correctReplacement": "почти",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

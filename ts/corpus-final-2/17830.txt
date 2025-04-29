@@ -1,0 +1,30 @@
+{
+  "text": "Депутаты считали , что терроризмы и организованная преступность представляли собой опасность кпк для гражданина России , так и для страны в целом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "терроризм"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "представляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "граждан"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

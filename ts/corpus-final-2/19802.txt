@@ -1,0 +1,20 @@
+{
+  "text": "По словам милицейских , первые допросам поджигателя показавшие , что попытка поджога не имела политических мотивов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "допросы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "показали"
+    },
+    {
+      "correctReplacement": "полицейских",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

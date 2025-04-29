@@ -1,0 +1,30 @@
+{
+  "text": "По данным раэведки , отмечаетесь мелкие бандформирования в районе Аргунского ущелью и южной частей Урус-Мартановского районов , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "части"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "отмечаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ущелья"
+    },
+    {
+      "correctReplacement": "разведки",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

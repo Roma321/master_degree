@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" , взрыв происшедший около 16 . 15 при проведении ремонтных работ Ж",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "произошел",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

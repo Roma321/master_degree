@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , пучиной пожара стало короткие замыкания .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "короткое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "замыкание"
+    },
+    {
+      "correctReplacement": "причиной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

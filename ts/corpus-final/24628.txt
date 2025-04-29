@@ -1,0 +1,30 @@
+{
+  "text": "Если на апрельском референдумах недоверие парламентом будет поскакавшее , то в октябре Верховную Раду ожидаемый роспуск , заявил глава Компартии Украины Петр Симоненко агентству УНИАН .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "парламенту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "ожидает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "высказано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "референдуме"
+    },
+    {
+      "correctReplacement": "высказавшее",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

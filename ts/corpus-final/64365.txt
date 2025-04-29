@@ -1,0 +1,25 @@
+{
+  "text": "На армейском складе воинской части , расквартированных близпоселка Ток Ванинского района Хабаровского края , в воскресение произойду пожар , от которого начали взрываться боеприпасы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Токи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "расквартированной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

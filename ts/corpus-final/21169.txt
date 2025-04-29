@@ -1,0 +1,20 @@
+{
+  "text": "В самолет регулярно доставляется продовольствие , в случаем необходимости оказываешься медицинская помогшая .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "оказывается"
+    },
+    {
+      "correctReplacement": "помощь",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

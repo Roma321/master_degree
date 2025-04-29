@@ -1,0 +1,20 @@
+{
+  "text": "Эксперт зоопарка Филадельфии в интервью Philadelphia Daily News заявил , что большим удачей стало то , что свинья ее опорожнила во время полета свой кишечнике , в противном случае , по его словам , пассажирам потребовались бы парашюты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "большой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "кишечник"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

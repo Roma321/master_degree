@@ -1,0 +1,25 @@
+{
+  "text": "Вчера же террористы заявили , что единственной их требованием остаёшься освобождение из индийских тюрем 35 боевиков и лидера движения Махмуда Азхаром , сообщают АР .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Азхара"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "единственным"
+    }
+  ]
+}

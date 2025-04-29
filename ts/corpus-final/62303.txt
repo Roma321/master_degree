@@ -1,0 +1,20 @@
+{
+  "text": "Тем временем в Доме правительств началась совещание под председательством резидента России Владимира Путина с участием вице-премьеров и министров силового блока .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "началось"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

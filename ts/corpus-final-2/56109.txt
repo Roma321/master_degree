@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , по мнение Немцове , \"влсстям выгодно платить партиям : кто платишь , тот и в карман кладет\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Немцова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "платит"
+    },
+    {
+      "correctReplacement": "\"властям",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "По данным штаба , в минувшие выходные армейское авиация продолжала наносить ударами по южным районам Чечни , где находились оыновные базы бандформирований . Пресс-служба группировки информируемый также , что в воскресенье состоюсь обмен тела пока еще не опознанной якобы летчика , сбитого в начале октября боевиками , на два тела боевиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "информирует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "удары"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 37,
+      "correctReplacement": "опознанного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "состоялся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "армейская"
+    },
+    {
+      "correctReplacement": "основные",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

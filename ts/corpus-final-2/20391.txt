@@ -1,0 +1,20 @@
+{
+  "text": "Восемь матчей второй тура Лиги Чемпиона состояличь во вторник .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "второго"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Чемпионов"
+    },
+    {
+      "correctReplacement": "состоялись",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

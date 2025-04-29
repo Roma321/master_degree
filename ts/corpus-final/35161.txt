@@ -1,0 +1,30 @@
+{
+  "text": "Пикет потребованный продолжения матчей без пятернями времени , затраченного на этот инцидент (прошло тколо получаса) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "потребовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "потери"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "матча"
+    },
+    {
+      "correctReplacement": "потерями",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "около",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

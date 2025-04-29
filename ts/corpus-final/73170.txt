@@ -1,0 +1,25 @@
+{
+  "text": "Сначала после прострела Будейвена Зендена мяч в ворота скандинавов закативший Рональдом де Бур , а затем сам Зенден попользовавшиеся прекрасную передачу Михаэля Райцигера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "закатил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Рональд"
+    },
+    {
+      "correctReplacement": "использовали",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

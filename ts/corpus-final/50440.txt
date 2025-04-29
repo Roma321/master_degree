@@ -1,0 +1,20 @@
+{
+  "text": "Он не сомневающийся , что Титов \"с блеском победит\" на предстоящах досрочных выборах губернаторов Самарской области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сомневается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "correctReplacement": "предстоящих",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

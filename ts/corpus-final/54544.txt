@@ -1,0 +1,20 @@
+{
+  "text": "Это произошло несмотря на то , что правительство Чили запрещу протекание подобные мероприятий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "подобных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "запретило"
+    },
+    {
+      "correctReplacement": "проведение",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

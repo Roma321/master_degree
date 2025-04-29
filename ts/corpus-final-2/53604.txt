@@ -1,0 +1,20 @@
+{
+  "text": "На аждое игровой автомат налог составивший 7 , 5 МРОТ в месяц , на каждую кассу тотализатора - 200 МРОТ , на каждую кассу букмекерской конторы - 100 МРОТ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "каждый"
+    },
+    {
+      "correctReplacement": "каждое",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

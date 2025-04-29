@@ -1,0 +1,30 @@
+{
+  "text": "В среду , 26 июля , в высокогорном ингушской селенип Джейрах , расположенном на границе с Северной Осетия , вынырнувшая перестрелка , сообщившие РИА \"Новости\" в МВД Ингушетии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "ингушском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Осетией"
+    },
+    {
+      "correctReplacement": "вспыхнула",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "селении",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

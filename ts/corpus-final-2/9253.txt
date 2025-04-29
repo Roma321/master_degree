@@ -1,0 +1,25 @@
+{
+  "text": "Также изымем : больной арсенал оружия , две грузовые и одна легковой машина , угоним в Дагестане .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "легковая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "изъяты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "угнанные"
+    },
+    {
+      "correctReplacement": "большой",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

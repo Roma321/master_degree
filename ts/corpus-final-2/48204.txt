@@ -1,0 +1,20 @@
+{
+  "text": "Заявление было сделано в ходе пресс-конференции , которую возвратившийся из США израильский половик провел в иерусалимского гостиницу \"Царь Давид\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "гостинице"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "иерусалимской"
+    },
+    {
+      "correctReplacement": "политик",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

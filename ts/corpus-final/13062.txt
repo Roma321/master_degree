@@ -1,0 +1,20 @@
+{
+  "text": "Ранее Московское арбитражный суды принял решение о том , что холдинг должен выплатить Внешэкономбанку более $42 миллионов в счет погашения кредитом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "кредита"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "суд"
+    }
+  ]
+}

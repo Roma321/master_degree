@@ -1,0 +1,20 @@
+{
+  "text": "Фильм в этом году был отберу для крнкурсной программ Каннского кинофестиваля .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "отобран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "программы"
+    },
+    {
+      "correctReplacement": "конкурсной",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

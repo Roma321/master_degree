@@ -1,0 +1,25 @@
+{
+  "text": "По словам одного из хирургов , это пациенты попал в больницу с приступом удуший , после тех как пытался проглотить кусок шланга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пациент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "удушья"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "этот"
+    }
+  ]
+}

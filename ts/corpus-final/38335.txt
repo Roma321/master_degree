@@ -1,0 +1,20 @@
+{
+  "text": "вывший задержан также чедвертый мальчику , 15 лет , но после допроса он был отпущен .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "мальчик"
+    },
+    {
+      "correctReplacement": "Был",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "четвертый",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

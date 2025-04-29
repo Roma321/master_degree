@@ -1,0 +1,20 @@
+{
+  "text": "На первом заседании сессии присутствуем заместитель председатпля Совета Федерации Олег Королев , мэр Москве Юрий Лужков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "присутствовали"
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

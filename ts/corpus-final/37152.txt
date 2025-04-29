@@ -1,0 +1,25 @@
+{
+  "text": "Российское авиационно-космическое агентство опровергает саму возможность продаж российской орбитальной станция \"Мир\" какой-либо стране , в том числе и Китаю , поскольку она является достоянием российского государздф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "станции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "продажи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "государства"
+    },
+    {
+      "correctReplacement": "государств",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

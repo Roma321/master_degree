@@ -1,0 +1,25 @@
+{
+  "text": "Если такую закону будет принята , то уино , фактически , попадает в категорию \"крепких спиртных напитков\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "закон"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "такой"
+    },
+    {
+      "correctReplacement": "вино",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Концерн запрещал итальянским дилерам продавать свои машину покупателю из Австрия и Германии , так как в Италии автомобили значительно дешевле , чтожим в этих странах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "покупателям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "машины"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Австрии"
+    },
+    {
+      "correctReplacement": "чем",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

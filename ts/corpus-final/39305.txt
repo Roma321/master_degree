@@ -1,0 +1,25 @@
+{
+  "text": "Курникова заработала в 1999 год , по оценкам журнала , 11 миллионов доллара , из которых лишь 748 тысячи - на кнртах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "кортах",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Он помогал передать взятку в две тысячи доллароф за решение вопроса по исполнительной производству в пользу истца .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "исполнительному"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

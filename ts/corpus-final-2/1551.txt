@@ -1,0 +1,20 @@
+{
+  "text": "По кго словам , в лагеру были заняты не менее 600 места .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "лагере"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "мест"
+    },
+    {
+      "correctReplacement": "его",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

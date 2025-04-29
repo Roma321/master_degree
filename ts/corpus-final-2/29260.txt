@@ -1,0 +1,25 @@
+{
+  "text": "Представление о задержании Живило разослали всему членам Интерпола , есть и санкции на арест предпринимающегося , заявил журналистам начальник Национального центральной бюро Интерпола Владимир Гордиенко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "санкция"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "всем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "центрального"
+    },
+    {
+      "correctReplacement": "предпринимателя",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

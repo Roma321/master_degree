@@ -1,0 +1,20 @@
+{
+  "text": "Сначала отрабатывалась версия об убийстве , и поэтому был задержан спутника погипшего .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "спутник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "погибшей"
+    },
+    {
+      "correctReplacement": "погибшего",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

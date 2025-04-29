@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас , по словцам Геращенао , предложение валюты на рынке превышает спрос , и для сохранения плавных изменения курса рубля Центробанк вынуждено покупать валюту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "вынужден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "плавного"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Геращенко",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

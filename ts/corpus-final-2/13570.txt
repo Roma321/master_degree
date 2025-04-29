@@ -1,0 +1,25 @@
+{
+  "text": "Однако за пять круга до финиша Хаккинен настиг Шумахера , а за три круга до финиша , когда оба лидеру обгоняли на круг Рикардо Зонту , смогу выйти в лидеры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "кругов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "лидера"
+    },
+    {
+      "correctReplacement": "круга",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Белом доме существует специальное система обработки электронного почты , которая копирует всю переписку сотру.ников и архивирующий ее на отдельном компьютере .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "специальная"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "архивирует"
+    },
+    {
+      "correctReplacement": "сотрудников",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

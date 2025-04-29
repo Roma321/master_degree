@@ -1,0 +1,25 @@
+{
+  "text": "Пока что журнадисты Le Matin склонялись к двум версиям : убийство россиян было ибо терактом , либо просто бандитизм .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "склоняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "бандитизмом"
+    },
+    {
+      "correctReplacement": "либо",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "журналисты",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

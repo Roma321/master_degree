@@ -1,0 +1,20 @@
+{
+  "text": "По имевшимся данным , сами строительство трубопровода планируется осуществить в решение полутора лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "имеющимся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "само"
+    },
+    {
+      "correctReplacement": "течение",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

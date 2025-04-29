@@ -1,0 +1,25 @@
+{
+  "text": "Как уже сообщаюсь , задушевные счета 70 российских компаний на сумму около 60 миллионов долларов в конце мая были заблокировавшие по иску швейцарскую фирмы Noga .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "швейцарской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "заблокированы"
+    },
+    {
+      "correctReplacement": "зарубежные",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

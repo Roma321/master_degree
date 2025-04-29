@@ -1,0 +1,30 @@
+{
+  "text": "Говорив о ходе ликвидациях последствий схода селевых потоков в Кабардино-Балкарии , исполняющий обязанности министра сообщил , что в окрестностях катастрофы уже налажено движение транспорту , бригада специалистов занимается понижением уровня подтопленной селевоц потоком реки Баксан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "селевым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "транспорта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "ликвидации"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Говоря"
+    },
+    {
+      "correctReplacement": "селевой",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

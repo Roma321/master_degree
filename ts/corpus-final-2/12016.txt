@@ -1,0 +1,25 @@
+{
+  "text": "По неформальным данным , военнослужащие , находящиеся в Чечне на постоянного осносе и также участвовавшие в выборы , в основном проголосовали против всех кандидатов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "постоянной"
+    },
+    {
+      "correctReplacement": "неофициальным",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "основе",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

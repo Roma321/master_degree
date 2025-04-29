@@ -1,0 +1,20 @@
+{
+  "text": "В результате 12-часового боя более ста человек убившие , сони ранены , сообщаю Reuters .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "убиты"
+    },
+    {
+      "correctReplacement": "сотни",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

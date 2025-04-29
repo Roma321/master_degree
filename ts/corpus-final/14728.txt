@@ -1,0 +1,25 @@
+{
+  "text": "Художники более известны тем , что в 1991 году там же , на Красной площади , выложили на брусчатке своими телами неприличное слово из трёх букв , обозначаемое мужских половой орлан .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "мужской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "трех"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "обозначающее"
+    },
+    {
+      "correctReplacement": "орган",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

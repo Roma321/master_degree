@@ -1,0 +1,20 @@
+{
+  "text": "У другом матче группе В словаки выиграли у итальянца (6 : 2) и вышли в лидеры группы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "итальянцев"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Госдепартамент издал предписание для граждан , находящегося за шредпрами США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "находящихся"
+    },
+    {
+      "correctReplacement": "пределами",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "шредерами",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Бородина подчёркнутый , что несмотря на выдавший Интериолу женевской прокуратурой мандат о его приводе для дачи показаний , он намеренны выезжать за пределы России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Бородин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выданный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "намерен"
+    },
+    {
+      "correctReplacement": "Интерполу",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

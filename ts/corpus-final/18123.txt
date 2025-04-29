@@ -1,0 +1,30 @@
+{
+  "text": "Вторую экземпляр протока , бюллеоени , а также печать участковой избирательной комиссии хранитесь ее секретарями до окончания работы комиссии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "секретарем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "хранятся"
+    },
+    {
+      "correctReplacement": "протокола",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "бюллетени",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На увеличение пенсий будет дополнительно выделен 18 миллиардов рублей из средств Пенсионной фонда РФ , сообщила вице-премьер Валентина Мвтвиенко .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "выделено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Пенсионного"
+    },
+    {
+      "correctReplacement": "Матвиенко",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

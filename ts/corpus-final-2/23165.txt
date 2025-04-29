@@ -1,0 +1,20 @@
+{
+  "text": "Он оставшийся в живых , но его лицо рывшее обезображу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "остался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "обезображено"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

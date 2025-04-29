@@ -1,0 +1,25 @@
+{
+  "text": "Этот роли в России выполняют Федеральнше агентство по ипотечному кредитованию и Московское ипотечное агентства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "роль"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эту"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "агентство"
+    },
+    {
+      "correctReplacement": "Федеральное",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

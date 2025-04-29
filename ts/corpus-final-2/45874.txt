@@ -1,0 +1,25 @@
+{
+  "text": "Испанцев в фингале повелевший в счете ухе на второй минуте .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Испанцы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "повели"
+    },
+    {
+      "correctReplacement": "финале",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

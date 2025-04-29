@@ -1,0 +1,20 @@
+{
+  "text": "14 января - начало очередник этапе президентской избирательной кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "очередного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "этапа"
+    },
+    {
+      "correctReplacement": "очередной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

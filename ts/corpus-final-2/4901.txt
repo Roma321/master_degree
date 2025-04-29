@@ -1,0 +1,20 @@
+{
+  "text": "По данным правоохранительных органов , убиты отец и дочь Цуроф и двоих братьев Томовых .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Цуровы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "двое"
+    },
+    {
+      "correctReplacement": "Цуров",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

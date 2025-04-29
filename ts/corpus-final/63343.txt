@@ -1,0 +1,30 @@
+{
+  "text": "Юрий Лужков отрицательно относился к законодательного инициативной президента России по изменению принципа формирования Советов Федерации , передаёшь \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "законодательной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "относится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Совета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "инициативе",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

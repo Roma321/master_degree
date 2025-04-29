@@ -1,0 +1,20 @@
+{
+  "text": "Жириновский сообщу также , что по кандидатурам спикера 18 январяпройдет \"тайное рекрутинговое голосование\" в дватура .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "кандидатуре"
+    },
+    {
+      "correctReplacement": "рейтинговое",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

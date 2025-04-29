@@ -1,0 +1,30 @@
+{
+  "text": "По информации РИА \"Новости\" , в среду в Домах правительства состоялись встречи премьер-министра Владимира Путина , руководителю администрации президента России Александра Волошина и министре иностранных дел Игоря Иванова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "руководителя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Доме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "министра"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "встреча"
+    }
+  ]
+}

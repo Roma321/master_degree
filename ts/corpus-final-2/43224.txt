@@ -1,0 +1,25 @@
+{
+  "text": "Деньги они пока ыарабатываемые на рекламе найт для взрослые , а также стрип-клубов и других офлайновых развлечений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "зарабатывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "взрослых"
+    },
+    {
+      "correctReplacement": "сайтов",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "зарабатываемые",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

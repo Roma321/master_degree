@@ -1,0 +1,25 @@
+{
+  "text": "Его сказал , что удовлетворю состоянием городов и уверен , чтом игры пройдут успешно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "удовлетворен"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

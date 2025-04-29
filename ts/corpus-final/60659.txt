@@ -1,0 +1,25 @@
+{
+  "text": "Предпринимателю Анатолию Быкову , находящейся в СИЗО Красноярска , поступали предложениям трогающие акции Красноярского алюминиевого завода , которыми он располагает .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "поступают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "находящемуся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "предложения"
+    },
+    {
+      "correctReplacement": "продать",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

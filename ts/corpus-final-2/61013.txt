@@ -1,0 +1,45 @@
+{
+  "text": "пуд отменённый приговор Мосгорсуда от 27 июня 2000 года , по которому Обухов был приговорён к 11 годам лишения свободы с отбывание наказания в колонии строгого режима и конфискация имущества и направил деле на новое рассмотрения в Мосгорсуд , сообщающий ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "конфискацией"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 39,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "отбыванием"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отменил"
+    },
+    {
+      "correctReplacement": "Суд",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

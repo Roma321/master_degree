@@ -1,0 +1,25 @@
+{
+  "text": "В день сут военщине сообщила супругу , что отвезет машину в автосервис и вернется .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "женщина"
+    },
+    {
+      "correctReplacement": "женщине",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

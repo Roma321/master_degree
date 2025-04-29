@@ -1,0 +1,15 @@
+{
+  "text": "Увольнению сотрудников предшествовала полное постановка работы компании , включая отмену всех запланированных ранее рейсов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "полная"
+    },
+    {
+      "correctReplacement": "остановка",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

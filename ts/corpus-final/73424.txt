@@ -1,0 +1,30 @@
+{
+  "text": "В связи с этим , как сообщает агентство ИТАР-ТАСС , Селезнев снимающий свою кандидатуру на парламентских выборах по одномандатной 209 округу Санкт-Петербурга , но остаётся второго ы федеральном списке КПРФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "одномандатному"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "снимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "вторым"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

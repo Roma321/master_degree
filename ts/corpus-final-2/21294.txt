@@ -1,0 +1,25 @@
+{
+  "text": "О факте финансовых нарушении милиции стало известно от самих работников геройского морга и дюро судмедэкспертизы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "фактах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "нарушениях"
+    },
+    {
+      "correctReplacement": "городского",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "бюро",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

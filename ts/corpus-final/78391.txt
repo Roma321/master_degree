@@ -1,0 +1,30 @@
+{
+  "text": "Развивав эту тему , New York Times приводит слова российских официальных лица , согласно которым продвижение США о помощи в строительстве радара под Иркутском пришедшее слишком поздно : Россия уже начала консультации с Китаем по поводу возможного военной сотрудничества в том случае , если США нарушат договор по ПРО .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Развивая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "лиц"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 37,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "пришло"
+    },
+    {
+      "correctReplacement": "предложение",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

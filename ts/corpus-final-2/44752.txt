@@ -1,0 +1,20 @@
+{
+  "text": "Как передаёт РИА \"Новости\" , это ободок топливной элемента длиной 20 сантиметров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "топливного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "обломок",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

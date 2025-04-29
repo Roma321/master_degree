@@ -1,0 +1,20 @@
+{
+  "text": "По заключению врачей , его желудочная былу почти наполовину разрушено в результате диабета , которым страдает Шелл .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "разрушена"
+    },
+    {
+      "correctReplacement": "поджелудочная",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

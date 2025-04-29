@@ -1,0 +1,30 @@
+{
+  "text": "В среду судья , рассматривавший иска DVD Copyright Control Association против хакеров , распространявших программный продукт тля взлома защиты DVD (digital video disc) , на предварительном судебном заседании отказался наложить временное запрет на распространение ответчиками этого продукта , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "распространяющих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "временный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "рассматривающий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "иск"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В итоге рейс был задержан на полутора чааа и компания понесу миллионные убытки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "полтора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "понесла"
+    },
+    {
+      "correctReplacement": "часа",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

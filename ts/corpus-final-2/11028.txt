@@ -1,0 +1,25 @@
+{
+  "text": "Такое решение в среду принял Управление по делам гражданств и вибрации Ладвии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "приняло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "гражданства"
+    },
+    {
+      "correctReplacement": "миграции",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "Латвии",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

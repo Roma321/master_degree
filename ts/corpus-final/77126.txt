@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , в аэропорт были отставившие 800 школьников , которые размахивали кубинскими флашками и петые праздничные песни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пели"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "доставлены"
+    },
+    {
+      "correctReplacement": "доставившие",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "флажками",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

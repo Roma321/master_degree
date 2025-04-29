@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье около 19 : 00 я Москве на Ленинградской проспекте был собью футбольный болельщики , возвращавшийся с матча \"Динамо\"-ЦСКА .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Ленинградском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "сбит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "болельщик"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

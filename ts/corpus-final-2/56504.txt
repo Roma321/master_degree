@@ -1,0 +1,25 @@
+{
+  "text": "Аэрофлот готовил развлекательный программы для пассажироф новогодних рейсов - их будут встречать шаманским и предложат участвовать в лотереях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "развлекательные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "готовит"
+    },
+    {
+      "correctReplacement": "шампанским",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "пассажиров",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

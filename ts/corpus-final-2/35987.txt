@@ -1,0 +1,20 @@
+{
+  "text": "Позже на аэродроме была обнаружена бесхозный коробки с блоками сигар \"Ява золотая\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "бесхозная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "коробка"
+    },
+    {
+      "correctReplacement": "сигарет",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

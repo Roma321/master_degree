@@ -1,0 +1,25 @@
+{
+  "text": "Российские космонавты Сергеи Залетин и Александр Калери , участники нынешнего экспедиции на станцию \"Мир\" , вышли в открытый космос для изучения состояния корпусов станции и проведения ремонтных работах , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "корпуса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нынешней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "работ"
+    }
+  ]
+}

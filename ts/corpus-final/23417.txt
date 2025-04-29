@@ -1,0 +1,25 @@
+{
+  "text": "Затем наметилась тенденции т понижению , и к двум часам дня курс покупки составляло уже не более 28 рублей 75 копеек , а минимальное курс продажи снизился до 27 рублей 88 копеек за доллар .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "минимальный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "тенденция"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "составлял"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

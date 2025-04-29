@@ -1,0 +1,30 @@
+{
+  "text": "Так , в сентябрю 1999 годов Георгий Боос подам в суд на телекомпанию ОРТ , насколько ведущий программы \"Время\" , по его мнению , позволили себе слишком вольно трактовать некоторые его высказывания в интервью \"Независимой газете\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "подал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "позволил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сентябре"
+    },
+    {
+      "correctReplacement": "поскольку",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

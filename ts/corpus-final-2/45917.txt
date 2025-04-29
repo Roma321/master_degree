@@ -1,0 +1,30 @@
+{
+  "text": "Правительство России намерено проведённые дополнительнвю встречи с миссией Международного валютного фонда (МВФ) , об этом заявил в понедельник в ходе встречи с вице-президентом Всемирного банка Йоханнесом Линном вице-премьер РФ , министре финансов алексин Кудрин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "встречу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "министр"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "провести"
+    },
+    {
+      "correctReplacement": "Алексей",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "дополнительную",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Однако такая опасность сохраняется для всего насытавших пунктов , расположенных ниже по течению реки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "населенных"
+    },
+    {
+      "correctReplacement": "населивших",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "насытивших",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

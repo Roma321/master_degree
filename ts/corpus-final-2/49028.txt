@@ -1,0 +1,20 @@
+{
+  "text": "Взрывному волной были полностью разрушены четырём гаражных бокса , ебе четыре бокса и четыре автомобиля сильно повреждены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "четыре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Взрывной"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

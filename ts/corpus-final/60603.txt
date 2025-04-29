@@ -1,0 +1,30 @@
+{
+  "text": "Даже обыск в доме Рамонеса и его подругу был задержан на день из-за необходимости получить пункцию на обыск по такому необычному поводу , как компьютерные хулиганство , которое не являлся преступлением по филиппинскими законам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "подруги"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "компьютерное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "филиппинским"
+    },
+    {
+      "correctReplacement": "санкцию",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

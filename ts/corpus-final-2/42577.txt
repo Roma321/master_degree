@@ -1,0 +1,20 @@
+{
+  "text": "Сразу двум акции профсоюзов , направившие против иноернет-гиганта , начались на прошлой неделе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "направленные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "две"
+    },
+    {
+      "correctReplacement": "интернет-гиганта",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

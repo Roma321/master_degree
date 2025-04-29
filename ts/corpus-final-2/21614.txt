@@ -1,0 +1,20 @@
+{
+  "text": "Тела трех женщин в возрастах 58 , 36 и 25 лет были найдены в пятницу германской полицией на территории конюшни под местечка Бад Кройцнах , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "возрасте"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "местечком"
+    }
+  ]
+}

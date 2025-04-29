@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечено в официальном пресс-релиз , это молодой , активная и любознательный человека , который самоходное пользуется Интернетом , хотя и не более того : такие слова как \"хостинг\" и \"провайдер\" ему ничего не говорят .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пресс-релизе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "активный"
+    },
+    {
+      "correctReplacement": "свободно",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

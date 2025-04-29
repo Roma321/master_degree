@@ -1,0 +1,25 @@
+{
+  "text": "листки содержит пропагандистские сведения , направленные против кандидата в президенты России Владимира Путвных .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "содержат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Путина"
+    },
+    {
+      "correctReplacement": "Листовки",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Путиных",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

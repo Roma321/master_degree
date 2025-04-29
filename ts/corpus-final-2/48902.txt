@@ -1,0 +1,25 @@
+{
+  "text": "В частности , решение Верховного суда США о признании незаконное ручного пересчёта голосов в штате Флорида рассматриваются как важный признак победы Джорджа бук .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "пересчета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "незаконным"
+    },
+    {
+      "correctReplacement": "Буша-младшего",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

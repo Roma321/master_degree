@@ -1,0 +1,30 @@
+{
+  "text": "19 милиционеров ранены и одна провисший в субботу в Урус-Мартане , иередаваемый \"Интерфакс\" со ссылкой на Управление внутренних делам МВД России по Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "погиб",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "передаваемый",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

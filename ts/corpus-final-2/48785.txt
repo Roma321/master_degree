@@ -1,0 +1,25 @@
+{
+  "text": "Рри проверке пасторам этих пассажиров пограничникам обнаружили , что их документы фальшивые .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пограничники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "паспортов"
+    },
+    {
+      "correctReplacement": "паспортам",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "При",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

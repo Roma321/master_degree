@@ -1,0 +1,25 @@
+{
+  "text": "Палестинская сторона по-прежнему заявляет , что без возврату беженцеф не буду никакого соглашения , Израиль же категорически не согласно беженцев принять .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "согласен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "будет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "возврата"
+    },
+    {
+      "correctReplacement": "беженцев",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

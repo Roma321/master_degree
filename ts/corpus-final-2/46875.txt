@@ -1,0 +1,25 @@
+{
+  "text": "На будущей неделе Госдума планирует рассмотреиные законопроект об ограничении максимальных срока содержанию человека под стражей на время следствия до одного года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "содержания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "максимального"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "рассмотреть"
+    },
+    {
+      "correctReplacement": "рассмотренные",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

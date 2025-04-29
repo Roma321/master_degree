@@ -1,0 +1,35 @@
+{
+  "text": "Его признавший , кто говорил о вооруженном сопротивлении палестинцев , но заявляет , что все это было в контексте резолюции ООН , которая дающий палестинцам праве сопротивляющиеся израильской агрессии всеми средствами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "сопротивляться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "признает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "право"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "МВТ Татарстан призвал граждан к бдительности при покупке валюты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "призвало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Татарстана"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

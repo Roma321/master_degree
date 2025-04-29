@@ -1,0 +1,20 @@
+{
+  "text": "Подсчитавшее , что не по назначению \"ушли\" звыше 165 тонн бензина А-76 , три тысячи тонн дизельного топлив и более 160 тонн технического масла , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Подсчитано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "топлива"
+    },
+    {
+      "correctReplacement": "свыше",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

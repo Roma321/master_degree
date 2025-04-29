@@ -1,0 +1,20 @@
+{
+  "text": "Полицейские заявили , что действовали по указанию министра внутренних дел , однако в пресс-службе министра заявили , что пндобных указаний полиции никто не даваемый .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "давал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "действуют"
+    },
+    {
+      "correctReplacement": "подобных",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

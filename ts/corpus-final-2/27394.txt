@@ -1,0 +1,30 @@
+{
+  "text": "Кудрин сообщил , что уже согласовано распределения возможных дополнительных дохода : 50 процентов - на погашение долгах и замещению бредящих , а остальные средства - на национальную оборону , помощь субъектам Федерации и другие нужды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "долгов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "распределение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "замещение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "доходов"
+    },
+    {
+      "correctReplacement": "кредитов",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

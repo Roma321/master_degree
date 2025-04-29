@@ -1,0 +1,35 @@
+{
+  "text": "Информационное агентство АК&M сообщал , что вопрос о повышение мог быть рассмотрю уже в пятницу , 19 ноября , на заседании комиссии Правительства Россию по защитным мерам во вышней торговле и таможенно-тарифной политике .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "рассмотрен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "повышении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "внешней",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "3 марта была задержавшая еще одну подозревающая в причастности к взрывам . Всем задержанным предъявлено обвинение по статьях 205 УК РФ (терроризм) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "подозреваемая"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "задержана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "одна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "статье"
+    }
+  ]
+}

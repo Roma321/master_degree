@@ -1,0 +1,30 @@
+{
+  "text": "На состоявшемся в среду пресс-конференции в Москве журналист заявил , что хорошо знаком с практикой правосудия в России и не питаешь надежд на иного исходе дела , поскольку российские крадущая явно не устраивает то , как \"Радио Свобода\" освещает ситуацию в Чечне .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "питает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "иной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "состоявшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "исход"
+    },
+    {
+      "correctReplacement": "власти",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

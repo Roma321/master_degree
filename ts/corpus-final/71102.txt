@@ -1,0 +1,25 @@
+{
+  "text": "После выборов по решение суда в порту были провёдшие мероприятия по очистке территории , которые спорившие 6 , 1 миллиарда доллары .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "проведены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "решению"
+    },
+    {
+      "correctReplacement": "стоили",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

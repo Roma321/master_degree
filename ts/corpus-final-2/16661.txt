@@ -1,0 +1,30 @@
+{
+  "text": "Он пробывший в Бутырке и марийская тишине годы и два месяца , а с 3 апреля нынешнего года нахожусь под потпиской о невыезде .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "пробыл"
+    },
+    {
+      "correctReplacement": "Матросской",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "подпиской",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

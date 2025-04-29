@@ -1,0 +1,20 @@
+{
+  "text": "Кроме тдго , по решению одном из районных судов Волгограда , у них будет конфискована личное имущество .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "конфисковано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "одного"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

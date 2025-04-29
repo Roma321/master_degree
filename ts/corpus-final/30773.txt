@@ -1,0 +1,25 @@
+{
+  "text": "Однако на борту захватившего самолета романской авиакомпанииеще остаются 160 человек , в той числом 120 мужчин , 19женщин и 21 ребенок .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "захваченного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "афганской",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

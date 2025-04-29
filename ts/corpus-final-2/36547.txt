@@ -1,0 +1,25 @@
+{
+  "text": "Бывший ровесник президента Клинтонов Пол Бегали утверждаешь , что едва ли не все голоса , полученные в последних пяти штатах , Надер переманил у Гора , которому эти голоса помогли бы выиграть .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Клинтона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Бегала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "советник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Затем преступники попытался скрыться на автомобиле , однако дыл схвачены полицией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "преступник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "схвачен"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

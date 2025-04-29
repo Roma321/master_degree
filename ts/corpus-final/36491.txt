@@ -1,0 +1,30 @@
+{
+  "text": "По слова сторонников п защитников пожилое леди , на это переутомление ее толкнувшее многолетнее издевательство супруга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "пожилой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "толкнуло"
+    },
+    {
+      "correctReplacement": "преступление",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

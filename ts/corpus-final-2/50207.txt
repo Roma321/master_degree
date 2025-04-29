@@ -1,0 +1,30 @@
+{
+  "text": "Об этом сообщило в пятницу в Брюсселе глава МИД Игорь дуван , выступиеший на пресс-конференции по итогу заседания Совместного постоянной совета РФ-НАТО .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "итогам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "постоянного"
+    },
+    {
+      "correctReplacement": "Иванов",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "выступивший",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

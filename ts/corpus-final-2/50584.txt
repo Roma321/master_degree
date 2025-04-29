@@ -1,0 +1,25 @@
+{
+  "text": "Тело Касадо было найдено в парижском парке , где он приму большей дозы снотворного и умер .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дозу"
+    },
+    {
+      "correctReplacement": "мадридском",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

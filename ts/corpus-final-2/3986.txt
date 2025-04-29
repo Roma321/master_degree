@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC News , инцидентом лечился в Бретфорде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "correctReplacement": "случился",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Бредфорде",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

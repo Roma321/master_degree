@@ -1,0 +1,15 @@
+{
+  "text": "Согласно официальному данным , бомба взорвалась , когда проезд отходил от станции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "официальным"
+    },
+    {
+      "correctReplacement": "поезд",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

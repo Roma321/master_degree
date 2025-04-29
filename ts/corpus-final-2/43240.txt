@@ -1,0 +1,25 @@
+{
+  "text": "В течение долгого время торгуя лекарствами , документация на которые не была оформлены должной образом , предприниматель получил незаконного доход в 702 тысячи рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "должным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "оформлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "незаконный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "времени"
+    }
+  ]
+}

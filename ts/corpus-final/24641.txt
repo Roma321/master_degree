@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что Галина Старовойтова была убита 20 ноября 1998 года около 23 часам в подъезде своего дома , ее пресс-секретарь Руслан Линьков пошутившие огнестрельное ранение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Между тем , в прпсс-службой столичного ОМОНа по-прежнему отрицаемые , что отряды милиции особой назначения получал приказ о силовая операции в отношении офиса \"Транснефти\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "особого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "отрицают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "силовой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "отряд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пресс-службе"
+    },
+    {
+      "correctReplacement": "пресс-службой",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

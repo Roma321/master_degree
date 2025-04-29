@@ -1,0 +1,25 @@
+{
+  "text": "Ранее запланировавшая на полдень 2 января встречу Владимира Путина с лидерами думских фракций и депутатских соединений Государственной Думы второго и третьего созывов отложена на более поздние срок .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "запланированная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "поздний"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "встреча"
+    },
+    {
+      "correctReplacement": "объединений",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

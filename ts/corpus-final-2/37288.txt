@@ -1,0 +1,20 @@
+{
+  "text": "Он также сказала , что Кремль поддерживало на выборах не сенегал ФСБ Виктора Суржикова , а его .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "поддерживал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "генерала",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

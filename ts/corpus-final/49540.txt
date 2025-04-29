@@ -1,0 +1,25 @@
+{
+  "text": "Одиннадцать граждан Россией , один гражданин Молдавии и двое граждан Казахстана обвиняемся пл семи статьям Уголовного кодекса республикой , в том числе за незаконное хранение боеприпасов и участие в преступных группировках .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "обвиняются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "республики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Однако поиск , проведу в августе несколькими галерами и новостных сайтами , не смог выявить ни одного британца , который бы воспользовался этой услкгой .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "проведенный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "новостными"
+    },
+    {
+      "correctReplacement": "газетами",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "услугой",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

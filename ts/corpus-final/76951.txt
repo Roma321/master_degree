@@ -1,0 +1,25 @@
+{
+  "text": "В них находились двести минометных мины различных калибров , 700 патронов к автомату Калашникова , 10 мешков с мукой , 8 мешков с сахар , 30 комплектоф военного обмундирования импортного производства , ящик с медикаментами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "находилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "мин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "сахаром"
+    },
+    {
+      "correctReplacement": "комплектов",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

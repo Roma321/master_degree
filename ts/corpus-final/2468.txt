@@ -1,0 +1,25 @@
+{
+  "text": "Генпрокуратура России признавшая решению о выдаче Грузии террориста Нугзара Чухуа , подозреваемого в покушении на президента этого республики Эдуард Шеварднадзе в феврале 1998 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Эдуарда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "приняла",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

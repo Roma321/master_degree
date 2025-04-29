@@ -1,0 +1,25 @@
+{
+  "text": "Это стало известно после того , как столичные футболистам проигранные немецкий \"Байеру\" - 0 : 1 в пятом туре первого раунда .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "немецкому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "футболисты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "проиграли"
+    },
+    {
+      "correctReplacement": "немецкой",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

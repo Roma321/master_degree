@@ -1,0 +1,30 @@
+{
+  "text": "Бандиты , отмечаешься в сообщении пресс-центра , предпринимаете попытки небольшими группами просочиться по низинам и сухим руслам рек в Хасавюрты для совершений диверсий и террористических актов с телью дестабилизировать обстановку в городе .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Хасавюрт"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "предпринимают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "совершения"
+    },
+    {
+      "correctReplacement": "целью",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

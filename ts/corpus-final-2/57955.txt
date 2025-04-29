@@ -1,0 +1,30 @@
+{
+  "text": "Его партии , созданная всего полтора года назар , обещаю оказать всестороннюю помощь десяткам миллионам жителям страны , пострадавшим от последствий экономического кризиса 1997 года в Азии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "партия"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "обещает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "жителей"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

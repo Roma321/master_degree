@@ -1,0 +1,25 @@
+{
+  "text": "Европейский Суд в Люксембурге приговорил немецкий автомобилестроительная концерн Volkswagen к выплате рекордного штрафа а сумме 90 миллиона евро (176 миллионов варок за нарушение правил свободной торговли , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "автомобилестроительный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "марок)",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

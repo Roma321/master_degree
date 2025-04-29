@@ -1,0 +1,25 @@
+{
+  "text": "Компания признано виновным ц краже идеи парка спортивных аттракционов , сообщает вас .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "виновной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "признана"
+    },
+    {
+      "correctReplacement": "ВВС",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он сообщила , что на встрече депутаты высказанные некоторую критики в адрес правительства , в частности , в сфере законотворческого деятельности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "законотворческой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "критику"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "высказали"
+    }
+  ]
+}

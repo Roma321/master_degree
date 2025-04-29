@@ -1,0 +1,20 @@
+{
+  "text": "Охрана расположенного в здании офису налоговой полиции Западного округа Москвы сочтённая предмет похожим на взрывное устройздво и эвакуировала посетителей и работников офиса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "офиса"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сочла"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

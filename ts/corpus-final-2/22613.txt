@@ -1,0 +1,25 @@
+{
+  "text": "Пожарный , прибывшие на места происшествий коло 20 . 00 , эвакуировали всех людей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Пожарные"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

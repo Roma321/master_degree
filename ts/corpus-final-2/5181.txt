@@ -1,0 +1,30 @@
+{
+  "text": "Энергетик объявили о 20-процентном сокращении объема поставлявшего в городом электричества , пообещав при этом сделать все подложное , чтобы не страдаем простые жители .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "город"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "поставляемого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Энергетики"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "страдали"
+    },
+    {
+      "correctReplacement": "возможное",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

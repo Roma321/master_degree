@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что шесть недели назад он перенес тяжелейший инсульт и с тех пор не выхоженный из кбмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "недель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выходил"
+    },
+    {
+      "correctReplacement": "комы",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

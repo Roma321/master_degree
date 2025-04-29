@@ -1,0 +1,20 @@
+{
+  "text": "Минувшая ночью эта команде одержала очередную победу , выиграу у \"Сиэтла\" (106 : 103) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "команда"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Минувшей"
+    },
+    {
+      "correctReplacement": "выиграв",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

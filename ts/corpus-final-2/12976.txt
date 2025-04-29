@@ -1,0 +1,25 @@
+{
+  "text": "Тогда руководство военного полигону заявлю , что обстрел был произведен случайно ч результате неверных расчётов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "полигона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "расчетов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заявило"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

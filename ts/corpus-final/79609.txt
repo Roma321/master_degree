@@ -1,0 +1,25 @@
+{
+  "text": "Курсе рубля к доллару до конца года не превысит 29 рублях за доллар , заучивший журналистам в пртницу премьер-министр российского правительства Михаил Касьянов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Курс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "заявил",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Медицинскому консилиумы из 4 челомей , который обследовал Пиночета 5 января , пришел к \"однозначному и единодушному заключению\" , говорится в заявлениях МВД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "заявлении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Медицинский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "консилиум"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

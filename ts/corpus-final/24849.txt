@@ -1,0 +1,20 @@
+{
+  "text": "Затем Госдума перейдённая к обсуждению госструктуры и состава комитетов палат .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "перешла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "палаты"
+    },
+    {
+      "correctReplacement": "структуры",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

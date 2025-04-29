@@ -1,0 +1,20 @@
+{
+  "text": "Это самая крупная реформа политической системы Франции за сорок лет . На прошлой неделе законопроект одобрила нижняя палата французской парламента , стационарной ассамблея .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "французского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Национальная"
+    },
+    {
+      "correctReplacement": "Национальной",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

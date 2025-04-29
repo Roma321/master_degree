@@ -1,0 +1,20 @@
+{
+  "text": "Причиной трагедии стали проливные дожди , которые идут в этому районе Европы уже чедверо сутки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "суток"
+    },
+    {
+      "correctReplacement": "четверо",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

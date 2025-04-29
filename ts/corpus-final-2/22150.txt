@@ -1,0 +1,25 @@
+{
+  "text": "В Косово избирательные участки были открывшие золько в местях компактной проживания сербов (а это пять процентов от двухмиллионного населения края) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "открыты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "компактного"
+    },
+    {
+      "correctReplacement": "местах",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "только",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

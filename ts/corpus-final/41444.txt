@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным санным МЧС , на территории Ингушетиинаходившиеся около 15 тысячи беженцев , 800 из них разместившие в одномиз лагерей , остальные - у родственников и знакомых .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "размещены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "Ингушетиинаходятся"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

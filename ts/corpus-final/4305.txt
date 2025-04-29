@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что в настоящее время трём лицам и трем компаниям еже предъявлены обвинения в нелегальном переводе деньги через счета в американском отделении Bank of New York .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "трем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "денег"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

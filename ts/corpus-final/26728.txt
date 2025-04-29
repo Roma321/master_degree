@@ -1,0 +1,25 @@
+{
+  "text": "ЦИК зарегистрированный и инициативную группу избирателями , выдвинутую кандидатом в президенты помощника депутата ковровской городской Думы председателя движения \"Общественное согласие\" Германа Хрусталева .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "выдвинувшую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "зарегистрировал"
+    },
+    {
+      "correctReplacement": "Московской",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

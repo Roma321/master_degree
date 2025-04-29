@@ -1,0 +1,25 @@
+{
+  "text": "Ему напомнивший , что Россия является одной из немногих стран мира , имеющих технологии переработки и хранения отработанного ядерных топлива с атомных электростанций З",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ядерного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

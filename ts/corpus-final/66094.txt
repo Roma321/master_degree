@@ -1,0 +1,30 @@
+{
+  "text": "Христенко такое сообщу , что расхождений по сумме долга Украины за потреблю газ нет , а ев расхождений по его урегулированию .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "потребленный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "расхождения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

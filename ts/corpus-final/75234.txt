@@ -1,0 +1,20 @@
+{
+  "text": "Упавший самолёт не вонзался , а просто развалилась на части .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "развалился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "самолет"
+    },
+    {
+      "correctReplacement": "взорвался",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

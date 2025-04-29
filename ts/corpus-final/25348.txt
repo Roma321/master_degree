@@ -1,0 +1,25 @@
+{
+  "text": "Мо рекомендации метеослужбы , забранное Транскавказская автомагистраль , связывающее Россию с Закавказьем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "закрыта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "связывающая"
+    },
+    {
+      "correctReplacement": "закрыто",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

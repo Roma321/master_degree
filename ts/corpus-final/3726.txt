@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , Россия в прошлый раз выплатившая дополнительно около 20 миллионеров тенге (примерно 140 тысяч долларов) на медицинское обследование т реабилитации пострадавшего населения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "выплатила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "реабилитацию"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

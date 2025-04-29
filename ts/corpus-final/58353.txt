@@ -1,0 +1,20 @@
+{
+  "text": "Возгорания бензину на произнёсшее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "бензина"
+    },
+    {
+      "correctReplacement": "произошло",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

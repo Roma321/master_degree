@@ -1,0 +1,25 @@
+{
+  "text": "На этот раз 39 игроков , от водителей автобуса до программистов , из 38 стран принятые участие у трехдневных соревнования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "автобусов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "соревнованиях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "приняли"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

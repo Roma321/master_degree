@@ -1,0 +1,20 @@
+{
+  "text": "повар на танкер \"Ника\" , стоящем на 105-м причале четвертого района Угольного гавани Морского порта , начался в 5 : 00 по московскому времени во вторник .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Угольной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "танкере"
+    },
+    {
+      "correctReplacement": "Пожар",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

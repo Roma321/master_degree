@@ -1,0 +1,20 @@
+{
+  "text": "Фонд ОМС выделило еще восемь миолионов рублей для закупки лекарств и больничной имущества .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "выделил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "больничного"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

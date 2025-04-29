@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас шёл подготовка приекта минеральной закона о временных органах власти в Чечне на переходный период .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "федеральной",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "проекта",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

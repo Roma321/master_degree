@@ -1,0 +1,25 @@
+{
+  "text": "По уточнённым данным , в трех селах Ачхой-Мартановского района - Лермонтово , Закан-Юрт и Серноводск - зарегистрировано 77 случая брючного тифа , в то числе у 19 детей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "уточненным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "случаев"
+    },
+    {
+      "correctReplacement": "брюшного",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

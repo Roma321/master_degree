@@ -1,0 +1,20 @@
+{
+  "text": "Пассажиров , опаздывающих на поезд , пропускаете на перрон через \"взрывоопасное\" здания вокзала по предъявлению билетов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "здание"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "пропускают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "поезда"
+    }
+  ]
+}

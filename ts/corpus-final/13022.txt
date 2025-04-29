@@ -1,0 +1,25 @@
+{
+  "text": "По мнению поручительздва , принятый законы противоречил Конституции и Гражданскому кодексу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "закон"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "противоречит"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "поручительства",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

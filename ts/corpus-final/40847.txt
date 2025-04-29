@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаемый Associated Press , по предварительным данным , примерно в 10 : 30 утра по местному времени на одном из складов психотехники произошёл сильный взрыв .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "пиротехники",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

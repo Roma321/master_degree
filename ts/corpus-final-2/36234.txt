@@ -1,0 +1,20 @@
+{
+  "text": "Теплоход \"Рязань\" , доставлявший более двух тысяч тонн грузы из Владивостоков в Анадырь , затонул в ночь на вторник у Беринговом море .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Владивостока"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "грузов"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

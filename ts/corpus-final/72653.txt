@@ -1,0 +1,25 @@
+{
+  "text": "Проводя поиск по медицинскому сайту Drkoop . com , Смит обнаружу , что адрес его электронной почтой , а также название закаливания , которое он изучал , после введений в форму на сайте Drkoop . com были переданы рекламному агентству без разрешения самого пользователя .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "почты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "введения"
+    },
+    {
+      "correctReplacement": "заболевания",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

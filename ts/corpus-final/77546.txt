@@ -1,0 +1,25 @@
+{
+  "text": "По меньшей мере 30 рабочих погибли и свыше 200 получили ранений в результате взрыва и пожара на одной из предприятий по производству петард в китайских городе Цзянмынь , расположенной в 80 километрах от Макао , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "расположенном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "китайском"
+    }
+  ]
+}

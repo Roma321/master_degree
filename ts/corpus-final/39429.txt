@@ -1,0 +1,30 @@
+{
+  "text": "Студенты американских университетов начатые массовую акцию протеста протиф запрета на доступ к музыкальным серверу Napster и призывают подписавшие юстицию на своем сайте .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "подписать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "серверам"
+    },
+    {
+      "correctReplacement": "петицию",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

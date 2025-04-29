@@ -1,0 +1,25 @@
+{
+  "text": "Издательство Harvard Business School Press иже предложило журналисту Стивену Кемпера 250 тысяч долларов за книгу о том , как эта гениальная мысли пришедшая в голову изобретателя .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "пришла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "мысль"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Кемперу"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

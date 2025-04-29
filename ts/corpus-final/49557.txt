@@ -1,0 +1,25 @@
+{
+  "text": "В понедельнике на торгах ММВБ курс доллара увеличился в среднем на 17 , 47 копейки и составил 28 , 7766 рубль за долларом , сообщающий РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "доллар"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "рубля"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

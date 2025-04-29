@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу же в телекомпанию НТМ позвонил человек , назвавшиеся бывшим главой администрации Масхадова Апти Баталовым , и сообщил , что насильно удерживается неизвестными лицами в Москву , в дому номер 12 по Переведеновскому переулку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "доме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Москве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "назвавшийся"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "У подмосковного города Бронницы 21 июня перевернусь пассажирка автобуа \"Икарус\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "перевернулся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "correctReplacement": "пассажирская",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "автобус",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

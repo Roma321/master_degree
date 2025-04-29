@@ -1,0 +1,25 @@
+{
+  "text": "Среди документов обнаружены материалы аттестационных комиссий , в которых содержащиеся подробные сведений о преступлениях , совершенных соискателями вакансии в МШГБ протпв русских .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "вакансий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сведения"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

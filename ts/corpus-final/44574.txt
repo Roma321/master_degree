@@ -1,0 +1,20 @@
+{
+  "text": "кик сообщённое в среду РИА \"Новости\" , по сведениям из Махачкалы , в сторошу Зандака выдвинулась бронетехника .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "сторону",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

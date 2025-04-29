@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявивший в понедельник РИА \"Новости\" спецпредставитель президента РФ по правам человека в Яечне Владимир Каламаны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Каламанов"
+    },
+    {
+      "correctReplacement": "Чечне",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

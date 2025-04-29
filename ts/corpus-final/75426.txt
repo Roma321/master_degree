@@ -1,0 +1,25 @@
+{
+  "text": "Льгота по НДС для СМИ существуют в действующей Налоговом законодательство , но срок ее действия должен закончиться 1 января 2002 гуда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "существует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "законодательстве"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "действующем"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

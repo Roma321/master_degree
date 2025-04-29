@@ -1,0 +1,30 @@
+{
+  "text": "Между тем возврат акации был вызвано необходимостью передавшие пакет акций \"Кристалла\" государственному унитарноку предприятию \"Росспиртпром\" , которое создается в соответствии с президентским указом и должно объединить все госпакеты акций предприятий спиртовой отрасли .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вызван"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "передать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "акции",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "унитарному",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

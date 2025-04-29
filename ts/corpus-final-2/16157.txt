@@ -1,0 +1,25 @@
+{
+  "text": "Это бвдет означать прирастивший за годы в 20 процентам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "прирост",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

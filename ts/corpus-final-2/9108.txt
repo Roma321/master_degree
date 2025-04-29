@@ -1,0 +1,25 @@
+{
+  "text": "В данном же случае домное имя принадлежит простому пользователю , а украду его известный компании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "компания"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "украла"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "известная"
+    },
+    {
+      "correctReplacement": "доменное",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

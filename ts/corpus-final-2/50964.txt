@@ -1,0 +1,25 @@
+{
+  "text": "Кроме Олейника , по делу проходили главный бухгалтер Главному управление военных бюджета и финансирования Минобороны генерал-майор евгенио Дацко , начальники управления этого главка генерал-майор Анатолий Воробьев и генерал-майор Леонид Герасименко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Главного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "управления"
+    },
+    {
+      "correctReplacement": "Евгений",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В результате напряженной работ уточнены данные , получим накануне : согласно результатам , которые поступил из 19 округов , кервыми заколотивших подсчеты , за Буша проголосовали 2909465 жителей Флориды , за Гора - 2907722 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "полученные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "работы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "поступили"
+    },
+    {
+      "correctReplacement": "закончивших",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "первыми",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

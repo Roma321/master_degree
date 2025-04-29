@@ -1,0 +1,25 @@
+{
+  "text": "В свою очереть , Билл заверил выдвинувших Хиллари демократов , что его супруга не разочарует их и станет одним из самых мелких деятеля сенате США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "сената"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "деятелей"
+    },
+    {
+      "correctReplacement": "великих",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "очередь",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Другой пример был продемонстрирован председателем сенатского следственного подкомитета Сюзан Коллинз , котрый являющийся сенатором от штат Мэн .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "штата"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Семья Норжица просит израильская суд вычтенные 64 милтона шекелей (около 16 миллионов доллара США) из денег , ежемесячно перечисляемых Палестинской автономии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вычесть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "израильский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

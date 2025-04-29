@@ -1,0 +1,20 @@
+{
+  "text": "Чрезвычайная экологическая ситуация объявлю в сахалинский мужском порту Шахтерск , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "объявлена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "сахалинском"
+    },
+    {
+      "correctReplacement": "морском",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

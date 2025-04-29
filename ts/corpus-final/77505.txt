@@ -1,0 +1,25 @@
+{
+  "text": "На встрече с жителями подмосковного города Пущино онподчёркнутый , что при составление российской Конституция в 1993году было \"глубочайшей ошибкой передать огромную вросшая в рукиодного человека\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "онподчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Конституции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "составлении"
+    },
+    {
+      "correctReplacement": "власть",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

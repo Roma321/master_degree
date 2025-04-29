@@ -1,0 +1,30 @@
+{
+  "text": "Хекман отмечен за развитие теории и методов анализа социально-экономических факторов , зависимости уровня образования , мест жительства от эконопической стороны жизнь конкретных человеке , сообщает Шведская академия наук .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "конкретного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "места"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "жизни"
+    },
+    {
+      "correctReplacement": "экономической",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

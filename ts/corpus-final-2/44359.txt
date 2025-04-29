@@ -1,0 +1,25 @@
+{
+  "text": "Так , начальник ГУВД области Алексей Волков в интервью одной из куьских газет заявлю , что в днём нападения не видел господина Максачева , хотя тот и утверждал , что именно генерал посоветованный ему ехать в больницу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "посоветовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "курских",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

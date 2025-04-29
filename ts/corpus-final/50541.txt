@@ -1,0 +1,20 @@
+{
+  "text": "Волгоградского Госсвязьнадзор провели проверку провайдера и сначала приостановил лицензию ЗАП \"Байярд-Славия Коммуникэйшнс\" , а потом рекомендовал Госкомтелекому вообще отозвать ее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Волгоградский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "провел"
+    },
+    {
+      "correctReplacement": "ЗАО",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

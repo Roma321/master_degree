@@ -1,0 +1,25 @@
+{
+  "text": "В южнокорейском городе Улине , в 280 километрах к востокам от Сеула , пришлось на 13 часами остановить атомную электростанцию : линиям электропередачи , по которым передавался произведенная энергия , угрожала подошедший лесной пожар .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "передавалась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "угрожал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "востоку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "часов"
+    }
+  ]
+}

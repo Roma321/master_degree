@@ -1,0 +1,20 @@
+{
+  "text": "Одиннадцать человек погибли при столкновении двум самолетов , превзошедшим в среду в штате Нью-Джерси , сообщаю Reuters .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "двух"
+    },
+    {
+      "correctReplacement": "произошедшем",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "29 рублей за доллар - по такому курсу можно было приобрести в среду наличную американской валюте в обменными пунктах Москвы , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "американскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "валюту"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "обменных"
+    }
+  ]
+}

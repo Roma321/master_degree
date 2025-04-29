@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник курс акции Microsoft на американских электронной бирже NASDAQ , где котирующиеся акции hi-tech компаний , упал до рекордно низкой уровня - около 50 долларов за акцию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "низкого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "американской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "котируются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "акций"
+    }
+  ]
+}

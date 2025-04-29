@@ -1,0 +1,20 @@
+{
+  "text": "По прогнозам адвоката , Александров проведёт в больницах не менее двух недевших .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "больнице"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "проведет"
+    },
+    {
+      "correctReplacement": "недель",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

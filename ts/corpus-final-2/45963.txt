@@ -1,0 +1,15 @@
+{
+  "text": "С другую строки , заметил адвокат , \"я ничего не исключаю\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "другой"
+    },
+    {
+      "correctReplacement": "стороны",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

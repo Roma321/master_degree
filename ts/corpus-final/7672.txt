@@ -1,0 +1,20 @@
+{
+  "text": "Введение санкций уже скажусь на понижение курса афганской валюты , резко возросли цены на прщдовольствие .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сказалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "понижении"
+    },
+    {
+      "correctReplacement": "продовольствие",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

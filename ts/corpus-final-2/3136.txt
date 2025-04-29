@@ -1,0 +1,30 @@
+{
+  "text": "В аппарат помощника президента РФ Сергея Ястржембского опровергают информации о крупных потерях федеративных сил в результате боя , якобы произойду между спецназ федеральных сил и боевиками в районе селения Джаны-Ведено .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "спецназом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "информацию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "аппарате"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "произошедшего"
+    },
+    {
+      "correctReplacement": "федеральных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

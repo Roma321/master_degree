@@ -1,0 +1,25 @@
+{
+  "text": "Он тагже сообщил , что 14 мая 2000 года будут провёдшие купонными выплаты в полном объеме по 4 и 5 траншу Оввза .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "купонные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "ОВВЗ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проведены"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

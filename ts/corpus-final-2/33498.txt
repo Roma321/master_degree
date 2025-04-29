@@ -1,0 +1,20 @@
+{
+  "text": "Около памятника был выставлен почетный караул , на площади выстроившиеся воинские участи всех подразделений Северного флотов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выстроились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "флота"
+    },
+    {
+      "correctReplacement": "части",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

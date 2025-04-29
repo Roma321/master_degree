@@ -1,0 +1,20 @@
+{
+  "text": "Он уже ставший амым быстро продаваемым альбом года и признан \"платиновым\" : за первую неделю продано 319 тысяч экземпляров , сообщает ВВС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "альбомом"
+    },
+    {
+      "correctReplacement": "самым",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

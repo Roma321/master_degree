@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , основной доклада по эиому вопросу сделавший сам Жириновский .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сделает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "доклад"
+    },
+    {
+      "correctReplacement": "этому",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

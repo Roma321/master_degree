@@ -1,0 +1,20 @@
+{
+  "text": "Согласно условиям компенсации , каждое из женщин получит около 450 тысяч долларов с учетом налогов и расходов на юридвческие услуги .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "каждая"
+    },
+    {
+      "correctReplacement": "женщин-истцов",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "юридические",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

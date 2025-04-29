@@ -1,0 +1,25 @@
+{
+  "text": "13-летняя Никки Вебстер , участвовавшая в церемониями открытия и закрытия Олимпийских игры в Сиднее , потписало контракт на одну из главных ролей в голливудском фильме для детей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подписала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "игр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "церемониях"
+    },
+    {
+      "correctReplacement": "подписало",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

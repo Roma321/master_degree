@@ -1,0 +1,30 @@
+{
+  "text": "Однако после той , как правительство Литвы передало предприятие подконтроль американского концернов Williams Intl , переговоры новой руководство завода с ЛУКОЙЛом о поставках российской нефти фактически заслал в тупик .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "зашли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "концерна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "руководства"
+    }
+  ]
+}

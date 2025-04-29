@@ -1,0 +1,20 @@
+{
+  "text": "Установив , что имеют дело с ненастоящей бомбоц , взрывотехники при помощь специального аппаратуры разрушили коробку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "помощи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "специальной"
+    },
+    {
+      "correctReplacement": "бомбой",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Министр заявил , что снимки делало сам журналисте , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "журналист"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "делал"
+    }
+  ]
+}

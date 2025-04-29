@@ -1,0 +1,35 @@
+{
+  "text": "С 1 утварей 2001 года пошлина на ввоз иномарки устанавливается в размера 30 процентов , одновременно вдвое увеличивающийся минимальный размер сборов за ввоз иномарок в зависимосьи от объема двигателя .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "увеличивается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "иномарок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "размере"
+    },
+    {
+      "correctReplacement": "январей",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "зависимости",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Посылки с наркотиками были адресовавшие отсутствующим фирмам . Таким образом FedEx доставляемая наркотики в Бостон , Нью-Йорк , Филадельфию , Атланту , Балтимор , Лос-Анджелес и многие другие города .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "доставляла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "адресованы"
+    },
+    {
+      "correctReplacement": "несуществующим",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники милиции задержали нескольких участнтков пикету , пытавшихся передать в посольство петицию с требованиями предрешившие войну в Чечне .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "требованием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пикета"
+    },
+    {
+      "correctReplacement": "прекратить",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Самими сотники не пострадали , однако станции не могла принимать снимки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "станция"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сами"
+    },
+    {
+      "correctReplacement": "спутники",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

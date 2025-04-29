@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщённые ИТАР-ТАСС в оставлении внутренних дел республики , около 19 часов в Ленинском районе Грозного из автоматического оружия была обстреляна автоколонна 201-й отдельной бригада особого назначения . В результате один военнослужащий был раним .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "бригады"
+    },
+    {
+      "correctReplacement": "управлении",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

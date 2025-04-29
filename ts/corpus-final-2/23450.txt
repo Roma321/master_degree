@@ -1,0 +1,20 @@
+{
+  "text": "Как передающий РИА \"Новости\" , представители оппозиции сообщили данные своего подлёта голосов избирателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "подсчета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "подсчёта",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

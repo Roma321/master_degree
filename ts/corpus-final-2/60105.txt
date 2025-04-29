@@ -1,0 +1,30 @@
+{
+  "text": "Отставной британский гинеколог польское происхождений признан виновным в излишне грубом обращении с пациентками во время принятия роды , сообщаю BBC .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "происхождения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "польского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "родов"
+    },
+    {
+      "correctReplacement": "излишне",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

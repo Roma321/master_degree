@@ -1,0 +1,20 @@
+{
+  "text": "Однако , как отмечал сегодня тегеранское радио , в результапе миномётном обстрела сами казармы серьезно не пострадали .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "минометного"
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

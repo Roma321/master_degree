@@ -1,0 +1,15 @@
+{
+  "text": "Он послала мяч намного выше перекладины , и росчияне победили - 4 : 3 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "послал"
+    },
+    {
+      "correctReplacement": "россияне",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

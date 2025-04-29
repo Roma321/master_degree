@@ -1,0 +1,25 @@
+{
+  "text": "Полиция полагаешь , что проезжавшие мимо братьев члены одной из местных бандитских группировки примем язык вестов за знаки враждующей с ними группировки .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "полагает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "группировок"
+    },
+    {
+      "correctReplacement": "жестов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Всего две нюанса омрачают эту новость : во-первых , участницами лотереи могут стать лишь совершеннолетние жители США , Канадой и Великобритании ; во-вторых , шансы каждого иэ участников на выигрыш не превысят 1 к 2 , 4 миллиардам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Канады"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "участниками",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

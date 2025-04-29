@@ -1,0 +1,25 @@
+{
+  "text": "Тарифы на грузовые перевозки внутри Россти , по сведения HTB . Ru , в последние таз поднимались 1 августа 2000 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "раз",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

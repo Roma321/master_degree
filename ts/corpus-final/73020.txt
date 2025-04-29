@@ -1,0 +1,25 @@
+{
+  "text": "Согласно этой постановлению , численность сотрудников органов предварительного следствия в системой Министерства внутренних дел РФ , содержащихся за слёт средств федерального бюджета , увеличившая с 52230 до 52400 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "системе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "увеличена"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

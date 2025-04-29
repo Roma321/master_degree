@@ -1,0 +1,30 @@
+{
+  "text": "На заседании комиссии Мосгордумы заместителя генерального директора компании Петр Иванов заявлю , что в этом году убытки предприятия выставлявшие 1 , 365 миллиарда рублей , а к 2001 году они могущие достигнуть 1 , 8 миллиарда .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "составляют"
+    },
+    {
+      "correctReplacement": "составляли",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

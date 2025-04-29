@@ -1,0 +1,20 @@
+{
+  "text": "По темпам ростов среди российских компаний лидировали судостроительный завод \"Северная верфь\" , а такое \"Иркутское авиационное ПО\" и \"Авитек\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "лидируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "роста"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На химическим заводе , расположенной в префектуре Ганма в 90 километрах от Токио , происшедший сильный взрыв .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "расположенном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "химическом"
+    },
+    {
+      "correctReplacement": "произошел",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

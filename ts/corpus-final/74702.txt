@@ -1,0 +1,25 @@
+{
+  "text": "Министерство по антимонопольной политике отказавшееся компании в просьбе возбудить дела по факту недобросовестной конкуренции в отношении предпринимателе Грундула , владеющего домена Kodak . Ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "доменом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "предпринимателя"
+    },
+    {
+      "correctReplacement": "отказало",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

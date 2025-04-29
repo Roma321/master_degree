@@ -1,0 +1,35 @@
+{
+  "text": "По сообщениям International Herald Tribune , глава Минторга Японии Такаси Фукайя настаивал га том , что частое применения в США антидемпинговых меры на импорт стальной продукции является проблемой , заслуживавшей пристальным внимания со стороны ВТО .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "применение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "настаивает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "заслуживающей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "мер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "пристального"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

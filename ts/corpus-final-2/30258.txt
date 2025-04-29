@@ -1,0 +1,20 @@
+{
+  "text": "Всего в ракмах проекта TACIS различными видами экспортной и консультационного помощи будет охвачу около 60 российских страховых компаний - членов Всероссийского Союза страховщиков .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "охвачено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "консультационной"
+    },
+    {
+      "correctReplacement": "экспертной",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Во время боевых действий в чеченском селе Комсомильское федеральным силам противостоявшие около 1500 боевиков , сообщающий Агентства военных новости со ссылкой на данные штаба Объединенной группировку войск на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "противостояли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Агентство"
+    },
+    {
+      "correctReplacement": "Комсомольское",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

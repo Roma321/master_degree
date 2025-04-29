@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что 26 марту Черепков побеждённый на всборах депутата Госдумы , однако окружной избирком призвавший их итогами недействительными .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "победил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "марта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "итоги"
+    },
+    {
+      "correctReplacement": "признал",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

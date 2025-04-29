@@ -1,0 +1,25 @@
+{
+  "text": "Сообщить же раньше о гибели всего экипажа подводного лодки российские власти не можем побоку , что оставалась некоторая надежда на то , что в девятого отсеке сохранился воздушный мешок , пояснил Клебанов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "девятом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "могли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "подводной"
+    },
+    {
+      "correctReplacement": "потому",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

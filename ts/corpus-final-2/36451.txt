@@ -1,0 +1,20 @@
+{
+  "text": "А объявленная по результатам exit polls победа Гора во Флоридой так и не освоился .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Флориде"
+    },
+    {
+      "correctReplacement": "состоялся",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

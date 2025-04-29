@@ -1,0 +1,30 @@
+{
+  "text": "Конфликтная ситуация возникнувшая в связи с тем , что Ирак утрировавший от своих клиентов с 1 декабря платить за каждый баррелем нефти на 50 ценнов больше официального курса и переводить эти деньги на специальный счет , не контролируемые ООН .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "возникла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "контролируемый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "баррель"
+    },
+    {
+      "correctReplacement": "потребовал",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "центов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

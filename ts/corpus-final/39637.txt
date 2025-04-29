@@ -1,0 +1,35 @@
+{
+  "text": "По официальным данным Госкомстата , индекс потребительского цен в России в феврале 2000 года составленный 101 процено - таким образом , уровень инфляции равно 1 проектом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "равен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "потребительских"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "проценту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "составил"
+    },
+    {
+      "correctReplacement": "процентом",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "процент",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Держатели акциям РАО предпочитаемые не дожидаться глобальной перестройки энергетического рынка России и избавиться от ценных бумаг этой компании заранее , отмечают HTB . Ru .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "предпочитают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

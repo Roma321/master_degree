@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщённые журналистам Associated Press представителей Национального сейсмологической обсерватории , эпицентре землетрясения , сила которого составляла около 5 , 9 балла по шкале Рихтера , находившийся в штате Герреро на Тихоокеанском побережье Мексики , в 150 пилях (примерно в 230 километрах) от Мехико .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Национальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "представители"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "эпицентр"
+    },
+    {
+      "correctReplacement": "милях",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Рассмотренные материалы и выработанные предложение комиссия может направлять в органы государздвенную власти , а также в Генеральную прокуратуру РФ и другие правоохранительные орган .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "предложения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "органы"
+    },
+    {
+      "correctReplacement": "государственную",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

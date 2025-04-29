@@ -1,0 +1,35 @@
+{
+  "text": "Представителей банков указали на то , ато , по их сведениях , речь идущий об одном российском процессингового центром , с EM-модуля (модуль , осуществляющий связь с Europay) которого была получена информация о номерах карт и PIN-кодах их владельцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представители"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "процессинговом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

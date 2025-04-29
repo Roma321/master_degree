@@ -1,0 +1,20 @@
+{
+  "text": "На складе фабрики милиционеры конфисковавшие более миллиону пачек сигар .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "конфисковали"
+    },
+    {
+      "correctReplacement": "сигарет",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

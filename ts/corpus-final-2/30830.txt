@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям ЮНИСЕФ , около двух миллиона детям во всем мире фтянуты в занятия проституцией , причем 400 тысячи из них - в одном только Таиланде .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "детей"
+    },
+    {
+      "correctReplacement": "втянуты",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

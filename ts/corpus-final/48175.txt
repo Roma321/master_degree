@@ -1,0 +1,30 @@
+{
+  "text": "В окружных суде в Косовской Митровице 30 марта начался судебную процесс над албанца , подозревающим в убийстве российского миротворца в Косово , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "окружном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "судебный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "албанцем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "подозреваемым"
+    }
+  ]
+}

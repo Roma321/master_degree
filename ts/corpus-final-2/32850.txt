@@ -1,0 +1,20 @@
+{
+  "text": "Хиллари Клинтон заявила , что вернет 50 тысяч долларов , полученных в качестве пожертвования на ее избирательную кампанию от мусульман организаций Калифорнии , сообщающий The New York Times .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пожертвований"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "мусульманских",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

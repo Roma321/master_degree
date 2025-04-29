@@ -1,0 +1,30 @@
+{
+  "text": "Противники официальной версии убийства обращаете внимание на расхождения й показаниях доктора , осматриваемого смертельно раненного Рабина , и патологоанатома , проводившей вскрытия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "вскрытие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "проводившего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "осматривавшего"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "обращают"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

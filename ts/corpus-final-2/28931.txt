@@ -1,0 +1,20 @@
+{
+  "text": "Из информированных источниками в Кремле стафшее известно , что российским дипломатическим службам дано задание подготовить визит президента России Владимира Путина в Египет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "источников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "стало"
+    },
+    {
+      "correctReplacement": "ставшее",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

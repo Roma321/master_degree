@@ -1,0 +1,30 @@
+{
+  "text": "Один из ееавторов , сбежавший на Запад архивариус КГБ Василий Митрохиным , утверждающий там , будто в годы послевторой мировой войны Норвуд передавала СССР секретнуюинформацию о британской программе разработавшие ядерной оружия . Британские эксперты тогда же поставим эту историю подсомнение .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 36,
+      "correctReplacement": "поставили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Митрохин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "ядерного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "разработки",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

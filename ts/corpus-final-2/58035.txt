@@ -1,0 +1,40 @@
+{
+  "text": "На Красная площади Шредер заявил журналистам , что никакими важных тем во время беселы с российским президентом не обсуждаюсь , однако Путин поправил его , сообщив , что их с канцлером успеем обменяться мнениями по поводу итогов прошедшего в Ницце саммита ЕС , - передающий немецкая телекомпания ARD .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "никаких"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 44,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Красной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "обсуждалось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "успели"
+    },
+    {
+      "correctReplacement": "беседы",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

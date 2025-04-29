@@ -1,0 +1,20 @@
+{
+  "text": "По словам Уагонера , система действовал чарез OnStar , спутниковую систему General Motors : автомобильная система связывают водителя с миникомпьютером Personal Digital Assistant , который , в свою очередь , связывается с OnStar .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "действует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "связывает"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

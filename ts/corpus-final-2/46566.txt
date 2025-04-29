@@ -1,0 +1,30 @@
+{
+  "text": "По результатам проверки Коллегия решила направленные письмо в правительство России и полномочным представителю президента в Северо-Западном федеральной округе Викпору Черкесову , а также представления губернатору Мурманской области Юрию Евдокимову и командующему Северным флотом Вячеславу Попову .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "направить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "полномочному"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "федеральном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "письма"
+    },
+    {
+      "correctReplacement": "Виктору",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

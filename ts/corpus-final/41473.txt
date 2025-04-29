@@ -1,0 +1,20 @@
+{
+  "text": "В субботу состоявшийся неофициальная встреча британским премьера с и . о . нерезидента России Владимиром Путиным , а вечером Блэр посетит Мариинский театр .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "британского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "состоится"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

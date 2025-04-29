@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , Центризбирком изучил полученную рукопись и пришли к вывод , что её содержит признаки предвыборной агитации я пользу Путина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "пришел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "выводу"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

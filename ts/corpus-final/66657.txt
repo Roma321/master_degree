@@ -1,0 +1,30 @@
+{
+  "text": "Прибывшие к офис люди в камуфляжной форме предъявили охране компани удостоверения сотрудников налогового полиции , однако сразу после прибытия телевизионной групп оставшиеся у входа в здание полицейских натянули маски .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "офису"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "группы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "полицейские"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как заявил генерал Васильев , в районе этого объекта активные боевые действия не велись , и сейчас он ужо находящийся на территории , контролированной федеральными войсками .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "контролируемой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

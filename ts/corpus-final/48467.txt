@@ -1,0 +1,20 @@
+{
+  "text": "На реку Ченаб возле города Гуджрат (провинция Пенджаб)опрокинулась переполненоая лодка с паломником .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "паломниками"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "реке"
+    },
+    {
+      "correctReplacement": "переполненная",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

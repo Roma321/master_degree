@@ -1,0 +1,35 @@
+{
+  "text": "Во вторнике в 15 . 45 неподалеку от эстонского порта Мийдуранн затонуло торговое судно Zenitas , ходпвшая под глагами Гондурас .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "ходившее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "флагом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Гондураса"
+    },
+    {
+      "correctReplacement": "флагами",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "ходившая",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

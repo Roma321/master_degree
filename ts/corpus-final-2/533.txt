@@ -1,0 +1,20 @@
+{
+  "text": "В аппарат помощника президента Сергея Ястржембского сообщённые , что \"ни вчера , ни сегодня утром ити днем никакого боя в указанном районе не было .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "аппарате"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

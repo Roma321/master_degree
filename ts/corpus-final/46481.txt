@@ -1,0 +1,25 @@
+{
+  "text": "Данные консуььские пункт наделены правом оформлений виз для посещения России , в том числе машиночитаемых визовых талонов , сообщал РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "пункты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "оформления"
+    },
+    {
+      "correctReplacement": "консульские",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

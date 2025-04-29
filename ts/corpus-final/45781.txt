@@ -1,0 +1,25 @@
+{
+  "text": "Если пенсионеры сумели получившие сумму , затребованную по иску , часть ее они намерены направить на компенсации пожулых людям , а часть- на проектирование и развитие в городе троллейбусногосообщения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "получить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сумеют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "пожилым"
+    },
+    {
+      "correctReplacement": "пожилых",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

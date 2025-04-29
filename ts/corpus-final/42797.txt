@@ -1,0 +1,20 @@
+{
+  "text": "Александр Лукашенко всячески подчёркивающий , что композицию финансировал Запад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подчеркивает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "финансирует"
+    },
+    {
+      "correctReplacement": "оппозицию",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

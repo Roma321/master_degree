@@ -1,0 +1,25 @@
+{
+  "text": "Президент съеденный салат из креветок , утиные печеночный паштет , куриную ногк и выпил пинты пива .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "съел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "утиный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пинту"
+    },
+    {
+      "correctReplacement": "ногу",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

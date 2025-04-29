@@ -1,0 +1,30 @@
+{
+  "text": "Верховный суд РФ не прислушался к жалобе Юрия Лужковым и оставленный бел изменения решение президента уволенные начальников московского ГУВД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "начальника"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "оставил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "уволить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Лужкова"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

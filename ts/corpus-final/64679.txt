@@ -1,0 +1,25 @@
+{
+  "text": "Именно в выходные дни торговый центр , который считается одним из крупнейших в столице магазинов по продаже строительного оборудование и отделочных материалы , идетый наибольшую выручку .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "материалов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "оборудования"
+    },
+    {
+      "correctReplacement": "имеемый",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

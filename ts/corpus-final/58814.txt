@@ -1,0 +1,20 @@
+{
+  "text": "Сильный пожар возникла в понедельник на железнодорожников станции Новая в Читинской области (Восточная Сибирь) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "железнодорожной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "возник"
+    },
+    {
+      "correctReplacement": "железнодорожных",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "степень старый адреса не отвечает , а новая сайты \"Единства\" появился по адресу www . edin . ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "новый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сайт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "адрес"
+    },
+    {
+      "correctReplacement": "Теперь",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

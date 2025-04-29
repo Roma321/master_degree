@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщила Агентству военных новостей первые заместитель генерального конструктора фирмы Алексей Самусенко , раньше денег за уже выполненный заказ приходилось ждать еа заводе месяцами , а то и годами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

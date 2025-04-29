@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с законами об авторской праве , фирма \"Класс\" обязана была заключить диверсионное соглашение с Российским авторским обществом , которое имеет со шведским авторским обществом договоры о взаимном представительстве интересов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "авторском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "законом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "договор"
+    },
+    {
+      "correctReplacement": "лицензионное",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

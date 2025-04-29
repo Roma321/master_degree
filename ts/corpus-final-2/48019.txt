@@ -1,0 +1,30 @@
+{
+  "text": "Рост курса акций американских компании произошел вопреки ожиданиям их дильнейшего падения , которое прогнозировалось прежде всё в высокотехнологичной секторе Nasdaq .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "высокотехнологичном"
+    },
+    {
+      "correctReplacement": "дальнейшего",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "дальнейшего",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

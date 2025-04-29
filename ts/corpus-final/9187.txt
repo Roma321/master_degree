@@ -1,0 +1,30 @@
+{
+  "text": "Специалисты , работавшие над китайской программой запуске космическому аппарата с астронавтом на борту , заявившие , в свою очередь , что нынешний успешный космический полет свидетельствует о хорошеф функциональности китайского космического аппарата и ракет-носителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "запуска"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "работающие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "космического"
+    },
+    {
+      "correctReplacement": "хорошей",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

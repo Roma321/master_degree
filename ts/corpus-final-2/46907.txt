@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , Михайлов принес личный обвинения бывшему губернатору Александру Руцким .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Руцкому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "личные"
+    },
+    {
+      "correctReplacement": "извинения",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

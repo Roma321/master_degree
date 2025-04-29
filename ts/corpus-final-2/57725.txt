@@ -1,0 +1,20 @@
+{
+  "text": "Независимое адвокат роберт Рэй назначил срок , к которому должно решиться , будет ли он выдвигать судебный иск против президента Билла Клинтона , когда тот после 20 января уйдёшь в отставку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Независимый"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "уйдет"
+    },
+    {
+      "correctReplacement": "Роберт",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

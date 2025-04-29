@@ -1,0 +1,25 @@
+{
+  "text": "Президент Йеменов предположу , что к взрыву привели какие-то технические проблемы изнутри судна , однако в США думали иначе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Йемена"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "предположил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "думают"
+    },
+    {
+      "correctReplacement": "внутри",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

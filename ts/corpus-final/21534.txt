@@ -1,0 +1,30 @@
+{
+  "text": "На пресс-конференция в среды он заявила , чио нынешний уровень тарифов \"стал достаточной для рентабельной работы отрасли\" даже с учетом того , что Минэкономики прогнозирует инфляцию на 2000 год порядка 32 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "достаточным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

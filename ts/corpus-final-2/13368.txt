@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявило журналистам в пятницу вице-премьер правительства Москвы Бориса никольский .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Борис"
+    },
+    {
+      "correctReplacement": "Никольский",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

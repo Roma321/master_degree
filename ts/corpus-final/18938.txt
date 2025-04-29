@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению РИА \"Новости\" , переж въездом сторонники Станиславов Дерева перекрыли автомагистраль \"Черкесск-Ставрополь\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Станислава"
+    },
+    {
+      "correctReplacement": "съездом",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "перед",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

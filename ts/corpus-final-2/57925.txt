@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям газеты , переговорным с издателями по поводу публикацией мемуаров начнутся уже на будущей неделях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "публикации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "неделе"
+    },
+    {
+      "correctReplacement": "переговорам",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

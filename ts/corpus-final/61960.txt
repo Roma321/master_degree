@@ -1,0 +1,20 @@
+{
+  "text": "В российской столице задержан бизнесмен , который оборудовало свою личное автомашину мод милицейскую , передает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "личную"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "оборудовал"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

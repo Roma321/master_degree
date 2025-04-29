@@ -1,0 +1,20 @@
+{
+  "text": "Полиция не сообщал , будет ли Нойи допрошен в связью с этим буйством .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "убийством",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом он заявил в понедельник на конвенций пт проблемам двойного налогообложение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "налогообложения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "конференции"
+    },
+    {
+      "correctReplacement": "конференций",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

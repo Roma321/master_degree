@@ -1,0 +1,25 @@
+{
+  "text": "Начальник Управления федерального службы налогового полиции Москвы Борис Добрушкин выскажусь за внесение поправок в дейздвующее законодательство .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "высказался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "федеральной"
+    },
+    {
+      "correctReplacement": "действующее",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

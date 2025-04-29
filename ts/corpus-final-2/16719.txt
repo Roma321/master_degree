@@ -1,0 +1,20 @@
+{
+  "text": "Новый терминал позволит обслуживать 8 миллионов пассажиров в год и пофти вдвое увеличат нынешнюю пропускную способности \"Шереметьево-2\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "увеличит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "способность"
+    },
+    {
+      "correctReplacement": "почти",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

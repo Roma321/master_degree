@@ -1,0 +1,20 @@
+{
+  "text": "Прокуратура Курской области предъявила обвинение Василию Олейникову , задержанному 21 ноября по подозрениям в причастности к избиению бывшего вице-губернатора области Сергпй Максачева .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "подозрению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Сергея"
+    },
+    {
+      "correctReplacement": "Сергей",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

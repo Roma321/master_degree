@@ -1,0 +1,20 @@
+{
+  "text": "В итоге около 500 семей москвичах остались без жилья и деньги .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "денег"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "москвичей"
+    },
+    {
+      "correctReplacement": "семей",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

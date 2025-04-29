@@ -1,0 +1,25 @@
+{
+  "text": "Пока же любой , набранный адрес из списков (например , www . balfron . co . uk) попадает на страницу , которая претендует на то , чтобы быть путеводителем по указанному месту , однако все ссылки ведут на платные страницы различного справочных сайтов независимо от введенного адреса .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 40,
+      "correctReplacement": "различных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "списка"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "набравший"
+    },
+    {
+      "correctReplacement": "главные",
+      "type": "paronym",
+      "wordNumber": 38
+    }
+  ]
+}

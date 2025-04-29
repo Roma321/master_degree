@@ -1,0 +1,25 @@
+{
+  "text": "По итогам совещания была принявшая следующая резолюция : решение арбитражного суда верховская области от 16 . 03 . 2000 подлежишь немедленной исполнению .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "немедленному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "принята"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "подлежит"
+    },
+    {
+      "correctReplacement": "Свердловской",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

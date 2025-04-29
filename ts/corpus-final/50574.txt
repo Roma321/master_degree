@@ -1,0 +1,25 @@
+{
+  "text": "Российская делегация , чьи полномочие были приостановлены ПАСЕ 3 апреля , в голосовании счастии не принимало .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "участия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "принимала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "полномочия"
+    },
+    {
+      "correctReplacement": "участии",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

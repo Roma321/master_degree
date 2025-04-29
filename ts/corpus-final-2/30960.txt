@@ -1,0 +1,20 @@
+{
+  "text": "Его снимают соискатели популярного фильм \"Вращающийся город\" (Spin City) Джей Шерие и Дэвид Ронн .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "фильма"
+    },
+    {
+      "correctReplacement": "создатели",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "Шерик",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

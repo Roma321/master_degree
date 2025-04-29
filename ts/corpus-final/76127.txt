@@ -1,0 +1,20 @@
+{
+  "text": "В городе Павлоград Днепропетровской области нашедший мертвым председатель избирательной комиссия одного из участков по выбопам народных депутатов Украины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "комиссии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "найден"
+    },
+    {
+      "correctReplacement": "выборам",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

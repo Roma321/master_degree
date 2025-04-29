@@ -1,0 +1,20 @@
+{
+  "text": "Апелляционная инстанция оставила бет изменение решение суда первой инстанции , откажу истцу в удовлетворении его требований .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "изменения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "отказавшего"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

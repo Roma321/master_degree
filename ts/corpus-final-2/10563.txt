@@ -1,0 +1,20 @@
+{
+  "text": "На заседании Авдевич был выведший из членов редколлегии \"Родины\" ибыл вынужден подать заявление об увольнении с поста первого заместителем главного реактор .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выведен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "заместителя"
+    },
+    {
+      "correctReplacement": "редактора",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

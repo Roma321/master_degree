@@ -1,0 +1,25 @@
+{
+  "text": "Прокурор также высказалось за то , что нельзя ставить под сомнение пакт совершения сделок т продаже .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "высказалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сделки"
+    },
+    {
+      "correctReplacement": "факт",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

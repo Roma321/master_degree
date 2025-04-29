@@ -1,0 +1,25 @@
+{
+  "text": "Владелец лондонского паба , отрада Юилл Клинтон ушел не заплатив , получу письмо от кота президент США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "получил"
+    },
+    {
+      "correctReplacement": "откуда",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Билл",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По окончании торги председатель Москомзема Виктор Дамурчиев заявил , что для городских властей мучительно большее интерес представлял политическую аспект торгов , \"процесс возвращения доверия инвесторов\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "торгов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "политический"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "больший"
+    },
+    {
+      "correctReplacement": "значительно",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

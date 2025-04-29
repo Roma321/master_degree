@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , по словам Бабичева , в Чечнёй арестовавшие чедверо подозреваемых в расстреле милиционеров в населённой пункте Новощедринское Шелковского района .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "арестованы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Чечне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "населенном"
+    },
+    {
+      "correctReplacement": "четверо",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

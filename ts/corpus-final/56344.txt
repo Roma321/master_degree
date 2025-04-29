@@ -1,0 +1,15 @@
+{
+  "text": "Напомним , что ранее министр обороны РФ Игорь Сергеев заявлю , что под Сержень-Юртом погибли 15 человем .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

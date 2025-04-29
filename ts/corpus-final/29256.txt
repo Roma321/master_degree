@@ -1,0 +1,25 @@
+{
+  "text": "За первое полугодие прошлого года кредитные организации понесём избытки в сумме 5 , 7 миллиардах рублей , передает Федеральное агентства новостей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "понесли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "correctReplacement": "убытки",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

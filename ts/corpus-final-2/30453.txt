@@ -1,0 +1,25 @@
+{
+  "text": "Предполагающийся , что этом террористическому акт совершил боевик-камикадзе сепаратистской экстремистской организации \"Тигры освобождения Тамил Илама\" в знак протеста против победы ни выборах партии Народного Альянса .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Предполагается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "террористический"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По словам президента , он получила много письмам от граждан республиканцы с призывом баллотироваться на высший государственный пост .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "писем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "получил"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

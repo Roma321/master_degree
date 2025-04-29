@@ -1,0 +1,25 @@
+{
+  "text": "Минувшей новью из городского управления образованмя Владимира было похищено две с половиной тысячи аттестатов о полном среднем образовании и 200 вкладыша к ним , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "вкладышей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "ночью",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "образования",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

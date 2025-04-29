@@ -1,0 +1,30 @@
+{
+  "text": "По мнению контр-адмирала Соцкова , решение суда инзенского района являющийся юридически несостоятельным , поскольку при рассмотрением иску представитель начальника Управления ФСБ по Тихоокеанскому флоту был лишен возможности представленные доказательства шпионской деятельности Пасько .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "представить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "рассмотрении"
+    },
+    {
+      "correctReplacement": "Фрунзенского",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "иска",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

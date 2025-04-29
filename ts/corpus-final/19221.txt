@@ -1,0 +1,15 @@
+{
+  "text": "В минувшей среду Московская городскея избирательная комиссия утвердила результаты выборов мэра Москвы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "correctReplacement": "городская",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

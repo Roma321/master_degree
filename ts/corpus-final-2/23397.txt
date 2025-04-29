@@ -1,0 +1,20 @@
+{
+  "text": "Если в год вышедший от восьми до 15 мультфильмов , то номинирующиеся будут три из них , если от 16 и больге - то пять .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "номинироваться"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "выйдет"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

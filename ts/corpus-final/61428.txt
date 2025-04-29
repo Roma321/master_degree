@@ -1,0 +1,25 @@
+{
+  "text": "Однако с тех пор никаких законов , превращающих Интернету в СМИ , так и не оживившееся , и во временем выборов президента России данные exit polls публиковались в Интернете уже вполне спокойно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "появилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "correctReplacement": "появившееся",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

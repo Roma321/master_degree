@@ -1,0 +1,20 @@
+{
+  "text": "По зведениям Министерства по чрезвычайным ситуациям России , все отравимся были доставлены в центральную больницу райцентра и после осмотра и некоторых процедур отпустившие домой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "отпущены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отравившиеся"
+    },
+    {
+      "correctReplacement": "сведениям",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

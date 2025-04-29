@@ -1,0 +1,25 @@
+{
+  "text": "На поверхности в этом месте произошёл большой разлив воды , и одна машиной затонуло на глубинке в полтора метра .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "машина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "затонула"
+    },
+    {
+      "correctReplacement": "глубине",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

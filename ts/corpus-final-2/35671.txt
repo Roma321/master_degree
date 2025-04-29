@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщал РИА \"Новости\" , \"резервисты ознакомятся с образцами нового вооружения и военной техник , преодолеют полосу препядздвий , выполнят упражнения учебных стрельб\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "техники"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "препятствий",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

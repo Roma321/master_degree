@@ -1,0 +1,25 @@
+{
+  "text": "Ему предъявим обвинения по 18 статьям УП России , в том числах в терроризме , бандитизме , умышленной убийстве , захвате заложников и др .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предъявлены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "умышленном"
+    },
+    {
+      "correctReplacement": "УК",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В понедельник 15 ноябрь прекращены раскопки завалов дома , рухнуфшего в минувший четверги в итальянском городе Фоджа , сообщает информационное агенство ANSA .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ноября"
+    },
+    {
+      "correctReplacement": "рухнувшего",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

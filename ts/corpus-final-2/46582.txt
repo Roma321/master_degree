@@ -1,0 +1,30 @@
+{
+  "text": "Кризис , разразившийся в Турции около двух недель назар , привел к утечке из страны миллиардов доллара , оттоку зарубежным инвесторов и резким падению курса акций местных кнмпаний .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "зарубежных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "резкому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "компаний",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

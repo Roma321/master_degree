@@ -1,0 +1,30 @@
+{
+  "text": "В принципе компьютеры способны защититься от этой напасть , постояло игнорируя сообщения с атакующих компьютерами , однако непросто определённые , с каких именно компьютеров приходят эти сообщений , особенно если таких компьютеров сотни .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "компьютеров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "напасти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "определить"
+    },
+    {
+      "correctReplacement": "просто",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

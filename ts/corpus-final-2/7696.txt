@@ -1,0 +1,25 @@
+{
+  "text": "Следствие не обнаружу ни телесных доведений , ни этилового спиртов п каких-либо лекарственных препаратов в крови умершего .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "спирта"
+    },
+    {
+      "correctReplacement": "повреждений",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

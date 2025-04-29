@@ -1,0 +1,20 @@
+{
+  "text": "Лауреатом премии в номинацию \"Спортивный комментатора , ведущий спортивной монограммы стал Владимир Маслаченко (НТВ , НТВ-Плюс) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "комментатор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "номинации"
+    },
+    {
+      "correctReplacement": "программы\"",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

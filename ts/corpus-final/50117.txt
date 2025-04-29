@@ -1,0 +1,35 @@
+{
+  "text": "Отказы Dresdner Bank от слияния означает большие потери потери для страховой группы Allianz , которой принадлежал 21 процент Dresdner Bank , и которой , в результатах запланированного влияний , отошел бы страховой бизнес Deutsche Bank вместе с его дочерних компанией DWS .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "принадлежит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "слияния"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Отказ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "дочерней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "слияний",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

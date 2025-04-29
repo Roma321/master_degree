@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , резкие снижение цены на нефти можешь произойти уже на текущей неделе , поскольку \"уменьшится возможность спекуляций\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "нефть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "резкое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "цен"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Госдума на своём последнем заседании в пятницы принял постановлении , в котором обращусь к президенту Владимиру Путину с просекой не допустить реформирования РАО \"ЕЭС России\" по плану , предьоженному Анатолием Чубайсом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "приняла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "постановление"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "correctReplacement": "просьбой",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "предложенному",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

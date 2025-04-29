@@ -1,0 +1,25 @@
+{
+  "text": "Демонстранты выкрикивают лозунг , призывающие не договариваться ни о чем с Израилем , а продолжить борьба до полной победы и провозглашающего независимого палестинской государства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "борьбу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "палестинского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "лозунги"
+    },
+    {
+      "correctReplacement": "провозглашения",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

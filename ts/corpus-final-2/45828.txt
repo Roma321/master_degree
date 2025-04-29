@@ -1,0 +1,30 @@
+{
+  "text": "Не требующийся визы и гражданам , имеемым документы членов экипажа самолетов гражданской авиации при наличии у них полетных свидетельства , а также сотрудникам проездов и рефрижераторов при наличии маршрутных листов , водителям международных автобусных линии , осуществляющим соответствующие перевозки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "имеющим"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "требуется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "свидетельств"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "линий"
+    },
+    {
+      "correctReplacement": "поездов",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

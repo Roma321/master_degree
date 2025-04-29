@@ -1,0 +1,25 @@
+{
+  "text": "Нём подчёркнутый , что московское правительство и Мосгордума уже подготовившие обобщение к президенту России , в котором выражают несогласие с выводами межведомственной комиссии МВД по проверке работы столичного ГУВД .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "подготовили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "обращение",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

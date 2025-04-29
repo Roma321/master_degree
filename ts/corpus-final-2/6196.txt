@@ -1,0 +1,15 @@
+{
+  "text": "В течение недели техэксперты рассчитывают отремонтировать неисп.авная агрегат .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "неисправный"
+    },
+    {
+      "correctReplacement": "неисправная",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За права на работу в течегии шести месяцев будет взиматься плата в размере 20 минимальных размеров оплаты труда , в течение трех месяцев - десять минимальных зарплат , и в течение месяца - четыре минимальных зарплате , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "зарплаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "право"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "течении",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

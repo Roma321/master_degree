@@ -1,0 +1,25 @@
+{
+  "text": "Сама лидер опнозиции заявляет , что его участие во втором туре выборов , накрашенном на 8 октябрь , абсолютно исключено .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "correctReplacement": "назначенном",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "оппозиции",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

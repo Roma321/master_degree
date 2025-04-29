@@ -1,0 +1,20 @@
+{
+  "text": "Нашими девушки выиграли первый сеты , но проигьали два последующих .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Наши"
+    },
+    {
+      "correctReplacement": "проиграли",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

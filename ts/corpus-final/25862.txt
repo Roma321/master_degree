@@ -1,0 +1,35 @@
+{
+  "text": "На пресс-конференциях , которую Матутес дала по окончаниях своего визита в Тунис , глава МИД Испании заявил , что правительство уже давно сформировало свою позицию по этому вопросу и не намерен обжалованные решение , принятое министром внутренних дел Великобритании Джеком Стро .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "окончании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "дал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "обжаловать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "намерено"
+    },
+    {
+      "correctReplacement": "которую",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Встреча киногруппой ч российскими моряками начнусь очень напряженно : моряки потребовали ознакомленные их со сценарием и юридически оформить права кинокомпании на использование фактов ими личных судеб в сюжете картины , однако тон встречи эскорт стал более теплым .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "ознакомить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "киногруппы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "их"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "началась"
+    },
+    {
+      "correctReplacement": "вскоре",
+      "type": "paronym",
+      "wordNumber": 33
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

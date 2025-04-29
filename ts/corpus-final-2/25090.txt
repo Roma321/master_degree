@@ -1,0 +1,25 @@
+{
+  "text": "ростовское Управление Государственной инспекции безопасности дорожного движения обращающийся к водителям с прозьбами по возможности воздержаться в это время от поездок в центральную часть города .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обращается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "correctReplacement": "Московское",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "просьбами",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

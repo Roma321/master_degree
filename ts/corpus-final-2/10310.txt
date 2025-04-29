@@ -1,0 +1,20 @@
+{
+  "text": "На место происшествия прибыли бригада Центра экстренной медицинская помывшей и спасателях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "спасатели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "медицинской"
+    },
+    {
+      "correctReplacement": "помощи",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

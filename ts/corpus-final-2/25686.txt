@@ -1,0 +1,30 @@
+{
+  "text": "Организации , насчитываемая 21 человека , из которых двое - члены мафии , обвиняется в попытке похитить два триллиона лир (околр 680 миллионы долларов) , а также в добывании денег и связях с мафией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Организация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "насчитывающая"
+    },
+    {
+      "correctReplacement": "отмывании",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "(около",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

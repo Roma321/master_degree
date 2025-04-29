@@ -1,0 +1,20 @@
+{
+  "text": "В Хорватии 40 человек погибнем от жары , более сотна людей находились в больницах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "сотни",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

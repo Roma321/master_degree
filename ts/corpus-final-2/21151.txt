@@ -1,0 +1,20 @@
+{
+  "text": "При изъятии оружия и боеприпаса было отражён нападение группы боевиеов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "боеприпасов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "отражено"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "В сообщениях отмечается , что Николая Мельниченко в середине оптября 2000 года передали народному депутатом Украины Александру Морозу аудиозаписи , обнародовавшую последним 28 ноября 2000 года на пленарном заседании Верховной Рады .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Николай"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "аудиозапись"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "депутату"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "обнародованную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "передал"
+    },
+    {
+      "correctReplacement": "октября",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

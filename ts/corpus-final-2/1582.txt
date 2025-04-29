@@ -1,0 +1,20 @@
+{
+  "text": "По другим данные , командир одного из минометных подразделений выданный неверную информатику по ведению огня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выдал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "информацию",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

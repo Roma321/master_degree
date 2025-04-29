@@ -1,0 +1,20 @@
+{
+  "text": "Одновременно главы государства высказала мысль , что \"жизнь и смерть россе решается сейчас на Северном Кавказе\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "глава"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "высказал"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Монете являешься законным платежным средство РоссийскойФедерации и обязательна к приему ко номиналу во все виды платежах без всяких ограничений .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "платежей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "средством"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Монета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

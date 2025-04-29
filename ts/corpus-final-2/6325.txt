@@ -1,0 +1,20 @@
+{
+  "text": "Он опроверг предположениям о том , что сначала правительство намеревалось \"вывести на чистую уоду\" налогоплательщиков , а затем снова увеличить налогообложение гражданина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "предположения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "граждан"
+    },
+    {
+      "correctReplacement": "воду\"",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

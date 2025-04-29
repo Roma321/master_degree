@@ -1,0 +1,25 @@
+{
+  "text": "Выясняется вопросы о намерении обвиняемых поданные апелляцию , а так же вопрос о еередаче осужденных украинский стороне (по их согласию) для дальнейшего отбытия наказаний в Украине .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "подать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "наказания"
+    },
+    {
+      "correctReplacement": "передаче",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

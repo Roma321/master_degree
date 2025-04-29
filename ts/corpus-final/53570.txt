@@ -1,0 +1,20 @@
+{
+  "text": "Утром в пятницу пассазирки обнаружили , что их сосед скончались .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "скончался"
+    },
+    {
+      "correctReplacement": "пассажиры",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "пассажирки",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

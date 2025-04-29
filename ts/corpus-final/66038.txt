@@ -1,0 +1,25 @@
+{
+  "text": "Капитану судна грозило тюремный заключение сроком до восьми лет , старший помощнике капитана и само танкер тоже оставались пот арестом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "тюремное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "помощник"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

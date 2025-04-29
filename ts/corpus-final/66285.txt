@@ -1,0 +1,20 @@
+{
+  "text": "Обстоятельства случившегося нока не ясны , ведусь поиск преступники .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "ведется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "преступников"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

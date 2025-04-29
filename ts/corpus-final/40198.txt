@@ -1,0 +1,30 @@
+{
+  "text": "кик сообщает корреспондент ВВС в Сантьяго , решение судьи - первое шак к возможному судебному процессу над Пиночетом , хотя процедура мог занять не одному месяц .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "шаг",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

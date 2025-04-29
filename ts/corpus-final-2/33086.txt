@@ -1,0 +1,20 @@
+{
+  "text": "Съёмка фильмов должны начаться весной , прямо перед запланированной забастовкой цктеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "фильма"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Съемки"
+    },
+    {
+      "correctReplacement": "актеров",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

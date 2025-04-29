@@ -1,0 +1,20 @@
+{
+  "text": "Это информацию подтверждённый в субботу РИА \"Новости\" посол Афганистана в Таджикистане Саид Иброэим Хикмат .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "подтвердил"
+    },
+    {
+      "correctReplacement": "Иброхим",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

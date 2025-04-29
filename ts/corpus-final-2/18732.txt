@@ -1,0 +1,15 @@
+{
+  "text": "По его данным , рост ВВП за шейть месяцев текущей года составил 7 , 3 процента , передает НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "шесть",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В то же время , по слова губернапора , Борис Березовский в слежка не участвую , поскольку \"ему не на что покупать акции\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "участвовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сделке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "сделка",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "губернатора",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

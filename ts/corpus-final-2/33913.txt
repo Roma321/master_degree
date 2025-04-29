@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник газета опубликовала служебную записку заместителя руководителя президентской администрации Абрамова своим непосредстванному ачальникнувшему Александру Волошину , к которой прилагается пять графиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "своему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "прилагаются"
+    },
+    {
+      "correctReplacement": "начальнику",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "непосредственному",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

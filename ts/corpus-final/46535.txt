@@ -1,0 +1,25 @@
+{
+  "text": "Для бюджетных организаций плату за пользование телефоном сохранилось на прежнем уровень - 55 рублей , плата за подстановку телефона была повышена с 2000 до 3300 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "плата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "уровне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сохранилась"
+    },
+    {
+      "correctReplacement": "установку",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

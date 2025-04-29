@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу , 3 ноября , в Ижевске состоялась церемонию вступленич в солидность первого президентов Удмуртии Александра Волкова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "церемония"
+    },
+    {
+      "correctReplacement": "должность",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "вступления",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

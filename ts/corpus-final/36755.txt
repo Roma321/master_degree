@@ -1,0 +1,15 @@
+{
+  "text": "По данным МЧС России , среди погибнем две адвоката , помощник прокурора , судебный пристав и делопроизводитель .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "погибших"
+    }
+  ]
+}

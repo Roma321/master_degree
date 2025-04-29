@@ -1,0 +1,25 @@
+{
+  "text": "Конвенция была принявшая 9 декабря 1999 года на календарном заседанию 54-е сессии Генеральной Ассамблеи ООН и 10 января 2000 года была открыта к подписанию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принята"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "54-й"
+    },
+    {
+      "correctReplacement": "пленарном",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

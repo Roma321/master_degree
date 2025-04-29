@@ -1,0 +1,20 @@
+{
+  "text": "По их подсчетам , в настоящих время предложение нефти на рынке превышает спрос на 1 , 4 миллиона баррели р день .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "баррелей"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

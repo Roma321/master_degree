@@ -1,0 +1,20 @@
+{
+  "text": "В связи с праздновании тридцатилетия Интернета вчера утром в Лондоне состоялось встреча представителей интерьер UUNet , Jungle . com и британского правительства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "празднованием"
+    },
+    {
+      "correctReplacement": "Интернет-провайдера",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

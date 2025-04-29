@@ -1,0 +1,20 @@
+{
+  "text": "Задержанное американный ранее являлся кадровым сотрудником разведку США , а сейчас руководит частной фирмой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Задержанный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "разведки"
+    },
+    {
+      "correctReplacement": "американец",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Когда же спасшиеся воздухоплаватели позвонили домой , то выяснилось , что они так и не заняфшие первое место в соревнованиях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "соревновании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "заняли"
+    },
+    {
+      "correctReplacement": "занявшие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Путин поздравил фсех военнослужащих сокрушённых Сил России с наступавшим Днем защитника Отечества , подчеркнув , что армия в России всегда была носителем национальному духа и никогда - армией-агрессором .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "наступающим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "национального"
+    },
+    {
+      "correctReplacement": "Вооруженных",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "всех",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

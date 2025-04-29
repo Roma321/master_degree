@@ -1,0 +1,30 @@
+{
+  "text": "Сигнал поступил в 23 : 30 , прибывшие на места поганые обнаружили , что горел склад , расположивший на территорией одного из предприятий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "расположенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "горит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "место"
+    },
+    {
+      "correctReplacement": "пожарные",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

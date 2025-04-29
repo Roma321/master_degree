@@ -1,0 +1,30 @@
+{
+  "text": "Прп этом Астахов пояснённый , что в соответствии с решением Конституционного пуды свидетель , допрашиваемые по делу , так же как и обвиняемые , имеет право пользоваться услугами адвоката .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "допрашиваемый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "При",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

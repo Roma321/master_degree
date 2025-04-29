@@ -1,0 +1,30 @@
+{
+  "text": "В Чечне задержу офицер российской армии , переправлявшиф раненых чеченских боевиков и наемников в безопасный место , где они могли бы получить медицинскую помощь , сообщаю газете \"Московский комсомолец\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "газета"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "безопасное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "переправлявший",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник в Грозном отчаяфшаяся республиканская детская клиническая больницы на 80 койко-мест .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "больница"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "открылась"
+    },
+    {
+      "correctReplacement": "открывшаяся",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "отчаявшаяся",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

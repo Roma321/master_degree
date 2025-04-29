@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителя страховой индустрии , этот принцип неприменим к \"проблеме-2000\" , поскольку владельцы компьютерных систем за го.ы до наступлений 1 января 2000 года знали , что их жду при смене столетий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "ждет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "наступления"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "годы",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

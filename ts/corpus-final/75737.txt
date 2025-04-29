@@ -1,0 +1,20 @@
+{
+  "text": "В западную Грузии психический больной убил одного и ранил двух офицера полиции и медсестр .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "офицеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "западной"
+    },
+    {
+      "correctReplacement": "медсестру",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

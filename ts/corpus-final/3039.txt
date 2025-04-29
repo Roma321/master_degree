@@ -1,0 +1,20 @@
+{
+  "text": "В ночь на 28 октября на Ленинградской фантомной электростанции сработала сигнализация , зафиксированная неполадки в работе шестого генератора третьего энергоблоку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "энергоблока"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "зафиксировавшая"
+    },
+    {
+      "correctReplacement": "атомной",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

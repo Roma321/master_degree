@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что в прошлую пятницу московский гуд обязавший группы немедленно выплатить Внешэкономбанку 42 , 2 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обязал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "группу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

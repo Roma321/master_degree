@@ -1,0 +1,20 @@
+{
+  "text": "Торжественная церемония прошла в субботу при ольшей скоплении высокопоставленных лиц , сообщаемый AFP .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "большом"
+    },
+    {
+      "correctReplacement": "больших",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Ранее детонация Федерального собрания РФ в ПАСЕ решившая нк принимать участия в очередных сессия 26 июня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "решила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "сессии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "очередной"
+    },
+    {
+      "correctReplacement": "делегация",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

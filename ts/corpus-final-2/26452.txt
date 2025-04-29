@@ -1,0 +1,25 @@
+{
+  "text": "Данная информация прозвучафшая 12 декабря 1999 года в мастерской Доренко из уст телеведущем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "прозвучала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "телеведущего"
+    },
+    {
+      "correctReplacement": "авторскойпрограмме",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "прозвучавшая",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

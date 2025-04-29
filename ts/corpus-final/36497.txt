@@ -1,0 +1,20 @@
+{
+  "text": "Обвинение настаивал на том , чтожий она сделаю это для получения его пенсии и страховки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настаивало"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сделала"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

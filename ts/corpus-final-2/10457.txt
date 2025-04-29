@@ -1,0 +1,20 @@
+{
+  "text": "По уточнённым дачным , на борту находятся 116 люди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "уточненным"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

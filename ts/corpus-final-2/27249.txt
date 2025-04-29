@@ -1,0 +1,20 @@
+{
+  "text": "Такой образами , \"злопыхательские\" или содержащие оскорбления письма можно отфильтровывать сразу , не мигающие .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Таким"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "образом"
+    },
+    {
+      "correctReplacement": "читая",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

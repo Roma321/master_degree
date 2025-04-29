@@ -1,0 +1,25 @@
+{
+  "text": "По заявлению бывшего одноклассника Скакела Джона Хиггинса , после происшествия Скакел долго разговаривал с них ночью и не исключил , что имела отношении к тругедии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "имел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "ним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "отношение"
+    },
+    {
+      "correctReplacement": "трагедии",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

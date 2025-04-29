@@ -1,0 +1,20 @@
+{
+  "text": "Воспользоваться ими сможет граждане , которые в день голосование , 26 марта , не смогут проголосовать на избирательном участке по месту жительздва .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "смогут"
+    },
+    {
+      "correctReplacement": "жительства",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

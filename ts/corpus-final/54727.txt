@@ -1,0 +1,25 @@
+{
+  "text": "Говоря о возможном статусах Чечни , Кадыров заявил , что в переходный двухгодичная париод разговора о статусе вообще быть не должны , а через два года можно будет провести референдум по этому вопросу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "статусе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "двухгодичный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "должно"
+    },
+    {
+      "correctReplacement": "период",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

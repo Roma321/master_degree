@@ -1,0 +1,25 @@
+{
+  "text": "Ответственность за взрыв пока нико на себе не взяль .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "взял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "себя"
+    },
+    {
+      "correctReplacement": "никто",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "взяло",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Орденами \"За заслуги перед Отечеством\" второй степени удостоены президент Международного союза музыкальных деятелей Ирины Архипова , народный артист САСР Георгий Жженов и театральный директор Российской авиационно-космического агентства Юрий Коптев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "Российского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Ирина"
+    },
+    {
+      "correctReplacement": "генеральный",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "СССР",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

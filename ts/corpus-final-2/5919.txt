@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщает Reuters со смычке ра местные СМИ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "correctReplacement": "ссылке",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

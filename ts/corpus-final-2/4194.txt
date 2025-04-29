@@ -1,0 +1,25 @@
+{
+  "text": "Повременная оплата телефоний разговоров в Москве будет введён в первом квартале 2001 годив .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "введена"
+    },
+    {
+      "correctReplacement": "телефонных",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

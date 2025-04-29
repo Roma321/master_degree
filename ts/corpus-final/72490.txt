@@ -1,0 +1,30 @@
+{
+  "text": "А в дополнительные мнущие минуты гости остались без своей лидера - центровому Шакила О'Нила , который набравший 36 очков , но за 6 фолов был удален с площадки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "набрал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "центрового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "минут"
+    },
+    {
+      "correctReplacement": "пять",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

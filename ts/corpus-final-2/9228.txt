@@ -1,0 +1,25 @@
+{
+  "text": "В результат завязавшегося после взрыва боя были смертельно ранену двое военнослужащихи 12 получили раненые различной степени тяжестей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "тяжести"
+    },
+    {
+      "correctReplacement": "ранения",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "ранены",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

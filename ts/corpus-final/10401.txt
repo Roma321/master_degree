@@ -1,0 +1,15 @@
+{
+  "text": "Обработка запроса , включая сканирование текстов , будет занимать суики-двое , в зависимости от сложности и объёмов заказа .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "объема"
+    },
+    {
+      "correctReplacement": "сутки-двое",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

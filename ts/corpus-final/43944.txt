@@ -1,0 +1,30 @@
+{
+  "text": "Для расследования причин аварий создавшая комиссия , которая в числе другим рассматривают версию о резком повышении давления па этих участках теплотрассы , из-за чего и разорвалась трубы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "других"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "труба"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "создана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "рассматривает"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

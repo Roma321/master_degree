@@ -1,0 +1,25 @@
+{
+  "text": "Беспорядки в северной части города продолжались несколько часов : палестинцы заблокировавшие дороги , жнли автопокрышки , забрасываем махины израильских сил безопасности камнями и бутылками с зажигательной смесью .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "забрасывали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заблокировали"
+    },
+    {
+      "correctReplacement": "машины",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "жгли",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

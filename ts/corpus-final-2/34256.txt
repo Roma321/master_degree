@@ -1,0 +1,15 @@
+{
+  "text": "Судно затонул в 60 километрах к западу от французского порта Шербуп .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "затонуло"
+    },
+    {
+      "correctReplacement": "Шербур",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

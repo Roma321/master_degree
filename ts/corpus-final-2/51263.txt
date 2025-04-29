@@ -1,0 +1,20 @@
+{
+  "text": "В октябре средняя цена за баррель составляю 30 , 42 докладу за баррель .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "составляла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "доллара"
+    },
+    {
+      "correctReplacement": "доллару",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Старший лейтенант Сергеем Смыслам катапультировелся на высоте 300 метров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Смыслов"
+    },
+    {
+      "correctReplacement": "катапультировался",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

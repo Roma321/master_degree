@@ -1,0 +1,20 @@
+{
+  "text": "Накануне суд заслушали последнее слово подспадной .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заслушал"
+    },
+    {
+      "correctReplacement": "подсудимой",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "подспудной",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщает HTB . Ru со слов начальника штаба органичных Группы ФПС Россти в Таджикистанах генерал-майора Сергея Жилкина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Таджикистане"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Пограничной"
+    },
+    {
+      "correctReplacement": "Пограничных",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Приятель Рода осталась в ожиданию спасателей на перевернутой ломке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "остался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ожидании"
+    },
+    {
+      "correctReplacement": "лодке",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

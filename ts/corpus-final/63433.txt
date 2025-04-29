@@ -1,0 +1,20 @@
+{
+  "text": "Законопроект направлен всем субъектов законодательной инициатопы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "субъектам"
+    },
+    {
+      "correctReplacement": "инициативы",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "инициаторы",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

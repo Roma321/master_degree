@@ -1,0 +1,25 @@
+{
+  "text": "Выступающие с отменной речью , Шаманов сообщу , что в ближайшие дни подпишет постановление о повышении зарплаты бюджетникам в 1 , 4 разом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "раза"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Выступая"
+    },
+    {
+      "correctReplacement": "ответной",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

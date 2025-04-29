@@ -1,0 +1,30 @@
+{
+  "text": "У полиции есть две версии случившегося - либо были повреждены несущие конструкции здания , или груда строительных мусора , накопившееся на одном из верхних этажнй , помолилась до первых этажа , проломив перекрытия всех остальных этажей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "накопившаяся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "строительного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "первого"
+    },
+    {
+      "correctReplacement": "провалилась",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "этажей",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

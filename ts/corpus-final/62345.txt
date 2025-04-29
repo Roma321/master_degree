@@ -1,0 +1,25 @@
+{
+  "text": "По состоянию нм 16 : 10 по московскому времени текущая котировка ноябрьские фьючерса составлявшая 20 , 64 доллара за баррель (снижение на 1 , 44 доллара) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ноябрьских"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "составляла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "фьючерсов"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

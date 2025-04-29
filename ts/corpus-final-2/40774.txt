@@ -1,0 +1,25 @@
+{
+  "text": "Между тем государственный обвинитель , прокураторы Главной военной прокуратурой Игорь Дубков убежден , что вина Моисеева полностью докажу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "прокурор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "доказана"
+    },
+    {
+      "correctReplacement": "прокуроры",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

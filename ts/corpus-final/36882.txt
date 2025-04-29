@@ -1,0 +1,20 @@
+{
+  "text": "Савенко был арестована в октябре прошлого года по обвинению в геноциди латы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "арестован"
+    },
+    {
+      "correctReplacement": "латышей",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "геноциде",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

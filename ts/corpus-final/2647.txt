@@ -1,0 +1,35 @@
+{
+  "text": "За всю 103-летнего историю существования индексов DJIA Microsoft и Intel спавшие первых войдём в список компаниями , чьи акции нп котируются на Уолл-Стрите (нью-йоркской фондовой бирже , NYSE) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "индекса"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "первыми"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "вошедшими"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "103-летнюю"
+    },
+    {
+      "correctReplacement": "стали",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

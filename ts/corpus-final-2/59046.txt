@@ -1,0 +1,25 @@
+{
+  "text": "Оно требует запрещённые рекламу пива на телевидении , ужесточить контроль за качеством пива , в частности остановить роат содержания в немы спирта , ввести ограничения на продажу пива , а также организовать широкое антипивную рекламу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "запретить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "широкую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "нем"
+    },
+    {
+      "correctReplacement": "рост",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

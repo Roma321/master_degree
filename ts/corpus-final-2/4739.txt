@@ -1,0 +1,25 @@
+{
+  "text": "В начале заседания он вручивший специальные призы президентв за выдающийся вклад в развитие российских кино артисту Кириллу Лаврову , кинорежиссерам марьяне Лиозновой и Петру Тодоровскому .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "вручил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "российского"
+    },
+    {
+      "correctReplacement": "Татьяне",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

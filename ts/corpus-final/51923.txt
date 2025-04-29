@@ -1,0 +1,25 @@
+{
+  "text": "Пока против них не выдвинувшее никаких обвинений , но , как полагаем следователи , как минимума четверым из них предъявят обвинения в убийспве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выдвинуто"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "минимум"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "убийстве",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

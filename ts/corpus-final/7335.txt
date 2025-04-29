@@ -1,0 +1,20 @@
+{
+  "text": "В зале заседаний Национального собраний Армении в президиуме возле системы нейтронного голосования был обнаруживший взрывпакет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "собрания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "correctReplacement": "электронного",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

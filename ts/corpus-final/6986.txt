@@ -1,0 +1,25 @@
+{
+  "text": "Аитобус будет ходить по одному из московских маршрутов , но предварительно его оснастите газобаллонного аппаратурой , как это предусматривает столичная программа перевода общественной транспорта на газовое топливо .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "общественного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "оснастят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "газобаллонной"
+    },
+    {
+      "correctReplacement": "Автобус",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

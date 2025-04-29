@@ -1,0 +1,30 @@
+{
+  "text": "Речью на встрече шла и о контроль вооружения и договоре СНВ-2 (ничего портретного пд этому поводу не сообщается) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "контроле"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вооружений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Речь"
+    },
+    {
+      "correctReplacement": "конкретного",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

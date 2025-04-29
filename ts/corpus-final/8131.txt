@@ -1,0 +1,30 @@
+{
+  "text": "На территории Украины действую инструкция , согласно которой прописка российских гражданина или вид на жительство предоставляются только после получения украинского паспорта или справок о выходе из российской гражданстве .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "действует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "российского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "гражданства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "справки"
+    }
+  ]
+}

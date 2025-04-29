@@ -1,0 +1,25 @@
+{
+  "text": "После этого министр иностранные дел Игорь Иванов в знак протеста отменили своём визир в Польшу , а российский посол был вызван в Москву для консультаций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отменил"
+    },
+    {
+      "correctReplacement": "визит",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

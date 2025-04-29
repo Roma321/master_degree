@@ -1,0 +1,20 @@
+{
+  "text": "Двоими из них под видом пассажиров находились в автобусе , жребий следую за ними в машине \"ВАЗ-2105\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "следовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Двое"
+    },
+    {
+      "correctReplacement": "третий",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

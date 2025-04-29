@@ -1,0 +1,35 @@
+{
+  "text": "Театры требующие изменения политики института по отношению к театрам и отставки его директора - известного литературной критика Андреса Амороса , который , по мнению театрального ратника , оказались некомпетентным администратором .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "оказался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "театральных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "работников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "требуют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "литературного"
+    },
+    {
+      "correctReplacement": "работника",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

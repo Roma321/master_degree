@@ -1,0 +1,30 @@
+{
+  "text": "В Румынией из трубопроводом , проходящегь недалеко от румынской столицы , вылилось боле тысячи тонн нефти , сообщаешь радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "трубопровода"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Румынии"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "проходящего",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

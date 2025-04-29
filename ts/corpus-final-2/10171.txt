@@ -1,0 +1,20 @@
+{
+  "text": "Мишарин заявил , что сегодня МПС направленный письмо премьер-министру Михаилу Касьяновым с разъяснением \"дейздвительных причин\" лишения железных дорог электроэнергии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "направит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Касьянову"
+    },
+    {
+      "correctReplacement": "\"действительных",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

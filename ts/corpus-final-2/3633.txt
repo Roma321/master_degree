@@ -1,0 +1,25 @@
+{
+  "text": "Вертолёт был выпущу в 1984 году и налетаю 3733 часов , в том фисле после капремонта - 232 часа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "выпущен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Вертолет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "налетал"
+    },
+    {
+      "correctReplacement": "числе",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

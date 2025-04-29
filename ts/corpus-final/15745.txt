@@ -1,0 +1,20 @@
+{
+  "text": "РИА \"Новости\" сообщает , что в ходе состоявшейся встречивладимиром Кутин и Сергей Кириенко обсудили также экономическую программу действиям , которую разработал СПС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "действий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "встречиВладимир"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

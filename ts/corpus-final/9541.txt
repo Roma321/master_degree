@@ -1,0 +1,30 @@
+{
+  "text": "Первая очередь электростанции запущена , но проблему энергоснабжения Сахалина , по словам губернаторов , это не решает , так как первая очередь даю лишь шестую часть от потребляемых энергии , необходимо , чтобы станцич даю 30 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "губернатора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "давала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "потребляемой"
+    },
+    {
+      "correctReplacement": "станция",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

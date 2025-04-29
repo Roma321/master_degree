@@ -1,0 +1,15 @@
+{
+  "text": "Также погибли шоферу и пассажиры грузовичка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "шофер"
+    },
+    {
+      "correctReplacement": "грузовика",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Список памятника истории и архитектуры в Великобритании начал составлять в 1948 году , после того , как ущерб , нанесенный гитлеровскими бомбардирофками , заставил андижанины впервые задумавшиеся о том , что культурное наследие надо охранять на уровне государства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "памятников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "задуматься"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "англичан"
+    },
+    {
+      "correctReplacement": "англичане",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "бомбардировками",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

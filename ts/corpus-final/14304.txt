@@ -1,0 +1,25 @@
+{
+  "text": "По его сщовам , все сотрудники консьержного службы будут числиться в главных управлении вневедомственной охраны , получать зарплату в 500 рублей , причем для пенсионеров будут сохранены все асоциальные льготы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "главном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "консьержной"
+    },
+    {
+      "correctReplacement": "социальные",
+      "type": "paronym",
+      "wordNumber": 28
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

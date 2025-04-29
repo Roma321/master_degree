@@ -1,0 +1,25 @@
+{
+  "text": "Главное аргумент Брауна - раз собаки выбегаете за ворота посольства , то на нмх распространяются британские закон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "законы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Главный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "выбегают"
+    },
+    {
+      "correctReplacement": "них",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

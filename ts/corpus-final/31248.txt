@@ -1,0 +1,30 @@
+{
+  "text": "Нигерийский президент пообещанный , что правительством будет всеми возможными способами пытаться вертевшме как можно больше украденных денежных средств .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "вернуть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "правительство"
+    },
+    {
+      "correctReplacement": "вернувшие",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "вертевшие",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

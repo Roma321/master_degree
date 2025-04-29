@@ -1,0 +1,35 @@
+{
+  "text": "приём заявки по обмену долгов Лондонскому клубу на еврооблигации закончившийся 17 августа , всего предъявлено требпвания на выплату 99 процентов долга на общую сумму 28 , 63 миллиарда доллара .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "требований"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "закончился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "заявок"
+    },
+    {
+      "correctReplacement": "Прием",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "требования",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам начальника пресс-службы УФСБ Александре Туринского , задержанных признали , что далеко не первый раз продаваемые компакт-диски с вирусами и проблеммами взломом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "продают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "задержанные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "взлома"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Александра"
+    },
+    {
+      "correctReplacement": "программами",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

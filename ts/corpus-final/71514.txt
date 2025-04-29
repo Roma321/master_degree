@@ -1,0 +1,25 @@
+{
+  "text": "Начальник пресс-центра не исключил , что взрывчатки , перевозимая в машине , должна была использоваться уорвиками дщя теракта против гражданского администрации Грозного .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "гражданской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "взрывчатка"
+    },
+    {
+      "correctReplacement": "боевиками",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "для",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

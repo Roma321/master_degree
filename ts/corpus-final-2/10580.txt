@@ -1,0 +1,20 @@
+{
+  "text": "Штаты Нью-Жжерси , Пенсильвания , Мэриленд , Нью-Йорк частично затоплены : дороги залила водой , жителей пришлись эвакуировать , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "пришлось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "залило"
+    },
+    {
+      "correctReplacement": "Нью-Джерси",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

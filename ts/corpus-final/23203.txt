@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , первый эшелон с еефтью уже отправлю со станции Червленной в Россию .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отправлен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Червленная"
+    },
+    {
+      "correctReplacement": "нефтью",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

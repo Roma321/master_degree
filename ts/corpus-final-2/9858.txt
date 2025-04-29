@@ -1,0 +1,20 @@
+{
+  "text": "Элизабет Тэйлор была госпитализирована на прошлом неделе с пневмонией в лпгкой формах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "форме"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "correctReplacement": "легкой",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

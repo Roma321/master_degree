@@ -1,0 +1,25 @@
+{
+  "text": "Музей изобразительных искусств столицы Финляндии принявший решениео приобретении в свою коллекцию почти за 10 тысяч долларов одного из оказавшихся \"не у дел\" гранитных бюстов Ленину работы всероссийского скульптор .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Ленина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "скульптора"
+    },
+    {
+      "correctReplacement": "российского",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

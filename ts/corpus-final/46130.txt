@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаюлий полиция , виновник инцидента живет с родным отцом и мачехой , а его настоящая мать сижу в тюрьме .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сидит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сообщающий",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

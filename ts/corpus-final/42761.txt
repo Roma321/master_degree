@@ -1,0 +1,25 @@
+{
+  "text": "Премьер-министром Израиля Эхуд Барак представила силовым монстрам карту выйода войск .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Премьер-министр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "представил"
+    },
+    {
+      "correctReplacement": "министрам",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "вывода",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

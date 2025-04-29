@@ -1,0 +1,25 @@
+{
+  "text": "Центральное бак России сочту лучегорские талоны суррогатными деньгами и потребовал от руководства компания запретить их хождение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "счел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Центральный"
+    },
+    {
+      "correctReplacement": "Банк",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Главным исполнительным директором объединенной биржи стал шефом немецкого акционерной обществ Deutsche Boerse AG Вернер Зайферт из Франкфурта , а председателем назначается Дон Крюкшанк из Лондона (LSE) , передает BBC News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "акционерного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "шеф"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "общества"
+    }
+  ]
+}

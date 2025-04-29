@@ -1,0 +1,20 @@
+{
+  "text": "Подозрительный предмет найденный милицейский патруль , который около полуночи проводил проверки паспорьного режима , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "нашел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "проверку"
+    },
+    {
+      "correctReplacement": "паспортного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

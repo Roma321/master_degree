@@ -1,0 +1,20 @@
+{
+  "text": "Неисправности были самимо разными : у одних совладельцев потек кузов , у других вышли из строи рулевые рейки , у третьих полностью облезла краска .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "строй"
+    },
+    {
+      "correctReplacement": "владельцев",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "самими",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В связи с сообщением от 27 июлю об отключении русского Интернета для профилактических работ РосНИИРОС г-жа Литвтна также сочла нужным уточнить , что фактически тернеры были недоступны , в общего сложности , не более четверти часа , а не все два часа , как первоначально планировавшееся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 45,
+      "correctReplacement": "планировалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "июля"
+    },
+    {
+      "correctReplacement": "серверы",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "Литвина",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

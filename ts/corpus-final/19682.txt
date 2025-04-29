@@ -1,0 +1,25 @@
+{
+  "text": "Заместитель командующего сообщил , что высочайшее военного командование засшушаю доклад о военном положении , данные разведки о концентрации российских войск вокруг Грозного .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "заслушало"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "высшее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "военное"
+    },
+    {
+      "correctReplacement": "заслушаю",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

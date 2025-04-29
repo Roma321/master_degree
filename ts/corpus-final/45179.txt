@@ -1,0 +1,30 @@
+{
+  "text": "Генеральный секретарь Совета Европы Вальтер Швиммер сообщил в среду на брифинге в Страсбурга , что соответствующая документ вступивший в силу после его утвпрждения глава российского внешнеполитического ведомства и руководством Совета Европы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "соответствующий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Страсбурге"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "главой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "вступит"
+    },
+    {
+      "correctReplacement": "утверждения",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

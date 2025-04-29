@@ -1,0 +1,20 @@
+{
+  "text": "Матч прошетший в Роттердаме в пришествии 500 зрителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "прошел"
+    },
+    {
+      "correctReplacement": "присутствии",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "прошедший",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

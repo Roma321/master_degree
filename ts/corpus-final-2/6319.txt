@@ -1,0 +1,25 @@
+{
+  "text": "Во время предвыборной кампании Чавес пообещаю , что гражданин Венесуэлы , живущие за чертой бедности - а такие составляем 80 процентов населения страны , - получившие долю от гигантских прибылей нефтяной отрасли .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "получат"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "граждане"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "составляют"
+    }
+  ]
+}

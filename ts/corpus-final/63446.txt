@@ -1,0 +1,35 @@
+{
+  "text": "Ранее в просьбе , направившей судье Джексону , который в своё время признал Microsoft виновной в нарушении антимонопольной законодательства , компания предлагал проект альтернативного решения проблемы , выражая готовность немного изменить маркетинговую политику и даже позволить внлсить изменениям в Windows .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "направленной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "изменения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "антимонопольного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "предлагала"
+    },
+    {
+      "correctReplacement": "вносить",
+      "type": "typo",
+      "wordNumber": 36
+    }
+  ]
+}

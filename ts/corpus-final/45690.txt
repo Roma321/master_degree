@@ -1,0 +1,20 @@
+{
+  "text": "Перед началом агитпробега в центре столиц дагестанце состоялись митинги и манифестации сторонников Путина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "столицы"
+    },
+    {
+      "correctReplacement": "Дагестане",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

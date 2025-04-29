@@ -1,0 +1,25 @@
+{
+  "text": "На сегодня доли British Telecom достигли 40 миллиардов долларов , в этих условиях компания вынуждена идти на экстраординарный меры , чтобы попытавшиеся спасти свое положение , заявляли в руководстве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "попытаться"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "экстраординарные"
+    },
+    {
+      "correctReplacement": "долги",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

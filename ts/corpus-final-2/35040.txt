@@ -1,0 +1,20 @@
+{
+  "text": "квак сообщил с места происшествия корреспондент Lenta . Ru , площади возгорания составляешь около 100 квадратных метров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "площадь"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

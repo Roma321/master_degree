@@ -1,0 +1,25 @@
+{
+  "text": "59-ьетнее Майк Беллах , владелец пивную , вспоминает , что о предстоящем визите президента США он узнал буквально за 20 минут , когда в пивную пришли \"люди в черном\" и начали осматривать место , чтобы установить , безопасно ли здесь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Белл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "пивной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "59-летний"
+    },
+    {
+      "correctReplacement": "59-летнее",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Зекаев подчёркнутый , что переговоры проводятся по инициация Москвы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "инициативе"
+    },
+    {
+      "correctReplacement": "инициатива",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Закаев",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

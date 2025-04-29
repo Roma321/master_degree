@@ -1,0 +1,20 @@
+{
+  "text": "По утверждению Минобороны , вертолеты российской армейскую авиации не совершал полетов и не наносили никаноров ударов в этом районе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "армейской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "совершали"
+    },
+    {
+      "correctReplacement": "никаких",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

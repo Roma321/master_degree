@@ -1,0 +1,20 @@
+{
+  "text": "Армейцы начавшие отрываться в счете к концу песную четверти матча .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "начали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "первой"
+    },
+    {
+      "correctReplacement": "первую",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

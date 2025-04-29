@@ -1,0 +1,20 @@
+{
+  "text": "Президент Таджикистана Эмомали Рахмона официально предложило кандидатуру и . о . президента России , премьер-министра Владимира Путина на пост председатгля Совета глав государств СНГ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Рахмонов"
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

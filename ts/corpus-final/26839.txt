@@ -1,0 +1,25 @@
+{
+  "text": "Попрощаться с генералом пришлю солдлтам и офицеры подразделения армии , ветераны войны , представители штаба командования Объединенной группировок российских войск на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "солдаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "группировки"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "пришли"
+    },
+    {
+      "correctReplacement": "солдатам",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

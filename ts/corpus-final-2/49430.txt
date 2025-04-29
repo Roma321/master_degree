@@ -1,0 +1,20 @@
+{
+  "text": "Об этом свидетельствую опрос Всероссийских центра изучения антиобщественного мнения .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Всероссийского"
+    },
+    {
+      "correctReplacement": "общественного",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

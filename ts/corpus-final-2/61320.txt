@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник Высший арбитражный сид Российской Федерации рассмотрел дело по иску компании Eastman Kodak к частной предпринимателю Александру Грундула о нарушении прав на товарный знак в связи с использованиями Грундулом доменного имени kodak . ru .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "использованием"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "частному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Грундулу"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

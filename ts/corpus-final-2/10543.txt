@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье в американском стате Невада погиб пилот вертолета , вызванного для тушения лесными пожаров , которые полыхаете сейчас в западном части США , сообщает CNN News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "западной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "лесных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "полыхают"
+    },
+    {
+      "correctReplacement": "штате",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

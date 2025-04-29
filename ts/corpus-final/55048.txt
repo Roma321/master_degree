@@ -1,0 +1,25 @@
+{
+  "text": "В ходу совместной операции сотрудники ФСБ и МВД также нашлисклад боеприпасов и оружия в забросившем доме населенногопункта Мекерская Наурского райана .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ходе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Мекерское"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заброшенном"
+    },
+    {
+      "correctReplacement": "района",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

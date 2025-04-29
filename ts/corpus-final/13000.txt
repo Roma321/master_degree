@@ -1,0 +1,20 @@
+{
+  "text": "1 декабря в 19 . 00 по московскому времени сбстоявшаяся первый интернет-конференция Евгения Примакова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "первая"
+    },
+    {
+      "correctReplacement": "состоявшаяся",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

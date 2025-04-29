@@ -1,0 +1,30 @@
+{
+  "text": "Однако , через полчаса , примерно в 19 : 20 , в том же самом месте Ленинского районе была обстреляю другой автоколонна . Погибли двое военнослуюащих и своё были ранены .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "обстреляна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "другая"
+    },
+    {
+      "correctReplacement": "двое",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "военнослужащих",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

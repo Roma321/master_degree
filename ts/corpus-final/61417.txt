@@ -1,0 +1,35 @@
+{
+  "text": "Однако даже при наличие этих данных обыск может быть провёдший только с разглашения спрциального комиссии , которая будет создана в каждом велаятом , городе , этрапе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "наличии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "специальной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "велаяте"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "проведен"
+    },
+    {
+      "correctReplacement": "разрешения",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "специального",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "У итальянцам мячи забили : Индзаги на 28-е минуте и Салас на 87-й Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "итальянцев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "28-й"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

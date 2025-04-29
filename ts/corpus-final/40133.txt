@@ -1,0 +1,25 @@
+{
+  "text": "Канал позволит русскоязычным зрителям в Европе в режимом реальное времени смотреть информативных программы телекомпании , сообщает РИА \"Новости\" со ссылкой на пресс-службу ОРТ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "режиме"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "реального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "информационные"
+    },
+    {
+      "correctReplacement": "информационных",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

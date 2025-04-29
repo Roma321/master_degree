@@ -1,0 +1,20 @@
+{
+  "text": "В его трюмах было обнаружена выше двух тонн незаконнодобытого свежего крабе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "краба"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "correctReplacement": "свыше",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

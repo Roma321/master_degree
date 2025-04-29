@@ -1,0 +1,20 @@
+{
+  "text": "Высококачественная нефть марки Dated Brent в пятницу котировалось на уровне 24 , 54 доллара за барреле , а российская смесь Urals стоила 22 , 04 доллара за баррель , сообщаю РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "котировалась"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "баррель"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В фондовых секцией ММВБ откровенные акция РАО \"ЕЭС России\"подорожали на 6 , 8 процента - до 4 , 185 рубля за штуку , при объеме торгов 157 миллионов бумаг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "фондовой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "секции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "акции"
+    },
+    {
+      "correctReplacement": "обыкновенные",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

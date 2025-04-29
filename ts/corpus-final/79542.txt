@@ -1,0 +1,30 @@
+{
+  "text": "По их словам , в настоящее времена тарифы завышены и фключаете в себя неопознанных затраты , которых можно избежать .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "необоснованные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "включают"
+    },
+    {
+      "correctReplacement": "необоснованных",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "включаете",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

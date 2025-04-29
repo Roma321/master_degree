@@ -1,0 +1,20 @@
+{
+  "text": "Она сообщила , что ей было предложено опознанные труп мужчины , найденгый в Таращанском район .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "опознать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "районе"
+    },
+    {
+      "correctReplacement": "найденный",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

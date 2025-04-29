@@ -1,0 +1,25 @@
+{
+  "text": "У оперативников вызвала серьезные сомнению подлинности документов фирмы \"Аргун-2\" , которой пронаблюдавшее металл .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "принадлежал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сомнения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "подлинность"
+    },
+    {
+      "correctReplacement": "принадлежало",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

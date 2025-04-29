@@ -1,0 +1,20 @@
+{
+  "text": "Елена дементьева в двух сетах выиграла у француженок Нптали Деши .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "француженки"
+    },
+    {
+      "correctReplacement": "Дементьева",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Натали",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

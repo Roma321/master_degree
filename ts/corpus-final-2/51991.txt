@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщил \"Интерфаксу\" адвокат Скуратова Леониды Прошкины , такое решение принято в связи с тем , что судом первой инстанции были допущены сегьезные процессуальные нарушения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Леонид"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Прошкин"
+    },
+    {
+      "correctReplacement": "серьезные",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

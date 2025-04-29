@@ -1,0 +1,25 @@
+{
+  "text": "На этой неделях постоянная сессия Ставропольского краевого суда на Кавказских федеральных Водах приступающий к рассмотрению уголовного дела Рамзеса Гайчаева , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "приступает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "неделе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Минеральных",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

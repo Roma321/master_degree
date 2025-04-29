@@ -1,0 +1,25 @@
+{
+  "text": "Единственное , что должен определить лондонский суд , - это подлежащий ли Пиночет депортации за предъявляемые к нём обвинения , подчеркивали юристы , выступающие ол имён испанской прокуратуры .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "подлежит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "нему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "имени"
+    },
+    {
+      "correctReplacement": "от",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

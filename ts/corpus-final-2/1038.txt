@@ -1,0 +1,20 @@
+{
+  "text": "Суда , минако , рассудил инача .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "иначе",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

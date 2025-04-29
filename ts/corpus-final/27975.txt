@@ -1,0 +1,25 @@
+{
+  "text": "Как передает Nando Times , группа анонимные пацифистов , борющихся за сокращения финансирований военных программ , обернула галеру USA Today в \"обложку\" , выполенную в том же дизайне , что и сама USA Today .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сокращение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "анонимных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "финансирования"
+    },
+    {
+      "correctReplacement": "газету",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

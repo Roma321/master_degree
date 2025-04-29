@@ -1,0 +1,20 @@
+{
+  "text": "Нынешнего губернатор Чукотки Алепсандр Назаров без объяснения причин 16 декабря сняло свою кандидатуру .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "снял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Нынешний"
+    },
+    {
+      "correctReplacement": "Александр",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

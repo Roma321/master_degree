@@ -1,0 +1,30 @@
+{
+  "text": "Владимир Жириновский заявленный также , что еже завтра всенеобходимые документах , в том числе федеральный списки будутпредставлены в Центризбиркомом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "документы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Центризбирком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "список"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

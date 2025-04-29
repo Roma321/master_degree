@@ -1,0 +1,20 @@
+{
+  "text": "Жители заявили , что не унявшие блокада до тех пор , пока террористов не выгонят .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "блокаду"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "снимут"
+    },
+    {
+      "correctReplacement": "сняли",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

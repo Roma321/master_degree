@@ -1,0 +1,25 @@
+{
+  "text": "Беспорядки на улицах Перу азались уже в воскресенье , и для разгона демонстрантов полиция вынужден была применить слезоточивая газ , передающий Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "вынуждена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "слезоточивый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "начались",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

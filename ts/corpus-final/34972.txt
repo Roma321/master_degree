@@ -1,0 +1,25 @@
+{
+  "text": "Как подчеркну Фуэнтес в интервью New York Times , Бюро рассматривает деятельность российской мафии за границей каяк прямого угрозу Соединённым Штатам .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "Соединенным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "прямую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В среду де , около два часа дня пожарные прибыли по вызову к расселённому 4-этажному дому номер 12 по 1-му Кадашевскому переулку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "двух"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "расселенному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "же",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

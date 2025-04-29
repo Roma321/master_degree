@@ -1,0 +1,20 @@
+{
+  "text": "Немке выиграла первое сет - 6 : 4 , после чего четвертая ракетка турнира отрицалась от продолжения борьбы из-за травмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Немка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "первый"
+    },
+    {
+      "correctReplacement": "отказалась",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

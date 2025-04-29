@@ -1,0 +1,35 @@
+{
+  "text": "В случае , если и во второй туре ни одному из каидидата не наберу необходимого количества голосов , в 15-дневный срока состоятся повторные выборы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "наберет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "срок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "кандидата",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

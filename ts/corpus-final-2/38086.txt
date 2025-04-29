@@ -1,0 +1,35 @@
+{
+  "text": "Результаты проведенных исследований подтверждаете предположение , что пружинами катастрофы самолета ИЛ-18 близ Батуми 25 октября этого гоща стали его значительное уклонение от установленной схемы захода на посадку в аэропорту .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "подтверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "аэропорт"
+    },
+    {
+      "correctReplacement": "причинами",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "года",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

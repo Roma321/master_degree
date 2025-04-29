@@ -1,0 +1,20 @@
+{
+  "text": "Эксперты отмечают , что на тот раз Херблесс не воспользовался своей обычных тактике - взломом с использованием стандартного пароля к SQL-серверу , а применил какую-то новую , пока не известную технику .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "обычной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "тактикой"
+    },
+    {
+      "correctReplacement": "этот",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

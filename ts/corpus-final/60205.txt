@@ -1,0 +1,25 @@
+{
+  "text": "Главы государства Владимиру Путил своим указом возложил исполнение обязанности председателя правительства на первого вице-премьера РФ , министра финансов Михаила Касьянова , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "обязанностей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Глава"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

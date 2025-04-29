@@ -1,0 +1,30 @@
+{
+  "text": "Хотя сайты NASA в Сети регулярно взламываете , на коммуникация космических аппаратов с наземными центрами это никак не влияют , ввиду надежного резервирования каналов и отсутствия прямые или каких-либо еще шлюзов в Интернету .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "коммуникации"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "влияет"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "взламывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "прямых"
+    }
+  ]
+}

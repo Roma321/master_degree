@@ -1,0 +1,30 @@
+{
+  "text": "В ходе брифингов Михайлов пояснил , что речи идет о преступления , объектом которых является непосредственно информация , а средой - как компьютерные сеть , так и другие сети связи : пейджинговая , сотовой и т . д .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "преступлениях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "сети"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "сотовая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "брифинга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "речь"
+    }
+  ]
+}

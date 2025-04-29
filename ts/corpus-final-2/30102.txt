@@ -1,0 +1,25 @@
+{
+  "text": "Одну из основных опасностей вирусов типа Melissa заключается в том , что письма с заражу вложению приходят из вполне надежных истофников .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Одна"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "зараженным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "вложением"
+    },
+    {
+      "correctReplacement": "источников",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

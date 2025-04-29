@@ -1,0 +1,20 @@
+{
+  "text": "Новый директор Александр Романов , занимавшай ранее пост вице-президента нефтяного компании \"Роснефть\" , не был доплаченный на свое место .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нефтяной"
+    },
+    {
+      "correctReplacement": "допущен",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "занимавший",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

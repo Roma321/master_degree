@@ -1,0 +1,25 @@
+{
+  "text": "Суде не прислушаюсь к инению прокурора Республики , который опротестовавший решение судьи по детям Мари-Жанн Симонен .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "прислушался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "опротестовал"
+    },
+    {
+      "correctReplacement": "мнению",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

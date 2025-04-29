@@ -1,0 +1,25 @@
+{
+  "text": "После посадку авиалайнера выяснилось , что реальный весом груза на борту на 22 тонны превышаешь цифру , указанную в документах , утверждают представителями ФСБ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "посадки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "представители"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Фильмы , снимаемые на родном фзыке жителей этого штата - хауаса , в последние время стали вытеснять из местного проката индийским фильмы и даже экспортироваться в соседние страны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "индийские"
+    },
+    {
+      "correctReplacement": "языке",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

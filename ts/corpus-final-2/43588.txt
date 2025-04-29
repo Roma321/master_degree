@@ -1,0 +1,25 @@
+{
+  "text": "В их отсутствие главными претендентами на победу в мужском турнире считаетесь индийцы Вишванатан Ананд , россиянин Александр Морозевич , представляющее Испанию Алексей Широв и венгр Иетер Леко .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "считаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "индиец"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "представляющий"
+    },
+    {
+      "correctReplacement": "Петер",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

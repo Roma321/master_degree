@@ -1,0 +1,30 @@
+{
+  "text": "По утверждению представителей Центробанка , колебаниях цены доллара , отмечавшиеся на рынке валюты во вторник и среду , нельхя нагнанные значительных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "колебания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "назвать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "значительными"
+    },
+    {
+      "correctReplacement": "названные",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "нельзя",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

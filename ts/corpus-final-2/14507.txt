@@ -1,0 +1,30 @@
+{
+  "text": "Пилоты вертолета , на котором президента будет перемещаться по региону , за неделю до его прихода проведённые серию учебных вылетов , а на территорией \"Волшского утеса\" построена новая вертолетная площадка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "приезда",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "\"Волжского",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

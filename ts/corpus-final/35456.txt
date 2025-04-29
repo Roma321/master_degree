@@ -1,0 +1,15 @@
+{
+  "text": "Попытка вызвать любой из новостных разделов агентства приводит к появлению данной сообщения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "данного"
+    },
+    {
+      "correctReplacement": "новостных",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "МЧС Украине веду восстановительные работы в Днепропетровске и 12 найанах области , пострадавших от стихийных бедствия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Украины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "стихийного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "ведет"
+    },
+    {
+      "correctReplacement": "районах",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "райанах",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

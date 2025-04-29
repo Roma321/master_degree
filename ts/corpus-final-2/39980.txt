@@ -1,0 +1,25 @@
+{
+  "text": "Черепахами были обнаруживафшие белорусскими таможенниками в поезде Москва-Варшава .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Черепахи"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "correctReplacement": "обнаружившие",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "обнаруживавшие",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

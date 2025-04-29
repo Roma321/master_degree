@@ -1,0 +1,25 @@
+{
+  "text": "покровский городской суд оставленный без изменения решение Замоскворецкого межмуниципального суда столицы , который 12 ноября признала недействительной государственную регистрацию движения \"Чпас\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оставил"
+    },
+    {
+      "correctReplacement": "Московский",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "\"Спас\"",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным российских военных , последнего взнос со стороны Бин Ладена в размере 34 миллионов доллаеов досталась Хаттабу и Басаеву .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "достался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

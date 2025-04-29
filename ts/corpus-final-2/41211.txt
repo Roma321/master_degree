@@ -1,0 +1,25 @@
+{
+  "text": "Ее , как и другую гражданку Польшей Ева Мархвиньскую-Вырвал , озвободили в марте нынешнего года сотрудник Главного управления по борьбе с оргпреступностью МВД России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Еву"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Польши"
+    },
+    {
+      "correctReplacement": "освободили",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Сергей михайлович был задержано в женевской аэропорту в октябре 1996 года по подозрению в причастности к организуемой преступности в России , подделках документов и незаконном приобретении собственности в Швейцарии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "женевском"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "подделке"
+    },
+    {
+      "correctReplacement": "Михайлов",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В минувший четверг официальная представитель Госдепартамента США заявивший , что Чечня ставшая регионом , потенциально опасным для всех иностранных и , прежде всего - американским журналистов , сообщает Федеральное агенство новостей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "американских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "официальный"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Во время проведения массовых мероприятий , заполнившие оперативный дежурный ГУВД , в этих районах города будет ограничившее движение транспорта , сообщал РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "ограничено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "correctReplacement": "напомнили",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

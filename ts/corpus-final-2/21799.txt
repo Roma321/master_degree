@@ -1,0 +1,20 @@
+{
+  "text": "Он подчеркну , что движение \"Талибан\" представляет грозу всему мировому сообщество , сообщает \"Радио России\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сообществу"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "correctReplacement": "угрозу",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

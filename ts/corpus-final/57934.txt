@@ -1,0 +1,30 @@
+{
+  "text": "Его преемник Хабиби установил рекорд в принятиях новым законов : за время своего короткого пребывания у власти правительство Хабиби приняла свыше 100 нового законодательных аетов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "новых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "новых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "приняло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "принятии"
+    },
+    {
+      "correctReplacement": "актов",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

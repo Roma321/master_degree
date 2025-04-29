@@ -1,0 +1,20 @@
+{
+  "text": "Размером погашенной украинской задолженности составит долее 250 миллионы долларов США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Размер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

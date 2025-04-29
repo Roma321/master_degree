@@ -1,0 +1,30 @@
+{
+  "text": "Согласно местного законодательство , выборам считались состоявшимися в том случае , если в них приняли учачтие не менее 25 процентов от числа внесенных в избирательные списки граждан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "местному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "законодательству"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "выборы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "считаются"
+    },
+    {
+      "correctReplacement": "участие",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

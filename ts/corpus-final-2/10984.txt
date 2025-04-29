@@ -1,0 +1,25 @@
+{
+  "text": "Британские власти сообщающие , что на лодке имеется небольшая утечка теплоносителя в энергетической системе , но утверждали , что нет опасностей улочки радиации из атомного двигателя .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "опасности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "correctReplacement": "утечки",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

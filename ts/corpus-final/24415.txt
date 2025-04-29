@@ -1,0 +1,25 @@
+{
+  "text": "Руководители Комитета утверждаем , что с начала войны в Чечне в прошлом году погиб свыше трех тысяч российских военнослужащих , а не пятисот , как сообщаемый командование федеральных сил .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "погибло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "пятьсот"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

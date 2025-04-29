@@ -1,0 +1,15 @@
+{
+  "text": "Курсанту , пилотировавший самолет , и летчик-инатруктор погибли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Курсант"
+    },
+    {
+      "correctReplacement": "летчик-инструктор",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

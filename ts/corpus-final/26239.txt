@@ -1,0 +1,20 @@
+{
+  "text": "Банда занимавшаяся рэкетом , захватом заложников с целью получения выкупа , а также cбороминформации , например , о системе охраны сувенирной магазина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "занималась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "ювелирного"
+    },
+    {
+      "correctReplacement": "ювелирной",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

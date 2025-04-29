@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщили в интервью ВВС вице-премьер Украины Юлия Тимошенко , помада электроэнергии в некоторых районах иногда прерывался на двенадцать часов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "прерывается"
+    },
+    {
+      "correctReplacement": "подача",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

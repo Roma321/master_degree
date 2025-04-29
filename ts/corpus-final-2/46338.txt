@@ -1,0 +1,25 @@
+{
+  "text": "В конце ноябрей тигрица напала на одного из лесорубов п сильно понукающая его .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "ноября"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "покусала"
+    },
+    {
+      "correctReplacement": "покусавшая",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Всего на территории республик бывшей Югославия нахтдились более 11 тысяч солдат и офицеров армии США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Югославии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "находились",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "С 1 августа в Санкт-Петербурге ввтдились новые тарифами на проезд в общественном транспорте , передавал \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "тарифы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "вводятся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "вводились",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

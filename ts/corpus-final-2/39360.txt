@@ -1,0 +1,25 @@
+{
+  "text": "В 1997 году от рака желудка умру племянник директора концепта Джованни Альберто Аньелли , который считались официальной наследником Аньелли-старшего .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "умер"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "официальным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "считался"
+    },
+    {
+      "correctReplacement": "концерна",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

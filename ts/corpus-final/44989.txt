@@ -1,0 +1,35 @@
+{
+  "text": "Специалисты местной штаба по гражданского обороне и чрезвычайным ситуациям обследовали эти районы , но ни источника радиоактивного излучения , ни что-либо ином , могущего вызванные мутации , не нашлите .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "гражданской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "иного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "местного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "вызвать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "нашли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "чего-либо"
+    }
+  ]
+}

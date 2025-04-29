@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудник фракции ЛДПР в Госдуме Олеги Вагин получила за прошлый год поход в 892 рубля , в качестве источника укажу распродажу личного имущества .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Олег"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "указав"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

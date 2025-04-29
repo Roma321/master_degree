@@ -1,0 +1,25 @@
+{
+  "text": "В штате работает бригады спасателей и врачи , пострадавшим оказывается медицинская помощь , лишившихся крова размещающие во временных места проживания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "врачей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "временные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "размещают"
+    }
+  ]
+}

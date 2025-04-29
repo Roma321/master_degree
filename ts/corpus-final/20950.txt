@@ -1,0 +1,30 @@
+{
+  "text": "Ивсе по причине хорошего маркетинга : ежедневно лондонский The Times печатаетее самые взрывоопасные куски , частично затрагивающие известных политиков , пишущий немецкий газета Die Zueddeutsche Zeitung по поводу выхода новой фундаментальной книги шпионских разоблачений , написанной профессором из Кембрйджа Кристофером Эндрю в соавторстве с перебежчик из КГБ Василием Митрохиным .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "пишет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "немецкая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "лондонская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "перебежчиком"
+    },
+    {
+      "correctReplacement": "Кембриджа",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

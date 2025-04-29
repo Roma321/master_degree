@@ -1,0 +1,30 @@
+{
+  "text": "Влиятельное международную финансовое рейтинговое агентство Standard & Poor's объявившее о повышении на один пункте рейтинга российская ценных бумаг , в частностях - российских обязательств по внешнему долгу , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "международное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "объявило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "пункт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "частности"
+    }
+  ]
+}

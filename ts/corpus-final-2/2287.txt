@@ -1,0 +1,20 @@
+{
+  "text": "Злоумышленник произвела несколько обстрела из пистолета , после чего скрылся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "произвел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выстрелов"
+    },
+    {
+      "correctReplacement": "выстрела",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

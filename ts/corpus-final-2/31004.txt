@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , на сайт по-английски и на иврите объяснялся , что взлом был осуществлю в знак протеста против \"арапских атак последних дней\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "объясняется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сайте"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "осуществлен"
+    },
+    {
+      "correctReplacement": "\"арабских",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

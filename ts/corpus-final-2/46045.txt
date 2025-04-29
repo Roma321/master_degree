@@ -1,0 +1,25 @@
+{
+  "text": "Общая сумму платежей должно составившие 3 , 2 миллиарда долларов , при этом только Германии предстоящий выплатить 1 , 25 миллиарда долларов , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сумма"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "должна"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "составить"
+    }
+  ]
+}

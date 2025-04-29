@@ -1,0 +1,25 @@
+{
+  "text": "Сам же Анатолий Быков находятся ейчас ы одним из столичных следственных изоляторов столицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "сейчас",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

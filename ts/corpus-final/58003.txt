@@ -1,0 +1,30 @@
+{
+  "text": "В Чили завершусь второй дню предварительного судебной разбирательства , на котором решаешься вопрос о лишении бывшего военного диктатора генерала Аугусто Пиночета парламентской неприкосновенности , передаёшь ВВС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "судебного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "решается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "день"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "завершился"
+    }
+  ]
+}

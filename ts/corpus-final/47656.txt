@@ -1,0 +1,25 @@
+{
+  "text": "В среду на торгах Лондонской нефтяной бирж цены на нефть упадём на 3 , 6 процента до отметку 24 , 58 долларов за баррели .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "баррель"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "упали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "биржи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "отметки"
+    }
+  ]
+}

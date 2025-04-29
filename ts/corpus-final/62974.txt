@@ -1,0 +1,35 @@
+{
+  "text": "Вместе с тем Голдман высказал гонения , что замедление деловой активности отрицательно скажется на предвыборной кампании вице-президента Альберта Горе и можешь привести к избранию президента США Джорджа Буша , который выступает за жесткие отношения с Росстей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "мнение"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Гора"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "президентом"
+    },
+    {
+      "correctReplacement": "мнения",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Россией",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

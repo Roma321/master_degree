@@ -1,0 +1,25 @@
+{
+  "text": "Кромп того , также на 2 февраля перенёсшее рассмотрения иска налоговой инспекции о ликвидациях компании \"НТВ-плюс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "перенесено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ликвидации"
+    },
+    {
+      "correctReplacement": "Кроме",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

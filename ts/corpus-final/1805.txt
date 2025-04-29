@@ -1,0 +1,25 @@
+{
+  "text": "Рукопись , которая долгим годы считалась утраченного , принадлежит родственнице покойной писателя Василия Кудашова , друга Михаила голос .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "утраченной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "долгие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "покойного"
+    },
+    {
+      "correctReplacement": "Шолохова",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

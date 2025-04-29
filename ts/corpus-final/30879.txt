@@ -1,0 +1,20 @@
+{
+  "text": "Взрывом разрушено 10 квартир , большую часть дома к полуночи была охвачена пожаром , которому присвоена 4-е категория склонности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "4-я"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "большая"
+    },
+    {
+      "correctReplacement": "сложности",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

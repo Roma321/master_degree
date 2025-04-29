@@ -1,0 +1,25 @@
+{
+  "text": "Он выразил надежду , что Комиссий удастся убедить в своей правоте высочайшую сушебной инстанцию - Президиум Верховного суда .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "высшую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "судебную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Комиссии"
+    },
+    {
+      "correctReplacement": "судебной",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

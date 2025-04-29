@@ -1,0 +1,30 @@
+{
+  "text": "Как теперь выясняешься , опросы не всегда отражает истинные насороений и бедствия большинства населения .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "выясняется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "настроения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "отражают"
+    },
+    {
+      "correctReplacement": "действия",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "настроений",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

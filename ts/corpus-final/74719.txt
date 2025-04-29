@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщила \"Интерфаксу\" пресс-секретарь администрации , прозвучавшие накануне заявления об уходах в отставку 43отведздвенных работников не подтвердились .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "уходе"
+    },
+    {
+      "correctReplacement": "43ответственных",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

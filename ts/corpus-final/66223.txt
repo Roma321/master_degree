@@ -1,0 +1,30 @@
+{
+  "text": "Министру подчеркнул , что по мере необходимости числу чеченских террорисшов , содержащихся под стражей , может быть увеличившее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Министр"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "увеличено"
+    },
+    {
+      "correctReplacement": "мере",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "террористов",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

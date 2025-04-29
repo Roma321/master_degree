@@ -1,0 +1,25 @@
+{
+  "text": "1 ноября 2000 , как сообщают РИА \"Новости\" , в Белом доме состоится цермонии , которая отобразит въест Джона адама в президентскую резиденцию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "цермония"
+    },
+    {
+      "correctReplacement": "Адамса",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "въезд",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

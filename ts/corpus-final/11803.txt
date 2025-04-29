@@ -1,0 +1,20 @@
+{
+  "text": "В настоящую время Оыков нахожусь в одном из следственных изоляторов Будапешта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "находится"
+    },
+    {
+      "correctReplacement": "Быков",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

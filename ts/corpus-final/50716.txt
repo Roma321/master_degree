@@ -1,0 +1,30 @@
+{
+  "text": "Общие потери федерального сил в ходе контртеррористического операции на Северном Кавказах среди военнослужащих Министерства обороны и сотрудникам МВД составившие 2095 убитыми и 6171 ранеными .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "контртеррористической"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Кавказе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "составили"
+    }
+  ]
+}

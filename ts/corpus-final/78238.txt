@@ -1,0 +1,20 @@
+{
+  "text": "Мыскина выиграла первый сет - 6 : 4 , но в дальнейшей инициативой завладею ее более опытная соперница , котшрая и выиграла две последующим партии - 6 : 3 , 6 : 1 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "завладела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "последующих"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Затем вооруженный афроамериканец направились в ресторане McDonald's и лазивший троих посетителей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "направился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "ресторан"
+    },
+    {
+      "correctReplacement": "ранил",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

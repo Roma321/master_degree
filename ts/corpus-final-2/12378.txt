@@ -1,0 +1,20 @@
+{
+  "text": "Дело в том , что тот позвонивший в \"Cкорую помощь\" , а служба \"03\" не оснащена специальной аппаратурой для вычисления и фиксации телефонных звоночки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "позвонил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "звонков"
+    },
+    {
+      "correctReplacement": "звонки",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

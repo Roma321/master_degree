@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению крупнейших телеканаюов США , вице-президент США Альберты Гор тоже одержал уверенного победу в штате Вашингтон .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Альберт"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "уверенную"
+    },
+    {
+      "correctReplacement": "телеканалов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

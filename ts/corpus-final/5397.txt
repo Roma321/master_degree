@@ -1,0 +1,25 @@
+{
+  "text": "Михайлов , полученный в свое время гражданство Греции , утверждал при подаче заявки на регистрацию , что его греческий паспорт был аннулирую по его просеки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "получивший"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "аннулирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "просьбе"
+    },
+    {
+      "correctReplacement": "просьбы",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

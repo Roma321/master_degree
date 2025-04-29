@@ -1,0 +1,30 @@
+{
+  "text": "Впрочем , даже если организаторы акции будут признаны виновным , им грожу всего лишь штрафом в размере до 30 рублей , сообщующий \"Эхо Москвы\" со ссылкой на начальника пресс-службы столичного ГУВД .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "штраф"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "виновными"
+    },
+    {
+      "correctReplacement": "сообщающий",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сергеев сообщил , что признания норвежскую адмирала \"будут приобщены к материалам расследований причин гибели пил \"Курск\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "норвежского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "расследования"
+    },
+    {
+      "correctReplacement": "АПЛ",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "аил",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

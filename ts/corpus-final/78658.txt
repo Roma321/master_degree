@@ -1,0 +1,25 @@
+{
+  "text": "Об этом заявленный журналисту чен советов директорам РАО ЕЭС , \"Газпрома\" и Сбербанка , лидер движения \"Вперед , Россия ! \"",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "директоров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "correctReplacement": "член",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

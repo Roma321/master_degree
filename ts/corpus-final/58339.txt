@@ -1,0 +1,25 @@
+{
+  "text": "И других результатов стоило отметившие успех итальянцев в домашней матче с португальцами (2 : 0) и бледную игру сборной Германии с будущим соперником сборной России по отборочной группе чемпионата мира - швейцарцами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "отметить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "домашнем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "стоит"
+    },
+    {
+      "correctReplacement": "домашней",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

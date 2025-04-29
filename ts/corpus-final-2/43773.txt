@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом суд удовлетворил иск Coca-Cola к Госналогинспекции Центрального административного округа Москвы , которая предъявляло к компаний претензиям в неуплате налогом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "предъявляла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "претензии"
+    },
+    {
+      "correctReplacement": "налогов",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Как сообщила в понедельник \"Интерфаксу\" заместитель прокурора Гудермесского района Максим Кибизов , водитель автобана ранен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "автобуса",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

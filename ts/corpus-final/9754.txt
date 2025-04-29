@@ -1,0 +1,25 @@
+{
+  "text": "Для борьбы с компьютерными преступлениями 14 августа 1998 года было создавшее специальная добавление МВД по борьбе с преступлениями в сферой высоких технологий (УБСВТ) , оно же управление \"Р\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "создано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "специальное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сфере"
+    },
+    {
+      "correctReplacement": "Управление",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

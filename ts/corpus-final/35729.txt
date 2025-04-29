@@ -1,0 +1,25 @@
+{
+  "text": "По данных Минтопэнерго РФ , к настоящему времени удалась сократить его несанкционированная отбор с 80-100 миллионов кубометров , как то происходило в начавшем февраля , до 2-3 миллионов кубометров в сутки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "несанкционированный"
+    },
+    {
+      "correctReplacement": "начале",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

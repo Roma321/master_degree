@@ -1,0 +1,20 @@
+{
+  "text": "Он добавивший , что страна давно нуждается в переменах и в экономической , и в информационного , и в оправдательной , и в технологической отбластях .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "добавил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "информационной"
+    },
+    {
+      "correctReplacement": "образовательной",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

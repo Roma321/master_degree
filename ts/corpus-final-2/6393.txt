@@ -1,0 +1,25 @@
+{
+  "text": "Профсоюзы считают , что Verizon особенно ущемляет интерес работника ртрасли в таких новых и быстро развивающихся областях , как беспроводной связь и интернет-услуги .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "работников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "интересы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "беспроводная"
+    },
+    {
+      "correctReplacement": "отрасли",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

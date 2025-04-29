@@ -1,0 +1,20 @@
+{
+  "text": "Лидер блока \"Сталинский блок - за СССР\" Викторы Анпилов за прошлый год не имел совершенно никаких доходов , проживает он в московского квартире площадью 37 кв . м и ездит на афтомобиле \"Волга\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Виктор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "московской"
+    },
+    {
+      "correctReplacement": "автомобиле",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

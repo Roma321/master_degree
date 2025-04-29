@@ -1,0 +1,20 @@
+{
+  "text": "Получившие средства будут зачисляться на специальный таможенный депозит , а лесли ущерб отечественным производителям подтвердится , то их перечислят в бюджеты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Полученные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "бюджет"
+    },
+    {
+      "correctReplacement": "если",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

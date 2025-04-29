@@ -1,0 +1,25 @@
+{
+  "text": "С января 2001 годов по тарифной ставке первого разряда оклады будут увеличим на 68 рублей , по ставке второй разряда - на 30 , 5 рублём , по ставке третьего разряда - на 10 рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "второго"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "увеличены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "рубля"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "года"
+    }
+  ]
+}

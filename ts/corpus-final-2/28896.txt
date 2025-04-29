@@ -1,0 +1,25 @@
+{
+  "text": "Опасавшись насилия , он обращаютсы за помощь к старшему товарищу (Уиллем Дэфо) , который чувствует себя в тюрьме как дома .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Опасаясь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "обращается"
+    },
+    {
+      "correctReplacement": "обращаются",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

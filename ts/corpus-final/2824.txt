@@ -1,0 +1,30 @@
+{
+  "text": "Очередного платеш по этим бумагам , намеченный на 3 октябрь , не был произведен , а кладущим области пока не удалось договориться с кредиторов о реструктуризации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "октября"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "кредиторами"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Очередной"
+    },
+    {
+      "correctReplacement": "властям",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "платеж",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

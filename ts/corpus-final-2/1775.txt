@@ -1,0 +1,35 @@
+{
+  "text": "Согласно утвержденному на конференции нлану , с 1 августа начнёшься прием заявок от компаний , желавших взятые на себя ресторация , поддержку и распределение новых доменов .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "начнется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "регистрацию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "желающих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "взять"
+    },
+    {
+      "correctReplacement": "регистрации",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "плану",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

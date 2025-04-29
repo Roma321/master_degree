@@ -1,0 +1,20 @@
+{
+  "text": "Их мощностью будут снизим , как минимум , на 20 процкнтов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мощности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "снижены"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

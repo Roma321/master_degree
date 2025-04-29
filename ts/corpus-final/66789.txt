@@ -1,0 +1,35 @@
+{
+  "text": "По всей видимостт , он установил программу , отслеживающую ответы информационной системы РОСНИИРОСа , которая в течение четырех дней тестируемый технические обеспечению функционирования доменов , а затем грамматически освобождает их от владельцу в случае неиспользования этого сайта\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "владельца"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "тестирует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "обеспечение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "техническое"
+    },
+    {
+      "correctReplacement": "автоматически",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "видимости",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

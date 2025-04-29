@@ -1,0 +1,30 @@
+{
+  "text": "Тест со случайным изменением цены , который проводившая компании , был ошибкой , и в дальнейшем любые эксперименты будут прополотые только с предуведомлением всех покупателей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проводила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "цен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "компания"
+    },
+    {
+      "correctReplacement": "проводиться",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "проколотые",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

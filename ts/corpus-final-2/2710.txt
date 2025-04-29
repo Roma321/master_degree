@@ -1,0 +1,25 @@
+{
+  "text": "Персонал завода требует гарантии предоставления рабочих места с такого же заработной платой и выплат каждому сотруднику компенсации ы размере 150 тысяч франков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гарантий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "мест"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "такой"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

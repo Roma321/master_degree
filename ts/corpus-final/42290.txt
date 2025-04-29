@@ -1,0 +1,20 @@
+{
+  "text": "Только за последняя время , по словамРушайло , предотвращено 16 взрывов в различных городах России , изъявшее долее 521 тонны взрывчатых веществ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "последнее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "изъято"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "По санным CNN , подобная инцидент произошел в токийском метро впервые .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "подобный"
+    },
+    {
+      "correctReplacement": "данным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

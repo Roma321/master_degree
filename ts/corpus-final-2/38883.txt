@@ -1,0 +1,25 @@
+{
+  "text": "выборы в США на прошедшей неделей отодвинули ша второй план такие популярный запросы последних месяцев , как \"Курск\" , \"подводный\" и \"лодка\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "популярные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "неделе"
+    },
+    {
+      "correctReplacement": "Выборы",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

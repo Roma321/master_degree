@@ -1,0 +1,25 @@
+{
+  "text": "Президент Ингушетии Руслан Аушев заявлю , что , по его мнение , общпе число беженцев из Чечни мог достичь 200-300 тысяч человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "мнению"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "общее",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

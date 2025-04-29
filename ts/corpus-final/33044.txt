@@ -1,0 +1,30 @@
+{
+  "text": "В ЦИК выборочно проверившие 250 тысяч подписей в поддержку Путин , из которых всего 3 тысяч 689 были присланные недействительными по различным причинам , сообщила представитель комиссии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проверили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "тысячи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Путина"
+    },
+    {
+      "correctReplacement": "признаны",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

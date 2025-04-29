@@ -1,0 +1,30 @@
+{
+  "text": "Степашин заявил , что направил официальное письмо спикеру Госдумы Геннадий Селезнёва с просьбой разобравшиеся с нроизвёдшим .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Геннадию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "разобраться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Селезневу"
+    },
+    {
+      "correctReplacement": "произошедшим",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "произвёдшим",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

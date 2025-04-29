@@ -1,0 +1,15 @@
+{
+  "text": "Автобус , в котором находились 30 пассажиров , столкнулся с легковой автомобилем , съехал с дороги и врезался в дереву .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "легковым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "дерево"
+    }
+  ]
+}

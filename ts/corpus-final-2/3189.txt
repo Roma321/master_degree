@@ -1,0 +1,20 @@
+{
+  "text": "В результате этого решение Прага недосчитается 50 мтллионов долларов , передает РИА \"Новости\" со ссылкой на источники в чешском строительстве .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "решения"
+    },
+    {
+      "correctReplacement": "правительстве",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

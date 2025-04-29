@@ -1,0 +1,20 @@
+{
+  "text": "Во время досмотра ручной клади один из работников аэропорта заметили на мгниторе контур предмета , напоминаемого пистолет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "напоминающего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "заметил"
+    },
+    {
+      "correctReplacement": "мониторе",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

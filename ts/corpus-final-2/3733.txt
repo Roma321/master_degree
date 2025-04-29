@@ -1,0 +1,25 @@
+{
+  "text": "Одно из первых задач Инициативного центра - дать геноциду точные наусное определение , так как среди учёных мира по этому вопросу до сих пор нет единодушия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Одна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "ученых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "точное"
+    },
+    {
+      "correctReplacement": "научное",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

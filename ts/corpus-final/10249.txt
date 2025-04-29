@@ -1,0 +1,30 @@
+{
+  "text": "В настоящий моментом Михаил Пресс находишься в камерепредварительного заключения , ожидающие судебной разбирательства , а Эдуард Батко отпущен под залог своей дома стоимостью 500 тысячдолларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "судебного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "момент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "ожидая"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "находится"
+    }
+  ]
+}

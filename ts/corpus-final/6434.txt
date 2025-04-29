@@ -1,0 +1,30 @@
+{
+  "text": "Премьер-министр Великобритании Тони Блэр послал вчера военный корабля к берегам Восточной Тимора в знак тогь , что Великобританию очень беспокоят эту кризис .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "Восточного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "корабль"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "беспокоит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Это первыю система такого типа , так как ранее ядро NT использовался только для корпоративных продуктов , \"домашние\" системы (Windows95 , Windows98 и т . д . ) использовали ядро DOS - первой оперативной системы для PC , разработанной Microsoft еще в 80-х годах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "первая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "использовалось"
+    },
+    {
+      "correctReplacement": "операционной",
+      "type": "paronym",
+      "wordNumber": 33
+    },
+    {
+      "correctReplacement": "первую",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Оперативники установили , что преступник знакомился со своими жертвами в центра города и под различным прологами уводил их на окраину , где нападавший на них Э",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "нападал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "различными"
+    },
+    {
+      "correctReplacement": "предлогами",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

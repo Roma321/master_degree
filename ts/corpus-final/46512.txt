@@ -1,0 +1,25 @@
+{
+  "text": "Между тем заместитель министра иностранных дел одной из крупнейших нефтедобывающего стран Венесуэлы Хорхе Валерио заявил , сто на сегодня странами ОПЕК согласовавшее решение лишь о небольшом увеличении добычей нефти .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "согласовано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "добычи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "нефтедобывающих"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

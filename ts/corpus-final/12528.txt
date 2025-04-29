@@ -1,0 +1,20 @@
+{
+  "text": "По данным Программы ООН по борьбе со СПИДом , всего п миру насчитывается более 33 миллионов заражённых вирусом СПИДа , около 70 процентов из них живут в Африке .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "зараженных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мире"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

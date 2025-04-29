@@ -1,0 +1,30 @@
+{
+  "text": "Во Франкфурте арестованы преступником , вымогаемый 730 тысяч доллароы у германского подразделившие корпорации Coca-Cola .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вымогавший"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "преступник"
+    },
+    {
+      "correctReplacement": "подразделения",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

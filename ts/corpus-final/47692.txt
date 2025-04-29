@@ -1,0 +1,15 @@
+{
+  "text": "По данным Министерства по чрезвычайным ситуациям , число беженцев из Чечни достигла в Ингушетии 78 тыыяч человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "достигло"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

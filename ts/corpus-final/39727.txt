@@ -1,0 +1,20 @@
+{
+  "text": "В частности , были преданы гласности выдершка из медицинского заключения , где перечисляются многочисленные недуги , которыми якобы страдает 83-летним генерал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "выдержки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "83-летний"
+    },
+    {
+      "correctReplacement": "выдержка",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

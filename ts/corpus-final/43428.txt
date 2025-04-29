@@ -1,0 +1,20 @@
+{
+  "text": "Однако , по мнениям работавших на месте происшествия сотрудников ФСБ , не исключено , что это акция бсла \"проверкой\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "мнению"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

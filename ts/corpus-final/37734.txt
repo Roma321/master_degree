@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник Центризбирком утвержу график распределения бесплатного мирного времени на государственных телерадиоканалам между претендентами на должность президента России , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "утвердил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "телерадиоканалах"
+    },
+    {
+      "correctReplacement": "эфирного",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

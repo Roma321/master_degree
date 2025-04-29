@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , в настоящую время истёкший срок содержания Ковалева под стражей и , по заключению врачей , он нуждающийся в комплексной лечении в вязи с рядом серьёзного заболеваний .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "серьезных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "истек"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "нуждается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "комплексном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

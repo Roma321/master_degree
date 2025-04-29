@@ -1,0 +1,35 @@
+{
+  "text": "Официальный Израиль утверждаю , что возвращение такого католичеств беженцев на прежние места их проживания спровоцирует демографическую катастрофу в ытране и решительно протестующий против подобной требования арабов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "протестует"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "подобного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "количества"
+    },
+    {
+      "correctReplacement": "количеств",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "стране",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Вполне возможно , что время визита Ферреро-Вальднер будет сократившее , так крак из-за тумара несколько задержусь ее прибытие в республику .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "сокращено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "задержалось"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "тумана",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

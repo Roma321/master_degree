@@ -1,0 +1,25 @@
+{
+  "text": "Компании Microsoft прекращает предоставление бесплатных телефонного консультаций для американок клиенты , которые приобрели Windows и Office .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "клиентов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "телефонных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "correctReplacement": "американских",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

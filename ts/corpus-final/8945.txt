@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , \"Титнефть\" участвует и в других иракских проекте , таких , как разведка и оценку запасов невшей на месторождении \"Западная Курна\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "проектах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "оценка"
+    },
+    {
+      "correctReplacement": "нефти",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "\"Татнефть\"",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Россия не выполнившая всё условия , необходимые для полотенца второго транша кредите , заявил заместитель директора МВФ Стэнли Фишер агентству Dow Jones .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "все"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "выполнила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "кредита"
+    },
+    {
+      "correctReplacement": "получения",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

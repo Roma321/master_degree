@@ -1,0 +1,20 @@
+{
+  "text": "21 февраля в Махачкале на обочину дороги , ведущей их столицы Дагестана в Каспийск , прогремело взрыв , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "прогремел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "обочине"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

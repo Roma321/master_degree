@@ -1,0 +1,30 @@
+{
+  "text": "В понедельник утром состоявшийся стрела Игоря Иванова с президентом Сирии Башарами Асадом , во время которой они обсудили ситуации в регионе и пути развития двусторонних российско-сирийских отношений .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Башаром"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ситуацию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "состоится"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "обсудят"
+    },
+    {
+      "correctReplacement": "встреча",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

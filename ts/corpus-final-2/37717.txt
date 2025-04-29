@@ -1,0 +1,45 @@
+{
+  "text": "В тоже время , как сообщили по завершении судебного заседаний адвокат Эдмонда Поупа Павел Астахов , Бабкины объяснил свой отказы тем , что его показания были суммируем и затем вручены ему для подтверждения , хотя сам он звои последние показания не суммировала , а лишь подписавший .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 41,
+      "correctReplacement": "суммировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "заседания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "отказ"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 45,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Бабкин"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 26,
+      "correctReplacement": "суммированы"
+    },
+    {
+      "correctReplacement": "свои",
+      "type": "typo",
+      "wordNumber": 37
+    }
+  ]
+}

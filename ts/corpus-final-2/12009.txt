@@ -1,0 +1,30 @@
+{
+  "text": "Двигавшийся со разительными превышением скорости , автомобиль пробил разделительный ограждение , вылетел на встречную полоса и смяло автобус с туристами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "полосу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "значительным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "разделительное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "смял"
+    },
+    {
+      "correctReplacement": "значительными",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

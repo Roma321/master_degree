@@ -1,0 +1,20 @@
+{
+  "text": "С 1954 по 1974 год работаю адвокатом ц своем родном гордом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "работал"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

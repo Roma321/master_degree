@@ -1,0 +1,20 @@
+{
+  "text": "Общая площадь нового аэровокзальногг комплекса составляет 57 тысяч квадратных метров , а его пропускные способность увеличившая до 2100 пассажиров в час .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "увеличена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пропускная"
+    },
+    {
+      "correctReplacement": "аэровокзального",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

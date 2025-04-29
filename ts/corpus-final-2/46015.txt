@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник Верховный суд США отклонило решение зуды штат Флорида о ручном пересчете голоса избирателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "штата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "отклонил"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

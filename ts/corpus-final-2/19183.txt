@@ -1,0 +1,15 @@
+{
+  "text": "В субботу в Москве на улице Ремизова произошло лобовая столкновение бвух милицейских автомобилей - \"ВАЗ-21099\" и \"Ауди\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "лобовое"
+    },
+    {
+      "correctReplacement": "двух",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За последние пять года вишь однажды первый прис увезу иностранец .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "увез"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "приз",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

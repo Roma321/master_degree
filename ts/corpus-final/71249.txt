@@ -1,0 +1,15 @@
+{
+  "text": "Об этом сообщает РИА \"Новости\" со ссылкой на префс-секретаря президента Алексея Громове .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Громова"
+    },
+    {
+      "correctReplacement": "пресс-секретаря",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

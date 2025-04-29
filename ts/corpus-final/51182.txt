@@ -1,0 +1,25 @@
+{
+  "text": "Окружной проктор сделавший специальное заявление о тому , что громкое имя писателя следователями во внимание не принимаюсь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "принималось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "прокурор",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

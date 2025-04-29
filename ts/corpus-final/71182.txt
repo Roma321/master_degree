@@ -1,0 +1,20 @@
+{
+  "text": "Трое детей , находившихся в реанимации , переведены в обычных отделение , однвко их состояние остается тяжёлым .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "тяжелым"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "обычное"
+    },
+    {
+      "correctReplacement": "однако",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как расскажу корреспонденту телекомпании дочь советского конструктора Надежда михайлова Миль , господин Запольский не являются профессионалом в своего области .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "рассказала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "Михайловна",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

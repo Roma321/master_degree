@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что недавно заместителя генерального прокурора России Василий Колмогоров заявило журналистам , что благодаря материалам , полученным от швейцарских коллежей , следствия по данным делу \"вышло на качественно новый этап\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "следствие"
+    },
+    {
+      "correctReplacement": "коллег",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

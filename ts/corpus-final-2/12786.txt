@@ -1,0 +1,20 @@
+{
+  "text": "После этпм , пишет газета , \"она питавшая на пол\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этого"
+    },
+    {
+      "correctReplacement": "упала",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "этим",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

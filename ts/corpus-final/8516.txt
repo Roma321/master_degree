@@ -1,0 +1,20 @@
+{
+  "text": "В аварии пострадали 17 человека : двое погибли , остальные получили ранения различного степень тяжести , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "различной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "степени"
+    }
+  ]
+}

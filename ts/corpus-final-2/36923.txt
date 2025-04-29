@@ -1,0 +1,25 @@
+{
+  "text": "Самолет не получает разрешение на вылеты у связи с присутствию необходимых документов на груз .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "вылет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "отсутствием"
+    },
+    {
+      "correctReplacement": "отсутствию",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Ученые установили , что экологические ситуация в районе реки могу нанесённые сервегный ущерб здоровью местных жителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "нанести"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "экологическая"
+    },
+    {
+      "correctReplacement": "серьезный",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "серверный",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Четиеро жителям Дагестана в ночь на четверги были задержаны по подозрению в причастность к бандформированиям .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "жителей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "четверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "причастности"
+    },
+    {
+      "correctReplacement": "Четверо",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как сшобщённый \"Интерфаксу\" полномочный представитель правительства России в республике Николай Кошманом , первоочередными задачами в немы названы возобновление водо- и энергоснабжения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Кошман"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "нем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "восстановление",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "сообщённый",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

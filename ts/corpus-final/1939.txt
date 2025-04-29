@@ -1,0 +1,20 @@
+{
+  "text": "Кроме Немцову по этому же округу зарегистрировафшие еще четыре кандидата .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Немцова"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "зарегистрированы"
+    },
+    {
+      "correctReplacement": "зарегистрировавшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

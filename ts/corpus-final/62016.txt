@@ -1,0 +1,25 @@
+{
+  "text": "Первым в списке называется направляющая делами президента РФ Павлы Бородин , ближайшая к Ельцину человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Павел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "ближайший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "управляющий"
+    },
+    {
+      "correctReplacement": "управляющая",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

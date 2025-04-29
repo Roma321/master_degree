@@ -1,0 +1,25 @@
+{
+  "text": "В результате одной тз его атак , осуществленной в январе этого год , сеть не функционирую более часов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "функционировала"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

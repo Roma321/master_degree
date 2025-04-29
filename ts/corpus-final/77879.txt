@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , утром в четверг совершившее покашение на 39-летнего Николаю Жирякова , генерального директора фирмы \"Техстроймонтаж\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Николая"
+    },
+    {
+      "correctReplacement": "покушение",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник по договоренности с филиппинской правительством к заложникам отправлюсь врач Нельса Амин : по некоторым данным , один из похищенных находится в бессознательном состоянии , у другого ­ кровоточащее ява .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "филиппинским"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отправилась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "кровоточащая"
+    },
+    {
+      "correctReplacement": "язва",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

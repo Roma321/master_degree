@@ -1,0 +1,30 @@
+{
+  "text": "Международные олимпийский комитет лишил болгарского штангиста Ивана Иванова завоёванной на Олимпиаде в Сиднее серебряной деталей после того , как он не пройду допинг-контроль , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Международный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "медали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "завоеванной"
+    },
+    {
+      "correctReplacement": "медалей",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

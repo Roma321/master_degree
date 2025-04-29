@@ -1,0 +1,20 @@
+{
+  "text": "Предприниматель с тяжёлом состоянии специализированный .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "correctReplacement": "госпитализирован",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

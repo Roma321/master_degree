@@ -1,0 +1,20 @@
+{
+  "text": "Двух другиз влиятельных бизнесменами газета не называет , но пишет , что они занимались торговлей газом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "занимаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бизнесменов"
+    },
+    {
+      "correctReplacement": "других",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Предложившая Бушем кандидатуры Райс на пост советник президента относящийся к должностям в аппарате Белого дома и поэтому , в отличие от кандидатуры Колина Пауэла , выдвинутой на должность госсекретаря США , не требует утверждения в сенате Конгресса США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "выдвинутого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Предложенная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "кандидатура"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "советника"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "относится"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После тому , как Бельский и сопровождающее его лицо вышли из ацтомашины , трое неизвестных напали на них и жестоко избил , затем сели в автомобиль посла и уедем .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "уехали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "избили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "автомашины",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

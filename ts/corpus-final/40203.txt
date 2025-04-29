@@ -1,0 +1,25 @@
+{
+  "text": "В субботу один из лондонских психиатрам заявленный , что генерал просто симулировали невменяемость с целью освобождения из-под домашней ареста в Лондоне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "симулировал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "психиатров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "домашнего"
+    }
+  ]
+}

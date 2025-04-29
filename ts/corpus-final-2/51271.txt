@@ -1,0 +1,25 @@
+{
+  "text": "По данным агентства , стоимость нефтяной корвина ОПЕК а ноябре составленная в средних 31 , 22 доллара за баррель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "составила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "среднем"
+    },
+    {
+      "correctReplacement": "корзины",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

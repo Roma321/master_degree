@@ -1,0 +1,25 @@
+{
+  "text": "За несколько минут до взрыва в полицию позвонивший человек , представившийся членом ETA , и сообщил о предстоящем теракте , однако у стражей порядка было слишком мало времени для обнаружения и обезвреживаний взрывной устройств .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "обезвреживания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "позвонил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 32,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "устройства"
+    }
+  ]
+}

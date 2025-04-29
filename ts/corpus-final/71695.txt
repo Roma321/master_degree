@@ -1,0 +1,20 @@
+{
+  "text": "Куда поступало это неучтённое золото , уфсб предстоящий выяснить .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "неучтенное"
+    },
+    {
+      "correctReplacement": "ФСБ",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В свою очередь , промышленность ЧРГ объявлю о готовности трудоустраивающие иностранцев в области высоких технологиями , включая недипломированных специалистов из стран - не членов ЕС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "объявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "технологий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "трудоустраивать"
+    },
+    {
+      "correctReplacement": "ФРГ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

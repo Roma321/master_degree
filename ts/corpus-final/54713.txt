@@ -1,0 +1,30 @@
+{
+  "text": "По их сведению , российские военные содействовали переговорам по заключению многомиллионной сделоу Белоруссии с Саддамом хуссейном , утверждающий The Telegraph .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сделки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сведениям"
+    },
+    {
+      "correctReplacement": "Хусейном",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "сделок",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

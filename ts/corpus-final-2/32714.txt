@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщила Моцак , в записке также сказан , что возможно два-три человека попытается осуществить попытку выхода из затонувшей подводной лодки через аварийно-спасательный люк девятого отсевшего .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "сказано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "попытаются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "отсека",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

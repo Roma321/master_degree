@@ -1,0 +1,25 @@
+{
+  "text": "Она хочет построить в городе большой стадион , чтобы приглашённые известную футбольных команду и вместе с тем привлечь к гордому вниманием и инвестиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "внимание"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "пригласить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "футбольную"
+    },
+    {
+      "correctReplacement": "городу",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

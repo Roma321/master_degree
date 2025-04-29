@@ -1,0 +1,25 @@
+{
+  "text": "Касьянов от имени всех кабинетв министров поздравил Путина с остекление в должность президента России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "вступлением"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "всего"
+    },
+    {
+      "correctReplacement": "вступление",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "кабинета",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

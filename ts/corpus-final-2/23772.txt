@@ -1,0 +1,25 @@
+{
+  "text": "В январе это года он перенёс пневмонию в тяжелой форме , посло чего состояние его здоровью резко ухудшилось .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "здоровья"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "перенес"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

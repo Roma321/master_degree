@@ -1,0 +1,25 @@
+{
+  "text": "Он также возложил цветы к памятником основателя Сибирского отделения РАН академика Михаила Лаврентьева , 100-летие со дня рождения которого отмечался в эти мень .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "памятнику"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "отмечается"
+    },
+    {
+      "correctReplacement": "день",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

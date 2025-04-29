@@ -1,0 +1,20 @@
+{
+  "text": "Защмте предстоят выбрать учреждение , где будет проводиться экспертиза , а также сформулировать перед медэкспертами вопросах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "вопросы"
+    },
+    {
+      "correctReplacement": "Защите",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

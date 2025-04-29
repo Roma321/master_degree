@@ -1,0 +1,25 @@
+{
+  "text": "Утром 4 ноября группа физической защиты судебных приставов взявшая штурм здание Торгового дома Смирновой на пятнистой улице в Москве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "взяла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Смирнова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "штурмом"
+    },
+    {
+      "correctReplacement": "Пятницкой",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Около 12 : 00 в сторожившим доме на Авиационной улице оборвусь лифт .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "строящемся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "оборвался"
+    },
+    {
+      "correctReplacement": "строившемся",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

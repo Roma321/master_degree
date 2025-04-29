@@ -1,0 +1,30 @@
+{
+  "text": "Кач сообщает РБК , на сегодняшний день из 2135 асад , которые необходимо привёдшие в порядок к майскими праздникам , очищено только 1457 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "привести"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "фасадов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "майским"
+    },
+    {
+      "correctReplacement": "фасада",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

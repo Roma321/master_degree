@@ -1,0 +1,25 @@
+{
+  "text": "Такое мнение высеажу во вторник журналистам первый вице-премьер , министр финансов РФ Михаила Касьянов , сообщают РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Михаил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "выскажу",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

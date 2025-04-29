@@ -1,0 +1,25 @@
+{
+  "text": "Так , неизвестными в маски в подъезде своего дома был избит минюст здравоохранения Владимир Максименко , ранее пострадали атаман Николая Перваков , лидер \"Русской общины\" Игорь Пунченко и генерал запаса Юрий Антоновым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Николай"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "Антонов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "масках"
+    },
+    {
+      "correctReplacement": "министр",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

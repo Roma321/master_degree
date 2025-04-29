@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщаю РИА \"Новосри\" со ссылкой на мобильный отряд МВД Россия в Моздоке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

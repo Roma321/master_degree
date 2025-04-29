@@ -1,0 +1,30 @@
+{
+  "text": "В ночь на воскресенья на острове Миякедзима , который находящийся в 200 километрах от японской столицей и входишь в архипелаг Изу , началось извержение вулкана Ояме , продолжавшееся около получаса .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Ояма"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "входит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "воскресенье"
+    }
+  ]
+}

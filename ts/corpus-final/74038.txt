@@ -1,0 +1,20 @@
+{
+  "text": "Он курирует Главное государздвенный призовое управление .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "государственное"
+    },
+    {
+      "correctReplacement": "правовое",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "государственный",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

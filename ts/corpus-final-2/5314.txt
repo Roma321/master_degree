@@ -1,0 +1,30 @@
+{
+  "text": "Гребнева арестована за публикацию текста телефонных разговоров , во время которых представители руководства Приморского края и Владивосток с использованием ненормативного лексику даваемые угасание фальсифицировать итоги выборов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "лексики"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "давали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "ненормативной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Владивостока"
+    },
+    {
+      "correctReplacement": "указание",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

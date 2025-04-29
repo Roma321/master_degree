@@ -1,0 +1,20 @@
+{
+  "text": "Для предотвращения случайных выстрела в течение года все пистолеты Smith&Wesson будут оснащены индикатором наличий патронов в стороннику .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "наличия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выстрелов"
+    },
+    {
+      "correctReplacement": "патроннике",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

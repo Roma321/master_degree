@@ -1,0 +1,20 @@
+{
+  "text": "Фестивалю прошёл с 18 по 28 января а Парк-Сити , штат Юта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Фестиваль"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

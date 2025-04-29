@@ -1,0 +1,25 @@
+{
+  "text": "Среди ста пассажиров разобьюсь самолета - 96 граждан Германии , две гражданина Дании , одна согражданин Австрии и один гражданин США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "разбившегося"
+    },
+    {
+      "correctReplacement": "гражданин",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

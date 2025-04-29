@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает НТВ , Махачев предложила коллегам разобраться , соответствовал ли поведение Жириновского его статусу с Госдуме .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "предложил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

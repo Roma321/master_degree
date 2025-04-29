@@ -1,0 +1,40 @@
+{
+  "text": "Нынешнему вице-президент и претендент на пост президенэу США Алберт Гор 27 октября выступлю в Нью-Гемпшире на первых публичных дебатах с одним из своих соперников в предвыборной борьбе , кандидатом от демоническая партии , бывшим сенатором и баскетболистом Билла Брэдли .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Демократической"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 37,
+      "correctReplacement": "Биллом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Нынешний"
+    },
+    {
+      "correctReplacement": "Демократическая",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "президенту",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

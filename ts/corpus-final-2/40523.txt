@@ -1,0 +1,25 @@
+{
+  "text": "Участники похорон атакуем стоявшее неподалеку израильский военный джип камнями и бутылками с зажигательной спесью , от одной из которых джип загорелись .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "стоявший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "загорелся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "атаковали"
+    },
+    {
+      "correctReplacement": "смесью",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

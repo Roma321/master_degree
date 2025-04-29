@@ -1,0 +1,20 @@
+{
+  "text": "По текущим платежам Киев способен платящие из расчета 25 долларов за тысячу кубических метров при рыночной ценам 80 далласов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "платить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "цене"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

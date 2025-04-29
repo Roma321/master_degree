@@ -1,0 +1,25 @@
+{
+  "text": "Мика Хаккинен приехавший к финишу лишь четвёртым , а Дэвид Култхард так и не сумевший справиться со своей машиной , и хотя умывший финишировать (на седьмом месте) , но очков команде не добыл .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сумел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "приехал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "четвертым"
+    },
+    {
+      "correctReplacement": "сумел",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

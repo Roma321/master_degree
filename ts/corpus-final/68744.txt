@@ -1,0 +1,30 @@
+{
+  "text": "Соответственно , как утверждаете авторы исследования , проведённого компанией Nortel Networks , ворейские пользователи через пяти лет составившие 50 процентов общемировой сетевой аудитории , и пропорционально поделят с американцами сферу интернет-коммерции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "составят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "проведенного"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пять"
+    },
+    {
+      "correctReplacement": "европейские",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

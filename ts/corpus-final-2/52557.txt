@@ -1,0 +1,30 @@
+{
+  "text": "Запуске был произведён в 00 : 20 по пекинской времени ракетой-носителем \"Великий поход 3-А\" с космодроме \"Сичан\" а юго-западной провинции Сычуань , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "произведен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "космодрома"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "пекинскому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Запуск"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

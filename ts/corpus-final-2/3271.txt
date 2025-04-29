@@ -1,0 +1,35 @@
+{
+  "text": "Проиграл своём второй матч на этого турнире и ликёр нынешнего сезона швед Магнусом Норман , его остановили немцу Даниэль Эльшнер (4 : 6 , 7 : 6 , 6 : 4) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Магнус"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "остановил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "немец"
+    },
+    {
+      "correctReplacement": "лидер",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

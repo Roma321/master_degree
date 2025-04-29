@@ -1,0 +1,20 @@
+{
+  "text": "Тцк он оценивает сообщение российских телеканалов о том , что людям удалась покинуть городу в результате спецоперации российских войск и МЧС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "город"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "удалось"
+    },
+    {
+      "correctReplacement": "Так",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

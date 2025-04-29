@@ -1,0 +1,30 @@
+{
+  "text": "Главная военная прокуратура РФ прекратила расследование уголовного деле , возбуждённого по заявлению предпринимателя Бориса Березовского о показании , которое якобы готовился на него в ФСБ , сообщающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "возбужденного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "дела"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "готовилось"
+    },
+    {
+      "correctReplacement": "покушении",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

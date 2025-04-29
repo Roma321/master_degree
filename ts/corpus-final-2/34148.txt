@@ -1,0 +1,25 @@
+{
+  "text": "Изображения монумента до нас не дошли , поэтому сейчас можно только предполагать , как выгляжу это гигантская статуя , выстроенная жителями Родоса в честь бога Солнце .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "выглядела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Солнца"
+    },
+    {
+      "correctReplacement": "построенная",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Государственный внешнее долк Российской Федерации в первом полугодии 2000 года сократился на 4 , 3 миллиарда доллара , или на 3 процента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "внешний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "долг",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

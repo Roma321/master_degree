@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , Лужкову были вручившие золотой медаль , выпущенный муниципалитетом древнего Олимпии к 100-летию Олимпийских игр , и памятная серебряная пластина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вручены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "древней"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "золотая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "выпущенная"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Газеты The New York Daily News сообщает , что режиссер джер Роуч начал переговоры с самым известным шотландским актером о роли отца Остиным Пауэрса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Остина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Газета"
+    },
+    {
+      "correctReplacement": "Джей",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

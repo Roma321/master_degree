@@ -1,0 +1,30 @@
+{
+  "text": "Это произойду из-за того , что Организация стран-экспортеров нефти (ОПЕК) установили хлёсткие квоты на добычу нефта и строго соблюдают их .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "соблюдает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "установила"
+    },
+    {
+      "correctReplacement": "жесткие",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "нефти",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

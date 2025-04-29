@@ -1,0 +1,20 @@
+{
+  "text": "По данным газкты , перед подъемом корпус атомохода будет разрезан на два частей , и их будут поднимать по очереди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "части"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "две"
+    },
+    {
+      "correctReplacement": "газеты",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

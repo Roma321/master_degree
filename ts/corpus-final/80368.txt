@@ -1,0 +1,20 @@
+{
+  "text": "Нарушителей ыпециальная полиция исламского нравственности отправляет в тюрьму , пока борода не отрастёт до нужной длины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "исламской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "отрастет"
+    },
+    {
+      "correctReplacement": "специальная",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

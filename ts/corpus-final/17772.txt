@@ -1,0 +1,25 @@
+{
+  "text": "Судимся всемирно известный журнал Playboy и его бывшей сотрудница , бывший \"щевушка месяца\" и \"девушка года Playboy\" , фотомодель Терри Уоллес (Terri Welles) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бывшая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Судились"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "бывшая"
+    },
+    {
+      "correctReplacement": "\"девушка",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

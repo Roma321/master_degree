@@ -1,0 +1,25 @@
+{
+  "text": "Ро информации агентств , суд потребовал реализовывать программы по одинаковой цене как оптовым продавцам , так и производителей вертикальных компьютеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "производителям"
+    },
+    {
+      "correctReplacement": "персональных",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

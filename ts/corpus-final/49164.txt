@@ -1,0 +1,20 @@
+{
+  "text": "Президент Украины Леонид Кучма подписанный указу \"О мерах по легализации физическим лицам походов , с которых не уплачены налоги\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "указ"
+    },
+    {
+      "correctReplacement": "доходов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

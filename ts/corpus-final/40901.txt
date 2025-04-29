@@ -1,0 +1,25 @@
+{
+  "text": "Греция поданная специальную заявки в ЕС с просьбой принять ее полноправной членом в единое европейское валютное пространство .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "полноправным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "заявку"
+    },
+    {
+      "correctReplacement": "официальную",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

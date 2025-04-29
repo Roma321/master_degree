@@ -1,0 +1,20 @@
+{
+  "text": "Власти Наксосов запретили попавшей в аварию судну выходить в млре до окончания расследования обстоятельств происшедшего .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Наксоса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "попавшему"
+    },
+    {
+      "correctReplacement": "море",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

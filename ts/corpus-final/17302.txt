@@ -1,0 +1,25 @@
+{
+  "text": "По словам президента РНЦ академика Евгения Велихова , вскоре к междугородной информационной системе сможем подключиться все школы Москве , а в ближайшем будущем - всего России .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "всей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "correctReplacement": "международной",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

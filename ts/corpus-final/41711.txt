@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю Reuters , украинскыя ракета-носитель Зенит-3SL успешно станцевавшая с морской платформы в Тихом океане .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "стартовала",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "украинская",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

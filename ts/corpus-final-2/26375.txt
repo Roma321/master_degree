@@ -1,0 +1,25 @@
+{
+  "text": "Система RASP Secure Media , выпускающая компанией Kasten Chase , после установки на персональный компьютер делал информацию полярность недоступной для неавторизованного пользователь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выпускаемая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "делает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "пользователя"
+    },
+    {
+      "correctReplacement": "полностью",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

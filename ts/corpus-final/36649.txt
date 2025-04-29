@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратура Фрунзенского района Владивостока опротестую решение районной судов о взыскании 25 тысяч рублей с начальника управления ФСБ по Тихоокеанскому флоту контр-адмирала Николая Соцкова в пользу журналистов Григория Пасько .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "районного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "опротестовала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "суда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "журналиста"
+    }
+  ]
+}

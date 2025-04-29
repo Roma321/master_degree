@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее бремя каждый месяц умирает от старости и болезней примерно одним проценты от их числа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "процент"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

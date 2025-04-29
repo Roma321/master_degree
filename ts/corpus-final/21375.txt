@@ -1,0 +1,20 @@
+{
+  "text": "На многих дорогах страны движение автотранспорта перекрою , в Вене лно практически парализую .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "парализовано"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "перекрыто"
+    },
+    {
+      "correctReplacement": "оно",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

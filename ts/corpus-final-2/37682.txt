@@ -1,0 +1,30 @@
+{
+  "text": "Напомнят , что недавно Папа Римский , дающие аудиенцию мэру гавань , объявленный о возвращении в этот город иконы Казанской Божья матери .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "давая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Божьей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "Казани",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

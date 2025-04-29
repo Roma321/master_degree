@@ -1,0 +1,25 @@
+{
+  "text": "В ходе опроса также выяснилось , что наибольший интерес представляли новости политики , экономики и международными отношений , что подтвердило 50 процента участника опроса .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "представляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "международных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "участников"
+    }
+  ]
+}

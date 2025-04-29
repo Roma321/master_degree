@@ -1,0 +1,25 @@
+{
+  "text": "К среду в Кремле пройденное заседание Совета по культурой при президенте России , в котором принятый участие Владимир Путин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "прошло"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "культуре"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

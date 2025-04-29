@@ -1,0 +1,20 @@
+{
+  "text": "Трое сотрудников сводного елисейской отряда из Якутии и дагестанский милиционер были убившие на месте .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "убиты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "милицейского"
+    },
+    {
+      "correctReplacement": "милицейской",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

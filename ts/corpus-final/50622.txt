@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с последней решением мэрии Хабаровске , плата за горячую воду возросла на 83 процента , за жилую площади - на 31 проценты , за канализацию - на 28 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "площадь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "процент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "последним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Хабаровска"
+    }
+  ]
+}

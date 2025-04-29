@@ -1,0 +1,25 @@
+{
+  "text": "Специалистам говорят , что взорвусь бытового гах , и склоняются к тому , что это была не диверсия , а халатность .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "взорвался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Специалисты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "бытовой"
+    },
+    {
+      "correctReplacement": "газ",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

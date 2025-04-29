@@ -1,0 +1,25 @@
+{
+  "text": "Цены на нефть за прошедшего неделю по итогам торгов на биржах в Лондбнах и Нью-Йорке снизились в среднем на 7 , 9 процента и достигли рекордно низкого за последние пять месяцев уровня , сообщал РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Лондоне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "прошедшую"
+    },
+    {
+      "correctReplacement": "Лондонах",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

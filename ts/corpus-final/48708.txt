@@ -1,0 +1,20 @@
+{
+  "text": "вымести с тем , как отмечают в РАО , сумма претензий кредиторов составляет 100 миллионов рублям , что существенно ниже арестовавших долгов перед РАО .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "арестованных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "Вместе",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

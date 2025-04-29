@@ -1,0 +1,25 @@
+{
+  "text": "С самого начала это расследование окружу ореолом повышенной секретности : точному количество и имена обвиняемыми держатся в тайне , вход на судебные заседания закрыт не только для всей зарубежной прессы , ьо и для большинства китайских журналистов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "обвиняемых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "точное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "окружено"
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

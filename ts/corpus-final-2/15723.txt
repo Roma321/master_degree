@@ -1,0 +1,15 @@
+{
+  "text": "Об этом сообщал РИА \"Новнсти\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

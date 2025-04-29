@@ -1,0 +1,20 @@
+{
+  "text": "В Аргуне задержано 19-летний Исламы илья , житель Грозного .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Ислам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "Ильясов",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Он убедден что решение судей неоправдано и надеется , что более высокая институция - военный суд Московской военного округа - отменил сегодняшний решение , и Литвинеко вернётся в камера .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "сегодняшнее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "Московского"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "вернется"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "отменит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "камеру"
+    },
+    {
+      "correctReplacement": "инстанция",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "убежден",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

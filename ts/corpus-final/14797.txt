@@ -1,0 +1,35 @@
+{
+  "text": "По словам ученого , искусственные глаза скорее всего будут наиболее успешно работающие для тех , кто видел в детстве , но заем потеряю зрение в связи с различных заболеваниями - например , из-за помутнения роговицы , что являющийся основной причиной потери зрений у пожилых людей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "различными"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 37,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "работать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "зрения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "потерял"
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

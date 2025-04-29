@@ -1,0 +1,25 @@
+{
+  "text": "Ястржембского отметил также , что в репортажах из Чечни недостаточно рассказываюсь о том , что \"здесь не только вохют , десь еще и налаживают мирную жизнь в освобожденных районах\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "рассказывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Ястржембский"
+    },
+    {
+      "correctReplacement": "здесь",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "воюют",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "К счастью , ни один из вагонами не пвревернулся , и пассажиры не начали паниковать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "вагонов"
+    },
+    {
+      "correctReplacement": "перевернулся",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

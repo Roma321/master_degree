@@ -1,0 +1,30 @@
+{
+  "text": "Президент Чечни Аслан Масхадов объявлю о размерах вознаграждения , причитающегося чеченским боевику за уничтожение втенной техники и личной состава федеральных силах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "боевикам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "личного"
+    },
+    {
+      "correctReplacement": "военной",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

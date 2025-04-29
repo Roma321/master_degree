@@ -1,0 +1,25 @@
+{
+  "text": "Столичное правительство дал распоряжение соответствующим службам выяснить , как были расположим торговые палатки в подземном переходе на Пушкинской площадью , былп ли соблюдены необходимые правила при выдаче разрешений на торговлю .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "дало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "площади"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "расположены"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

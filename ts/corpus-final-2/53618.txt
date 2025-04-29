@@ -1,0 +1,25 @@
+{
+  "text": "Дагестанcким милиционерам удался также задержать жителей Курчалоевского района Чечни Бикрхана Тохалаева и Рамазана Мусаева , которые обвиняются в похищении охранника частным предприятия \"Щит\" в Хасавюрте Арчена Шовхалове .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Шовхалова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "частного"
+    },
+    {
+      "correctReplacement": "Арсена",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

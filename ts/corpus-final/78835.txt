@@ -1,0 +1,25 @@
+{
+  "text": "Оно объяснялся тем , что в начале 90-х годов министерство финансов якобы переоценённое рост инфекции и переплатившее королеве около 30 миллионов фунтов (47 , 5 миллиона долларов) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "переоценило"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "переплатило"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "объясняется"
+    },
+    {
+      "correctReplacement": "инфляции",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

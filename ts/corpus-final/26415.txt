@@ -1,0 +1,25 @@
+{
+  "text": "Пенсионному фонду РФ предпишу внесённые в правительство России предложения о включении расходов на компенсационную выплату , предусмотренную настоящим указами , в проект бюджета лекционного фонда на 2000 год .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "предписано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "указом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "внести"
+    },
+    {
+      "correctReplacement": "Пенсионного",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Теперь нужно будет платить не 3 рубля 20 кшпеек в месяц с человека , а 5 рубля 20 копеек , передаёт \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "копеек",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

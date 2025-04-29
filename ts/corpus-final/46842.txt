@@ -1,0 +1,25 @@
+{
+  "text": "Указом исполняющего обязанности президента России Владимира Путина Григории Карасин осводождена от должности заместителя министра иностранных дел РФ , сообщившие журналистам в пресс-службе главы государства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Григорий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "освобождена",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

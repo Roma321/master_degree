@@ -1,0 +1,25 @@
+{
+  "text": "По мнению саперов , фугас сработало не до конца , в противномслучае , полагаем они , неизбежны были бы больших человеческие жердвы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сработал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "полагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "большие"
+    },
+    {
+      "correctReplacement": "жертвы",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

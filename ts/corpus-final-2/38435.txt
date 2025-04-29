@@ -1,0 +1,25 @@
+{
+  "text": "38-летний бизнесмены , которого принято считанные любимчиком Сухарто-старшего , приговорен верховным судом Индонезии к полутора годам тюремного заключения по одвинению в коррупция и нанесении ущерба государству .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "считать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "бизнесмен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "коррупции"
+    },
+    {
+      "correctReplacement": "обвинению",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

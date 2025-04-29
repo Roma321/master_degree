@@ -1,0 +1,30 @@
+{
+  "text": "Напомним , что ранее Московский арбитражные суд запрещу до окончания судебным разбирательств проведения конкурса на право вещания на састоте , занимаемой до настоящего момента ТВЦ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "запретил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "проведение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "судебных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "арбитражный"
+    },
+    {
+      "correctReplacement": "частоте",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

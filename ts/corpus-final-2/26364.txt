@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , депутатов утвердили концепции законопроекта , одобрив основные макроэкономические показателям доккмента , представленные правительством .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "концепцию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "показатели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "документа",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

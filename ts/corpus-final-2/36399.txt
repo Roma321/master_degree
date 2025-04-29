@@ -1,0 +1,25 @@
+{
+  "text": "Голосование официально закончусь вечером во вторник в штате Аляска в 8 вечера по местному времени , в Москве в это время будет 7 вас утр 8 ноября , сообщаю РИА \"Новости\" со ссылкой на Федеральную избирательную комиссию США .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "закончится"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "утра"
+    },
+    {
+      "correctReplacement": "часов",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он подчеркнул , что если бы обэекту упал в Лондоне , то центральное часть город \"превратилась бы в кашу\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "объект"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "центральная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "объекту",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

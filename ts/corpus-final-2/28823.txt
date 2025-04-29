@@ -1,0 +1,25 @@
+{
+  "text": "Взрывного усеройством удалось обезвредить за двумя минуты до взрыва , отметили в МВД России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "устройство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Взрывное"
+    },
+    {
+      "correctReplacement": "устройством",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

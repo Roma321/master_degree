@@ -1,0 +1,25 @@
+{
+  "text": "одиноко оказалось , что спортсменка все еще весят на 50 граммов больше положим 52 килограммов , в Аллен была отстранена от участия в соревнованиях .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "весит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "положенных"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

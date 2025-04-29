@@ -1,0 +1,20 @@
+{
+  "text": "По утверждению агентства , это произойдёшь в связи с росту в четыре-пять раз потребления вин и безалкогольных нажитых .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "произойдет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ростом"
+    },
+    {
+      "correctReplacement": "напитков",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

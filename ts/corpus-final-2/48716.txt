@@ -1,0 +1,35 @@
+{
+  "text": "Документ также предполагаемый сокращениф содержания в одна сигарете смолистых веществ с 12 до 10 миллиграмм , а также ограничения на содержания никитина до 1 миллиграмма на сигарету .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ограничение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "сокращение"
+    },
+    {
+      "correctReplacement": "никотина",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "сокращения",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

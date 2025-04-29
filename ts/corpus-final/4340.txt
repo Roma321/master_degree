@@ -1,0 +1,30 @@
+{
+  "text": "По информации Главного Управления по делам гражданской обороны и чрезвычайных ситуациями Петербурга и Ленобласти , мужчину был заляпанное землей на глубине около двух метра .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ситуаций"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "метров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "мужчина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "засыпан"
+    },
+    {
+      "correctReplacement": "засыпано",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

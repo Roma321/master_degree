@@ -1,0 +1,25 @@
+{
+  "text": "Это было их первое совместное публичная выступление с 1993 года , когда они соберёмся , чтоб сыграть на церемонри включения The Doors в Зал Славы рок-н-ролла .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "публичное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "собрались"
+    },
+    {
+      "correctReplacement": "чтобы",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "церемонии",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

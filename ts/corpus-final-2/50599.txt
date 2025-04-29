@@ -1,0 +1,25 @@
+{
+  "text": "Санкт-петербурское отделение партии \"Единство\" заказаоо совместному петербургскому художнику Александру Пальмину несколько бронзовым бюстов Владмиро Путина , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Владмира"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "бронзовых"
+    },
+    {
+      "correctReplacement": "известному",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "заказало",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

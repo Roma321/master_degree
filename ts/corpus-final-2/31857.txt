@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил во вторники РИА \"Новости\" адвокат губернатора Дмитрий Штейнберг , соответствующее письмо будет направлены на имя претседателя Центризбиркома Александров Вешнякова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "вторник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "направлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Александра"
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "После двухдневного снижения Nasdaq Composite взлетел в четвергом на 107 , 19 пунктов (2 , 78%) - до смётки в 3957 , 21 пункта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "пункта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "отметки",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

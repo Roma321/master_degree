@@ -1,0 +1,20 @@
+{
+  "text": "Некоторые программы не сохраняют транскрипт чата , и Таунсенд не могли знать , что Келлер сохраняемый его слова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сохраняет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "мог"
+    },
+    {
+      "correctReplacement": "слова",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

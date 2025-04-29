@@ -1,0 +1,30 @@
+{
+  "text": "Как передает Associated Press , Крейг мотивированный своё согласие уладииь дела \"по-хорошему\" тем , что его компания не может себе позволить расходовать большие деньги на судебную тяжбу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "мотивировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дело"
+    },
+    {
+      "correctReplacement": "деньги",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "уладить",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

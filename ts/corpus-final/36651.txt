@@ -1,0 +1,35 @@
+{
+  "text": "В связи с этим , по мнению районного прокуратуры , судьи Людмила Ссломатина , удовлетворённые иск Пасько , нарушила правовые нормы , поскольку была обязавшая такое отложить рассмотрение его жалобы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "обязана"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "районной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "судья"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "удовлетворив"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Саломатина",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

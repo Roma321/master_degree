@@ -1,0 +1,30 @@
+{
+  "text": "Часть боевики разошлась по домам , но им собираются вернутрся и опять начать боевым действия , повязавший на допросе украинский наемник .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "боевые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "они"
+    },
+    {
+      "correctReplacement": "показал",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "вернуться",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Всего в результате деятельности , проведу московской налоговой полицией по взысканию налоговой задолженности , в консолидированный бюджет и Пенсионным форды поступило 177 , 3 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "проведенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Пенсионный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "фонд"
+    },
+    {
+      "correctReplacement": "фонды",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

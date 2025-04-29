@@ -1,0 +1,25 @@
+{
+  "text": "пси этом он отметили , что Горбачёве - это целый эпоха в истории страны и не уважать его нельзя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Горбачев"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "целая"
+    },
+    {
+      "correctReplacement": "При",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

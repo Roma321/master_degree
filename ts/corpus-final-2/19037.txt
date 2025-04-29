@@ -1,0 +1,25 @@
+{
+  "text": "Как известно , пассажирские перевозки в системе МПС убыточны - в 1999 году потерями МЖД от пассажирских пересылок составили 2 , 6 миллиарда рублей , и в 2000 году они ожидаемся в размере 3 , 5 миллиарда рублей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "ожидаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "потери"
+    },
+    {
+      "correctReplacement": "перевозок",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

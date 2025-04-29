@@ -1,0 +1,25 @@
+{
+  "text": "По мловам главврача мельницы , состояниеодной из раненого тяжелое .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "состояниеодного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "раненых"
+    },
+    {
+      "correctReplacement": "больницы",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Исправлю недостатки в документах , Митрофанов вновь обратились в измерительную комиссии с прозьбой о регистрации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "комиссию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "обратился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Исправив"
+    },
+    {
+      "correctReplacement": "избирательную",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "просьбой",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

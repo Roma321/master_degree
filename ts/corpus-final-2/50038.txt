@@ -1,0 +1,30 @@
+{
+  "text": "Не успели Пино Арлакки , представляющий на конференции ООН , объявить , что сицилийская мания находящийся на последнем издыханием , как появилась информация , что тот самый зал дворца правосудию в Палермо , где он это произнес , строили компании , контролируемые мафией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "издыхании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "успел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "правосудия"
+    },
+    {
+      "correctReplacement": "мафия",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

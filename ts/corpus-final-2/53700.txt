@@ -1,0 +1,25 @@
+{
+  "text": "По данном делу вице-премьера Юлию Тимошенко , возгцавлявшую некогда корпорацию \"Единые энергетическим истомы Украины\" , уже допросила Генпрокуратура Украины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "энергетические"
+    },
+    {
+      "correctReplacement": "системы",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "возглавлявшую",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

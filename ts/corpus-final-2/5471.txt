@@ -1,0 +1,25 @@
+{
+  "text": "В центре Санкт-Петербурга в район пересечения Невского и Суворовского проспектов взорвавший автомобиль мерки Mercedes , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "взорван"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "районе"
+    },
+    {
+      "correctReplacement": "марки",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

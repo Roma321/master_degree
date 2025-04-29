@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает ВВС , на корту сулна находимся по меньшей мере 80 человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "находились"
+    },
+    {
+      "correctReplacement": "борту",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "судна",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

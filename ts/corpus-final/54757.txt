@@ -1,0 +1,15 @@
+{
+  "text": "Этот человек с августа 1999 годе находился в плену у боевикоф .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "боевиков",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

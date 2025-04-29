@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям милицейских , 25-летний мужчина был застреливший его же собственным пистолет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "застрелен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "пистолетом"
+    },
+    {
+      "correctReplacement": "полицейских",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

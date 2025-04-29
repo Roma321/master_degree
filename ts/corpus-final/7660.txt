@@ -1,0 +1,30 @@
+{
+  "text": "В администрацией президента РФ даже не исключали , что 7 января 2000 годов Борис Ельцин отправится празднуемые Рождество в горгд Вифлеем (Израиль) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "администрации"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "праздновать"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "исключают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "город",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

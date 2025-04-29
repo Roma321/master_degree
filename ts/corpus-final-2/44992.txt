@@ -1,0 +1,25 @@
+{
+  "text": "Второе место завоёваноая Мисс Италия Джорджии Пальмас , третью оказалась Мисс Турция Юксел Ак .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Джорджия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "третьей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "завоевала"
+    },
+    {
+      "correctReplacement": "завоёванная",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Олимпийский чемпион Сиднея , немецкое борец вольного стиля Александр Лейпольд потреблявший запрещу препарат нандронол .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "немецкий"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "запрещенный"
+    },
+    {
+      "correctReplacement": "употреблял",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

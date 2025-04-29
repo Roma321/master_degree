@@ -1,0 +1,30 @@
+{
+  "text": "полность производства составил 100 тысячи автомашин в год , сообщил в прямом эфире радиостанция \"Эхо Москвы\" вице-мэр Валерий Ганцев .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "радиостанции"
+    },
+    {
+      "correctReplacement": "Мощность",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Шанцев",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

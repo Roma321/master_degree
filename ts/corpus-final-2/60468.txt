@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил ИТАР-ТАСС в избирательной комиссии округа , по данным на 10 : 00 по московской время , за Бутова проголосовали 68 процентов жителей округ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "московскому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "округа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "времени"
+    }
+  ]
+}

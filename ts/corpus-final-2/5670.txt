@@ -1,0 +1,35 @@
+{
+  "text": "Однако , как сообщивший CNN представитель National Airlines Дик Шимизу , террариум имел ьилет на этот рейс , поэтому прошёл регистрацию в аэропорту и беспрепятственно попала на борт самолета .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "попал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "террорист"
+    },
+    {
+      "correctReplacement": "террориста",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "билет",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

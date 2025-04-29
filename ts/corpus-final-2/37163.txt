@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщаешь компания НТВ со ссылкой на представителя штаба демократа во дориде Дженни Бхкус .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "демократов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Флориде",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Бэкус",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Учитывая , что весь проекта будет стоить жителей Хельсинки около20 тысяч доллара США , а также то , что памятники Ленинувыбрасывались на свалку у него на родине , было бы кощунственнымустанавливать ему еще один бюсте в Финляндии , утверждают они .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "жителям"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "бюст"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "Ленинувыбрасываются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "проект"
+    }
+  ]
+}

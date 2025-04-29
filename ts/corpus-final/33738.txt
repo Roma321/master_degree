@@ -1,0 +1,20 @@
+{
+  "text": "Согласно результатами обследования , заболевание мозга начались у генерала в сентябре-октябре 1999 года и поправиться к настоящему времени он не мог .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результатам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "началось"
+    },
+    {
+      "correctReplacement": "настоящему",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

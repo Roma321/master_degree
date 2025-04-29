@@ -1,0 +1,25 @@
+{
+  "text": "До того как стать советником президенте , 13-летний Эстебан Гомес участвовал е разнообразных политических акциях , организованных Национальной советом по делам молодежи .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "организуемых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Национальным"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

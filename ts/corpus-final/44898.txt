@@ -1,0 +1,20 @@
+{
+  "text": "По словам прокурора Шелковского района Чечни , по подозрению в убийствах разыскивались четверо преступников ; все они зрители селения Биткали .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "убийстве"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "разыскиваются"
+    },
+    {
+      "correctReplacement": "жители",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

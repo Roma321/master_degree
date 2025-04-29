@@ -1,0 +1,20 @@
+{
+  "text": "Следом за ней - сын , обеспокоенный долгим отсутствием мать , котом второй сын , а через некоторую время в погреб спустился и внук .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "матери"
+    },
+    {
+      "correctReplacement": "потом",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

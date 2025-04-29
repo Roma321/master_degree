@@ -1,0 +1,20 @@
+{
+  "text": "Пострадавшему начальному почтового отделением олазана медицинская помощь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "отделения"
+    },
+    {
+      "correctReplacement": "начальнику",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "оказана",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

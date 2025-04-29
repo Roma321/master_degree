@@ -1,0 +1,35 @@
+{
+  "text": "Кредитом был использовафший \"Бонумом-1\" в полном объеме , при этом начиная с 18 января 2000 года заемщик в одностороннем порядке прекратил выполнение своего обязательств по всем четырем договоры займа , не погасил суммы основного долга , начисленные по договоры проценты и страховую комиссию Минфина РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "использован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "договорам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Кредит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "своих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 38,
+      "correctReplacement": "договорам"
+    },
+    {
+      "correctReplacement": "использовавший",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

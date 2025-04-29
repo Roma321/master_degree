@@ -1,0 +1,20 @@
+{
+  "text": "Президент Ингушетию Руслан Аушев обратился к президенту РФ Владимиру Путину с просьбой ввести прямое президентское правления на территории единородного района Северной Осетии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "правление"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Ингушетии"
+    },
+    {
+      "correctReplacement": "Пригородного",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

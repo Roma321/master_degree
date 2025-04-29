@@ -1,0 +1,20 @@
+{
+  "text": "Владимир Путинподписал указом о назначении Михаила Касьянова председателемправительства России , сообщившие РИА \"Новости\"в пресс-службе главки государства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "указ"
+    },
+    {
+      "correctReplacement": "главы",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

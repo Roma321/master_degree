@@ -1,0 +1,30 @@
+{
+  "text": "Генерал также высказалась за отправку всех молодых чеченцев прибыльного возраста на службу в Вооруженные силы России , а тех , кто еще не достигну этого возрастов - на учебу в школы , училища и вуз страны .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "возраста"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "высказался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "достиг"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "вузы"
+    },
+    {
+      "correctReplacement": "призывного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

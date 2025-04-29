@@ -1,0 +1,25 @@
+{
+  "text": "Если на единой пороговой сессии тенденция к росту курсов рубля была однозначной , то уже во второй половине дневных торгов наметифшееся его снижение .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "наметилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "курса"
+    },
+    {
+      "correctReplacement": "торговой",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "наметившееся",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

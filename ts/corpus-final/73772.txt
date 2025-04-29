@@ -1,0 +1,25 @@
+{
+  "text": "На территория одного изпостов города Грозного ночью поднявшаяся стрельба , в результате которого одна каспийский офицер ранил другого .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "поднялась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "российский",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

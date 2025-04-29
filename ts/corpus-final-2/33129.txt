@@ -1,0 +1,20 @@
+{
+  "text": "В своем заявления президент Европейского парламента сказал , что премия вручу групее \"Basta Ya ! \" в знак солидарности с их борьбой против терроризма .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вручена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "заявлении"
+    },
+    {
+      "correctReplacement": "группе",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Получу регистрафию в паспортных столах , они должны обращаться в УВИР с просьбой оставить их на постоянное местожительство , указанные при этом соответствующую причину (приобретение жильём , заключение брака и так далее) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "жилья"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "указав"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Получив"
+    },
+    {
+      "correctReplacement": "регистрацию",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

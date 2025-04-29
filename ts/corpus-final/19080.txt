@@ -1,0 +1,30 @@
+{
+  "text": "Российский военное руководство категорически опровергли сообщения некоторых СМИ о мощном артиллерийском и гравитационного обстреле Глозного минувшей ночью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "авиационном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Российское"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "опровергло"
+    },
+    {
+      "correctReplacement": "авиационного",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "Грозного",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Среди предпринимателей , военнослужащих , студентов и незарегистрированных безработных чаще , чем в сееднем по Россию , встречаются теми , кто на предстоящих выборах собираемся отданные свои голоса за блок \"Единство\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "те"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "отдать"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "собираются"
+    },
+    {
+      "correctReplacement": "среднем",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

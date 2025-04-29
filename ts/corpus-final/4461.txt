@@ -1,0 +1,30 @@
+{
+  "text": "Как было разъяснено на заседании Приморской думе , задолженностью местного казны перед федеральных составляет 2 , 46 миллиардов рублей , сообщил в среду депутат Приморской думы Иван Роговой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "думы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "задолженность"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "местной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "федеральной"
+    }
+  ]
+}

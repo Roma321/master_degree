@@ -1,0 +1,25 @@
+{
+  "text": "MP3 . com достигнутая внесудебного соглашений и потписала договор о сотрудничестве с четырьмя из пять музыкальных компаний , которые подали на нее в суд .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "соглашения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "пяти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "достигла"
+    },
+    {
+      "correctReplacement": "подписала",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Однако при нынешней системе голосования им продаёте его непрямым путем - через рекламв , консультатов и прочие топологии предвыборной компании , \" - так описывает Баумгартнёр современную политическое систему США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "политическую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "продают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "Баумгартнер"
+    },
+    {
+      "correctReplacement": "технологии",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "рекламу",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

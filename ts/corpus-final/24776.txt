@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , задержанный гражданин 1968 годов рождения являлся жителем одной из облачивших Центральной России .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "областей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме то , снижение рвоты на добычу нефти на миллионы баррелей в сутки сегодня выглядело бы естественно , считают эксперты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "миллион"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "квот"
+    },
+    {
+      "correctReplacement": "квоты",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

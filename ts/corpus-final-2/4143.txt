@@ -1,0 +1,25 @@
+{
+  "text": "Выступая в понедельник на брифинге в Дбилиси , Шеварднадзе заявила , что Азербайджан , также как и Грузия , не заинтересован в поощрении терроризма , где бы нём не проявлялась .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "проявлялся"
+    },
+    {
+      "correctReplacement": "Тбилиси",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

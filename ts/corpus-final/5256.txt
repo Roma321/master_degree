@@ -1,0 +1,20 @@
+{
+  "text": "Встреча прошла в закрытой режиме , предполагающийся подход а прессе не состоялся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "закрытом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "предполагавшийся"
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

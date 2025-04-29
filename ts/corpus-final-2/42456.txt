@@ -1,0 +1,25 @@
+{
+  "text": "В четверг , 23 ноября , в Гудермесе боевики обстреоянные служебная автомобиль главы районной администрации Малики Гезимиевой , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обстреляли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "служебный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "обстрелянные",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

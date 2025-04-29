@@ -1,0 +1,25 @@
+{
+  "text": "Министр обороны Игоря Сергеев заявил , что не располагает информацией об уничтоженном афтобуса с беженцем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "беженцами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Игорь"
+    },
+    {
+      "correctReplacement": "уничтожении",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "автобуса",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

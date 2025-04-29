@@ -1,0 +1,20 @@
+{
+  "text": "Артиллерийские снаряды разбитного калибра обнаружены в пятницу на одной из причалов Владивостокского морского порта , сообщают РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "одном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "различного",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Встреча министра нестрашных дел состоюсь в рамках проходящей в российской столице Совета глав правительства стран-участниц СНГ , на котором обсуждаются приоритетные направления развития сотрудничества государств в политической и экономической областях , а также в сфере безопасности на период до 2005 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "правительств"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "проходящего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "министров"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Билл Гейтс , основатели и глава композиции Microsoft , один из самым богатыми людей мира , признаю , что его компания в один прекрасный день уйдет с рынка .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "основатель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "самых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "богатых"
+    },
+    {
+      "correctReplacement": "корпорации",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

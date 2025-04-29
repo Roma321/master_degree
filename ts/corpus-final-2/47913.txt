@@ -1,0 +1,20 @@
+{
+  "text": "По данным аппарата , убито 16 и ранены 20 местных жителя в возрасте одвосьми до 70 лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "ранено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "жителей"
+    },
+    {
+      "correctReplacement": "отвосьми",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый Pravda . Ru , российские спецслужбы не исключают , что чеченские боевики используют заполнившие на фиктивным лиц паспорта , бланкам которых остались в республике еще со времен первой военного кампании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "фиктивных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "бланки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "заполненные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

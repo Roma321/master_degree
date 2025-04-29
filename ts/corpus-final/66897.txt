@@ -1,0 +1,30 @@
+{
+  "text": "По словам Лазака , двое зашлю в помещение ресторана и , угрожая оружием , заставили находившихся там семерых работников лечь на полы , после фего связали их , заклеили им рот липкой лентой , а на головы жертв одевшие пластиковыми мешки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 38,
+      "correctReplacement": "одели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "пол"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "зашли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "пластиковые"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В объявлении есть иконография эсминца Cole и привёдшие контактные телефоны и адреса электронной почта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "приведены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "почты"
+    },
+    {
+      "correctReplacement": "фотография",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

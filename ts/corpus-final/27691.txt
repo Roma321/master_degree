@@ -1,0 +1,20 @@
+{
+  "text": "В любой случае Павел Бородин не может быть выдано швейцарским властям , заявил в эфире \"Эха Москвы\" начальник отдела общественных связей следственного комитета юри МВД РФ Владимир Мартынов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "выдан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "любом"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

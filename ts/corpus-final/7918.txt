@@ -1,0 +1,30 @@
+{
+  "text": "Следствие установило , что его вкалывал пациентов слишком большую дозе хлорида калия , который при внутривенном введении приводит к остановке сердца .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "пациентам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сердца"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "дозу"
+    },
+    {
+      "correctReplacement": "сердце",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

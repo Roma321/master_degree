@@ -1,0 +1,25 @@
+{
+  "text": "Сославшись на министра обороны России , премьеру сообщу , что \"позавчера в Чечне был пойман один из уродов , который нашим ребятам отрезали головы\" , но не уточнил , когоименно он имел в виду Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "отрезал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "премьер"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

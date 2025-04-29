@@ -1,0 +1,25 @@
+{
+  "text": "Напомнили , что ОАО \"Газпром-Медиа\" обратилось в поповский арбитважный суд с иском о взыскании с ЗАО \"Медиа-Мост\" 248 , 5 миллиона долларами , которые \"Газпром\" как поручитель заплатил вместо \"Медиа-Моста\" банку Credit Suisse .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "Московский",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "арбитражный",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

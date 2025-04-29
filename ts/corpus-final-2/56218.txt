@@ -1,0 +1,20 @@
+{
+  "text": "Полиции рекомендовала местным фиделям оставаться дома , а водителям - не останавливаться на неосвещенных участках улиц и не покидать афтомобилей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Полиция"
+    },
+    {
+      "correctReplacement": "жителям",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "автомобилей",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

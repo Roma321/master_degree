@@ -1,0 +1,20 @@
+{
+  "text": "К ночь с четвергов на пятницу в NHL состоятся еще пятью матчей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "четверга"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

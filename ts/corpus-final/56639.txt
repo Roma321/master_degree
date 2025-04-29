@@ -1,0 +1,25 @@
+{
+  "text": "В маече за третье место швейцарцы лишь в первой периоде оказывали достойный сопротивление командам Швеции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "достойное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "команде"
+    },
+    {
+      "correctReplacement": "матче",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

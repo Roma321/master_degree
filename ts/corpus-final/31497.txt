@@ -1,0 +1,35 @@
+{
+  "text": "Среди них , в частности , введение государственного монополии на алкоголь и табаки , обеспечение каждому гарантируемого рабочего места и достойного заработка , снижение налогов в два раза , немедленное повышения пенсий и зарплат тюджетникам в два раза , а также , как выразилось Зюганов , \"демократизация демократии\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 43,
+      "correctReplacement": "выразился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "гарантированного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "табак"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "повышение"
+    },
+    {
+      "correctReplacement": "бюджетникам",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

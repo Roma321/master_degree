@@ -1,0 +1,20 @@
+{
+  "text": "Вымышленная компания якобы получаемая прибыль от размещения на этих автомобиле рекламщиков лозунгов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "автомобилях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "получала"
+    },
+    {
+      "correctReplacement": "рекламных",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

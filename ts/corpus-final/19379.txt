@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям ФАН , после вскрытия сейфа на этом участок быль обнаружу еже более ста фальшивых бюллетеней .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "участке"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

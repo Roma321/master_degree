@@ -1,0 +1,25 @@
+{
+  "text": "По словам Александра Туринского , обеспечения инфляционная безопасностей становится одним из основных направлений работы ростовского ФСБ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "обеспечение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "информационной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "информационная",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

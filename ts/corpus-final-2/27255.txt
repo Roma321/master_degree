@@ -1,0 +1,30 @@
+{
+  "text": "В зависимости от того , как пользователь настроит проверку , Moodwatch выдаёт различные по язвительностей замечаниях , например : \"После тако слов не мешало бы помыть клавиатуру\" ила рекомендует \"сбавить обороты\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "выдает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "замечания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "язвительности"
+    },
+    {
+      "correctReplacement": "таких",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "или",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

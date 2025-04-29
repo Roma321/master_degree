@@ -1,0 +1,25 @@
+{
+  "text": "Талибы намерены оказать военную помощь чеченским боевикам , заявил в интервью пакистанского галете Nation министр иностранного дел правительства талибов Вакил Ахмад Мутаваккилом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Мутаваккил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "пакистанской"
+    },
+    {
+      "correctReplacement": "газете",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

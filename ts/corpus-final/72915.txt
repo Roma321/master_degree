@@ -1,0 +1,30 @@
+{
+  "text": "По словам начальника ЙОС Главного управления исполнением наказаний Минюста Геннадия Лисенкова , в четверг , в 9 вечера , в камеры Гусинский принёс холодильник .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "исполнения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "камеру"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "принесли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Гусинского"
+    },
+    {
+      "correctReplacement": "ЦОС",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

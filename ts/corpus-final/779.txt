@@ -1,0 +1,20 @@
+{
+  "text": "Наибольший объем торгов на Нью-Йоркской бордовая биржах вчера был зафиксирован с выросшими в цене акцией компаний Microsoft Corp . ,Intel Corp . и подешевевшими Philip Morris Companies Inc .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "бирже"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "акциями"
+    },
+    {
+      "correctReplacement": "фондовой",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

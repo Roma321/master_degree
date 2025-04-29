@@ -1,0 +1,20 @@
+{
+  "text": "Если победивший Гор , Стоун и Паркер намереваются написать сценарист о том , как помощники нового президент создают робота , который будет исполнять скучные президентские обязанности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "победит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "сценарий",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Другой пары , вошедшая в полуфинал - Владимиры Волчков и Марсело Риос , также одержим победы в четвертьфинальных встречах Qatar Open в минувшей пятницу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Другая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "пара"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "одержавшие"
+    },
+    {
+      "correctReplacement": "вышедшая",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

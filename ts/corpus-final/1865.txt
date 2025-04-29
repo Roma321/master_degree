@@ -1,0 +1,20 @@
+{
+  "text": "По словам Геращенко , за 9 месяцев этого года потребительские цена в Росмии выросли на 31 , 5% , а фактический приростом денежной массы составил 33-34% .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "прирост"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "цены"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

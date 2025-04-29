@@ -1,0 +1,25 @@
+{
+  "text": "Независимые журналистка Мэрайя Зоун , готовившая репортаже для программы \"Криманальные истории\" (Crime Stories) , пришла к Кеннету уже во второй раз , чтобы заснять его интервью на алёнку .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Независимая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "репортаж"
+    },
+    {
+      "correctReplacement": "пленку",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "\"Криминальные",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

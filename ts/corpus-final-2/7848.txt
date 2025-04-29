@@ -1,0 +1,30 @@
+{
+  "text": "В данный моментом , по словам Дыгало , японская и всеноссийская сторон сделанные однозначный вывод об экологической безопасности объекта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сделали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "стороны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "момент"
+    },
+    {
+      "correctReplacement": "российская",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "всероссийская",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

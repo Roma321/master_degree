@@ -1,0 +1,30 @@
+{
+  "text": "Московское арбитражный суде отложил на 5 декабры рассмотрения иска \"Газпром-Медиа\" к ЗАО \"Медиа-Мост\" о взыскании 248 , 5 миллиона долларов в качество обязательств по кредитам , сообщает Агентство финансовой информации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Московский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "качестве"
+    },
+    {
+      "correctReplacement": "декабря",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Однако отличие Японии от других стран состоял в том , что общественность здесь не особенно протестовала протиф новой закона , который был принят в августа прошлого года , и теперь , спустя год , вступал в силу . Оппонентами выступили лишь некоторые политике и представители телекоммуникационных корпорации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "августе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "вступает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "политики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 46,
+      "correctReplacement": "корпораций"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "состоит"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Предыдущие постановление по списку товаров , пгдлежащих преференциям , было принята в январь текущего года и вступило в силу в апреле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "январе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Предыдущее"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "подлежащих",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

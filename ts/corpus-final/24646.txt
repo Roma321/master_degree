@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщил \"Эхо Москвы\" , Конгресс русских морщин (КРО) намерен идти на парласентские выборы в едином блоке с движением Юрия Болдырева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "correctReplacement": "общин",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "парламентские",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

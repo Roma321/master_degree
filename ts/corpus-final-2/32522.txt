@@ -1,0 +1,30 @@
+{
+  "text": "По уточнившим данным , на борту лайнера находившееся не 75 человек , а 82 : 11 членов экипажа и 71 пассажир , 8 рз которые - дети , сообщает новое .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "находилось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "которых"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "уточненным"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

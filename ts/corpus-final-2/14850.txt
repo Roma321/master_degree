@@ -1,0 +1,20 @@
+{
+  "text": "В четверг в Грозному подорвался рядовом ванной комендатуры Ленинского района .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Грозном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "рядовой"
+    },
+    {
+      "correctReplacement": "военной",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

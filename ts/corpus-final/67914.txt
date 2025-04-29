@@ -1,0 +1,20 @@
+{
+  "text": "По решению Минэнерго Украины , из-за долгах за электроэнергетику лимит отпускной мощности для Севастополя сокращен до 35 мегаватт , что на 100 мегаватт меньше необходимым для города .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "долгов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "необходимого"
+    },
+    {
+      "correctReplacement": "электроэнергию",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

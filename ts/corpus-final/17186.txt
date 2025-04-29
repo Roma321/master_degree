@@ -1,0 +1,30 @@
+{
+  "text": "В письмах , распространённом по факсу , Комитет поддержки ОВР обращаешь внимание руководителей школ и ВУЗов на \"крайнюю значимость\" участия всех избирателям вверенного Вам учреждения в предстоящих . . . выбораз мэра Москвы . . . \" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "обращает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "письме"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "распространенном"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

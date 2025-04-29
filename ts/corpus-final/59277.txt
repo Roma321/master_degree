@@ -1,0 +1,20 @@
+{
+  "text": "В группа А команда Латвии выиграю у белорусоф (6 : 3) , а шведы разгромили соперников из Украины (7 : 2) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "группе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "выиграла"
+    },
+    {
+      "correctReplacement": "белорусов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

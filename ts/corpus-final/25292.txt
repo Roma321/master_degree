@@ -1,0 +1,20 @@
+{
+  "text": "Да и выборы представителей российского \"просто культуры\" оказался довольно горячительным (епископ Верейский , поп-певец Газманов , голливудский режиссер Кончаловский , и т . д . ) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "российской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "выбор"
+    },
+    {
+      "correctReplacement": "сомнительным",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

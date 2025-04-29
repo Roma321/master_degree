@@ -1,0 +1,35 @@
+{
+  "text": "Как сообщённые корреспонденту Агентства военных новостей в Северо-Кавказском региональном управлении Федеральной погранслужбы РФ , решения о проведении зачистки было приму после того , как боевики в течения ночи дважды обстреливали погранзыставе \"Хуландой\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "погранзаставу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "погранзаставе",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

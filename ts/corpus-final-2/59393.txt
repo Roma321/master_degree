@@ -1,0 +1,20 @@
+{
+  "text": "Оба документа были подписавшие через три дня после официального вступления Владимира Шаманова в должность губернатора Ульяновских обросшие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подписаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Ульяновской"
+    },
+    {
+      "correctReplacement": "области",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

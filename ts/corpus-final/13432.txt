@@ -1,0 +1,25 @@
+{
+  "text": "В Брюсселе состоюсь свадьба бельгийского наследного принца , старшего чыр короля бельгийцев Альберта Второго и королевы Паолы , Филиппа и бельгийской аристократки Матильды д'юдекавшим д'Акоз .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "д'Юдекем"
+    },
+    {
+      "correctReplacement": "сына",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "сыр",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

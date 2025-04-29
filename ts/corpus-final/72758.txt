@@ -1,0 +1,30 @@
+{
+  "text": "Однако начальник пресс-центра Объединенной группировки полковником Геннадий Алехин категорически опроверг сообщением о ведущемся бое с прорвавшейся в аргоны бандой боевиках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "полковник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Аргун"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": "Аргуны",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

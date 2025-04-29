@@ -1,0 +1,25 @@
+{
+  "text": "Об этом в четверг заявим журнелистам министр обороры РФ Игорь Сергеев и министр внутренних дела РФ Владимире Рушайло .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

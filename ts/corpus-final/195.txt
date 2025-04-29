@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC , в королевском госпитале Глазго одна женщина уже погибшая от созываемого бактерией заболевания , а медики проводят обследование людей , контактировавших с больных .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "погибла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "больными"
+    },
+    {
+      "correctReplacement": "вызываемого",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

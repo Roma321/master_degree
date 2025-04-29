@@ -1,0 +1,20 @@
+{
+  "text": "Его писков в Белоруссии занимался прокуратура , МВД и КГБ республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "поисками"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "занимается"
+    },
+    {
+      "correctReplacement": "поисков",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

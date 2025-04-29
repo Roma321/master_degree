@@ -1,0 +1,25 @@
+{
+  "text": "Плата за истолкование этого ПО составляю 10 доллара м год .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "использование",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

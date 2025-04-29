@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , что арестовафший в 1998 году , Моисеев находится под стражей уже больше двух годах . �проса об оказании необходимой помощи Турции , сообщает ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "арестованный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "арестовавший",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

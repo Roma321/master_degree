@@ -1,0 +1,20 @@
+{
+  "text": "Согласно заявлению министерздва иностранным дел Кувейта , террористу удалось скрыться , используя поддельном паспорт .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "иностранных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "поддельный"
+    },
+    {
+      "correctReplacement": "министерства",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Под обломками в рижской продовольственном магазине Essa в пятоицу вечером пожарные нашли мертвую 24-летнего женщину , погибшую в результате обрушения потолка , сообщаешь агентство BNS .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "рижском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "24-летнюю"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

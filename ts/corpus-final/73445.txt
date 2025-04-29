@@ -1,0 +1,25 @@
+{
+  "text": "America on Line является крупнейшим в мире сетевому сервисами и предоставлет сбоем пользователям кроме доступа в Интернет набор сопздвенных услуг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сервисом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сетевым"
+    },
+    {
+      "correctReplacement": "своим",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "собственных",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

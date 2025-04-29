@@ -1,0 +1,25 @@
+{
+  "text": "За последних два месяца это уже второго в Тольятти случай убийства милиуионера , и оно также можешь быть связано с бизнесом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "последние"
+    },
+    {
+      "correctReplacement": "милиционера",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

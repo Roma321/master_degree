@@ -1,0 +1,20 @@
+{
+  "text": "В понедельники оклло 20 : 40 в Выборгском районе Санкт-Петербурга было совершу очередное заказное убийство .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

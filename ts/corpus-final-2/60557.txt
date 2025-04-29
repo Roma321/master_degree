@@ -1,0 +1,25 @@
+{
+  "text": "Концерн British Telecom , вторую по величине оператор сотовой связи в Великобритании , начала новой рекламную кампанию , в которой призываю не пользоваться мобильными телефонами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "призывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "новую"
+    }
+  ]
+}

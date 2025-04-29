@@ -1,0 +1,30 @@
+{
+  "text": "Победа французской зборной на чемпионате Европу по футболу позволила командам Роже Лемерра улучшить свое местом в рейтинге Международного федерации футбола .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Европы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "место"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Международной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "команде"
+    },
+    {
+      "correctReplacement": "сборной",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

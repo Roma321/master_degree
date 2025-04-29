@@ -1,0 +1,25 @@
+{
+  "text": "Израильские войск обстреляли палестинское поселения Бейт-Джала а ответ на палестинского атаку на пригород Иерусалима Гило , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "палестинскую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "войска"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "поселение"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

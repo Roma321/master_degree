@@ -1,0 +1,25 @@
+{
+  "text": "Согласно решению совета Ассоциации российских члена Europay , расчётные по данеой системе будут перевёдшие в Сбербанк РФ с 1 ноября текущего года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "переведены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "расчеты",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "данной",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

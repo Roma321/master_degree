@@ -1,0 +1,35 @@
+{
+  "text": "Только за первые четыре года своего правления он побывало в 49 странах и проведу там 81 дни , тогда как Рональд Рецган за все восемь лет , в течение которых он был хозяином Белых дома , успевший посетить только 25 государств .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "успел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "провел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "побывал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "Белого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "день"
+    },
+    {
+      "correctReplacement": "Рейган",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

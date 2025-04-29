@@ -1,0 +1,35 @@
+{
+  "text": "К делу приобщено и оставшееся без одвета заявление Бабицкого с требованиями о возбуждении уголовного дела в отношении лиц , которых задерживаем его в Чечне , а затем обменявшие на российскими военнослужащих .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "задерживали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "которые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "обменяли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "требованием"
+    },
+    {
+      "correctReplacement": "ответа",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

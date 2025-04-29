@@ -1,0 +1,20 @@
+{
+  "text": "Министр штметил , что федеральная конкурсная комиссии , определявшая победителей конкурса , выбрала \"Маяк\" потому , что до сих пор в FM диапазоне не вещала ни одно государственная радиостанция .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "одна"
+    },
+    {
+      "correctReplacement": "отметил",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

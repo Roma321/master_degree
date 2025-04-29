@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , в посольстве России в Казахстанах заявляете , чтом пока не получали официальной ноты МИД республики о задержании российских гражданах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Казахстане"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

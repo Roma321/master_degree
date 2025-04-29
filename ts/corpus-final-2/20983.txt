@@ -1,0 +1,40 @@
+{
+  "text": "В нема рассказывалось о группе старшеклассников , которые решённые потерявшие невинности в ночь выпускного бала , и одному из ребят придвшая в голову адея несколько расширить сферу применения яблочной пирога .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "решили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "потерять"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "нем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "яблочного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "невинность"
+    },
+    {
+      "correctReplacement": "пришла",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "идея",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По другим сведениям , Шамседдин в данный момент находишься в состоянии клинической смерть в одной из частных клиник Бейрутоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Бейрута"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "смерти"
+    },
+    {
+      "correctReplacement": "Бейрутов",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

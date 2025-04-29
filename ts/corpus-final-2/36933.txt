@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время командующего находится в Москве , где принимаемый участие в заседании правительственной комиссми по расследованию причин гибели подлодки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "принимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "командующий"
+    },
+    {
+      "correctReplacement": "комиссии",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

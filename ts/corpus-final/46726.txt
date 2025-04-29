@@ -1,0 +1,25 @@
+{
+  "text": "Американское космическому агентство NASA запущу космический аппарат IMAGE (Imager Magnetopause-to-Aurora Global Exploration) , который будет изучать магнитное поле Земли и его взаимодействие к солнечная активностью , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "запустило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "солнечной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "космическое"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

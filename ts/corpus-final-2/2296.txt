@@ -1,0 +1,25 @@
+{
+  "text": "Норманом , посеянный у себя на родине под первой номером , в финале переиграла соотечественника Андреаса Винчигерру - 6 : 1 , 7 : 6 .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "первым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Норман"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "переиграл"
+    },
+    {
+      "correctReplacement": "себя",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Агентство военного новостей со ссылкой на штат группировки \"Восток\" сообщает также , что утром в семи километрах от Гудермеса подразделение десантники вступило в бой с окруженным бандформированием Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "военных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "десантников"
+    },
+    {
+      "correctReplacement": "штаб",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

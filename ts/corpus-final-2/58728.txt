@@ -1,0 +1,35 @@
+{
+  "text": "В пользу этой версии посменно свидетельствует теракт , совершенный в Аннабы во время рамаданом , когда группа религиозными экстремистоф прямо на сцене местного кафе перерезала горло 23-летних певице .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "религиозных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "23-летней"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "рамадана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Аннабе"
+    },
+    {
+      "correctReplacement": "косвенно",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "экстремистов",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

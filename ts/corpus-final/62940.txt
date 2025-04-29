@@ -1,0 +1,30 @@
+{
+  "text": "В нынешнем сезона железнодорожники не пропустили ни одного мяча в чемпионате страны - ни один другой клуб старшого Звета не мог похвастаться подобной достижением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сезоне"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "подобным"
+    },
+    {
+      "correctReplacement": "Старого",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "Света",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

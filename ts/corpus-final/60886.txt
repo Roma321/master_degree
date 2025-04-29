@@ -1,0 +1,30 @@
+{
+  "text": "Он обращённый внимание на то , что если бы внимание властей привлеку деятельность журналиста , ть обыск производились бы в офисе газеты \"Сегодня\" или других печатных изданий холдинга .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обратил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "обыски"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "привлекла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "correctReplacement": "то",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

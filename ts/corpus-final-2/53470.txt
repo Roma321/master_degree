@@ -1,0 +1,20 @@
+{
+  "text": "За последних три года несколько увеличилось число граждан , выступавших за то , чтобы оставить дело Ленина в мавзолее .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "выступающих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "последние"
+    },
+    {
+      "correctReplacement": "тело",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

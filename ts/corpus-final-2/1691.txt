@@ -1,0 +1,20 @@
+{
+  "text": "Хозяева турнире - голландцы обыграли афьиканцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "турнира"
+    },
+    {
+      "correctReplacement": "американцев",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "африканцев",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

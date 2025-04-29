@@ -1,0 +1,25 @@
+{
+  "text": "Это случилось после того , как в субботу боевьй отряды организации \"Хизбалла\" напали на позиции израильских войска в Мазариа Шебаа и захватили в плен троих израильские солдат .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "израильских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "войск"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "боевые"
+    },
+    {
+      "correctReplacement": "боевой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Бюджетный комитет Совета Федерации рекомендовали сегодня верхней палате парламента отклонившие Закон \"О гарантировании окладов гражданина в банках\" в связи с его несоответствием российскому законодательству .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "рекомендовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "граждан"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отклонить"
+    },
+    {
+      "correctReplacement": "вкладов",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

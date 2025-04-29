@@ -1,0 +1,20 @@
+{
+  "text": "Специалист Госсанэпиднадзора отмечают , что за 3недели января количества больных увеличилось в 2 , 5 раз .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "раза"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Специалисты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "количество"
+    }
+  ]
+}

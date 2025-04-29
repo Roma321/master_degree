@@ -1,0 +1,30 @@
+{
+  "text": "Суды направил уголовное дело Моисеева на новое рассмотрения в Московский горотской суд , однако не изменило меру пресечения - Моисеев по-прежнему оставался под стражей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "рассмотрение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "изменил"
+    },
+    {
+      "correctReplacement": "городской",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

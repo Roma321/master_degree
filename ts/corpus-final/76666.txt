@@ -1,0 +1,20 @@
+{
+  "text": "В БТРе находились 14 сотрудников СОБРа , трон из котррые ранены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "которых"
+    },
+    {
+      "correctReplacement": "трое",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

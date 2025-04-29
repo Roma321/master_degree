@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник лидер Партии пенсионеров Сергей Атрошенко - один иж кандидатов на пост тюменского губернатора - рассказало на пресс-конференция в Москвео предложенном им проекте нового федеральное закона \"Об избирательныхбюллетенях\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

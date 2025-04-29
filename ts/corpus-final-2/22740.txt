@@ -1,0 +1,30 @@
+{
+  "text": "Багдад считает США своим главным врагом после того как эта страну возглавившая международный военный альфонс , изгнавший иракскую армию с территории Кувейта в 1991 годы , сообщаю HTB . Ru со ссылкой на \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "возглавила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "страна"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "альянс",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

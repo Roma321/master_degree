@@ -1,0 +1,20 @@
+{
+  "text": "Один человек из экипажа транспортного самолета погибну , ещн один раню .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "ранен"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

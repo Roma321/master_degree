@@ -1,0 +1,30 @@
+{
+  "text": "Введён также возможность вылета суммах , направленного налогоплательщиком на обучепие и лечение (по 25 тысяч рублей) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сумм"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Введена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "направленных"
+    },
+    {
+      "correctReplacement": "вычета",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "обучение",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

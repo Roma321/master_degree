@@ -1,0 +1,25 @@
+{
+  "text": "Офицер Балтийского флот был завербовавший шведскими спецслужбами во время одной из визитов иностранок кораблей в Калининградский порт .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "завербован"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "одного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "флота"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

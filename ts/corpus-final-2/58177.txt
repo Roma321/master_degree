@@ -1,0 +1,30 @@
+{
+  "text": "Опрос проводился в периот между 1 ноября 1999 год и 31 октября 2000 , поэтому в нем не учитывались некоторые из самые популярного фильмов этого года - такие , как \"Гринч , похититель Рождества\" или \"Потерпевший кораблекрушение\" (Cast Away , российское прокатное названия - \"Изгой\") , вышедшие в течение последних двух месяцев года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "популярных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 42,
+      "correctReplacement": "название"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "самых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "период",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

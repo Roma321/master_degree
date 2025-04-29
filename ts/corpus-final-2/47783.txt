@@ -1,0 +1,25 @@
+{
+  "text": "Стимулом роста на фондовом рынке в пятницу сало повышение компании Standard & Poor's долгосрочного валютного рейтинга России , а также благоприятное состояние американского рынка , отмечающие участники рынков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "рынка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "компанией"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "correctReplacement": "стало",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

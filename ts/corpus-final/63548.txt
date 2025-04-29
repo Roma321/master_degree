@@ -1,0 +1,30 @@
+{
+  "text": "По его словах , решение по этому отчету будет принято на следующего неделе после изучений поступивших документов от PriceWaterHouseCoopers и Счетной палаты РФ , провоженных аыдит ЦБ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "словам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "следующей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "проводивших"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "изучения"
+    },
+    {
+      "correctReplacement": "аудит",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

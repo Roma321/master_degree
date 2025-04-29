@@ -1,0 +1,20 @@
+{
+  "text": "Такой доступ оказывается довольно дшрог : в настоящее время среднем британские пользователь расходует на оплату телефонных счетов и услуг провайдеров 126 фунтов ежегодно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "британский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "средний"
+    },
+    {
+      "correctReplacement": "дорог",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

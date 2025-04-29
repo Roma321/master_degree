@@ -1,0 +1,20 @@
+{
+  "text": "Россиянина Максим Опалев занял 6-я место , отстав от победителя на 4 . 434 секунды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Россиянин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "6-е"
+    },
+    {
+      "correctReplacement": "место",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

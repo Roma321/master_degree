@@ -1,0 +1,30 @@
+{
+  "text": "Японского новостное агентства Kyodo в связи с инцидентом ссылался на то обстоятельство , что Apple Computer незаконно вынуждаю продавцов своей продукции устанавливающие цены на iMac и iBook не ниже уровня , определенного корпорацией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Японское"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "вынуждало"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "ссылается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "устанавливать"
+    }
+  ]
+}

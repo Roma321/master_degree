@@ -1,0 +1,25 @@
+{
+  "text": "Генеральный секретарь партии Мори еще до публикации попытаюсь приуменьшить значение снимков , заявившие , что \"мы , политики , фотографируемся с таким количемтву людей , что невозможно знать всех , с кем рядом ты находишься на фотографиях\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заявив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "количеством"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "попытался"
+    },
+    {
+      "correctReplacement": "количеству",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

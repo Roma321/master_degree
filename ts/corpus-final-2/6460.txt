@@ -1,0 +1,30 @@
+{
+  "text": "Указ президента России н снятиях с должностей группы генералов центрального аппарата Министерства оборон Россия был согласовавший с министром обороны Игорем Сергеевым .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "обороны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "снятии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "согласован"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

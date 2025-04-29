@@ -1,0 +1,20 @@
+{
+  "text": "По предположению пресс-атташе компании , из более миллиона компьютеров Latitude и Inspiron , реализованных Dell в минувшем году , от 200 до 400 тысяч компьютеры одевалиаь \"дефектными\" (некоторые из компьютеров могут содержать два бракованных чипа) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "компьютеров"
+    },
+    {
+      "correctReplacement": "оказались",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "одевались",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам пожарных , причиной пожара стала короткое замыкания в корпысе олиного из компьютеров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "замыкание"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "корпусе",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

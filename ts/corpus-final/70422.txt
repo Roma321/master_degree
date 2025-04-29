@@ -1,0 +1,20 @@
+{
+  "text": "Минюсту США отводится 60 дней для внесения своих везражений , на рассмотрение которых Microsoft , в свой очередь , будет выделено еще 30 дни .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "дней"
+    },
+    {
+      "correctReplacement": "возражений",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

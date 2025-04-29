@@ -1,0 +1,20 @@
+{
+  "text": "Взрывную устройство было заложено рядом с местом переключения стрекот на железнодорожной полотне недалеко от этого города .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Взрывное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "железнодорожном"
+    },
+    {
+      "correctReplacement": "стрелок",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

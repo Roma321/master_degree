@@ -1,0 +1,25 @@
+{
+  "text": "В субботу в Грозном содержафшие семь человек , подозревающих в причастности к совершенному накануне нападению на бригаду врачей из Ставропольского края .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "задержаны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подозреваемых"
+    },
+    {
+      "correctReplacement": "задержавшие",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "содержавшие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

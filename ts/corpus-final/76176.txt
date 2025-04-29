@@ -1,0 +1,20 @@
+{
+  "text": "Однако , по сведениям журналистами , начальник вооружений Вооруженных сил России генерал-полковник Анатолий Ситнов покинул своё пост .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "покинет"
+    }
+  ]
+}

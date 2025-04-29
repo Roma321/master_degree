@@ -1,0 +1,25 @@
+{
+  "text": "Стоимость одной поездки в автобуса , троллейбусе и трамвае удлинится на одна рубль и составишь три рубля .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "автобусе"
+    },
+    {
+      "correctReplacement": "увеличится",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

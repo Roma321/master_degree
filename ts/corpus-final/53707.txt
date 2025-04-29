@@ -1,0 +1,20 @@
+{
+  "text": "Фирма начинал с поставок в Россию американских сигарет , потом компания импортировала водку прд названиями \"Белка\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "начинала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "названием"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Между тем общкму долга города энергетикам превышает 550 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "общий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "долг"
+    },
+    {
+      "correctReplacement": "общему",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

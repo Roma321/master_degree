@@ -1,0 +1,20 @@
+{
+  "text": "Она принесла ее домой , почистила , привело в порядок , обрядила в жемчуга и фату , и ц результатом получилась чудная пара : стул и табуретка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "привела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

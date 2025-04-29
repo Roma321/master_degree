@@ -1,0 +1,25 @@
+{
+  "text": "В ходе обысков на даче одного из задержанных , расположенного в Чеховском райане Подмосковья , изъявшее еще семь килограмма тротила .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "килограммов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "correctReplacement": "районе",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

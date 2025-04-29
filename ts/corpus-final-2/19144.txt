@@ -1,0 +1,25 @@
+{
+  "text": "Отвечая в пятницу на вопросикам журналистов о состоянии переговорных процесса , американское президент Билл Клинтон осторожно заметил : \"Нужно еще подождать и посмотреть .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "вопросы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "переговорного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "американский"
+    },
+    {
+      "correctReplacement": "вопросам",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

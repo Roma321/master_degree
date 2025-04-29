@@ -1,0 +1,20 @@
+{
+  "text": "Точный число жеьтв пока неизвестно , в момент взрыва в зданиях находились не менее 300 человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "здании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Точное"
+    },
+    {
+      "correctReplacement": "жертв",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

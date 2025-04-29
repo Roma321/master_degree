@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , вещание ТВЦ на другую - помимо Москвы и Московской области - территорию России , а также вещание телекомпании на зарубежные страны будет продолжившее цне зависимости от результатах конкурсом до 29 апрелей 2002 года , потому что ведущиеся на основании другой лицензии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 39,
+      "correctReplacement": "ведутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "результатов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "конкурса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "апреля"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "продолжено"
+    },
+    {
+      "correctReplacement": "вне",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

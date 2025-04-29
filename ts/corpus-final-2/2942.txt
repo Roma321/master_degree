@@ -1,0 +1,25 @@
+{
+  "text": "При обыске на квартире Маркины был изъявший обрез охотничьего ружья 16-оо калибана , из которого был убит сотрудник милиции . о 105-го места он переместился на 19-ое .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Маркина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "изъят"
+    },
+    {
+      "correctReplacement": "калибра",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "16-го",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

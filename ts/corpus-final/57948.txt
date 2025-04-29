@@ -1,0 +1,20 @@
+{
+  "text": "Иванов также сообщивший , что правительство намерено выдавать лицензии на разделку и эксплуатации нефтяных скважин сроком на 25 лет .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "эксплуатацию"
+    },
+    {
+      "correctReplacement": "разведку",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

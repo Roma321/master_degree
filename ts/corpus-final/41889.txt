@@ -1,0 +1,30 @@
+{
+  "text": "Поскольку некоторые компоненты системы работавшие с учетом регистров , переписка сотрудниках Белого дома за два года сохранялась на другом компьютере , где не производилась поиски во время расследований .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "регистра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "производился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "поиск"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "работали"
+    }
+  ]
+}

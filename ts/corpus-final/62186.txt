@@ -1,0 +1,25 @@
+{
+  "text": "Кредит выдан на три года и будет направлен на финансирование операции с экспортными платежей и текущими расходами , а тагже на пополнение оборотных средств компанией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "платежами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "операций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

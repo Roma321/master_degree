@@ -1,0 +1,20 @@
+{
+  "text": "В Филевском автобусно-троллейбусном парке прошёл презантация городского автобусов производства немецкой фирмы MAN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "прошла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "автобуса"
+    },
+    {
+      "correctReplacement": "презентация",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

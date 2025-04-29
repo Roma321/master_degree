@@ -1,0 +1,25 @@
+{
+  "text": "Однако в интервью \"Интерфаксу\" Кравцы заявил , что глухие о том , что Борис Березовский мог продать принадлежащий ему пакеты акций ОРТ депутату Госдуме Роману Абрамовичу , \"представляются достаточно правдоподобными\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Кравец"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "пакет"
+    },
+    {
+      "correctReplacement": "слухи",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

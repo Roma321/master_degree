@@ -1,0 +1,30 @@
+{
+  "text": "В Косово , из тюрьмы , сохраняющей силами ООН , сбежим 15 заключенных , в основным сербов Д",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "основном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "сбежали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "охраняемой"
+    },
+    {
+      "correctReplacement": "охраняющей",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По имеющимся данным , речь кшедший об элитной дивизия республиканской гвардии Ирака , которая базируется под Багдадами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Багдадом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "дивизии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "шёл",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

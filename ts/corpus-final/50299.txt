@@ -1,0 +1,20 @@
+{
+  "text": "Американский конкурсантом и российский гражданин задержаны ФСБ по подозрению в шпионской деятельности , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "коммерсант"
+    },
+    {
+      "correctReplacement": "коммерсантом",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

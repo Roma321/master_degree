@@ -1,0 +1,25 @@
+{
+  "text": "NASA вновь возложивший запуск космического челноков Discovery , на этот разам из-за плохой погоды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "челнока"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "отложило"
+    },
+    {
+      "correctReplacement": "отложил",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

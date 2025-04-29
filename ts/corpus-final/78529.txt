@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье чеченские боевики обстреляли из гранатомётах служебный автобусы Веденского временного оддела внутренних дела .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "гранатометов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "автобус"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "отдела",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

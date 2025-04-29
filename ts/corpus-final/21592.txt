@@ -1,0 +1,30 @@
+{
+  "text": "В минувшую среду на замечании Центризбиркомов было принят постановление о повторных выборах в Госдуму в восьми одномандатных избирттельных округах , сообщающий \"Прайм-ТАСС\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "принято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Центризбиркома"
+    },
+    {
+      "correctReplacement": "заседании",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "избирательных",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

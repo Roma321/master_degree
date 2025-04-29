@@ -1,0 +1,25 @@
+{
+  "text": "Палата представителей конгресса США единогласно приняла законопроект , увязываемый финансирование российского участия в сосаниях международной космической станции с невозможностью для России распространять ракетные технология в Иран , передает Reuters .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "технологии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "увязывающий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "создании"
+    },
+    {
+      "correctReplacement": "созданиях",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

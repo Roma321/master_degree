@@ -1,0 +1,25 @@
+{
+  "text": "Проще говоря , если бы егодня был выборы президрнта , большинство населения проголосованное бы за Путина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проголосовало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "были"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

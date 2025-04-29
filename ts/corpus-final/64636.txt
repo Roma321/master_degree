@@ -1,0 +1,25 @@
+{
+  "text": "У них изъявшее два грамм героина , большое количество боеприпасов , противопехотной мина и граната , сообщим \"Интерфаксу\" в правоохранительных органах Московской области .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "противопехотная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "грамма"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "сообщили"
+    }
+  ]
+}

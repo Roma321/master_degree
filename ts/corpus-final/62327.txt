@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , эксперты проведённые встречи в Минфине и в Центральном банке , Министерстве по налогам и сборов и в друганных экономических ведомствах .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проведут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "сборам"
+    },
+    {
+      "correctReplacement": "других",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

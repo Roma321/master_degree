@@ -1,0 +1,20 @@
+{
+  "text": "В 16 чемоданах , которые везли курьеры рейсом Finnair из Варшава , находилось почти полтонны деликатесного продуктоц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "продукта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Варшавы"
+    },
+    {
+      "correctReplacement": "продуктов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

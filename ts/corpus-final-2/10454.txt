@@ -1,0 +1,20 @@
+{
+  "text": "Лодка лежал на дне на глубине 107 мптров с заглушенным реактором и затопленными носовыми отсеком .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "отсеками"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "лежит"
+    },
+    {
+      "correctReplacement": "метров",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

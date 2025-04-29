@@ -1,0 +1,30 @@
+{
+  "text": "Две боевые гранаты , противопехотный мина и пакеты с наркотическим веществом изъяты у жителю Чечни , задержанной в пятницу в Москве . Как сообщившие \"Интерфаксу\" в МВД РФ , подозрительный гражданин был задержан на Хорошевском шоссе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "задержанного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пакет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "жителя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "противопехотная"
+    }
+  ]
+}

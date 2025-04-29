@@ -1,0 +1,25 @@
+{
+  "text": "В Москве недостаток запасов топлив - не исключён , что зимой москвины столкнёмся с перебоями в тепло- и электроснабжении .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "столкнутся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "топлива"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "исключено"
+    },
+    {
+      "correctReplacement": "москвичи",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

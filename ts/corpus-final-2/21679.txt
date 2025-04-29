@@ -1,0 +1,20 @@
+{
+  "text": "В число неугоюных попали представители средств массовой информации Финляндии , Норвегией , Португалии , Великобритании , Германии и корреспонденты из Украины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "корреспондент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Норвегии"
+    },
+    {
+      "correctReplacement": "неугодных",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

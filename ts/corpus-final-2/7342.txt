@@ -1,0 +1,25 @@
+{
+  "text": "Напомните , что Рождествеоского был арестую в сентябре 1998 года по статье 106 УК РФ .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Рождественский"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "Рождественского",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

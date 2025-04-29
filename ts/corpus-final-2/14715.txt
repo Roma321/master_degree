@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем директор ФСЕП сообщило , что органы налогового полиции продолжающие проверку компании \"Сибнефть\" , а также расследования в отношении компаний \"ЛУКОЙЛ\" и \"АвтоВАЗ\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "продолжают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "налоговой"
+    },
+    {
+      "correctReplacement": "ФСНП",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

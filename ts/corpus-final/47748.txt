@@ -1,0 +1,20 @@
+{
+  "text": "Во водник в Москве на Волжской улице было совершившее нападение на директора расположу там автомойки .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

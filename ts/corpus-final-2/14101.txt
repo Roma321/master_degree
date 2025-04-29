@@ -1,0 +1,25 @@
+{
+  "text": "По данным на 00 : 30 , труба перекрою , жильцы близлежащих дотов не пострадали - вода пущу ро запасной ветке .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "перекрыта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "пущена"
+    },
+    {
+      "correctReplacement": "домов",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

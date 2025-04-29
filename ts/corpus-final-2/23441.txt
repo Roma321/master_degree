@@ -1,0 +1,30 @@
+{
+  "text": "Обсуждающие на форуме DVD Talk различные фильмы , многме собеседники сопоставленные цены на одни и тем же дисками , которые были куплены на Amazon . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "сопоставили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "те"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "диски"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Обсуждая"
+    },
+    {
+      "correctReplacement": "многие",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

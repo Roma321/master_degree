@@ -1,0 +1,20 @@
+{
+  "text": "Как мы сообщали ранее , вечером 29 ноября Чери Либернайт была задержан в столице при проведениях болонской акции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "задержана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "проведении"
+    },
+    {
+      "correctReplacement": "шпионской",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

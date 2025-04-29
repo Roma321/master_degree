@@ -1,0 +1,25 @@
+{
+  "text": "Командиру корабля пришлось развернуть самолет из-за нетрезвого японского пассажиров , который сразу после взлета запершийся я туалете и там закуренный .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "заперся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "пассажира"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "закурил"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Все сделки , которые он заключаемый , направлены не на финансовое оздоровления завода , а на передавшую сопздвенности предприятия в частный руки и личное обогащением самого управляющего .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заключает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "частные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "оздоровление"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "обогащение"
+    },
+    {
+      "correctReplacement": "передачу",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "собственности",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

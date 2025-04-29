@@ -1,0 +1,25 @@
+{
+  "text": "По словам Явлинского , если за сесь 1999 годы он приучивший около трех тысяч обращений , то только за два месяца текущей года их поступило более полутора тысяч .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "получил",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "весь",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

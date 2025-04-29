@@ -1,0 +1,25 @@
+{
+  "text": "Из Владивостока Патриарх направится с официальным визитомв Токио , где 14 мая подведший в сан митрополитатокийский и всея Японии епископа Йокогамской Петра(Арихара) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "митрополитаТокийского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "Йокогамского"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "возведет"
+    },
+    {
+      "correctReplacement": "возвёдший",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

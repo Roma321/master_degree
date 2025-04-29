@@ -1,0 +1,20 @@
+{
+  "text": "Люди , оказывающий медицинские услуги через Интернет , должны в первую очередь рекомендовать пациентам обратившиеся в местного офф-лайновую поликлинику .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "оказывающие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "местную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обратиться"
+    }
+  ]
+}

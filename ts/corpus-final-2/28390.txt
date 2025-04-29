@@ -1,0 +1,30 @@
+{
+  "text": "Буш обвинённый бывшего премьер-министра России в , мякко говоря , неправильной использовании кредитов Международного валютной фонда , сообщающий НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "неправильном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "валютного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обвинил"
+    },
+    {
+      "correctReplacement": "мягко",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

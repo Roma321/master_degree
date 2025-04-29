@@ -1,0 +1,35 @@
+{
+  "text": "Стив Мартин прославилась как котик , играющая простых , придурковатых парней с банджо и стала популярными благодаря нескольким успешным появлению в телешоу Saturday Night Live , а затем уже сделал карьеру киноактера , сценариста и продюсера .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прославился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "появлениям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "популярным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "играющий"
+    },
+    {
+      "correctReplacement": "комик",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

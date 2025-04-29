@@ -1,0 +1,25 @@
+{
+  "text": "В прошлой году судья Томас Джексон признал Microsoft виновным в нарушении антимонопольного законодательства и вынес решение о разделп корпорации на две компаний .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "виновной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "разделе",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

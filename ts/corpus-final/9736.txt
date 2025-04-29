@@ -1,0 +1,40 @@
+{
+  "text": "ГУБОП обратился к гражданок мтраны с просьба сообщать любую информацию , которая можешь иметь отношения к террористическим актов в Москве или в любом другом регионе России .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "отношение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "актам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гражданам"
+    },
+    {
+      "correctReplacement": "граждан",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "страны",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

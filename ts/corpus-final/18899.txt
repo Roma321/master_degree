@@ -1,0 +1,25 @@
+{
+  "text": "21 декабря в аэропорту Гватемалы при посатке самолет DC-10 Cuban National Airlines сошел со взлётного полосы и врезался в жилые дома , расположенный по близостях от аэродрома .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "расположенные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "взлетной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "близости"
+    },
+    {
+      "correctReplacement": "посадке",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

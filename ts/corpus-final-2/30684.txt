@@ -1,0 +1,30 @@
+{
+  "text": "На сегодня составивший график погашения задолженности РАО \"ЕЭС России\" перед бюджетом , об этом сообщил в четверг формалистам заместители директора Федеральных службы налоговой полиций (ФСНП) Владимир Ворожцов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "полиции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "заместитель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

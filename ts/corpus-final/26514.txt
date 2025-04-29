@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающие агентство Associated Press и информационные службы ВВС , врачи и боьее 200 пациентов больницы оказались в заложниках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "служба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "информационная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

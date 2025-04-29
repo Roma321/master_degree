@@ -1,0 +1,20 @@
+{
+  "text": "Как заявила пресс-секретарь Госдепартаментов Джулия Ресайд , причиной проникновения вируса в ведомственные компьютеры стали то , что антивирусная программа Interscan на выходные самопроизвольно отключилась .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Госдепартамента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "выходных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "стало"
+    }
+  ]
+}

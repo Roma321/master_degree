@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенье в 3 : 41 по пекинской времени космический аппарат произвёдший успешную посадку в автономного районах Внутренняя Монголия на северо-востоке КНР .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "пекинскому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "автономном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "произвел"
+    }
+  ]
+}

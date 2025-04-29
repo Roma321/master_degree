@@ -1,0 +1,30 @@
+{
+  "text": "Кроме той , формируетесь и специальные поезда для детям : только зу период с 21 по 26 июня на юг отправившиеся более 13 тысяч юных москвичей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "отправились"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "детей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "формируются"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

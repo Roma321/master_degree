@@ -1,0 +1,25 @@
+{
+  "text": "Со своему заявлением он выступивший на телевидении как раз накануне съезда демократическая партии в Лос-Анджелесе , стартовавшего в подельник .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "демократической"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "своим"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Нынешняя состав кабинета министров будет работающие до окончательного подведений итогов голосования и сложит свои полномочия срашу после инаугурации президента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Нынешний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "подведения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "работать"
+    },
+    {
+      "correctReplacement": "сразу",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

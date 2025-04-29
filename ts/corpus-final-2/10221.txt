@@ -1,0 +1,25 @@
+{
+  "text": "В пятницу судья Парижских суда Жана-жака Гоме , ведущий это дело , решил погучить авторитетным специалистам более подобное изучить техническую сторону вопроса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Жан-Жак"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Парижского"
+    },
+    {
+      "correctReplacement": "подробно",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "поручить",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

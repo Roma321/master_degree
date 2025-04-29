@@ -1,0 +1,20 @@
+{
+  "text": "Убийцами окалались 16-летний учащийся медицинского училища и двое 14-летнего школьников , сообщаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "14-летних"
+    },
+    {
+      "correctReplacement": "оказались",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

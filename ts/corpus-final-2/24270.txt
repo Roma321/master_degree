@@ -1,0 +1,15 @@
+{
+  "text": "Они госпитализированы в Соликамского геройскую больницу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Соликамскую"
+    },
+    {
+      "correctReplacement": "городскую",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

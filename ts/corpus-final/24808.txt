@@ -1,0 +1,25 @@
+{
+  "text": "Супруга московского мэра , президент Федерации конной спорте России Елена Батурина дала официальное согласие баллотироваться в Государственную Думу по 14 Калмыцким оономандатному округу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "спорта"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "конного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Калмыцкому"
+    },
+    {
+      "correctReplacement": "одномандатному",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

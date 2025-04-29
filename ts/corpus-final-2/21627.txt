@@ -1,0 +1,20 @@
+{
+  "text": "В ходе трехдневного визита планировались встречи с вице-премьером Ирака Тариком Азизом , министры нефти , торговли , информации и культцры .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "планируются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "министрами"
+    },
+    {
+      "correctReplacement": "культуры",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

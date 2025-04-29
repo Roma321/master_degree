@@ -1,0 +1,25 @@
+{
+  "text": "На сайте ADL публикуемся и такой известные символы , как свастика , и не известные рядовому американцу знаки , например , перевернутый крест , истолкованное здесь как диавол отречения от христианства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "истолкованный"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "публикуются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "такие"
+    },
+    {
+      "correctReplacement": "символ",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

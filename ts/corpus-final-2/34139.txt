@@ -1,0 +1,35 @@
+{
+  "text": "Она предусматриваемый , в частностяж , проведение регулярного радиационно-экологического мониторинга территории города , развитие системы сбора , переработки и долговременных контролируемого сражения радиоактивных отходов в течение не менее 300 лет , а также повышения готовности аварийных служб к ликвидации возможных очаги радиоактивного загрязнения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "предусматривает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "долговременного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "очагов"
+    },
+    {
+      "correctReplacement": "хранения",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "частностях",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

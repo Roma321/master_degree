@@ -1,0 +1,25 @@
+{
+  "text": "Об щтом АВН сообщим во семенной пресс-центре Министерства внутренних дел РФ на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "временном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "временной",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

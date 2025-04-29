@@ -1,0 +1,20 @@
+{
+  "text": "На предварительной этом гандболисты России побеждённые команду Южной Кореи со счетом 26 : 24 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "победили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "предварительном"
+    },
+    {
+      "correctReplacement": "этапе",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "упавшая Великобритании и СШВ убеждены , что на момент совершения теракта оба подсудимых являлись сотрудниками ливийских спецслужбам и были причастны к установке взрывной устройства на борту американского самолета , сообщает ВВC News .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Власти"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "спецслужб"
+    },
+    {
+      "correctReplacement": "Власть",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "210 сотрудников милиции работали в усиленном режиме в поселке Советский Ленинградской области , чтобы предотвратить новые инциденты на Выборгском ЦБК , сообщаешь ИТАР-ТАСС со ссылкой на и . о . начальника петербургских ГУВТ генерал-майора милиции Александра Серовым .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "Серова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "петербургского"
+    },
+    {
+      "correctReplacement": "ГУВД",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

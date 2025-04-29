@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщающие местные СМИ , бошее 80 человек погибло , 30 человека госпитализируемо с обширными ожогами (до 95% поверхности тела) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "госпитализировано"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

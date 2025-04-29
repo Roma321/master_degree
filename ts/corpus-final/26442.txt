@@ -1,0 +1,20 @@
+{
+  "text": "Сам Говорухин в интервью телекомпании НТВ заявлю , что выдвинуло свою кандидатуру только потому , что от участий в выборах отказался Евгений Примаков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "выдвинул"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "участия"
+    }
+  ]
+}

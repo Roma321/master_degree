@@ -1,0 +1,20 @@
+{
+  "text": "С друголо стороны , обычные \"переносные\" игрушка слишком быстро надоедают детям , поскольку их функции ограничены .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "другой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "игрушки"
+    },
+    {
+      "correctReplacement": "другого",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

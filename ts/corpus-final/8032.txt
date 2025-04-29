@@ -1,0 +1,30 @@
+{
+  "text": "Находившийся в редакции десять сотрудниками вечерней смены отказались выполныть это требование , после чего милиционеры опечатали дверь редакции снаружи , запретив оказавшимся взаперти журналистам покидающие помещение .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "покидать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "сотрудников"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Находившиеся"
+    },
+    {
+      "correctReplacement": "вечерней",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "выполнять",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

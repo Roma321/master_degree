@@ -1,0 +1,25 @@
+{
+  "text": "На борту авиалайнера , выполняющего чартерный рейн , нахожусь около 60 пассажиров , большей часть которых составляли врачей , деятели культуры и спортсмены .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "врачи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "большую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "находилось"
+    },
+    {
+      "correctReplacement": "рейс",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

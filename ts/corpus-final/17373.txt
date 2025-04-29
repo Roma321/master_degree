@@ -1,0 +1,35 @@
+{
+  "text": "Обвал в двухкилометровых туннеле , находящемся на полпути от столицы к карибскому голоду Ла-Гуайра , полностью парализовали движение всех видов транспорта по этих важнейшей магистрали , ведущей к международной аэропорту и главной гавани республики . В самой столице затоплен основные магистрали .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "двухкилометровом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "парализовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "международному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 38,
+      "correctReplacement": "затоплены"
+    },
+    {
+      "correctReplacement": "городу",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Это римейк ильма 1941 годов о писателе , который продал душу в обмен на славу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "фильма",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Двре боевиками были убит , двое взяты в плен , однако самому бригадному генералу удамся скрыться , несмотря на ранение .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "убиты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": "самому",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "Двое",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

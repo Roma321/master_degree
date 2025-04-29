@@ -1,0 +1,30 @@
+{
+  "text": "Глава Центробанка РФ Виктор Гераменко высказал замечания в адрес разработанному Центрами стратегических разработки Германа Грефа программы экономического развития страны , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "разработок"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "разработанной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Центром"
+    },
+    {
+      "correctReplacement": "Геращенко",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

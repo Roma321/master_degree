@@ -1,0 +1,15 @@
+{
+  "text": "В МВД агентству сообщили , что по одной из версий нападение было совершена сотрудниками случки безопасности некоей структуры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "службы",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

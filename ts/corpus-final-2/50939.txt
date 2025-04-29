@@ -1,0 +1,25 @@
+{
+  "text": "По свидетельству соседи , перед тем как киллеры открыл огне , хозяин квартиры , генеральная директор ООО \"Алекстра\" Александр Стробыкин , кричал : \"Не убивайте , я все отдам\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "огонь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "генеральный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "соседей"
+    }
+  ]
+}

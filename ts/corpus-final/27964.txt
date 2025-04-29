@@ -1,0 +1,25 @@
+{
+  "text": "У него останемся жена , которая служащий по контрактам в одной из частей Ленингратского военного округа , дочь-студентка и сын-школьник .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "остались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "контракту"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "служит"
+    },
+    {
+      "correctReplacement": "Ленинградского",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщил журналистам сам бизнесмены , выйдя из зданием Генпрокуратуры России , где с ним чуть больше часа беседовавший новый следователь по данного делу Александр Филин , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "беседовал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "бизнесмен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "данному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "здания"
+    }
+  ]
+}

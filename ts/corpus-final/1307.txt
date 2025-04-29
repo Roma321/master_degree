@@ -1,0 +1,20 @@
+{
+  "text": "В целом по итогам торгов в чедверги Dow Jones снизилась на 94 , 67 пункта или на 0 , 91 процента при высоких объемах оборота акций , который достиг 988 миллионов штук .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "снизился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "четверги",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

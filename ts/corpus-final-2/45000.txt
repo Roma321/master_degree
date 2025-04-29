@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас постоянно где-то что-то замерзает и прорывают , но другие руковгдители стараемся быстро это ликвидировать \"стесняются об эхе сказать\" , заявил представитель президента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "прорывает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "стараются"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "руководители",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

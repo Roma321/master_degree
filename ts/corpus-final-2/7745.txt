@@ -1,0 +1,30 @@
+{
+  "text": "Переиозке этого грузе была возложена на канадскую частную компанию Andromeda Navigation , субконтрактора другой канадской фирмы , SDV Logistics , которая выиграла у Министерство обороны канавка подряд стоимостью $850 тысяч .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "груза"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Перевозка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Министерства"
+    },
+    {
+      "correctReplacement": "Канады",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Перевозке",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

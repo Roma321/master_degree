@@ -1,0 +1,30 @@
+{
+  "text": "Ожидаюсь , что в воскресенье главм Русской Православной Церкви посещённый Иерусалимский патриархата , где встретился с Диодором , а также Русскую духовную миссию вИерусалиме .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "посетит"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Ожидается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "встретится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "патриархат"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

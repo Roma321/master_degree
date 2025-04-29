@@ -1,0 +1,25 @@
+{
+  "text": "Как претполагали , отравились людей , купившие поддельный спиртной напиток марки Thunderbolt - дешевую водку , которую гонящие из сахарного тростника .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "гонят"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предполагают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "люди"
+    },
+    {
+      "correctReplacement": "предполагали",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

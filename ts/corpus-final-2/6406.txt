@@ -1,0 +1,20 @@
+{
+  "text": "Евгений Кафельников с пятого месиа переместился не шестой , а Марат Сафин с девятых на восьмое .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "шестое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "девятого"
+    },
+    {
+      "correctReplacement": "места",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

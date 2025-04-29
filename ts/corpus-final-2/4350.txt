@@ -1,0 +1,25 @@
+{
+  "text": "Они заявили , что проверяется кориеспонденция только того адресата , в отношении которых имеетесь постановления суда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тех"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "имеются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "адресатов"
+    },
+    {
+      "correctReplacement": "корреспонденция",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

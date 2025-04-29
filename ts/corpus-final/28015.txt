@@ -1,0 +1,35 @@
+{
+  "text": "Кроме той , экспертами предсказывают , что вскоре в Сети должен произойти большие изменения именно в этой области : появимся новые организацией , которые будут играть роль \"кибер-шерифов\" в мире сетевого беззакония .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "эксперты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "появятся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "должны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "организации"
+    },
+    {
+      "correctReplacement": "большие",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По свидетельству телекомпании CNN , ч вооруженных силы США самолеты разбиваются с периодичностью примерно раз в неделю , однако о подобные инцидентах сообщается крайне редко , поскольку в подавляющем меньшинстве случаев летчикам удаюсь катапультироваться .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "удается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "подобных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "силах"
+    },
+    {
+      "correctReplacement": "большинстве",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

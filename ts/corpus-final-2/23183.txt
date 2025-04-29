@@ -1,0 +1,30 @@
+{
+  "text": "Прокуратура выражаю сожаление , чпо из-за болезни и смерти Александраса Лилейкиса не смогшая вынесенные приговор , который имеют важное значение для восстановления исторической справедливости .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "вынести"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "выражает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "смогла",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

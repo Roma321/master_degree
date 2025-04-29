@@ -1,0 +1,20 @@
+{
+  "text": "Камерунский студенту был ранен ножу в драме с местными подростками .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "студент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ножом"
+    },
+    {
+      "correctReplacement": "драке",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

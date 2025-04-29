@@ -1,0 +1,40 @@
+{
+  "text": "Вспго с минувшей четверга , когда в результате теракта был разрушен жилой дом на улице Гурьянову , столичной милицией обследуемо более 25 тысячи подсобных доведений и квартир в домах столицей , уточнил Рушайло .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "обследовано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Гурьянова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "столицы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "минувшего"
+    },
+    {
+      "correctReplacement": "помещений",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "Всего",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

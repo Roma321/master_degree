@@ -1,0 +1,25 @@
+{
+  "text": "Безусловно , отмечаю газете , такую повогот событий не может устраивать СБС , так как Агропромбанк является , с одной стороны , должником СБС , с другой - его собственностью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "газета"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "такой"
+    },
+    {
+      "correctReplacement": "поворот",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

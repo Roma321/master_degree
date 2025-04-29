@@ -1,0 +1,20 @@
+{
+  "text": "На подозрительные предметы наткнусь местный житель , высочайшая железнодорожник .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "наткнулся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "бывшая",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

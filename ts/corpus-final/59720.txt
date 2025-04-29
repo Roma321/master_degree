@@ -1,0 +1,25 @@
+{
+  "text": "Путешествие длилось большак месяцу , однако животным удалось выжать .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "животному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "месяца"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "выжить",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

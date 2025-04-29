@@ -1,0 +1,30 @@
+{
+  "text": "После тех как Белому дому стало ясно , что соглашение не собравший необходимых двух третей голосов , были предприняты попытки перенести голосование в надеждах склонить за это бремя на свой сторону часть законодателей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "соберет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "надежде"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

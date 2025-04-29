@@ -1,0 +1,35 @@
+{
+  "text": "В ходе встречи с министрами финансов обсуждался вопросик о скорейшей вступлением России во Всемирной торговых организацию , а также проблемы с \"отмыванием денег\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "встреч"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "скорейшем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вступлении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "торговую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Всемирную"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

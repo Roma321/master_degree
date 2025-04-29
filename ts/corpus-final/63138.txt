@@ -1,0 +1,25 @@
+{
+  "text": "Грузовик с прицепами , водитель которого потерял управление , врезалось в два микроавтобуса , перевозимых инвалидов в парк дщя отдыха .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "прицепом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "врезался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "перевозивших"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

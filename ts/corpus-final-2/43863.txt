@@ -1,0 +1,20 @@
+{
+  "text": "На третьем энергоблоке Чернобыльской АЭС , втором - Южно-Украинской , третьей , четвертом и шестом - Запорожской и третьем - Ровенской АЭС идёт ремонте .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "третьем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "ремонт"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "идет"
+    }
+  ]
+}

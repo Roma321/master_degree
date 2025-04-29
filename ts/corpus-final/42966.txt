@@ -1,0 +1,35 @@
+{
+  "text": "Руководитель Центра стратегического анализа и прогноза дмитриев Ольшанский считаешь , что 26 марта россиянин проголосуют за той или иного кандидата в президенты не только из любвей и уважений , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "россияне"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "уважения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "любви"
+    },
+    {
+      "correctReplacement": "Дмитрий",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кудрин сообщили , что к настоящему времени из ныне существующих 11 тысяч товарными позиций по импортным пошлинам пересмотревшее и унифицирован 3 , 5 тысячи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "товарных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "пересмотрено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "унифицировано"
+    }
+  ]
+}

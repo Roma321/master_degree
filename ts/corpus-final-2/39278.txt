@@ -1,0 +1,25 @@
+{
+  "text": "Исполнявшим связанности мэра Артема назначен предприниматель Владимиры Новиков , который имею опыт работы в горадминистрации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Исполняющим"
+    },
+    {
+      "correctReplacement": "обязанности",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

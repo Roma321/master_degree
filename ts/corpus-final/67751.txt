@@ -1,0 +1,20 @@
+{
+  "text": "В частности , согласно данной оценщику , домен fuck . ru стоило от 250 . 000 до 2 . 500 . 000 далласов , а домен yandex . ru - от нуля до 2 . 500 долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "стоит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "данному"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

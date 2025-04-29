@@ -1,0 +1,20 @@
+{
+  "text": "Бутылка редчайшего красного вина урожая 1891 год продавшая на аукционе за 15 тысяч долбаров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "продана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

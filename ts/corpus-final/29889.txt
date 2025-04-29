@@ -1,0 +1,25 @@
+{
+  "text": "В минувшую среду два пожилых косовских серба были убиты и еще пять человек пострадали в результате попадания противотанковой ракетами в автобус , сообщённый агенлство France Presse .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "ракеты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "сообщаемый",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Правительство РФ на заседании в четверг одобрил федеральную целевых программу \"О развитии электронной техники в РФ\" , сотовый ставит цели вытеснить иностранных производителей с отечественного рынка .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "целевую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "цель"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "одобрило"
+    },
+    {
+      "correctReplacement": "которая",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Четверо преступниках в масками , вооруженные автоматами , подънхали к банку в автомобиле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "преступников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "масках"
+    },
+    {
+      "correctReplacement": "подъехали",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

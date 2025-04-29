@@ -1,0 +1,25 @@
+{
+  "text": "В этот же день президентом США вылетевший ы хантингтон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "президент"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "вылетит"
+    },
+    {
+      "correctReplacement": "Вашингтон",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

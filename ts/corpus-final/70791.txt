@@ -1,0 +1,25 @@
+{
+  "text": "Президент России Владимир Путин поздравлю в пятницу Патриарха Московского и всея Руси ы юбилеем - 10 июня будут десять лет , как Алексий II стану патриархом .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "поздравил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "будет"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

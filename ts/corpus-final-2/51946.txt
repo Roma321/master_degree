@@ -1,0 +1,20 @@
+{
+  "text": "О факте задержания немецкого посла инспектор сообщивший в местное министерство охраны окружающей сеедой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "среды"
+    },
+    {
+      "correctReplacement": "средой",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Между тем окончательная заклжчение будет сделана только после проведения экспертизы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "окончательное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "сделано"
+    },
+    {
+      "correctReplacement": "заключение",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

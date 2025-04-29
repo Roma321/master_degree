@@ -1,0 +1,30 @@
+{
+  "text": "Министерство по налогам и сборам готовящий нормативные акты , разъясняемые порядок применения льготы по налогу на прибыль , предусмотренной пунктом 6 Статьи 6-го закона РФ \"О залоге на прибыль предприятия и организаций\" , организациями , размещающими периодические издания в Сети .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "готовит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "разъясняющие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "6-й"
+    },
+    {
+      "correctReplacement": "налоге",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

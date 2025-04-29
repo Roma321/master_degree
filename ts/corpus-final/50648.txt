@@ -1,0 +1,25 @@
+{
+  "text": "Еще три иска находимся на рассмотрении судей , и один иск заявителвм подозвавший .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "отозван"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "находятся"
+    },
+    {
+      "correctReplacement": "отозвавший",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "заявителем",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

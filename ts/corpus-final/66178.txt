@@ -1,0 +1,20 @@
+{
+  "text": "По словах представителеч городов полиции , все арестованные являются русскоязычными жителями Эстонии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "городской",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "представителей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По ходу встречи лразильцам имели на двух игроках больше , но камерунцы выстояли , а в дополнительных время забили \"золотой\" гол .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бразильцы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "дополнительное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "игроков"
+    },
+    {
+      "correctReplacement": "бразильцам",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

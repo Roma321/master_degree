@@ -1,0 +1,20 @@
+{
+  "text": "Вместе с тем он сказал , что \"сплошной така городом не будет\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "атаки"
+    },
+    {
+      "correctReplacement": "атакой",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

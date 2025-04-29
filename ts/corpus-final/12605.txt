@@ -1,0 +1,25 @@
+{
+  "text": "Въезд машин к комбинату питания МГУ будет осуществляться в сопровождении милиции и сотрудников комбината из-за опасений , что взрывчатки может быть гарантировавшая под мешков с сахаром .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "взрывчатка"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "мешки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "замаскирована"
+    },
+    {
+      "correctReplacement": "замаскировавшая",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

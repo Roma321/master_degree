@@ -1,0 +1,30 @@
+{
+  "text": "Отныне государством официально называющийся Боливарианскую республикой Венесуэлой - в честь легендаргого героя освободительной борьбы против испанских колонизаторов Симона Боливаров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "называется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Боливара"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Боливарианской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "государство"
+    },
+    {
+      "correctReplacement": "легендарного",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

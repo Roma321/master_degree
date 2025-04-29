@@ -1,0 +1,20 @@
+{
+  "text": "Как передаёшь корреспондента РИА \"Новости\" , они обратились к палеститцам с призывом провести в субботу митинги и демонстрации в поддержку объявления независимости .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "корреспондент"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "палестинцам",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

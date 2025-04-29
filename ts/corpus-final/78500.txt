@@ -1,0 +1,25 @@
+{
+  "text": "Мониторинг , проводимый компаниями , показывает , что ежедневго в Сети появляется 3-4 новых копий игр , доступных для скачиваний .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "компанией"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "скачивания"
+    },
+    {
+      "correctReplacement": "копий",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "ежедневно",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

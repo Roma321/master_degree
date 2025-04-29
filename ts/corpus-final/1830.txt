@@ -1,0 +1,30 @@
+{
+  "text": "По словам израильской полиции , задержанные подозреваются в подготовке актов , грозящих общественного безопасности - в частности , ест подозрение , что сектанты собирались совершить массовое самоубийство для того , чтобы спровоцировать приход апокалипсисов и ускорить второе пришествие Хрисга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "апокалипсиса"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "общественной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "собираются"
+    },
+    {
+      "correctReplacement": "Христа",
+      "type": "typo",
+      "wordNumber": 38
+    }
+  ]
+}

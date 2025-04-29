@@ -1,0 +1,30 @@
+{
+  "text": "В течение двух днях , объявленных в области траурным , в челябинский похоронят 22 погибшего милмционеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "траурными"
+    },
+    {
+      "correctReplacement": "Челябинске",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "милиционеров",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

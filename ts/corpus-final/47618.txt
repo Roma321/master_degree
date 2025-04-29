@@ -1,0 +1,35 @@
+{
+  "text": "Российский футбольный фанат , 21-летнее Виталий Тимонин , арестованная 18 авоуста в Минске перед товарищеским матчем сборных России и Белоруссии и обвиняемый в наслоении телесных повреждений сотруднику минской милиции , приговорен суда Ленинского района белорусской столицы к двум годам условно с годичных отсрочкой исполнения приговора .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "арестованный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 41,
+      "correctReplacement": "годичной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "судом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "21-летний"
+    },
+    {
+      "correctReplacement": "нанесении",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "августа",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

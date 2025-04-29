@@ -1,0 +1,25 @@
+{
+  "text": "Из тюрьмы преступники скрылись на захвачу грузовике , прихватиф с собой целые арсеналом огнестрельного оружия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "целый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "захваченном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "арсенал"
+    },
+    {
+      "correctReplacement": "прихватив",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу китайский суд приговорил бывшего сотрудника Шанхайского филиал компании Shijiazhuang Trust and Investment к трем годам тюремного заключения за взлом биржевой компьютерной системы шаховского филиала Хайнаньской компании , торгующей ценными бумагами , сообщаешь Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "филиала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 33,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Шанхайского",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

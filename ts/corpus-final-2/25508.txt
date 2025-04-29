@@ -1,0 +1,25 @@
+{
+  "text": "Режиссер уже прошел курс подготовкой в Институтах медико-биологических проблем м Москве и получил таб разрешение на осуществление космических полетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Институте"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "подготовки"
+    },
+    {
+      "correctReplacement": "там",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

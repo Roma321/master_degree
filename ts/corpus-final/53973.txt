@@ -1,0 +1,30 @@
+{
+  "text": "Путины также поручил министр экономикой России заготовившие для рассмотрения на заседании правительства вопрос о строительстве на Нижнетагильском металлургическом комбинате \"Стана-5000\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "министру"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Путин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "экономики"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "подготовить"
+    },
+    {
+      "correctReplacement": "подготовившие",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Весь эту информацию святой отец получали во время исповедей , а сделался услышанной со всеми желающими в собственным бар , расположенном в соседней деревушке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "услышанным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "получал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "собственном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "баре"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Всю"
+    },
+    {
+      "correctReplacement": "делился",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

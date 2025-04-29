@@ -1,0 +1,25 @@
+{
+  "text": "Ясир Арафат вернулась в Газу в субботу из Нью-Йорка , где президент США Билл Клинтон в ходе двусторонней встречи просил его повременить с провозглашением палестинского государства и начать новые раунд переговорщиков ы Израилем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "вернулся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "переговоров",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

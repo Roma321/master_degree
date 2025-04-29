@@ -1,0 +1,35 @@
+{
+  "text": "В Москве с 1 февраля повысим тарифы на коммунальными услугами . Теперь за газы , электроэнергию , отоплении и горячее водоснабжение москвичи будут платить в сиеднем на 20-25 процентов больше , сообщает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "отопление"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "услуги"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "газ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "коммунальные"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "повышены"
+    },
+    {
+      "correctReplacement": "среднем",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сергей Рогов сказала , что такие происшествия очень осложняют работу , а окончательно все решить могуший только суд .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "могущий",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

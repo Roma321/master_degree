@@ -1,0 +1,20 @@
+{
+  "text": "Уголовное дела было возбудифшее в связи с задержанием в аэропорту города Кагалым крупной партии контрабанды , перевозимой авиакомпанией .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "correctReplacement": "возбудившее",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

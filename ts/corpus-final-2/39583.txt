@@ -1,0 +1,30 @@
+{
+  "text": "При этом ни проводник , ои его клиент , уроженец Бостона , так и не смогшие внятно объяснить , почему ими решённые незаконно пересечь границе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "границу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "смогли"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "решили"
+    },
+    {
+      "correctReplacement": "ни",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

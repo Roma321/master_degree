@@ -1,0 +1,30 @@
+{
+  "text": "Сам Михаилу Чигире себя виновным не считает и рассматривает возбужденное против него дела как сугубо политическое - связанное с его участиями в деятельности оппозивии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "участием"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Михаил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Чигирь"
+    },
+    {
+      "correctReplacement": "оппозиции",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

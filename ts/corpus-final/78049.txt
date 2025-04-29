@@ -1,0 +1,25 @@
+{
+  "text": "Актер должна .ыл сыгранные в спектаторе на сцене родного Колосовского театра .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сыграть"
+    },
+    {
+      "correctReplacement": "спектакле",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

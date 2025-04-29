@@ -1,0 +1,30 @@
+{
+  "text": "В ночь на 26 январей на территории Новгородской области пассажирские поезд , следовавший по маршруту Невель - Санкт-Петербург , врезалось в хвост грузовой срстава .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "грузового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "января"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "врезался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "пассажирский"
+    },
+    {
+      "correctReplacement": "состава",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

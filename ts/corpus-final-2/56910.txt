@@ -1,0 +1,25 @@
+{
+  "text": "Право безвизовой пребывания на словацкой территории срока до 30 дня сохраняется у граждан , въехавших в страну до 31 декабря 2000 года Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "сроком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "дней"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "безвизового"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

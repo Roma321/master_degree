@@ -1,0 +1,15 @@
+{
+  "text": "Нападение происшедшее в среду ушром .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "утром",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

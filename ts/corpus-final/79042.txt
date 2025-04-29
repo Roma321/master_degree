@@ -1,0 +1,25 @@
+{
+  "text": "Представителей NASA официально опровергли появившуюся в понедельнике информацию о том , что в 1997 году при стыковке корабля Atlantis со станцией \"Мир\" компьютерный хакер подвергло опасности астронавтов , создав помехи передавшей данных .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "подверг"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представители"
+    },
+    {
+      "correctReplacement": "передаче",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

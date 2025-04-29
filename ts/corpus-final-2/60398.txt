@@ -1,0 +1,20 @@
+{
+  "text": "Регистрация кандидатоф завершишься 9 февраля , а сами выборы главы администрации Тульской области пройденные 8 апреля . .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "пройдут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "завершится"
+    },
+    {
+      "correctReplacement": "кандидатов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

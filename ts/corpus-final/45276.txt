@@ -1,0 +1,25 @@
+{
+  "text": "Собрать максимально дозволенную сумму в 25 миллионов рублей удалось пока толком Владимиру Путин , причем израсходовать кандидата успели только 9 , 5 миллиона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "кандидат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Путину"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "успел"
+    },
+    {
+      "correctReplacement": "только",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

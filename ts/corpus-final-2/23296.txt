@@ -1,0 +1,20 @@
+{
+  "text": "Юрий Грымов надеется , что внешнему поколению Интернета понравился названии , и на вопрос \"как твои дела ? \" каждый молодой человек сможет ответить \"ОК ! \" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "понравится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "название"
+    },
+    {
+      "correctReplacement": "нынешнему",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

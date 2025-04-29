@@ -1,0 +1,25 @@
+{
+  "text": "Один иж заложников , 41-летняя женщина , была найдено мертвой в кухня дора , где разворачивались события .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "найдена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "кухне"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

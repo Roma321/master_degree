@@ -1,0 +1,25 @@
+{
+  "text": "Что касается других акционера , то , скорая всего , по словам губернатора , в случае невыполнения обязательств , условия договора могли быть пересмотревшие , сообщает агентство РосБизнесКонсалтинг .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "акционеров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "пересмотрены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "скорее",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

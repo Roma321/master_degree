@@ -1,0 +1,25 @@
+{
+  "text": "Согласно приговору , нём был признан виновным в превышении служебного полномочных и причинениях государству \"существенного материального ущерба\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "служебных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "причинении"
+    },
+    {
+      "correctReplacement": "полномочий",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

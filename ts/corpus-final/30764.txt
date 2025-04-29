@@ -1,0 +1,30 @@
+{
+  "text": "По данным первого вице-премьера правительства РФ Михаила касьян , в феврале России предстою выплатить по внешним долгу около 640 миллионам долларов Т",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "внешнему"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "correctReplacement": "Касьянова",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

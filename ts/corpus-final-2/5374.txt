@@ -1,0 +1,20 @@
+{
+  "text": "Для перевозки личного состава и техникипланируешься использовать 4 транспортных самолёт ВВС РФ : двасамолета Ан-124 \"Руслан\" р два самолета Ил-76 .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "техникипланируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "самолета"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

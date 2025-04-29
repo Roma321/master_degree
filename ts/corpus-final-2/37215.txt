@@ -1,0 +1,25 @@
+{
+  "text": "Начавшийся шторм сорвала теплоход с якорей , порывами ветра и волны его поволокли к ростову и плотно посадили на грунт в 150 метре от берега .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "метрах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "порывы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "сорвал"
+    },
+    {
+      "correctReplacement": "острову",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

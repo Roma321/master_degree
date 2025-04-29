@@ -1,0 +1,25 @@
+{
+  "text": "С апреля на территории Чечни , а также по всего России будот провёдшая полная регистрация \"всех чеченских транспортных средств\" . Об этом собщает РБК со ссылкой на начальника Главного укрепление ГИБДД МВД РФ Владимира Федорова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проведена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "всей"
+    },
+    {
+      "correctReplacement": "управления",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "будет",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

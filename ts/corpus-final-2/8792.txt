@@ -1,0 +1,25 @@
+{
+  "text": "В понедельники вечером , примерно в 18 . 30 по московской времени , на автострада Уфа-Чишмы произошла аварии , передает \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "авария"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "московскому"
+    },
+    {
+      "correctReplacement": "автостраде",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

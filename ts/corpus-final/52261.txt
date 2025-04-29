@@ -1,0 +1,20 @@
+{
+  "text": "Пять цирковых львов растерзали 6-летнего мальчика , который по неосторожностям слишком близко подошедший к их клетке вг время антракта .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "неосторожности"
+    },
+    {
+      "correctReplacement": "во",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудник центра составившие список подозреваемых , в котором , в частности , фигурирующие имена президента Ираком Саддама Хуссейна , двух его сыновей и вице-премьера страны Тарика Азиза .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "составили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "фигурируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сотрудники"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Ирака"
+    }
+  ]
+}

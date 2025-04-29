@@ -1,0 +1,20 @@
+{
+  "text": "С танка была сняты гусеницу , двигатель мывший разобран , однако пушка исправно работала .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "гусеница"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "снята"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "У третьего автомобиль в конце концов арестовали , что , впрочем , лишь осложнило дело : владелец махнул на свою торжественности рукой , поскольку стоимость буксировкой и штрафов превышающий цену самого машины .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 30,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "собственность"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "буксировки"
+    },
+    {
+      "correctReplacement": "собственности",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Представители Белому домов сообщающие , что в конференции примут участие члены Демократической партия из ряда штатоф , а равно и пользователи Интернета .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "партии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Белого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщают"
+    },
+    {
+      "correctReplacement": "штатов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

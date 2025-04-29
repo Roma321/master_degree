@@ -1,0 +1,20 @@
+{
+  "text": "Снимки для нового карты делались одним путником RADARSAT канадского космического агентства (CSA) всего 18 дней и затем обрабатывались международной командой специалистоф в рамках проекта Antarctic Mapping Mission (один из проектов NASA по исследованию Антарктиды) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "спутником",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "специалистов",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

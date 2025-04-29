@@ -1,0 +1,20 @@
+{
+  "text": "По информации РБК , из четырех залов на второй этажах музея воры похитили , среди прочего , картины Тропинина , Шишкина , Репина , Крамских .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "втором"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "этаже"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "Крамского"
+    }
+  ]
+}

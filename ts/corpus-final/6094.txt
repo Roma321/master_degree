@@ -1,0 +1,30 @@
+{
+  "text": "В любом случае , каждую из них для реализации должну прежде получить одобрения окружной судьи Томаса Пенфилда Джексона , возглавляющего судебный процесс по антимонопольному искам против корпорации .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "окружного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "иску"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "каждая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "одобрение"
+    },
+    {
+      "correctReplacement": "должна",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "На фоне этих правительственных планов сирийцы всерьез обеспокоены тем , что появление в их жизней Интернет и поток до сих пор отсутствовавшей информации могу негативно вылинявшие на сирийское консервативные обществш .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "жизни"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "консервативное"
+    },
+    {
+      "correctReplacement": "повлиять",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "общество",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Напротив , все они – сотрудники некоего рабочая группы Мосгоризбиркома , которые фактически состоят в штате Мэрии города Москвы , которые на время выборов привлефём к работе с избирателями .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "привлечены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "некой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "рабочей"
+    },
+    {
+      "correctReplacement": "привлечём",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Баскетболист российского куба ЦСКА в очередной туре чемпионата Североевропейской лиги в Каунасе выигранные у немецкого команды \"Скайлайнерс\" - 79 : 67 (21 : 21 , 42 : 35 , 62 : 54 , 79 : 67) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "выиграли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "немецкой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Баскетболисты"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "очередном"
+    },
+    {
+      "correctReplacement": "клуба",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

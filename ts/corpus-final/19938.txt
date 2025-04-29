@@ -1,0 +1,25 @@
+{
+  "text": "Около 12 тысячи полицейских , каи ожидаюсь , будут задействовавшие в патрулировании улиц одного только Иерусалима в дни праздников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "задействованы"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Украина хотящий погасить часть своей задолженности перед Россией за энергоносителям с помощью трех танкеров , строившихся на судоверфс в Херсоне .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "строящихся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "энергоносители"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "хочет"
+    },
+    {
+      "correctReplacement": "судоверфи",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

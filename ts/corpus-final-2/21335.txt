@@ -1,0 +1,40 @@
+{
+  "text": "Известный международный террорист Усама Бин Ладен , которому разыскивают американские спецслужбы , поклявшийся , что его освободишь из американской тюрьмы Омара Абдель Рахмана – египетской исламиста , основателя крупнейших фундаменталистской организации Jamaa Islamiya , сообщает НТФ .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "освободит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "египетского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "крупнейшей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "поклялся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "которого"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

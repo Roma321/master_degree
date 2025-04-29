@@ -1,0 +1,25 @@
+{
+  "text": "Юный преступник не преминул приняфшие определенные меры безопасности : взлому был совершен не с его компьютера и , кроме той , Piffy почистил лог-файлы сервера .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "принять"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "взлом"
+    },
+    {
+      "correctReplacement": "принявшие",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

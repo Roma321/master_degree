@@ -1,0 +1,20 @@
+{
+  "text": "Сегодня Илюхин заявило , что ЖПА идущий на выборы самостоятельно .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "ДПА",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

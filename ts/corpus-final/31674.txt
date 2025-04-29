@@ -1,0 +1,20 @@
+{
+  "text": "Например , слепые пользуются для изучений web-сайтов специальными программками , которые интерпретировали для них текст .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "изучения"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "интерпретируют"
+    },
+    {
+      "correctReplacement": "программами",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

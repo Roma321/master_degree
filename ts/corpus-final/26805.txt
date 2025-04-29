@@ -1,0 +1,25 @@
+{
+  "text": "В программе \"Итоги\" телепортации НТВ , вышедшей в эфир в минувшее воскресенье , был показан репортаж из Ростовского военного госпитале , при котором развернут Центральный пункт приема обработке и отправкой погибших .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "обработки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "госпиталя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "отправки"
+    },
+    {
+      "correctReplacement": "телекомпании",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

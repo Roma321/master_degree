@@ -1,0 +1,20 @@
+{
+  "text": "Как заявил официальная представитель российского военной ведомства , все вертолеты после выполнения задач вернёмся на базу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "официальный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "вернулись"
+    }
+  ]
+}

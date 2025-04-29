@@ -1,0 +1,25 @@
+{
+  "text": "В частности , она сделают реальные услуги цифрового и интерактивной телодвижения , мультимедиа , video-on-demand , дистанционное обучение и другие сетевые прекрасности .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "интерактивного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "реальными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сделает"
+    },
+    {
+      "correctReplacement": "телевидения",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

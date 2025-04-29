@@ -1,0 +1,30 @@
+{
+  "text": "В своих версии протокгла компания использовала поле донные авторизации , которое отсутствуешь в стандартной спецификации .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "данных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "отсутствует"
+    },
+    {
+      "correctReplacement": "данные",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "протокола",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

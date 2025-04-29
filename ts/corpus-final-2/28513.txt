@@ -1,0 +1,30 @@
+{
+  "text": "В правлении ЕЦБ отмечают , что курс евро во всего видах торговых операций упал до уровней , который он имел до исключения механизма последней интервенции ЕЦБ , и составлял сейчас 0 , 8632 по отношению к доллар США .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "всех"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "доллару"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "уровня"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "включения",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

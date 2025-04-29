@@ -1,0 +1,20 @@
+{
+  "text": "Четверо человек погибавшие и девятью получили ранения в резулртате сильного взрыва на севере Парижа , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "девять"
+    },
+    {
+      "correctReplacement": "погибли",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

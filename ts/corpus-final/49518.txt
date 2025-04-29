@@ -1,0 +1,20 @@
+{
+  "text": "В марте , по примирительным данным , доходы бюджета составившие 79 миллиардов рублей , первичные профицит бюджета - 0 , 8 процента ВВП .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "составили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "первичный"
+    },
+    {
+      "correctReplacement": "предварительным",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

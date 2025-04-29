@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , на прошлой неделе пресс-центр МВД обращавшийся в лабораторию с вопросом о местонахождении тела генерала Шкигун .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обращался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Шпигуна"
+    },
+    {
+      "correctReplacement": "Шпигун",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

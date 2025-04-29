@@ -1,0 +1,35 @@
+{
+  "text": "Сроки действия этого документ составлял 6 месяца , т каз отмечают в министерстве , в октябре список был представивший в правительство для переутверждения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Срок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "документа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "представлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "месяцев"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

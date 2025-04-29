@@ -1,0 +1,25 @@
+{
+  "text": "Самолет два раза пытался приземлившиеся , а при покытке севшие в третий раз упал в Персидская залив .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "приземлиться"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Персидский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сесть"
+    },
+    {
+      "correctReplacement": "попытке",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

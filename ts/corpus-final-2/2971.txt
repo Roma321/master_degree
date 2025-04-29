@@ -1,0 +1,25 @@
+{
+  "text": "На первом заседании Верховного суда двадцать судей две с половиной часов заслушивали список обвинения в нарушении прав человека , предъявляемого бывшему диктатору .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "два"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "часа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "обвинений"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "предъявляемых"
+    }
+  ]
+}

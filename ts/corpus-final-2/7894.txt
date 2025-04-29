@@ -1,0 +1,30 @@
+{
+  "text": "Теперь необходимы дальнейшие исследования , чтобы новая элемент прошёл сертификацию и ему присвоенуые имя .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "присвоили"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "новый"
+    },
+    {
+      "correctReplacement": "дальнейшие",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "присвоенные",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

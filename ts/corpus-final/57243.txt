@@ -1,0 +1,25 @@
+{
+  "text": "Во Владивостока задержаны с поличным семь членов узбекской преступной группировки , занимавшейся поставкой героина и гашиша военнослужащим Тихооееанской флота .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Тихоокеанского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Владивостоке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "поставками"
+    },
+    {
+      "correctReplacement": "Тихоокеанской",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

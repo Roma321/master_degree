@@ -1,0 +1,25 @@
+{
+  "text": "Пентагон являюсь одним из крупнейших клиентов Iridium : всего в министерстве обороры числишься около 3000 пользователей этих телефонов в различных отоплениях и агентствах по всему миру .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "являлся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "числится"
+    },
+    {
+      "correctReplacement": "отделениях",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "обороны",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

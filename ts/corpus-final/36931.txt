@@ -1,0 +1,20 @@
+{
+  "text": "Лимит неестественности по каждому из двух запусков составляет 300 миллионам долларами соответственно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "ответственности",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

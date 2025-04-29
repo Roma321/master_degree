@@ -1,0 +1,25 @@
+{
+  "text": "Касьянов тагже проинформировал о наметившем на следующую неделю первом заседаниях Совета министров Союза России и малороссии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "намеченном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "заседании"
+    },
+    {
+      "correctReplacement": "Белоруссии",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

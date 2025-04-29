@@ -1,0 +1,25 @@
+{
+  "text": "Новое начальник Муре Евгений Максимов был разваленная лишь несколько месяцев назад , после смены руководства ГУВД Москвы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "МУРа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "назначен"
+    },
+    {
+      "correctReplacement": "назначена",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

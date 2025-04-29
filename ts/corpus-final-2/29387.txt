@@ -1,0 +1,20 @@
+{
+  "text": "Из-за остановки движения оа перегоне застрял 20 грузовых и пассажирскими поездов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "застряли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "пассажирских"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

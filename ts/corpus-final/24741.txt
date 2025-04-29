@@ -1,0 +1,25 @@
+{
+  "text": "Он отметил , чтш в Чечне скоро будут провёдшие выборы в органы местных власти , и представители ПАСЕ и других евразийских структур могли бы принять в них участие в качестве наблюдателей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "проведены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "европейских",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

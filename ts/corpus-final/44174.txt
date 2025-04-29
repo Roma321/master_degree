@@ -1,0 +1,25 @@
+{
+  "text": "КрАЗ , который , по информации Березовского , продавший крупный пакет акций Сибнефти , рассматривавшийся участниками как ощин из серьёзным соперников .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "продал"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "рассматривался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "серьезных"
+    },
+    {
+      "correctReplacement": "один",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

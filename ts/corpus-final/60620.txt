@@ -1,0 +1,25 @@
+{
+  "text": "Она не связывалась с друзьями , и только ее кузина получило от неё электронное письмо - но без указания места , гдр остановилась чекушка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "получила"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "нее"
+    },
+    {
+      "correctReplacement": "девушка",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "где",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

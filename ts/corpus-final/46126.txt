@@ -1,0 +1,25 @@
+{
+  "text": "В 8 : 45 утра подросток вошёл в один из классов местной школу McKinley Elementary School , наставил девятимиллиметровый полуавтоматический пистолеты на людей , находившихся в помещение (25 учеников и учитель) , и приказал всем лечь на пол . Это увидел проходивший мимо школьник .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "помещении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "пистолет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "вошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "школы"
+    }
+  ]
+}

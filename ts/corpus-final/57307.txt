@@ -1,0 +1,30 @@
+{
+  "text": "В среду прокуратура Чеченская Республики предъявившая обвинение в умышленном убийстве и участии в деятельности незаметных вооруженных формирований троим участников нападения на колонну Подмосковного ОМОНа в пригороде Грозного 2 марта этого годов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "предъявила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "участникам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Чеченской"
+    },
+    {
+      "correctReplacement": "незаконных",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

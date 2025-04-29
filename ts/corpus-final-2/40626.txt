@@ -1,0 +1,20 @@
+{
+  "text": "Уже арендованы непроходимые участки земли , взявшие пробы грунта , где предстоите землеройные работы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "взяты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "предстоят"
+    },
+    {
+      "correctReplacement": "необходимые",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

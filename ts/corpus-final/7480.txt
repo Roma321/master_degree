@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшний заседание суда , где бы.о огласившее решение о незаконностью обысков , представитель Генпрокуратуры не явился .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "незаконности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "оглашено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшнее"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

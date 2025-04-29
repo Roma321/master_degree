@@ -1,0 +1,25 @@
+{
+  "text": "Российская сторона считает действия британских военных противоправными и грубо нарушаемыми Венскую конвенцию о дипломатических сношениями , затмившие журналистам в МИД России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "нарушающими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "сношениях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "заявили"
+    },
+    {
+      "correctReplacement": "заявившие",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

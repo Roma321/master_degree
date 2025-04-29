@@ -1,0 +1,30 @@
+{
+  "text": "Государздва – члены Всемирной торговой организации в рамках проходящего в Женеве сессии Генеральногосовета ВТО проголосованные за принятие в свои срядах Грузии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "ряды"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "проходящей"
+    },
+    {
+      "correctReplacement": "рядах",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Государства",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

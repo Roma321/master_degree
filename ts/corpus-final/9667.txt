@@ -1,0 +1,20 @@
+{
+  "text": "Фпервые дело Никитина поступило в суду в 1998 году , но было возвращены на доследование .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "возвращено"
+    },
+    {
+      "correctReplacement": "Впервые",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В ближайшего время ожидающийся снятие с должности начальника Московского уголовное розыска генерала Виктора Голованова , сообщили в среду \"Интерфаксу\" информированные историки в ГУВД столицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "уголовного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "correctReplacement": "источники",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

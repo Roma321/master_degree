@@ -1,0 +1,30 @@
+{
+  "text": "Альянс этого компаний охватывал все секторами автомобилестроения , включая разработку и производство маленьких п средних машин , а также полноприводных транспортного средств .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "охватывает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "транспортных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "секторы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "этих"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

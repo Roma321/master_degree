@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь в среду РИА \"Новости\" , похищеннын картины представляет большую художественную и викторианскую ценность .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "представляют"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "историческую",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "похищенные",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

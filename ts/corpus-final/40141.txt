@@ -1,0 +1,35 @@
+{
+  "text": "Данный доклад , так же как и клинтоновский проекту бюджета , предполагающее в 15 раз увеличить расходы на прослушивающееся телефонных линий , заставленный насторожиться не только правоохранительные группы , но и лидера республиканского большинства нижней палат конгресса США .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "предполагающий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "палаты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заставил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "проект"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "лидеров"
+    },
+    {
+      "correctReplacement": "прослушивание",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

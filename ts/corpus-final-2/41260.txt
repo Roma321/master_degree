@@ -1,0 +1,30 @@
+{
+  "text": "Совещание прошло с участием руководителя администрации президента Алепсандров Волошиных , вице-премьеров Алексея Кудрина и Виктора Христенко , министров энергетической блоком , председателя правления РАО \"ЕЭС России\" Анатолия Чубайса , а также ряда губернаторов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Александра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "энергетического"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "блока"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Волошина"
+    },
+    {
+      "correctReplacement": "Александров",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

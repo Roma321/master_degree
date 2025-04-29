@@ -1,0 +1,25 @@
+{
+  "text": "Это информацию , сообщённую \"Интерфаксу\" в силовых структурахТаджикистана , журналистам кодтвердили в руководстве российской группы Федерального пограничной службы и пограничном ведомстве республики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эту"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщенную"
+    },
+    {
+      "correctReplacement": "подтвердили",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

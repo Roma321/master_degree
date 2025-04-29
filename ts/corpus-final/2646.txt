@@ -1,0 +1,20 @@
+{
+  "text": "По официальным данным министерства торговли США , в 1998 году доля компаний , занимающихся информационными технологиями , достигнутая 8 , 2 процентов от астраханских ВВП .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "достигла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "американского"
+    },
+    {
+      "correctReplacement": "американских",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

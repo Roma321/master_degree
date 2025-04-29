@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , исполняющий обязанности президента нечаянное использовал служебном положения при раздаче жилищных сертификатов военнослужащим Волгограда , а также обещая материально помочь госпиталю и обеспечить его машиной скорую помощи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "служебное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "скорой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "положение"
+    },
+    {
+      "correctReplacement": "незаконно",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

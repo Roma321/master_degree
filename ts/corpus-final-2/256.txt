@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщивший представители Белого дома Филип Кроули , 15-минутный разговор носил узловой характер и был посвящен в первой очередь предстоящему 21-23 июля саммиту на Окинаве .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "первую"
+    },
+    {
+      "correctReplacement": "деловой",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

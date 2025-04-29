@@ -1,0 +1,20 @@
+{
+  "text": "Полиция Дании разыскивал трех преступников , похитивших из инкассаторской машины 42 милтона крон (около 4 , 8 миллиона доллиров) , передает CNN .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "разыскивает"
+    },
+    {
+      "correctReplacement": "миллиона",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "долларов)",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

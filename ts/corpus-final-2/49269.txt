@@ -1,0 +1,25 @@
+{
+  "text": "Заявления Генпрокуратуры о том , что необходимый документы уже отправим , не соответствовал дейздвительности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "необходимые"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "соответствует"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "отправлены"
+    },
+    {
+      "correctReplacement": "действительности",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

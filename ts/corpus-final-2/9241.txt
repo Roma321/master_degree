@@ -1,0 +1,25 @@
+{
+  "text": "Видеофильм , в котором играешь актрисе , как две капли воды похожая на принцессу Диану , заслуженный бурные овации во время его первого показа на Элинбургском фестивале .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "заслужил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "играет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "актриса"
+    },
+    {
+      "correctReplacement": "Эдинбургском",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

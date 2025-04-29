@@ -1,0 +1,25 @@
+{
+  "text": "Участники засадания , подчёркнутый источник , большинством голосов подтвердили , что поддерживают карикатуру и . о . президента Россию Владимира Путина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "подчеркнул"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "кандидатуру",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "заседания",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

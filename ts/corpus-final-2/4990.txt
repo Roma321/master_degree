@@ -1,0 +1,25 @@
+{
+  "text": "Московский городской избирком зарегистрирую ииперативную группу граждан , выступавших за проведение общероссийского референдума по экологической тематике .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "выступающих"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "зарегистрировал"
+    },
+    {
+      "correctReplacement": "инициативную",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "императивную",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

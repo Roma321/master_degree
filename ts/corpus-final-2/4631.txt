@@ -1,0 +1,25 @@
+{
+  "text": "После тяжелой работы её проводил целые часы , \"снимая\" вокальные и танцевальные номера с классическими мюзиклов тридцатых готов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "проводит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "классических"
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

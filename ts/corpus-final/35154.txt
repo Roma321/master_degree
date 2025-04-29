@@ -1,0 +1,25 @@
+{
+  "text": "Здесь же , на площадке аэропорта Северный , министр обороны вручу государственным награды , ордена и медалей , а также учрежденную в канун праздников медаль \"За воинскую доблесть\" военнослужащим , отличившимся в боях .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "государственные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "праздника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "медали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вручил"
+    }
+  ]
+}

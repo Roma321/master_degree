@@ -1,0 +1,30 @@
+{
+  "text": "Несмотря на столь прозаичных причины пожара , телекорреспондентам , прибывшим на его место , в саму категоричной форме было запрещено снимающие производящее на Лубянке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "причину"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "снимать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "прозаичную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "самой"
+    },
+    {
+      "correctReplacement": "происходящее",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

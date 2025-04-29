@@ -1,0 +1,20 @@
+{
+  "text": "Полузащитники московской \"Спартака\" и сборной Россис Егор Титов назван лучшим футболистом России 2000 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Полузащитник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "московского"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

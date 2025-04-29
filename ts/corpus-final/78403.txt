@@ -1,0 +1,20 @@
+{
+  "text": "Соответствующие распшряжение подписал в понедельник премьер-министр Михаил Касьянов , передающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Соответствующее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "распоряжение",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

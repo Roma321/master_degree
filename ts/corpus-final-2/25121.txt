@@ -1,0 +1,15 @@
+{
+  "text": "По данным МЧС , взрыв произойду окнло 3 . 00 по московскому времени на 7-м этаже 9-этажного дома на улице Новая .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "около",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

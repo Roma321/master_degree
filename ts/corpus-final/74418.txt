@@ -1,0 +1,20 @@
+{
+  "text": "В ряде СМИ появилась информация о том , что поутихнувший граждане Китая следовали в Великобританию транзитом через России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "погибшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Россию"
+    },
+    {
+      "correctReplacement": "погибший",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным Mercury News , краткие результаты четверга выглядят следующим образом : цена на акции компании Gateway , которая , по мнению экспертов , повлёкшая за себе нынешнее падение рынка , снизилась на 36 процентами .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "повлекла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "собой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "процентов"
+    }
+  ]
+}

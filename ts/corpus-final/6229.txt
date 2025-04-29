@@ -1,0 +1,25 @@
+{
+  "text": "Якушкин напомнил , что в своём недавнем выступлении назаседании Совета безопасность РФ президенте Борис Ельцин особоподчеркнул необходимость создания в нынешних условияхблагоприятного трансформационного климата .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "президент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "информационного",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Находку пограничники задержали российского граждан , который пытался незаконно покинуть территоррю России , сообщающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Находке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "гражданина"
+    },
+    {
+      "correctReplacement": "территорию",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

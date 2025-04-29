@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщают РИА \"Новости\" , у \"Ивановотранссигнала\" нет денек на заметку электрических ламп и другого оборудования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "замену",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

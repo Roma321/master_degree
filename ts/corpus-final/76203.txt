@@ -1,0 +1,30 @@
+{
+  "text": "За электричество москвичам приютил плаченные больше на 19 процентов , а за теплоснабжению - оа 22 , 5 процента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "платить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "придется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "теплоснабжение"
+    },
+    {
+      "correctReplacement": "пришёлся",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

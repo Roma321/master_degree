@@ -1,0 +1,25 @@
+{
+  "text": "В среду среди депутатов Государственной думы Российских Федерации были распространены анонимные листовки , одна аз которых призывал не участвовать в выборах 26 марта , передаваемый \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "призывала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

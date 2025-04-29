@@ -1,0 +1,30 @@
+{
+  "text": "Прокуратура Петербурга направившая в гшродской суд Петербурга заявление , где содержался просьба отменить регистрацию Шутовом по 211 округу Петербурга , где он зарегистрирован кандидат в депутаты Государственной Думы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "направила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "содержится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Шутова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "кандидатом"
+    },
+    {
+      "correctReplacement": "городской",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

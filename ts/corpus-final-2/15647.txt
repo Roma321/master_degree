@@ -1,0 +1,30 @@
+{
+  "text": "По мнению родоначальника , столкновение произошёл на встречных курсах , когда российская подлотки шла на всплытие , а иностранная субмарину - на погружение .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "субмарина"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "подлодка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "военачальника",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "подлодки",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

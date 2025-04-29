@@ -1,0 +1,25 @@
+{
+  "text": "На сегодняшняя нутро намечено пресс-конференция Дмитрия Васильева на тему \"Торговля ценными бумагами в сеии Интернет\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "намечена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшнее"
+    },
+    {
+      "correctReplacement": "утро",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "сети",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

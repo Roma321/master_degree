@@ -1,0 +1,25 @@
+{
+  "text": "Выяснилась , что в деятельности структуры принимал учвстия некий поселянин по имени Борис , против которого также возбуждено уголовное дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Выяснилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "участие"
+    },
+    {
+      "correctReplacement": "россиянин",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "участия",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

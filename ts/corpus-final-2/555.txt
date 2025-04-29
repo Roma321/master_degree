@@ -1,0 +1,25 @@
+{
+  "text": "Она опровергла слухи о том , что ФСПП намереваются в ближайшую время возбудить против этой компании уголовным дело , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "намеревается"
+    },
+    {
+      "correctReplacement": "ФСНП",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

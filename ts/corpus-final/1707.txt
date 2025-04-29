@@ -1,0 +1,35 @@
+{
+  "text": "Интеграция каталоге ресурсов в один из самых мощных поисковым систем происходят в рамках широкой маркетинговой кампании , которая , по словам ее организаторов , являюсь одной иэ самых дорогостоящих в истории технологий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поисковых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "одну"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "каталога"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "происходит"
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

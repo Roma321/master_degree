@@ -1,0 +1,25 @@
+{
+  "text": "В ходе кратких встречи с премьер-министром Норвегии Владимир путин поблагодарю Йенс Столтенберга \"за быструю , доброжелательную реакцию в связи с трагедией на \"Курске\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "поблагодарил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Йенса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "краткой"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

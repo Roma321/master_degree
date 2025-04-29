@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщившие РИА \"Новости\" в Центре общественныхсвязей ФСБ РФ , Уржанов - ален преступногомежрегионального бандитского формирований ч международнымисвязями , которое действовало на территории Украины и Молдавии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "формирования"
+    },
+    {
+      "correctReplacement": "член",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

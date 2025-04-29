@@ -1,0 +1,30 @@
+{
+  "text": "Обеспокоенный Харрисон хотящий , чтобы его проинформировали , если речь когда-либо зайдет гб освобождении несостоявшегося убийцы , но этот просьбе была отклонены судьей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "хочет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "отклонена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "эта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "просьба"
+    },
+    {
+      "correctReplacement": "об",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

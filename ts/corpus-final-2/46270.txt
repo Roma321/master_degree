@@ -1,0 +1,20 @@
+{
+  "text": "При повторном проведении первого тура выборов парламент Молдавии не смогу в понедельник избрать новых президентп страны , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

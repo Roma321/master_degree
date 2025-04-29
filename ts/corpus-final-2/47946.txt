@@ -1,0 +1,25 @@
+{
+  "text": "Утверждается , чио некоторые пожертвования поступавшие в партийного кассу нейтрально .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "партийную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "поступали"
+    },
+    {
+      "correctReplacement": "нелегально",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

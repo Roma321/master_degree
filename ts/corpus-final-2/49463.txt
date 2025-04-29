@@ -1,0 +1,20 @@
+{
+  "text": "По информации военных , численность этих боевиков составляющий 4 тысячи люди , и среди них - около 350 леденцов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "чеченцев",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

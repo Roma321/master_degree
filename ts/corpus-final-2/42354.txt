@@ -1,0 +1,25 @@
+{
+  "text": "Программном обеспечение BIOS может перезаписываться , поэтому для устранения дефекта достаточно разосланные исправленное версиж программы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Программное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "разослать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "исправленную"
+    },
+    {
+      "correctReplacement": "версию",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

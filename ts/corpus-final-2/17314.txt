@@ -1,0 +1,20 @@
+{
+  "text": "В защиту компании выступают известные артистам , крупные компании и разгневанный хакеры Ю",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "разгневанные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "артисты"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

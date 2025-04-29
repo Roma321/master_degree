@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает РБК со ссылкой на пресс-службу ВВС РФ , в результате возникну пожара майор Евгении Строителев с сильными ожогами был доставлен в больрицу , где вскоре скончалась .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "скончался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Евгений"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "возникшего"
+    },
+    {
+      "correctReplacement": "больницу",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

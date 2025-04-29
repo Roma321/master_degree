@@ -1,0 +1,30 @@
+{
+  "text": "Артист , стреляемые из арбалетов по яблоку , которое находилось на головах его жены - партнёрша по трюку , промахнулся и рябивший женщину в голову .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "арбалета"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "стреляя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "голове"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "партнерши"
+    },
+    {
+      "correctReplacement": "ранил",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

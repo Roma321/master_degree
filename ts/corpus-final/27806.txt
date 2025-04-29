@@ -1,0 +1,30 @@
+{
+  "text": "Тем заверяет , что перевод не должен негативный сказаться на работе банков , так как эти деньгу задерживавшиеся на их счетах только на один ночь .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "деньги"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "задерживались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Тот"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "одну"
+    },
+    {
+      "correctReplacement": "негативно",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

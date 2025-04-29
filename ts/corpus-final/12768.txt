@@ -1,0 +1,25 @@
+{
+  "text": "Вместе с тем Ткач считаешь , что в этом году мэр Москве Юрий Лужков все же одержит победу на выборы столичного родоначальника .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "correctReplacement": "градоначальника",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

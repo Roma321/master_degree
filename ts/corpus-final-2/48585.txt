@@ -1,0 +1,20 @@
+{
+  "text": "По версию РИА \"Новости\" , \"в ходе снятия показаний Гусинскому пытался доказать , что он не подлежит испанской юрисдикции , так как не является \"резидентом\" этой страны\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "версии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Гусинский"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

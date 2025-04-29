@@ -1,0 +1,25 @@
+{
+  "text": "Напомните , что в начале года на мировом рынках наблюдались существенное падения цены на молоко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "рынке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "падение"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "золото",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

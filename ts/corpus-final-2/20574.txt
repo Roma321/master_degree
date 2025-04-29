@@ -1,0 +1,20 @@
+{
+  "text": "К немалому удивлению пользователей , ситуационные систему MS Windows победила с огромным отрывом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "операционная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "система"
+    },
+    {
+      "correctReplacement": "операционные",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

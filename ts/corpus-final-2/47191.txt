@@ -1,0 +1,25 @@
+{
+  "text": "И там , и там Горах получало бы 200 тысяч долларов в год , но радиостанция , кроме того , предлагает оплаченные вице-президенту переезд в Южную Калифорнии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "оплатить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Калифорнию"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Гор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "получал"
+    }
+  ]
+}

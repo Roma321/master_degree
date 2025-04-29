@@ -1,0 +1,15 @@
+{
+  "text": "Лайнер резко пошедший вниз с высоты 10 километров - уже через 40 секурд он был на высоте 5 километров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "пошел"
+    },
+    {
+      "correctReplacement": "секунд",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

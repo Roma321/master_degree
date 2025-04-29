@@ -1,0 +1,20 @@
+{
+  "text": "Рядом будет построен новый живого дом - он будет располагаться на несколько десятков метров ближе к Мозгве-реке .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "жилой"
+    },
+    {
+      "correctReplacement": "жилого",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Москве-реке",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Группа Mabetex , принадлежащая Беджету Паколли , которого подозреваемые в даче крупных взяток высшему руководству РФ , сворачиваю своей деятельность в Швейцарии , сообщаешь РБК со ссылкой на газету Le Temps .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сворачивает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "подозревают"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

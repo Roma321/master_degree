@@ -1,0 +1,20 @@
+{
+  "text": "Проверка подписных листа и представленных кандидатом сведений заняла один неделю - подписи были сданы в ЫИК 1 февраля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "листов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "одну"
+    },
+    {
+      "correctReplacement": "ЦИК",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В настоящему время в стационарах и больницах город нахожусь 24 раненых , 9 из них в критическом состоянии , у троих - обжёгшее до 50 процентами кожи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "обожжено"
+    }
+  ]
+}

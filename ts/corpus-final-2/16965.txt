@@ -1,0 +1,20 @@
+{
+  "text": "Каждый месяц российский бизнесмены тратите 50 мильонов на представителей власти .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "тратят"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

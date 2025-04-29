@@ -1,0 +1,20 @@
+{
+  "text": "Гукасян был ранена - ему раздробило бедренные костями обеих ннг .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "кости"
+    },
+    {
+      "correctReplacement": "ног",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

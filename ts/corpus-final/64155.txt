@@ -1,0 +1,30 @@
+{
+  "text": "Семь лет назад для того , тобы избежать ареста счетов по аналогичной иску этого фирму , Центробанк РФ был вынужден перевести часть своих валютных резервов в ставшую скандально известную компанию \"Фимако\" , напоминает радиостанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "фирмы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "известной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "аналогичному"
+    },
+    {
+      "correctReplacement": "чтобы",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

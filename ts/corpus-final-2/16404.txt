@@ -1,0 +1,20 @@
+{
+  "text": "Иваненко полагал , что в комиссию должны войти 18 парламентариях - по три от крупных фракций , по две - от средних и один независимый оепутат .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "полагает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "парламентариев"
+    },
+    {
+      "correctReplacement": "депутат",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

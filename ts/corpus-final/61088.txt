@@ -1,0 +1,30 @@
+{
+  "text": "По официальным данным МВД Ингушетии , в четверг в результате обстрела российской военной колонн у селений Галашки в Сунженском районе республики погибли 19 военнослужащих : 16 человек были убиты на месте , трое скончаемся пг дороге в больницы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "больницу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "селения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "колонны"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "скончались"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

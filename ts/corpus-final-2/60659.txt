@@ -1,0 +1,25 @@
+{
+  "text": "США предложим пять миллионов долларов за информацию , способствующую аресту людей , уоторые спланировали и провёдшие нападения на эсминец Cole в октябре 2000 года , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "провели"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "предложили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "нападение"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

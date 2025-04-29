@@ -1,0 +1,15 @@
+{
+  "text": "На трассу Барнаул-Новосибирск в его машину неожиданно врезались выскочифшие на встречную полосу \"Жигули\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "трассе"
+    },
+    {
+      "correctReplacement": "выскочившие",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

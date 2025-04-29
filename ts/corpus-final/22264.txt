@@ -1,0 +1,25 @@
+{
+  "text": "В заговорах с Путиным \"были высказаны предложения о необходимости уменьшить количездво профильных думским комитетов\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "думских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "разговоре"
+    },
+    {
+      "correctReplacement": "разговорах",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "количество",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

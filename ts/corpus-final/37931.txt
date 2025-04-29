@@ -1,0 +1,25 @@
+{
+  "text": "Каждое избирательрегистрировался , приглядывающиеся отпечаток большого пальца левых рупи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Каждый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "левой"
+    },
+    {
+      "correctReplacement": "прикладывая",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "руки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

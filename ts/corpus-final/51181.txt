@@ -1,0 +1,20 @@
+{
+  "text": "Если водитель будет признаны виновным , то ему грозит тюремный заключение сроком до 10 годов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "тюремное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "признан"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Среди пострадавших едящие серьезно раненаы престарелая женщины , а также 18-месячный ребенок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "женщина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    },
+    {
+      "correctReplacement": "раненая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

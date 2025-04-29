@@ -1,0 +1,30 @@
+{
+  "text": "В понедельники апелляционная инстанция Арбитражной суда городов Москвы оставленная бвз изменений решение суда первой инстанции , отказавшего представителям ООО \"Кодак\" в праве на доменное имя Kodak . ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Арбитражного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "оставила"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "города"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

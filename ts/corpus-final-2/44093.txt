@@ -1,0 +1,20 @@
+{
+  "text": "Три российских шпхматиста и четыре шахматистки обеспечили себя место во второй круге чемпионата мира по шахматам ФИДЕ , который проходит в Индии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "втором"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "себе"
+    },
+    {
+      "correctReplacement": "шахматиста",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

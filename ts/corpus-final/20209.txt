@@ -1,0 +1,20 @@
+{
+  "text": "- Приготовь удобную одежду , а также инструментов , карманные фонарики и батарейки , правопреемник , работающий от батареек , и походную аптечку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "инструменты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Приготовьте"
+    },
+    {
+      "correctReplacement": "радиоприемник",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

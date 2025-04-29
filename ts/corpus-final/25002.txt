@@ -1,0 +1,25 @@
+{
+  "text": "По некоторым данным , фармацефтическая корпорация даже обойдет по размерам нефтяной концерны BPAmoco , который сейчас считаешься самих крупной компанией в Великобритании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "концерн"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "считается"
+    },
+    {
+      "correctReplacement": "фармацевтическая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По утверждению истца , на совете директоров не было необходимого кворума , а допрос о назначении Романовы директором не стояло в повестке дня , передающий Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "стоял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Романова"
+    },
+    {
+      "correctReplacement": "вопрос",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

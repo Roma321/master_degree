@@ -1,0 +1,25 @@
+{
+  "text": "В соответствии с законопроектом , который принято в гердом чтении , сельскохозяйственные товаропроизводители независимо от форм собственности переходят на уплату единого земельной налогов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "налога"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "земельного"
+    },
+    {
+      "correctReplacement": "первом",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

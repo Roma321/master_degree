@@ -1,0 +1,20 @@
+{
+  "text": "Сначала ему посетит Баку , а затем южные регионы Рочсии , сообщаемый \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

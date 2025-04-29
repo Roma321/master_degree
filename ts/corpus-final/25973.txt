@@ -1,0 +1,30 @@
+{
+  "text": "Кононов - первый представителя гитлеровской коалиции , которого латвийские властей привлекаете к ответственности по обвинению в военных преступлениях и в геноциде латышской народа .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "привлекают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "латышского"
+    },
+    {
+      "correctReplacement": "антигитлеровской",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

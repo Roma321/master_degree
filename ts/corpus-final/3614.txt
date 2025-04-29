@@ -1,0 +1,30 @@
+{
+  "text": "Представителя талибов заявили , что в пятницу Бин Ладен обратифшийся к лидерам движения с просьбой разрубившие ему покинуть Афганистан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Представитель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "обратился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "разрешить",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "обратившийся",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

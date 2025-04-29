@@ -1,0 +1,30 @@
+{
+  "text": "Капитан судна связался с берегу по радио и сообщил , что швейцарцы чувствующие себя нормально , к террорист очень возбуждена и бегает по палубе , сообщают Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "чувствуют"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "возбужден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "берегом"
+    },
+    {
+      "correctReplacement": "а",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

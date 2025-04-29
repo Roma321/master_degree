@@ -1,0 +1,25 @@
+{
+  "text": "Министр внутренних дела России Владимир Рушайло заявила , что корреспондент радио \"Свобода\" Андрей багрицкий живы и здоров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "жив"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "дел"
+    },
+    {
+      "correctReplacement": "Бабицкий",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

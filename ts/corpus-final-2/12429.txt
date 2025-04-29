@@ -1,0 +1,25 @@
+{
+  "text": "По данным отчета , на вооружении российского Северного флота в настоящий моменты находятся 110 неисправимых АПЛ , на которых установлено 135 атомных реакторов , а в корпусах 72 лотках содержится отработанное ядерное топливо .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "момент"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "лодок"
+    },
+    {
+      "correctReplacement": "неисправных",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "лодках",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

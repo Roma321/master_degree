@@ -1,0 +1,25 @@
+{
+  "text": "Ситуация кажется несколько комичной - возникает вопрос , почему австралиец могут пользоваться Интернетом для получения марки , но фри этом не могли пользоваться тем же средством для пересылки почты ?",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "марок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "австралийцы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "могут"
+    },
+    {
+      "correctReplacement": "при",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

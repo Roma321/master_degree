@@ -1,0 +1,20 @@
+{
+  "text": "Немцов утверждающий , что сокращение бойкота не зависел от распределения постов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "зависит"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "прекращение",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

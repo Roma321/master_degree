@@ -1,0 +1,25 @@
+{
+  "text": "Полицейский офицер Джефф Чайлдз догнала автобус , остановило его и , несмотря на то , что салона был полон , сразу замеченный женщину , сидевшую на заднем сиденье , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "заметил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "догнал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "салон"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "остановил"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По меньшей мерка 40 российских военнослужащим были убившие в Чечне за последние день , прежде всего под Сержень-Юртом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "убиты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дни"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "мере"
+    },
+    {
+      "correctReplacement": "мера",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

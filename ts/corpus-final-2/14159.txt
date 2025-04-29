@@ -1,0 +1,20 @@
+{
+  "text": "По официальной информации , Солонике был убившир в Греции в 1997 году .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Солоник"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "убит"
+    },
+    {
+      "correctReplacement": "убивший",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

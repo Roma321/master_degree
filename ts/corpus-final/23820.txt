@@ -1,0 +1,25 @@
+{
+  "text": "Выявлено 439 похищенных паспортных средств , изъяпы 553 поддельных документов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "документа"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "изъято"
+    },
+    {
+      "correctReplacement": "транспортных",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "изъяты",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

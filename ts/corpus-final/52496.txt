@@ -1,0 +1,30 @@
+{
+  "text": "В среду в аэропорты Цюриха был арестую бизнесмену из Тайваня , подозреваемый в контрабанде компонентов ракет Scud (аналогичных тем , которыми в 1991 году Ирак обстреливали Израиль) с Ливию .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "обстреливал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бизнесмен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "аэропорту"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

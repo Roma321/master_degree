@@ -1,0 +1,25 @@
+{
+  "text": "Согласно официальной версии происшедшего , главу Microsoft застрелило некий политический радикал Алек Хайделл , который хотел такими образом начать фланговых войну .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "застрелил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "классовую"
+    },
+    {
+      "correctReplacement": "классовых",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

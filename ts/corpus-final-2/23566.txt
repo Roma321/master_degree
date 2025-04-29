@@ -1,0 +1,20 @@
+{
+  "text": "118 человек погибли при взрыме на шахте , расположенной в южном Китая , передаёшь BBC .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Китае"
+    },
+    {
+      "correctReplacement": "взрыве",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

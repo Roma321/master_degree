@@ -1,0 +1,25 @@
+{
+  "text": "По словам Синченко , кризис разрешусь во многом благодаря тому , что Минфин России расппряжусь о погашении Камчатской области задолженности федеральной бюджета за топливо на сумму 513 миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "распорядился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "разрешился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "распоряжусь",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

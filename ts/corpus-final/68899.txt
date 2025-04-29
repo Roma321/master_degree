@@ -1,0 +1,25 @@
+{
+  "text": "По данных агентства Reuters , познавательные разрушении могли получить строения , расположенный в пригороде Токио .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "расположенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "разрушения"
+    },
+    {
+      "correctReplacement": "незначительные",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

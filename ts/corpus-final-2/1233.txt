@@ -1,0 +1,20 @@
+{
+  "text": "По мрению Степашина , дополнительное юридическую экспертиза \"должна поставить окончательную точку в этом вопросе\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "юридическая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "дополнительная"
+    },
+    {
+      "correctReplacement": "мнению",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

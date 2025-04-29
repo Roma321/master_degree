@@ -1,0 +1,30 @@
+{
+  "text": "Россия полностью и в срок перевела Международному валютной фонду очередной платеж в размера 117 , 7 миллионов долларов по ранее получившим кредитам , об этом сообщённый во вторник источник в Минфине .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "миллиона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "размере"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "валютному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "полученным"
+    }
+  ]
+}

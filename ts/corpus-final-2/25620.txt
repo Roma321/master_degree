@@ -1,0 +1,25 @@
+{
+  "text": "Это фильм о галилейской , который должен надлежащим образом бороться со злом не только в нашей , но еще и в параллельного реальностей , чтобы сохранить себя и мир .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "полицейском"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "реальности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "параллельной"
+    },
+    {
+      "correctReplacement": "полицейской",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

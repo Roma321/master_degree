@@ -1,0 +1,25 @@
+{
+  "text": "Последним повышение тарифов на услуги вязи МГТС прошло 1 маю 1999 г , когда тариф на пользование телефоном для населения был повышен с 20 до 30 рублей , за внеочередную установку телнфона - с 2000 до 3300 рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Последнее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "мая"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "телефона",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

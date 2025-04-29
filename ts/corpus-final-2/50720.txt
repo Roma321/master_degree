@@ -1,0 +1,20 @@
+{
+  "text": "Курс евро растут , на открытии валютных торбивших в понедельник во Франкфурте-на-Майне за него уже давали 90 , 1 центов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "растет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "цента"
+    },
+    {
+      "correctReplacement": "торгов",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

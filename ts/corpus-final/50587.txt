@@ -1,0 +1,30 @@
+{
+  "text": "Тем неграждан Латвии , которые недовольны отсутствием возможностей участвовать в выборами , жн рекомендовал переехать в Россию , Белоруссию \"и другие страна мира\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "выборах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "возможности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "негражданам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "он",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

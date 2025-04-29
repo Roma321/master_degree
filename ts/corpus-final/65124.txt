@@ -1,0 +1,30 @@
+{
+  "text": "По мнению военного , Басаев сейчас находился на одной из баз боевиков , расположеннче в мясном массиве на границе Веденского , Курчалоевского и Ножай-Юртовского районов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "военных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "расположенных"
+    },
+    {
+      "correctReplacement": "лесном",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "расположенные",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

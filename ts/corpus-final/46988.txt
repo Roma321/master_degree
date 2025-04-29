@@ -1,0 +1,20 @@
+{
+  "text": "Модель ВАЗ-21093 с карбюраторной двигателем подорожало на 1600 рублей и стоит теперь 98150 дублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "подорожала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "карбюраторным"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

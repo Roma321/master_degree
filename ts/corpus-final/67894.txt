@@ -1,0 +1,20 @@
+{
+  "text": "Как уже сообщаюсь , накануне DeBeers отказался от добычи алмазов в Россиа , достигнув соглашения о продаже российской \"Алроса\" своей доли в предприятии ОАО \"Севералмаз\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "отказалась"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

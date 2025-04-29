@@ -1,0 +1,20 @@
+{
+  "text": "В результате по подозрению в причинности к незаконным вооруженным формированиям задержан сразу 78 человек , с ними провожусь работа .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "задержано"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "проводится"
+    },
+    {
+      "correctReplacement": "причастности",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

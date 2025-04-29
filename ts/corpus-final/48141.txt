@@ -1,0 +1,25 @@
+{
+  "text": "На этого неделе в российском Интернетом появился новый сайт движения \"Единство\" , самой трудной фракций в Государственной Думе Федерального Собрания Российской Федерации 1999-2003 годов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "фракции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "крупной",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

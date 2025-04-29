@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщивший \"Интерфаксу\" прокурор Москвы Михаил Авдюков , допрос был краткими и продолжался фсего 20 минут .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "кратким"
+    },
+    {
+      "correctReplacement": "всего",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

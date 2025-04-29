@@ -1,0 +1,25 @@
+{
+  "text": "очухаешься , что пациент незадолго го того провел удачного контрабандную сделку , продав 15 ящиков спиртного в Саудовскую Аравию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "удачную"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Оказалось"
+    },
+    {
+      "correctReplacement": "Окажусь",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

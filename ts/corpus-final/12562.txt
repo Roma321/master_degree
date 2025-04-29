@@ -1,0 +1,25 @@
+{
+  "text": "Инициатива образование в составе фсероссийских Федерации нового субъекта принадлежит субъекту РФ , территориальные границы которого в результате подлежат изменению .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "образования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Российской"
+    },
+    {
+      "correctReplacement": "Российских",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "всероссийских",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За четыре годом ракеты нынешняя Госдума приняли 1036 федеральных законов , 715 из них вступим в свою законную силу .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "вступили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "приняла"
+    },
+    {
+      "correctReplacement": "работы",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

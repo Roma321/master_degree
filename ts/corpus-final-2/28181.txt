@@ -1,0 +1,25 @@
+{
+  "text": "Государственная космодром \"Свободный\" был создан в 1994 гооу на фазах снятой с боевого дежурства и расформированной дивизии ракетных войск стратегического назначения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Государственный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "базе"
+    },
+    {
+      "correctReplacement": "базах",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "году",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

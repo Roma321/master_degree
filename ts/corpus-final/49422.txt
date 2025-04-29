@@ -1,0 +1,20 @@
+{
+  "text": "Мнимому убийце удалось убедить Копаевым , что Хлиаоненкова мертв .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Копаева"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Хлимоненков"
+    },
+    {
+      "correctReplacement": "Хлимоненкова",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

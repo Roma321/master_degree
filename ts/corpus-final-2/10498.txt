@@ -1,0 +1,20 @@
+{
+  "text": "\"Авиакомпания \"Волга-Днепр\" осущездвляет более 53 процентов мирового объёмов авиаперевозок сверхтяжелых и крупногабаритных груза .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "грузов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "объема"
+    },
+    {
+      "correctReplacement": "осуществляет",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Новым законопроект также запрещал исмользовать в промышленных целях шкуры этих животных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "запрещает"
+    },
+    {
+      "correctReplacement": "животных",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "использовать",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

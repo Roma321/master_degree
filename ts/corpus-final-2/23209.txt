@@ -1,0 +1,25 @@
+{
+  "text": "На европейских торгах в среду курс евро составил 0 , 8859 доллара за евро и 95 , 47 иен за евро , это максимальные показатель за последние три неделе , сообщающий Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "максимальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "недели"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

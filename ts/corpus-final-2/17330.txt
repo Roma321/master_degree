@@ -1,0 +1,20 @@
+{
+  "text": "В августе следственное управление ФСБ РЛ предъявлю ему обвинению по статье 276 УК РФ (\"шпионаж\") , которая предусматривает наказание в виде лишения свободы на срок от 10 до 20 лет .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "предъявило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "обвинение"
+    },
+    {
+      "correctReplacement": "РФ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Первый ищ 32 эсминца DD-21 , которые хочет приобрести министерство оборок США , будет заложен в 2005 году и закончен к 2010 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "обороны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "эсминцев"
+    },
+    {
+      "correctReplacement": "оборон",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "из",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

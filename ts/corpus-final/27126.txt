@@ -1,0 +1,30 @@
+{
+  "text": "В число требований , в частностью , входят принятие поправок к законом о банкротстве , заключение контрактов на международный аудит всего внебюджетных фондов , отмена стопроцентного депонирования средства при платежах по имчортным контрактам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "закону"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "импортным",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

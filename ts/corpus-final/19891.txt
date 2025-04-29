@@ -1,0 +1,20 @@
+{
+  "text": "Опросом CBS News проворчавший 17-19 декабря ; было опрошено 1026 взрослых американцев по всей стране .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "проводился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Опрос"
+    },
+    {
+      "correctReplacement": "проводившийся",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

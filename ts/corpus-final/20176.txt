@@ -1,0 +1,25 @@
+{
+  "text": "Они были обвинены в исследовании сект для подрывной деятельности против государства , а тагже в разглашении государственной тайны , касающейся правительственного кампании против Фалуньгун .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "правительственной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "секты"
+    },
+    {
+      "correctReplacement": "использовании",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

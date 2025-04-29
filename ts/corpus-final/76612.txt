@@ -1,0 +1,30 @@
+{
+  "text": "Мотивируя принятое в понедельник решение , председатели Верховного суда Уильямы Рейнгвисты отметила , что оспариваемая норма уже является \"частью национальной культуры\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Рейнквист"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Уильям"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "председатель"
+    },
+    {
+      "correctReplacement": "Рейнквисты",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

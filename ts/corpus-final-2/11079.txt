@@ -1,0 +1,25 @@
+{
+  "text": "Среда ее клиентов - Министерство нестрашных дел РФ , Налоговая инспекция по МО , Управления Федеральную почтовой связи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Управление"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "correctReplacement": "иностранных",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Среди",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

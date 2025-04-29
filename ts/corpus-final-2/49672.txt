@@ -1,0 +1,20 @@
+{
+  "text": "Заявление подписавшие президент ПЕН-центра Андрей Битовы , вице-президенты Аркадий Ваксберг и Фазиль Искандер , щенеральный директор Александр Ткаченко .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Битов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "подписали"
+    },
+    {
+      "correctReplacement": "генеральный",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

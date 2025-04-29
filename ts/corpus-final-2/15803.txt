@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , сообщили в пресс-центре , в районе населённого пункта Рошни-Чу уничтожившие два боевика - снайпер и гранатомёочик .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "населенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "гранатометчик"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "уничтожены"
+    },
+    {
+      "correctReplacement": "гранатомётчик",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

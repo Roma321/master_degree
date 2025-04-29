@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщившие \"Интерфаксу\" в прокуратуре Коми , тела 71-летнего мужчина , его 67-летней жены и снимавшей у них комнату 52-летней женщинах были найдены дочерью пожилых супругов в их квартире по проспекту Бумажников ы Эжвинском районе Сыктывкара .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "женщины"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "мужчины"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

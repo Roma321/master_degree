@@ -1,0 +1,20 @@
+{
+  "text": "Теперь же BT заявляет о той , что хочет получить слоями деньги назад .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "своими",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

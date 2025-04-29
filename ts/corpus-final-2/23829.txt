@@ -1,0 +1,25 @@
+{
+  "text": "В качества главного примера автор доклада сослался на беспрецедентную по открытости дискуссии о положении в Чечне , состоявшуюся 21 сентября в стенах Госэумы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "качестве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "дискуссию"
+    },
+    {
+      "correctReplacement": "стенах",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "Госдумы",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам представителя мэрию , в субботу в приемную Махчаева приду человека , который попросил охранников передать бэру видеокассету .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мэрии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "пришел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "мэру",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

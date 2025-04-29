@@ -1,0 +1,35 @@
+{
+  "text": "В результате столкновения водитель одного из афтобусов и одно студент погибшие , ранениях различной степени тяжести получим , по разным данным , от 106 до 113 студентов , пятеро из них - в тяжёлом состоянии .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 33,
+      "correctReplacement": "тяжелом"
+    },
+    {
+      "correctReplacement": "автобусов",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

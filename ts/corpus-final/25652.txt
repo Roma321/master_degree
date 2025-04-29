@@ -1,0 +1,25 @@
+{
+  "text": "Ельцин считаю , что Путин - сильный премьер с огромным потенциалом , а его ему доверяет\" , - сказал пресс-секретарь глав государства .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как передавал британская The Sun во вторник , в пропавшей компьютере содержалась информация об агентах , работающих в зарубежных саранчах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "пропавшем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "странах",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

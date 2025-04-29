@@ -1,0 +1,25 @@
+{
+  "text": "Им заявил во вторник \"Интерфаксу\" , что действия мэрии при заключениях сделки с медиа-холдингом были вызваны необходимостью сохранить средства столичного блджета в условиях дефолтов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "заключении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "дефолта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "бюджета",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

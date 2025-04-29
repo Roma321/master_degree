@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC News , машина , в которой находились Кахане , его жена и пятеро детей , попавшая под обстрел палестинцев неподалеку от Рамалле и опрокинулась в кюветы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "попала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "Рамаллы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "кювет"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данные , причиной пожара стало неосторожное обращение с огнем , в результате фто загоревшийся мусор под лестницей офиса обувного магазина , расположенного на первой этаже здания .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "загорелся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "вто",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Министерство иностранных дел США призвало граждан страны отлучившие поездки в Йемен , Израиле , Палестину и сектор Газов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Израиль"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Газа"
+    },
+    {
+      "correctReplacement": "отложить",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

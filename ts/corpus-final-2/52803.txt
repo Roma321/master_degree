@@ -1,0 +1,25 @@
+{
+  "text": "Джонс отказалась работать с фирмой Tonic PR после того , как его фото в обнаженном видах появилось на страницах журнала для гека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "виде"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "геев"
+    },
+    {
+      "correctReplacement": "гея",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщением Reuters , на улицы вышли более двух тысяч человек . Протестующие нёсшие плакаты , на которых были написавшие требования отправить в отставку мэра Нью-Йорка Рудольфа Дюулиани .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "несли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "написаны"
+    },
+    {
+      "correctReplacement": "Джулиани",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

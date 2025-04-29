@@ -1,0 +1,25 @@
+{
+  "text": "Рано утром во вторник в продуктовом магазинах на юге Москву , у рамов кольцевой дороги (Липецкая улица , дом 34 ) , произошла перестрелка между преступной группой , \"специализировавшейся\" на квартирных разбоях , и милиционерами , которые собирались задержать группу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "самой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "магазине"
+    },
+    {
+      "correctReplacement": "самих",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

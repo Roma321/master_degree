@@ -1,0 +1,30 @@
+{
+  "text": "гак сообщили представители авиакомпании Air France , по текущей версии следствия , возгорание произошло в результата того , что при разбеге самолета по взлетной полосе у него лопнули две покрышки на шасси с левой стороны , что вызвало раздробление колёс , обломки которого пробил обшивку левого крыла , внутри котором расположены топливные баки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 49,
+      "correctReplacement": "которого"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "колеса"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 43,
+      "correctReplacement": "пробили"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

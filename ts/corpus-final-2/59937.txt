@@ -1,0 +1,20 @@
+{
+  "text": "Охранники потушенные огонь , но прибывшие вскоре врачи рывшие вынуждены констатировать смерть неизвестным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "неизвестного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "потушили"
+    },
+    {
+      "correctReplacement": "были",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Например , на работодателя , задерживаемого зарплату более чем на месяцы , налагается штраф в сумме 20-30 минимальных размероф оплаты труда (МРОТ) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "задерживающего"
+    },
+    {
+      "correctReplacement": "размеров",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

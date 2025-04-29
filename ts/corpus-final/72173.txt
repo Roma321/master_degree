@@ -1,0 +1,25 @@
+{
+  "text": "Переговоры лидерами КНДР и юный Кореи проходимые в дружественной обстановке , и обе руководителя \"вели честный и открытый диалог\" , сообщила журналистам официальный представитель южнокорейскогопрезидента Пак Сун Сук .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "лидеров"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "оба"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "проходили"
+    },
+    {
+      "correctReplacement": "Южной",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

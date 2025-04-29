@@ -1,0 +1,25 @@
+{
+  "text": "Матч итальянцев с чешскошо \"Сигмой\" подлечился более драматичными .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "чешской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "драматичным"
+    },
+    {
+      "correctReplacement": "получился",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "чешского",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На сервере Индии в поезде произошёл взрыв : 10 человек погибли , 90 ранившие , многие из них тяжело .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "севере",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

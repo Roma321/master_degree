@@ -1,0 +1,15 @@
+{
+  "text": "По данных милиции , аноним , сообщивший о бомбе , звонил с городских телефона-автомата , его пытаются найти .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "городского"
+    }
+  ]
+}

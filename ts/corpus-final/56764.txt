@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что в состав экипажа Atlantis входит российское космонавт Юрий Усачев , аже дважды работающий на орбитальной станции \"Мир\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "работавший"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

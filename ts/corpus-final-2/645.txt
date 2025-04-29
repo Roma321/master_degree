@@ -1,0 +1,30 @@
+{
+  "text": "Младший натужный сотруднике ЦНИИ Министерства обороны России бывшего подполковник Сергей Авраменко приговоривший к четырем годам заключения в колонии строгого режима за государственных измену в форме шпионажа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "государственную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сотрудник"
+    },
+    {
+      "correctReplacement": "научный",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

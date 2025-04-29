@@ -1,0 +1,20 @@
+{
+  "text": "Это дебет Мендесоф в кино .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Мендеса"
+    },
+    {
+      "correctReplacement": "дебют",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Мендесов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

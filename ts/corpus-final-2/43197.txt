@@ -1,0 +1,20 @@
+{
+  "text": "Число пострадавших невелик , потому что в момент аварии состав двигаюсь со скоростью около 25 километров в чат .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "двигался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "невелико"
+    },
+    {
+      "correctReplacement": "час",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

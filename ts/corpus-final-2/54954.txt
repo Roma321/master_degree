@@ -1,0 +1,25 @@
+{
+  "text": "Сотрудники ГИБДД отмечают , что в промежуток с 17 : 00 до 19 : 00 хаос в дорожное движение вносят государственные чиновники на машинах с мигалками , которые , не разбирающие дороги , ехали по встречными полосам , стопоря движение на крупных перекрёстками .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 35,
+      "correctReplacement": "встречным"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "едут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "разбирая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 42,
+      "correctReplacement": "перекрестках"
+    }
+  ]
+}

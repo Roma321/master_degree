@@ -1,0 +1,20 @@
+{
+  "text": "Из городской бюджета на выплату надбавок учителям в 2000 году будет вылеченное дополнительно 252 , 4 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "городского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "выплаты"
+    },
+    {
+      "correctReplacement": "выделено",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

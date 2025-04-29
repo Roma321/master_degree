@@ -1,0 +1,25 @@
+{
+  "text": "ЦБ принял такую форму возвращения долга и обеспечивший переводы в долларнвое выражение суммы кредит на 5 , 7 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "перевод"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обеспечил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "кредита"
+    },
+    {
+      "correctReplacement": "долларовое",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

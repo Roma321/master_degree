@@ -1,0 +1,25 @@
+{
+  "text": "Например , по утверждениям представителей корпораций , Microsoft теперь готова позволить производителям персональных компьютеров вносимые свои изменения в операционную систему Windows , сообщаю CNN .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 22,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "вносить"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "корпорации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "утверждению"
+    }
+  ]
+}

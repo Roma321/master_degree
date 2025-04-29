@@ -1,0 +1,25 @@
+{
+  "text": "Каждый избирательная уяасток в Эстонией рассчитана на 12 тысяч человек против 3-4 тысяч избирателей в России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "рассчитан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "избирательный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Эстонии"
+    },
+    {
+      "correctReplacement": "участок",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

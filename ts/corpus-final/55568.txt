@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас же матч катился к дополнительным времени , ведь и двух недели назат в Лиссабоне была зафиксирована ничья (1 : 1) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "дополнительному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "две"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

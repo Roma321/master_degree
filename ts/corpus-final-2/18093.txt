@@ -1,0 +1,25 @@
+{
+  "text": "Суде исключил за недоказанностью вменившие Седову органами бедствий \"насильственные действия сексуального характера\" , поскольку обвинения основывались на утверждениях самого преступника .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "вмененные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "следствия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Суд"
+    },
+    {
+      "correctReplacement": "следствий",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

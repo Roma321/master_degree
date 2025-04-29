@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил заместитель генпрокурор , в ближайшее время уголовное дело в отношении бывшего премьер-министра будет направлено в сут , и в течении 24 дней должна начаться судебное разбирательство .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "генпрокурора"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "должно"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "течение"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Основные преступления совершаются в области авторских и смежных прав , а также в сфер доступ в закрытые информационный системы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сфере"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "информационные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "доступа"
+    },
+    {
+      "correctReplacement": "сферах",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

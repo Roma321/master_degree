@@ -1,0 +1,20 @@
+{
+  "text": "\"Я разочарован , что спустя более чем три с половиной годоф ведения моего дела , Джанет Рино заявляет , что ей нужно еще время чтоб рассмотреть его\" , - говорит сам заключенный .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "чтобы",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "годов",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

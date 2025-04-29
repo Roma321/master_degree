@@ -1,0 +1,30 @@
+{
+  "text": "В УФСП полагают , что Арсанов прибыла для встречи с чеченской лидером Асланом Масхадова , который скрываюсь в горах Чечни , \"для корректировки дальнейших действий с привлечением средств и наемников из-за рубежа\" . �ообщению агентства Reuters , США в субботу официально проинформировали Пекин о результатах расследования этого инцидента .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "скрывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Масхадовым"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "чеченским"
+    },
+    {
+      "correctReplacement": "УФСБ",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

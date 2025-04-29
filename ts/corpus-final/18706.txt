@@ -1,0 +1,15 @@
+{
+  "text": "Премьер-министр Владимиру путин встречался с лидерами \"Единства\" , КПРФ , ОВР , СПС , \"Блока Жириновского\" и \"Яблока\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

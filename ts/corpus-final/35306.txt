@@ -1,0 +1,20 @@
+{
+  "text": "По обоим фактам возбуждено головнкю дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "уголовное"
+    },
+    {
+      "correctReplacement": "уголовную",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "головную",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

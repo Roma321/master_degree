@@ -1,0 +1,25 @@
+{
+  "text": "Об этом 18 октября объявлю Игорем Ермоленко , первый заместитель генерального директора \"Московского метрополитена\" , на заседании коллегии Министерства транспорпов по поводу \"проблемы-2000\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Игорь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "объявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "транспорта"
+    },
+    {
+      "correctReplacement": "транспортов",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

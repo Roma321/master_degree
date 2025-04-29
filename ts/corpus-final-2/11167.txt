@@ -1,0 +1,25 @@
+{
+  "text": "Эту точку зрения разделял и Организации по безопасности и сотрудничеству в Европе , которая также не намерен признаваоь результаты выборов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Организация"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "намерена"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "разделяет"
+    },
+    {
+      "correctReplacement": "признавать",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

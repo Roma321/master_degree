@@ -1,0 +1,20 @@
+{
+  "text": "По его пловам , ежедневно для переселенцев из других районов России доставляешься около 2 , 5 тысяч тонн продовольствие , в том числе мясо , молоко , сахар , масло , чай и другое .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "доставляется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "продовольствия"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

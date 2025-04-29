@@ -1,0 +1,30 @@
+{
+  "text": "критическое агентство НАСА назвало имя израильского космонавтов , который принятый участие в полете шаттла в 2001 годы , сообщаемый AP .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "космонавта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "примет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "Космическое",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

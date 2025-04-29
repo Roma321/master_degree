@@ -1,0 +1,30 @@
+{
+  "text": "В немы говорится , что американцам , которые путешествовали или живёт за рубежом , следовало быть предельно осторожными , так как иазведка доложила , что атакам будут подвергаться преимущественно американские граждане .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "нем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "живут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "путешествуют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "следует"
+    },
+    {
+      "correctReplacement": "разведка",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

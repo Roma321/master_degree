@@ -1,0 +1,35 @@
+{
+  "text": "Дела в том , что если документ стал законом и Россия не смогший выплаченные долга , она автоматически утратит нынешний нормальный торговый статус , а на ее товары в Америке могут бчть введены повышенные тарифы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "выплатить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Дело"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "долгов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "станет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сможет"
+    },
+    {
+      "correctReplacement": "быть",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

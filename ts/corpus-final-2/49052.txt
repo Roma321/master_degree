@@ -1,0 +1,20 @@
+{
+  "text": "В субботину Седлака посетило сштрудник американского посольства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "посетил"
+    },
+    {
+      "correctReplacement": "субботу",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "сотрудник",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

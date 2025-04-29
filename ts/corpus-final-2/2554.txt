@@ -1,0 +1,25 @@
+{
+  "text": "В поддершку этого документа проголосованные 234 депутата , против - 111 , восемь человек воздержимся , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "воздержались"
+    },
+    {
+      "correctReplacement": "поддержку",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник , 25 декабря , около 4 часов утра по московскому времени в милиции притупившее сообщение от водителя пассажирской автобуса маршрута 512 , принадлежащего 18 автобусным парку столицы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "автобусному"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "пассажирского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "милицию"
+    },
+    {
+      "correctReplacement": "поступило",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

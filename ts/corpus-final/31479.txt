@@ -1,0 +1,25 @@
+{
+  "text": "Хабарофский губернатор твердо заявила в интервью НТВ , что речь о теракте не шёл - причине утечки и взрыва газа был не надпил на газопроводе , а разошедшаяся муфта .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "причиной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "идет"
+    },
+    {
+      "correctReplacement": "Хабаровский",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

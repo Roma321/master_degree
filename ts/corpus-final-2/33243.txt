@@ -1,0 +1,30 @@
+{
+  "text": "фрунзенские и российские спасатели опознанные теле 45 человека , погибших в результате катастрофы российского самолета вблизи Батуми , передаёт НТВ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "тела"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "опознали"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "Грузинские",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

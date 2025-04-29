@@ -1,0 +1,25 @@
+{
+  "text": "В районе пожара находится развязка лиеиями неглубокого бухарестского метрополитену , газовых коммуникации и другие объекты городского жизнеобеспечения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "линий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "газовые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "метрополитена"
+    },
+    {
+      "correctReplacement": "линиями",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

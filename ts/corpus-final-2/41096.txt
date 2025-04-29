@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время минимальный размер оплаты труда в России установивший в размере 132 рулях , передаваемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "установлен"
+    },
+    {
+      "correctReplacement": "рублях",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

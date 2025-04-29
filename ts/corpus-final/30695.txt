@@ -1,0 +1,25 @@
+{
+  "text": "По данным РБК , \"Совфрахт\" заказали независпмую экспертизу у международные сюрвейеров ; свое исследование проведут и боснийские специалисты .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "заказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "международных"
+    },
+    {
+      "correctReplacement": "российские",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "независимую",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

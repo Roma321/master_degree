@@ -1,0 +1,30 @@
+{
+  "text": "Два влена экипажа корабля Endeavour , пристыкованной к Международного космических станции , совершили во вторник второй выхода в открытый космос .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "космической"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "пристыкованного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "выход"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Международной"
+    },
+    {
+      "correctReplacement": "члена",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

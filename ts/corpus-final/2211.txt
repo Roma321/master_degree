@@ -1,0 +1,20 @@
+{
+  "text": "Один из лидера \"Яблока\" расценил происшедшее как \"произвол и нарушение законодательства о выборах в части звободе агитации\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "лидеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "свободы"
+    },
+    {
+      "correctReplacement": "свободе",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

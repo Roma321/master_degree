@@ -1,0 +1,35 @@
+{
+  "text": "Около 80 процентов крупных предприятий микроэлектроника , действующих в стране , вошедшие в состав новых холдинг \"Российская электроника\" , который создан путем объединения госпакетов крупнейших предприятий радиоэлектронная промышленности для повышении эффективности отрасли .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "вошли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "повышения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "радиоэлектронной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "холдинга"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "радиоэлектроники",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

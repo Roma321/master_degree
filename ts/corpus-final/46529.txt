@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщённый радиостанцией \"Эхо Москвы\" председатель совета директороа ОАО Наиль Исмаилов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "радиостанции"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "директоров",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

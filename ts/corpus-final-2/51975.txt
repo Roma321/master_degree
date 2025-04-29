@@ -1,0 +1,25 @@
+{
+  "text": "В интервью Ленте . Ру крановщик сообщивший , что причиной аварии стану сценическое несовершенство крана , и попытался детально описанные суть неисправности .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "стало"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "описать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "техническое",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

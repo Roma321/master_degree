@@ -1,0 +1,25 @@
+{
+  "text": "Российский премьер сообщил также , что в ходе встрпч и переговоров в Осло представленный определенные материал , доказывающие представления чеченских террористов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "представил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "материалы"
+    },
+    {
+      "correctReplacement": "преступления",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "встреч",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

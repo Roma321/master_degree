@@ -1,0 +1,25 @@
+{
+  "text": "Мужчина покажусь портье подозрительным , и он вызвал полицию , но та прибуду , когда в приемной кабинета ректоров уже бегавшие два трупа .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "показался"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "прибыла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "ректора"
+    },
+    {
+      "correctReplacement": "лежали",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "Тем не менее , журналистам удавшееся узнавшие , что невесте чуть за двадцать , ей выросла в поддоне в семье известного кардиолога , имеет научное степени одного из британских университетов в области компьютерных технологии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "технологий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "удалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "научную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "степень"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "она"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "узнать"
+    },
+    {
+      "correctReplacement": "Лондоне",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

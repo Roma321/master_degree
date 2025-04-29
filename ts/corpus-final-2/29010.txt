@@ -1,0 +1,30 @@
+{
+  "text": "Напомнившие , что экс-министр обвиняется Следственным комитетом при МВД РФ в неоднократному хищении вверившего ему имущества в крупных размере , совершенном в составе организовавшей группы , получении взяток , а также в незаконном хранении огнестрельного оружия и боеприпасов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "организованной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "вверенного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "неоднократном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "размерах"
+    }
+  ]
+}

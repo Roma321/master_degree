@@ -1,0 +1,30 @@
+{
+  "text": "Бывший губернаторы американского штата Луизиана , известный в США политик Эдвин Эдвардсу во вторник был признаю виновным в вымогательстве и посредничестве , связанными с лицензированием игорной бизнеса .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "признан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "губернатор"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "игорного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Эдвардс"
+    },
+    {
+      "correctReplacement": "мошенничестве",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

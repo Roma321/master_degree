@@ -1,0 +1,20 @@
+{
+  "text": "В Яффе жертвами стихии стали несколько человек , в том число - маленький ребенок , упавшее с крыши дома , где его семья спасалась от прибывающей врды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "упавший"
+    },
+    {
+      "correctReplacement": "воды",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

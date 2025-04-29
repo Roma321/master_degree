@@ -1,0 +1,25 @@
+{
+  "text": "Весь первый этаж отвёдший под ресторан с кошерной пищей , второй и третьи занимал синагога , которая сможет принять более двух тысяч верующего .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "третий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "верующих"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "занимает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "отведен"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как стало известно РИА \"Новости\" из срочников в СБ , во второй половине дней Иванова проведет совещания со своими заместителями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "дня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "совещание"
+    },
+    {
+      "correctReplacement": "источников",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

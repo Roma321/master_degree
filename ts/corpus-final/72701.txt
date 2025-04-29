@@ -1,0 +1,30 @@
+{
+  "text": "Изъяты также три автомата , 22 охотничьего ружья , бо.ее четырех тысяч патронов к стрелковому орудию , 40 артиллерийских снарядах , 27 ручных гранат , четырём фугаса , 15 противотанковых мин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "четыре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "снарядов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "охотничьих"
+    },
+    {
+      "correctReplacement": "оружию",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "более",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

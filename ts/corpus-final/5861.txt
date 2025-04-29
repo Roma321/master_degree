@@ -1,0 +1,35 @@
+{
+  "text": "Если арендатор или собственник нарушивший градостроительных нормативные , вся полнота ответственности и любом случае ложится на собственника , который имеющий договор с земельными комитетом Москвы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "земельным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "градостроительные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "нарушит"
+    },
+    {
+      "correctReplacement": "нормативы",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

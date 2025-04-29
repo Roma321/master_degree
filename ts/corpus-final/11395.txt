@@ -1,0 +1,25 @@
+{
+  "text": "Эдуард Россель одержавший побелу на губернаторских выборах и остался губернатором Свердловской области на липких четыре года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "одержал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "ближайшие"
+    },
+    {
+      "correctReplacement": "ближайших",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "победу",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

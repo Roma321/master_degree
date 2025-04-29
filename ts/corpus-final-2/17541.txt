@@ -1,0 +1,20 @@
+{
+  "text": "К несчастью , Тамерлана умерли тако и не побывав в Париже .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Тамерлан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "умер"
+    },
+    {
+      "correctReplacement": "так",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

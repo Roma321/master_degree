@@ -1,0 +1,25 @@
+{
+  "text": "Капитане полиции городов Бербэнк Ларри Коx так прокомментировало случившееся : \"Нам повезло , что на шоссе было не много машин - ведь эти самолеты гораздо крупнее , чем машины Д \"",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Капитан"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "прокомментировал"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

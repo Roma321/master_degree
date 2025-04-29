@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщили РБК во временной одделе внутренних дела районов , этой же ночью бандиты пытались убитые родственника имама , работавшего в местной милиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "района"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "временном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "убить"
+    },
+    {
+      "correctReplacement": "отделе",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

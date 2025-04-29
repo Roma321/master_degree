@@ -1,0 +1,30 @@
+{
+  "text": "Между тем , кака сообщу белградская агентство \"Бета\" , в понедельник лидеры косовским сербов в Приштине приняли решение сформировать свои сопздвенные силы безопасности для охраны населенных сербами районов , поскольку войска KFOR во главе с НАТО не способны остановить бесчинства албанцев .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "сообщило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "косовских"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "белградское"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "собственные",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Оборудование для этого центра боевиками пытаются пареправленные в Чечню из Грузии , сообщают военные разведчиках .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "переправить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "разведчики"
+    },
+    {
+      "correctReplacement": "переправленные",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Москву прилетело известнейший режиссёр , второе лицо в польском кино после Анджеев Вайды - Кшиштоф Занусси .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прилетел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Анджея"
+    },
+    {
+      "correctReplacement": "режиссер",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

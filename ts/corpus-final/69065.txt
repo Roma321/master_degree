@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый ИТАР-ТАСС со ссылкой на Управление внутренних дел мвф России по Чеченской Республике , Касумов был задержу на одном из блокпостов , когда попытался выйти из сёл и предъявил поддельную временную справку гражданине России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "села"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "гражданина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

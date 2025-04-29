@@ -1,0 +1,25 @@
+{
+  "text": "Предыстория фильма повторяемый на свой манер историю убийства Кеннеди : во время благотворительного веера в парке Мак-Артура в Лос-Анджелесе любимый программистами Билл Гейтс падает , сражённый пулей таинственной убийцы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "повторяет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "таинственного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "сраженный"
+    },
+    {
+      "correctReplacement": "вечера",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

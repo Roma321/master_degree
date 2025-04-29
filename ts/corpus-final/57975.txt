@@ -1,0 +1,20 @@
+{
+  "text": "видимость арестую аппаратуры , по информации БНФ , составляет более 10 тысяч долларах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "арестованной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "Стоимость",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

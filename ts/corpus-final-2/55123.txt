@@ -1,0 +1,25 @@
+{
+  "text": "Как горестное , накануне принято решение о полная выплате вкладов в СБС-Агро ветеранам Великой Отечественных войны , инвалидам I и II группы , а также пенсионерам , достигшим 70-летней возраста .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "полной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "70-летнего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Отечественной"
+    },
+    {
+      "correctReplacement": "известно",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

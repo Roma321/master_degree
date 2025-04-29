@@ -1,0 +1,35 @@
+{
+  "text": "Однако , как сообщил корреспонденту Lenta . Ru пресс-секретарь Торговых дома Валерий Бикмухамбетов , Смирновой дейтсвительно мывшая оказан медицинская помощи , она переживу эмоциональное шок .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "оказана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Торгового"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "эмоциональный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "помощь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "пережила"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

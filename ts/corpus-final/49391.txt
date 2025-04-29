@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявлерный в понедельник РИА \"Новости\" министр обороны России Игорь Сергеевы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Сергеев"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "заявленный",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Хольцман также сказавший , что он обладает всей дезинформацией , в том числе знает , откуда шли запрос .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сказал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "запросы"
+    },
+    {
+      "correctReplacement": "информацией",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

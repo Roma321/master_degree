@@ -1,0 +1,25 @@
+{
+  "text": "В Чечне , в район станицы Микенская Наурского района , была обстрелявшая колонна внутривенных войсках МВД РФ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "обстреляна"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "войск"
+    },
+    {
+      "correctReplacement": "внутренних",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

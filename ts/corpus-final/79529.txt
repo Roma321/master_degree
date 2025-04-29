@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщалось , правительство России отказалось от аналогичной идея повысившие пенсионное возраст россиян до 65 годов - на пять лет для мужчинам и на десять - для женщин .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "пенсионный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "идеи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "мужчин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "повысить"
+    }
+  ]
+}

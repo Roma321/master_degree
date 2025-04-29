@@ -1,0 +1,20 @@
+{
+  "text": "Четвертое такие устройство , обслуженное полицией рядом с местом происшествия , взорваться не успело , и было эвакуирован саперной службой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "такое"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "эвакуировано"
+    },
+    {
+      "correctReplacement": "обнаруженное",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

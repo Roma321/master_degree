@@ -1,0 +1,25 @@
+{
+  "text": "Компания считают , что ей удается сохраняемые столь высокий уровень доходность за сет увеличения продаж компьютеров высокой мощности , которые используются ведущими провайдерами услуг Интернета и интернет-компаниями , такими как America Online Inc . и концерном онлайновых продаж eBay Inc .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "сохранять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "доходности"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

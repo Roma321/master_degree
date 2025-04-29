@@ -1,0 +1,25 @@
+{
+  "text": "В центре - гравюра с изображением памятный Ярославу Мудрому в Ярославлю , отпечатавшая темно-синим цветом , на фоне памятного сооружения в виде часовни и Ярославского Кремля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "памятника"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "отпечатанная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Ярославле"
+    },
+    {
+      "correctReplacement": "памятник",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

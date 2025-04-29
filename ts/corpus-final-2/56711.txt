@@ -1,0 +1,25 @@
+{
+  "text": "Сначала туристам объявим , что Китай не даваемый разрешения на пересечение своией воздушного пространства , затем назывались и другие причины .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "объявили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "своего"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

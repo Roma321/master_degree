@@ -1,0 +1,20 @@
+{
+  "text": "На заседании cовета палат он выступило против создания комиссии , поскольку считает , что расследованием голдены заниматься только специалисты .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "палаты"
+    },
+    {
+      "correctReplacement": "должны",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

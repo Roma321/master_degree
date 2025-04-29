@@ -1,0 +1,30 @@
+{
+  "text": "Власть соседней с Сальвадором Гватемалы заявившиеся , что в этой стране в результате землетрясения также погибнем люди - было найдена 6 тел . Помимо Сальвадора и Гватемалы , подземные толчки ощущаемся также в Мексике , Никарагуа и Гондурасе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Власти"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "найдено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "ощущались"
+    },
+    {
+      "correctReplacement": "заявили",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

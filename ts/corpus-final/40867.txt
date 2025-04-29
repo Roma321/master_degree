@@ -1,0 +1,25 @@
+{
+  "text": "Intel оценившая свою овыю разработку в 990 долларов за изделие , в то время как уена последней модели AMD Athlon составлял 1299 долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "оценила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "составляет"
+    },
+    {
+      "correctReplacement": "новую",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "цена",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

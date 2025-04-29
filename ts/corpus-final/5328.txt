@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает Reuters , любители конспирологических теорий давно выдвигаем версии , согласно которым израильская спецслужба Шин Бет , вместо той , чтобы защищать премьера , сама была вовлечена в убийздва .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "выдвигают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "убийство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "убийства",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

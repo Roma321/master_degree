@@ -1,0 +1,25 @@
+{
+  "text": "В данном случаях , когда пользователи упомянутых поисковых машинах задавали ключевые слова \"playboy\" или \"playmate\" , являющиеся торговыми баркаыи Bunny Empire , вместе с результатами поиска появлялись баннеры порнографических сайтов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "машин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "случае"
+    },
+    {
+      "correctReplacement": "марками",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "барками",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В среду россиянами заползавшие две \"золота\" , в четверг - еще три .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "россияне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "завоевали",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

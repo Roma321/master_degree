@@ -1,0 +1,20 @@
+{
+  "text": "Губернатор не исключу , что сообщений о его аресте связаны с предсооящими в декабре губернаторскими выборами .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "исключил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сообщения"
+    },
+    {
+      "correctReplacement": "предстоящими",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

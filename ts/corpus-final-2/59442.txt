@@ -1,0 +1,40 @@
+{
+  "text": "Сотрудник Национальной Лабораториях в Лос-Аламос - самого крупного в США научным центра по разработке ядерного оружия - семь раз взламывало компьютерам , восемь разам перехватывал электронные сообщения , а также дважды взломаю засекреченную базу данных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "научного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "компьютеры"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "раз"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "взламывал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "взломал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Лаборатории"
+    },
+    {
+      "correctReplacement": "однажды",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В результате начавшихся в четверг обстрела Грозного в горохе уничтожены сотня частных домов , сгорели производственные корпуса и административные здания ряда предприятий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сотни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "начавшегося"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

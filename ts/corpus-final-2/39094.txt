@@ -1,0 +1,25 @@
+{
+  "text": "Разбойное нападение на трех инкассаторов , в результата которого была похищена крупная сумма денег , совершившее в Петербурге на Свердловской набережной , сообщакт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "сообщает",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

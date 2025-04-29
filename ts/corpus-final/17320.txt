@@ -1,0 +1,20 @@
+{
+  "text": "У задержавших изъяты боеприпасы , взрывчатые обществе , наркотические средства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "задержанных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "вещества"
+    },
+    {
+      "correctReplacement": "веществе",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

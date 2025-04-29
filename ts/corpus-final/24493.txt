@@ -1,0 +1,35 @@
+{
+  "text": "В воинской части , где служу Алексеенко , работаем сотрудники Главной военных прокуратур , прокуратуры РВСН , офицеры Генерального штаба и Главных шьаба РВСН .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "служит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "Главного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "штаба",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

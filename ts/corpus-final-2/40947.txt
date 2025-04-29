@@ -1,0 +1,15 @@
+{
+  "text": "Дело принята к производству прокуратурой Уурской области .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "принято"
+    },
+    {
+      "correctReplacement": "Курской",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

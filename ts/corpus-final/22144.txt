@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас на месте происшествия работают полиция , медицинские служб и спасатели , которые пытается извлечь людей из искореженных вагонами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пытаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "вагонов"
+    }
+  ]
+}

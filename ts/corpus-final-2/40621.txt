@@ -1,0 +1,25 @@
+{
+  "text": "После звонка полиция эвакуировавшая всех сотрудников благотворительной организации из здания в Любеке , а саперы начали поиски возможного взрывной устройства Й",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "эвакуировала"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "поиск"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "взрывного"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

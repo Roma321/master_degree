@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям американских владеющих , группировка сепаратистов , содержащая в плену американца , шестерых европейцев и 12 граждан Филиппин , поддерживаю контакты с \"международным террориста номер 1\" миллионером Бин Ладена .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Ладеном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "террористом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "correctReplacement": "властей",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Чеченских террористы надеются , что эти усилия обеспечат нажим участникоф саммитов на российскую делегации и , тем самым , заставите Москву отданные приказ о прекращении наступления Объединенной группировки войск .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "саммита"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "заставят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Чеченские"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "делегацию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "отдать"
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

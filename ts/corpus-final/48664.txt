@@ -1,0 +1,25 @@
+{
+  "text": "Прежде всего это касающийся оплаты жилых помещений и коммунального услуг , установки квартирных телефонов и абонентского оплаты за пользование ими .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "абонентской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "коммунальных"
+    },
+    {
+      "correctReplacement": "платы",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

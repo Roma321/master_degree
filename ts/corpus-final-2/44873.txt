@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , единственного проступком полицейских оказалось то , что они превысили свои полномочия , осуществив рейда самостоятельно , без участия местншго полиции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "единственным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "рейд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

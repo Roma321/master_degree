@@ -1,0 +1,30 @@
+{
+  "text": "В четверг около 13 : 00 московского времени включилось главная двигательная установка станции , и аппарат начали маневр пр переходу на околомарсианскую орбиту , при этом связь была прервавшая , как и планируюсь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "прервана"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "включилась"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 32,
+      "correctReplacement": "планировалось"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

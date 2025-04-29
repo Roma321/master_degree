@@ -1,0 +1,30 @@
+{
+  "text": "Уже после полуньчь , когда огонь был ликвидирован , под обрушившимися конструкциями был обнаружено пошатнувший человек , личность которого устанавливаются .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "устанавливается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "полуночи"
+    },
+    {
+      "correctReplacement": "погибший",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "полуночь",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

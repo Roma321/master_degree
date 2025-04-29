@@ -1,0 +1,15 @@
+{
+  "text": "В резузьтате четырём рабочих погибли , еще двое получили тяжелые травмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "четыре"
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

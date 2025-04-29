@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что президерт страны Абдуррахмана Вахид неоднократно призывал генерала уйти в отставке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "отставку"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Абдуррахман"
+    },
+    {
+      "correctReplacement": "президент",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

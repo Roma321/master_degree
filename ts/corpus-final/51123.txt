@@ -1,0 +1,25 @@
+{
+  "text": "Россия тогда высказала решительном протест , в МИД был вызван польская посол , а министр иностранных дел РФ Игорь Иванов назвало инциденте в Познани \"хулиганской акцией , заслуживающей самого серьезного осуждения\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "решительный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "инцидент"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "польский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "назвал"
+    }
+  ]
+}

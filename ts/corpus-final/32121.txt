@@ -1,0 +1,25 @@
+{
+  "text": "Суд признал , что во время обыска на квартиры у Сойфера сотрудники УФСБ незаконно избившие материалы научных разработок на кассетах , дискетах , а также загеаничному паспорт ученого .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "заграничный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "квартире"
+    },
+    {
+      "correctReplacement": "изъяли",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "заграничному",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

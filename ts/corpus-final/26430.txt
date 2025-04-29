@@ -1,0 +1,20 @@
+{
+  "text": "Фактически инфляция составила 36 , 5 процента , в то время как программа предусматривала госте этого показателя на 50 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "рост"
+    },
+    {
+      "correctReplacement": "росте",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

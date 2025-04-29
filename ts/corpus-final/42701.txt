@@ -1,0 +1,20 @@
+{
+  "text": "Шесть вагонов пассажирской поездов , принадлежащего железнодорожную компании Amtrak , сошли с рельсов у городка Топека в штате Канзас .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "железнодорожной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "пассажирского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "поезда"
+    }
+  ]
+}

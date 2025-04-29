@@ -1,0 +1,25 @@
+{
+  "text": "овыя рщссийское ракета-носитель \"Рокот\" стартовали во вторник с космодрома \"Плесецк\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "российская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стартовала"
+    },
+    {
+      "correctReplacement": "Новая",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "российское",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

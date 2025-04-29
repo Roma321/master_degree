@@ -1,0 +1,25 @@
+{
+  "text": "Однако ей запрещаются увеличивающие свою долю в уставных кариталах другого участников путем накопления их кредиторской задолженности , а также изымать активы участника холдинга до суммы , меньшей размера его уставного капитала .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "увеличивать"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "запрещается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "других"
+    },
+    {
+      "correctReplacement": "капиталах",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

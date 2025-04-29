@@ -1,0 +1,45 @@
+{
+  "text": "В списке награжденных - руководители и преподавателям ведущих вузов страны , учёные - члены Российского Академии образования , организаторы и сотрудников инновационных , образовательных и прозветительских учреждений , работники профессиональной школе , представители федеральных и региональных административным структур , ведавших вопросами образования .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "ученые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "преподаватели"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "школы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 39,
+      "correctReplacement": "ведающих"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 36,
+      "correctReplacement": "административных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "correctReplacement": "просветительских",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

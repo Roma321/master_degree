@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщённый беготня на пресс-конференции в Москве начальник отдела управления федеральных таможенных доходов российского Государственной таможенного комитета (ГТК) Александр Воионин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Государственного"
+    },
+    {
+      "correctReplacement": "сегодня",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Воронин",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

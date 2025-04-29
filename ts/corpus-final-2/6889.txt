@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время в город прохожу въезд Республиканской партии США , и , по мнению полиции , противники республиканцев пытаются такими образом помешать ему .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "проходит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "таким"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "городе"
+    },
+    {
+      "correctReplacement": "съезд",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

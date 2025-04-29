@@ -1,0 +1,20 @@
+{
+  "text": "Теперь тариф за километра пробега составит семи дублей , столько же придется заплатить за посадку в такси .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "семь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "километр"
+    },
+    {
+      "correctReplacement": "рублей",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

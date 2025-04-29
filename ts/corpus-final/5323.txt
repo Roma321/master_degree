@@ -1,0 +1,25 @@
+{
+  "text": "К тому же , как сообщающий \"Эхо Москвы\" со ссылкой на ИТАР-ТАСС , конфликт в Назарете уже стал причиной осложнения отношениями между израилевый и Ватиканом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "отношений"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "Израилем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Израиль",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

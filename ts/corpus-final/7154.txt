@@ -1,0 +1,20 @@
+{
+  "text": "Сергей Иванов уже с пододеяльника приступило е исполнению новых обязанностей .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "приступил"
+    },
+    {
+      "correctReplacement": "понедельника",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "к",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

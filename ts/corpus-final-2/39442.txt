@@ -1,0 +1,30 @@
+{
+  "text": "Кабина летчиков представляет из себя бронированную капсулой и рассчитаны на то , что экипаж вертолета может остаться в живых , даже если кабина ударился о земля со скоростью 140 километров в часе .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "ударится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "землю"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "рассчитана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "капсулу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "час"
+    }
+  ]
+}

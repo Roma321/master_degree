@@ -1,0 +1,35 @@
+{
+  "text": "Запланированная на начало июня визит в Москву Билла Клинтонапоставили перед кремлевской службой протокола сложную задачу : на те сроки , которые предложила американское сторона , уже запланирован поездки путина в Италию . Теперь рабочие графики лидеров России и США потребуют коррекции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "американская"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "поездка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "запланирована"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Запланированный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Клинтонапоставил"
+    },
+    {
+      "correctReplacement": "Путина",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

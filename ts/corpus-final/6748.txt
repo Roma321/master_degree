@@ -1,0 +1,25 @@
+{
+  "text": "Associated Press сообщал , что последующая группа заключенных выйдешь на свободу накануне 9 декабря - даты начало мусульманского месяца рамадан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "начала"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "выйдет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "следующая",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

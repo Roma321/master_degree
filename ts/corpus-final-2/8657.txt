@@ -1,0 +1,20 @@
+{
+  "text": "В воскресившее прекратила своё работу интернет-магазин Logos CD-Trade , торговавший пиратскими CD-дисками .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прекратил"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Министр пояснил , чтом в субъектах Федерации происходил масса нарушений законодательства : каждый пятый нормативная акт приняты в нарушение Конституции и федерального законодательства .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "нормативный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "принят"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "происходит"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

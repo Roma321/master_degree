@@ -1,0 +1,25 @@
+{
+  "text": "Оба партии завершились с одинаковое счётом 6 : 4 в пользу посеявшего под пятым номером россиянина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "посеянного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Обе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "одинаковым"
+    },
+    {
+      "correctReplacement": "счетом",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

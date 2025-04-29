@@ -1,0 +1,20 @@
+{
+  "text": "В новой версии хобот , помимо учета морфологии русского языка и механизмов нечёткого поиска , встроивший синтаксический анализ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "встроен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "нечеткого"
+    },
+    {
+      "correctReplacement": "робота",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

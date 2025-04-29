@@ -1,0 +1,25 @@
+{
+  "text": "Радован Караджич , экс-лидер боснийских сербов , приговорена судом США к уплате 4 , 5 миллиарда долларов в возмещение ущербов , притушенного его солдатами , сообщаешь AP .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "ущерба"
+    },
+    {
+      "correctReplacement": "причиненного",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

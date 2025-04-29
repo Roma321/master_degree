@@ -1,0 +1,20 @@
+{
+  "text": "Исходив из прогнозов потребления энергии в стране , а такое износа мощностями в отрасли \"у нас нет альтернативы\" , сказал министр .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "мощностей"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Исходя"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

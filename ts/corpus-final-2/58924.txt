@@ -1,0 +1,25 @@
+{
+  "text": "Генеральный прокурор Украины Мижаил Потебенькое заявил , что экспертным методом невозможно установить достоверность аудиозаписей , переданной офицером охраны Николаями Мельниченко .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Потебенько"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Николаем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "аудиозаписи"
+    },
+    {
+      "correctReplacement": "Михаил",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

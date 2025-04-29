@@ -1,0 +1,25 @@
+{
+  "text": "- Взрывчатка мывшая заложена в пустующем помещение на перуых этаже здания\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "помещении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "первом"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "первых",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

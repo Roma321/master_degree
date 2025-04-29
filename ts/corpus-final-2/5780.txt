@@ -1,0 +1,30 @@
+{
+  "text": "Представители следственных органов сообщили , что через несюолько часов после взрывов в полиции позвонил неизвестный , который угрожаю взорвать еще одно обустройство .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "угрожал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "полицию"
+    },
+    {
+      "correctReplacement": "устройство",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "несколько",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

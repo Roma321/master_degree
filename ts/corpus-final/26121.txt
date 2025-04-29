@@ -1,0 +1,15 @@
+{
+  "text": "Тогда в телефонном разговоре с президентом США Билла Клинтоном Ельцин заявил , что он ничего не знает о банковских картаэ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Биллом"
+    },
+    {
+      "correctReplacement": "картах",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

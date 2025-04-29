@@ -1,0 +1,30 @@
+{
+  "text": "Ссылающиеся на мнение неназванногооперативной сотрудника БНД , журнал писанный также , что информациис немецкой сторонки были немного , а \"американцы , британцы ифранцузы предоставляли гораздо более точные данные\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Ссылаясь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "неназванногооперативного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "пишет"
+    },
+    {
+      "correctReplacement": "стороны",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

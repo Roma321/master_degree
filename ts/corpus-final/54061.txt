@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал Associated Press , законотворцы приводят в пример сайт , создатели которого срашивали детей о доходах их родителей , и одвет на этот вопрос был необходимому условием для участия в конкурсах .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "конкурсе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "необходимым"
+    },
+    {
+      "correctReplacement": "ответ",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

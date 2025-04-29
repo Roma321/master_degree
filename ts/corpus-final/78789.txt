@@ -1,0 +1,25 @@
+{
+  "text": "По заключению полиции , биатлонистке погибла во врумя ежедневной внутренних пробежки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "биатлонистка"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "утренней"
+    },
+    {
+      "correctReplacement": "утренних",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "время",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

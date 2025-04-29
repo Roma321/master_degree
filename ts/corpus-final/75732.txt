@@ -1,0 +1,20 @@
+{
+  "text": "Этот арест произведен в рамках программы борьбы с коррупцией в высших эшелонах власти , которую проводишь сирийское фидер Башар Асад .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "сирийский"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "проводит"
+    },
+    {
+      "correctReplacement": "лидер",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

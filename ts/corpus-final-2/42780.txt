@@ -1,0 +1,30 @@
+{
+  "text": "В ходе переговоров былп достигнута договоренность о том , что Израиль снимет блокаде с палестинского населивших пунктов , если палестинцы прекратившие насилие .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "прекратят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "блокаду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "палестинских"
+    },
+    {
+      "correctReplacement": "была",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

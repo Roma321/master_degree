@@ -1,0 +1,30 @@
+{
+  "text": "В ночью на 5 декабря в квартира было устроено очередное распития спиртных напитков , участницей которого , кроме проживавших в квартиры мужчин , стала 50-летняя женщина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "квартире"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "квартире"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "проживающих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "распитие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ночь"
+    }
+  ]
+}

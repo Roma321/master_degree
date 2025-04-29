@@ -1,0 +1,30 @@
+{
+  "text": "Как отмечают экслеры , широких распространения вируса \"I love you\" связано не только с веерной рассылкой , но и с тем , что а заголовке письма содержалось любовные признание , поэтому пользователи теряли бдительность и бросались открывать приложенный файл .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "распространение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "любовное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "широкое"
+    },
+    {
+      "correctReplacement": "эксперты",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Уже в январе 2001 года англичане смогли увидевшие актрису в новых фильме \"Иглы\" , биографической картине о маркизе де Саде , где она снималась вместе с Дхеффри Рашем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "новом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "смогут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "увидеть"
+    },
+    {
+      "correctReplacement": "Джеффри",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

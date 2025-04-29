@@ -1,0 +1,30 @@
+{
+  "text": "Согласно рекламисту Думы , повле документальной оформление эти поручения должны быть официально примем или отклонены .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "приняты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "оформления"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "документального"
+    },
+    {
+      "correctReplacement": "регламенту",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

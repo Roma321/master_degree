@@ -1,0 +1,20 @@
+{
+  "text": "Он устроил погром в помещении , сломал дверь и кресло , а начальника штаба Петра Быстрова , пытафшегося остановить хулигана , ударили телефонному аппаратом по голове .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "ударил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "телефонным"
+    },
+    {
+      "correctReplacement": "пытавшегося",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "При этом Михайловым ссылалась на телефонная разговор с самим Шпаком . Однако позже в интервью радиостанций \"Эхо Москвы\" губернатор не смог подтвердить эту информацию , сказав , что окончательных данных пока нет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "телефонный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "радиостанции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ссылался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Михайлов"
+    }
+  ]
+}

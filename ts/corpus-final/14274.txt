@@ -1,0 +1,20 @@
+{
+  "text": "Напомнившие , что в апреле аналогичной трагедия произошла в школе Колумбайн , стат Колорадо .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "аналогичная"
+    },
+    {
+      "correctReplacement": "штат",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

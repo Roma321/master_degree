@@ -1,0 +1,20 @@
+{
+  "text": "На сегодняшнее день штраф в 8 , 6 миллиона долларов , который предстоит заплатито Риади , являешься самым крупным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сегодняшний"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "заплатить",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На семи наследникоф турнире АТР сильнейших российский теннисист не может прошедшие дольше второго круга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "турнирах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "пройти"
+    },
+    {
+      "correctReplacement": "последних",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "наследников",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

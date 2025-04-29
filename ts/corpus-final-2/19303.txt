@@ -1,0 +1,25 @@
+{
+  "text": "Детекторы были признавшие абсолютно непригодными и даже опусными оля здоровий пассажиров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "признаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "здоровья"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "опасными",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

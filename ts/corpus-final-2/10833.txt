@@ -1,0 +1,20 @@
+{
+  "text": "Роджером отправился в бега с суммой в даумя тысячи 500 долларов , которые он может тратить так , как хочет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Роджер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "две"
+    },
+    {
+      "correctReplacement": "двумя",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

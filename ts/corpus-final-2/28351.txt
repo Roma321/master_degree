@@ -1,0 +1,20 @@
+{
+  "text": "Когда я использовало это в фильм , это было все равно что работать снова вместе с отцом , несмотря на разделяющую нас пропасть\" , - сказал режиссёр .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "фильме"
+    },
+    {
+      "correctReplacement": "режиссер",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

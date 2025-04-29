@@ -1,0 +1,25 @@
+{
+  "text": "В субботу , менее чем за сутки до начавшего выборов , окружного суд лишил регистраций заместителя председателя Думы Свердловского области Дмитрия Анфалова .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Свердловской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "окружной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "регистрации"
+    },
+    {
+      "correctReplacement": "начала",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

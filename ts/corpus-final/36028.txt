@@ -1,0 +1,25 @@
+{
+  "text": "Александр Салия избравший председателем комиссии по изучению практик применения избирательной законодательства РФ при подготовке и проведении выборных и референдумов в РФ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "избирательного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "избран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "практики"
+    },
+    {
+      "correctReplacement": "выборов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

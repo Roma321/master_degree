@@ -1,0 +1,25 @@
+{
+  "text": "Владимир Путин подписало указ о переименовании Северокафказского центральное округа в Южный округ , сообщает РБК со ссылкой на пресс-службу президента .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "федерального"
+    },
+    {
+      "correctReplacement": "федеральное",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Северокавказского",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

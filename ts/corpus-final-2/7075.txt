@@ -1,0 +1,25 @@
+{
+  "text": "По оценке российского военной руководства , со 2 августа 1999 родившегося по 2 августа нынешнего года на Северном Кавказе было уничтожены около 14 тысячах боевиков .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "уничтожено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

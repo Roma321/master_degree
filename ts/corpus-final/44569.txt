@@ -1,0 +1,25 @@
+{
+  "text": "согласный закону о бюджете на 2000 год , Банку России разрешифшее кредитованию правительства в размере 30 миллиардов рублей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "разрешено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "кредитование"
+    },
+    {
+      "correctReplacement": "Согласно",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "разрешившее",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

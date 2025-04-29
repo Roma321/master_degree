@@ -1,0 +1,20 @@
+{
+  "text": "Таким образом , послед двух турами россияне уверенно лидируют с шестью очках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "туров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "очками"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Внимательный супругу был обвинен в том , что оставилб машину с включу двигателем без присмотра .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "супруг"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "включенным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "оставил"
+    },
+    {
+      "correctReplacement": "оставило",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

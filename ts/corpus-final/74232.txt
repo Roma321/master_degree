@@ -1,0 +1,20 @@
+{
+  "text": "В США обнаружили новый компьютерный вирусу , замаскированный пот \"шутку о взаимоотношениях женщины и мужчин\" , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "женщин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "вирус"
+    },
+    {
+      "correctReplacement": "под",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

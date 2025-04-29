@@ -1,0 +1,25 @@
+{
+  "text": "Напомнят , что у Жириновского бывшие проблемы и ы регистрацией возглавляемого им партии при выборах в Государственную Думу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "были"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "возглавляемой"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

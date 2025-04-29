@@ -1,0 +1,20 @@
+{
+  "text": "При взрыве один из них погиб и трое получили тяжёлые ранения ; позже от ран скончаюсь еще олин израильтянин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "тяжелые"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "скончался"
+    },
+    {
+      "correctReplacement": "один",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

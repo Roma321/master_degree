@@ -1,0 +1,25 @@
+{
+  "text": "Любопытно , что в данном сдучае в доменном имени нету слова Volkswagen , а едя лишь аббревиатуре VW , которая с таким же успехом мог означать Virtual Works .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "аббревиатура"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

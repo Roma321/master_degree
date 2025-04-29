@@ -1,0 +1,30 @@
+{
+  "text": "Вскоре после отплытия капитан сообщил , что судно попафшее в шторм , после чего связи с промом прервались .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "попало"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "связь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "прервалась"
+    },
+    {
+      "correctReplacement": "паромом",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "попавшее",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

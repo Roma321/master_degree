@@ -1,0 +1,20 @@
+{
+  "text": "По словам иранского министра , Иванов обещаю обсуждённые его просьбу на совещании кабинета министроф России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "обсудить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обещал"
+    },
+    {
+      "correctReplacement": "министров",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

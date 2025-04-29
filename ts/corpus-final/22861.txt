@@ -1,0 +1,20 @@
+{
+  "text": "Набрав этот номер , он услышит сгенерированный компьютером голос , предлагаемый ему повторить числа , которые он говорил , записывая обрпзцы своего голоса в участку .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "участке"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "предлагающий"
+    },
+    {
+      "correctReplacement": "образцы",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

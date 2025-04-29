@@ -1,0 +1,25 @@
+{
+  "text": "В 1997 году Гаагский трибунал признало Арканов виновным в серии кровавых расправ с гражданским населением во время этнических войны на территории молнии и Хорватии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "войн"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "признал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Аркана"
+    },
+    {
+      "correctReplacement": "Боснии",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

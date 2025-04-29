@@ -1,0 +1,20 @@
+{
+  "text": "Это предложение кажется большинству принявшего участие в заседанием более привлекательной , так как настройка фильтров по IP-адресам будет более точной , нежели по доменным именам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "принявших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "заседании"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "привлекательным"
+    }
+  ]
+}

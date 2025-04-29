@@ -1,0 +1,35 @@
+{
+  "text": "На виртуальной открытиях конференции выступившие премьер-министр Великобритании Тони Блэр , премьер-министр Австралии Джон Ховард , премьер-министра Сингапура Го Чок Тонг , а также Полы Кэн , возглавляющий Национальный общество по проблеме аутизма , и Стив Ширли .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "виртуальном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "открытии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Пол"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "выступили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "Национальное"
+    }
+  ]
+}

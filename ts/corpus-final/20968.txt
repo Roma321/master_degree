@@ -1,0 +1,30 @@
+{
+  "text": "Большая колонне , отступавшая по шоссе от Перемышля к Саноку , обстреливалась с высот нашей батареей и бегу , бросившие парок , обоз и автомобиои .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "бежала"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "бросив"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "колонна"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "парки"
+    },
+    {
+      "correctReplacement": "автомобили",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

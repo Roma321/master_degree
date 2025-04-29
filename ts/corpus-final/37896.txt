@@ -1,0 +1,20 @@
+{
+  "text": "Немецкая телекомпания N24 уволю своей псковского корреспондента Франка Хефлинга \"за ложь и обман\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "уволила"
+    },
+    {
+      "correctReplacement": "московского",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

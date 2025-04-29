@@ -1,0 +1,20 @@
+{
+  "text": "Шесть человек привлечены к уголовной ответственности по факьу совершения террористической акта 4 сентября 1998 годов на улице Пархоменко в Махачкале .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "террористического"
+    },
+    {
+      "correctReplacement": "факту",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

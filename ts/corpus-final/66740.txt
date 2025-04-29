@@ -1,0 +1,30 @@
+{
+  "text": "Как полагали наблюдатели , отсрочка дает возможность кандидату Фржнсиско Ариасу Карденасу , основному противнику нынешнего президента Чавеса , сократившие 15-процентный разрывом в рейтингах популярности , гдр пока лидирует Чавес .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "разрыв"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сократить"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "полагают"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "Франсиско",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

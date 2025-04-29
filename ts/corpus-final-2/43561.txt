@@ -1,0 +1,25 @@
+{
+  "text": "За это время он сумел превратить ресурсом в объект многомиллиардного порнобизнеса - сейчас сайт , по оценкам экспертам , стоит около 100 миллионов долларов и приносил ежемесячный доход в 17 миллионов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "приносит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ресурс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "экспертов"
+    },
+    {
+      "correctReplacement": "многомиллионного",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

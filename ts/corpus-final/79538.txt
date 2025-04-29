@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили в мобильном отряде МВД России в Моздоке , в результате взрыва никого не пострадавший , машины получила сногочисленные механические повреждения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "никто"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "пострадал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "машина"
+    },
+    {
+      "correctReplacement": "многочисленные",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

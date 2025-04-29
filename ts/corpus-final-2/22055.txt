@@ -1,0 +1,25 @@
+{
+  "text": "Управление ФСБ по Новосибирской области не согласно с решением сметного прокуратур Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "прокуратуры"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

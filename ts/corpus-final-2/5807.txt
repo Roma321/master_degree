@@ -1,0 +1,20 @@
+{
+  "text": "Во второй раз в 17 : 40 по ироничному телефоному звонку было сообщена о минировании поезд Москва - Ростов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "поезда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сообщено"
+    },
+    {
+      "correctReplacement": "анонимному",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

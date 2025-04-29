@@ -1,0 +1,20 @@
+{
+  "text": "выбравший президент Владимир Путин подписанный в пятницу два указа , относящихся к кадровым перестановкам в Министерствах юстиции .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "Министерстве"
+    },
+    {
+      "correctReplacement": "Избранный",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

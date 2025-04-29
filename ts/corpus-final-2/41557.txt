@@ -1,0 +1,20 @@
+{
+  "text": "В ответ на многочисленности теракты палестинцев Израиль ввёл в сектор Газа бронетехнику , фактически разделив его на две частью , сообщает телекомпания НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "ввел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "части"
+    },
+    {
+      "correctReplacement": "многочисленные",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

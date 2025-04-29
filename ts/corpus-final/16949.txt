@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , она вышла на годы позже , чем пррдполагал сами разработчики .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "предполагали"
+    },
+    {
+      "correctReplacement": "предполагал",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

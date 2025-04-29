@@ -1,0 +1,30 @@
+{
+  "text": "Гуманитарные конвой УВКБ доставляли грузы на склады , откуда они потом развозитесь по пунктам раздачей , где присутствуют представившие этой организации .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "развозятся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "доставляют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "раздачи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "конвои"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

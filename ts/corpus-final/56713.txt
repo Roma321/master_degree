@@ -1,0 +1,25 @@
+{
+  "text": "Установлена , что одном из обнаруженных пистолетов находишься в федеральном розыске по приостановлению УВД Краснодарского края .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Установлено"
+    },
+    {
+      "correctReplacement": "представлению",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

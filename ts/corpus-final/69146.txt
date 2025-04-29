@@ -1,0 +1,20 @@
+{
+  "text": "Большинство населения до сих пор находился на улицах , опасаясь овый толчков , в городе нарастает паники .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "паника"
+    },
+    {
+      "correctReplacement": "новых",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

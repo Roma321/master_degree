@@ -1,0 +1,20 @@
+{
+  "text": "К примеру , вы знаете , что член Ирландской республиканских армии ни под каким видом не ролучивший эфир в Великобритании ?",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "республиканской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "получит"
+    },
+    {
+      "correctReplacement": "получивший",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

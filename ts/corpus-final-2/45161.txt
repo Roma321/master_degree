@@ -1,0 +1,20 @@
+{
+  "text": "Пол подписало контракт с компанией Lions Gate на исполнение главной роли в сериале , создаваемой сценарием и продюсером Гилом Грантом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "создаваемом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "подписал"
+    },
+    {
+      "correctReplacement": "сценаристом",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

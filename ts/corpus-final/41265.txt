@@ -1,0 +1,30 @@
+{
+  "text": "Генерал подтвердил , что с 29 февраля по 3 марта под Улус-Кертом погиб 84 военнослужащих Псковского дивизией ВДВ , в тех числе 13 оливеров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Псковской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "дивизии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "офицеров",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

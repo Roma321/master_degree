@@ -1,0 +1,20 @@
+{
+  "text": "Автор аппликации - корреспондент New York Times Майкл Гордон - встретило Михаилов Кашпурина в станице Луковской , под Моздоком .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "встретил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Михаила"
+    },
+    {
+      "correctReplacement": "публикации",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

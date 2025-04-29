@@ -1,0 +1,25 @@
+{
+  "text": "Поводом для обращения общества в Савёловскея межмуниципальный суд Москвы с иском послужила невыплата концертном фирмой \"Класс\" авторского гонорара членам шведской группки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "концертной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Савеловский"
+    },
+    {
+      "correctReplacement": "группы",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "Савёловская",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

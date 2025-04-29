@@ -1,0 +1,35 @@
+{
+  "text": "В четверг на сессии Парламентского ассамблеи Совета Европы в Страсбурге была принята резолюция , подвётнутая дискриминационных меры в отношении Россия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "дискриминационные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "подтвердившая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Парламентской"
+    },
+    {
+      "correctReplacement": "подтверждённая",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "подвёрнутая",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

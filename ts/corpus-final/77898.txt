@@ -1,0 +1,20 @@
+{
+  "text": "У всех сигнализированных наблюдаются признаки сильного пищевой ртравления .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "пищевого"
+    },
+    {
+      "correctReplacement": "госпитализированных",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "отравления",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

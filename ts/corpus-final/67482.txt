@@ -1,0 +1,25 @@
+{
+  "text": "На место произнесения прибыл пожарному поезд , который ликвидирую пожар примерно за фас .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "ликвидировал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "пожарный"
+    },
+    {
+      "correctReplacement": "происшествия",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "час",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "После того кам огна был потушен , оперативники обнаруженные в ванной труп 45-летнего Фомина со следом пыток .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обнаружили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "следами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "огонь"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "огне",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

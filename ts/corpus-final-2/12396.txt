@@ -1,0 +1,25 @@
+{
+  "text": "Сообщаюсь , в частности , что начальный цена пакета акций \"Роснефти\" составит 9 , 8 миллиарда рубли , \"Гаспрома\" - 6 , 9 миллиарда рублей , \"Славнефти\" - 3 миллиарда рублей , НПО \"Молния\" - 118 , 5 миллиона рублей .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Сообщается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "начальная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "рублей"
+    },
+    {
+      "correctReplacement": "\"Газпрома\"",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

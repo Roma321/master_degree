@@ -1,0 +1,25 @@
+{
+  "text": "В общего сложности более 30 миллионов рублей должны будут вернуть вдоходных часть федерального бюджета тех 15 избирательных объединений , которые получили на выборах в Госдуму менее 3 процентов голосов избирателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "те"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "общей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "вдоходную"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

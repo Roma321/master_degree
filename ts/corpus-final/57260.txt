@@ -1,0 +1,20 @@
+{
+  "text": "После перестрелок , в которой несколько боевиками были убиты , отряду сепаратистов пришлось покинуть этот район Ж",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "перестрелки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "боевиков"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

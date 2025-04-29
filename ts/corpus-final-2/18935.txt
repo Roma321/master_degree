@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РИА \"Новости\" со ссылкой на пресс-службу глючного управления противопожарной служб МВД России , пожарным удалось спасти 30 люди .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "службы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "человек"
+    },
+    {
+      "correctReplacement": "Главного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

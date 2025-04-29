@@ -1,0 +1,30 @@
+{
+  "text": "Само же Руслан Аушев , не снимая ответственности за произошедшее справоохранительного структур республики , вместе с темсчитает , что в случившихся повинно и командование Объединеннойгруппировкой федеральным сил на Северном Кафказе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "справоохранительных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "случившемся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "федеральных"
+    },
+    {
+      "correctReplacement": "Кавказе",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

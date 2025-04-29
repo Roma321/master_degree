@@ -1,0 +1,20 @@
+{
+  "text": "Дуракович заехавшая из США , потому что ему сказали : его жизнь в опасности , если он продолжу свои исследования , добавляет Sunday Times .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "уехал"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "продолжит"
+    },
+    {
+      "correctReplacement": "уехала",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

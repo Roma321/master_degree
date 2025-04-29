@@ -1,0 +1,20 @@
+{
+  "text": "В пяиницу в Волгограде был распространён подложного номер газеты \"Советская Россия\" , передает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "распространен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "подложный"
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

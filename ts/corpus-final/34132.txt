@@ -1,0 +1,25 @@
+{
+  "text": "В полдень гроб был перевезен из здания Фондов Культуры , где накануне проходимая церемония прощания , в Смоленская вобор Новодевичьего монастыря .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Фонда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "Смоленский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "проходила"
+    },
+    {
+      "correctReplacement": "собор",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

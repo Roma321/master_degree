@@ -1,0 +1,20 @@
+{
+  "text": "Как предполагает полиции , причиной аварии послу.или мокрый от дождя асфальт .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "полиция"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "послужил"
+    },
+    {
+      "correctReplacement": "послужили",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

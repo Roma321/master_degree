@@ -1,0 +1,25 @@
+{
+  "text": "Прогнозы синоптиков неутешителен - в ближайшее время скорость ветра усилится , это орожу дальнейшему распространением пожаров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "дальнейшим"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "неутешительны"
+    },
+    {
+      "correctReplacement": "грожу",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Около двух часы ночи с пооедельника на вторник в жилой квартире на первом этаже дома 117 корпус 1 по Московскому проспекту в Петербурге возник пожару .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "пожар"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "часов"
+    },
+    {
+      "correctReplacement": "понедельника",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

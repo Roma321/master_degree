@@ -1,0 +1,30 @@
+{
+  "text": "В то же временем на NASDAQ продолжившееся падение курсов акциях портала Yahoo (-3 , 99%) , онлайновых аукциона eBay (-8 , 54%) , книжного магазина Amazon . Com (-11 , 03%) п интернет-инкубатора CMGI (-4 , 79%) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "продолжилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "онлайнового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "акций"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

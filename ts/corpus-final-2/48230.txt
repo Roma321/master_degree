@@ -1,0 +1,30 @@
+{
+  "text": "Причиной , по которой Голландии доставшееся на один голос больше чем Бельгии , - пятидесятипроцентное преимущездву в численности население .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "преимущество"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "населения"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "досталось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Причина"
+    },
+    {
+      "correctReplacement": "преимуществу",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

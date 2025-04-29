@@ -1,0 +1,25 @@
+{
+  "text": "Один из пострадавших умру на месте ; второй , получивший три ранения в грудь и живот , скончалось через два с половиной часа на операционном столе мариинского центр Харбор Вью .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "скончался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "умер"
+    },
+    {
+      "correctReplacement": "Медицинского",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

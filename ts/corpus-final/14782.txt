@@ -1,0 +1,30 @@
+{
+  "text": "Цена российской нефти Urals с доставками в порты Средиземноморья в среды вырасту еще на 0 , 34 доллара за баррель и составила 26 , 74 доллара за барреле , сообщаешь \"Интерфакс-АНИ\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "доставкой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "выросла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "баррель"
+    }
+  ]
+}

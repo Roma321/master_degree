@@ -1,0 +1,25 @@
+{
+  "text": "Эксперты считали , что спланировать и осуществлённые эту акцию могли разные люди - от чеченских лейбористов , стремящихся посеять в Москве панику , до психически неуравновешенным людей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "осуществить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "неуравновешенных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "террористов",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

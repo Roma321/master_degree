@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению CNN , стороны заняпые выжидательную оппозицию .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заняли"
+    },
+    {
+      "correctReplacement": "позицию",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "занятые",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

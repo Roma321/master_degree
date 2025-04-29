@@ -1,0 +1,25 @@
+{
+  "text": "Это преступление Кеннете совершил вместе со своих матерью Сейнты Каймз , которая такэе получила 120 лет тюрьмы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Кеннет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Сейнт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "своей"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

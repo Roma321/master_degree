@@ -1,0 +1,25 @@
+{
+  "text": "По его мнению , через несколько дней произойдёт стабилизация , и цены вернулисб к прежнему уровня .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "уровню"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "вернутся"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "произойдет"
+    },
+    {
+      "correctReplacement": "вернулись",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты уже заявили , вто пожар на пивовареннос заводе стал крупнейшим в чешской столицах за последние 10 лет .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "столице"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "пивоваренном",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Нападавшие открыл огонь из машины марка \"Жигули\" красного веты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "марки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "открыли"
+    },
+    {
+      "correctReplacement": "цвета",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

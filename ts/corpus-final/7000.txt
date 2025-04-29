@@ -1,0 +1,25 @@
+{
+  "text": "Ио словам Геннадия Зубкова , выстрел по троллейбусу был произведено с чердака илия окна дома на Мичуринском проспекте Москву .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "произведен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "correctReplacement": "или",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "По",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

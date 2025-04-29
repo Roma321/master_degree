@@ -1,0 +1,25 @@
+{
+  "text": "Это соответствует утверждениям софийских предпринимателей о тем , что счета использовались импортёрами , чтобы избежать налогов и пошлин -- эти нарушения не могут быть квалифицированы как отмывание денрг .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "импортерами"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

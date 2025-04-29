@@ -1,0 +1,35 @@
+{
+  "text": "По его данным , в настоящее время около трех миллионов человеку работали без трудовой книжки , а значит за них не перечисляем взносы в Пенсионное фонды сессии .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "перечисляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "фонд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "работают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "Пенсионный"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В ночь с воскресенья на понедельники (около 22 : 30 по Москве) в городе Ангарске Иркутской область произошел взрыв в помещении редакции тесной газеты \"Время\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "местной",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

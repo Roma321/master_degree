@@ -1,0 +1,25 @@
+{
+  "text": "Кабинет министров Израиля после экстренного зависания в четверг вечером приняла решение потребовать от Палестины в течение 24 часов прекратить беспорядков , которые продолжаются , несмотря на соглашение о перемирии , сообщаю BBC со ссылкой на израильское радио .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "беспорядки"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "заседания",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

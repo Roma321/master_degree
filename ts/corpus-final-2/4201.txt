@@ -1,0 +1,20 @@
+{
+  "text": "Заместитель министра полагает , что в перспективной в России будет установлена посекундной оплаты телефонных разговоров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "посекундная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "оплата"
+    },
+    {
+      "correctReplacement": "перспективе",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

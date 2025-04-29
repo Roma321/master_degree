@@ -1,0 +1,25 @@
+{
+  "text": "Судебных приставы выполняли решение Хамовнической суда москвы , который предписавший обеспечить новому директору предприятия свободный доступ на рабочее место .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "Хамовнического"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "предписал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Судебные"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

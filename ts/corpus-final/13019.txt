@@ -1,0 +1,25 @@
+{
+  "text": "Согласно законопроекту индексации подлежрт вклады граждан , внесенные в Сбербанк в период с 21 июнь 1991 года по 31 декабрём 1991 года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подлежат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "декабря"
+    },
+    {
+      "correctReplacement": "подлежит",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

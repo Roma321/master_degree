@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению ИНТЕРФАКС-ЕВРАЗИЯ , главный государственный санитарное врач по Хабаровскому краю заявила , что уровень заболеваемостью в крае находится ниже эпидемического порогн .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "заболеваемости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "санитарный"
+    },
+    {
+      "correctReplacement": "порога",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

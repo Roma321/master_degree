@@ -1,0 +1,20 @@
+{
+  "text": "В обращении Кинга , опубликованной на его сайте на прошлой неделе , писатель сообщаешь , что был поражен успехом электронных проказ \"Пули\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "опубликованном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "продаж",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

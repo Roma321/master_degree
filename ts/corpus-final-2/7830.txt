@@ -1,0 +1,25 @@
+{
+  "text": "Сначала бандиты требовали за из освобождение 300 тысячи доллары , но потом сумма выкуп уменьшилась .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "выкупа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "их",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

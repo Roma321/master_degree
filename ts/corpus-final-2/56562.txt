@@ -1,0 +1,30 @@
+{
+  "text": "Лондонском метрополитены выпустил специальную брошюру , в которой представим интерьеры мтанций , выполненные в разных стилях - от архитектурные 30-х годов до ультрасовременных новых станций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Лондонский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "представлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "метрополитен"
+    },
+    {
+      "correctReplacement": "архитектуры",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "станций",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

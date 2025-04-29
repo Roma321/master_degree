@@ -1,0 +1,25 @@
+{
+  "text": "С 1 января 2000 года цене на мороженых рыбу в Москве можешь возрасти на 30-40 процентов от оптовой цеьы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "цена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "мороженую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "цены",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

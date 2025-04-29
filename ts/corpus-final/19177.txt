@@ -1,0 +1,25 @@
+{
+  "text": "Значительная часть населения Венесуэлы может погрузиться в депрессию после тех , как у пострадавших пройду первоночальная шоковое состоянир .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "первоночальное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "пройдет"
+    },
+    {
+      "correctReplacement": "состояние",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Выловленный экземпляр похоже на осьминога и решивший 125 килограмм .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "весит"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "похож"
+    },
+    {
+      "correctReplacement": "весил",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

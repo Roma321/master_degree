@@ -1,0 +1,25 @@
+{
+  "text": "На Бережковской набережной мост будет плавно переходящие в подземный переход протяженностью около 500 метрах , ведущий к станциям метро , а на старом месте будет сооружена железнодорожное полотно Д",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "сооружено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "метров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "переходить"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

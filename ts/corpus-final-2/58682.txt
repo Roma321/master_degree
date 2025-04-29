@@ -1,0 +1,25 @@
+{
+  "text": "В качестве возможное покупателя называющие известную французскую корпорацию LVMH , которая владеющий тако марками , как Christian Dior , Donna Karan , Givenchy , Christian Lacroix и частично Gucci .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "называют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "владеет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "возможного"
+    },
+    {
+      "correctReplacement": "такими",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

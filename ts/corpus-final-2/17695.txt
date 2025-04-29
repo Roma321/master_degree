@@ -1,0 +1,20 @@
+{
+  "text": "Проект постановления о начале процедуры импичмента президента Украины Леонида Кучмы зарегистрировавший в секретариате греховной рад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "зарегистрирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "рады"
+    },
+    {
+      "correctReplacement": "Верховной",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

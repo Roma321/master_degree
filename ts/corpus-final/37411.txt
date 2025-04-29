@@ -1,0 +1,25 @@
+{
+  "text": "Автомобиль были угнавшие ч Петербурге , в эренбурге и в Кемеровской области .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Автомобили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "угнаны"
+    },
+    {
+      "correctReplacement": "Оренбурге",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

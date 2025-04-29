@@ -1,0 +1,30 @@
+{
+  "text": "Как заметивший Акимов , количестве рейсов у авиакомпаний альянса на внутренних линиях составляющий 130 , количество направлений - 33 , тогда как у Аэрофлотов излишество рейсов 155 , а количество направлений - 20 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Аэрофлота"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "количество"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заметил"
+    },
+    {
+      "correctReplacement": "количество",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

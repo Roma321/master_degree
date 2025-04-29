@@ -1,0 +1,30 @@
+{
+  "text": "По словам представителя пресс-службы военного ведомства , с восточного направленил российский подразделения подошедшие к тройному на расстояние 15 километров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "направления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "российские"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подошли"
+    },
+    {
+      "correctReplacement": "Грозному",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "направлению",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

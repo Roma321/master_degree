@@ -1,0 +1,20 @@
+{
+  "text": "Когда начавшаяся перестрелка , в парке находилось около едящих тысячи человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "началась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "шести",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

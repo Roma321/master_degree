@@ -1,0 +1,30 @@
+{
+  "text": "Ранее во вторник на расширившей коллегии Минфина и МНС министр финансов Алексей Кудрина заявивший , чти российское правительство \"не считает нужным дальнейшее политику укрепления курса рубля и проводит политику его сдерживания его роста\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "расширенной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Кудрин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "дальнейшую"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

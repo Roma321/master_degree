@@ -1,0 +1,25 @@
+{
+  "text": "В ночь на 11 мая в одного из больниц Нью-Дели официально появлюсь на свет миллионная житель Индии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "появился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "миллиардный"
+    },
+    {
+      "correctReplacement": "миллиардная",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

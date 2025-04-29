@@ -1,0 +1,25 @@
+{
+  "text": "В пятой группе украинцы вырвали в гостях победу у норвежцев - 1 : 0 , белорусы переиграли армянина - 2 : 1 , а Польша и Уэльсе счет не закрытые .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "открыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "армян"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Уэльс"
+    },
+    {
+      "correctReplacement": "открытые",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

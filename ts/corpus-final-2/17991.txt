@@ -1,0 +1,20 @@
+{
+  "text": "В числа магазиноф , с которыми собираешься сотрудничать новый альянс , значатся Amazon . com и Walmart . com .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "числе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "собирается"
+    },
+    {
+      "correctReplacement": "магазинов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По данным медиков , большинством пострадавших получили ушибами т ссадины .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "большинство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "ушибы"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

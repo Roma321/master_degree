@@ -1,0 +1,20 @@
+{
+  "text": "Охрана не заподозрил , что за рулем нахожувь террорист , так как этот автомобиль возил воду ежедневно .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заподозрила"
+    },
+    {
+      "correctReplacement": "нахожусь",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

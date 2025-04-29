@@ -1,0 +1,20 @@
+{
+  "text": "Председатель ЦИК Александром Вешняков , выступающие в прямом эфире телекомпании НТВ , отказался комментировать завышение Лесина , назвав его , тем не менее , \"излишне горячим\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "выступая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Александр"
+    },
+    {
+      "correctReplacement": "заявление",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

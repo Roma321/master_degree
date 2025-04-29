@@ -1,0 +1,35 @@
+{
+  "text": "Впрочем , пишет The Times , Путин едва ли даст докладам ход , чтобы не подставить под удар своих бывшпй коллегу по КГБ патриарха Алексия , бывшей в молодости оседомителем и известных в \"органах\" под псевдонимом \"агент Дроздов\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "докладу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "известного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "своего"
+    },
+    {
+      "correctReplacement": "бывшей",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

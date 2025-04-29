@@ -1,0 +1,20 @@
+{
+  "text": "Об этом заявил заместитель официального представителя департаментов США Джеймс Фоули , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "госдепартамента"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "госдепартаментов",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

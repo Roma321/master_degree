@@ -1,0 +1,25 @@
+{
+  "text": "Накануне зарубежные СМИ , в частности агентство Assoсiated Press , собравшие , что Знаменские обстреликали в течение двух с половиной часов , ешь раненые .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Знаменское"
+    },
+    {
+      "correctReplacement": "сообщали",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "обстреливали",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

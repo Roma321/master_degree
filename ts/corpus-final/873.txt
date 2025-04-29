@@ -1,0 +1,25 @@
+{
+  "text": "Однако ожидаемых контрактов подрядчик так и не получил , поэтому и представлю в канцелярию премьер-министра счёт на более чем 400 тысяч шекелей (счыше 100 тысячи долларов) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "счет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "представил"
+    },
+    {
+      "correctReplacement": "(свыше",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

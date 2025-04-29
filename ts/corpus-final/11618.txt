@@ -1,0 +1,25 @@
+{
+  "text": "Находящиеся в Швейцарии личные банковские счета Бориса Березовского , обезоруженные швейцарским правоохранительным органами , а такжесчета фирмы , которые связаны с деятельностью Березовского , \"показаблокированы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "швейцарскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "правоохранительными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "фирм"
+    },
+    {
+      "correctReplacement": "обнаруженные",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

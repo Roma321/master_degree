@@ -1,0 +1,25 @@
+{
+  "text": "Оба омоновца доставлены в госпиталь с осколочными мнениями ног . Милиционеров подорвавшиеся на растяжке , установленной на давно обследованном место .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Милиционеры"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "подорвались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "месте"
+    },
+    {
+      "correctReplacement": "ранениями",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

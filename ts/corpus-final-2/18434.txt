@@ -1,0 +1,30 @@
+{
+  "text": "Отделение ордена в современной России существует менее 15 годы - а именно такой крок , согласно статье 27 новой закон , необходим для регистрации Э",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "закона"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "срок",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

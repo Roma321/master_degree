@@ -1,0 +1,30 @@
+{
+  "text": "Industrial Bank of Japan входишь в группы ведущих японских банков , которые в августе прошлого гона заявили о звоём решении объединиться в холдинг .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "входит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "группу"
+    },
+    {
+      "correctReplacement": "года",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "своём",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

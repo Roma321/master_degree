@@ -1,0 +1,25 @@
+{
+  "text": "Затем в определённый момент все агенты начинают посылаемые поток ложных запросов на какой-нибудь сайт , чем блокируют доступ к этим сайту для всех пользователями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "посылать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "пользователей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "определенный"
+    }
+  ]
+}

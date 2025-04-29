@@ -1,0 +1,20 @@
+{
+  "text": "Зитек выпустило первым полный перевод \"Mein Kampf\" без комментариев , тиражом 10 тысяч экземпляров , который был практически полномтью распродан .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "выпустил"
+    },
+    {
+      "correctReplacement": "полностью",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

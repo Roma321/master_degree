@@ -1,0 +1,25 @@
+{
+  "text": "У сыщиков ест все оснокания полагать , что среди жертв вымогателей - молодая женщина и 43-летний мужчина , захваченный и удерживаемые с апреле .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "захваченные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "апреля"
+    },
+    {
+      "correctReplacement": "основания",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Помимо всех положим степеней защиты новая купюрм будет иметь \"несколько малозаметных нюансов\" , передает РИА \"Новости\" со ссылкой на специалистов Главного удивление по борьбе с экономическим преступлениями МВД .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "экономическими"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "положенных"
+    },
+    {
+      "correctReplacement": "управления",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "купюра",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В этом документе , в частность , утверждаюсь , что Россия , как правопреемница Советской Союза , должна выплатить Литве компетенцию за советская оккупацию в период с 1940 по 1990 годы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "советскую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "утверждается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Советского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "частности"
+    },
+    {
+      "correctReplacement": "компенсацию",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

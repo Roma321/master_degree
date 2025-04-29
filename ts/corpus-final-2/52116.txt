@@ -1,0 +1,25 @@
+{
+  "text": "В настоящее время против лидера преступного группировки возбудившее уголовное дело по статье 222 Уголовных кодткса Российской Федерации - \"Незаконное хранение оружия\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Уголовного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "преступной"
+    },
+    {
+      "correctReplacement": "кодекса",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

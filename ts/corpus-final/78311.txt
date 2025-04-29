@@ -1,0 +1,30 @@
+{
+  "text": "Бин-Ладен и возглавляющая им террористическая организациязамешана в организации терактов и взрывов в нескольких стран , включая взрывы у американских посольствам в Кении и Танзании , врезультате которых погибли более 220 человек и были раримы около 5 тыс человек .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "странах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "возглавляемая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "посольств"
+    },
+    {
+      "correctReplacement": "ранимы",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

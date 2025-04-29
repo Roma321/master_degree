@@ -1,0 +1,25 @@
+{
+  "text": "Китайский предприниматель дыл арестована семью месяцев назад по обвинению в использовании поддельных документов об импорте товаров для мошеннического перевода со счетов государственном банка 75 миллионов долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "арестован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "семь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "государственного"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На британском рынке недвижимости появилось - и еще до окончания работ по отделке было куплено - новое чудо : дом , полностью оснащу по последней слову компьютерных технологий , пишу BBC News .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "последнему"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "пишет"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "оснащенный"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Государственная инеекция по безопасности дорожной движения обращаешься к водителям с просьбе заранее планировать маршруты своих поездок с учетом указанных изменений и строго выполнять предписанию дорожных знаков , требованиям и указания сотрудников дорожно-патрульной службы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "предписания"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 6,
+      "correctReplacement": "обращается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "просьбой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "требования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "дорожного"
+    },
+    {
+      "correctReplacement": "инпекция",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

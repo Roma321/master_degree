@@ -1,0 +1,30 @@
+{
+  "text": "В мэрию Москвы журналисту сообщим , что следователь снимал показания с московского мэров прямо в здравии городской администрации на Тверской .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "мэра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "мэрии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "журналистам"
+    },
+    {
+      "correctReplacement": "здании",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

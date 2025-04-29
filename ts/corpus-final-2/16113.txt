@@ -1,0 +1,40 @@
+{
+  "text": "Забастовка начались в шесть утра по всей стране , не затронув только городов Дели и Бомбей , где телекоммуникационными заведуешь компания Mahanagar Telephone Nigam , которая контролируешься государством , нп не относился к департаменту телекоммуникации .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "телекоммуникаций"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 19,
+      "correctReplacement": "заведует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "началась"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "контролируется"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "относится"
+    },
+    {
+      "correctReplacement": "телекоммуникациями",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "но",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

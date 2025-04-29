@@ -1,0 +1,25 @@
+{
+  "text": "Казненный был осуждён зе изнасилование и убийство своей 17-летнего подруги , совершенное семью лет назад .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "осужден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "семь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "17-летней"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

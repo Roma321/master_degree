@@ -1,0 +1,20 @@
+{
+  "text": "По данным российскими военных , афганцы намереваемся пробраться в Чечню , чтобы ворчащие против федеральных сил .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "российских"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "намеревались"
+    },
+    {
+      "correctReplacement": "воевать",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

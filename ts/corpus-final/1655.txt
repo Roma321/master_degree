@@ -1,0 +1,30 @@
+{
+  "text": "При этом Мосгориздирком руководствуюсь законом города Москвы \"О выборах депутатов Московской городской дум , мэра и вице-мэра Москвы и советников районный Собрания в голоде Москва\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "руководствовался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "районного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "думы"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "Мосгоризбирком",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам спикеров Boston Globe , в настоящему время договора подметавшие 237 внештатных авторов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "договор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "спикера"
+    },
+    {
+      "correctReplacement": "подписали",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

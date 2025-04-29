@@ -1,0 +1,20 @@
+{
+  "text": "Раненный в голову и груди Рахимов скончался на месте , его водители в тяжёлом состоянии госпитализирован .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "грудь"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "водитель"
+    },
+    {
+      "correctReplacement": "тяжелом",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В 1996 году , когда в России будем президентские выборы , обе грудок \"щли в одном строю\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "были"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "группы"
+    },
+    {
+      "correctReplacement": "групп",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "\"шли",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

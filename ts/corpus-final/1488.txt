@@ -1,0 +1,25 @@
+{
+  "text": "К сожаление , на сервере не рассказывался т том , как организаторы матча проигнорировали 58-й ход , предложенный чемпионкой США по шахматы среди женщин 15-летней Ириной Краш .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "рассказывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "сожалению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "шахматам"
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

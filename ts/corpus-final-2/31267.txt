@@ -1,0 +1,20 @@
+{
+  "text": "При этом метеорологий уверяют , что ветер в этом районах будет усиливаться .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "метеорологи"
+    },
+    {
+      "correctReplacement": "метеорологов",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

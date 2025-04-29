@@ -1,0 +1,25 @@
+{
+  "text": "Во время плавания к берегам Флориды перегруженная лорке затону , мать и отчим мальчика погибли в море , а ребенок был подобран американским рыбаками .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "затонула"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "американскими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "лодка"
+    },
+    {
+      "correctReplacement": "лодке",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

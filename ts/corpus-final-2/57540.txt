@@ -1,0 +1,20 @@
+{
+  "text": "С среду в Сан-Диего произнёсший крупное пожар .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "крупный"
+    },
+    {
+      "correctReplacement": "произошел",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

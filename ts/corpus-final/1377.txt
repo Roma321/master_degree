@@ -1,0 +1,25 @@
+{
+  "text": "Однако , в Башкирии в нарушение действовавшего законодательства все платежи подоходного налога остаётся в республиканском бюджете и в федеральная бюджеты перечисление подоходного налога не осуществляется .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "бюджет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "остаются"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "действующего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "федеральный"
+    }
+  ]
+}

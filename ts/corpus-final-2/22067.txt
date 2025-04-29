@@ -1,0 +1,40 @@
+{
+  "text": "Как сообщает HTB . Ru , 20-летний Хусейн Алиеву , жители чеченского села Галайты , уже призналась , что принимал активные участие в нападениями на дагестанские села , в уместность на село Гамиях Новолакского района .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "нападениях"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "житель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Алиев"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "признался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "активное"
+    },
+    {
+      "correctReplacement": "частность",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

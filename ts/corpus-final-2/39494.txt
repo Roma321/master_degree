@@ -1,0 +1,20 @@
+{
+  "text": "Теперь путешествие из Нью-Йорка в Вашингтону будет занимать всего 2 часа 28 минут , на полчаса меньше , чем по обычной железного дороге , а из Нью-Йорка в Бостон - 3 часа 23 миньки , на 45 минут быстрее .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Вашингтон"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "железной"
+    },
+    {
+      "correctReplacement": "минуты",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В то же время Назарова заявивший , что в налоговой полиции он не собирается молчать о своём коллегам , который \"разворовывал деньги\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Назаров"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "коллеге"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "своем"
+    }
+  ]
+}

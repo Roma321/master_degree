@@ -1,0 +1,20 @@
+{
+  "text": "На Международной биржа в Лондоне нефть также подорожала , ее срочность увеличившаяся на 75 центов и достигла 25 , 35 доллара за баррель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "увеличилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "бирже"
+    },
+    {
+      "correctReplacement": "стоимость",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

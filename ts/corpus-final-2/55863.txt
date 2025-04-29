@@ -1,0 +1,20 @@
+{
+  "text": "В четверг на одного из предприятиями Петрозаводска , производящей мебель , прозвучал сигнал тревоги .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "производящем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "предприятий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "одном"
+    }
+  ]
+}

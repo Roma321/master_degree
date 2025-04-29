@@ -1,0 +1,30 @@
+{
+  "text": "Среди претендента лидирующий нынешний глава владивостокской администрации юлий Копылов , набранный 55 процентов голосов Ю",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "лидирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "претендентов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "набравший"
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

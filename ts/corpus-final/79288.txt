@@ -1,0 +1,20 @@
+{
+  "text": "После этого тренер сказал , что не собирающийся продолжатьработу со сборную .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "сборной"
+    },
+    {
+      "correctReplacement": "сборную",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

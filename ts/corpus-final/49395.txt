@@ -1,0 +1,30 @@
+{
+  "text": "Отвечая на вопрос журналистов о судьбах похищенного в Чечне генерала МВД Геннадия Шпигуна , министр сказал , сто экспертиза трупа , обнаружившего на прошлой неделе в Шатойском районе , продолжающийся , и пока рано говорить о ее результате .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "судьбе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "продолжается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "результатах"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "обнаруженного"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

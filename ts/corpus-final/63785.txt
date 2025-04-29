@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал Агентстве военных новостей со ссылкой на Сибирский региональное центр МЧС России , на поверхности комбайнера уровень гамма-излучения составляет ориентировочно 10 милирентген в час .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Агентство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "региональный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "контейнера",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

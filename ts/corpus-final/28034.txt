@@ -1,0 +1,25 @@
+{
+  "text": "Никогда ранее с камента запуска евро , в январе прошлых года , биржа не закрывался с курсом единых валюты ниже курса доллара .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "закрывалась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "единой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "прошлого"
+    },
+    {
+      "correctReplacement": "момента",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

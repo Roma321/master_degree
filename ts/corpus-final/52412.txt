@@ -1,0 +1,25 @@
+{
+  "text": "Основания для расследование послужили публикации в польских СМИ , сообщает РИА \"Новости\" со ссылкой на пресс-секретарей прокуратуры Юлиту Собчиу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "пресс-секретаря"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "расследования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Основанием"
+    },
+    {
+      "correctReplacement": "Собчик",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

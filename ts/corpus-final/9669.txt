@@ -1,0 +1,25 @@
+{
+  "text": "Адвокате Никитина Юрий Шмидт заявило , что в документах следствия , представленного для рассмотрения суда , содержатся грубый нарушения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "представленных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "грубые"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "заявил"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Он отметил , что Россия не первой идёшь на такой шага , и напомнил , что Туркменистан ввел визовые режим со странами СНГ более года назад .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "первая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "визовый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "шаг"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "идет"
+    }
+  ]
+}

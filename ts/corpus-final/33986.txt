@@ -1,0 +1,25 @@
+{
+  "text": "Напомнившие , в первом матча римская \"Лацио\" на звоем поле разгромил \"Венецию\" с неприличным счетом 5 : 0 , чем досрочно обеспечил себе выход в финал Кубка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "римский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "матче"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "своем",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Генеральный прокуратура РФ по просьбе следователей Новосибирского УФСБ продлившая сроками разглядывания по делу о подготовке покушения на жизнь губернатора Кемеровской области Амана Тулеева еще на три месяца .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "продлила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Генеральная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "сроки"
+    },
+    {
+      "correctReplacement": "расследования",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как ыообщал Russianlaw . net , суд также обязал ответчиков опубликовать судебного веление в авторитетной газете (\"Коммерсант\" , \"Экономика и жизнь\" или \"Известия\") .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "судебное"
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "сообщал",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

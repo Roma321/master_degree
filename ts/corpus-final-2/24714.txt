@@ -1,0 +1,25 @@
+{
+  "text": "8 октябрей российские спасители вылетели в Норвегию , откуда на плавучая платформе \"Регалия\" направятся в район гибели подлодки .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "вылетят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "плавучей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "октября"
+    },
+    {
+      "correctReplacement": "спасатели",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

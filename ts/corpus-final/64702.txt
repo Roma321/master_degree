@@ -1,0 +1,20 @@
+{
+  "text": "Прекрасно играющий в последние недели токийский теннисисты Марат Сафин покорил еще одну вершину - он вошел в десятку сильнейших теннисисты мира .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "теннисист"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "теннисистов"
+    },
+    {
+      "correctReplacement": "российский",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

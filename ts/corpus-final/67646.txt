@@ -1,0 +1,25 @@
+{
+  "text": "Между тем полномочный представители правительства России в Чечне Николай Кошман заявило в среды в Грозном , что произошедшая накануне теракт был спланирован Масхадовым , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "произошедший"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "представитель"
+    }
+  ]
+}

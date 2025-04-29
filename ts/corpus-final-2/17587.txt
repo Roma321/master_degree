@@ -1,0 +1,25 @@
+{
+  "text": "При этом министр завший понять , что в сюучае подъема подлодки может произойти радиоактивная утечка , вызванный возможными механическими повреждениями корпус подлодки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "корпуса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "вызванная"
+    },
+    {
+      "correctReplacement": "дал",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "случае",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

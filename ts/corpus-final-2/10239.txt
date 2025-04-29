@@ -1,0 +1,20 @@
+{
+  "text": "В настоящих время в больницах Москва находились на излечении более 50 человек , пострадавших в результате террористического акта .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "находятся"
+    }
+  ]
+}

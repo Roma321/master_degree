@@ -1,0 +1,20 @@
+{
+  "text": "Ранее занимаемый должность генеральной директора \"РадиоРоссии\" Виталий Дымарский назначен советником председателяВГТРК по неоднородным проектам .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "занимавший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "генерального"
+    },
+    {
+      "correctReplacement": "международным",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

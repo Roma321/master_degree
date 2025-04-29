@@ -1,0 +1,25 @@
+{
+  "text": "Другой поделившийся критика фильм , \"Платформа\" китайского режиссера Джиа Жангкр , рассказывающий о выросшей в китайской профинции мятежную молодежи 80-х , не получил ничего .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "критике"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "мятежной"
+    },
+    {
+      "correctReplacement": "полюбившийся",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "Жангке",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь \"Эхо Москвы\" , судя по всему самолет совершал незаконгый рейс и переменивший контрабандный грузы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "груз"
+    },
+    {
+      "correctReplacement": "перевозил",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "незаконный",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По словам адвокатов подсудимых , судом по-прежнему оставался открытым , однако на него не аккредиьованные журналистов и не разрешали приносить аудио- и видеоаппаратуру .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "разрешают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "аккредитуют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суд"
+    },
+    {
+      "correctReplacement": "аккредитованные",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

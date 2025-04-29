@@ -1,0 +1,20 @@
+{
+  "text": "Огнем были охвачены второго и четвертый этажи . Очаг возгорания предположительно находился на вторых этаже Л",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

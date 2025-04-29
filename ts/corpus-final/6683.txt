@@ -1,0 +1,20 @@
+{
+  "text": "И неудивительно : в Коммунистической партии Китая 60 миллионов человек , а число поклонников Фалуньгуна оцениваюсь в 100 гиллианах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 15,
+      "correctReplacement": "оценивается"
+    },
+    {
+      "correctReplacement": "миллионах",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

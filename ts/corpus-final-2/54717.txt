@@ -1,0 +1,25 @@
+{
+  "text": "В минувший понедельник следователи столичного прокуратуры допросили вице-премьера правительств Москвы Иосифа Орджоникидзе , на которого неделю назад было совершившее поеушение .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "правительства"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "столичной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "покушение",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

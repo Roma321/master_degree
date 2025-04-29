@@ -1,0 +1,30 @@
+{
+  "text": "Бывшая советник президента РФ и депутат Гоздумы обобщивший также , что намерен добиваться справедливость и поставленные точку в его уголовном деле .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "справедливости"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Бывший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "поставить"
+    },
+    {
+      "correctReplacement": "сообщил",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "Госдумы",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

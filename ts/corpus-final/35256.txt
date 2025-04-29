@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаю РИА \"Новости\" со ссылкой на председателе окружного избиркома Галине Догот , кроме Черепкова , на депутатский мандат в округе претендуют еще 13 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Галину"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "председателя"
+    }
+  ]
+}

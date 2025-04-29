@@ -1,0 +1,30 @@
+{
+  "text": "Представитель Министерства юстиции США во вторник опровергнутый просочившиеся в средства массовой информации слухи о том , что якобы договоренность между Минюстом а корпорацией Microsoft по антимонопольной делу вот-вот будет достигнуто , сообщающий Reuters .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "опроверг"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "достигнута"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "антимонопольному"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

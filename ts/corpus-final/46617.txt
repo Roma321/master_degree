@@ -1,0 +1,35 @@
+{
+  "text": "В первой половинке дня неизвестный сообщивший о том , что в одну из избирательных урн на участок N 1593 по Севастопольскому проспектам заложифшая пластиковая бомба .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "заложена"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "проспекту"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "участке"
+    },
+    {
+      "correctReplacement": "половине",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "заложившая",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

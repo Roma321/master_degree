@@ -1,0 +1,20 @@
+{
+  "text": "Однако , когда знаменитая тенор приехал в отель и попросил ключа от заказанного номера , у него попросили паспорт Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "ключ"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "знаменитый"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

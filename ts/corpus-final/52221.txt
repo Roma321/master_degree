@@ -1,0 +1,25 @@
+{
+  "text": "В телефонных интервью радиостанции Deutsche Welle Аслан Масхадов заявил , что главной причиной нынешней войны на Северном Кавказе ставший сговор кремлевской администрации , финансовой олигархии , человек , которые хотевшие прийти к власти , и чеченских провокаторов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "хотели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "телефонном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

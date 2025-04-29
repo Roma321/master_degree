@@ -1,0 +1,25 @@
+{
+  "text": "Согласно предписанию , Гоззвязьнадзор должен в обозначенные срок сообщить в МАП об аннулирование письма о лишении частотах , передает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "аннулировании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "сроки"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "частот"
+    },
+    {
+      "correctReplacement": "Госсвязьнадзор",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

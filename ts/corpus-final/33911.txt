@@ -1,0 +1,20 @@
+{
+  "text": "Сумму залога похитители оценившие в 100 тысячи доллароф США .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "оценили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

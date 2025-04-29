@@ -1,0 +1,25 @@
+{
+  "text": "Ц интервью телекомпании ABC Мадлен Олбрайт заявлю , что уже несколько месяцев назад была поставлю в известность о возможной прослушивании офисов на ее этаже .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "заявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "возможном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "поставлена"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

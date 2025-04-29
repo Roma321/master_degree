@@ -1,0 +1,25 @@
+{
+  "text": "Примерно через час движение было полностью восстановифшее , и в настоящее времени метро функционирует в нормальному режиме .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "нормальном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "восстановлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "восстановившее",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

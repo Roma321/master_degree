@@ -1,0 +1,20 @@
+{
+  "text": "По акте ограбления возбуждено уголовное дело , начаты следствие .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "факту"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "начато"
+    },
+    {
+      "correctReplacement": "факте",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

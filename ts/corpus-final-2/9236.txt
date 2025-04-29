@@ -1,0 +1,35 @@
+{
+  "text": "Всем пострадафших в результате взрыва в подземном переходе на Пушкинской площади будет оказавшая единовременный материальная помощь из бюджета толики и резервного внебюджетной фонда , сообщил РИА \"Новости\" первый вице-премьер столичного правительства Борис Никольский .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пострадавшим"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "внебюджетного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "единовременная"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "оказана"
+    },
+    {
+      "correctReplacement": "столицы",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "пострадавших",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

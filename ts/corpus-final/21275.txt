@@ -1,0 +1,25 @@
+{
+  "text": "В среду заместитель председателя правительства РФ Илья Клебанов заявил , что Россия полностью готово к 2000 годы , п никаких сбоев в связей с \"проблемой-2000\" не ожидается , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "готова"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

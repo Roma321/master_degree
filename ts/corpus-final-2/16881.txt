@@ -1,0 +1,30 @@
+{
+  "text": "Я лично уважаю его право на собственную позицию , но как рукьводитель , отвечающий за судьбы всего компанией , в которой работают более 1500 люди , принял решение не выпускать программу в эфир\" , - сообщил генеральный директор .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "судьбу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "всей"
+    },
+    {
+      "correctReplacement": "руководитель",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

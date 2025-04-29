@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщил ИТАР-ТАСC первая заместитель начальника Генеральной штаба вооруженных сил России генерал-полковнику Валерий данилов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "генерал-полковник"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Генерального"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первый"
+    },
+    {
+      "correctReplacement": "Манилов",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

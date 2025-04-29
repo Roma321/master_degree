@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , погибну мужчина , не сумевший вйбраться из номеров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "номера"
+    },
+    {
+      "correctReplacement": "выбраться",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

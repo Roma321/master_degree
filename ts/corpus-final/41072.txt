@@ -1,0 +1,20 @@
+{
+  "text": "Однако , по словам режиссера , вот уже почти неделя он \"практически работает в полную силу\" , участвуя в предвыборного гонке , и возвращается в больницу только на ночь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "неделю"
+    },
+    {
+      "correctReplacement": "неделя",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

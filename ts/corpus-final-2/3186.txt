@@ -1,0 +1,20 @@
+{
+  "text": "По его информации , ежесуточно резерврые баки нефтехранилища пополняются на 150 тонны сырого нефти .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сырой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тонн"
+    },
+    {
+      "correctReplacement": "резервные",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

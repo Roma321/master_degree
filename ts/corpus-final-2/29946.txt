@@ -1,0 +1,20 @@
+{
+  "text": "Полиция Лос-анджелесе арестовала некоей Джона Харриса по подозрению в причастности к птхищению в марте 55 статуэток \"Оскара\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Лос-Анджелеса"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "некого"
+    },
+    {
+      "correctReplacement": "похищению",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

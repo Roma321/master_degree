@@ -1,0 +1,20 @@
+{
+  "text": "Когда устало ясно , что судно разламывается на части , его капитан приму решение посадить судне на мель в районе Ласпинской бухты .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "судно"
+    },
+    {
+      "correctReplacement": "стало",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

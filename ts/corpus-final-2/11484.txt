@@ -1,0 +1,20 @@
+{
+  "text": "Судя по всей , это пилот самолетш - единственным , кто находился наборту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "всему"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "единственный"
+    },
+    {
+      "correctReplacement": "самолета",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

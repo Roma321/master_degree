@@ -1,0 +1,20 @@
+{
+  "text": "В результате взрыва и последовавшего затем пожара в двухэтажном 12-квартирной доме в Красносельском районе Петерьурга погибла восьмилетнее девочка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "восьмилетняя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "12-квартирном"
+    },
+    {
+      "correctReplacement": "Петербурга",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

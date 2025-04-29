@@ -1,0 +1,25 @@
+{
+  "text": "Генерал Лев Рохлин был убивший выстрелом из пистолета в висок в ночь на 3 июля 1998 года на своя даче в мдеревне Клоково Наро-фоминским района .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "убит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "своей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Наро-Фоминского"
+    },
+    {
+      "correctReplacement": "деревне",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

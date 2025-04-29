@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того Мбеки пообещал , что его страна официально поддержит суверенная палестинское государство , которое арабская лидер собирался провозгласить в середине сентября , если переговоры ы Израилем так и не завершимся подписанием мирного договора .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "арабский"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "завершатся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "суверенное"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

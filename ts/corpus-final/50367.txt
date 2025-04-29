@@ -1,0 +1,25 @@
+{
+  "text": "Полк войдет в состав 42-м дивизии , подразделения кбторой будут разместим на постоянного основе в станице Калиновская , райцентрах Итум-Кале , Шали и пригороде Грозного Ханкале .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "постоянной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "42-й"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "размещены"
+    },
+    {
+      "correctReplacement": "которой",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

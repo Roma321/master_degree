@@ -1,0 +1,25 @@
+{
+  "text": "Если и повторные выборы не определят президентов страны , то президент Молдавии Петр Лучинский , полномочия которого истекают 15 января 2001 года , распущенный парламенте и назначит даты досрочных парламентских выборов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "парламент"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "распустит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "дату"
+    }
+  ]
+}

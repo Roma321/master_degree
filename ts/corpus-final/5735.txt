@@ -1,0 +1,25 @@
+{
+  "text": "Компания Direct Hit , известный своими исследованиями маршрутов движения пользователей по Сети , исследованная поведение выборки из 1400 человек , которые с 22 по 27 октября ввели в интеренетовские поисковые машины имена Алберта Гору и Билла Брэдли , двух кандидатов га пост президента США .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Гора"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "исследовала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "известная"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 40
+    }
+  ]
+}

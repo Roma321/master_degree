@@ -1,0 +1,25 @@
+{
+  "text": "Коммунальным хозяйствам було поручено обеспечивать погашению долгах за газ и электроэнергию за счет всех выплаты населению , включая зарплату , пенсии и пособия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "выплат"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "долгов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "погашение"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

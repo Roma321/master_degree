@@ -1,0 +1,25 @@
+{
+  "text": "В ближайшее время в Ханкале начнется еще одним судебную проьест по фактам хищения оружия и боеприпасов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "судебный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "процесс",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "протест",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

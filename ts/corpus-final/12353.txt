@@ -1,0 +1,40 @@
+{
+  "text": "1 декабря в Чикаго состоявшаяся первая встреча представителей корпорации Microsoft , 19 американских штатов и Министерства юстиции США с Ричардом Поснеру , который был назначивший чудиёй Джексоном на роль посредника во внесудебной урегулировании разногласий между противниками в рамках антимонопольного иска , сообщаю CNet News . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 41,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "внесудебном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Поснером"
+    },
+    {
+      "correctReplacement": "судьей",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "судиёй",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

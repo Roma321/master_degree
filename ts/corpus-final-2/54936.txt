@@ -1,0 +1,30 @@
+{
+  "text": "В качестве доказательства , пишет Reuters , историки обращаете вниманию на то , что средневековые храмы острова построены в соответствии со \"звященной геометрией\" тамплиеры , которые строили такой образом храмы по всей Европе (самый известный из них - Реннэ-ле-Шато на юге Франции) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "тамплиеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "внимание"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "обращают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "таким"
+    },
+    {
+      "correctReplacement": "\"священной",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

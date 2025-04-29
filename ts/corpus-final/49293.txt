@@ -1,0 +1,30 @@
+{
+  "text": "Вице-президент также сообщили , что сотрудники угандийских спецслужб , допущенные , чтобы в стороне процветаем изуверские культов , будут наказаны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "допустившие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "процветали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "культы"
+    },
+    {
+      "correctReplacement": "стране",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

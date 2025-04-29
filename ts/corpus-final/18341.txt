@@ -1,0 +1,25 @@
+{
+  "text": "На рассмотрениепроекта введения нового географического зоны ICANN потратил несколькомесяцев ; на данном эткпе проект введения зоны . EU еще не представлен вICANN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "новой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "географической"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "потратит"
+    },
+    {
+      "correctReplacement": "этапе",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

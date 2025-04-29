@@ -1,0 +1,25 @@
+{
+  "text": "Комиссии по ценным бумагам и бирже сообщает , что в последние фри месяца Гейтс продал 4 , 15 миллиона акций на сумму в 291 , 2 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "биржам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Комиссия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "три"
+    },
+    {
+      "correctReplacement": "трёх",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

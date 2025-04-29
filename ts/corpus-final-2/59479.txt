@@ -1,0 +1,35 @@
+{
+  "text": "Так , продавце товаров или услуг не можешь определить , имеет ли он дело с фермой или частным лицом , и не могущий определившие также , находится ли покупатель на территории тому же государства , что и коммерсант .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "определить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "продавец"
+    },
+    {
+      "correctReplacement": "фирмой",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

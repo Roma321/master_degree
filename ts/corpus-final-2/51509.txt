@@ -1,0 +1,20 @@
+{
+  "text": "Дополнительный период не изменила счет на табло , а первая же серия штрафных бросков завершидась победой российской сборных .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "изменил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "сборной"
+    },
+    {
+      "correctReplacement": "завершилась",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

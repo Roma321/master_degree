@@ -1,0 +1,35 @@
+{
+  "text": "По словам Трошин , потключая зарубежные СМИ и российских политика , руководство холдинга стремится помешать расследованию дела Гусинском , а некоторые политике прямо призывают испанские власти не выполняющие просьбу прокуратуры России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "политиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Гусинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Трошина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "выполнять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "политики"
+    },
+    {
+      "correctReplacement": "подключая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

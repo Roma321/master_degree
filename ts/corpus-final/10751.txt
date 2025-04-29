@@ -1,0 +1,30 @@
+{
+  "text": "Из этих денек 150 миллионов марок будут внесены центральным правительствами , а 100 миллионов - земельной руководством , сообщаемый газета Financial Times .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "правительством"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "земельным"
+    },
+    {
+      "correctReplacement": "федеральным",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

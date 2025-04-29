@@ -1,0 +1,40 @@
+{
+  "text": "Спустя месяцы после того , вак Ельцин назвали нового премьера своим преемником , Путин плетется в самих хвост всех рейтингов , набирав не более двух прожектов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "набирая"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "самом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "хвосте"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "как",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

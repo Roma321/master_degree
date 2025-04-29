@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщаемый ИТАР-ТАСС со ссылкой на представителя правоохранительных огановом Германии , жердвами теракта стали 11 человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "оганов"
+    },
+    {
+      "correctReplacement": "жертвами",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

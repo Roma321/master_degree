@@ -1,0 +1,25 @@
+{
+  "text": "Как отмеченные в пресс-службой , в ночь на субботу сотрудники компании планируем заменить новое неисправное программное обеспечение на старые , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "пресс-службе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "планируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "старое"
+    }
+  ]
+}

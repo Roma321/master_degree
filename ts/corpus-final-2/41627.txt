@@ -1,0 +1,20 @@
+{
+  "text": "Реальных доходы россиян по сравнению с аналогичными периодом 1999 года выпавшие в январе-октябре на 9 , 4 процента , а в октябре - на 7 , 8 процента .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Реальные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "аналогичным"
+    },
+    {
+      "correctReplacement": "выросли",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

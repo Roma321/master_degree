@@ -1,0 +1,20 @@
+{
+  "text": "Это встреча прошла на дняд в селе Беной Ножай-Юртовского района республики .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Эта"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "днях",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

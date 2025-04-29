@@ -1,0 +1,25 @@
+{
+  "text": "Эпидемия стремительно разрастающиыся , и сейчас в республике работал многопрофильный госпиталь Всероссийском Центра медицины катастроф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "разрастается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Всероссийского"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "разрастающийся",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По вине водителя автокрана 19 апреля на час было парализовано выдвижения на Садовом кольце и оборвано 700 метров контактного троллейбусной сети .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "движение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "контактной"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

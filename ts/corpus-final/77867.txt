@@ -1,0 +1,30 @@
+{
+  "text": "Однако в пятницу , 30 июня , Дума поддержу решение совета палаты о проведении 19 июля по просьбе правительству дополнительного пленарной засрдания эля рассмотрения налоговых законопроектов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "пленарного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "поддержала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "правительства"
+    },
+    {
+      "correctReplacement": "для",
+      "type": "paronym",
+      "wordNumber": 22
+    },
+    {
+      "correctReplacement": "заседания",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

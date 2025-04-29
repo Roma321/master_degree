@@ -1,0 +1,25 @@
+{
+  "text": "По заявлении адвокатов Кажегельдина , его арест связан с предстоящими 10 октября выборами в Национальным Меджлис Казахстана , куда баллотировался бывший премьер-министр Ю",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "баллотируется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "Национальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "заявлению"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , он приговорён к штрафу в 20 миллионов рупий (400 тысяч долларов) и в течение 21 года лишен права заниматься имущественная деятельностью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "общественной"
+    },
+    {
+      "correctReplacement": "общественная",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

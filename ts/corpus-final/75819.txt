@@ -1,0 +1,25 @@
+{
+  "text": "Знаменитый американский боквер-тяжеловес Майк томсон за 38 секунд одержанный победу над своим соотечественнику Лу Саваресом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "одержал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "соотечественником"
+    },
+    {
+      "correctReplacement": "Тайсон",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "боксер-тяжеловес",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению Reuters , в рамках своей нового предвыборная кампании Бдэр приехал на церемонию открытия нового колледжей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "предвыборной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "колледжа"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "Блэр",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

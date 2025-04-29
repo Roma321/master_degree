@@ -1,0 +1,20 @@
+{
+  "text": "Водитель грузовика , принадлежащего местному частному предприятию , не справилась с управлением и выехал на полосу встречного уважения , где произошло лобового столкновение с \"Икарусом\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "справился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "лобовое"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

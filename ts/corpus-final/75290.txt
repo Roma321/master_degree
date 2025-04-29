@@ -1,0 +1,25 @@
+{
+  "text": "В понедельник Burger King прекратил комсанию по раздавшая дисков , которая длившаяся более двух недель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "длилась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "раздаче"
+    },
+    {
+      "correctReplacement": "раздача",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "компанию",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

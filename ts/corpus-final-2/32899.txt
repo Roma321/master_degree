@@ -1,0 +1,20 @@
+{
+  "text": "По его данным , ставки вывозных пошлин за тонне бензина и сиятельного топлива повышенные с 25 до 32 евро , на мазут - с 20 до 27 евро .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "повысят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "тонну"
+    },
+    {
+      "correctReplacement": "дизельного",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

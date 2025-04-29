@@ -1,0 +1,25 @@
+{
+  "text": "Они заявившие журналистам , что обвинительный венедикт вынесший вопреки свидетельствам , доказывающим невиновности их подзащитного , и назвали процесс политическим судом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "невиновность"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "вынесен"
+    },
+    {
+      "correctReplacement": "вердикт",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

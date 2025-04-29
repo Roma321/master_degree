@@ -1,0 +1,20 @@
+{
+  "text": "Специалисты министерства говорите , что у них есть запас удовольствия на насколько дней .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "говорят"
+    },
+    {
+      "correctReplacement": "продовольствия",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "несколько",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

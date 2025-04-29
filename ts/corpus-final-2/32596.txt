@@ -1,0 +1,20 @@
+{
+  "text": "Когда расследование дела было закончено , обвиняемым грозило по восьми годов тюрьмы - минимальный наказание для преступления такого рода .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "восемь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "минимальное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "лет"
+    }
+  ]
+}

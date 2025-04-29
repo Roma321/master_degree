@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данным проходящей в настоящее время переписи населения , доли имаигранта за последние год еще более возросла , при том , что нелегальных иммигрантов учесть практическки невозможно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "годы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "иммигрантов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "доля"
+    },
+    {
+      "correctReplacement": "иммигранта",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

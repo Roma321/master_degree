@@ -1,0 +1,30 @@
+{
+  "text": "В апреле текущем года Россия вернется к переговорам с МВЦ и Всемирным баном , на которых намерена обсудить исполнение своего бюджет в первом квартале , сказал Касьянова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "текущего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "бюджета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Касьянов"
+    },
+    {
+      "correctReplacement": "банком",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "МВФ",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

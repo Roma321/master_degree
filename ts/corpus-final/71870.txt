@@ -1,0 +1,20 @@
+{
+  "text": "Тысячи человечками скандировали лозунги , прославляемые покойного президента страны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "прославляющие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "людей"
+    },
+    {
+      "correctReplacement": "людьми",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

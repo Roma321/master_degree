@@ -1,0 +1,40 @@
+{
+  "text": "Расследованием дела занимающийся и ФБР , представители которого говорящие , что на выяснения обстоятельств всех преступлений уйдет много времени , так как для этом потребовался взаимодействие с правоохранительными органами и правительствами ного странам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "этого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "говорят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "стран"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "занимается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "выяснение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "потребуется"
+    },
+    {
+      "correctReplacement": "многих",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

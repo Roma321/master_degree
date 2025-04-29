@@ -1,0 +1,30 @@
+{
+  "text": "Главной событием третьего тура чемпионатов Россией по футболу стал матч лидеров верховенства - московских кшубов \"Спартак\" и \"Локомотив\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Главным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "чемпионата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "первенства",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "клубов",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Президент РФ Владимир Путин указами назначу Германа Грефа , министра экономического развития и торговли РФ , управлявшим от Российской медитации в Европейском банке реконструкцией и развития .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "управляющим"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "назначил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "указом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "реконструкции"
+    },
+    {
+      "correctReplacement": "Федерации",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

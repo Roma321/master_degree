@@ -1,0 +1,20 @@
+{
+  "text": "Если этого на произойдет , во втором туре встретились два кандидата , которые набрал больше всего голосов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "встретятся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "набрали"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

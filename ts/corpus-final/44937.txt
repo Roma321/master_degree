@@ -1,0 +1,20 @@
+{
+  "text": "фак соообщаемый New York Post , во вторнике на бирже Nasdaq значительно упали в цене акции Agency . com , Fogdog , Egghead и Fashionmall . com .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "соообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "вторник"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

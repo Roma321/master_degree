@@ -1,0 +1,25 @@
+{
+  "text": "Его арестуем после того , как 13 января этого года в лесном массиве неподалеку од города Витина было обнаружившее тело 11-летнего Мериты Шабиу со средами сексуального насилия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "11-летней"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "арестовали"
+    },
+    {
+      "correctReplacement": "следами",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

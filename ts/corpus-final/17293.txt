@@ -1,0 +1,25 @@
+{
+  "text": "Проект координируется наднациональной научным фонда , под эгидой которого соберётся комиссия , куда войдут юристы , специалисты в области Интернет-технологий и эксперты-политологи .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "соберется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Национальным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "фондом"
+    },
+    {
+      "correctReplacement": "Национальной",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Основанием для возбуждение уголовного дела послужили результаты проверки соответствия перевозочных и таможенных документов на груз , находящееся на борту самолётов ИЛ-76 , арендуемой \"Ист-Лайн\" у украинской авиакомпании АО \"Авиакомпания Воларе\" и совершавшего рейс по маршруту Шэньян (Китай) - Иркутск - Москве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "арендуемого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "возбуждения"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "находящийся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "самолета"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "авиакомпанией"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 40,
+      "correctReplacement": "Москва"
+    }
+  ]
+}

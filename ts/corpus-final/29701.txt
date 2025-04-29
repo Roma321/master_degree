@@ -1,0 +1,30 @@
+{
+  "text": "Правительздво России и миссия Международного валютной фонда пока расходятся в прогнозе динамик важнейших макроэкономических показателей РФ в 2000 году , в частность - на среднегодовой курс рубля и объем номинального ВВП России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "прогнозах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "динамики"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "частности"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "валютного"
+    },
+    {
+      "correctReplacement": "Правительство",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Во всех эти случаях технологии , провозглашающие \"пиратскими\" , были узаконены судом , всякий раз постановляфшей , что возможность пиратского использований любых технических новшеств не должна служить препятствием для их легального применения .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "провозглашаемые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "использования"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "постановлявшим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "этих"
+    },
+    {
+      "correctReplacement": "постановлявшей",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

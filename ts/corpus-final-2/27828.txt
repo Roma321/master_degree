@@ -1,0 +1,35 @@
+{
+  "text": "Синоптики обещаемые дожди и ветер , который могущий достигнуть скорости 130 кубометров в часа на побережьях страны и более 90 километров в час - к Парижем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "обещают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Париже"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "час"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "может"
+    },
+    {
+      "correctReplacement": "километров",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Леви полагает , что программа Word может сообщать пользователей о наличии в открываемого файлах внешних ссылок точно так же , как предупреждающий о наличии макросов (в которых молут распространяться вирусы) .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "предупреждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "открываемых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "пользователям"
+    },
+    {
+      "correctReplacement": "могут",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

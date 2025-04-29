@@ -1,0 +1,25 @@
+{
+  "text": "Каксообщило министерство внутреннего дел , уточнившее данные ожертвах этой катастрофы , трагедия на автостраде под Сарагоссой- самая крупной в стране за последние 3 год Э",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "крупная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "внутренних"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На площади Святого Петра в воскресенье Иоанн Павел II отсщужило мессу и благословил деятелей индустрии развлечений - циркачи , комика , кино- и театральных артистов , продюсеров , администраторов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "отслужил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "комиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "циркачей"
+    },
+    {
+      "correctReplacement": "отслужило",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

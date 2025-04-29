@@ -1,0 +1,25 @@
+{
+  "text": "Совет старейшин ультраортодоксальной партии ШАС принявший решение о выходе ее тленов из правительства Израиля , возглавляемого премьер-министром страны Эхудом Бараком , заявивший сегодня лидере партии Эли Ишаи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "лидер"
+    },
+    {
+      "correctReplacement": "членов",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

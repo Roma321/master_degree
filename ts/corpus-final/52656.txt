@@ -1,0 +1,20 @@
+{
+  "text": "В Министерстве энергетики наблюдались сбои в компьютерного системе закупок , а в NSF - в системе , предоставляющей информацию излучателям гранта Фонда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "грантов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "компьютерной"
+    },
+    {
+      "correctReplacement": "получателям",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

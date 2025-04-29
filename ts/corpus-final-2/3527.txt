@@ -1,0 +1,25 @@
+{
+  "text": "Постоянные и крупные клиенты интернет-магазина получают ряде преимущества : консультации экспертов галереи , приглашение на вернисажи галереи Гельмана и крупные организуемые галереей отставки , скидки в интернет-магазине до 25 процентов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "преимуществ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "ряд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "приглашения"
+    },
+    {
+      "correctReplacement": "выставки",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

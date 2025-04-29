@@ -1,0 +1,25 @@
+{
+  "text": "Такого прогноз сделавший субботы президент компании \"ЮКОС\" Михаил Ходорковский , выступая на открывшем шестого слета учителей-победитей конкурса \"Учитель года России\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Такой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "субботу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сделал"
+    },
+    {
+      "correctReplacement": "открытии",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

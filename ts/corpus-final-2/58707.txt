@@ -1,0 +1,30 @@
+{
+  "text": "Разработанный IBM сервис , названный WebSphere Translation Server , позволенный интернет-провайдерам и другим организациям , предоставляющими достцп в Сеть , осуществлять перевод \"на лету\" веб-страниц , почты и чатами с юдина языка на другой .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "позволит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "предоставляющим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "чатов"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "доступ",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

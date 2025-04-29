@@ -1,0 +1,30 @@
+{
+  "text": "При проведениях операции по спасению экипажа атомной подводных лодки \"Курск\" в 50 метрах от нее на грунтах российскими спасателями было \"обнаружено нечто похожее на ограждения боевой трубки , установленной на подводных лодках США и Великобритании\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "проведении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "ограждение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "подводной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "грунте"
+    },
+    {
+      "correctReplacement": "рубки",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

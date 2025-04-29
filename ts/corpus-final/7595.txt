@@ -1,0 +1,25 @@
+{
+  "text": "Причиню государству ущерб составленный 4 , 5 миллиардов неденоминированных рублей и 10 гиллиан долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Причиненный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

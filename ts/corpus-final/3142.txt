@@ -1,0 +1,30 @@
+{
+  "text": "В настоящего время бывшая вице-президент BONY Люси Эдвардс и ее мужья , владелец фирмы Benex Петер Берлин , находятся в Лондонах , а руководитель компании Torfinex Алексее Волков проживаешь в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "Алексей"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "проживает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "муж"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Лондоне"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    }
+  ]
+}

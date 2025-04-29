@@ -1,0 +1,40 @@
+{
+  "text": "По данным рекрутерская компании Challenger Gray & Christmas , опубликованному в понедельника , за ноябрь сокращено 8 789 рабочим мест , что на 55 процентов превосхожу октябрьские показатели , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "рекрутерской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "рабочих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "понедельник"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "опубликованным"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "превосходит"
+    },
+    {
+      "correctReplacement": "понедельники",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

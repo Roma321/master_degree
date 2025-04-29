@@ -1,0 +1,20 @@
+{
+  "text": "От взрывов пострадали стоящие рядом многоквартирные тома : выбиты стекла , повредившие лифты , покорежены дверью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "повреждены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "двери"
+    },
+    {
+      "correctReplacement": "дома",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

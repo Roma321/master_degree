@@ -1,0 +1,35 @@
+{
+  "text": "Представитмли правительства России и США подписали соглашение , по которому США безвозмездно поставите в наше страны , начиная с марта , 300 тысяч тонн продовольственной пшеницы и 200 тысячам тонн готового продовольствия (в основном - молока и риса) для малообеспеченных россиян , школ и больниц , а также - 20 тысяч тонн посевных семени (кукурузы и гороха) .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "поставят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "страну"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "нашу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 53,
+      "correctReplacement": "семян"
+    },
+    {
+      "correctReplacement": "Представители",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

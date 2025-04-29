@@ -1,0 +1,25 @@
+{
+  "text": "Нынешнее повышение цен на нефти , по мнению социалистк , даст нефтяникам возможность выйти на уровень рентабельности .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "специалистов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "нефть"
+    },
+    {
+      "correctReplacement": "специалиста",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "социалиста",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Это произошёл , потому что фсему уже до смерти надоел ельцинский режим .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "всем"
+    },
+    {
+      "correctReplacement": "всему",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает новое со ссылки на \"Интерфакс\" , самолеты Су-24 , Су-25 и вертолеты Ми-24 совершил 49 боевых вылетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "совершили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

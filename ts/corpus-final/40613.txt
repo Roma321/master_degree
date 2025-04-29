@@ -1,0 +1,25 @@
+{
+  "text": "По предварительным данным , среди демократов на вылорах уверенной победу одержала вице-президент Альберт Гор , в то время как среди республиканцев первым был губернатор Техаса Джордж Буш-младший , - сообщающий Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "уверенную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "одержал"
+    },
+    {
+      "correctReplacement": "выборах",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

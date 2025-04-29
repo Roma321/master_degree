@@ -1,0 +1,25 @@
+{
+  "text": "9 февраля успешно проведены первые летные испытания новых разгонного блока \"Фрегат\" для отечездвенных ракет-носителей тип \"Союз\" , передает РИА \"Новости\" со ссылкой на пресс-службу ракетными войск стратегического назначения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "типа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "ракетных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "отечественных",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

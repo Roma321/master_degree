@@ -1,0 +1,25 @@
+{
+  "text": "Березовский сообщил журналистам , что вопрос о создании новой движения он обсуждавший с рядом глав негионов , в частности с президентом Чувашии Федоровым , губернаторами Свердловской областях Эдуардом Росселем и Курской области - Александром Руцким .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "обсуждал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "регионов",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

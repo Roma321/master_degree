@@ -1,0 +1,20 @@
+{
+  "text": "В финале сборная США встречусь с французами , которые совершенно неожиланно обыграли в полуфинала хозяев Олимпиады - 76 : 52 .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "полуфинале"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "встретится"
+    },
+    {
+      "correctReplacement": "неожиданно",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

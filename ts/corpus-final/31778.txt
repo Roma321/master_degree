@@ -1,0 +1,25 @@
+{
+  "text": "нагрузка нефтепродуктоф в терминалы порту Маскат откладывалась , поскольку российские компании ждали результатов независимой экспертизы грузу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "груза"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "порта"
+    },
+    {
+      "correctReplacement": "Выгрузка",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "нефтепродуктов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Даже Боркавучичи , министр по международным финансовым и экономическиисвязями , не сможет совершать визиты в эти страны .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "БоркаВучич"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "экономическимсвязям"
+    },
+    {
+      "correctReplacement": "экономическимсвязями",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

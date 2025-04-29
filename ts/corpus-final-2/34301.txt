@@ -1,0 +1,30 @@
+{
+  "text": "Второе место делят премьер-министра Мугур Изареску а бывший премьер тендер Столоян , чей сайт также подверглась атакой хакеров .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "подвергся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "атаке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "correctReplacement": "Теодор",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

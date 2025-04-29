@@ -1,0 +1,25 @@
+{
+  "text": "К субботе в опроме принявшие счастье граждане свыше 231 стране мира .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "приняли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "страны"
+    },
+    {
+      "correctReplacement": "участие",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "опросе",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

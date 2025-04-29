@@ -1,0 +1,25 @@
+{
+  "text": "Об этом корреспонденту ИТАР-ТАСС сообщила сегоднязаместитель генарального директоров авиакомпании \"Аэрофлот -российские международные авиалинии\" по авиационной ипроизводственной бесплатности Владимир Антонов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "директора"
+    },
+    {
+      "correctReplacement": "безопасности",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "генерального",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

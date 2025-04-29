@@ -1,0 +1,30 @@
+{
+  "text": "Вы бы назвали те же фамилию , сказалибов , что эти люди всех ограбили , что все украли , все отправили заграницу - ровно об эго сегодня пишут все газеты мира \" , - спазал лидер \"Яблока\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "фамилии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сказалибы"
+    },
+    {
+      "correctReplacement": "этом",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "сказал",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

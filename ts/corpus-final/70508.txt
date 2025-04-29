@@ -1,0 +1,20 @@
+{
+  "text": "Как и сильнейший теннисист страны , Сафина добрался до четвертьфинала , где уступил одному из лидеров игровая сезона - шведу Магнусу Норману .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Сафин"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "мирового"
+    },
+    {
+      "correctReplacement": "мировой",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

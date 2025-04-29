@@ -1,0 +1,25 @@
+{
+  "text": "В документе гарантируюсь , что новое коалиционный правительство страны будет соблюдать нопмы по защите прав человека и соблюдениям демократических ценностей в Австрии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "коалиционное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "соблюдению"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "гарантируется"
+    },
+    {
+      "correctReplacement": "нормы",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

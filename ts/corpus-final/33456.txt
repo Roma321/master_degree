@@ -1,0 +1,25 @@
+{
+  "text": "По их мнению , появление такого компании обеспечит загрузку мощности росмийской транспортной системы и увеличит налогооблагаемое базу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "такой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "налогооблагаемую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "мощностей"
+    },
+    {
+      "correctReplacement": "российской",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

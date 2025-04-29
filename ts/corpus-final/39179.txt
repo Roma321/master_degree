@@ -1,0 +1,20 @@
+{
+  "text": "Накануне Явлинский заявила журналистам , что у его объединения в Санкт-Петербурше \"был и остается\" свою кандидат - бывший первый заместитель губернатора Игорь Артемьев .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "Санкт-Петербурге",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

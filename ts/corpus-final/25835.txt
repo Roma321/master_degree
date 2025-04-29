@@ -1,0 +1,30 @@
+{
+  "text": "Врачам Института скорой помощи имени Склифосовского спасти самоубийцу не удалось : мужчина скончался через полчаса после того , как был доставивший в больницу с трамвами различная степенях тяжести , сообщаемый Федеральное агентство новости .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "различной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "доставлен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "степени"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "новостей"
+    }
+  ]
+}

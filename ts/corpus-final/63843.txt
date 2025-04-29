@@ -1,0 +1,30 @@
+{
+  "text": "7 октября телекомпания CNN со ссылкой на материалы агентств Associated Press и Reuters передавшая , что автобус с чеченскими беженцем был обстреляю российским танком , в результат кого погибли 40 человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "беженцами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "передала"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "обстрелян"
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Она отметившая , что в Берлине был подписан монументы , в соответствии с которым немецкая сторона обязуется безвозмездно выделить 10 миллиардов марок пострадавшим от нацизма гражданам Польши , Чехии , Украиоы , Белоруссии и России , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "документ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отметила"
+    },
+    {
+      "correctReplacement": "документы",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "Украины",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

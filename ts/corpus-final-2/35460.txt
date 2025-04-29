@@ -1,0 +1,35 @@
+{
+  "text": "По ее данным , Lucent была атакую с использованиями некоего средства Defend , которое похоже на программу , использованных хакером на сервере FloodNet во времени кибер-акции в поддержку мексиканских повстанцев Сапетисты в 1998 году .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "хакерами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "использованную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "атакована"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "использованием"
+    },
+    {
+      "correctReplacement": "Сапатисты",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

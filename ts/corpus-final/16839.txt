@@ -1,0 +1,20 @@
+{
+  "text": "Они открыли огонь , в результатах чего были подбиты не менее семи танках п восьми БТРов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "танков"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

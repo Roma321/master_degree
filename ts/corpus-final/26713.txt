@@ -1,0 +1,35 @@
+{
+  "text": "Центральная избирательная комиссия России зарегистрирую в понедельник инициативных группу избирателей , выдвинувшего депутата Госдумы , предсадателя объединения \"Яблоко\" Григория тувинского кандидатом на поста президента России .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "инициативную"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "зарегистрировала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "выдвинувшую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "пост"
+    },
+    {
+      "correctReplacement": "Явлинского",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

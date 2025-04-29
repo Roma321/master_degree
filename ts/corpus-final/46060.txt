@@ -1,0 +1,25 @@
+{
+  "text": "Благодаря благоприятному отравлению ветра гари и дым не распространились на жилые районы города , а попадём в промышленный райое .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "попали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "гарь"
+    },
+    {
+      "correctReplacement": "направлению",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "район",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

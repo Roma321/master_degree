@@ -1,0 +1,25 @@
+{
+  "text": "Раскрыто одно из двух слуфая нанесения тяжких телесных повреждений , 2 из трех разбоев , 10 из 13 совершенных грабежам , 25 из 42 краж , 5 из 9 совершенных квартирных краж .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "случаев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "грабежей"
+    },
+    {
+      "correctReplacement": "телесных",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "случая",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

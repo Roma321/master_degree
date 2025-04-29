@@ -1,0 +1,20 @@
+{
+  "text": "Дипломат увенчался на месте , упав на крышу приемного отделение \"Скорой помощи\" клтники , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "отделения"
+    },
+    {
+      "correctReplacement": "скончался",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "клиники",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

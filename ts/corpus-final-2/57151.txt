@@ -1,0 +1,35 @@
+{
+  "text": "В ночи на чреду , ровно в полночь , на пульту \"01\" поступило сигнал о возгорании на третьемэтаже строящегося домом , расположенное по адресу улица маршала Захарова , дом 20 , передает собственный корреспондент Lenta . Ru .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пульт"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "дома"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "ночь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "поступил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "расположенного"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

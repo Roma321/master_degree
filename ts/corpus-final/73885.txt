@@ -1,0 +1,30 @@
+{
+  "text": "Министр выразили уверенность , что если лозунги партии о содействии построению демократического общества , эффективному развитию экономики , повышению уровня благосостояния людей не остались декларациях , то \"партия \"Единство\" внесет своду вклад в историю России . \"",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "выразил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "декларациями"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "останутся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "свой"
+    },
+    {
+      "correctReplacement": "своему",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

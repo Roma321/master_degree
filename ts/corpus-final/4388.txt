@@ -1,0 +1,40 @@
+{
+  "text": "Документы свидетельствуемый о том , что на тайной встрече , состоявшейся в канцелярии юридического советника сожительства 16 июня 1996 гоз , стороны договорились об утаивании сведений , касающихся убийств Ицхака Рабине 4 ноября 1995 года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Документ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "убийства"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "Рабина"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "свидетельствует"
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "год",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

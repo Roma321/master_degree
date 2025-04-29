@@ -1,0 +1,25 @@
+{
+  "text": "Еврокомиссия указала Лондону , что тот нарушу существующие нормативы , не отвечу в положенный срок отчёт на заптос из Брюсселя о состоянии АПЛ Tireless .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "нарушил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "ответив"
+    },
+    {
+      "correctReplacement": "ответ",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "запрос",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

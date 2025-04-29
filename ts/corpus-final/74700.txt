@@ -1,0 +1,25 @@
+{
+  "text": "Во вторник ц Высочайшей эрмитажном суде Российского Федерации состоялось рассмотрение дела о домене Kodak . Ru .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Российской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "Высшем"
+    },
+    {
+      "correctReplacement": "Арбитражном",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

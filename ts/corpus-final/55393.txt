@@ -1,0 +1,30 @@
+{
+  "text": "Новый порядок оплаты требуемый наличия на лицевцх счётах грузоотправителей и экспедиторских организаций денежных средств в размере не менее 60 доцентов от среднемесячного суммы провозных платежей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "требует"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "среднемесячной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "счетах"
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "лицевых",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Пожару была присвоена вторая категории сложностях , на место прибыли 20 пожарных раачетов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сложности"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "категория"
+    },
+    {
+      "correctReplacement": "расчетов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

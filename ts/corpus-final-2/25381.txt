@@ -1,0 +1,25 @@
+{
+  "text": "На завоше имени Тельмана были проведём работы по внешнему оформлениям вагона , его окончательная доработка будет завершена на Московском вагоноремонтных заводе имени Войтовича .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "вагоноремонтном"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "проведены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "оформлению"
+    },
+    {
+      "correctReplacement": "заводе",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "За принятия документа проголосовали 345 депутатоф , \"против\" и воздержавшихся не было , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "принятие"
+    },
+    {
+      "correctReplacement": "депутатов",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

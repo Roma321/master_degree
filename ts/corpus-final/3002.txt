@@ -1,0 +1,25 @@
+{
+  "text": "В распространенном сегодня совместном заявлении Райнхардта и Кушнера подчеркивается , что международноесообщество не потерпят нарушения в Косово прав гражданок на свободу передвижением .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "права"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "передвижения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "потерпит"
+    },
+    {
+      "correctReplacement": "граждан",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

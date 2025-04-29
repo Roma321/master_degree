@@ -1,0 +1,30 @@
+{
+  "text": "Определения численность населения в Индии носим достаточно условный характеры , поскольку ежедневно здесь рождается около 42 тысячами человек , а регистрация новорожденных ведётся не слишком тщательно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "характер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "численности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "ведется"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "носят"
+    }
+  ]
+}

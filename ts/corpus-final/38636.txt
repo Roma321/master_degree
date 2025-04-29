@@ -1,0 +1,30 @@
+{
+  "text": "Однако китайские власти утверждаем , что дный лама покинул Тибет в поисках имевших ритуальное значения вещей , принадлежащих прежнему ламе Кармапы .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "значение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "принадлежавших"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "имеющих"
+    },
+    {
+      "correctReplacement": "юный",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

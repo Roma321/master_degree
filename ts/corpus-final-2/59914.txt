@@ -1,0 +1,20 @@
+{
+  "text": "Прибывшие туда пожарные бригады эвакуировали из отеля около 400 человек и быстро взятые огонь под контролёры .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "контроль"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "взяли"
+    },
+    {
+      "correctReplacement": "контроли",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

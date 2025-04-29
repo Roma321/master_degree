@@ -1,0 +1,20 @@
+{
+  "text": "В результате крупного железнодорожной аварии под Кельном в местечке Брюли погибли 9 человек , около ста раним , передает ВВС .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "ранены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "крупной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Брюль"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Магазины крупного тогговой сети США Best Buy в четырех городах изъятые из продажи партию компьютерр Hewlett-Packard на базе нового процессора Pentium 4 , сообщает в четверг онлайновый журнал PC World .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "изъяли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "крупной"
+    },
+    {
+      "correctReplacement": "компьютеров",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "торговой",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

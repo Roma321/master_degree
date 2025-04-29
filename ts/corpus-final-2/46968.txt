@@ -1,0 +1,30 @@
+{
+  "text": "При покупке обвиняемого использовал номера десяти кредитных карточки , которые , согласно сообщению агентства , были украдём в США и переданы в Россию американской слобщником обвиняемого .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "украдены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "карточек"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "обвиняемый"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "американским"
+    },
+    {
+      "correctReplacement": "сообщником",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

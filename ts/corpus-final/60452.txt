@@ -1,0 +1,25 @@
+{
+  "text": "Риск дефолт по российским еврооблигациям в течениепоследних 18 месяцев существенно снижусь , отмечается в пресс-релизе Fitch IBCA , благодаря экономическому росту , увеличению полотно резервов страны , а также прогрессу в сфере урегулирования бтношений с кредиторами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "дефолта"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "снизился"
+    },
+    {
+      "correctReplacement": "золото-валютных",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "отношений",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

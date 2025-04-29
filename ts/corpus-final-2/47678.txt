@@ -1,0 +1,30 @@
+{
+  "text": "Как заявило в четверги Бэйкон , некоторое время спустя на авианосец по электронной почте пришюи письмо , содержащее две фотографии палубы Kitty Hawk , сделанные с русских самолётах во время одной из таких акций российских ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "самолетов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "пришло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "четверг"
+    },
+    {
+      "correctReplacement": "пришли",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На встрече исполняющей обязанности президента с руководителем Пенсионного фондом также обсуждались вопросы адресной помощи наименее ббеспеченным пенсионерам , в том числе живущим на Крайней Севере и Дальних Востоке .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "фонда"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "Крайнем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "Дальнем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "исполняющего"
+    },
+    {
+      "correctReplacement": "обеспеченным",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

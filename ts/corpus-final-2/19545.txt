@@ -1,0 +1,15 @@
+{
+  "text": "Тяжелый грузовик на высокой скорости врезался в автобан , стоявшая у остановки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "стоявший"
+    },
+    {
+      "correctReplacement": "автобус",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Сегодня на российских отражённых заводе , по данным АВН , производятся автоматы и пулеметы третьей поколения АК - АКМ-74 и его версии АК-101 и АК-102 под натовский патрон калибра 5 , 56 миллиметре , АВ-103 и АК-104 под патрон 7 , 62 , АК-105 под патрон 5 , 45 и ряд других .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "заводах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "миллиметра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "третьего"
+    },
+    {
+      "correctReplacement": "оружейных",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "АК-103",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В ночь с воскресенья на понедельник огнем артиллерии федеральных сил поврежден магистрального газопровод , прельщающий по территории Чечни в Дагестаны , передает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Дагестан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "магистральный"
+    },
+    {
+      "correctReplacement": "пролегающий",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

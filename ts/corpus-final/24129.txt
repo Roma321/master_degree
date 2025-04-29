@@ -1,0 +1,30 @@
+{
+  "text": "По прогнозам экспертов из F-Secure , большинство новых вирусы , которые будут появляющиеся в ближайшее время , будут задействовавшие и под Windows 2000 , поскольку ожидается , что эта операционная система стафший весьма популярной .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "появляться"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "вирусов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "станет"
+    },
+    {
+      "correctReplacement": "действовать",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "ставший",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

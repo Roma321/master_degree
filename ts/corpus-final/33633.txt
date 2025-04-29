@@ -1,0 +1,20 @@
+{
+  "text": "Прибывшим на место катастрофы пожарным на удалось справившиеся с огнем , и четыре машины с людьми сгорели практически полностью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "справиться"
+    },
+    {
+      "correctReplacement": "катастрофы",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

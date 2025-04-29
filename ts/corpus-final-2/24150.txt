@@ -1,0 +1,25 @@
+{
+  "text": "По сведениям HTB . Ru , до 20 процентов АЗС города испытывающие острое хватки бензина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "нехватку"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "испытывают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "острую"
+    },
+    {
+      "correctReplacement": "нехватки",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

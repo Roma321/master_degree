@@ -1,0 +1,20 @@
+{
+  "text": "\"Поэтомувсе то , о чем пишет сейчас мировая пресса на первых страницах , вымогли ослушающие в любой русской деревнях пяти лет назад от любогочеловека от 5 до 85 лет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "пять"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "деревне"
+    },
+    {
+      "correctReplacement": "услышать",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

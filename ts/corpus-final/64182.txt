@@ -1,0 +1,15 @@
+{
+  "text": "В четвертый раз отменна старт ракеты Atlas-3 , оснащенной российским двигптелем РД-180 , сообщает телекомпания НТВ .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "отменен"
+    },
+    {
+      "correctReplacement": "двигателем",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

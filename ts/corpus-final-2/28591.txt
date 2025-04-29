@@ -1,0 +1,20 @@
+{
+  "text": "Шеф местного полиции заявлю , что \"мистер Дэвис ответит зк свой поступок перед судом , а заодно объяснит , как ему удалось не попасться полицейским\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "местной"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

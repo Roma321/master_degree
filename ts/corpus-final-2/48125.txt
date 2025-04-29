@@ -1,0 +1,35 @@
+{
+  "text": "Всего в фестивалю участвовал семь игровые , 18 документальных , один анимационныр и даже юдин многосерийный \"социальный видеоплакат\" , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "игровых"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "фестивале"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "участвует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "анимационный"
+    },
+    {
+      "correctReplacement": "один",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "анимационные",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

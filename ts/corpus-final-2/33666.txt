@@ -1,0 +1,20 @@
+{
+  "text": "На выборах ы Читинской области уже подсчитавшие голоса примерно 70 процентов избирателя , сообщает \"Интерфакс\" со ссылкой на источники в областной избирательной комиссии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "подсчитаны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

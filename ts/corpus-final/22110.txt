@@ -1,0 +1,30 @@
+{
+  "text": "Еще одной указом Путина Вячеслав Васягин освобождён от дол.ности начальника хозяйственного управления администрации презентом России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "освобожден"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "одним"
+    },
+    {
+      "correctReplacement": "президентом",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "должности",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

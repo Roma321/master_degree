@@ -1,0 +1,35 @@
+{
+  "text": "В среду французская компания Cogema , специализировавшаяся на радиоактивном топлива , подала в суд на экологическое движение Greenpeace , обвиняя экологоф в того , что они нанесли ущерб имуществу компании , когда устанавливали web-камеру на трубе , выбрасывающей радиоактивные отход в водой Ла-Манша .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "топливе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "специализирующаяся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 41,
+      "correctReplacement": "воды"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 39,
+      "correctReplacement": "отходы"
+    },
+    {
+      "correctReplacement": "экологов",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

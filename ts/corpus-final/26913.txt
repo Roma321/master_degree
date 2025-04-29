@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщил заместитель начальнике отдела УБЭП ГУВД Свердловского области Игорю Мальчиков , ситуации осложнялась тем , что преступники были хорошо организуем и законспирированы , пользовались современными средствами коммуникации и \"другими специальными приемами\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "ситуация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "начальника"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Игорь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "организованы"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Свердловской"
+    }
+  ]
+}

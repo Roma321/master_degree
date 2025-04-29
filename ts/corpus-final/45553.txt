@@ -1,0 +1,20 @@
+{
+  "text": "Истицы утверждали , что администрация агентства проводила дискриминационных политику в отношении женщин , отдающие предпочтение мужчинам при подборе кадров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "дискриминационную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "отдавая"
+    },
+    {
+      "correctReplacement": "мужчинам",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

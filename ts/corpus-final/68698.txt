@@ -1,0 +1,25 @@
+{
+  "text": "2 июнь на 80-м году жизни скончался известное кинорежиссер , народный артист СССР , лауреат Государственного иеремии Михаил Швейцер .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "известный"
+    },
+    {
+      "correctReplacement": "премии",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Только что избранный депутатом Госдуме России АсланбекАслаханов добавляемый , что \"погибший был сперва избитприкладом автоматов , после черо по нему убывший открыт огонь\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "добавляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Госдумы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "автомата"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "чего",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

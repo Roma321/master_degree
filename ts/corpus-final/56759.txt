@@ -1,0 +1,35 @@
+{
+  "text": "Кроме того , предстою вывести мистическую станцию на более высокую орбиту : из-за повышенной солнечной активностей станция теряемый около трех километра высоты в неделе .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "активности"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "предстоит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "неделю"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "теряет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "километров"
+    },
+    {
+      "correctReplacement": "космическую",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

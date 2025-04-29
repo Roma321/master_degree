@@ -1,0 +1,20 @@
+{
+  "text": "Благодаря помощи пожарных в роддомах Евпатории благополучно родилась дурочка , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "роддоме"
+    },
+    {
+      "correctReplacement": "девочка",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

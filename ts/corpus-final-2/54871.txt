@@ -1,0 +1,25 @@
+{
+  "text": "Президент Лучински направила в Конституционный суде запрос , в котором просил разъяснить , имеет ли он право распустить парламенты после сгыва депутатами выборов президента в прошлый четверг .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "парламент"
+    },
+    {
+      "correctReplacement": "срыва",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

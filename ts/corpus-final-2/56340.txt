@@ -1,0 +1,30 @@
+{
+  "text": "Теракт 1987 год вызвал такой взрыв гнездованию у мировой общественности , что ИРА на следующего же день сообщила , что испытываю \"глубокое сожаление\" по поводу случившегося и все замышлялось совсем не так .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 20,
+      "correctReplacement": "испытывает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "негодования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "следующий"
+    },
+    {
+      "correctReplacement": "негодованию",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

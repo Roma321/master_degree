@@ -1,0 +1,25 @@
+{
+  "text": "С 27 июля до 18 августа 1998 год 4 , 5 миллиардов докладов первого транша перевёдшие с начального счета ЦБ России в Federal Reserve Bank на счет номер N608555800 в Republic National Bank of New York .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "переведены"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "миллиарда"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

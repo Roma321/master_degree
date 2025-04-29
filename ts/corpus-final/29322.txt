@@ -1,0 +1,20 @@
+{
+  "text": "Более 130 человек погибли в этом же аэропорту в 1993 годы , когда авиалайнер столкнулся со взлетавшим военному реактивный самолетом .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "году"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "реактивным"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "военным"
+    }
+  ]
+}

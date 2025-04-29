@@ -1,0 +1,30 @@
+{
+  "text": "В течении первого года китайцы возьмут разные образцы грибков с разного фигур и передадут им на анализ бельгийским экспертам , чтобы те определим , как эффективнее всего с рими бороться .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "их"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "разных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "течение"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "определили"
+    },
+    {
+      "correctReplacement": "ними",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

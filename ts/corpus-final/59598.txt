@@ -1,0 +1,25 @@
+{
+  "text": "В командировку на Северный Кавказ отправившийся хабаровский отряд специфичной назначения внутренних войск Восточного военной округа , передает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "отправился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "специального"
+    },
+    {
+      "correctReplacement": "специальной",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

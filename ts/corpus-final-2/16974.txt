@@ -1,0 +1,35 @@
+{
+  "text": "Между тем , как сообщает HTB . Ru , овальное увеличение поставок нефти составлю не более 100 тысяч баррелей , тык как некоторые членам ОПЕК (например , Саудовская Аравия) неофициально уже поставляют на рынки около 700 тысяч барреля ежедневно .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "рынок"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "составит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 37,
+      "correctReplacement": "баррелей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "члены"
+    },
+    {
+      "correctReplacement": "реальное",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "так",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

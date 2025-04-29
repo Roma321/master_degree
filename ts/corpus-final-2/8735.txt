@@ -1,0 +1,25 @@
+{
+  "text": "Согласно решению суда , компания Yahoo должно передать компании Apple имени и другие персональные данные пользователя , который опубликованный на web-страницах GeoCities внутреннюю информацию о деталях новой компьютера компании Apple .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "имя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "опубликовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "должна"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Х понедельник израильская премьер-министр Эхуд Барак обвинил палестинцев в нарушении договоренности о прекращении огня и заявил , что отклонит любой просьбу палестинцев о международной помощи и направлении подразделений на Ближнем Восток , сообщающий Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "израильский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Ближний"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "любую"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 32,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

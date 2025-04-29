@@ -1,0 +1,45 @@
+{
+  "text": "Как сообщили корреспонденту ФАН на комбинате , около 21 : 00 по московскому времени в воскресенье , когда на комбинате пе буду его генеральной директора Александру Ванторина и ту части трудовых коллективов , которая активно противостояла передаче ЦБК в руки представителей английской фирмы \"Alcem\" , рабочие предприятия , не получавшие зарплату с сентября и недавно получившие от новых хозяев авансе в 1000 рублей , открыли ворота комбината .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "трудового"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "той"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "Александра"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "коллектива"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 59,
+      "correctReplacement": "аванс"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

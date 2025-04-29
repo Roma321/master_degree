@@ -1,0 +1,25 @@
+{
+  "text": "Как передаёт \"Интерфакс\" , двое девятилетних школьников пропали еще накануне вечером . Родители одного из они сразу же обратились у милицию , но поиски ничего не дал .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "них"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "дали"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

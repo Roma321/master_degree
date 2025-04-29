@@ -1,0 +1,25 @@
+{
+  "text": "Претположительно взорвалось около килограмма даровая пороха , которым кто-то оставил у входа в подъезд .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "дымового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "который"
+    },
+    {
+      "correctReplacement": "дымовой",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "Предположительно",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Другие свидетели происшествий утверждают , что для поломки преступника полиция задействовала вертолёт , который кружил над районами в течение получаса .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "вертолет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "районом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "correctReplacement": "поимки",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

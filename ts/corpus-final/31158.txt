@@ -1,0 +1,25 @@
+{
+  "text": "Соперника Месиче , предстацителя левоцентристского коллизии Дражена Будишу , поддержали 43 , 8 процента избирателей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Месича"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "левоцентристской"
+    },
+    {
+      "correctReplacement": "коалиции",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "представителя",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

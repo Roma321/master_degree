@@ -1,0 +1,40 @@
+{
+  "text": "Жительница штата Иллинойс подам в суд на местные McDonald's , на производителей бумажными стаканчиков , на производителя подставок для буиажных стаканчиков и на свой собственную мать после того , как пролила на себя кофе , сообщающий AP .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "подала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "бумажных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "местный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "производителей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 35,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "бумажных",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

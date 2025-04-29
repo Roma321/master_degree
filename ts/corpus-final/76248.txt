@@ -1,0 +1,15 @@
+{
+  "text": "По словам врачи , четверо раненых находятся ч критическом состоянии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "врачей"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

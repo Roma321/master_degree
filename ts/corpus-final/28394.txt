@@ -1,0 +1,20 @@
+{
+  "text": "Текст приказа также был обнародовано по местное телеканалу \"Ичкерия\" Э",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "обнародован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "местному"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

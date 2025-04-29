@@ -1,0 +1,20 @@
+{
+  "text": "По предварительным данным , погибло 18-летней девушка , еще девять человек получили ожогах и травмы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "погибла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "18-летняя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "ожоги"
+    }
+  ]
+}

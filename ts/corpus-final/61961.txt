@@ -1,0 +1,25 @@
+{
+  "text": "Предприниматель кредивший на корпусах проблесковые маячкам красного и синего цветов , оснастивший машину сиреной и даже нарисовал по бокам синие полосы с надписью “милиция” .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "маячки"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "корпусе"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "оснастил"
+    },
+    {
+      "correctReplacement": "укрепил",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

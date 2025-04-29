@@ -1,0 +1,25 @@
+{
+  "text": "Ранения различных степени тяжести получили десять военнослужащих , в иом числе заместитель командира роты капитаны Виктор Грачев и командир взвода старший лейтенантом Роман Сотников .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "различной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "капитан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "лейтенант"
+    },
+    {
+      "correctReplacement": "том",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

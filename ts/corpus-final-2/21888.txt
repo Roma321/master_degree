@@ -1,0 +1,20 @@
+{
+  "text": "В результате столкновение , произошедшего около 20 часов , иномарка потерял управление , пробила ограждение набережной и упала в воды .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "потеряла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "воду"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "столкновения"
+    }
+  ]
+}

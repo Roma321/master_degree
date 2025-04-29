@@ -1,0 +1,20 @@
+{
+  "text": "Пожарные быстро справились с пламенем и провптрили помещения , однако работой аэропорта была прервана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "помещение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "работа"
+    },
+    {
+      "correctReplacement": "проветрили",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

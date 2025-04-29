@@ -1,0 +1,25 @@
+{
+  "text": "На вопрос о перспективах проведений выборками в Чечне , Кадыров ответил , что \"выборы будут проведены тогда , когба закончится военная кампания , все беженцы вернутся\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "выборов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "проведения"
+    },
+    {
+      "correctReplacement": "выборами",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "когда",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По словам владельца , коту вовсе не хулиган : животные отличается уравновешенным характером и спит на телефоне только потому , что ьам тепло .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "кот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "животное"
+    },
+    {
+      "correctReplacement": "там",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

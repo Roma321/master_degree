@@ -1,0 +1,25 @@
+{
+  "text": "Парламент Армении одобрил в первой чтениях изменения и дополнений к Закону \"О профилактике завоевания , вызванного вирусом иммунодефицита человека\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "дополнения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "чтении"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "первом"
+    },
+    {
+      "correctReplacement": "заболевания",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

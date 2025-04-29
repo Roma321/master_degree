@@ -1,0 +1,35 @@
+{
+  "text": "В своём послании жители села Побочино сообщили , что в канун выборов главе администрации , в сентябре 1999 года , губернатор Леонид Полежаев , баллотирующийся на сторож сроки , пообещали построить в селе водораспределительную станцию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "своем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "главы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "баллотировавшийся"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "срок"
+    },
+    {
+      "correctReplacement": "второй",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

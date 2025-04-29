@@ -1,0 +1,25 @@
+{
+  "text": "Первый президент России ждал в гости старых друзей , знакомых , тех , кно проработанный с ним не одна год .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проработал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "ждет"
+    },
+    {
+      "correctReplacement": "кто",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

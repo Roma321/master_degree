@@ -1,0 +1,30 @@
+{
+  "text": "Борис Березовский продающий 49-процентное пакет акций ОЬТ Роману Абрамовичу - предпринимателю , победившему в декабре прошлого год на выборах губернатора Чукотского автономной округа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "продает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "автономного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "49-процентный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "года"
+    },
+    {
+      "correctReplacement": "ОРТ",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В 1998 коду из кракофской университета (одного из древнейших в Европе) были похищены более 60 редких книг - в том числе первоиздание совершившей переворот в науке книги Николай Коперника \"De revolutionibus orbium coelestium\" (\"О вращении небесных тел\" , 1543) .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "Николая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "краковского"
+    },
+    {
+      "correctReplacement": "году",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "краковской",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

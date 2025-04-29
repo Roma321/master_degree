@@ -1,0 +1,15 @@
+{
+  "text": "Из тройку лидеров чеапионата России по футболу только московское \"Торпедо\" потерпело поражение в матче 21-го тура .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "тройки"
+    },
+    {
+      "correctReplacement": "чемпионата",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

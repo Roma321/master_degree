@@ -1,0 +1,25 @@
+{
+  "text": "Необходимо уточнить , что многие из подозрительных трагзакций , раскрытых российскими следователями , представляют собой не деньгу организованной преступности , а деньги , спрячем от уплат тарифов и налогов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "спрятанные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "уплаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "деньги"
+    },
+    {
+      "correctReplacement": "транзакций",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

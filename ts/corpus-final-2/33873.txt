@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом быщо решён отметить 100-летию королевы Елизаветы и 150-летие дружеских отношений между Францией и Великобританию .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "решено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "100-летие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Великобританией"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

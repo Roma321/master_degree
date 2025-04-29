@@ -1,0 +1,25 @@
+{
+  "text": "В Москве по подозрению в совершении развратных действий в сотворении несовершеннолетних задержу преподаватели физкультуре одной из школ , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "задержан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "преподаватель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "физкультуры"
+    },
+    {
+      "correctReplacement": "отношении",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

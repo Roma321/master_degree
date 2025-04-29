@@ -1,0 +1,25 @@
+{
+  "text": "Об этом сообщаю РПА \"Новости\" со слов нервного заместителей начальника Генштаба ВС России Валерия Манилова .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "заместителя"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "первого",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

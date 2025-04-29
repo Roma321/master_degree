@@ -1,0 +1,20 @@
+{
+  "text": "Лужков остались недоволен данным решением суда , поскольку в своем иске оценил нанесенный ему моральным ущерб в 240 милтонов рублей .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "остался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "моральный"
+    },
+    {
+      "correctReplacement": "миллионов",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Неприятные ощущения испытали тех , кто во время землетрясения находилась на верхних этажах токийских небоскребов , которые раскачивались невольно сильно .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "те"
+    },
+    {
+      "correctReplacement": "довольно",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

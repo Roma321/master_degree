@@ -1,0 +1,25 @@
+{
+  "text": "Позже на карнизе 4-го этаж были обнаружены два девочки , пяти и семь годов , которых женщина сбросила с крыши перед тем , как прыгнуть .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "этажа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "семи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "лет"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Правительство Китая объявили сегодня , вто собирается наложить запреты на иностранные инвестиции в китайский Интернем и другие телекоммуникационные службы страны , сообщающий сегодня Associated Press .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "запрет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "объявило"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "Интернет",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Депутат считает , что генитальная прокуратуры должнасосредоточиться на борьбе с преступностью и передать надзорныефункции , закрепим в наспоящее момент за ней , в Министерствоюстиции .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "закрепленные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "correctReplacement": "Генеральная",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

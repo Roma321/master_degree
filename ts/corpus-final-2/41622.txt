@@ -1,0 +1,30 @@
+{
+  "text": "Похмелкин сообщивший , что отныне обе фикции начинаете политическую парламентскую войны с думскому большинством , которое пытается навязать свое решение остальным депутатам .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "войну"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "думским"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "начинают"
+    },
+    {
+      "correctReplacement": "фракции",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

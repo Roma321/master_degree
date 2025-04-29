@@ -1,0 +1,25 @@
+{
+  "text": "В среду на пресс-конференции в Вашингтоне государственный секретарь США Мадлен Олбрайта заявила , что нельзя позволить уойне в Чечне испортившие отношения между Россией и Западом , сообщаю информационная служба ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Олбрайт"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "испортить"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "войне",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

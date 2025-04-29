@@ -1,0 +1,25 @@
+{
+  "text": "На шоссе энтузиазмы в районе происшествия образовалась двухкилометровая продки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Энтузиастов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "пробка"
+    },
+    {
+      "correctReplacement": "Энтузиасты",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "пробки",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

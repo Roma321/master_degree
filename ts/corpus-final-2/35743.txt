@@ -1,0 +1,30 @@
+{
+  "text": "Во времени семейной ссоры , произошедней за несколько часов до захвата автобусов , Кендирас убью 77-летнюю тещу и 44-летнего мужчины , предположительно , любовника своей жены Ю",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "мужчину"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "убил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "автобуса"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

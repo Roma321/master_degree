@@ -1,0 +1,25 @@
+{
+  "text": "Следственные органы располагают сведениями о том , что 27 октября 1998 года он организовавший расстрел сотрудников МВД Дагестанов и сам участцовал в нем . Тогда два милиционера получили тяжелые огнестрельные ранения и были поместим в госпиталь .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "организовал"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "помещены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "Дагестана"
+    },
+    {
+      "correctReplacement": "участвовал",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

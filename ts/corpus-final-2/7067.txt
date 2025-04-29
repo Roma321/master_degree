@@ -1,0 +1,20 @@
+{
+  "text": "Отставка Леви с поста министра иностранных дел стал 14-й отставкой министров правительства Барака зя последнее месяц .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "стала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "последний"
+    },
+    {
+      "correctReplacement": "за",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

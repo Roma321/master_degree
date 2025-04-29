@@ -1,0 +1,30 @@
+{
+  "text": "Нехватки питьевой воды , скопление десятков тысяч жителей , полностью отрезанных от остальной территориях страны , на милой площади и невозможность скорой их эваауации привёдшие к возникновению эпидемий холеры и малярии .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "привели"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "территории"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Нехватка"
+    },
+    {
+      "correctReplacement": "малой",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "эвакуации",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

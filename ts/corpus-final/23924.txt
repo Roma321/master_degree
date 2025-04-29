@@ -1,0 +1,25 @@
+{
+  "text": "Однако после заседания ЦИК он заявивший , что в ближайшего бремя инициативная группа намерена обжаловать решение комиссии в Верховном седе .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "ближайшее"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "суде",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

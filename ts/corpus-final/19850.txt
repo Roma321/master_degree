@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , практически каждый день в Джакарте у посольств Чвстралии , Великобритании , США проходящие демонстрации протестов под лозунгами \"Руки прочь от Восточного Тимора\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "проходят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "протеста"
+    },
+    {
+      "correctReplacement": "Австралии",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Сотрудники МСД Северной Осетии избили купальник заставы Владикавказского пограничного отряда старшего лейтенанта Олегу Шиманова , передаваемый РИА \"Новости\" со ссылкой на пресс-центр ФПС России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "начальника"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Олега"
+    },
+    {
+      "correctReplacement": "начальник",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

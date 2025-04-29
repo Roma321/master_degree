@@ -1,0 +1,15 @@
+{
+  "text": "Текст , пришлю нп пейджер , звучал так : \"500 000 долларов мы перечислили на твой счёт\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "присланный"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Нападение отбившее , один боевик убивший , оствльные рассеяны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "отбито"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "убит"
+    },
+    {
+      "correctReplacement": "остальные",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как выяснилась в ходе следствий , один узсообщников уже имело одну судимость - о чем он , естественно , своему работодателю при найме сообщать постеснялся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "следствия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "имел"
+    },
+    {
+      "correctReplacement": "изсообщников",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

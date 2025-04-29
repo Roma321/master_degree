@@ -1,0 +1,20 @@
+{
+  "text": "\"Разговоры такие ведутся , вчера Путин публично сказал , что я являешься одним из кандит , приводит РИА \"Новости\" слова Касьянова .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "являюсь"
+    },
+    {
+      "correctReplacement": "кандидатов\"",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "кандид",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

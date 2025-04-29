@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил корреспонденту Reuters командир экипажей самолета Йенс Олтофф , хотя Lufthansa и уверена , что предупреждены все потенциальные компьютерных неполадки , связанные с \"проблемой-2000\" , она принимают дополнительные меры во избежание возможного непредусмотренных сбоев .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "возможных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "принимает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "компьютерные"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "экипажа"
+    }
+  ]
+}

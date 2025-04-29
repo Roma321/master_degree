@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаю Associated Press , в будущем 30-летней Хезер Ингрем грозил до зятя лет лишения свободой .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "грозит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "свободы"
+    },
+    {
+      "correctReplacement": "пяти",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили журналистам в дежурного части Управления государственной противопожарного службы Москвы , за минувшие сутки в гоиодах произошло 158 возгораний , 52 из них - в жилых домах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "дежурной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "противопожарной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "городе"
+    },
+    {
+      "correctReplacement": "городах",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

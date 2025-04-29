@@ -1,0 +1,20 @@
+{
+  "text": "Один человек прокисший , и четверо полачили тяжелые травмы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "погиб"
+    },
+    {
+      "correctReplacement": "погибший",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "получили",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

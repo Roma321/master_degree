@@ -1,0 +1,20 @@
+{
+  "text": "По данным прокуратуры , речь идет о хищениях имущества чусти на сумке около двух миллионов рублей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "сумму"
+    },
+    {
+      "correctReplacement": "сумме",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "части",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

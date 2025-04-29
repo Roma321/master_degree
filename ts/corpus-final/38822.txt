@@ -1,0 +1,25 @@
+{
+  "text": "Согласно результатам исследования , наибольшее риску приобрести пагубные привычки через Интернет подвергающиеся женщина , гомосексуалисты , студёные и другие \"сексуально неудовлетворенные\" группы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "подвергаются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "женщины"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "наибольшему"
+    },
+    {
+      "correctReplacement": "студенты",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

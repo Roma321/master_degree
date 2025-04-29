@@ -1,0 +1,30 @@
+{
+  "text": "Он сказал , что вопрос о дальнейшего аудьбой Анн Нивой \"будет рассмотрен в соответствии с действующим российской законодательством\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "российским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Нива"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "судьбе"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "дальнейшей"
+    },
+    {
+      "correctReplacement": "судьбой",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

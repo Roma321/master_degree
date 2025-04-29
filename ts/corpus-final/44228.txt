@@ -1,0 +1,25 @@
+{
+  "text": "По словам очевидцев , автомобиль , в котором нахожусь кандидат в президенты , внезапно потерял управление , съехал с трассы с врезалось в деревья .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "врезался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "дерево"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По прогнозам метеорологий , улучшение обстанофки в средой не произойдет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "улучшения"
+    },
+    {
+      "correctReplacement": "метеорологов",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "обстановки",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

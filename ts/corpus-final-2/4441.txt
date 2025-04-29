@@ -1,0 +1,35 @@
+{
+  "text": "В . Ковалев сообщил также , что центральная часть города по-прежнему остается подтопившей , так как произведенный во фторник взрыв заторов на реке Баксаны не принесённый ожидаемом эффекта .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "Баксан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "затора"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "принес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "ожидаемого"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "подтопленной"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

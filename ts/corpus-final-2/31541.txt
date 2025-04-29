@@ -1,0 +1,30 @@
+{
+  "text": "К ненастоящей времени пожар полностью потушен , производится оценка характерм повреждений , составлен планы экстренных мероприятия по ликвидации последствий чрезвычайного происшествия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "план"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "мероприятий"
+    },
+    {
+      "correctReplacement": "настоящей",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "характера",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По данным регионального центром МЧС , поичиной отравлениялюдей стала плановый выброс в атмосферой газа , о чем населениедеревни не было заранее проинформировано со стороны руководстваОАО \"Межрегионгаз\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "стал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "центра"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "атмосферу"
+    },
+    {
+      "correctReplacement": "причиной",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

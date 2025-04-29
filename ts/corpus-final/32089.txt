@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь само РБК , \"в течение одну минуты\" вместо собственной информации агендздва на сайте был помещены текст в стиле пропагандистских листовок чеченских боевиков .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "помещен"
+    },
+    {
+      "correctReplacement": "агентства",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

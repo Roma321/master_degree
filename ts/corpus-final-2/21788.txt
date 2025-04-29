@@ -1,0 +1,25 @@
+{
+  "text": "На второй месте а результатом 11 , 12 секли . финиширую гречанка Екатерина Тану .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "сек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "финишировала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

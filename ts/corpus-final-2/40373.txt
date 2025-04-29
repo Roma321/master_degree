@@ -1,0 +1,20 @@
+{
+  "text": "Кроме кругюой суммы , две из истиц полученные также предложение от компанию уволиться в обмен на 100 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "компании"
+    },
+    {
+      "correctReplacement": "круглой",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

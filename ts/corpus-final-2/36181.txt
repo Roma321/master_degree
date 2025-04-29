@@ -1,0 +1,20 @@
+{
+  "text": "К месту аварии также приехало мэр москвы Юриы Лужков .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "приехал"
+    },
+    {
+      "correctReplacement": "Москвы",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Юрий",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

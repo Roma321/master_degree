@@ -1,0 +1,30 @@
+{
+  "text": "Двух базы боевиков уничтожила армейское авиация за минувшие сутки в горных районе Чечни , сообщаю \"Интерфакс\" со ссылкой на пресс-центрОбъединенной группировки федеральных сил нп Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Две"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "районах"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "армейская"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

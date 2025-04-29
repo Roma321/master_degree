@@ -1,0 +1,20 @@
+{
+  "text": "Новый датк будет объявлена дополнительно после согласования двумя стороны .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Новая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сторонами"
+    },
+    {
+      "correctReplacement": "дата",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

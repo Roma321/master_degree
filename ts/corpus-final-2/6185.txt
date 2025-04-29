@@ -1,0 +1,30 @@
+{
+  "text": "Данных о жертвах и разрушениях попа нет , однако по сообщениям государственного телевидения , при взрыве бывшее много погибоем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "погибших"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "было"
+    },
+    {
+      "correctReplacement": "пока",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "погибнем",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

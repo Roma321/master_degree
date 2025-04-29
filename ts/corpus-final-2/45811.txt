@@ -1,0 +1,20 @@
+{
+  "text": "Эта победа принёсшая бразильца миллион 125 тысяч долларов и первое место в рейтигге АТР по итогам года .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бразильцу"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "принесла"
+    },
+    {
+      "correctReplacement": "рейтинге",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

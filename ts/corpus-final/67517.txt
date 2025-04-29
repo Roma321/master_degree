@@ -1,0 +1,25 @@
+{
+  "text": "Брошюры задержаны до предъявлением их владелицей сопроводительных документов , а Катзаровой вздувшая соответствующая гвитанция .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "предъявления"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "выдана"
+    },
+    {
+      "correctReplacement": "выдавшая",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "квитанция",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

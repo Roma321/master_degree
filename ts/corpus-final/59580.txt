@@ -1,0 +1,20 @@
+{
+  "text": "Отряд исламистов численностью около 20 человек обстреляю автобус , не остановившийся пт их требованиям .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "требованию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обстрелял"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

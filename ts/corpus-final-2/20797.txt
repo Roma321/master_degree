@@ -1,0 +1,35 @@
+{
+  "text": "Часть образующихся при этом всходов збрасывающийся в озеро , где , по слову Тейлора , уровень радиаций уже в сто раз выше , чем был в районе Чернобыля после катастрофы 1986 годов на АЭС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сбрасывается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "радиации"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "отходов",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "сбрасывающийся",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

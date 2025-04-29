@@ -1,0 +1,20 @@
+{
+  "text": "По данным июльского исследования Gallup Net , трёхмесячная посещаемость сервера Чертовы Кулички во II квартале текущих года составлявшая 276 . 800 человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "составляла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "текущего"
+    },
+    {
+      "correctReplacement": "среднемесячная",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

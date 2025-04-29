@@ -1,0 +1,30 @@
+{
+  "text": "Вторая часть яндекса включал главы , регламентируем ставки налога на добавленную стоимость , акцизных сборов , налога на доходы физических лиц , а также единой социальной налога .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "включает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "регламентирующие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "единого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "социального"
+    },
+    {
+      "correctReplacement": "кодекса",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

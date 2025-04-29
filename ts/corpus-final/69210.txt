@@ -1,0 +1,25 @@
+{
+  "text": "Арабская компания собираюсь также организовать в Хазарском порт сервисную базу для опслуживания морской бурения и эксплуатации скважин .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "морского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "порту"
+    },
+    {
+      "correctReplacement": "обслуживания",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

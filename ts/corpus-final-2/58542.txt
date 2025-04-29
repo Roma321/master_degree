@@ -1,0 +1,25 @@
+{
+  "text": "Одному из них взрывом оторванное ноги , другой был серьезно сразивший в головы и живот .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "ранен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "голову"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "оторвало"
+    },
+    {
+      "correctReplacement": "ранивший",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

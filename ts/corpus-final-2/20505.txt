@@ -1,0 +1,30 @@
+{
+  "text": "Георгий Гонгадзе вынужден был обратившиеся с открытой письмом в Генпрокуратуру Украиной , после чего , как писанные сотрудники \"Украигской правды\" , слежка как будто прекратилась .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Украины"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "пишут"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "открытым"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "обратиться"
+    },
+    {
+      "correctReplacement": "\"Украинской",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

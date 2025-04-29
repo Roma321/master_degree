@@ -1,0 +1,30 @@
+{
+  "text": "В ходе расследования по делу допрошено и признаю потерпевшими около 40 тысяч человек , изъяты , осмотрено и приобщившее к делам в качестве вещественных доказательств более 100 тысфч документов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "признано"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "приобщено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "изъято"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "делу"
+    },
+    {
+      "correctReplacement": "тысяч",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

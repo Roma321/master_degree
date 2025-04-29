@@ -1,0 +1,25 @@
+{
+  "text": "Новая службе Kodak проявляют фото , распечатывают их на фотобумаге Kodak , рассылает по почтам , а также сканирует и публикует в Интернете .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "проявляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "почте"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "распечатывает"
+    },
+    {
+      "correctReplacement": "служба",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

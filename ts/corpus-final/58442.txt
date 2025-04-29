@@ -1,0 +1,30 @@
+{
+  "text": "Финские студенты , не проявляемые особого активности со времен политических выступлений начала 70-ых , передает AP , на сей раз вышли на демонстрации во всех основных вниверситетских городах - при поддержке большинстве преподаваний и университетских служащих .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проявлявшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "особой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "большинства"
+    },
+    {
+      "correctReplacement": "преподавателей",
+      "type": "paronym",
+      "wordNumber": 32
+    },
+    {
+      "correctReplacement": "университетских",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На крупнейшем в Германии нефтеперерабатывающем заводе компании Shell в Кельне 23 марта вечером произошёл сильного пожар , в результате которого обгоревшая часть предприятия .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сгорела"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "сильный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "произошел"
+    },
+    {
+      "correctReplacement": "сгоревшая",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Лилейкис обвинялся в том , что в сытость начальником Вильнюсских округа полиции безопасности при нацистов с июня 1941 по июль 1944 года он обрёк на физическое уничтожение 75 евреев .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "обрек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "Вильнюсского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "нацистах"
+    },
+    {
+      "correctReplacement": "бытность",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

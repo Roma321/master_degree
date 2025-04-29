@@ -1,0 +1,25 @@
+{
+  "text": "По словам помощника президента , эту аппаратуру для выхода в эфир использованный Аслан Масхадов , а ее сигнал можоо было принимать даже в такой достаточно крупном населённой пункте как Урус-Мартан .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "населенном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "использовал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "таком"
+    },
+    {
+      "correctReplacement": "можно",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

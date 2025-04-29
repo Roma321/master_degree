@@ -1,0 +1,20 @@
+{
+  "text": "Список претендентах на президентский порт рабтет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "претендентов"
+    },
+    {
+      "correctReplacement": "пост",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "растет",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

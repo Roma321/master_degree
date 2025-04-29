@@ -1,0 +1,20 @@
+{
+  "text": "Родившееся в Австралии , а в зрелого возрасте принявший гражданство США Мердок является одним из богатейших людей планеты Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Родившийся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "зрелом"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

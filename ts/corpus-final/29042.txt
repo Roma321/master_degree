@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил во вторник помощник президента Россия Сергей Ястржембский , ему было предоставлена право пригласить адвоката , а в еженедельник его смог воспользоваться услугами окулиста .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "предоставлено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "он"
+    },
+    {
+      "correctReplacement": "понедельник",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

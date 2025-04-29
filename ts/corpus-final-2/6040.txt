@@ -1,0 +1,30 @@
+{
+  "text": "С того момента , как в декабре минувшего годов ETA прервала длившийся 14 месяцев перемирие с впавдими , члены этой организации совершим уже семь политических убийств .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 21,
+      "correctReplacement": "совершили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "длившееся"
+    },
+    {
+      "correctReplacement": "властями",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "впавшими",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

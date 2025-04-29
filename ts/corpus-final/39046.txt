@@ -1,0 +1,30 @@
+{
+  "text": "Оо привез дочерью к зубному врачу и , когда вышел из клиники и направляюсь к своему автомобиль , был выхваченный группой вооруженных людей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "автомобилю"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "дочь"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "направлялся"
+    },
+    {
+      "correctReplacement": "схвачен",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "Он",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

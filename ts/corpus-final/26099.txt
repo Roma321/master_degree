@@ -1,0 +1,25 @@
+{
+  "text": "Однако уже сообщалось о том , что спонсором собираешься выступить некая фирма Gold&Appel во главу с бизнесменами Уолтом Андерсеном .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "собирается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бизнесменом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "главе"
+    },
+    {
+      "correctReplacement": "глава",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

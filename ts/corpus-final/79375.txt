@@ -1,0 +1,20 @@
+{
+  "text": "В среду недалеко от станции Софринн Ярославской железного дороги грузовом автомобиль \"Камаз\" столкнулся с электропоездом , сообщили РИА \"Новости\" в пресс-центре Московской железной дороги .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "железной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "грузовой"
+    },
+    {
+      "correctReplacement": "Софрино",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Еще один человеч погибла минувшей ночью в своей квартиру на первом этаже 12-этажного дома на улице Ленских .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Ленской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "квартире"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

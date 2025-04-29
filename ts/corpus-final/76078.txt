@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщал РИА \"Новости\" со ссылкой на председателя областного комитета по управлению государственным имуществами Дмитриев Верховоду , губернатор Виктор Толоконский уже распорядился приобрести здание в государственную собстменность .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "Дмитрия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "имуществом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "собственность",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

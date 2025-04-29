@@ -1,0 +1,30 @@
+{
+  "text": "Для создания запаха используются картридж , содержииые астральные ароматические вещества , используемые в парфюмерной промышленности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "содержащие"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "запахов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "картриджи"
+    },
+    {
+      "correctReplacement": "натуральные",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "содержимые",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

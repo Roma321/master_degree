@@ -1,0 +1,25 @@
+{
+  "text": "По всей видимость , Марадонов приму наркотик рще в Аргентине , перед тем как отправиться отдохнуть в Пунта-дель-Эсте .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "принял"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Марадона"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "видимости"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

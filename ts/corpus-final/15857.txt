@@ -1,0 +1,30 @@
+{
+  "text": "Пррмьер России Владимиру Путин , выступая перед депутатами заявила , что 8 декабря - день , когда президентыРФ и Белоруссии поставил подписи под договорами - станет поворотным моментом в истории СНГ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "договором"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "поставили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "Премьер",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

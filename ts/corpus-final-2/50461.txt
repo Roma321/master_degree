@@ -1,0 +1,20 @@
+{
+  "text": "Станция и подземный переходы были временной закрыты , находившиеся в переходе люди эвакуировавшие .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "переход"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "эвакуированы"
+    },
+    {
+      "correctReplacement": "временно",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

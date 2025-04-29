@@ -1,0 +1,20 @@
+{
+  "text": "Во фторых тайме Бесчастных удвоило счет , а чуть позже команды обменялись голами (в команде России ударом со штрафного мяч провел Егор Титов) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "удвоил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "втором"
+    },
+    {
+      "correctReplacement": "вторых",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

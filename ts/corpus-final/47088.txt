@@ -1,0 +1,30 @@
+{
+  "text": "Теперь такая торговля будет разрешены только тем , кто получит специальную лицензию Министерздва культуры Китая , передаю в субботу китайская агентству \"Синьхуа\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "разрешена"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "агентство"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "китайское"
+    },
+    {
+      "correctReplacement": "Министерства",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

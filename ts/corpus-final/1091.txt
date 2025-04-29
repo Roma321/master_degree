@@ -1,0 +1,25 @@
+{
+  "text": "Кредит будет используем для финансирования проекта по увеличение производственных мощностей Телавского винного завода - головного предприятия GWS , - а такое закупок винограда у фермеров .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "использован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "увеличению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "закупки"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

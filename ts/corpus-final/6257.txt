@@ -1,0 +1,30 @@
+{
+  "text": "Но в условиях сильного задымления трудно былоустановить степень угрозы распространения огня , и , учитывая опасность распространения пожара по внутреннимперекрытиям и перегородкам здания старая построившие , пожару былприсвоена 4-м номера сложности по пятибальной шкале .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "былприсвоен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "номер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "старой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 28,
+      "correctReplacement": "4-й"
+    },
+    {
+      "correctReplacement": "постройки",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

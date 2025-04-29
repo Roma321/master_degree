@@ -1,0 +1,20 @@
+{
+  "text": "По имению российских президента , российские СМИ по-разному оценивают внутреннего и внешнюю политику власти , сообщает НТВ .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "российского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "внутреннюю"
+    },
+    {
+      "correctReplacement": "мнению",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

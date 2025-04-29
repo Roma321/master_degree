@@ -1,0 +1,20 @@
+{
+  "text": "Шесть из 12 бывших кандидата в президенты России до сих пор не вернцли средства , выделенные на проведение их избирательных кампаний из федерального бюджета страны , сообщает рык .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "кандидатов"
+    },
+    {
+      "correctReplacement": "РБК",
+      "type": "paronym",
+      "wordNumber": 27
+    },
+    {
+      "correctReplacement": "вернули",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

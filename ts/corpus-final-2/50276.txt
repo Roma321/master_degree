@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники госпиталя заподозрившие неладное только после той , как обнаружили , что не могут дозвониться по оставившему им номеру телефона .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "оставленному"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заподозрили"
+    }
+  ]
+}

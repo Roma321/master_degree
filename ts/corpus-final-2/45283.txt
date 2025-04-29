@@ -1,0 +1,20 @@
+{
+  "text": "Несмотря на решение администрации eBay снять с аукцион удостоверение личности , на сайте eBay продолжается продажи коротковолнового приемника Кевина Митника , который сейчас уже стоит 237 долларов 50 цен .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "аукциона"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "продажа"
+    },
+    {
+      "correctReplacement": "центов",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

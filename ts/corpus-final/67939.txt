@@ -1,0 +1,20 @@
+{
+  "text": "Техас лидирует среди остальных штатах по числу исполнений счётных приговоров .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "исполнения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "штатов"
+    },
+    {
+      "correctReplacement": "смертных",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

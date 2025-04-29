@@ -1,0 +1,25 @@
+{
+  "text": "Между тем , в Центральную избирательное комиссию продолжают поступать сообщения о нарушения , зафиксированных в ходе голосований 19 декабрю .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "декабря"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "нарушениях"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "избирательную"
+    }
+  ]
+}

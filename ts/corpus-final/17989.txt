@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно в четверг и в пятнице были отменувшие все занятия в Columbine High School , после той , как ее 16-летней школьнице была послана угроза от имени Soup 81 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "отменены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "correctReplacement": "отменившие",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

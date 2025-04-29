@@ -1,0 +1,35 @@
+{
+  "text": "Так , по сообщению Информационного центра по защите правам человека и демократии , около месяца назад в следственном изоляторе в одном из пригородов Пекином во время насильственного кормления погибли 35-летняя последовательница Фалуньгуна , арестовавшая за неделю до этого во времени демонстрации членов септы в Пекине .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "прав"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 33,
+      "correctReplacement": "арестованная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 39,
+      "correctReplacement": "время"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Пекина"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "погибла"
+    },
+    {
+      "correctReplacement": "секты",
+      "type": "typo",
+      "wordNumber": 42
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Ставить картины будет знаменитый французская режиссер Клод Лелушами , получивший Оскара в 1967 году вместе с Пьером Уиттерхевеном за сценарии к фильму \"Мужчина п женщина\" , и номинировавшийся на Оскара за этот фильм как режиссер .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "картину"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Лелуш"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "французский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сценарий"
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

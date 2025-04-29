@@ -1,0 +1,20 @@
+{
+  "text": "Аналогичную поздравительной телеграмму науравил премьеры Госсовета КНР Чжу Жунцзи председатель правительства РФ Владимир Путин .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "премьеру"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "поздравительную"
+    },
+    {
+      "correctReplacement": "направил",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

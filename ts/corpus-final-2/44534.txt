@@ -1,0 +1,25 @@
+{
+  "text": "Вероятно , гонорары за эту книгу могут превзойти все , что когда-либо было заплачу за документальных прозу\" , - сказал представитель ищдательским дома Random House .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "издательского"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "документальную"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "заплачено"
+    },
+    {
+      "correctReplacement": "издательским",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В 17 : 30 претставители верхней палат направились в Госдуму , где изложили мнение Совета Федерации .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "направятся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "изложат"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "палаты"
+    },
+    {
+      "correctReplacement": "представители",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

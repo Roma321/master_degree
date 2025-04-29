@@ -1,0 +1,25 @@
+{
+  "text": "исследователь по особо важным делам генеральной прокуратуры Грузии Испо Дасени вылечу 19 марта из Тбилиси в Москву , сообщаю \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "вылетел"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "Следователь",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "Иско",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

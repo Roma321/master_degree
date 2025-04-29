@@ -1,0 +1,30 @@
+{
+  "text": "Эта посылка была обнаружена в железнодорожном контейнере , прибуду на станцию Псков-Товарный , сотрудниками линейном оддела внутренних дела и Федерального службы безопасности России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "дел"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "прибывшем"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "Федеральной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "линейного"
+    },
+    {
+      "correctReplacement": "отдела",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

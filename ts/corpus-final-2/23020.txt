@@ -1,0 +1,25 @@
+{
+  "text": "Турова утверждающий , что в суде представители Гусинского заявил , что не допевший подготовиться к предварительному слушанием .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "представитель"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "слушанию"
+    },
+    {
+      "correctReplacement": "успел",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

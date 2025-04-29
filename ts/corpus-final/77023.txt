@@ -1,0 +1,20 @@
+{
+  "text": "Лишь две российских теннисиста - Евгений Кафельников и Малат Сафин - принимаемые участие в Уимблдонском турнире .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "принимают"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "два"
+    },
+    {
+      "correctReplacement": "Марат",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщим РИА \"Новости\" в пресс-службе областного УВД , рядового обнаружили во вторник в 40 кубометрах от расположением части .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "расположения"
+    },
+    {
+      "correctReplacement": "километрах",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

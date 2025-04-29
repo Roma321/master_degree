@@ -1,0 +1,20 @@
+{
+  "text": "Вместе с тем , корреспондент НТФ сообщу вишь о 3 убитых .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "НТВ",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

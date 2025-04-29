@@ -1,0 +1,20 @@
+{
+  "text": "Злоумышленники пытались ограбиоь торговый центр , а затем захватившие в заложники сотрудников магазина , который еще не был открыт для посетителям .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "захватили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "посетителей"
+    },
+    {
+      "correctReplacement": "ограбить",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

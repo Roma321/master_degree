@@ -1,0 +1,25 @@
+{
+  "text": "От Блэквелла досталась и Мадоннам , про которую критик сказал , что хоть онп и стала миссис Гай Ричи , вкуса в одежде у нее не прибавившееся .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "досталось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Мадонне"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "прибавилось"
+    },
+    {
+      "correctReplacement": "она",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

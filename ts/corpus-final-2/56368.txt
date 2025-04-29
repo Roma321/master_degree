@@ -1,0 +1,25 @@
+{
+  "text": "Знаменитое скульптор эраст Неизвестный предложил установить его монументальную композицию \"Древо жизни\" на площадке перед зданием московской мэрий на Новому Арбате .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Знаменитый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "мэрии"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "Новом"
+    },
+    {
+      "correctReplacement": "Эрнст",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

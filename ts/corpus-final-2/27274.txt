@@ -1,0 +1,25 @@
+{
+  "text": "После этого вместе с Нурсултаном Назарбаевым Путин отправившийся в Евразийский университет имени Льва Гумилева , где ему были вручены диалог м мантия почётного профессора этого вуза .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "отправился"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "почетного"
+    },
+    {
+      "correctReplacement": "диплом",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

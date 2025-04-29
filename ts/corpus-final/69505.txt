@@ -1,0 +1,20 @@
+{
+  "text": "Об этим он заявил во вторник на пресс-конференцри в Москве , передающий РБК .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "пресс-конференции",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

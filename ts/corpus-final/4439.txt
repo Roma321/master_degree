@@ -1,0 +1,25 @@
+{
+  "text": "Как уточняю газета , сведения полийии основавшие , в частности , на показания обосновавшегося на Канарах российского гражданина Евгения Черкашина , бывшего совладельца фирм \"Канаинтер\" и \"Сальбатрос\" , которые обслуживают суда из России .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "уточняет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "показаниях"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "основаны"
+    },
+    {
+      "correctReplacement": "полиции",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

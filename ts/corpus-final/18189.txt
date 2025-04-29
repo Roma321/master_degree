@@ -1,0 +1,25 @@
+{
+  "text": "Уже в понедельник утром , еще до окщнчания подсчета голоса , движения , преодолеем пятипроцентная барьер , начали переговоры о распределении должностей в новом составе Государственной думы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "голосов"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "преодолевшие"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "пятипроцентный"
+    },
+    {
+      "correctReplacement": "окончания",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

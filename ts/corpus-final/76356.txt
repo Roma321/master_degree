@@ -1,0 +1,20 @@
+{
+  "text": "Крупнейшим иностранцам акционером ОАО \"Газпром\" является немецкий газовое концерн Ruhrgas AG , владеющий четырьмя процентами акций газовая компании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "газовой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "газовый"
+    },
+    {
+      "correctReplacement": "иностранным",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако , самом Малахин 13 декабря заявила , о яколы возбужденном уголовном деле по факту нападения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "якобы",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

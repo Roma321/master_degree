@@ -1,0 +1,25 @@
+{
+  "text": "В первый круге побебы одержали российские теннисисты Евгений Кафельников и Андрей Столяровы , а вот Андрей Черкасова потерпел неудачу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "первом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "Столяров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Черкасов"
+    },
+    {
+      "correctReplacement": "победы",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

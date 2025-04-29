@@ -1,0 +1,25 @@
+{
+  "text": "Несколько тысяч человек собрались в понедельник в ереванском паркам Цицернакаберт , чтобы почтить память полутора миллионов армянина , погибших в 1915 году от руки солдат Османской империи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "парке"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "армян"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "рук"
+    },
+    {
+      "correctReplacement": "Цицернакаберд",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Она вылетел из аэропорта \"Шереметьево-2\" по маршруту москва .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "вылетела"
+    },
+    {
+      "correctReplacement": "Москва-Цюрих",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

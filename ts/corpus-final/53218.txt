@@ -1,0 +1,30 @@
+{
+  "text": "Согласно решению арбитражных суда Свердловской области от 16 марта 2000 года СМЗ должен быть ликвидировано в течение шести месяцев , а бывшие гендиректор Антон Баков должно в течение пяти дней передавшиеся все дела назначенному судом ликвидатору Алексею Борщенко .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "ликвидирован"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "бывший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "должен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "арбитражного"
+    },
+    {
+      "correctReplacement": "передать",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В случай если бы этих ошибок не юыл , то мир оказалсябы под угрозой эпидемии , по масштабам сопоставимой с \"Любовными письмами\" , комментирует Евгений канонерский , руководитель антивирусных исследований \"Лаборатории Касперского\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "было"
+    },
+    {
+      "correctReplacement": "Касперский",
+      "type": "paronym",
+      "wordNumber": 25
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

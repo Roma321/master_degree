@@ -1,0 +1,30 @@
+{
+  "text": "У семьи Янченко осталась шестимесячный дочери , воспитывать которую будет мать Елены , случайно выживший благодаря тому , что за несколько минут до трагедии вышедшая в магазины за покупками .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "вышла"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "магазин"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "дочь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "выжившая"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "шестимесячная"
+    }
+  ]
+}

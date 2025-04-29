@@ -1,0 +1,25 @@
+{
+  "text": "Автомобиль , начиненный взрывчаркой , был припаркована около крупнейших казармы жандармские .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "крупнейшей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "припаркован"
+    },
+    {
+      "correctReplacement": "жандармерии",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "взрывчаткой",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

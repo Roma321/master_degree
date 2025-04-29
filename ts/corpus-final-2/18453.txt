@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас по всего стране ведётся активный розыск отгороженных бандитов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "ведется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "всей"
+    },
+    {
+      "correctReplacement": "освобожденных",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

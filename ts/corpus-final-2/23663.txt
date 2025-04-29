@@ -1,0 +1,20 @@
+{
+  "text": "Инцидента произошёл в стеду вечером , около 18 часов , на дороге Ачалуки - Карабулак .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Инцидент"
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

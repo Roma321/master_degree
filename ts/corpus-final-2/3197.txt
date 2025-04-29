@@ -1,0 +1,20 @@
+{
+  "text": "По условиям подписанных в прошлом году соглашения США позволили России отложить выслату около 500 миллионов долларов советской долга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "подписанного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "советского"
+    },
+    {
+      "correctReplacement": "выплату",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

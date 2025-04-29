@@ -1,0 +1,20 @@
+{
+  "text": "Полицти полагает , что в доме в момент взрыва находимся именно хозяева .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "находились"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Полиция"
+    },
+    {
+      "correctReplacement": "Полиции",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

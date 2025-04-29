@@ -1,0 +1,40 @@
+{
+  "text": "Кандидат на пост вице-президента США от Республиканской партии Ричард Чейни в понедельник заявила , что , несмотря на отказ правительздва США финансировать процесс передачи власти команде Буша \"до тех пор , пока не станут известны окончательных результат , а стороны не прекратят обращаться в суды\" , избирательный штаб республиканцев все равно будет формировать кабинетик , используя для этих целей средства частные лиц , сообщают CNN .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 60,
+      "correctReplacement": "частных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "окончательные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 63,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "результаты"
+    },
+    {
+      "correctReplacement": "кабинет",
+      "type": "paronym",
+      "wordNumber": 53
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

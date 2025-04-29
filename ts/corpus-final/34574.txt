@@ -1,0 +1,20 @@
+{
+  "text": "По официальным данным , 2106 человек погиб , 7821 получим ранения , 208 числятся пропавшими дез вести .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "получили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "погибли"
+    },
+    {
+      "correctReplacement": "без",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

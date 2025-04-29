@@ -1,0 +1,20 @@
+{
+  "text": "В эту же день спортсмены отправились в Храм Живоначальных Троицы на Воробьевых горах , где был отслужен напудздвенный молебен .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Живоначальной"
+    },
+    {
+      "correctReplacement": "напутственный",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

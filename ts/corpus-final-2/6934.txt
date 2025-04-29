@@ -1,0 +1,25 @@
+{
+  "text": "По словам пособника проректора по экономической частью Балтийской государственного академии (БГА) Валерия Дурягина , на переходе Моэм на польском судне в 25-ти метровой высоты упала канадская практикантка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "государственной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "части"
+    },
+    {
+      "correctReplacement": "помощника",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Как сжинаашь , для дачи свидетельские показаний будет вновь приглашу ранее не явившийся не заседание главный редактор газеты Павел Гусева .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Гусев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "свидетельских"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "приглашен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "ожидается"
+    },
+    {
+      "correctReplacement": "ожидаешься",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "сжинаешь",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

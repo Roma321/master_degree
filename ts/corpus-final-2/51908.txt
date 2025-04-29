@@ -1,0 +1,25 @@
+{
+  "text": "Однако , отметило Бейкон , первое из родившегося испытаниями НПРО намечено на начало 2001 года , сообщает РРА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "испытаний"
+    },
+    {
+      "correctReplacement": "ряда",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "РИА",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

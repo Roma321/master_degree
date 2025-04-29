@@ -1,0 +1,25 @@
+{
+  "text": "Девочку принуждаемые к проституции , а с помощью полученных денек мать и ее друг обеспечивавшие себя пивом , сигаретой и кокаином .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "принуждали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "обеспечивали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "сигаретами"
+    },
+    {
+      "correctReplacement": "денег",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

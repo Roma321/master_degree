@@ -1,0 +1,20 @@
+{
+  "text": "На место происшесрвия прибыла бригады следователей Дальневосточном транспортной прокуратуры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "Дальневосточной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "бригада"
+    },
+    {
+      "correctReplacement": "происшествия",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

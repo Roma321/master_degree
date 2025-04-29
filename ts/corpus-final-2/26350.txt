@@ -1,0 +1,25 @@
+{
+  "text": "Детектив распутываемый дело , но привосудиям не удастся покарать убийцу .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "правосудию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "раскрывает"
+    },
+    {
+      "correctReplacement": "раскрываемый",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "правосудиям",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

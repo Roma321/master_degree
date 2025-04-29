@@ -1,0 +1,35 @@
+{
+  "text": "В случае , если эти факты подтвердятся , надо наказать половиков и бизнесменов , в противного случая - наказанные тех , кто распространял такую информацию , - отметивший он .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "противном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "наказать"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 22,
+      "correctReplacement": "распространяет"
+    },
+    {
+      "correctReplacement": "политиков",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

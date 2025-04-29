@@ -1,0 +1,20 @@
+{
+  "text": "Эвакуированным жителям домапредоставлю временное муниципалоные жилье , сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "домапредоставлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "муниципальное"
+    },
+    {
+      "correctReplacement": "муниципальные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

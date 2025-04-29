@@ -1,0 +1,25 @@
+{
+  "text": "В областном Избиркому сообщившие , что явных нарушений при проведении выборов зарегистрировано не был Ъ",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Избиркоме"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "было"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

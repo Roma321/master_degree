@@ -1,0 +1,20 @@
+{
+  "text": "Около 00 : 00 во дворе дома № 39 , корпусы 3 , неизвестный преступник несколько раз выстреливший в 42-летнего предпринимателя , проживающего по этому адресу , подле чего скрылся .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "корпус"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "выстрелил"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

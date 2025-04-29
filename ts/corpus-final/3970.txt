@@ -1,0 +1,25 @@
+{
+  "text": "На краткой пресс-конференция после состоявшихся во вторник в Осло переговоров с президентом США Биллом Клинтоном Путин вновь подчеркнувший , что происходящего в Чечне являлся внутренним делом России , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 23,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "происходящее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "подчеркнул"
+    }
+  ]
+}

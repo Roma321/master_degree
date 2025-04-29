@@ -1,0 +1,25 @@
+{
+  "text": "В настрящую время по делу о покушении в качестве обвиняемых проходящие не трое , как сообщались ранее , а пять человек .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "проходят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "настоящую",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

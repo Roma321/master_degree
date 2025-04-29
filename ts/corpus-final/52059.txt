@@ -1,0 +1,20 @@
+{
+  "text": "На месте происшествия работаешь оперативная следственная бригады МЫД Дагестана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "бригада"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

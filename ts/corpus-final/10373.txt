@@ -1,0 +1,25 @@
+{
+  "text": "В минувший вторник таможенниках столмчного аэропортов \"Шереметьево\" задержали и искрившие несколько ящиков , которые согласно накладным следовали из Румынии в Грузию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "таможенники"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "аэропорта"
+    },
+    {
+      "correctReplacement": "вскрыли",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "столичного",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

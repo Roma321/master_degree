@@ -1,0 +1,25 @@
+{
+  "text": "Шестидесятилетнее женщина совершила самоубийство , бросифшись под проходящий поезда . Машинист не смог заторможенные состав .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Шестидесятилетняя"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "затормозить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "поезд"
+    },
+    {
+      "correctReplacement": "бросившись",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

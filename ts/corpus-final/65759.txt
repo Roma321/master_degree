@@ -1,0 +1,20 @@
+{
+  "text": "На борта пассажирской лайнера находились 150 испанским футбольных болельщиков , прибывших в столицу Франции на матч Лиги чемпионов между \"Валенсией\" и мадридским \"Реалом\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "пассажирского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "испанских"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "борту"
+    }
+  ]
+}

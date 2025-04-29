@@ -1,0 +1,30 @@
+{
+  "text": "Превышение гвоты влечет за собой прекращение выдачи лицензии на осуществлении страховой рентабельности компании , дочерним по отношению к иностранному страховщику , либо имеющим в уставного капитале их долю более 49% .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "уставном"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "осуществление"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "компаниям"
+    },
+    {
+      "correctReplacement": "деятельности",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "квоты",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

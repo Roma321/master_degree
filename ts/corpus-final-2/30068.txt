@@ -1,0 +1,25 @@
+{
+  "text": "Феликс попадает в тюрьмы , затея бежит оттуда , для тех чтобы попасть из огня да в полымя : он понимает , что \"нефтяника\" ему не простим .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "простят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "тюрьму"
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

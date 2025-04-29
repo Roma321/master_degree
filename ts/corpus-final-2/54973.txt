@@ -1,0 +1,45 @@
+{
+  "text": "Как сообщила вынесшая решение по иском судья Ирина Булатову , ресь идет о сюжетом журналиста НВТ Эдуарда Петрова о губернаторе Калининградской области , показанном в одном из ночного выпуски программе Евгения Киселева \"Итоги\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "сюжете"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Булатова"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "программы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "ночных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "иску"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "выпусков"
+    },
+    {
+      "correctReplacement": "речь",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "резь",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

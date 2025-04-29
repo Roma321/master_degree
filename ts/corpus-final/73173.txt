@@ -1,0 +1,25 @@
+{
+  "text": "Некоторый депутатов Государственного Думы РФ высказали свое мнение в связи с сопровождение из тюрьмы под подписку о невыезде председателя Совета директоров ЗАО \"Медиа-Мост\" Владимира Гусинского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "Государственной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Некоторые"
+    },
+    {
+      "correctReplacement": "освобождением",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

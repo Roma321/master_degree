@@ -1,0 +1,25 @@
+{
+  "text": "Предоставление банковских услуг Barclays через Интернет мывшее приостановлено , когда пользователи пожаловался , что при попытке получить информацию о своём счете им получали от компьютеров также и данные о чужих счетах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "пожаловались"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 19,
+      "correctReplacement": "своем"
+    },
+    {
+      "correctReplacement": "было",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

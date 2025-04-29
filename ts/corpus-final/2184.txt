@@ -1,0 +1,20 @@
+{
+  "text": "Экипаж и пассажиры погибли , а самолёту еще в течение четырех часов налетевшая на автопилоте , пока не закончилось горючее в баках .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "летел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "самолет"
+    },
+    {
+      "correctReplacement": "летела",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

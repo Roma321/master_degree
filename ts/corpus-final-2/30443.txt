@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , на проходимом в Китаю ХVIII национальном телеконкурсе \"Золотой орел\" украинские художник Сергей Бржестовский прибранный лучшим художником-постановщиком .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Китае"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "проходящем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "украинский"
+    },
+    {
+      "correctReplacement": "признан",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

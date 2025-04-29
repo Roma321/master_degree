@@ -1,0 +1,35 @@
+{
+  "text": "Исполняющий обязанности президента России Владимиру Путин после встречи с председателем ЦБ Виктором Геращенко сообщил , что поддерживал предложение Центробанков о введение обязательной стопроцентной продажи валютной выручки предприятием на барже , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Центробанка"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "поддерживает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "введении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "предприятиями"
+    },
+    {
+      "correctReplacement": "бирже",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

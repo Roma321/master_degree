@@ -1,0 +1,30 @@
+{
+  "text": "В среда президент США Билл Клинтон подписало законы , предусматриваемый увеличение с новой года зарплаты федеральных рабочих и служащих на 4 , 8% .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "подписал"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "закон"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "среду"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "предусматривающий"
+    }
+  ]
+}

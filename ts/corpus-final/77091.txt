@@ -1,0 +1,25 @@
+{
+  "text": "Особенно огорчительна неудача первой ракетки России Анны Курниковой , которая , победив в первом круге сидьную француженку Сандрин Тестю , подарил надежду на свое успешная выступлению на турнире .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "успешное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "подарила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "выступление"
+    },
+    {
+      "correctReplacement": "сильную",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

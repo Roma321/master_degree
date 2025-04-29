@@ -1,0 +1,20 @@
+{
+  "text": "Помощник и . о . президент России бергер Ястржембский заявивший в интервью ОРТ , что некоторые российские СМИ занимают предвзятую позицию в освещении чеченской проблемы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "Сергей",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

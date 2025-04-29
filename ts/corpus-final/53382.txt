@@ -1,0 +1,25 @@
+{
+  "text": "Религии оказалась источниками счастья для 46 проценты америаанцев , 36 процентов индийцев и четырех процентов россиян .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Религия"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "источником"
+    },
+    {
+      "correctReplacement": "американцев",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

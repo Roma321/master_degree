@@ -1,0 +1,20 @@
+{
+  "text": "Ранее большому количеству подобным взломов подвернула популярное бесплатная web-почта Hotmail .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "подобных"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "популярная"
+    },
+    {
+      "correctReplacement": "подверглась",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

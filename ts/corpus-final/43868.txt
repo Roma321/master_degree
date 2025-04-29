@@ -1,0 +1,20 @@
+{
+  "text": "Однако , как сообщают РИА \"Новости\" , он собрал больше журналиста , чем участникоф .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "журналистов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "участников",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

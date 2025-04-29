@@ -1,0 +1,25 @@
+{
+  "text": "В решении Британского Совеьа по классификации фильмов было также заявлены , что послабления касался только тех фильмов , где секс связан с серьезными отношениями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "заявлено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "послабление"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "касается"
+    },
+    {
+      "correctReplacement": "Совета",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

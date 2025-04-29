@@ -1,0 +1,20 @@
+{
+  "text": "Терминал площадью 62 гектар , связанный железнодорожной веткой с российской сетью железных дорог и 1 тысячью 800 сотрудницами , является одним из семи терминалов Новороссийского портов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "порта"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "гектара"
+    },
+    {
+      "correctReplacement": "сотрудниками",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Президент ознакомившийся с французской живописью XIX века , итальянской живописью , а также побываю в зале аполлона и Большой галерее .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "ознакомился"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "побывал"
+    },
+    {
+      "correctReplacement": "Наполеона",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

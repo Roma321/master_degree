@@ -1,0 +1,20 @@
+{
+  "text": "Так парламентарии расценили заявление своих коллег из России от 19 июля о нарушении права русского национальное меньшинства на Украине , а также дискриминации этрусского языка , передает UA today .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "национального"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "прав"
+    },
+    {
+      "correctReplacement": "русского",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

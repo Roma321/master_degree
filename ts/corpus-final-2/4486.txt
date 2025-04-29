@@ -1,0 +1,25 @@
+{
+  "text": "Между тем не все афтомобильные компании отмечающие падения опроса на свои автомобили в Германии .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "падение"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "отмечают"
+    },
+    {
+      "correctReplacement": "спроса",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "автомобильные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

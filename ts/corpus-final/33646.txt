@@ -1,0 +1,40 @@
+{
+  "text": "Интернет создаваемый особый классы людей , которые проводят дальше времени на работе , больше работают через Сетью из дом и становятся настолько некоммуникабельных , что даже забываете позвонить своей маме в ее день рождения .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "класс"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 26,
+      "correctReplacement": "забывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "некоммуникабельными"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "создает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Сеть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "больше",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

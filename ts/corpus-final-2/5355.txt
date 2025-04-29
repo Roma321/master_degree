@@ -1,0 +1,25 @@
+{
+  "text": "В самом начале второй половины встречи Алмейда сократившмй разрыв в счете , но еще через пять минут Вампета забил свой второй мяч , установившие окончательное итог встречи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сократил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "установив"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "окончательный"
+    },
+    {
+      "correctReplacement": "сокративший",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

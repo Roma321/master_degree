@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , при обыске офрса Литвинова были обнаружившие наган 1904 года выпуска , патроны , ева гранаты РГД-5 с запалами , несколько боевых и охотничьего ножей иностранного и кустарного производства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "обнаружены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "охотничьих"
+    },
+    {
+      "correctReplacement": "две",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "офиса",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

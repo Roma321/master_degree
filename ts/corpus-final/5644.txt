@@ -1,0 +1,25 @@
+{
+  "text": "В Москве началась сегодня заседанием плёночной сессии совместной российско-американской комиссии по военнопленным и пропавшим брз вести .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "началось"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "заседание"
+    },
+    {
+      "correctReplacement": "пленарной",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "без",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

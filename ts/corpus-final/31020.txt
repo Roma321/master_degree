@@ -1,0 +1,35 @@
+{
+  "text": "апример , ребёнку , тренировавший произношение с помощью игрушки Turbo Twist , может загрузить через Интернет новыщ фразы и слову после того , как он уже потренировался с теми примерами , которые заложены в чипы игрушки изначально .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "слова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "тренирующий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ребенок"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 34,
+      "correctReplacement": "чип"
+    },
+    {
+      "correctReplacement": "Например",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "новые",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

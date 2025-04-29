@@ -1,0 +1,25 @@
+{
+  "text": "Российский теннисиста Марат Сафин с помехи начали выступления на турнире St . Petersburg Open с призовым фондом 800 тысячи долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "начал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "тысяч"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "теннисист"
+    },
+    {
+      "correctReplacement": "победы",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

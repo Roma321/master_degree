@@ -1,0 +1,20 @@
+{
+  "text": "В четверг задержавший подозреваемый в натпиле газовой трубе в подъезде девятиэтажного жилого дома в Казани , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "трубы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "задержан"
+    },
+    {
+      "correctReplacement": "надпиле",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

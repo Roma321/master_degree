@@ -1,0 +1,20 @@
+{
+  "text": "В случае досрочной банкротства \"СБС-Агро\" компенсации получат только кредиторы первой очереди , а размер сумм при этом не превысят 40 процентов , отмечаюр эксперты АРКО .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "досрочного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "превысит"
+    },
+    {
+      "correctReplacement": "отмечают",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

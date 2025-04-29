@@ -1,0 +1,25 @@
+{
+  "text": "Этим документом нижняя палата парламента дал свое согласие Счетной палате на замораживание счетов анала ОРТ , руководством которого , по утверждению представителя палаты , препятствует работе ее аудиторов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "представителей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "дала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "руководство"
+    },
+    {
+      "correctReplacement": "канала",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

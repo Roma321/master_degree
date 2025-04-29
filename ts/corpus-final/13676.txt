@@ -1,0 +1,25 @@
+{
+  "text": "Сергея Сихайлов , такое известная под псевдонимом \"Михась\" , возможно , все-таки будет баллотироваться в Государственную думу от Таганрога .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "известный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сергей"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Михайлов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

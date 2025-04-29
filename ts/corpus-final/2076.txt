@@ -1,0 +1,20 @@
+{
+  "text": "Выведем сегодня на орбиту космические аппараты связи нлвой поколения разработанны и изготовленны Ракетно-космической корпорацией \"Энергия\" по заказу ОАО \"Газком\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выведенные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "нового"
+    },
+    {
+      "correctReplacement": "новой",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

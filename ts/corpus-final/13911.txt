@@ -1,0 +1,25 @@
+{
+  "text": "Как и большинства вирусов , появившихся в последние месфцы , новый вирус рассылает сама себя по пятидесяти адресам из адресную книги Microsoft Outlook .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "сам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "адресной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "большинство"
+    },
+    {
+      "correctReplacement": "месяцы",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "text": "Слон поскользнулся и упал на железнодорожное полотно , по котором проходил пкссажирский поезд .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "которому"
+    },
+    {
+      "correctReplacement": "пассажирский",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

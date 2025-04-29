@@ -1,0 +1,20 @@
+{
+  "text": "Вейцман принял решения об отставке несколько недель назад после той , как началось расследованик по его обвинению в коррупции , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "решение"
+    },
+    {
+      "correctReplacement": "расследование",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Это произошло в минувшего пятницу , когда 64-летний Спамболич совершал обычную утреннюю пробежкой около своего дома в Белграде .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "минувшую"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "пробежку"
+    },
+    {
+      "correctReplacement": "Стамболич",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

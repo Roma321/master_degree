@@ -1,0 +1,30 @@
+{
+  "text": "Король Карл II не стал восстанавливать дворец , предпочитая загогодных резиденцию в Виндзоре , и от огромное дворца сохранилась только парная зала , которую мы сейчас , собственно , и знали как \"Уайтхолл\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "загородную"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "знаем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "огромного"
+    },
+    {
+      "correctReplacement": "парадная",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "загородных",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

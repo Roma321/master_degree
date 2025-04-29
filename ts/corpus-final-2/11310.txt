@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечаешь в четверг The Register , имена немного длинновато , потому , скорее всего , новорожденного сына Джессики и Трэвиса Торнхилл будут звать сокращенным имени IUMA Dylan-Lucas .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "имя"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "именем"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

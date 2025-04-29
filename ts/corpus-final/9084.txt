@@ -1,0 +1,25 @@
+{
+  "text": "Свергнутой премьер-министру страна Навазу Шарифу , отстраненному от власти в середине октября в результате военного переворота , сегодня было предъявлены официозное обвинение .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Свергнутому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "предъявлено"
+    },
+    {
+      "correctReplacement": "официальное",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

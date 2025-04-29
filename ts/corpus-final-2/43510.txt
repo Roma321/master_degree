@@ -1,0 +1,20 @@
+{
+  "text": "Он заявленный журналистам , что вообще отрицательно относится к замене государздвенного символов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "государственных"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "государственного",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Правительство РФ решил повысить с 1 апреля зарплату работникам банкетной сферы на 20 процентов З",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "решило"
+    },
+    {
+      "correctReplacement": "бюджетной",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

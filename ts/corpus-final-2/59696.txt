@@ -1,0 +1,15 @@
+{
+  "text": "По информации \"Сегодня\" , речь может идти об утверждении Лукашенко президентами прямо на съехде , минуя выборы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "президентом"
+    },
+    {
+      "correctReplacement": "съезде",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

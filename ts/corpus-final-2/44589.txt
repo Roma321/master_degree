@@ -1,0 +1,20 @@
+{
+  "text": "В Москве совершено покушение на замевтителю директора Москворецкой рынка Олега Гарцкия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "заместителя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Москворецкого"
+    },
+    {
+      "correctReplacement": "заместителю",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

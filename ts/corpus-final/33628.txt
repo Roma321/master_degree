@@ -1,0 +1,25 @@
+{
+  "text": "Более той , два меня назад Саудовская Аравия заявила о прекращением помощи Афганистану в области образования и здравоохранения в связи с нежеланием талибов выдать международного террориста Осаму бин Ладена Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "прекращении"
+    },
+    {
+      "correctReplacement": "дня",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

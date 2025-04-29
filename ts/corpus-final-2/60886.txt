@@ -1,0 +1,25 @@
+{
+  "text": "Спецкомитеты ООН был создавший посло того , как на Ирак были наложившие торговые санкции из-за вторжения в Кувейт в 1990 году .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "наложены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Спецкомитет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "создан"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

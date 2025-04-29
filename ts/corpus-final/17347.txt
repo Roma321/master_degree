@@ -1,0 +1,30 @@
+{
+  "text": "По словам Джеймса Фоули , в центр понимания находимся вопросы сотрудничества правоохранительным органа США и России в борьбе с международной преступностью , коррупцией , \"отмыванием\" денег .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "центре"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "правоохранительных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "органов"
+    },
+    {
+      "correctReplacement": "внимания",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам Гора , он категорически не согласен с вердиктом Верховного супы США , который , по сути , и решивший иыходу выборов , однако подчиняется ему .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "исход"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "решил"
+    },
+    {
+      "correctReplacement": "суда",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "исходу",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

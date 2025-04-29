@@ -1,0 +1,35 @@
+{
+  "text": "По сообщениям из Ниша и Пирота , топлива в них осталось на два дня - а между тем , каюк заявили мэр Ниша , колонна с топлива может быть задержан на границе до следующая недели из-за праздника , который здесь продолжают отмечать со времен коммунистическая эпохи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "задержана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "следующей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "коммунистической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "топливом"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

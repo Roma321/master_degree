@@ -1,0 +1,20 @@
+{
+  "text": "Расследованием фактов , проверкоф банковских счетов и отчетов об уплате налогов руководил военный разведка .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "военная"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "руководит"
+    },
+    {
+      "correctReplacement": "проверкой",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

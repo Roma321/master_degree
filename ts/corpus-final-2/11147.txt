@@ -1,0 +1,20 @@
+{
+  "text": "Информация г взрывном устройстве , затопленным на Московском вокзале в Санкт-Петербурге , оказался ложной .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "оказалась"
+    },
+    {
+      "correctReplacement": "заложенном",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

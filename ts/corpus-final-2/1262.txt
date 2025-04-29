@@ -1,0 +1,25 @@
+{
+  "text": "Таким образом , нарушу закон о референдуме , который предполагающий получение ответов п течение 15 дней : инициативная группа подала заявление в Мосгоризбирком 29 июня .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "ответа"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "нарушен"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

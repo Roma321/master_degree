@@ -1,0 +1,25 @@
+{
+  "text": "Расстояние в 130 километров вездеход должен быщ преодолённые менее чем за сутки , однако в пункта назначения он не прибыли .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "преодолеть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "пункт"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "correctReplacement": "был",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

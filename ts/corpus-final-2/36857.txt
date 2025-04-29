@@ -1,0 +1,35 @@
+{
+  "text": "Министерство финансов РФ в среду перечислили Международным валютным фонду (МВФ) 58 , 8 миллиона доллара в счеп погружения основного долга .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Международному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "валютному"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "перечислило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "долларов"
+    },
+    {
+      "correctReplacement": "погашения",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

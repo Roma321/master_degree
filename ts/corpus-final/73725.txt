@@ -1,0 +1,25 @@
+{
+  "text": "В заявлении отмечается , что перегщворы находятся на ранней стадии , однако в нем не отразившее , касается ли переговоры возможного слиянием .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "отражено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "слияния"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "касаются"
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

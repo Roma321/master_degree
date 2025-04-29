@@ -1,0 +1,35 @@
+{
+  "text": "Напомним , что ы среду утром первый заместитель директора ФСБ , начальник оперативных штабом по расследованию происшествия Владимир Проничев сообщивший о задержаниях двух подозреваемых в организации взрыва в Москвой .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "штаба"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "задержании"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "оперативного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

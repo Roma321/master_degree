@@ -1,0 +1,20 @@
+{
+  "text": "У хозяева есть нимало возможностей забить хотя бы один гол .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "хозяев"
+    },
+    {
+      "correctReplacement": "немало",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

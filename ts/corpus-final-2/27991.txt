@@ -1,0 +1,25 @@
+{
+  "text": "Несмотря на то , что вскоре после первых отравлений продажи Thunderbolt была запрещены , количество жертв растет за счет тех , кто успел купить напитку раньше или чудивший его у нелегальных торговцев .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "напиток"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "запрещена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "продажа"
+    },
+    {
+      "correctReplacement": "купил",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

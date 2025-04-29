@@ -1,0 +1,25 @@
+{
+  "text": "Однако президент США Билл Клинтон не побоялся выйти на фуфайки перед своей резиденцией и пообщаться с щурналистов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "журналистами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "лужайку"
+    },
+    {
+      "correctReplacement": "лужайки",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "журналистов",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

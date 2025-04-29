@@ -1,0 +1,20 @@
+{
+  "text": "Кроме тодо , по словам ученых , знание того , каком образ протеины поступают в различные части клеток , позволит создавать более эффективные лекарственные средства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "каким"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "образом"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

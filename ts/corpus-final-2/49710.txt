@@ -1,0 +1,25 @@
+{
+  "text": "Спад продолжался третью торговая сессии подряд , невзирая ни на окончание президентских баталий , ни на прибывшее в четверг единогласное решение Федеральной комиссии США по торговле (FTC) разрешить слияние America Online и Time Warner .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "торговую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "сессию"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "принятое"
+    },
+    {
+      "correctReplacement": "принявшее",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Поясняемые это решение , прокурор Бертосса сказало , что в принятой палатой документе подтверждаются факты незаконных выплат компанией Mercata 60 миллионов долларов , в тбм числе 25 миллионов долларов - Бородину и его близким .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 0,
+      "correctReplacement": "Поясняя"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "принятом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "сказал"
+    },
+    {
+      "correctReplacement": "том",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

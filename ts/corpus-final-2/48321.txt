@@ -1,0 +1,30 @@
+{
+  "text": "Императора Хирохито признан виновным в сексуальных преступлениях , совершенных его поддаными во время войне . В 30-е - 40-е годы более 200 тысяч женщины из разного стран стали \"сексуальными рабынями\" , обслуживавшими японских военных в специально созданных \"военных борделях\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Император"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "женщин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "разных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "войны"
+    },
+    {
+      "correctReplacement": "женщины",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Более того , в нарушениезакона , по указанию главы городского администрации АлександраТерентьева создам муниципальная компания , занимающаяся сборому вселения средств за тепло и электричество , вырабатйваемые напредприятиях \"Дальэнерго\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "городской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "создана"
+    },
+    {
+      "correctReplacement": "населения",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "вырабатываемые",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

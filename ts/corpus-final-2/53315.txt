@@ -1,0 +1,35 @@
+{
+  "text": "Согласно указу , cроки проведения сбора должны согласовывающиеся с органами исполнительного властей субъекров РФ , за исключением проверочных сборов , срок проведения которых определяются Минобороны России .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "исполнительной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "согласовываться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "сборов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "сроки"
+    },
+    {
+      "correctReplacement": "субъектов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Непосредственно перед выборами каждое избиратель получаю свощную статистику совпадений его мнений с мнениями его представителя в Конгрессе .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "получает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "каждый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "мнением"
+    },
+    {
+      "correctReplacement": "сводную",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Однако оба стороны заявляли об отсутствии прогресса на этосов переговорах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "обе"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "заявляют"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Стараются занять свою место в еще не сфокусировавшимся сегментом российского электронного дизнеса и западные компании .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "сегменте"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "свое"
+    },
+    {
+      "correctReplacement": "сформировавшемся",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "бизнеса",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

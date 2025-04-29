@@ -1,0 +1,35 @@
+{
+  "text": "В заявлении , переданном в информационные агентство УНИАН , Владимир Олийнык отмечаешь , что информация о подтасовке покушения на его жизнь вконтексте последних ыобытий свидетельствует \"о наличии преследования за его политический взгляды и участие в президентской кампании\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "информационное"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "политические"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "преследований"
+    },
+    {
+      "correctReplacement": "подготовке",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "событий",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

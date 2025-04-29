@@ -1,0 +1,20 @@
+{
+  "text": "За этим Лесину и приедет ко мне в понедельник\" , - пояснил сурковы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Лесин"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Лужков"
+    },
+    {
+      "correctReplacement": "Лужковы",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

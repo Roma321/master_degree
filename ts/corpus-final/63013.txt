@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаю Агентство военных новостей со ссылкой на источник в штабе Объединенной группировки войск га Северном Кавказе , в результат минометного обстрела трое военнослужащих погибли , несколько человек получим ранениями различной степени тяжести .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "ранения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

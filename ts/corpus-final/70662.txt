@@ -1,0 +1,25 @@
+{
+  "text": "Автомобильная авария , в которой один люди погибли и четверо серьезно пострадали , произошла в среду вечером центрах Москвы Д",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "центре"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

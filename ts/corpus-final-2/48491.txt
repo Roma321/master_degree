@@ -1,0 +1,20 @@
+{
+  "text": "Шднако нормальную работа аэропорта на некоторому время была нарушена - застрявший Boeing 747 мешал полетам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "нормальная"
+    },
+    {
+      "correctReplacement": "Однако",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

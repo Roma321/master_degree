@@ -1,0 +1,30 @@
+{
+  "text": "По утверждению создателпй сервака , на сегодняшний день русскоязычные часть Паутины содержимый в общей сложности более 10 миллиона страниц .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "миллионов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "содержит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "русскоязычная"
+    },
+    {
+      "correctReplacement": "сервиса",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "создателей",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

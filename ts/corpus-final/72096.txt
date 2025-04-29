@@ -1,0 +1,30 @@
+{
+  "text": "В настоящее время происходят откачки загрязненной нефтепродуктами воды с судны . По данным экологах , ущерб , нанесенный бухте , уже составленный свыше 500 тысяч долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "происходит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "судна"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "составил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "экологов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "откачка"
+    }
+  ]
+}

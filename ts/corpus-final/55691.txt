@@ -1,0 +1,30 @@
+{
+  "text": "Он сообщил журналистам , что Совет безопасность Россия получил от Масхадова продолжения по урегулированию в Чечне , внесло в них правку и направило обратно , но ответа пока нет .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "направил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "внес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "безопасности"
+    },
+    {
+      "correctReplacement": "предложения",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

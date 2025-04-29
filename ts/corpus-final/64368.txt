@@ -1,0 +1,25 @@
+{
+  "text": "пери этом погибну один человек а еще одному получил ранения .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "погиб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "один"
+    },
+    {
+      "correctReplacement": "При",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

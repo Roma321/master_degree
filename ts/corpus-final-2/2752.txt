@@ -1,0 +1,20 @@
+{
+  "text": "Россияне отыгрался на 75-е минуте , отличился возгоградец роман Романов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "отыгрались"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "75-й"
+    },
+    {
+      "correctReplacement": "волгоградец",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В момент взрывов в машине никтго не буду , не оказалось поблизости и прохожих , поэтому обошёлся без жертв .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "было"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "взрыва"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "обошлось"
+    },
+    {
+      "correctReplacement": "никого",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "За пост губернатора борющиеся действующее глава администрацик области Виктор Шершунов , директор ООО \"Мастер\" Владимир Мазохин , мэр Костромы Борис Коробовы и заместитель Костромской государственной телерадиокомпании Николай Романов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "действующий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Коробов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "борются"
+    },
+    {
+      "correctReplacement": "администрации",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

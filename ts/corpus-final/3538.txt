@@ -1,0 +1,25 @@
+{
+  "text": "Кредит на эту суиму для бизнеса в сфере телекоммуникационных спутников Моу Цичжун получило обманным путем , фальсифицировавшие финансовые документы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "фальсифицировав"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "получил"
+    },
+    {
+      "correctReplacement": "эту",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "сумму",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Семь жмльцов четырехквартирной одноэтажного дома в деревне Большой Сундырь в Чувашии отравились неизвестным гадом , передающий \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "четырехквартирного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "газом",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": "жильцов",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

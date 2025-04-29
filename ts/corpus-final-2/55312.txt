@@ -1,0 +1,20 @@
+{
+  "text": "Выигрывав по ходу матча со швейцарцами 2 : 0 , россиянки упустили преимущество , пропустили три шайбу и лишь в концовке добили очко - 3 : 3 .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выигрывая"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "шайбы"
+    },
+    {
+      "correctReplacement": "россияне",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

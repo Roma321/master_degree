@@ -1,0 +1,20 @@
+{
+  "text": "Многие авиакомпании , в том числе Continental Airlines и Delta Airlines , проверили свой самолеты еще бо предупреждений FAA .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "свои"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "предупреждения"
+    },
+    {
+      "correctReplacement": "до",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

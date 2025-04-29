@@ -1,0 +1,25 @@
+{
+  "text": "Государственный Дума ратифицирую конвенцию между касательствами РФ и Израилем об избежании двойного налогообложения и предотвращении уклонения от уплаты налогов на доходы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "ратифицировала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Государственная"
+    },
+    {
+      "correctReplacement": "правительствами",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

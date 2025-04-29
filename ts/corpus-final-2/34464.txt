@@ -1,0 +1,35 @@
+{
+  "text": "В воскресенье около 20 . 00 в центре Москвы был обнаруживший троп 16-летнего Александра Мещерякова , смерть которого , по заключению судмедэкспертов , наступила в результате проникающего ножевой ранения нрудного клетке .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "ножевого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 29,
+      "correctReplacement": "грудной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "клетки"
+    },
+    {
+      "correctReplacement": "труп",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "грудного",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

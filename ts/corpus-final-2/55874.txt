@@ -1,0 +1,25 @@
+{
+  "text": "В последние дни выпуски ровостей на Чешском телевидении выходили в двух версиях , одна из которых была подготовлю сторонниками , а другую - противниками нового генеральных директора .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "генерального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "другая"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "подготовлена"
+    },
+    {
+      "correctReplacement": "новостей",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

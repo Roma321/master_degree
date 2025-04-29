@@ -1,0 +1,25 @@
+{
+  "text": "Lucent является одну из крупнейшего телекоммуникационных компанри мира с годовым бюджетом 34 миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "компаний"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "крупнейших"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "одной"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

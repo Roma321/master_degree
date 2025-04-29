@@ -1,0 +1,25 @@
+{
+  "text": "ЦРУ уволившее четырех своих сотрудников и объявило выговоры еще 18-ти в связи с пользованием секретному чатом , сообщаю Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "секретным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "выговор"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "уволило"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

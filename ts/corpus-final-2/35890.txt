@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , президента освободивший Сергея Чемезова от должнгсти ментального директора федерального государственного унитарного предприятия \"Промэкспорт\" по той же причине .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "освободил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "президент"
+    },
+    {
+      "correctReplacement": "генерального",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "должности",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Им отметил , что за минувшую неделю в разных районе Чечни унпчтожены также принадлежащие боевикам девять единицам автотранспорта , три миномета , 12 базы и 17 складов оружия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "районах"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "баз"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "принадлежавшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "единиц"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Он"
+    },
+    {
+      "correctReplacement": "уничтожены",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

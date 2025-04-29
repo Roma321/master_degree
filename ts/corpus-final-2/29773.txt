@@ -1,0 +1,30 @@
+{
+  "text": "В вторники в городе Захедан на юге Ирана произошел взрыв . Как сообщаемый Reuters со ссылкой на иранский агентство IRNA , взрывная волна разрушила несколько дома , едя пострадавшие .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "иранское"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "домов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "вторник"
+    }
+  ]
+}

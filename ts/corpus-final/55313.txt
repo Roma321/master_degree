@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время OANA объединяет информационные агентств из 34 стран , фключая такие крупный , как Синьхуа (Китай) , Киодо Цусин (Япония) , PTI (Индия) , Йонхап (Южная Корея) , Монцамэ (Монголия) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "агентства"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "крупные"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

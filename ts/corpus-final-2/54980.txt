@@ -1,0 +1,25 @@
+{
+  "text": "По результаты выборов победу одержал бывший командующий Галтийской флотом РФ Владимир Егоров , полученный 58 , 6 процента голосов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "результатам"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "Балтийским"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "получивший"
+    },
+    {
+      "correctReplacement": "Балтийской",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

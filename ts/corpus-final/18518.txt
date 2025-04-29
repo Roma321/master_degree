@@ -1,0 +1,20 @@
+{
+  "text": "В Сахалинской области в реке Сусуя , протекающей прямо по административному центру островной края , обнаружифший очаг холеры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "островного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "обнаружен"
+    },
+    {
+      "correctReplacement": "обнаруживший",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению рок , Остальский также добавило , что только недавно закончившаяся проверка \"НТВ-Плюс\" , которая проводиласю управлением налоговой службы .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "добавил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "закончилась"
+    },
+    {
+      "correctReplacement": "РБК",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "проводилась",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

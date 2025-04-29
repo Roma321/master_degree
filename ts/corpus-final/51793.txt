@@ -1,0 +1,20 @@
+{
+  "text": "В нижестоящее время в зоне оползня оказался средняя школа , в которой с сегодняшнего дня полностью отменившие все занятия .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "оказалась"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "отменены"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

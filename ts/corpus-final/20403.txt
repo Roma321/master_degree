@@ -1,0 +1,25 @@
+{
+  "text": "В Европе продолжаешь соседствующие ураган , начавшийся в четверг ночью . Он обрушившийся на Франыию , Швейцарию , Италию , Бельгию .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "продолжает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "обрушился"
+    },
+    {
+      "correctReplacement": "свирепствовать",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "Францию",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

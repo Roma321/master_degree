@@ -1,0 +1,35 @@
+{
+  "text": "Сейчас , добавляю ОРТ , специалистами не исключают возможность , что заразившее мясо было перепродафшее в соседние области или за пределы Казахстана , в той числе в Россию . ением и распространением фальшивыхденежных знаков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "зараженное"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "перепродано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 24,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "специалисты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "добавляет"
+    },
+    {
+      "correctReplacement": "перепродавшее",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

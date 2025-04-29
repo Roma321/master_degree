@@ -1,0 +1,20 @@
+{
+  "text": "Тарлецкий отметил , что в результате принявших меры за неделю в белорусской столице раскрыто 212 ппеступлений , что значительно больше среднестатистических показателей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "принятых"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "мер"
+    },
+    {
+      "correctReplacement": "преступлений",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

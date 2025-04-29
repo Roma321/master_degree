@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщивший журналистам адвокате Антона Титбва Павел Астахов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "адвокат"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "correctReplacement": "Титова",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

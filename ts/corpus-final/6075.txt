@@ -1,0 +1,20 @@
+{
+  "text": "По рассчетам NASA , телек Hubble должен проработанные до 2010 годов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "проработать"
+    },
+    {
+      "correctReplacement": "телескоп",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

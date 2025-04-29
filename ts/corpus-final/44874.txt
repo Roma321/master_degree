@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , \"в этой ситуации для работников наземных службы было бы гораздо проще сознаться в получении \"левкх\" денег , чем признать , что они не выполнили своих обязанности\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "служб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "свои"
+    },
+    {
+      "correctReplacement": "\"левых\"",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

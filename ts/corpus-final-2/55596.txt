@@ -1,0 +1,20 @@
+{
+  "text": "Хотя своей основной занятием Левитин считает театр , передает ИТАР-ТАСС , он аже выпустил пять книг .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "своим"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "основным"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

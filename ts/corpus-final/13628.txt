@@ -1,0 +1,25 @@
+{
+  "text": "Премьера Владимир Путин отозвавший в понедельник из оьпуска главу МЧС Сергея Шойгу и пригласили для беседы в Белый дом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Премьер"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "отозвал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "пригласил"
+    },
+    {
+      "correctReplacement": "отпуска",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

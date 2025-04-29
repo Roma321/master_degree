@@ -1,0 +1,20 @@
+{
+  "text": "Закон запрещают сбор подписей в местях получением денежных выплат .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "получения"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "запрещает"
+    },
+    {
+      "correctReplacement": "местах",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

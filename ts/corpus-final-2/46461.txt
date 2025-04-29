@@ -1,0 +1,20 @@
+{
+  "text": "Счет за предоставленные услуги выставляешься оператором телефонной сети вместе со счетом за междугородние переговорам - вуход на EACCESS возможен только через \"восьмерку\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "выставляется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "переговоры"
+    },
+    {
+      "correctReplacement": "выход",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "На помощь рабочим прибыла полиция , и дела закончившееся столкновениями .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "дело"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "закончилось"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

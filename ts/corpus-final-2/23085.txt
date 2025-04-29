@@ -1,0 +1,20 @@
+{
+  "text": "В прессе это скандалы необычно именуют \"делом Mabetex\" или \"делом Бородина\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "скандал"
+    },
+    {
+      "correctReplacement": "обычно",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

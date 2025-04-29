@@ -1,0 +1,20 @@
+{
+  "text": "Они курили готоцые сигарета или сами забиваемые себе косяки с разным количеством травки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "сигареты"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "забивали"
+    },
+    {
+      "correctReplacement": "готовые",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

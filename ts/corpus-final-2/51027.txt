@@ -1,0 +1,25 @@
+{
+  "text": "На такую свадьбе можно пригласить сколько угодно друзьями и знакомых , но можно сделать р \"торжество для изысканных .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "свадьбу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "друзей"
+    },
+    {
+      "correctReplacement": "избранных\"",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

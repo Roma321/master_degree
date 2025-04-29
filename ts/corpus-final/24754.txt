@@ -1,0 +1,25 @@
+{
+  "text": "По мнению Вешнякова , некоторые губернаторы излишне активно высказываете свои предпочтения , используя к тому же свой служебное посинение , что являющийся прямым нарушением закона о выборах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 8,
+      "correctReplacement": "высказывают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "положение",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

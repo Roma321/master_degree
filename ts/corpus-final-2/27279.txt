@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил заместитель главы администрации президента Россия Сергей Приходько , во многом Договор об учреждении ЕАЭС является реализацией идеи Нурсултана Назарбаева о создании Евразийской союза , с сотовому он выступлю еще в марте 1994 года .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "выступил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "Евразийского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "России"
+    },
+    {
+      "correctReplacement": "которой",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

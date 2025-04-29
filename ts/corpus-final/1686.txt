@@ -1,0 +1,30 @@
+{
+  "text": "Произошли это спустя несколько минут после того , как телеведущий Сергей Доренко на ОРТ показанный длинный сюжет ь болезни и сечение экс-премьера .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Произошло"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "показал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "лечении"
+    },
+    {
+      "correctReplacement": "лечение",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "о",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По мнению министра энергетики саши , \"было шы идеально , если бы стоимость одного барреля сырой нефтей стоила в настоящее время 20-25 долларов\" , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "нефти"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "бы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

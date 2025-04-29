@@ -1,0 +1,20 @@
+{
+  "text": "Причем , по большей насти это высокотехнологичная и конкурентоспособная продукция , передаваемый РИА \"Новости\" слов Владимира Путина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "слова"
+    },
+    {
+      "correctReplacement": "части",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

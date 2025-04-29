@@ -1,0 +1,30 @@
+{
+  "text": "Компанию Volkswagen сообщённая в понедельник , что суд одного из округов американского штата Вирджиния постановил отобравшие домен vw . net у мёртвого интернет-провайдера Virtual Works и отдать его автомобильной компаний Volkswagen .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "компании"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщила"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "отобрать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "correctReplacement": "местного",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "После многотысячных манифестаций протеста против ВТО и глобализации капитализма улицы портового города завалим мусором и стеклом , стены покрывлие свежими граффити и лозунги .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "лозунгами"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "завалены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "покрыты"
+    },
+    {
+      "correctReplacement": "покрывшие",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

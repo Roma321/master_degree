@@ -1,0 +1,25 @@
+{
+  "text": "В польской городе Гожув-Великопольски задержан гражданина России , подозреваемый в участии в совершении термита на Пушкинской площади в Москве в августе этого года Ж",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "польском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "гражданин"
+    },
+    {
+      "correctReplacement": "теракта",
+      "type": "paronym",
+      "wordNumber": 13
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

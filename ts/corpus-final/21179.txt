@@ -1,0 +1,30 @@
+{
+  "text": "В ходе предновогодних итераций правоохранительные органы Новосибирска конфисковал более полутора тонн просроченных и несертифицированных пиротехнических изделиям , в оснтвном - китайской производства .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "конфисковали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "изделий"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "китайского"
+    },
+    {
+      "correctReplacement": "операций",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "основном",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , этот станжарт измерительный тем , что специально приспособивший к передаче мультимедиа , голосовых и видеоданных , хотя его реализация пока не слишком качественен .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "приспособлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "качественна"
+    },
+    {
+      "correctReplacement": "замечателен",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "стандарт",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

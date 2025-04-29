@@ -1,0 +1,25 @@
+{
+  "text": "22 были застрелены из расстрельного либо зарезаны с помощь холодного оружия , 23 попали в автомобильные аварии , 12 сгорели во время пожаров , из число остальных кто-то покончил жизнь самоубийству , а кто-то подорвался на петарде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "числа"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "самоубийством"
+    },
+    {
+      "correctReplacement": "огнестрельного",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

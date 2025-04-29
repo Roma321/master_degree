@@ -1,0 +1,25 @@
+{
+  "text": "Прокуратура Нью-Йорка планирует выдвинуть дополнительные обвинениям пройти Зветланы Кудрявцевой , проходящей по делу Bank of New York , сообщаешь ПРАЙМ-ТАСС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "обвинения"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "против",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "Светланы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

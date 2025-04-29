@@ -1,0 +1,20 @@
+{
+  "text": "2 челомей погибли и не менее 30 серьезно пострадали в результату крушения поезда в токийском метро , сообщает Associated Press .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "человека"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "результате"
+    },
+    {
+      "correctReplacement": "человек",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

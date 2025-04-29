@@ -1,0 +1,20 @@
+{
+  "text": "Он влюблен в жене своего друга , который , уминая от таинственным недуга , завещал писателю ее опекать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "жену"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "таинственного"
+    },
+    {
+      "correctReplacement": "умирая",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

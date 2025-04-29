@@ -1,0 +1,20 @@
+{
+  "text": "В Великобритании более 400 ветераны считается умершими от \"Синдрома войнц в заливе\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "ветеранов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "считаются"
+    },
+    {
+      "correctReplacement": "войны",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

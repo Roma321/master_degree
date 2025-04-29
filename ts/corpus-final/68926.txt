@@ -1,0 +1,25 @@
+{
+  "text": "Дирижер Василий Синайский назначу художественным руководителемгосударственной академического симфонических оркестра России (ГАСО) . Приказ о назначении Синайского уже подписан , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "назначен"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "симфонического"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "руководителемГосударственного"
+    }
+  ]
+}

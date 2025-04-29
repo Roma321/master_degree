@@ -1,0 +1,20 @@
+{
+  "text": "Cразу же после посадки на взлетно-посадочной полосе аыиабазы он заявил журналистам , что МиГ-21 , как и ранее , остается \"непобедимой и прекрасному галиной , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "прекрасной"
+    },
+    {
+      "correctReplacement": "машиной\"",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "авиабазы",
+      "type": "typo",
+      "wordNumber": 7
+    }
+  ]
+}

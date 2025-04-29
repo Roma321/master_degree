@@ -1,0 +1,20 @@
+{
+  "text": "Так , в 1997 году в Гудермесе именно его подразделение вступила в бои с ваххабистскими формированиями и батальоном похитателя людей Арби Бараева .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "вступило"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "бой"
+    },
+    {
+      "correctReplacement": "похитителя",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

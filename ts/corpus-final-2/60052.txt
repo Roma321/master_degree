@@ -1,0 +1,20 @@
+{
+  "text": "Полицейский , который прибыл проверить сигнал , поступивший в участок , обнаружил на дорожке под гткрытым окно человека с переломом и отправленный его в полицейский госпиталь на рентген .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "отправил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "окном"
+    },
+    {
+      "correctReplacement": "открытым",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

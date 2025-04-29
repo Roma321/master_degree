@@ -1,0 +1,20 @@
+{
+  "text": "Вероятно , причиной происшествия стало мокрое асфальтовое покрытие , так как в этого день в городе прошедший сильный дождю .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "прошел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "дождь"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "этот"
+    }
+  ]
+}

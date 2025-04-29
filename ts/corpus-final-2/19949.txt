@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время готовятся документах для экстрадиций задержанных на территорию России , сообщили ИТАР-ТАСС в МВТ Дагестана .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "экстрадиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "документы"
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

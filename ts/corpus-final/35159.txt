@@ -1,0 +1,30 @@
+{
+  "text": "Как оказавшееся позднее , ход чемпиона мира , который уже обдумывали болельщики на электронной демонстрационной доске в амстердам , Йерун Пикета не получило на свой компьютеры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "получил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "компьютер"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Пикет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "оказалось"
+    },
+    {
+      "correctReplacement": "Роттердаме",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

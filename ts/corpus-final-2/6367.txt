@@ -1,0 +1,20 @@
+{
+  "text": "Согласно данным последних орросов , губернатор Техаса Буш-младший продолжает уверенно лидировать в опросах общественном мнения , публикуемого американскими СМИ .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "общественного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "публикуемых"
+    },
+    {
+      "correctReplacement": "опросов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

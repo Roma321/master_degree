@@ -1,0 +1,20 @@
+{
+  "text": "Однако в конце первой тацма португальцы сократили разрыв в счете , а в середине второй половины встречи они забили два голе подряд и вышли вперед .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "первого"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "гола"
+    },
+    {
+      "correctReplacement": "тайма",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

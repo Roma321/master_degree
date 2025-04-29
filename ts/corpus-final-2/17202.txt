@@ -1,0 +1,20 @@
+{
+  "text": "Это первое турнир Большого Шлема , выигравший двадцатилетним Маратом Сафиным и первый US Open , в котором первое место мечталось российскому теннисисту .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "выигранный"
+    },
+    {
+      "correctReplacement": "досталось",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

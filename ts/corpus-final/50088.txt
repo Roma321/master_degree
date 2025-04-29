@@ -1,0 +1,25 @@
+{
+  "text": "Так , с помощью дистанций и терминала спутниковой связей полевых командиры вели переговоры со своими спонсорами из Египта , Иордании , Объединенных Арабских Эмиратов , Пакистана , Афганистана , Турции .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полевые"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "терминалов"
+    },
+    {
+      "correctReplacement": "станций",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

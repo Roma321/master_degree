@@ -1,0 +1,25 @@
+{
+  "text": "В ходом тушения , которое длилось около двух часами , выяснилось , что в здании находился один охранеик онкологического центра - он погиб , так как не смогу выбраться из горящего здания .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "смог"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "охранник",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

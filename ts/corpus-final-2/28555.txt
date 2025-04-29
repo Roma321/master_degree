@@ -1,0 +1,30 @@
+{
+  "text": "Они даже организовавшие собственный сайт , который привлек интерес 2 , 5 тссячи фаната по всем миру - от 14-летних подростков до умудренных опытом проректоров .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "организовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "всему"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "фанатов"
+    },
+    {
+      "correctReplacement": "профессоров",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "тысячи",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

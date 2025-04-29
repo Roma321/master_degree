@@ -1,0 +1,25 @@
+{
+  "text": "Старшие оливеры уже обращались в московского мэрии , к губернатору Подмосковья Борису Громову , руководству \"Домодедовских авиалиний\" , в Министерство обороны , но никто им не помол .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "мэрию"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "московскую"
+    },
+    {
+      "correctReplacement": "офицеры",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "помог",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

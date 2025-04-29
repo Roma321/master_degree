@@ -1,0 +1,25 @@
+{
+  "text": "Преступники хорошо знает , что банковская система в крие не работает , потому международные представительства хранят большие суммы валют в сейфах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "знают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "валюты"
+    },
+    {
+      "correctReplacement": "поэтому",
+      "type": "paronym",
+      "wordNumber": 12
+    },
+    {
+      "correctReplacement": "крае",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По имеющемуся оценкам , контрабанда нефти приносящий Багдаду около миллиарда - полутора миллиардоч доллара в год .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "долларов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "приносит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "имеющимся"
+    },
+    {
+      "correctReplacement": "миллиардов",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

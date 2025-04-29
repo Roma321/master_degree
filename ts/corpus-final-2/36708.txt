@@ -1,0 +1,20 @@
+{
+  "text": "В ней также сообщался , что пгсле аварии в девятых отсеке \"Курска\" находятся 23 человека .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сообщается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "девятом"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

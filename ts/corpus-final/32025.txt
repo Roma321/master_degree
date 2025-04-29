@@ -1,0 +1,20 @@
+{
+  "text": "коло 7 . 10 пожар ликвидирую , причины его возникновения выясняемся .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "ликвидирован"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "выясняются"
+    },
+    {
+      "correctReplacement": "Около",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

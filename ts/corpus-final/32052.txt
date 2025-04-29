@@ -1,0 +1,30 @@
+{
+  "text": "Впрочем , комментируемый Reuters эту неприятной для американского президента новость , Клинтон всегда уделяемый больше внимания своей политическая карьере , нежели юридической практике , и отзыв адвокатской лицензии окажешься скорее затруднением , но уж никак не преградой в его дальнейшей деятельности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "комментирует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "политической"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "неприятную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "уделял"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "окажется"
+    }
+  ]
+}

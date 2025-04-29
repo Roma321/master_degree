@@ -1,0 +1,15 @@
+{
+  "text": "В отношении этих лиц возбуждён угольное дело .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "возбуждено"
+    },
+    {
+      "correctReplacement": "уголовное",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

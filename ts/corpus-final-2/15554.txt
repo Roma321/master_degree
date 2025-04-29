@@ -1,0 +1,25 @@
+{
+  "text": "Теперь толпы пешеходов стоят возле неурочного сооружения и комментируют каждый переулючению светафора .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "переключение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "каждое"
+    },
+    {
+      "correctReplacement": "необычного",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "переключению",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Того , кто осмелится нарушеоные этим запрет , ожидает смертная казнь .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "этот"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "нарушить"
+    },
+    {
+      "correctReplacement": "нарушенные",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

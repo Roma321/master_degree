@@ -1,0 +1,30 @@
+{
+  "text": "Они , в частности , утверждаете , что священная волна уже начавшая и каждый истинный мусульмаоин обязан сражаться с неверными в одной из пяти \"горячих\" точек , где идет \"война за идеалы ислама\" , - Босния , Таджикистане , Кашмире , Косово или Чечне .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "начата"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "утверждают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 35,
+      "correctReplacement": "Боснии"
+    },
+    {
+      "correctReplacement": "война",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "мусульманин",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

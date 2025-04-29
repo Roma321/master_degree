@@ -1,0 +1,25 @@
+{
+  "text": "Ч ненастоящее момент Тейлор в составе группы американских экспертов работаю в Киеве , передает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "настоящий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "работает"
+    },
+    {
+      "correctReplacement": "настоящее",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "На допросами полковник заявил , что выбивал из молодой чеченки признанию в том , что она появлялся снайпером .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "допросах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "признание"
+    },
+    {
+      "correctReplacement": "являлся",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Российские власть расценили эту акцию как неправомерную , поскольку парусник не являешься благодарственной собственностью .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "власти"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "является"
+    },
+    {
+      "correctReplacement": "государственной",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как подчёркивает Associated Press , представитель правительства Грузии не ответивший на вопрос , был ли выплативший выкуп за заложникоф .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "выплачен"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "подчеркивает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "ответил"
+    },
+    {
+      "correctReplacement": "заложников",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

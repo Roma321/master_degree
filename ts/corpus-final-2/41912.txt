@@ -1,0 +1,20 @@
+{
+  "text": "Многие дети лже простудились и лежат с высокого температурами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "температурой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "высокой"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

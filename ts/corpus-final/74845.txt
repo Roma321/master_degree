@@ -1,0 +1,35 @@
+{
+  "text": "Истцами требовали возвратить им деньги за машин , возместить издержки , связанные с их покупкой , а тагже моральный ущерб и штрафные санкции , положившие по закону о защите права потребителей .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "требуют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Истцы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "машины"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "положенные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "прав"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Администрации федеральной авиация США сообщила , что в аэропортах будут усилим меры безопасности , вклюяая новые правила парковки автомобилей на стоянках аэропортов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "усилены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Администрация"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "авиации"
+    },
+    {
+      "correctReplacement": "включая",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

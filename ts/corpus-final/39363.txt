@@ -1,0 +1,25 @@
+{
+  "text": "Его план предполагаешь большие тратам на пенсии социального страхования и медицигскими программы для пожилых , образование и защиту окружающей среды , выплату национального долга и некоторое сокращение налогов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "траты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "медицинские"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "предполагает"
+    },
+    {
+      "correctReplacement": "медицинскими",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

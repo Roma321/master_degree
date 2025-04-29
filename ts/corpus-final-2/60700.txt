@@ -1,0 +1,30 @@
+{
+  "text": "Источниками сообщают , что сценарий написавший Дэвид Хейтер , писавший сценарий к популярному фильму \"Люди Икс\" , также снятому по марвеловским уомиксу , и что именно благодать этому Ли принял решение снимать фильм .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Источники"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "написал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "марвеловскому"
+    },
+    {
+      "correctReplacement": "благодаря",
+      "type": "paronym",
+      "wordNumber": 26
+    },
+    {
+      "correctReplacement": "комиксу",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

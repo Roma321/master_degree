@@ -1,0 +1,20 @@
+{
+  "text": "На 78-я минуте вратарь утаивший удару Томассона ; мяч , однако , остался у \"Фейенорда\" , и Круз вернул его товарищу по команде .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "удар"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "78-й"
+    },
+    {
+      "correctReplacement": "отбил",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

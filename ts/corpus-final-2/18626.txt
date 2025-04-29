@@ -1,0 +1,35 @@
+{
+  "text": "В рамках кампании по зорьке со взяточничеством , возглавляющей премьер-министром Китая Чжу Жунцзей , 14 сентября казнен крурная государственного деятель Чэн Кэцзе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "крупный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "Жунцзи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "государственный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "возглавляемой"
+    },
+    {
+      "correctReplacement": "борьбе",
+      "type": "paronym",
+      "wordNumber": 4
+    },
+    {
+      "correctReplacement": "крупная",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

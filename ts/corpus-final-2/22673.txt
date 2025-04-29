@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщу РИА \"Новости\" по завершении встречи пресс-секретари Путиных Алексей Громов , глава государства считает неправильным вмешиваться в конфликт между \"Газпромом\" и \"Медиа-Мостом\" как между двумя хтзяйствующими субъектами .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "пресс-секретарь"
+    },
+    {
+      "correctReplacement": "хозяйствующими",
+      "type": "typo",
+      "wordNumber": 26
+    }
+  ]
+}

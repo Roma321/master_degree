@@ -1,0 +1,30 @@
+{
+  "text": "Командование Дальневосточного военному округу решённое взять под охрану артиллерийские склады близ поселка Бира Еврейской автономной области , которые почти два года являлись источником похода для местной населения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "военного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "местного"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "решило"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "округа"
+    },
+    {
+      "correctReplacement": "дохода",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

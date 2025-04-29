@@ -1,0 +1,30 @@
+{
+  "text": "В минувший понедельник в столицы Венгрии прибывшая группа российских адвокатам , возглавляемая известным юристом генри Падвой , которая намерена отстаивать в местном суда интересы находящегося под стражей предпринимателя Анатолия Быкова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "адвокатов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "столицу"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "суде"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "прибыла"
+    },
+    {
+      "correctReplacement": "Генрихом",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

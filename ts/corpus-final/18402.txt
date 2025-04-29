@@ -1,0 +1,25 @@
+{
+  "text": "По сообщениям CNN , представитель еще одного британского банка , просивший не называемые его имени , сообщил , что не только Barclays , но и ряд других банков Великобритании либо уже пересмотрели свою позиции в отношении своего присутствия в России , либо делающие это в настоящее время .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 42,
+      "correctReplacement": "делают"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "называть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщению"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 33,
+      "correctReplacement": "позицию"
+    }
+  ]
+}

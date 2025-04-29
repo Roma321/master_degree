@@ -1,0 +1,25 @@
+{
+  "text": "По словам Лесникова , на зарегистрированные до 1 июня доменные имена распространяются следующий правила : если через два месяца имя не будет оплачено , оно снимался с делегирования , а еще через месяце — и с регистраций , то есть становится свободным .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "снимается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "следующие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 32,
+      "correctReplacement": "месяц"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "регистрации"
+    }
+  ]
+}

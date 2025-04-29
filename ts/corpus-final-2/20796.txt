@@ -1,0 +1,15 @@
+{
+  "text": "Завод перерабатывает отработанные ядерпое топливо атомных станций для повторного использования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "отработанное"
+    },
+    {
+      "correctReplacement": "ядерное",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

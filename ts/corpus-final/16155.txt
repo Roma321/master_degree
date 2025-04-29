@@ -1,0 +1,25 @@
+{
+  "text": "Выступцв в воскресенье вечером на канале ОРТ , Вешняков пояснило , что для пересмотра решения ВС необходим протест Генеральной прокуратуры или председательского Верховного суда .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "пояснил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Выступая"
+    },
+    {
+      "correctReplacement": "председателя",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "Выступав",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

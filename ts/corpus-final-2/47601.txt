@@ -1,0 +1,35 @@
+{
+  "text": "По его словам , во время недавнего визита в Грузию секретарь Совета безопасности России Сергей Иванов сделанный в Тбилиси официальное заявление , что из-за сложного рельефа местностей и благодаря контролёру пограничников двух стран , а также мониторингу миссии ОБСЕ , ни о какой массовым переходу чеченских боевиков в Грузию речи быть не может .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 42,
+      "correctReplacement": "каком"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "местности"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сделал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "переходе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 43,
+      "correctReplacement": "массовом"
+    },
+    {
+      "correctReplacement": "контролю",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

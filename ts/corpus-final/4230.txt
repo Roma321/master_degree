@@ -1,0 +1,30 @@
+{
+  "text": "Как утверждают Frontier Post , в конце прошлом недели талибы уже закрывшие несколько лагерей в провинциях Нангархар , Пактия и Кундуз , разоружённые сотни иностранных моджахедов , в оснтвном пакистанцев и граждан арабских стран .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "прошлой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "разоружив"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "закрыли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "утверждает"
+    },
+    {
+      "correctReplacement": "основном",
+      "type": "typo",
+      "wordNumber": 28
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Мощность землевладения составило 5 , 1 балла по шкале Рихтер .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "составила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Рихтера"
+    },
+    {
+      "correctReplacement": "землетрясения",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

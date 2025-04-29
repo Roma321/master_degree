@@ -1,0 +1,35 @@
+{
+  "text": "С учетом зарегистрированных ранее на депутатский мандат в 99 Всеволожской избирательном округе , охватывавшем Выбогский , Кировского , Приозерский , Всеволожский райаны Ленинградской областях и Таллинский консульский округ , претендуем 15 кандидатов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "Всеволожском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "Кировский"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 29,
+      "correctReplacement": "претендуют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "охватывающем"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "области"
+    },
+    {
+      "correctReplacement": "районы",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Съемки начнутся в марте и будут проходить в Лондоне , гзе у семейного паре - свой дом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "семейной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "пары"
+    },
+    {
+      "correctReplacement": "где",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

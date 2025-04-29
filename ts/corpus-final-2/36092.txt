@@ -1,0 +1,30 @@
+{
+  "text": "Эхуд Барак сделал свое заявление в ответы на призыв Ясира Арафата , который заявивший , что присутствие миротворцев на нижним Востоке должна защитить палестинцев от израильской армией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "армии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "ответ"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "должно"
+    },
+    {
+      "correctReplacement": "Ближнем",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Президент компании , обслуживающий железные дороги штатов Дакота и Миннесота , заявил формалистам , что причиной аварии стал умышленно неверный перевода жезезнодорожных стрелках .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "стрелок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "перевод"
+    },
+    {
+      "correctReplacement": "журналистам",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

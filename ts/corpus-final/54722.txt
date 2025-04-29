@@ -1,0 +1,20 @@
+{
+  "text": "Однако , как отметлл мэр , у АО \"Карелэнерго\" тоже есть долги городской бюджетам , поэтому энергетики пошли на некоторые уступки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "городскому"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "бюджету"
+    },
+    {
+      "correctReplacement": "отметил",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

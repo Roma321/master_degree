@@ -1,0 +1,25 @@
+{
+  "text": "Одновременно сообщаюсь , что описание банкнот в 1000 рублей будет представлю в декабре текущего года , передаю РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "банкноты"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "представлено"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщается"
+    }
+  ]
+}

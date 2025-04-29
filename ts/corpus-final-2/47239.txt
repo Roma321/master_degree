@@ -1,0 +1,30 @@
+{
+  "text": "В ходе судебной расточительства судьи Эд Карнз , Стэнли Берч и Джоэл Дубина пытались склонить суды к вынесениям противоположного решения , однако им этш не удалось .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "суд"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "вынесению"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "судебного"
+    },
+    {
+      "correctReplacement": "разбирательства",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "это",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

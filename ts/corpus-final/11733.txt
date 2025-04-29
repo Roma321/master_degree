@@ -1,0 +1,20 @@
+{
+  "text": "Из общего числа проживающищ , дополнил Каламанов , 42 процента составляемые дети до 16 лет , 35 процентов - женщина и 23 процента - мужчины",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "составляют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "женщины"
+    },
+    {
+      "correctReplacement": "проживающих",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

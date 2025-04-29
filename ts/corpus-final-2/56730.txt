@@ -1,0 +1,20 @@
+{
+  "text": "Взрыв сильно поврежу шесть квартир пятиэтажного домов № 64 на Степной ултце .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "повредил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "улице",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

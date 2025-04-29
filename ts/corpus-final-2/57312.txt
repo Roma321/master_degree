@@ -1,0 +1,25 @@
+{
+  "text": "По приговорам суда , Макаров получил 11 лет в колонии строгому режима , Малышевы и Бурдин - по 6 лет в колонии общей режима .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Малышев"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "строгого"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "общего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "приговору"
+    }
+  ]
+}

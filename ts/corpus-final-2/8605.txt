@@ -1,0 +1,20 @@
+{
+  "text": "Создана комиссии по рассказыванию обстоятельств прорсшествия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "комиссия"
+    },
+    {
+      "correctReplacement": "расследованию",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "происшествия",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

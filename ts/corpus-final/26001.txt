@@ -1,0 +1,20 @@
+{
+  "text": "Он прекрасно владеет немецкой языком и порой нам даже не трещовался переводчик\" , - сказал немецкий министра .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "министр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "немецким"
+    },
+    {
+      "correctReplacement": "требовался",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

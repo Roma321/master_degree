@@ -1,0 +1,20 @@
+{
+  "text": "В других районе Белфаста возведены баррикады , а в полиции жвыряли камнями и бутылками с зажигательной смесью .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "районах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "полицию"
+    },
+    {
+      "correctReplacement": "швыряли",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РИА \"Новости\" , эксверты миссии МВФ проведут в среду консультации в Центробанк и Минфину .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Центробанке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Минфине"
+    },
+    {
+      "correctReplacement": "эксперты",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

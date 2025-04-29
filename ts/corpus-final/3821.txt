@@ -1,0 +1,30 @@
+{
+  "text": "Пока же считается , чтоциклон , перемещавшийся со скоростью до 300 км/час , смевший с лицаземли тысячи налепивших пунктов , оставлю без крова до 15 миллионовчеловеке - почти половину населения штата .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "населенных"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "оставив"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "смел"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "миллионовчеловек"
+    },
+    {
+      "correctReplacement": "населивших",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

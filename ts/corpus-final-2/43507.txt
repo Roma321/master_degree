@@ -1,0 +1,30 @@
+{
+  "text": "аврором слов нового гимна стащи Серей Михалков , сочинивший в свое время текст гимна Советской Союзу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "Советского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Союза"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "стал"
+    },
+    {
+      "correctReplacement": "Автором",
+      "type": "paronym",
+      "wordNumber": 0
+    },
+    {
+      "correctReplacement": "стали",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Причиной взьыва , считаем специалисты , стала утечка ротовому газа .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "бытового"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "бытовому",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "взрыва",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

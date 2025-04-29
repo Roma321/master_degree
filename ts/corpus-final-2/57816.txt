@@ -1,0 +1,20 @@
+{
+  "text": "По данным штаба ОГВ , за минуфшие сутках в Чечне подразделения МВД проведённые 26 оперативно-розыскных и профилактических мероприятий .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "сутки"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "провели"
+    },
+    {
+      "correctReplacement": "минувшие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В воронежской колонии , расположу в гордом Семилуки , появился отряды , в котором все 24 заключенных являетесь ВИЧ-инфицированными , - передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "расположенной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "отряд"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "являются"
+    },
+    {
+      "correctReplacement": "городе",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

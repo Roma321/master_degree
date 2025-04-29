@@ -1,0 +1,20 @@
+{
+  "text": "Как отмечает газета , после приобретения Orange концерном Mannesmann Vodafone опасался поглощения немецкого концерна со стороны такого компани как американские SBC Communications или MCI Worldcom .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "таких"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "компаний"
+    },
+    {
+      "correctReplacement": "компании",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "кат собщила полиции , хакеры получили доступ к внутренней информаций нью-йоркского отделения Bloomberg , используя компьютеры , находившиеся в Алма-Ате .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "информации"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "находящиеся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "полиция"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

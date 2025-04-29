@@ -1,0 +1,30 @@
+{
+  "text": "Организую преступная группа , которая занималась мошенничеством с использованием электронных платёжных средств , задержавшая в Москве сотрудниками Управления \"Р\" (Управление по борьбе с предъявлениями в сфере высоких технологий) МВД Россия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "задержана"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 0,
+      "correctReplacement": "Организованная"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "платежных"
+    },
+    {
+      "correctReplacement": "преступлениями",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

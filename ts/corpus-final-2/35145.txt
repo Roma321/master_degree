@@ -1,0 +1,30 @@
+{
+  "text": "Английский поп-группа Spice Girls попало в ряды классика с фраза из песня I'll tell you what I want , what I really , really want .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "песни"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "классиков"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "фразой"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "попала"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Английская"
+    }
+  ]
+}

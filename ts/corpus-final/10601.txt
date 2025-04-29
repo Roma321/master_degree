@@ -1,0 +1,25 @@
+{
+  "text": "На пресс-конйеренции директор инвестиционного отделения Fleming UCB в Москве Алексей Матвеев пояснил : \"Речь идет о компании , которая с такой интеллектуального собственностью может иметь миллиардные рыночная капитал .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "интеллектуальной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "миллиардный"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "рыночный"
+    },
+    {
+      "correctReplacement": "пресс-конференции",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

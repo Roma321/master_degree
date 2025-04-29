@@ -1,0 +1,30 @@
+{
+  "text": "В минувших выходные в Сибири и на сальнику Востоке произойду , по крайней мере , шесть крупных пожарах , в которых погибли в общей сложности 26 человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "пожаров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "минувшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Дальнем"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "произошло"
+    },
+    {
+      "correctReplacement": "Дальнему",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

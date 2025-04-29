@@ -1,0 +1,20 @@
+{
+  "text": "Напомним , что 29 марта на колонне омоновцев было совершено нападением , в резульиате погибли 43 человека .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "нападение"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "колонну"
+    },
+    {
+      "correctReplacement": "результате",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

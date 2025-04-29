@@ -1,0 +1,25 @@
+{
+  "text": "Это первое слушанье по дела после того , как в прошлом месяцах был застрелен один из адвоката Шаррфа , сообщает ВВС .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "делу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "адвокатов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "месяце"
+    },
+    {
+      "correctReplacement": "Шарифа",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

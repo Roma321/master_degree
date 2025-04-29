@@ -1,0 +1,20 @@
+{
+  "text": "В среду вечером во дворе его дому взорвался гренада .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "взорвалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "дома"
+    },
+    {
+      "correctReplacement": "граната",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

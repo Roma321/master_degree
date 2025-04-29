@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщил журналистам РИА \"Новости\" премьер-министр России Владимире Путин , в настоящее бремя российский президент чувствует себе удовлетворительно .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "себя"
+    },
+    {
+      "correctReplacement": "время",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

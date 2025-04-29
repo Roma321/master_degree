@@ -1,0 +1,20 @@
+{
+  "text": "Поднималось и вопросы об отношенмях между Россией и НАТО .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Поднимался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "вопрос"
+    },
+    {
+      "correctReplacement": "отношениях",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

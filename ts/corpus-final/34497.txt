@@ -1,0 +1,25 @@
+{
+  "text": "В то же время в министерском отметили , что цены на пассажирские перевозке в регионах железная дороге не устанавливает самостоятельно , а согласовывает их с местным администрациями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "дорога"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "местными"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "перевозки"
+    },
+    {
+      "correctReplacement": "Министерстве",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

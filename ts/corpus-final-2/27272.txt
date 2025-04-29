@@ -1,0 +1,25 @@
+{
+  "text": "Затем российским президент возложил венок к подннжию Мемориала жертвам политических репрессий в Астане и почтило память репрессированных минутами молчания .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "российский"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "почтил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "минутой"
+    },
+    {
+      "correctReplacement": "подножию",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

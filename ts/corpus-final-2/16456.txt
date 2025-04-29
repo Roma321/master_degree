@@ -1,0 +1,30 @@
+{
+  "text": "Главным условием Быков назову компенсацию убытков , которые ему понес после смены без его ведома попрежних торговых партнеров предприятия , которые представляемые его интерес .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "интересы"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "назвал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "он"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "представляли"
+    },
+    {
+      "correctReplacement": "прежних",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

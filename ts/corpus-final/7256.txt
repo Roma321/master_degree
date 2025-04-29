@@ -1,0 +1,35 @@
+{
+  "text": "Однако он напомнила , что в своё временем уже выиграл в суде процессу против Бориса кемеровского , обвиняемого Ковалева в причастности к покушению на его жизнь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "обвинявшего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "процесс"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "время"
+    },
+    {
+      "correctReplacement": "Березовского",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

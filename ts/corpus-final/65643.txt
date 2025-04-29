@@ -1,0 +1,25 @@
+{
+  "text": "В среду судья Томас Джексон , под руководством которого второго год проходят процесс по антимонопольному иску Министерства юстиции США против корпорации Microsoft , заявивший , что больше никаких слушаний по этому делу не был , сообщает CNN .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "второй"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "проходит"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 33,
+      "correctReplacement": "будет"
+    }
+  ]
+}

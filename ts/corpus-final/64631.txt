@@ -1,0 +1,35 @@
+{
+  "text": "По сообщению Агентства военных новостей , это склад нашедший во время оповещения специального операции , в которой участвовали около 300 сотрудников милиции а военнослужащим внутренних войск .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "специальной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "найден"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "военнослужащих"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "проведения",
+      "type": "paronym",
+      "wordNumber": 11
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 22
+    }
+  ]
+}

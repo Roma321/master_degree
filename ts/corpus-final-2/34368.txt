@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщает ИТАР-ТАСС со ссялкой на пресс-службу ГУВД Московского области , 54-летний журналист Савин облила себя горючей смесью и подожгу .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "Московской"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "облил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "поджег"
+    },
+    {
+      "correctReplacement": "ссылкой",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

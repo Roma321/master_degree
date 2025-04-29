@@ -1,0 +1,20 @@
+{
+  "text": "Опасаясь извержения , людей высыпали на улицы , но угрозаминую и никто нн пострадал .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "люди"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "угрозаминовала"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

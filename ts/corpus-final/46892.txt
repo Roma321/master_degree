@@ -1,0 +1,20 @@
+{
+  "text": "Жена погибшей была ранена онкологами стекла , но останусь жива .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "осталась"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "погибшего"
+    },
+    {
+      "correctReplacement": "осколками",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

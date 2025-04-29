@@ -1,0 +1,25 @@
+{
+  "text": "В том месте подземных перехода на Пушкинской площади , где в 18 часах 8 августа прогремевший взрыв , унёсшая 12 жизней , уже почти месяц стоят живые цветы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "часов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подземного"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "унесший"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "прогремел"
+    }
+  ]
+}

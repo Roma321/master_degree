@@ -1,0 +1,25 @@
+{
+  "text": "На сей раз представители Генпрокуратуры обыскиваемые кабинет и кмартире военачальника финансового управления \"Медиа-Моста\" Антона Титова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обыскивали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "квартиру"
+    },
+    {
+      "correctReplacement": "начальника",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "квартире",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

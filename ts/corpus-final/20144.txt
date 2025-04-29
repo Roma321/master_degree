@@ -1,0 +1,20 @@
+{
+  "text": "Министерство атомного энергетики России полностью готова к наступлению 2000 года , передаёшь РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "атомной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "готово"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "передает"
+    }
+  ]
+}

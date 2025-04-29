@@ -1,0 +1,20 @@
+{
+  "text": "В Аргентине отреставрирован самолет , на сотовом Антуан де Сент-Экзюпери совершивший первый почтовое рейс в этой стране .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "почтовый"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "совершил"
+    },
+    {
+      "correctReplacement": "котором",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

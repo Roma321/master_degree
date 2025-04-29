@@ -1,0 +1,25 @@
+{
+  "text": "По данных Сбербанка , в настоящее время ведется подготовка соглашений еще с 22 банками , ммеющими страус Principal Member в систему Europay в России .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "системе"
+    },
+    {
+      "correctReplacement": "статус",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "имеющими",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

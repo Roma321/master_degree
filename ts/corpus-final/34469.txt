@@ -1,0 +1,25 @@
+{
+  "text": "Не получившие они также и подтверждений газетной информации о прохождении через счета банка средства мво , выделенных ранее Россия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "России"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "средств"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "получили"
+    },
+    {
+      "correctReplacement": "МВФ",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Госсекретарь США Мадлен Олбрайт прибывшая 14 апреля в Киев с официальному визиром .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "официальным"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "прибыла"
+    },
+    {
+      "correctReplacement": "визитом",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

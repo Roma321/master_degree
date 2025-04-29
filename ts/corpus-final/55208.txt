@@ -1,0 +1,25 @@
+{
+  "text": "В матчам с англичанок на \"Реал\" ставили немногие Ж",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "англичанами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "матчах"
+    },
+    {
+      "correctReplacement": "англичан",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

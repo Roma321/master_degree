@@ -1,0 +1,30 @@
+{
+  "text": "Чэн Кэцзе , бывшим вице-спикер парламента Китая , был признавший виновной в том , что за период с 1992 по 1998 годы он получил по разным данным от 5 до 10 миллионов добларов деньгами и ценными подарками .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "виновным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "год"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "признан"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "typo",
+      "wordNumber": 32
+    }
+  ]
+}

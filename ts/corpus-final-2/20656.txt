@@ -1,0 +1,20 @@
+{
+  "text": "Костнер сыграет доктора , горюющих по мвоей умершей женой .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "горюющего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "жене"
+    },
+    {
+      "correctReplacement": "своей",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

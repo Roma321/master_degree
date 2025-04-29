@@ -1,0 +1,30 @@
+{
+  "text": "Стоит замеченные , что это выступление Министерства юстиции - первому публичный комментарий , данный участниками переговоров о внесудебного урегулировании разноглааий по делу \"США против Microsoft\" за две недели , взошедшие с начала переговоров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "первый"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "внесудебном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заметить"
+    },
+    {
+      "correctReplacement": "прошедшие",
+      "type": "paronym",
+      "wordNumber": 29
+    },
+    {
+      "correctReplacement": "разногласий",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

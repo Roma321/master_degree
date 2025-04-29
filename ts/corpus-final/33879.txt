@@ -1,0 +1,20 @@
+{
+  "text": "Самим Владимир Жириновский и его сын утверждают , что эта квартира им не принадлежу и документы о ее покупке , возможно , подложным .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Сам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "подложные"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 13,
+      "correctReplacement": "принадлежит"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает РИА \"Новости\" , под амнистию попадут около 120 тысяч заключенных , в частности те , ком осталось забывающие срок меньше года З",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "кому"
+    },
+    {
+      "correctReplacement": "отбывать",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

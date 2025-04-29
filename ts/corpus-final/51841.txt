@@ -1,0 +1,20 @@
+{
+  "text": "Этот визит станет первой зарубежного поездкой Иосиро Мори в его новой казачестве .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "зарубежной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "новом"
+    },
+    {
+      "correctReplacement": "качестве",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

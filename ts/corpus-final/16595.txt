@@ -1,0 +1,25 @@
+{
+  "text": "Кранидиотис вместе с сыном и группами журналистов нахожусь на бонту самолета Falcon , летящего из Афин в Бухарест .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "находился"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "группой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "летевшего"
+    },
+    {
+      "correctReplacement": "борту",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

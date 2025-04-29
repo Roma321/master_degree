@@ -1,0 +1,25 @@
+{
+  "text": "Он заявил , что хотел бы , чтобы Сергей Шойгу оставались в правительство , будучи одновременно лидер унижения \"Единство\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "правительстве"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "оставался"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "лидером"
+    },
+    {
+      "correctReplacement": "движения",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

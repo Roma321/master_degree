@@ -1,0 +1,25 @@
+{
+  "text": "По данными Министерства здравоохранения белинской республики , в результате предыдущих обстрелов погибнем 125 человек и более 200 находитесь в больницах .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "находятся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "данным"
+    },
+    {
+      "correctReplacement": "Чеченской",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

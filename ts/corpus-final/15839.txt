@@ -1,0 +1,25 @@
+{
+  "text": "Через пятнадцати минут после начала инцидента к клубу Текстильной Фабрики имени Калинина , где находится дискотека подъехали несколько патрулей милиции , которые не смогли восстановить порядке и вызовем подкреплении .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "пятнадцать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "порядок"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "подкрепление"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 27,
+      "correctReplacement": "вызвали"
+    }
+  ]
+}

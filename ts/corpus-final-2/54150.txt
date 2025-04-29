@@ -1,0 +1,25 @@
+{
+  "text": "До новым год остались меньше не.ели , а в Пекине до сих по не выпал снег .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "нового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "осталось"
+    },
+    {
+      "correctReplacement": "недели",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

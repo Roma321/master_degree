@@ -1,0 +1,30 @@
+{
+  "text": "Чтобы добиться выплаты компенсаций жителям и государству , Литва намерена подключить к этой процессе международных организации : ООН , Советы Европы и еврейский союз .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "процессу"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "Совет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "международные"
+    },
+    {
+      "correctReplacement": "Европейский",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

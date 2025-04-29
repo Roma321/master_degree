@@ -1,0 +1,25 @@
+{
+  "text": "Однако по предложению лидера Аграрными депутатской группыНиколая Харитонова , которого недоволен результатами голосование , депутаты проголосовавшие еще раз , со следующими результатами : За - 240 депутатов , против - 57 , воздержались - 5 .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "голосования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Аграрной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "который"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "В то же времяглаве делегации ПАСЕ лорд Джадд заявило на пресс-конференция в Москве , что если Пасах будет лишён возможнщсти выслушать Бабицкого , \"это будет работать против России\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "лишена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "времяглава"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "пресс-конференции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "ПАСЕ"
+    },
+    {
+      "correctReplacement": "возможности",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

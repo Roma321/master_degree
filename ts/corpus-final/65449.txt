@@ -1,0 +1,25 @@
+{
+  "text": "По словам военной проктора Александра Сухорукова , в Объединю группировке войск случаи краж и продажи военного имущества , в то числе оружия , не единичны .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 8,
+      "correctReplacement": "Объединенной"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "военного"
+    },
+    {
+      "correctReplacement": "прокурора",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

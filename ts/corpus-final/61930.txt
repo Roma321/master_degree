@@ -1,0 +1,25 @@
+{
+  "text": "По оценкеэкспертов , уподобишься по меньшей мере еще двое суток дляпоиска всех пострадафших .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "дляпоисков"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "понадобится"
+    },
+    {
+      "correctReplacement": "понадобишься",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "пострадавших",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

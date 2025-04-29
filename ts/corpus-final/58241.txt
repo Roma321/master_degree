@@ -1,0 +1,20 @@
+{
+  "text": "В прошлом году в Россия в качестве гуманитарной помощи завезено лекарства на чумму 14 , 9 миллиона долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "лекарств"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Россию"
+    },
+    {
+      "correctReplacement": "сумму",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

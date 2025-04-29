@@ -1,0 +1,40 @@
+{
+  "text": "Как сообщал UA Today со слов прокурора Киева Юрия Гайсинского , поводом для открытия дела стали материалам временное следственной комиссии Верховной Рады по изучению деятельности НБУ . Прокурор отметивший , что везение принято , \"учитывая тот факт , что в материалах комиссии есть достаточно данных о злоупотреблении служебным положением должностными лицом НБУ\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "решение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "временной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 50,
+      "correctReplacement": "лицами"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "материалы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 28,
+      "correctReplacement": "отметил"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "решением",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

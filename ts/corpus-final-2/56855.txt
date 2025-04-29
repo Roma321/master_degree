@@ -1,0 +1,40 @@
+{
+  "text": "Закон о подоходном налоге устанавливает единых ставку в размере 13 процентов . Ставкой 35 процентов будут облагаться выигрыши в казино , стражовые выплату и доходы по банковским вкладам , ставки по которым превышаешь ставку рефинансирование ЦБ РФ для рублевых вкладов и 10 процентов годовых для валютных , сообщал \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "выплаты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "единую"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 32,
+      "correctReplacement": "превышает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "рефинансирования"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 47,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "ставка"
+    },
+    {
+      "correctReplacement": "страховые",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

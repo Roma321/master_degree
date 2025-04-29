@@ -1,0 +1,20 @@
+{
+  "text": "Всего в день юбилейных торжества охраняемые правопорядок по фсей территории России почти полмиллиона милиционеров , из них в Москве - около 76 тысяч .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "охраняли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "торжеств"
+    },
+    {
+      "correctReplacement": "всей",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

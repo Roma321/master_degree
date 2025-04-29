@@ -1,0 +1,30 @@
+{
+  "text": "Автобусу , который недавно прошел технический осмотр , вез изМадрида в курортную зону Коста-Браво на побережье Каталониипенсионеров , направляющиеся туда по прогрмммы льготный отдыха .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "направлявшиеся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "льготного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Автобус"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "программе"
+    },
+    {
+      "correctReplacement": "программы",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

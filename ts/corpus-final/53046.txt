@@ -1,0 +1,25 @@
+{
+  "text": "В частности , сегодня налоговые органы не могут доначислить налог в случаях , если обнаруживается существенная разница между расходом и задекларируемыми походами физических лиц .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 20,
+      "correctReplacement": "задекларированными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "случае"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "расходами"
+    },
+    {
+      "correctReplacement": "доходами",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

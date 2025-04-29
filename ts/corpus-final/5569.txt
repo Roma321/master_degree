@@ -1,0 +1,20 @@
+{
+  "text": "Большинство наличных сделок уже через два недели после 1 января 2002 года должны будут проводящиеся в новой ввлюте .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "две"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "проводиться"
+    },
+    {
+      "correctReplacement": "валюте",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

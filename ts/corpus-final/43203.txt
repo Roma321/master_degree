@@ -1,0 +1,25 @@
+{
+  "text": "Что же кающийся дел о взрывах жилых дома в Москве , Волгодонске и Буйнакске , заявленный РИА \"Новости\" заместитель начальникаСледственного управления ФСБ РФ Николай Сапожков , Радуев обязательно будет по ним допрошен , но пока - как свидетель .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "домов"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "касается"
+    },
+    {
+      "correctReplacement": "касающийся",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

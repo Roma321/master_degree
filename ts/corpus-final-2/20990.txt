@@ -1,0 +1,35 @@
+{
+  "text": "По словам людей , находившихся недалеко от места происшествия , они слышали два громкие взрыча , раздавшихся одна за другим , и ощутившие колебание почвы под ногами , некоторые видел яркую вспышку света на крыше строения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "громких"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "один"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "колебания"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "ощутили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "видели"
+    },
+    {
+      "correctReplacement": "взрыва",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

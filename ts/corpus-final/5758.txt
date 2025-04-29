@@ -1,0 +1,30 @@
+{
+  "text": "Почти на 70 процентоф возрасту йена дорожной битума - до 1 тысячи 500 рублях за тонну .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "возросла"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "дорожного"
+    },
+    {
+      "correctReplacement": "цена",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "процентов",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

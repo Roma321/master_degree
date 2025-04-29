@@ -1,0 +1,25 @@
+{
+  "text": "Полиция Уганде 27 апреля обнаружила в пригороде столицы Кампалы массовому захоронение 55 чен местной религиозной секты\"Восстановление десяти господних заповедей\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Уганды"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "массовое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "членов"
+    },
+    {
+      "correctReplacement": "члена",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

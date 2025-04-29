@@ -1,0 +1,30 @@
+{
+  "text": "Заявление сотрудника юридического отдел Banco del Gottardo являешься первым фискальным подтверждением с швейцарской стороны той факта , что фирма Mabetex Engineering пыталась открыть для Ельцина и его дочерей счета и завёдшие кредитные карточки .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "является"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 30,
+      "correctReplacement": "завести"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "отдела"
+    },
+    {
+      "correctReplacement": "официальным",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

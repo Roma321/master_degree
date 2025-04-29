@@ -1,0 +1,20 @@
+{
+  "text": "Расчет производишься при выезде : водитель отдает талон дежурному оператору и оплачивает сумма , набежавшую в зависимости от проведенного на стоянках времени .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "сумму"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "стоянке"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "производится"
+    }
+  ]
+}

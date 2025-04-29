@@ -1,0 +1,20 @@
+{
+  "text": "Всего , по данным УВД , за минувшие сутки в Чечне обнаружившее и изыму более 300 боеприпасов , 15 автоматов , а также несколько гранатометов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "изъято"
+    },
+    {
+      "correctReplacement": "боеприпасов",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

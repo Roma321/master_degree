@@ -1,0 +1,30 @@
+{
+  "text": "Сейчас имя этого поп-роковых афторе и певца мало кому известковое , но и Леннон , и Маккартни называли его в число своих любимых музыкантов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "автора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "поп-рокового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "числе"
+    },
+    {
+      "correctReplacement": "известно",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "авторе",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

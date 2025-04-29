@@ -1,0 +1,25 @@
+{
+  "text": "Они не можете обнаруженные чукотскую самоходную баржу \"Меридиан\" с одним матросом на борту , сахалинскую рыболовную шхуну \"Удача-1\" с экипажем из 10 человек и сахалинскую моторной лодку \"Прогресс\" , на которой вышли в море два чкловека .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "обнаружить"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "могут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "моторную"
+    },
+    {
+      "correctReplacement": "человека",
+      "type": "typo",
+      "wordNumber": 35
+    }
+  ]
+}

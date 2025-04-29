@@ -1,0 +1,25 @@
+{
+  "text": "В ходу состоявшемся во вторник встречи президента России Владимира Путина с депутатом Госдумы от Чечни Асланбеком Аслахановым поднимаюсь вопрос о возможности встречи последнего с Ссланом Масхадовым .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "поднимался"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "состоявшейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "ходе"
+    },
+    {
+      "correctReplacement": "Асланом",
+      "type": "typo",
+      "wordNumber": 24
+    }
+  ]
+}

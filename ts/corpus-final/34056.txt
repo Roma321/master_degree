@@ -1,0 +1,20 @@
+{
+  "text": "При заходе на посадку двухморотное грузовой самолёте DC-8 с тремя членами экипажа на борну рухнул на автостоянку , где находилось не менее 200 машин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "самолет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "двухморотный"
+    },
+    {
+      "correctReplacement": "борту",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

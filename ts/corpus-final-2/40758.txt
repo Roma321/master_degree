@@ -1,0 +1,30 @@
+{
+  "text": "Выяснились , что примерно трето участника больше любит маму , треть - отца , чуть меньше трети любит обеих родителей одинаково - и совсем незначительное количество не любящий своих родителей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "любит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Выяснилось"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "участников"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "обоих"
+    },
+    {
+      "correctReplacement": "треть",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

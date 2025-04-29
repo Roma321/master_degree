@@ -1,0 +1,30 @@
+{
+  "text": "Как заявленоый Муттавакил журналистам РИА \"Новости\" , окончательное решенье будет принято лишь после официальных переговоров с чеченскими представителями и подписанием соглашения о сотрудничестивах с \"правительством Чечни\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "сотрудничестиве"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "подписания"
+    },
+    {
+      "correctReplacement": "решение",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "заявленный",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

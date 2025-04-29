@@ -1,0 +1,25 @@
+{
+  "text": "Поначалу у полиции были подозрения , что к опубликованию этих сведений имеющий отношение Иров , причем самое экстремистское ее крыло , в связи с чем обсуждалась вероятность террористической актов в отношении принца .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 27,
+      "correctReplacement": "террористического"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 28,
+      "correctReplacement": "акта"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "имеет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ИРА"
+    }
+  ]
+}

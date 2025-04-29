@@ -1,0 +1,25 @@
+{
+  "text": "Российский \"Газпром\" , отключивший в среду за неплатёж подачу газа в Молдавии , возобновил его поставки послед того , как президент республики Петр Лучинский переговорил с председателем правительздва Владимиром Путиными .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "Путиным"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "неплатежи"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "правительства",
+      "type": "typo",
+      "wordNumber": 27
+    }
+  ]
+}

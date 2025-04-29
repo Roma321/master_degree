@@ -1,0 +1,20 @@
+{
+  "text": "В воскресенье в Италия на дне реки Палья в районе Кастель-Вискардо былвзорван американская авиаснарят мощностью 250 килограммов тротила , передает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "американский"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "Италии"
+    },
+    {
+      "correctReplacement": "авиаснаряд",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

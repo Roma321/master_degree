@@ -1,0 +1,20 @@
+{
+  "text": "Требование будет исполню в положивший срок в полном юбъеме .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "положенный"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "исполнено"
+    },
+    {
+      "correctReplacement": "объеме",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

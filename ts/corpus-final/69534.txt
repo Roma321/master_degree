@@ -1,0 +1,30 @@
+{
+  "text": "В 1996 году Гантамировы был обвиню российскими властями в хищениях средств , выделенных на возобновление Чечни , и приговорён к шести годам лишения свободы с конфискацией имуществу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "имущества"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "приговорен"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обвинен"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "Гантамиров"
+    },
+    {
+      "correctReplacement": "восстановление",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

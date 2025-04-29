@@ -1,0 +1,30 @@
+{
+  "text": "Двумя днями ранее евро продемонстрировал очередной рекорды падения , вплотную приближусь к минимальному уровню за всю историю своих существованием в 0 , 84 доллпра .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "приблизившись"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "рекорд"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "существования"
+    },
+    {
+      "correctReplacement": "доллара",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

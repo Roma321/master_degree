@@ -1,0 +1,20 @@
+{
+  "text": "70 процентов предприятий Санкт-Петербурга и Ленобласти не выполним введенные ОАО \"Ленэнерго\" с 25 по 29 октября ограничения на подающей электроэнергии , связанные с предаварийной ситуацией .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "подачу"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "выполнили"
+    },
+    {
+      "correctReplacement": "подаче",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

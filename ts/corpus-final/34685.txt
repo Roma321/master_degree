@@ -1,0 +1,20 @@
+{
+  "text": "Один человек погиб , четверо получили ранения в станицах Старощедринской Шелковского района Чечни , сообщили РИА \"Новости\" в пресс-центре МВТ России на Северном кавказце .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "станице"
+    },
+    {
+      "correctReplacement": "Кавказе",
+      "type": "paronym",
+      "wordNumber": 23
+    },
+    {
+      "correctReplacement": "МВД",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

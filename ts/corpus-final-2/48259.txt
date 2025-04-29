@@ -1,0 +1,20 @@
+{
+  "text": "У большинстве округов Ульяновской области выборы в органы местной власти признан несостоявшимися из-за низкой явки пожирателей , сообщает \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "признаны"
+    },
+    {
+      "correctReplacement": "избирателей",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

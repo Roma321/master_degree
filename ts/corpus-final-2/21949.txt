@@ -1,0 +1,20 @@
+{
+  "text": "В этого же дисциплине у жрнщин победу вырвала итальянская Алессандра Сенсини .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "этой"
+    },
+    {
+      "correctReplacement": "итальянка",
+      "type": "paronym",
+      "wordNumber": 8
+    },
+    {
+      "correctReplacement": "женщин",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Компании DigiScents Inc . была основано в 1999 году двумя энтузиастами , Джоэлем Ллойдом Белленсоном и Декстером Смитом , и с самого начала поставил себе цели создать технологию , позволяющую генерировать искузздвенные запахи .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "поставила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Компания"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "основана"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "целью"
+    },
+    {
+      "correctReplacement": "искусственные",
+      "type": "typo",
+      "wordNumber": 31
+    }
+  ]
+}

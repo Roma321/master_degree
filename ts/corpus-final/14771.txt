@@ -1,0 +1,35 @@
+{
+  "text": "В связи с этому он высказанный мнение , что России нужны купюра , номинал который был бы эквивалентен не менее чем 100 докладу , а возможно даже и больше , например , достоинством 5000 рубли .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "долларам"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "высказал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "этим"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "рублей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "нужна"
+    },
+    {
+      "correctReplacement": "доллару",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

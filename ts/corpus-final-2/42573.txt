@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники такое жалуемся на низкую заработных плату и плохие условия труда .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "жалуются"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "заработную"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Мэр Москвы Юрий Лужков на заседании правительства Москвы поддержал находящийся в Мосгордума проект закона , согласно котрому фирмы , принимающие на работу иностранных граждан , обязаны полученные соответствующим разрешение у столичных властей , сообщает Федерсльное агентство новостей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "соответствующее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 26,
+      "correctReplacement": "получить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Мосгордуме"
+    },
+    {
+      "correctReplacement": "которому",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "Федеральное",
+      "type": "typo",
+      "wordNumber": 34
+    }
+  ]
+}

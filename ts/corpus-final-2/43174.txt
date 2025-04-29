@@ -1,0 +1,15 @@
+{
+  "text": "В ночь на понедельник нс западе Москвы произошел пожар , в результате которого погибли три людей , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "человека"
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

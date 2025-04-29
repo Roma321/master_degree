@@ -1,0 +1,20 @@
+{
+  "text": "Адвокату настаивал на отмене приговора Обнинской суда в связи с отсутствием в дейздвиях Неверовского состава преступления и прекращении уголовного дела .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "Обнинского"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "correctReplacement": "действиях",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

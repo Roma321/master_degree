@@ -1,0 +1,35 @@
+{
+  "text": "Напомнят , что еще в 1997 году в Рунете произошла аналогичный скандал , связанный с тем , что владельцы сервер \"Перекресток\" расставляли баннеры прямо в тексте опубликованных на их сейте литературного произведения .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "произошел"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "произведений"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 30,
+      "correctReplacement": "литературных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "сервера"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 0,
+      "correctReplacement": "Напомним"
+    },
+    {
+      "correctReplacement": "сайте",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

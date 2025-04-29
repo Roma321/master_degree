@@ -1,0 +1,30 @@
+{
+  "text": "Расследованием дела занялась следственный группы Генеральной прокуратуры , которая выявившая факты произвьла и фальсификации дела .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "группа"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "выявила"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "следственная"
+    },
+    {
+      "correctReplacement": "дела",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "произвола",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

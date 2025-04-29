@@ -1,0 +1,25 @@
+{
+  "text": "Он блокирую два мосса череж реку Аргун , перекрыв стратегически важные дороги , ведущие в населенные пункты Атаги , Шали , Шатоя .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Шатой"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "блокировал"
+    },
+    {
+      "correctReplacement": "моста",
+      "type": "paronym",
+      "wordNumber": 3
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

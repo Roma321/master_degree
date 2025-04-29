@@ -1,0 +1,25 @@
+{
+  "text": "Бывший депутат Госдумы и известный предприниматель Борис Березовский незамедлительно трассировавший нв телевизионное выступление президента России Владимира Путиных в эфире РТР .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отреагировал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Путина"
+    },
+    {
+      "correctReplacement": "отреагировавший",
+      "type": "paronym",
+      "wordNumber": 9
+    },
+    {
+      "correctReplacement": "на",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

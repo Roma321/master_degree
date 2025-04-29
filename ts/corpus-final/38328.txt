@@ -1,0 +1,20 @@
+{
+  "text": "Во дворник три американских подростков были задержаны по обвинению в преступлениях на автотрассе возле немецкого города Дармштадт , сообщающий CNN .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "подростка"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "вторник",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

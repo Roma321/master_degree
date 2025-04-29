@@ -1,0 +1,25 @@
+{
+  "text": "Три взрывных устройства большим мощности , заложенных под железнодорожной полотоом в пригороде Грозного , обезвредили в пятнице саперы спецпоезда федеральных сил , сообщает ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "большой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "пятницу"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "железнодорожным"
+    },
+    {
+      "correctReplacement": "полотном",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

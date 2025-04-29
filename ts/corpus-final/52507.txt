@@ -1,0 +1,25 @@
+{
+  "text": "Компания остаётся мировым лидером в своей области , с 33 миллиардами долларов годовому оборота , даже несмотря на повышение курса йены , сократившая дохот компании .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "остается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "сократившее"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "годового"
+    },
+    {
+      "correctReplacement": "доход",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По его данным , в настоящее время на подходе к порты Санкт-Петербурга 20 судов , груженных по 2 , 5 - 4 тысячи тонн сахара , а общий объем груп составляешь около 91 тысячи тонн .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 30,
+      "correctReplacement": "составляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "груза"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "порту"
+    },
+    {
+      "correctReplacement": "груз",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

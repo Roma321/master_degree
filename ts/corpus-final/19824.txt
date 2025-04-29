@@ -1,0 +1,30 @@
+{
+  "text": "Он считаемый , что подписафший недавно договор между этим двумя саранчами \"ожидает сложная судьба\" , поскольку Российская Федерация экономически не может быть ни донором , ни кредитором тех стран , которые вошли с ней в союз .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "подписанный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "этими"
+    },
+    {
+      "correctReplacement": "странами",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "подписавший",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

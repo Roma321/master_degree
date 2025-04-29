@@ -1,0 +1,20 @@
+{
+  "text": "Найденное предмет в настоящее время усиленно охранялся боевыми кораблями Северного флота , сообщает РИА \"Ноиости\" со слов Манилова .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "охраняется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Найденный"
+    },
+    {
+      "correctReplacement": "\"Новости\"",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

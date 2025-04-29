@@ -1,0 +1,25 @@
+{
+  "text": "Он занимал пост представителем СПС в делегации Федеральных Собрания России в Парламентского ассамблее Совета Европы , а теперь будет заместптелем представителя .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "Парламентской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "Федерального"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "представителя"
+    },
+    {
+      "correctReplacement": "заместителем",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

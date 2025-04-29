@@ -1,0 +1,35 @@
+{
+  "text": "А сама сервис , согласно нашей диалогу с оператором , пока работают в толном режимах бишь с 9 до 22 .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "режиме"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "работает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "нашему"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сам"
+    },
+    {
+      "correctReplacement": "лишь",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "полном",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

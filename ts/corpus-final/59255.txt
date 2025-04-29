@@ -1,0 +1,20 @@
+{
+  "text": "Городская дуга одобрило постановление правительства Москвы \"О согласовании ставок оплаты населением услуг водопровод и канализации\" , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "одобрила"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "водопровода"
+    },
+    {
+      "correctReplacement": "дума",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

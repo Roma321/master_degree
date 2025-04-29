@@ -1,0 +1,20 @@
+{
+  "text": "Прокурор маковская области Николай Гамзин обвиню губернатора Ивановской области Анатолия Головкову в разглашении тайны следствия .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Головкова"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "обвинил"
+    },
+    {
+      "correctReplacement": "Ивановской",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

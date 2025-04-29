@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщаемый HTB . ru со ссылкой на израильское радио , председателя Центрального совета Салим Заанун пригрозил отставкой , если на заседании не будет установлю точные дата провозглашений независимости .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 24,
+      "correctReplacement": "установлена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "провозглашения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "председатель"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "точная"
+    }
+  ]
+}

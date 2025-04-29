@@ -1,0 +1,25 @@
+{
+  "text": "По сообщению РБК , наиболее активно обращаемся в паспортно-визовую дружбу МВД с заявлениями о дактилоскопической регистрации житель Башкирией , Татарии , Краснодарского края , а также Волгоградской , Кемеровской , Омской , Ростовской и Самарской областей .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Башкирии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "обращались"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "жители"
+    },
+    {
+      "correctReplacement": "службу",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

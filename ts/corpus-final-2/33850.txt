@@ -1,0 +1,30 @@
+{
+  "text": "Такое совпадение - компания взломана с помощи своему же продукта , - рассматривался как проявление своеобразных чувства юмора юакеров .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "своеобразного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "помощью"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "рассматривается"
+    },
+    {
+      "correctReplacement": "хакеров",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}

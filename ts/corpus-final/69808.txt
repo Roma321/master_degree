@@ -1,0 +1,20 @@
+{
+  "text": "Россия во вторник подала встречные иски во Дворец юстиции Парпжа по поводам ареста своих банковских чет во Франции , передает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "поводу"
+    },
+    {
+      "correctReplacement": "счетов",
+      "type": "paronym",
+      "wordNumber": 15
+    },
+    {
+      "correctReplacement": "Парижа",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

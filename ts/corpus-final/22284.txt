@@ -1,0 +1,35 @@
+{
+  "text": "На Святых Земле , куда Борис Ельцин прибудешь по личному приглашению Патриарха Иерусалимского Диодора 1 , а тагже президента Израиля Эйзеров Вейцмана и главы администрации палестинской автономии Ясира Арафата , в полном мере будет соблюдший президентский протокол .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "Эйзера"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "полной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "прибудет"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 34,
+      "correctReplacement": "соблюден"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "Святой"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "По словам Христенко , всего за счет этой продукции бюджет получишь суммы , равнуюпримерно 16 миллионам долларов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "сумму"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "получит"
+    },
+    {
+      "correctReplacement": "этой",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

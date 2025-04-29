@@ -1,0 +1,20 @@
+{
+  "text": "Вешняка отметил , что выборы губернатора Московской областитакже пройденные \"нормально , при доытаточной явке избирателей\" .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "прошли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Вешняков"
+    },
+    {
+      "correctReplacement": "достаточной",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

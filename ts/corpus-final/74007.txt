@@ -1,0 +1,25 @@
+{
+  "text": "Резолюция была принята в связи с происшетшей 13 июне арестом главы холдинга \"Медиа-Мост\" Владимиров Гусинского .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "июня"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "происшедшим"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Владимира"
+    },
+    {
+      "correctReplacement": "происшедшей",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

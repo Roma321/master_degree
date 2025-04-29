@@ -1,0 +1,20 @@
+{
+  "text": "Для того чтобы Конвенция ООН получила статуп закона , ее должен ратифицировать парламентам 40 стран .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "должны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "парламенты"
+    },
+    {
+      "correctReplacement": "статус",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

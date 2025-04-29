@@ -1,0 +1,35 @@
+{
+  "text": "Везде расклеены листоуки , объясняющие , как уберечься от болезни : не пить сырых водой , не едя местные продувшие и овощи со своих огородами .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "огородов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "сырую"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "воду"
+    },
+    {
+      "correctReplacement": "продукты",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "листовки",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

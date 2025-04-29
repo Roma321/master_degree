@@ -1,0 +1,25 @@
+{
+  "text": "В районе , который был обстрелявший , проживаем мэры Маъачкалы Саид Амиров и председатель правительства Дагестана Хизри Шихсаидов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "мэр"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 7,
+      "correctReplacement": "проживали"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "обстрелян"
+    },
+    {
+      "correctReplacement": "Махачкалы",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По предварительным данным , водитель бензовоза не справился с управлением , цистерны упала и загорефшаяся , а затем врезалась в сторивший на посту машины и взорвалась .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "загорелась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "стоявшие"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "цистерна"
+    },
+    {
+      "correctReplacement": "стоявший",
+      "type": "paronym",
+      "wordNumber": 20
+    },
+    {
+      "correctReplacement": "загоревшаяся",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

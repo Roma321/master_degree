@@ -1,0 +1,20 @@
+{
+  "text": "Как отмечает Assocoiated Press , ранее Пакистан демонстрировал похожую позицию в отношении ядерных вооружений : в прошлом годе Пакистан испытал ядерный оружие вслед за аналогичными испытаниями в индиры .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "ядерное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "году"
+    },
+    {
+      "correctReplacement": "Индии",
+      "type": "paronym",
+      "wordNumber": 27
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Основная часть кредитов будет использован компанаей на приобретение очередного самолета \"Руслан\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "кредита"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "использована"
+    },
+    {
+      "correctReplacement": "компанией",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

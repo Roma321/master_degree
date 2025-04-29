@@ -1,0 +1,30 @@
+{
+  "text": "Военные считают , что боевиками пытаются создать в этим районе мощное подполье , сообщал Агентство военных новостям со ссылкой на шоаб Объединенной группировки федеральных войск на Северном Кавказе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "новостей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "этом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "боевики"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "штаб",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

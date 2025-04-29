@@ -1,0 +1,20 @@
+{
+  "text": "По последним зведениям , переданным итальянским агентством ANSA , 7 человек погибнем , 9 получили незначительные травму .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "погибли"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "травмы"
+    },
+    {
+      "correctReplacement": "сведениям",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

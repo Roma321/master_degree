@@ -1,0 +1,25 @@
+{
+  "text": "Всего на барже предусмотревшее 30 рабочих места , 18 из которых принадлежат брокерап , представляющим учредителей , а оставшиеся предназначены для брокеров , которые будут представлять в Баку те или иные биржи .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 3,
+      "correctReplacement": "предусмотрено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "мест"
+    },
+    {
+      "correctReplacement": "бирже",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "брокерам",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

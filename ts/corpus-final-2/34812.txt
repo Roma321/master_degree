@@ -1,0 +1,20 @@
+{
+  "text": "Несколько ампул найдено такое на детского площадках неподалеку от школы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "площадке"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "детской"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

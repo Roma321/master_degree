@@ -1,0 +1,25 @@
+{
+  "text": "В настоящих время идет подбор банков , которым бы доверяли критичные организации , передает РБК слова заместителя диреатором департамента иностранных операций ЦБ РФ Сергея Кыштымова .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "директора"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "кредитные",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "директором",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Он рассказала сотрудникам милиций , что в издание ворвались двое неизвестных в масках .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "рассказал"
+    },
+    {
+      "correctReplacement": "здание",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

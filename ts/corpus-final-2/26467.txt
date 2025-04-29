@@ -1,0 +1,20 @@
+{
+  "text": "Из-за многочисленных угроз Алан был вынужден закрытые свою магазин и оставить свою жепу , опасаясь за ее жизнь .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "свой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "закрыть"
+    },
+    {
+      "correctReplacement": "жену",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

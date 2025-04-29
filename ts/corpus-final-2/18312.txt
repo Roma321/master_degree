@@ -1,0 +1,30 @@
+{
+  "text": "Причиной отравления 22 женщин и шестерых мужчин ставшие пары некой скверно пахнущей коричнеуом жидкости , распространившиеся по барину и ресторану 9-этажного рыдания в центре Саппоро .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "стали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "коричневой"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "барам"
+    },
+    {
+      "correctReplacement": "здания",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "коричневом",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

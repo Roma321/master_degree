@@ -1,0 +1,25 @@
+{
+  "text": "Большому число терактоф запланирую на 23 февралей - годовщину депортации чеченского народа в 1944 году .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "запланировано"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Большое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "февраля"
+    },
+    {
+      "correctReplacement": "терактов",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

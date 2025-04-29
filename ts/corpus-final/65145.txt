@@ -1,0 +1,25 @@
+{
+  "text": "С начала текущем года выручка пассии от экспорта вооружения уле составила 1 , 3 миллиарда долларов , а всего в 2000 году планируются продать оружия на 4 , 3 миллиарда долларов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "текущего"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "планируется"
+    },
+    {
+      "correctReplacement": "России",
+      "type": "paronym",
+      "wordNumber": 5
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "typo",
+      "wordNumber": 9
+    }
+  ]
+}

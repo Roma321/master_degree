@@ -1,0 +1,30 @@
+{
+  "text": "Как заявила в интервью агентствам заместитель генерального директора завода \"Кристалл\" Эдуард Кузьмицкий , \"управление гражданской обороны выпускает столько нормативных актов , что мы просто не поспевают за ними , но сопутствующее разрешение уже получено и спирт отправивший на завод\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "поспеваем"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 36,
+      "correctReplacement": "отправлен"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "агентству"
+    },
+    {
+      "correctReplacement": "соответствующее",
+      "type": "paronym",
+      "wordNumber": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Выступая в среду на заседании верхней палатой парламента , Аушев отметил , что за сутки до нападения боевиков на колонну он предупредил федеральные власть о том , что , мо имевшейся оперативной информации , такое нападение возможно .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 30,
+      "correctReplacement": "имеющейся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "палаты"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "власти"
+    },
+    {
+      "correctReplacement": "по",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

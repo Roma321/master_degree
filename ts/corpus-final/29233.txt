@@ -1,0 +1,20 @@
+{
+  "text": "Взрыв прозвучал настолько громко , что проснёмся даже те , кто жили примерно в 100 метре от месту происшествия .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "проснулись"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "места"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "метрах"
+    }
+  ]
+}

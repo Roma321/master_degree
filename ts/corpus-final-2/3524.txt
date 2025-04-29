@@ -1,0 +1,25 @@
+{
+  "text": "Кроме того , на сайте магазинов можно ознакомиться с биографии художниц а текстами о современном состоянии арт-рынка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "биографиями"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "магазина"
+    },
+    {
+      "correctReplacement": "художников",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "и",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

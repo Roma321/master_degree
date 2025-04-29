@@ -1,0 +1,20 @@
+{
+  "text": "В Кремле полагают , что процесса формирования нового администрации сильно затягиааться не будет .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "процесс"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "новой"
+    },
+    {
+      "correctReplacement": "затягиваться",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

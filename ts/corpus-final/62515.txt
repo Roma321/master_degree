@@ -1,0 +1,35 @@
+{
+  "text": "С борта судна , терпящего бедствие , были спустившие на воду спавательный шлюпки и эскорт на российский теплоходы были поднявшие 18 моряков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "спущены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "спасательные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "подняты"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "теплоход"
+    },
+    {
+      "correctReplacement": "вскоре",
+      "type": "paronym",
+      "wordNumber": 14
+    },
+    {
+      "correctReplacement": "спасательный",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

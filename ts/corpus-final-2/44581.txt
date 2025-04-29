@@ -1,0 +1,20 @@
+{
+  "text": "Выступая в Тунисах , Арафат заявил , что \"несмотря на все военные действия Израиле и экономическую блокаду , наш народ не склонил головы и продолжает свой марш в защиту Иерувалима\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Тунисе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Израиля"
+    },
+    {
+      "correctReplacement": "Иерусалима\"",
+      "type": "typo",
+      "wordNumber": 29
+    }
+  ]
+}

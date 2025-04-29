@@ -1,0 +1,25 @@
+{
+  "text": "Полиция вынуждена была применить слезоточивая газ и воду для разгона демонстрантов , которые перекрыли движение на улицах город , разбивали витрины , поджигаемые магазинные , забрасывали автобусы камнями .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "города"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "поджигали"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "слезоточивый"
+    },
+    {
+      "correctReplacement": "магазинчики",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

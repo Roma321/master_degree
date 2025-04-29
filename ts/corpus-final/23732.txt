@@ -1,0 +1,25 @@
+{
+  "text": "Бывший чилийский диктатор Аугусто Пиночет может предстать перед судом по обвинениям в нарушение правам человека у себя на родине в Чили , куда он в скорой времени будет выдворен из Великобритании .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 25,
+      "correctReplacement": "скором"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "нарушении"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "прав"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "обвинению"
+    }
+  ]
+}

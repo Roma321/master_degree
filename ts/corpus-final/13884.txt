@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , \"Яблоко\" ведёт открытую борьбу с питерским губернатором в звязи с коррупцией , многочисленными политическими убийствам , фальсификациями голосований в Законодательном собрании .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 20,
+      "correctReplacement": "фальсификацией"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "убийствами"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "ведет"
+    },
+    {
+      "correctReplacement": "связи",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

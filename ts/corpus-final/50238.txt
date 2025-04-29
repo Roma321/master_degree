@@ -1,0 +1,25 @@
+{
+  "text": "Как отмечает CNet , решение сут может повлиять и на другие судебные разбирательства , связанные с запретом на распространение определённых компьютерных программ через Интернете .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "определенных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "Интернет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "суда"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "typo",
+      "wordNumber": 5
+    }
+  ]
+}

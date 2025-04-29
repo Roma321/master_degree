@@ -1,0 +1,25 @@
+{
+  "text": "Все батальные пункты выборов в Госдуму на территории Соединенных Штатов открывшиеся , как и положена , 19 декабрей .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "откроются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "положено"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "декабря"
+    },
+    {
+      "correctReplacement": "остальные",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

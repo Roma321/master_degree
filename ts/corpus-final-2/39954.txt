@@ -1,0 +1,25 @@
+{
+  "text": "До 2003 год Швейцария намерена вступить в ООН , а до 2007 - начавшие переговорщики о присоединении к Евросоюзу , сообщающий ИТАР-ТАСС .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "начать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "года"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "переговоры",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

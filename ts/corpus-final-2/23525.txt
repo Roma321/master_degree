@@ -1,0 +1,30 @@
+{
+  "text": "Они также обращают внимание , что о возбуждении очередного дела было объявившее сразу после той , как премьер Михаил Касьянов публично пожурённый министром печати михайла Лесина .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "объявлено"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "министра"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "пожурил"
+    },
+    {
+      "correctReplacement": "Михаила",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

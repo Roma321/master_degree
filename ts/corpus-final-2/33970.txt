@@ -1,0 +1,15 @@
+{
+  "text": "\"Мы предпримем все возможный для того , чтобы правртельство пало\" , - заявил в радиоинтервью лидер партии \"Ликуд\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "возможное"
+    },
+    {
+      "correctReplacement": "правительство",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

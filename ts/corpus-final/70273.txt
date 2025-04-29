@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщили РИА \"Новости\" в мобильномотряде МВД РФ в городах Моздоке , только на текущей неделе этоуже вторая подобная находка : во вторник под мост черес реку Джалкув этом же районе была найдена и обезврежу мина .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "городе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "мостом"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 34,
+      "correctReplacement": "обезврежена"
+    },
+    {
+      "correctReplacement": "через",
+      "type": "typo",
+      "wordNumber": 25
+    }
+  ]
+}

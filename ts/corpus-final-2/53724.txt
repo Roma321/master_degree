@@ -1,0 +1,25 @@
+{
+  "text": "Очаг пржара находившийся в аптечным киоске на которым этаже .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "аптечном"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "находился"
+    },
+    {
+      "correctReplacement": "втором",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "пожара",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

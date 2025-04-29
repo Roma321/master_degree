@@ -1,0 +1,25 @@
+{
+  "text": "М Москве созданы оперативный штаб Государственной противопожарнойслужбы , в котором круглосуточное работаем телефоны доверия .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "создан"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "работают"
+    },
+    {
+      "correctReplacement": "круглосуточно",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "В",
+      "type": "typo",
+      "wordNumber": 0
+    }
+  ]
+}

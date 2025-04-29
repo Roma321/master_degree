@@ -1,0 +1,25 @@
+{
+  "text": "По версии Маллета и технических экспертов , перед атакой на Yahoo хакеры взломали около 50 мощных компьютерах в разных городах СЛА , после чего запущенные на этих компьютерах программу , генерирующую многочисленные ложные запросам к сайту .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "компьютеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "запросы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "запустили"
+    },
+    {
+      "correctReplacement": "США",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

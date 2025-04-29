@@ -1,0 +1,20 @@
+{
+  "text": "Розыск рреступников результатов пока не принесло , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "принес"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "преступников",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

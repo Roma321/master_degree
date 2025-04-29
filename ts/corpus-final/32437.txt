@@ -1,0 +1,25 @@
+{
+  "text": "Он родился в 1926 году в Париже в семьях дипломата и прежде чем стать кинорежиссером играл в тнатре и работаю журналистом во французском журнал \"Пари-матч\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "журнале"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "семье"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 19,
+      "correctReplacement": "работал"
+    },
+    {
+      "correctReplacement": "театре",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

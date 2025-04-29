@@ -1,0 +1,35 @@
+{
+  "text": "Между тем , как cообщает AFP , проведенные в четверг опросы оьщественного мнения в стране показывали , что за Коштуницу готовы проголосованные 40 процентов измерителями , и он опережает Милошевииче на 18 процентов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "Милошевиича"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "проголосовать"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "показывают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "избирателей"
+    },
+    {
+      "correctReplacement": "избирателями",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "общественного",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

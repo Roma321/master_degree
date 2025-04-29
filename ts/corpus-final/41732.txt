@@ -1,0 +1,30 @@
+{
+  "text": "Что касался зловещего числа , то ни форма , ни бланки свидетельздва о присвоении ИНН не содержащие штрих-кода , говорится в занижении .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "содержат"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "бланк"
+    },
+    {
+      "correctReplacement": "заявлении",
+      "type": "paronym",
+      "wordNumber": 21
+    },
+    {
+      "correctReplacement": "свидетельства",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Правительство РФ не планируешь в 2001 году укрепление рубля выше уровней 30 рублей за доллар , об этом говорится в распространенном в среду официальных заявлении минимущество финансов России , передаёт Прайм-ТАСС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "уровня"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "официальном"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "Министерства",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

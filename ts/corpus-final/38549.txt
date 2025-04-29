@@ -1,0 +1,30 @@
+{
+  "text": "При этом Жириновский отмечает , что по закон он обязан представить сведения об имущество супруги и детей , в то время как его сын Игорь Лебедев \"не является ебеноком , имеет свой семьи и проживает отдельно\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 32,
+      "correctReplacement": "семью"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "имуществе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "закону"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "свою"
+    },
+    {
+      "correctReplacement": "ребенком",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

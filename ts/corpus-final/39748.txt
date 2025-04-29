@@ -1,0 +1,20 @@
+{
+  "text": "Об этом сообщал РИА \"Новости\" со ссылкой на полиции гражданской комиссии ООН в Косово .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "полицию"
+    },
+    {
+      "correctReplacement": "миссии",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

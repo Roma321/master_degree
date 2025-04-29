@@ -1,0 +1,20 @@
+{
+  "text": "В прошлых пятницу Лев Тен встретила мальчика после школы и увел его с собой .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "встретил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "прошлую"
+    },
+    {
+      "correctReplacement": "школы",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

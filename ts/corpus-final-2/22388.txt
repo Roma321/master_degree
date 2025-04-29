@@ -1,0 +1,30 @@
+{
+  "text": "Однако в Минсвязи по согласованию с ФСБ были изданы приказах , обязывающие кооператоров связей предоставлять органы безопасности возможности практически неконтролируемого прослушивания каналов связи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "связи"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "возможность"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "приказы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "органам"
+    },
+    {
+      "correctReplacement": "операторов",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

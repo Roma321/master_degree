@@ -1,0 +1,20 @@
+{
+  "text": "Кроме тогш , в зону подтопления попали 55 одноэтажного домов в восьми населенных пунктах Сахалинской области и 230 гектарах сельскохозяйственных угодий .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "одноэтажных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "гектаров"
+    },
+    {
+      "correctReplacement": "того",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

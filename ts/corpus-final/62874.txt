@@ -1,0 +1,20 @@
+{
+  "text": "AOL не будет брать плату за интернет-доступ , а также не будет продавать рекламные площади на страницами AOL@School , предназначенных для стольников и студентах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "страницах"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "студентов"
+    },
+    {
+      "correctReplacement": "школьников",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Предполагается , что на заседании правительства , наметившем на четверг , 1 июня , будут рассмотрены некоторый параметры проекта основного финансовой документе страны на будний год .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "намеченном"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "финансового"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "некоторые"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "документа"
+    },
+    {
+      "correctReplacement": "будущий",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

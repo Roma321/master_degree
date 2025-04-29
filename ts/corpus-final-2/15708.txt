@@ -1,0 +1,25 @@
+{
+  "text": "Однако пресс-служба заявляемый , что содержащаяся в письмо Березофского Путину информация о том , что НТВ якобы перешли под контроль \"Газпрома\" , не соответствует действительности .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "заявляет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "перешло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "письме"
+    },
+    {
+      "correctReplacement": "Березовского",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

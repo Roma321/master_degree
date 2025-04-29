@@ -1,0 +1,20 @@
+{
+  "text": "По мнению председателем ЦИК Александра Вешнякова , в выборах принявшие участие ее более 10 кандидатов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "примут"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "председателя"
+    },
+    {
+      "correctReplacement": "не",
+      "type": "typo",
+      "wordNumber": 11
+    }
+  ]
+}

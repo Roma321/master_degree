@@ -1,0 +1,25 @@
+{
+  "text": "Это выяснившееся после того , как его родственник , проживающий в США , обнаружила фотографию \"полицейской расправы\" , опубликованную 30 сентября на пятую поломке ежедневной газеты New York Times - с соответствующей подписью .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "выяснилось"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "обнаружил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "пятой"
+    },
+    {
+      "correctReplacement": "полосе",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

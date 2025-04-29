@@ -1,0 +1,20 @@
+{
+  "text": "По словам губернатора , Владимир Путин заявлявший , что он полон решимости вместе с правительством идти по пути дальнейшего совершенствования набогового законодательства .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "заявил"
+    },
+    {
+      "correctReplacement": "заявивший",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "налогового",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

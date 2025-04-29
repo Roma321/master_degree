@@ -1,0 +1,25 @@
+{
+  "text": "В соответствиях с новыми правилами , продавцам также будет запрещу вносить в лписание лота любые порнографические карточки или фотографии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "соответствии"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "запрещено"
+    },
+    {
+      "correctReplacement": "картинки",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "описание",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

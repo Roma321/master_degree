@@ -1,0 +1,25 @@
+{
+  "text": "Стихии совпала ч массовыми выездами на новогодние праздники , и обледенелые дороги и сильное ветер стали причиной целочисленных автоаварий .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "сильный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Стихия"
+    },
+    {
+      "correctReplacement": "многочисленных",
+      "type": "paronym",
+      "wordNumber": 17
+    },
+    {
+      "correctReplacement": "с",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

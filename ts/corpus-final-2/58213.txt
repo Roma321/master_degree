@@ -1,0 +1,20 @@
+{
+  "text": "Он окончил чуковский Гитисом и работал в различных театрах страну .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "страны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ГИТИС"
+    },
+    {
+      "correctReplacement": "московский",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

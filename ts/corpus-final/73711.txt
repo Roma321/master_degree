@@ -1,0 +1,20 @@
+{
+  "text": "Однако суд решил , что адрес Kodak . ru законно использовался для размещения сейта российской фирмы , которая торгуешь продукцией \"Кодак\" , хотя и не является отделением этой компании .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "торгует"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "используется"
+    },
+    {
+      "correctReplacement": "сайта",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

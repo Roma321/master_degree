@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , и . о . президента России и госсекретарь США обсудили режим нераспространение ядерной оружия , который имеет важная значение для сохранення стабильности в мирах .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 26,
+      "correctReplacement": "мире"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "важное"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "ядерного"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "нераспространения"
+    },
+    {
+      "correctReplacement": "сохранения",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

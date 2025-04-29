@@ -43,13 +43,13 @@ class GrammarDataset(Dataset):
         return self.data[idx]
 
 
-data_dir = "/home/roman/projects/mag/ts/output-several-errors"
+data_dir = "/home/roman/projects/mag/ts/corpus-final"
 
 json_files = [os.path.join(data_dir, f) for f in os.listdir(data_dir)]
 
 train_files, eval_files = train_test_split(json_files, test_size=0.2, random_state=42)
 
-label_list = ["O", "case"]
+label_list = ["O", "Voice", "paronym", "typo", "Number", "Gender", "Tense", "Case", "Person"]
 label_map = {label: i for i, label in enumerate(label_list)} 
 
 tokenizer = AutoTokenizer.from_pretrained("DeepPavlov/rubert-base-cased")
@@ -65,12 +65,12 @@ model = BertForTokenClassification.from_pretrained(
 data_collator = DataCollatorForTokenClassification(tokenizer)
 
 training_args = TrainingArguments(
-    output_dir="./results",
+    output_dir="./results-more-classes",
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
-    num_train_epochs=3,
+    num_train_epochs=5,
     weight_decay=0.01,
 )
 

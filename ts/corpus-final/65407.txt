@@ -1,0 +1,35 @@
+{
+  "text": "С утра в ареду там отмечается обвальное снижение котировок акции Sony и Samsung Electronics . Падение индекса Nasdaq продолжается уже пятую сессию подряд , оно вызвано опасением , что после довершения в США ставок рефинансирования кредиты подорожаем , а это отрицательно скажется на прибылях и размеры дивиденда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "акций"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 45,
+      "correctReplacement": "размерах"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 36,
+      "correctReplacement": "подорожают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 46,
+      "correctReplacement": "дивидендов"
+    },
+    {
+      "correctReplacement": "повышения",
+      "type": "paronym",
+      "wordNumber": 30
+    },
+    {
+      "correctReplacement": "среду",
+      "type": "typo",
+      "wordNumber": 3
+    }
+  ]
+}

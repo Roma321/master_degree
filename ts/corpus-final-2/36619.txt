@@ -1,0 +1,20 @@
+{
+  "text": "После матча расстроенный Россе не пожатый руку победителя , а сильно оттолкнул его Ж",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "пожал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "победителю"
+    },
+    {
+      "correctReplacement": ".",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

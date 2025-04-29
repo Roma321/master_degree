@@ -1,0 +1,30 @@
+{
+  "text": "Конфликт между Руцким и Михайловыми возникну в четверг , когда в \"Коммерсанте\" появилось интервью нового губернатора области . Александры Михайлов заявил , что во время выборов в Курской области его поддерживали КПРФ и Кркмля .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "Александр"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "возник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "Кремль"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "Михайловым"
+    },
+    {
+      "correctReplacement": "Кремля",
+      "type": "typo",
+      "wordNumber": 33
+    }
+  ]
+}

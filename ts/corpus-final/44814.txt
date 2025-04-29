@@ -1,0 +1,25 @@
+{
+  "text": "С утра в среду федеральные силы проносифшие жёсткого зачистку села Комсомольские с применением танков и артиллерии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "жесткую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Комсомольское"
+    },
+    {
+      "correctReplacement": "продолжили",
+      "type": "paronym",
+      "wordNumber": 6
+    },
+    {
+      "correctReplacement": "проносившие",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В Омске закончилось слушания по делу о хищение 144 тысяч рублей из банкоматов Омскпромстройбанка , сооьщают ракета \"Время-МН\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "хищении"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "слушание"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "газета",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "сообщают",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

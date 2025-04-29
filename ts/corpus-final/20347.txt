@@ -1,0 +1,20 @@
+{
+  "text": "Позже ими продлим этот срок основа , но он также уже истек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "они"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "продлили"
+    },
+    {
+      "correctReplacement": "снова",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

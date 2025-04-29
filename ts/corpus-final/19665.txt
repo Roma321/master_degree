@@ -1,0 +1,25 @@
+{
+  "text": "В интервью швейцарской газете Le Temps он заявил , что этот вопрос возникнувший в связи с развитиями ситуации на Северном Кевказа .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "возник"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Кавказе"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "развитием"
+    },
+    {
+      "correctReplacement": "Кавказа",
+      "type": "typo",
+      "wordNumber": 20
+    }
+  ]
+}

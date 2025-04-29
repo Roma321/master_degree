@@ -1,0 +1,30 @@
+{
+  "text": "По данным пророссийских военных , всего за сутки на территории республики по подозрению в причастность к бантформированию было задержу восемь человек .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "причастности"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "задержано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "бандформированиям"
+    },
+    {
+      "correctReplacement": "российских",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "бандформированию",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Всего будет построено 21 стансия метрополитена , что позволит перевозимые до 450 тысяч пассажиров в дни .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "перевозить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "построена"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "день"
+    },
+    {
+      "correctReplacement": "станция",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По их прибытию Предстоятель Русской православной церкви совершивший у храме Петра и Павла на Прохоровском поле пасхального литургию .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "прибытии"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "пасхальную"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "совершил"
+    },
+    {
+      "correctReplacement": "в",
+      "type": "typo",
+      "wordNumber": 8
+    }
+  ]
+}

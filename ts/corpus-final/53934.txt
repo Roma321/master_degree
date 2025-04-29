@@ -1,0 +1,30 @@
+{
+  "text": "В воскресенье вашингтонская полиция была вынудившая применить дубинки , перцовый аэрозоль и даже - в отдельных случаях - слезоточивый гаснувшие для разгона демонстрантов , собравшихся в столице США по случаю весеннем саммита МВФ и Всемирной банка .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "весеннего"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "вынуждена"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 34,
+      "correctReplacement": "Всемирного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "газ"
+    },
+    {
+      "correctReplacement": "газы",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

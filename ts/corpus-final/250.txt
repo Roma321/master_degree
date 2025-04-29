@@ -1,0 +1,25 @@
+{
+  "text": "Процесс развиваются настолько быстро , что за последние 5 года традиционное \"восьмерка\" самых могущественных испанских банков ныне превратилась в \"троцку\" , отмечает агентство РИА \"Новости\" . Sumitomo Bank и Sakura Bank",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "развивается"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "традиционная"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "лет"
+    },
+    {
+      "correctReplacement": "\"тройку\"",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

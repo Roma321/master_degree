@@ -1,0 +1,25 @@
+{
+  "text": "Специалисты считают , что числом жертвы наводнееия может оказаться значительно большим , когда будут обследованы отрезавшие стихией районов .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "число"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "жертв"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "отрезанные"
+    },
+    {
+      "correctReplacement": "наводнения",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

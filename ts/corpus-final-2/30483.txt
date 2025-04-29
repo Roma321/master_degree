@@ -1,0 +1,40 @@
+{
+  "text": "Согласно распоряжению , иностранный граждане и лица без гражданства , прибывающие в Москву с целью работы в сфере услуг , должны оформифшие индивидуальном разрешительный монументу (свидетельство) на право на работу в столицу .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "документ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "индивидуальный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "оформить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "столице"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "иностранные"
+    },
+    {
+      "correctReplacement": "документу",
+      "type": "paronym",
+      "wordNumber": 24
+    },
+    {
+      "correctReplacement": "оформившие",
+      "type": "typo",
+      "wordNumber": 21
+    }
+  ]
+}

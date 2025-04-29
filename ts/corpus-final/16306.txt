@@ -1,0 +1,25 @@
+{
+  "text": "Программный продукт шифрую данные о пользователях , позволяет подставлять вместо реального адреса e-mail произвольные липовые ашреса и вообще всячески скрывает личность пользователе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "пользователя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "пользователе"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "шифрует"
+    },
+    {
+      "correctReplacement": "адреса",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Финальное матч начклся атаками хозяев поля и уже на 2-ю минуте Дмитрий Кудряшов замкнул передачу с фланга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Финальный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "2-й"
+    },
+    {
+      "correctReplacement": "начался",
+      "type": "typo",
+      "wordNumber": 2
+    }
+  ]
+}

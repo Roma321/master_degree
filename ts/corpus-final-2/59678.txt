@@ -1,0 +1,20 @@
+{
+  "text": "Адвоката также сообщил , что , по данным на 15 часов в пфтницу , обыск еще продолжался , передаёшь \"Интерфакс\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Адвокат"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 18,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "пятницу",
+      "type": "typo",
+      "wordNumber": 12
+    }
+  ]
+}

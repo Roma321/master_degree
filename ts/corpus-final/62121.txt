@@ -1,0 +1,20 @@
+{
+  "text": "По его словам , нынешнее законодательство было принято десять лет назат и нуждаются в серьезных доработок .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "нуждается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "доработках"
+    },
+    {
+      "correctReplacement": "назад",
+      "type": "typo",
+      "wordNumber": 10
+    }
+  ]
+}

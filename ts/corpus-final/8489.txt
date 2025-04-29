@@ -1,0 +1,20 @@
+{
+  "text": "Сотрудники в милицейская форме и в братском дежурящие в местах скопления граждан .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "дежурят"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "милицейской"
+    },
+    {
+      "correctReplacement": "штатском",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

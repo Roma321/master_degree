@@ -1,0 +1,20 @@
+{
+  "text": "За ратификацию проголосовали поправляющие число депутатов - 298 , против - 74 человека .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "проголосовало"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "подавляющее"
+    },
+    {
+      "correctReplacement": "подавляющие",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

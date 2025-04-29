@@ -1,0 +1,20 @@
+{
+  "text": "Плата за парковку будет устанавливающиеся в видимости от вида парковки , а также от ее приближенности к центрам города .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "устанавливаться"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "центру"
+    },
+    {
+      "correctReplacement": "зависимости",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

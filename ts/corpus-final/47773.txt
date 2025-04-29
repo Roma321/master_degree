@@ -1,0 +1,35 @@
+{
+  "text": "Нового порядок трудоустройства не распространяющийся на россиян , проживающих в другого регионах РФ , бежепцев , а также работников консульств , религиозного деятелей и иностранных журналистов .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "распространяется"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Новый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "религиозных"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "других"
+    },
+    {
+      "correctReplacement": "посольств",
+      "type": "paronym",
+      "wordNumber": 19
+    },
+    {
+      "correctReplacement": "беженцев",
+      "type": "typo",
+      "wordNumber": 14
+    }
+  ]
+}

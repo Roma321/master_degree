@@ -1,0 +1,30 @@
+{
+  "text": "В четверг в США , в штате Вирджиния , был приведён в искоренение смертный приговоре американцу итальянского происхождения Дереку Барнабеев , несмотря на просьба о помиловании от итальянского премьер-министра и Папы Римского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "приведен"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "просьбы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "приговор"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "Барнабеи"
+    },
+    {
+      "correctReplacement": "исполнение",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

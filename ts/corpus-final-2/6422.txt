@@ -1,0 +1,25 @@
+{
+  "text": "В немецком Союзе розничной торговлю опасаемся , что бурный сезон распродажи могу несколько расстроить летний оддых граждан .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "опасаются"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 11,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "торговли"
+    },
+    {
+      "correctReplacement": "отдых",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

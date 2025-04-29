@@ -1,0 +1,25 @@
+{
+  "text": "Преступники произвели три выстрелов в голову Фроянова , что даетоснование правоохранителям органам подозревать запазной характер убийства .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "даетоснования"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "выстрела"
+    },
+    {
+      "correctReplacement": "правоохранительным",
+      "type": "paronym",
+      "wordNumber": 10
+    },
+    {
+      "correctReplacement": "заказной",
+      "type": "typo",
+      "wordNumber": 13
+    }
+  ]
+}

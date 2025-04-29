@@ -1,0 +1,25 @@
+{
+  "text": "Выборы проходили под контроле многочисленных наблюдателей . По их мнению , 61-летнего Фухимори , который баллотируется на высший пост страны уже в третья раз , во втором туре поддержишь большинство перуанцеф .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 22,
+      "correctReplacement": "третий"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 28,
+      "correctReplacement": "поддержит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "контролем"
+    },
+    {
+      "correctReplacement": "перуанцев",
+      "type": "typo",
+      "wordNumber": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как напоминающий РБК , 3 декабря Останкинский межмуниципальный сад удовлетворил иск Юрия Лужкова и обязал ОРТ и Сергея Доренко выплатить мэру Москве 150 тысяч рублей в качестве компенсации за нанесенный моральный ущербы .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "напоминает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 31,
+      "correctReplacement": "ущерб"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "Москвы"
+    },
+    {
+      "correctReplacement": "суд",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

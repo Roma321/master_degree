@@ -1,0 +1,30 @@
+{
+  "text": "Тем не мене , ни один хикер , - по крайней мере из тех , кого подозреваем в совершении компьютерным преступлений , - в штат IXsecurity не попадёшь .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "подозревали"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "попадет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "компьютерных"
+    },
+    {
+      "correctReplacement": "менее",
+      "type": "paronym",
+      "wordNumber": 2
+    },
+    {
+      "correctReplacement": "хакер",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Однако недалеко от причале по неустановленным пока причинам на нем произошел силовая взрыв , и кораблю , расколовшись надвое , быстро пошедший ко дну .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "причала"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "корабль"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "пошел"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "сильный"
+    },
+    {
+      "correctReplacement": "сильная",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

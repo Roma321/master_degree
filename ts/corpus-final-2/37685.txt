@@ -1,0 +1,45 @@
+{
+  "text": "Через несколько минут руководитель избирательного кампании Альбертов Гора объявил в Нэшвилле , что кампания не закончен и Гор все еще сражается за пост президента страны . тировать заявление Клебанова о том , что водолазам удалось поднять некоторые записи и журнал четвертака отсека , Моцак ответил , что речью идут о корабельного канцелярии и среди этих записей нрт ничего , проливающего свет на причины аварии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "закончена"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 47,
+      "correctReplacement": "речь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 50,
+      "correctReplacement": "корабельной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "Альберта"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 48,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "избирательной"
+    },
+    {
+      "correctReplacement": "четвертого",
+      "type": "paronym",
+      "wordNumber": 40
+    },
+    {
+      "correctReplacement": "нет",
+      "type": "typo",
+      "wordNumber": 56
+    }
+  ]
+}

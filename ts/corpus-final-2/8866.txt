@@ -1,0 +1,25 @@
+{
+  "text": "Арестованные были доставившие в полицейский участки , где , крак ожидается , будут отпустим после установления личности и уплаты обычного штрафа в размере 50 долларов .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "отпущены"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "доставлены"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "участок"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

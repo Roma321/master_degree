@@ -1,0 +1,20 @@
+{
+  "text": "На пресс-конференции было скажу , что акции покупает некая нефтянка компания , однако название ее не прозвучало .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "сказано"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "нефтяная"
+    },
+    {
+      "correctReplacement": "нефтяной",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

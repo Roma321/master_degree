@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает The Register , в августе прошлого года представители Microsoft заявилили , что их компания \"зделала значительные инвестиции в развитие этой технологии ; однако , учитывая экспериментальных природу IPv6 , в Windows 2000 этом протокол поддерживаться не будет\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "экспериментальную"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 34,
+      "correctReplacement": "этот"
+    },
+    {
+      "correctReplacement": "\"сделала",
+      "type": "typo",
+      "wordNumber": 16
+    }
+  ]
+}

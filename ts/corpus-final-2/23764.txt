@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу скончался бывший премьер-министр Канады , влиятельнейшее политик , самый популярный человека страны в минуфшем столетии Пьер Эллиот Трюдо .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "влиятельнейший"
+    },
+    {
+      "correctReplacement": "минувшем",
+      "type": "typo",
+      "wordNumber": 15
+    }
+  ]
+}

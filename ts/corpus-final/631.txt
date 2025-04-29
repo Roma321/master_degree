@@ -1,0 +1,25 @@
+{
+  "text": "Причину возникающих на этот счет многочисленных слухов и разговоров Морозов видел в том , ато Яковлев занимаюсь политической деятельность и \"у него сегодня столько врагов , что дай Бог каждому\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "занимается"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 10,
+      "correctReplacement": "видит"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "деятельностью"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

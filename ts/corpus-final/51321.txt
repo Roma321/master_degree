@@ -1,0 +1,35 @@
+{
+  "text": "Христенко напомнивший , что помимо трех бюджетозамещающих займы - угольных , тотального и на структурную перестройку экономики , Всемирный банк участвует еще в 33 проектах , общее объём которых составляет около 4 миллиардов долларов .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 26,
+      "correctReplacement": "общий"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "напомнил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 27,
+      "correctReplacement": "объем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "займов"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "угольного"
+    },
+    {
+      "correctReplacement": "социального",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

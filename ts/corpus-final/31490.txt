@@ -1,0 +1,20 @@
+{
+  "text": "Так , новостной сайт CNN был блокировавший в течение двух часов , и лишь поздно ночью программистам CNN удамся защитить компьютеры от потока мусором .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 6,
+      "correctReplacement": "блокирован"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "мусора"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "удалось"
+    }
+  ]
+}

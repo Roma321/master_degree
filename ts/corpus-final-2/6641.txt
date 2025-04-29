@@ -1,0 +1,35 @@
+{
+  "text": "Однако , как отмечает НТВ , правпла , по сути , остались теми же - желающие выехать на сожительство в США должны отправить определённая пакет документах по назвавшему адресу и по результатам ежегодной лотерея могут получить greencard (вид на жительство) и вместе с ней право на постоянное проживание в этой стране .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 33,
+      "correctReplacement": "лотереи"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "определенный"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 27,
+      "correctReplacement": "названному"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "документов"
+    },
+    {
+      "correctReplacement": "жительство",
+      "type": "paronym",
+      "wordNumber": 18
+    },
+    {
+      "correctReplacement": "правила",
+      "type": "typo",
+      "wordNumber": 6
+    }
+  ]
+}

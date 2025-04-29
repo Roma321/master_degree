@@ -1,0 +1,25 @@
+{
+  "text": "Что же касаюсь найденных на месте катастрофы \"черных ящиков\" , то Иванов отметил , что они аже доставлены в Мозгву и начались их расшифровка .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "касается"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "началась"
+    },
+    {
+      "correctReplacement": "уже",
+      "type": "paronym",
+      "wordNumber": 16
+    },
+    {
+      "correctReplacement": "Москву",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

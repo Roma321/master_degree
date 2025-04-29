@@ -1,0 +1,25 @@
+{
+  "text": "Новых предприятие размещу в городе Венев Тульской области , на его мощностях впервые в России реализовавшие технологии производства рафинированного масла без применения химических вещесив .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "размещено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "реализованы"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Новое"
+    },
+    {
+      "correctReplacement": "веществ",
+      "type": "typo",
+      "wordNumber": 23
+    }
+  ]
+}

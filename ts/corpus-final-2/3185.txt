@@ -1,0 +1,25 @@
+{
+  "text": "Между тем нефти в резервуарах на станции Ищерская в Наурском районах продолжает накапливаться , сейчас ее там находящийся около 19 тысяч тоннах , заявил Борискин .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "тонн"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "районе"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "нефть"
+    }
+  ]
+}

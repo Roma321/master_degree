@@ -1,0 +1,20 @@
+{
+  "text": "Они содержится в тюрьме гордые Бирмингем , где было совершившее это преступление .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "содержатся"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "совершено"
+    },
+    {
+      "correctReplacement": "города",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

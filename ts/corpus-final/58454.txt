@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщил милиционеры местной ОВД , мальчик живет с одной парализованного бабушкой , ведет \"безнадзорный образ жизни\" и частно выпивает .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "парализованной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "местного"
+    },
+    {
+      "correctReplacement": "часто",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

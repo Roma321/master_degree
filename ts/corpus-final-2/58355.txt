@@ -1,0 +1,25 @@
+{
+  "text": "Среди тех , кто ранее удостаивался подобной наградой , Уинстон Черчилль , матери Терезой и первый президент США Джордж Вашингтом .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "награды"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "мать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Тереза"
+    },
+    {
+      "correctReplacement": "Вашингтон",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

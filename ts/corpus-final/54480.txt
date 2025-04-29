@@ -1,0 +1,40 @@
+{
+  "text": "Другие общительный заявление , распространенное западным СМИ , состоит в тех , что электронная книга Путина появилась в Интернете фслед за электронных книгой Стивена Кинга .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "сомнительное"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Другое"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "западными"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "электронной"
+    },
+    {
+      "correctReplacement": "сомнительный",
+      "type": "paronym",
+      "wordNumber": 1
+    },
+    {
+      "correctReplacement": "вслед",
+      "type": "typo",
+      "wordNumber": 19
+    }
+  ]
+}

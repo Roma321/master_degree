@@ -1,0 +1,30 @@
+{
+  "text": "В ягваре 2000 года он чуть не смердящий от передозировки кокаина и некоторый время лечились в Уругвае .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "лечился"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "некоторое"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "умер"
+    },
+    {
+      "correctReplacement": "умерший",
+      "type": "paronym",
+      "wordNumber": 7
+    },
+    {
+      "correctReplacement": "январе",
+      "type": "typo",
+      "wordNumber": 1
+    }
+  ]
+}

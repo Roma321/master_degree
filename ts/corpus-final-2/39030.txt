@@ -1,0 +1,25 @@
+{
+  "text": "Акция протеста работников печатного станка привлеку общественное внимание потому , что в этой типография печатает деньги и тланки для паспортов и водительских прав .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "типографии"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "печатают"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 5,
+      "correctReplacement": "привлекла"
+    },
+    {
+      "correctReplacement": "бланки",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

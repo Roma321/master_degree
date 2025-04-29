@@ -1,0 +1,25 @@
+{
+  "text": "В минувший четверг состоялся телефонное разговор между президентами России Борис Ельциным и президентом Белоруссии Александром Лукашенко , сообщающий РИА \"Новости\" со ссылкой на администрацию белорусского президента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "Борисом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "телефонный"
+    }
+  ]
+}

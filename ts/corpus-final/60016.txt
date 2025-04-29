@@ -1,0 +1,25 @@
+{
+  "text": "Розана Коллор , жена бывших президента Бразилии Фернандо Коллора де Мелло , приговорена к 11 годы и четырем мясяиам тюремного заключения за коррупцию , сообщаешь BBC News .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "годам"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 24,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "бывшего"
+    },
+    {
+      "correctReplacement": "мясяцам",
+      "type": "typo",
+      "wordNumber": 18
+    }
+  ]
+}
