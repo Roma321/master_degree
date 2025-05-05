@@ -82,6 +82,7 @@ async function statCorpus() {
     const dirName = '/home/roman/projects/mag/ts/corpus-final'
     const counter: Record<string, number> = {}
     const files = fs.readdirSync(dirName, { withFileTypes: true });
+    console.log(files.length)
     files.forEach(file => {
         const text = fs.readFileSync(`${dirName}/${file.name}`, 'utf-8')
         const corpusItem: CorpusItem = JSON.parse(text);

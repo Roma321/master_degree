@@ -1,68 +1,72 @@
 import os
+from transformers import AutoTokenizer, BertForTokenClassification, Trainer, DataCollatorForTokenClassification
+from seqeval.metrics import classification_report
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+import matplotlib.pyplot as plt
+from dataset import GrammarDataset
 
-from transformers import AutoTokenizer, BertForTokenClassification
-import torch
-
-checkpoint_path = "/home/roman/projects/mag/py/StanzaHttpWrapper/neuro/cases-errors-detection/results/checkpoint-13500"
+model_dir = "./results-more-classes/checkpoint-15500"
 
 tokenizer = AutoTokenizer.from_pretrained("DeepPavlov/rubert-base-cased")
-model = BertForTokenClassification.from_pretrained(checkpoint_path)
+model = BertForTokenClassification.from_pretrained(model_dir)
 
-text = "Встреча состоится в декабре 1997 года в Вашингтоне."
+label_list = ["O", "Voice", "paronym", "typo", "Number", "Gender", "Tense", "Case", "Person"]
+label_map = {label: i for i, label in enumerate(label_list)}
 
+data_dir = "/home/roman/projects/mag/ts/corpus-final-2"
+N = 1000
+json_files = [os.path.join(data_dir, f) for f in os.listdir(data_dir)][:N]
 
-def test_sentence(text):
-    words = text.split()
-    tokenized = tokenizer(words, is_split_into_words=True, return_tensors="pt", truncation=True)
-    with torch.no_grad():
-        outputs = model(**tokenized)
-    logits = outputs.logits
-    predictions = torch.argmax(logits, dim=-1).squeeze().tolist()
-    label_list = ["O", "case"]
-    words_with_errors = []
-    previous_word_id = None
-    for token_idx, word_id in enumerate(tokenized.word_ids()):
-        if word_id is not None and word_id != previous_word_id:  # Новое слово
-            label_id = predictions[token_idx]  # Предсказанная метка
-            label = label_list[label_id]  # Преобразуем ID метки в строку
-            if label != "O":  # Если метка указывает на ошибку
-                words_with_errors.append((words[word_id], label))
-        previous_word_id = word_id
-    print("Слова с ошибками:", words_with_errors)
-    return words_with_errors
+test_dataset = GrammarDataset(json_files, tokenizer)
 
+trainer = Trainer(
+    model=model,
+    data_collator=DataCollatorForTokenClassification(tokenizer)
+)
 
-test_sentence(text)
+predictions, labels, _ = trainer.predict(test_dataset)
 
-test_dir = '/home/roman/projects/mag/corpus/rozovskaya-case-errors'
-test_dir_corr = f'{test_dir}/correct'
-test_dir_incorr = f'{test_dir}/incorrect'
+def decode_predictions(predictions, label_list):
+    predicted_labels = []
+    for prediction in predictions:
+        predicted_label_ids = prediction.argmax(axis=-1)
+        predicted_labels.append([label_list[label_id] for label_id in predicted_label_ids])
+    return predicted_labels
 
-errors_corr = []
+decoded_predictions = decode_predictions(predictions, label_list)
 
-# for filename in os.listdir(test_dir_corr):
-#         with open(os.path.join(test_dir_corr, filename), 'r', encoding='utf-8') as f:
-#             txt = f.read()
-#             res = test_sentence(txt)
-#             if len(res) != 0:
-#                 errors_corr.append((res, txt))
-# with open('errors-corr.txt', 'w', encoding='utf-8') as f:
-#     for e in errors_corr:
-#         f.write(str(e))
-#         f.write('\n')
+true_labels = []
+for label in labels:
+    true_labels.append([label_list[l] if l != -100 else "O" for l in label])
 
+filtered_predictions = []
+filtered_true_labels = []
 
-errors_incorr=[]
+for preds, trues in zip(decoded_predictions, true_labels):
+    filtered_preds = []
+    filtered_trues = []
+    for pred, true in zip(preds, trues):
+        if true != "O":
+            filtered_preds.append(pred)
+            filtered_trues.append(true)
+    filtered_predictions.append(filtered_preds)
+    filtered_true_labels.append(filtered_trues)
 
-for filename in os.listdir(test_dir_incorr):
-        with open(os.path.join(test_dir_incorr, filename), 'r', encoding='utf-8') as f:
-            txt = f.read()
-            res = test_sentence(txt)
-            if len(res) == 0:
-                errors_incorr.append(txt)
+report = classification_report(filtered_true_labels, filtered_predictions, digits=4)
+print("Classification Report:")
+print(report)
 
-print(f'{100*len(errors_incorr) / len(os.listdir(test_dir_incorr))}%')
-with open('errors-incorr.txt', 'w', encoding='utf-8') as f:
-    for e in errors_incorr:
-        f.write(str(e))
-        f.write('\n')
+flat_filtered_true_labels = [label for sublist in filtered_true_labels for label in sublist]
+flat_filtered_predictions = [label for sublist in filtered_predictions for label in sublist]
+
+cm = confusion_matrix(flat_filtered_true_labels, flat_filtered_predictions, labels=label_list)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=label_list)
+
+plt.figure(figsize=(20, 16))
+disp.plot(cmap=plt.cm.Blues, values_format=".0f", xticks_rotation=45)
+
+plt.title("Confusion Matrix")
+
+output_file = "confusion_matrix-1000.png"
+plt.savefig(output_file, bbox_inches="tight", dpi=300)
+print(f"Confusion matrix saved to {output_file}")
