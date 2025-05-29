@@ -4,7 +4,6 @@ from seqeval.metrics import classification_report
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 from dataset import GrammarDataset
-
 model_dir = "./results-more-classes/checkpoint-15500"
 
 tokenizer = AutoTokenizer.from_pretrained("DeepPavlov/rubert-base-cased")
@@ -13,7 +12,7 @@ model = BertForTokenClassification.from_pretrained(model_dir)
 label_list = ["O", "Voice", "paronym", "typo", "Number", "Gender", "Tense", "Case", "Person"]
 label_map = {label: i for i, label in enumerate(label_list)}
 
-data_dir = "/home/roman/projects/mag/ts/corpus-final-2"
+data_dir = "/home/roman/projects/mag/ts/test-final"
 N = 1000
 json_files = [os.path.join(data_dir, f) for f in os.listdir(data_dir)][:N]
 
@@ -67,6 +66,16 @@ disp.plot(cmap=plt.cm.Blues, values_format=".0f", xticks_rotation=45)
 
 plt.title("Confusion Matrix")
 
-output_file = "confusion_matrix-1000.png"
+output_file = "confusion_matrix-roz.png"
 plt.savefig(output_file, bbox_inches="tight", dpi=300)
 print(f"Confusion matrix saved to {output_file}")
+
+output_errors_file = "error_analysis.txt"
+with open(output_errors_file, "w", encoding="utf-8") as f:
+    f.write("Error Analysis:\n\n")
+
+    for i, (preds, trues, data) in enumerate(zip(decoded_predictions, true_labels, test_dataset.data)):
+        print(preds)
+        print(trues)
+        print(data['text'])
+        print('\n\n\n\n')
