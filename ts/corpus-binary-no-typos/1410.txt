@@ -1,0 +1,30 @@
+{
+  "text": "Два схрона боевиков , рассчитанных на 10 и 40 человек , а также склады вещевого имущества уничтоженные , в частности , подразделения внутренних войск в селения Центорой , передаёт ИТАР-ТАСС со ссылке на пресс-центр группировки внутренних войск МВД России .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "уничтожили"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "склад"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 28,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "ссылкой"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "селении"
+    }
+  ]
+}

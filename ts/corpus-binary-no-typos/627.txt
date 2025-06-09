@@ -1,0 +1,25 @@
+{
+  "text": "Daily Telefrag имею полноценную англоязычное инверсию , популярность которой на Западе позволяют поддерживать эксклюзивный материалы , в том числе интервью с разработчиками игр .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "эксклюзивные"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "англоязычную"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "имеет"
+    },
+    {
+      "correctReplacement": "версию",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

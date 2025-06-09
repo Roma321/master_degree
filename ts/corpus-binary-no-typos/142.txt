@@ -1,0 +1,25 @@
+{
+  "text": "В уезде Единец от проливного дождей и града пострадала восьми населенных пунктов , повреждены 367 гейдаров садов и около 4 тысяч гектаров посевов .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "проливных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "восемь"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "пострадало"
+    },
+    {
+      "correctReplacement": "гектаров",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В фестивальном жюри этого года доминируем режиссёры : здесь только один продюсер - японец Дзиро Синдо , сын прошлогодний лауреата Кэндо Синдо , - и актриса Каролин Дюсей , известная московским учителей по фильму \"Романс\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "режиссеры"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 5,
+      "correctReplacement": "доминируют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "прошлогоднего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 31,
+      "correctReplacement": "зрителям"
+    },
+    {
+      "correctReplacement": "зрителей",
+      "type": "paronym",
+      "wordNumber": 31
+    }
+  ]
+}

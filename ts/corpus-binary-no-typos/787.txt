@@ -1,0 +1,25 @@
+{
+  "text": "Власти не могли назвать причину трагедии , однако , по свидетельству очевидцев , за несколько минуты до происшествия в воздухе ощущалось сильный запах газа , сообщённый журналистам мэр города Рудольф Джулиани .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "ощущался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "минут"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "могут"
+    }
+  ]
+}

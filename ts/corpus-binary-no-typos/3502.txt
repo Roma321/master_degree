@@ -1,0 +1,20 @@
+{
+  "text": "На митинг прибыло представитель растных властей , однако его доводы не убеждённые митингующих .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "прибыл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "убедили"
+    },
+    {
+      "correctReplacement": "местных",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

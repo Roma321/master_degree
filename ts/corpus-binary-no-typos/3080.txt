@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , никто пока не задержавший , ноподозреваемый уже есть , и \"каждый час нас можете получитьконкретные результаты\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ноподозреваемые"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "можем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "мы"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "задержан"
+    }
+  ]
+}

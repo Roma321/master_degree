@@ -1,0 +1,25 @@
+{
+  "text": "В американских официальных кругами полагают , что президент США Билл Клинтон может вернуться из японке раньше намеченного срока , для того чтобы продолжить свой участие в переговорах между Израиле и Палестиной .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 23,
+      "correctReplacement": "свое"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Израилем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "кругах"
+    },
+    {
+      "correctReplacement": "Японии",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

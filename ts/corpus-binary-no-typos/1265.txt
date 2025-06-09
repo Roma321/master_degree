@@ -1,0 +1,20 @@
+{
+  "text": "Кроме того , 15 июля , в 14 : 00 на Пушкинской площади состоится одитинг общественностей в поддержку референдуме .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "референдума"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "общественности"
+    },
+    {
+      "correctReplacement": "митинг",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По подавления в совершении преступления разыскивался сын писателя - 22-летняя Арсением , ранее судимый .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "Арсений"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "подозрению"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "22-летний"
+    },
+    {
+      "correctReplacement": "подозрениям",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

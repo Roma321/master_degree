@@ -52,12 +52,9 @@ for preds, trues in zip(decoded_predictions, true_labels):
     filtered_true_labels.append(filtered_trues)
 
 report = classification_report(filtered_true_labels, filtered_predictions, digits=4)
-print("Classification Report:")
-print(report)
-
 flat_filtered_true_labels = [label for sublist in filtered_true_labels for label in sublist]
 flat_filtered_predictions = [label for sublist in filtered_predictions for label in sublist]
-
+print(report)
 cm = confusion_matrix(flat_filtered_true_labels, flat_filtered_predictions, labels=label_list)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=label_list)
 
@@ -73,9 +70,3 @@ print(f"Confusion matrix saved to {output_file}")
 output_errors_file = "error_analysis.txt"
 with open(output_errors_file, "w", encoding="utf-8") as f:
     f.write("Error Analysis:\n\n")
-
-    for i, (preds, trues, data) in enumerate(zip(decoded_predictions, true_labels, test_dataset.data)):
-        print(preds)
-        print(trues)
-        print(data['text'])
-        print('\n\n\n\n')

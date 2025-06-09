@@ -1,0 +1,20 @@
+{
+  "text": "Результатом недосмотра специалистов стало то , что данные миллиона пользователей были отправим компаниям , занимавшимся рекламой , без разрешения совладельцев этих данных .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "занимающимся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "отправлены"
+    },
+    {
+      "correctReplacement": "владельцев",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Предполагается , что заседание Верховного суда продлится три дня , однако точный даты вынесения венедикта пока не называешься .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "дата"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "называется"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "точная"
+    },
+    {
+      "correctReplacement": "вердикта",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

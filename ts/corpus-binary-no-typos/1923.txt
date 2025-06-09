@@ -1,0 +1,20 @@
+{
+  "text": "В пятницу путин отправился на японская остров Окинаву для участия в заседании стран \"Большой восьмерки\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 3,
+      "correctReplacement": "отправится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "японский"
+    },
+    {
+      "correctReplacement": "Путин",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

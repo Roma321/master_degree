@@ -1,0 +1,20 @@
+{
+  "text": "Прибывшие на место происшествие сотрудники отделавневедомственного охраны задержали дина из нападавших .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "происшествия"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "отделавневедомственной"
+    },
+    {
+      "correctReplacement": "одного",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

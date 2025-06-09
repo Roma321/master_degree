@@ -1,0 +1,25 @@
+{
+  "text": "Он даже не смог сообщить , выйдет ли кто-нибудь из дипломатов к родителю , которые стояли у дверей посольства , сообщающий дистанция \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 15,
+      "correctReplacement": "стоят"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "родителям"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "радиостанция",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Тело известных писателя Дмитрия Балашова , автора многотомных романов из истории средневековой Руси , выходим огоромными тиражами , обнажённая в понедельник поздно вечером .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "известного"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "выходивших"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "обнаружено"
+    },
+    {
+      "correctReplacement": "обнаружена",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Мощная землетрясение силой более шести баллов по шкалам Рихтера потрясу сегодня рано утром главные острова Хонсю , крак сообщает Reuters .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Мощное"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "потрясло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "шкале"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "США внесли в бюджет ООН 135 миллионов долларов в свет погашений своего долгу , составляемого на сегодня более 1 , 5 миллиарда долларов , передает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "погашения"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "долга"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "составляющего"
+    },
+    {
+      "correctReplacement": "счет",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

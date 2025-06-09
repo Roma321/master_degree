@@ -1,0 +1,20 @@
+{
+  "text": "По сведениям газеты , вымогатели угрожавшие порчей продуктов и пытались получить от концернов Nestle , одного из крупнейших производителей питанием в мире , 8 , 5 миллиона марок .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "угрожали"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "питания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "концерна"
+    }
+  ]
+}

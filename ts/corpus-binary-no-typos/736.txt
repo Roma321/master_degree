@@ -1,0 +1,25 @@
+{
+  "text": "Сейчас в Пакистанах сезон дождя , и полиция отмечающий , что количество дорожник происшествий в связи с этим увеличилось .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "Пакистане"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "дождей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "отмечает"
+    },
+    {
+      "correctReplacement": "дорожно-транспортных",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

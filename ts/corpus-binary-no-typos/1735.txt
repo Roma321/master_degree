@@ -1,0 +1,20 @@
+{
+  "text": "За последние месяц в пакистанце произошла несколько подобных взрывов , но ответственности за них никто на себя не взял .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "произошло"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "месяцы"
+    },
+    {
+      "correctReplacement": "Пакистане",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Белорусские телевидение также сообщило , что похитители потребовали за освобождение Завадского 2 , 5 миллиона долларов и 2 , 5 тысячи долларов за фотоматериал , подтверждавший , что Завадскому находящийся у них .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 29,
+      "correctReplacement": "находится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "Завадский"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Белорусское"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "подтверждающий"
+    },
+    {
+      "correctReplacement": "видеоматериал",
+      "type": "paronym",
+      "wordNumber": 23
+    }
+  ]
+}

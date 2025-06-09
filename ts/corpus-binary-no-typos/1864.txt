@@ -1,0 +1,20 @@
+{
+  "text": "В тушение участвуют почти 800 сотрудников лесной иноземной охраны и 960 рабочих , привлёкших к борьбе с огнем .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "привлеченных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "тушении"
+    },
+    {
+      "correctReplacement": "наземной",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

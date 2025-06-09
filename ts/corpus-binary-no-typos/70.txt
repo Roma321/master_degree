@@ -1,0 +1,25 @@
+{
+  "text": "Сберегательное банк России планирую в два раза увеличить кредитование физических лиц , прежде всем молодежи , а также ввести систему \"мобильного бэнкинга\" для операций с посыльного телефона .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "планирует"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "всего"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Сберегательный"
+    },
+    {
+      "correctReplacement": "мобильного",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

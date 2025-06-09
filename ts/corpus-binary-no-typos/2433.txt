@@ -1,0 +1,25 @@
+{
+  "text": "Киевом пообещало разойтись с москвиной \"по-европейски\" в вопросе погашения своих долгов за газ , об этом заявил премьер-министром Украины Виктор Ющенко на встрече с представителями Британо-украинской торговой палаты .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "премьер-министр"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "пообещал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Киев"
+    },
+    {
+      "correctReplacement": "Москвой",
+      "type": "paronym",
+      "wordNumber": 4
+    }
+  ]
+}

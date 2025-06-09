@@ -1,0 +1,20 @@
+{
+  "text": "Одновременно депутат проголосованные за введение нового Налогового кодека с 1 января 2001 года .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "проголосовали"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "депутаты"
+    },
+    {
+      "correctReplacement": "кодекса",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В Ибораки , где землетрясение ощущавшееся особенно сильно , от ударов потрескаюсь дамба , но , как сообщили в префектуре Ибораки , погружение незначительны .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "ощущалось"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "потрескалась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "повреждения"
+    },
+    {
+      "correctReplacement": "повреждением",
+      "type": "paronym",
+      "wordNumber": 22
+    }
+  ]
+}

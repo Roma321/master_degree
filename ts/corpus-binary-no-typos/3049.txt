@@ -1,0 +1,25 @@
+{
+  "text": "О желании своими глазами увиденные текст высказывания Путина затаившие и Джо Локхарта , официальный представитель Белого дома .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "увидеть"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Локхарт"
+    },
+    {
+      "correctReplacement": "заявили",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

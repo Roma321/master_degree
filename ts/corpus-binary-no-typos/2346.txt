@@ -1,0 +1,25 @@
+{
+  "text": "Один из сенаторов , Патрик Лихи , который является сторонником правовой свобод в Интернет и выступал в защиты компании Napster на недавнем разбирательстве в сенате , порушивший около 40 тысяч писем .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "свободы"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Интернете"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "защиту"
+    },
+    {
+      "correctReplacement": "получил",
+      "type": "paronym",
+      "wordNumber": 26
+    }
+  ]
+}

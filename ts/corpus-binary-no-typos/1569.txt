@@ -1,0 +1,20 @@
+{
+  "text": "По свидетельствам очевидцев , у автобусу на полном скорости лопнуло шина , после чего он перелетел через ограждение высокого моста и упал на берег реки .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "полной"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "лопнула"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "автобуса"
+    }
+  ]
+}

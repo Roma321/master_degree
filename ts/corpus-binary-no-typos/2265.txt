@@ -1,0 +1,30 @@
+{
+  "text": "Юлия Чигирь , являющееся адвокат своего мужа , укусила за ухо милиционеров в тот момент , когда он вместе с другие сотрудниками правоохранительных органов пытался оттеснить толпу сторонникам Чигиря от здания суда .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "милиционера"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "адвокатом"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "являющаяся"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "сторонников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "другими"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "\"Уже 40 годам нас предпринимаем различные попытки в этой областях , но давайте не смешивать нашу политика по отношению к России с проваленной политикой по отдалению к Кубе\" , - заявил Геджденсон .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "лет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "области"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "политику"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "мы"
+    },
+    {
+      "correctReplacement": "отношению",
+      "type": "paronym",
+      "wordNumber": 25
+    }
+  ]
+}

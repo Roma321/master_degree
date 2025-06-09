@@ -1,0 +1,20 @@
+{
+  "text": "Котировка Brent на барже в Сингапуре во вторник утром останусь на отметке 28 , 56 доллар за баррель .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "осталась"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "доллара"
+    },
+    {
+      "correctReplacement": "бирже",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

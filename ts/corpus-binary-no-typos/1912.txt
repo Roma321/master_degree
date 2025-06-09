@@ -1,0 +1,30 @@
+{
+  "text": "Несанкционированная передача информаций о пользователе происходила в тот момент , когда владелец почтового адреса на Hotmail открывавший письму , содержание рекламный баннер .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 19,
+      "correctReplacement": "содержащее"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "открывал"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "письмо"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "информации"
+    },
+    {
+      "correctReplacement": "содержимое",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

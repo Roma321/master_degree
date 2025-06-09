@@ -1,0 +1,25 @@
+{
+  "text": "Сбербанки открыл ОАО \"Русский алюминий\" кредитных линию на 200 миллионов долларов , соглашении об этом подписали в четверг председатель правления Сбербанка Андрей Казьмин и генеральные директор алюминиевого холдинга Олег Дерипаска .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "соглашение"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 0,
+      "correctReplacement": "Сбербанк"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "кредитную"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "генеральный"
+    }
+  ]
+}

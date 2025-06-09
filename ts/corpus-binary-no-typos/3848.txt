@@ -1,0 +1,20 @@
+{
+  "text": "В Израиль произвёдшее ДТП - автобус с американскими тинэйджерами столкнулся с армейской грузовиком .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "армейским"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Израиле"
+    },
+    {
+      "correctReplacement": "произошло",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "На место Вейцмана претендуем два основных кандидата : бывшего премьер-министр Израиля Шимон Пересе , предоставлявшийся левые партии , и Моше Кацав от блока правых партий \"Ликуд\" .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 3,
+      "correctReplacement": "претендуют"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 14,
+      "correctReplacement": "представляющий"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Перес"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "бывший"
+    },
+    {
+      "correctReplacement": "представлявший",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "В настоящих время правление состою из представителей потребительских организаторов , руководителей некоторых крупнейших торговых ассоциаций и ведущих компаний из числа занимающихся электронного коммерцией .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "электронной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "состоит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "настоящее"
+    },
+    {
+      "correctReplacement": "организаций",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

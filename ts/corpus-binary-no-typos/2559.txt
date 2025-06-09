@@ -1,0 +1,25 @@
+{
+  "text": "Кроме той , установлено , что из налогооблагаемой базы будет вычитаться взнос на благотворительность , но в размеру , не превышаемом 25 процентов от суммы годового доходом .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "того"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 20,
+      "correctReplacement": "превышающем"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "размере"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "дохода"
+    }
+  ]
+}

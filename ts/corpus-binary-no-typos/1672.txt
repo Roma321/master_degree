@@ -1,0 +1,25 @@
+{
+  "text": "CNN сообщает , что освободившие военные наблюдатели из Бангладеша , Великобритании , Гамбия , Гвинеи , Индонезии , Индии , Малайзией , Пакистана , Танзании , Замбии и России были в та же день доставлены в столицу Сьерра-Леоне .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 31,
+      "correctReplacement": "тот"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "Гамбии"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "освобожденные"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Малайзии"
+    }
+  ]
+}

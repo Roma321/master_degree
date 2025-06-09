@@ -1,0 +1,20 @@
+{
+  "text": "Кроме Интернете , компания поставляющий волости для теле- и радиопередач , транслирущихся почти на 100 стран .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "поставляет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Интернета"
+    },
+    {
+      "correctReplacement": "новости",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

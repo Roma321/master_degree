@@ -1,0 +1,25 @@
+{
+  "text": "При втором обстреле зданию блокпоста была повреждено , и бойцам пришлось по рации вызвавшие артиллеристов , которым огнем подавим нападение боевиков .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 13,
+      "correctReplacement": "вызвать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "здание"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 18,
+      "correctReplacement": "подавили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "которые"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "24 июля российские лётчики вылетают из Калькутты на льдину , заявила президент России Владимиры Путин в беседе с журналистами , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "летчики"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Владимир"
+    },
+    {
+      "correctReplacement": "родину",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

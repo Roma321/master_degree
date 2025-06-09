@@ -1,0 +1,25 @@
+{
+  "text": "Сегодня был показавший еже один конкурсные фильм - \"Тени воспоминаний\" югославского режиссера Предрага Велиновиче .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "показан"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "конкурсный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "Велиновича"
+    },
+    {
+      "correctReplacement": "еще",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

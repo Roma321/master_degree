@@ -1,0 +1,20 @@
+{
+  "text": "В Находкинском морском торговой порту арестован грузовой теплоходе Night Star , зарегистрированный под флагами Белиза .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "торговом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "теплоход"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "флагом"
+    }
+  ]
+}

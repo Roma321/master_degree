@@ -1,0 +1,20 @@
+{
+  "text": "В Москвы во вторник совершившее покушение на нерезидента Конфедерации народов Кавказа Юсупа Сосламбекова .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "совершено"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "Москве"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

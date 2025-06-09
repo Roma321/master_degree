@@ -1,0 +1,20 @@
+{
+  "text": "В настоящее время военные отрабатывали следующие версии катастрофы : неискренность редуктора , технические ошибок , перегрузки , столкновение с птицей и неисправность техники .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "отрабатывают"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "ошибки"
+    },
+    {
+      "correctReplacement": "неисправность",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Как сообщил Итар-тассом информированный источники в группировка внутренних войск , сепаратисты планируемые серию терактов на административных и военных объектах читинской столицы .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "группировке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "ИТАР-ТАСС"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "планируют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "источник"
+    },
+    {
+      "correctReplacement": "чеченской",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Накануне погожую стихийный митинг прошел в Крылатский - там толпа из нескольких сотен человек разломала бетонный забор вокруг стройки , начатой на местах детской площадки .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Крылатском"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "похожий"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "месте"
+    },
+    {
+      "correctReplacement": "похожую",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

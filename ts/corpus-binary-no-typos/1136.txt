@@ -1,0 +1,25 @@
+{
+  "text": "МВД России взяли под особое контроль раскрытие преступления , связанной с убийством генерального директора \"Уралмаша\" Олегом Белоненко и его водителя Владислава Яворского .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "особый"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "взяло"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "Олега"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "связанного"
+    }
+  ]
+}

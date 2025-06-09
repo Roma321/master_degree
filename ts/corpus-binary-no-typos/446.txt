@@ -1,0 +1,30 @@
+{
+  "text": "путинский суд высшей инстанции откажу в иске о размораживании счетов российских дипломатических представительств во Франции , арестуем 18 мая по требованию швейцарских фирмы Noga , передаёт РБК .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "арестованных"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 25,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 21,
+      "correctReplacement": "швейцарской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "отказал"
+    },
+    {
+      "correctReplacement": "Парижский",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

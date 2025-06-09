@@ -1,0 +1,30 @@
+{
+  "text": "Кроме того , сообщил Ивер , большинство депутатов от КПРФ проголосуют в среду против принятия четырех главков нового Налоговой кодекса России , которые являемся частью объявленной президент и правительством налоговой реформе .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 23,
+      "correctReplacement": "являются"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 18,
+      "correctReplacement": "Налогового"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "президентом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 30,
+      "correctReplacement": "реформы"
+    },
+    {
+      "correctReplacement": "глав",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

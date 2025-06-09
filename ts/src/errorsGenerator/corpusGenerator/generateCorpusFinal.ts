@@ -55,7 +55,7 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
             return results;
         };
 
-        const inputFiles = getAllFiles(inputDir);
+        const inputFiles = getAllFiles(inputDir).slice(0,4000);
 
         const limit = pLimit(2);
 
@@ -74,28 +74,28 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
 }
 
 const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-2';
-const outputDirectory = './corpus-final-2';
+const outputDirectory = './corpus-binary-no-typos';
 
-// writeCorpus(inputDirectory, outputDirectory);
+writeCorpus(inputDirectory, outputDirectory);
 
-async function statCorpus() {
-    const dirName = '/home/roman/projects/mag/ts/corpus-final'
-    const counter: Record<string, number> = {}
-    const files = fs.readdirSync(dirName, { withFileTypes: true });
-    console.log(files.length)
-    files.forEach(file => {
-        const text = fs.readFileSync(`${dirName}/${file.name}`, 'utf-8')
-        const corpusItem: CorpusItem = JSON.parse(text);
-        corpusItem.annotations.forEach(ann => {
-            if (!counter[ann.type]) {
-                counter[ann.type] = 0
-            }
+// async function statCorpus() {
+//     const dirName = '/home/roman/projects/mag/ts/corpus-final'
+//     const counter: Record<string, number> = {}
+//     const files = fs.readdirSync(dirName, { withFileTypes: true });
+//     console.log(files.length)
+//     files.forEach(file => {
+//         const text = fs.readFileSync(`${dirName}/${file.name}`, 'utf-8')
+//         const corpusItem: CorpusItem = JSON.parse(text);
+//         corpusItem.annotations.forEach(ann => {
+//             if (!counter[ann.type]) {
+//                 counter[ann.type] = 0
+//             }
 
-            counter[ann.type]++
-        })
-    });
+//             counter[ann.type]++
+//         })
+//     });
 
-    console.log(JSON.stringify(counter, null, 2))
-}
-
-statCorpus()
+//     console.log(JSON.stringify(counter, null, 2))
+// }
+// 
+// statCorpus()

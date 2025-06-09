@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщаешь Reuters , во вторник в Сенате США прошёл слушаниями по делу о нарушении закона об интеллектуального собственности компаниями Napster , MP3 . com и Gnutella .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "слушания"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "прошли"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 17,
+      "correctReplacement": "интеллектуальной"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    }
+  ]
+}

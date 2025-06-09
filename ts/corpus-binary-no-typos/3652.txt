@@ -1,0 +1,20 @@
+{
+  "text": "В ходе рабочей завтрака президент России и канцлер ФРГ \"подвели тоги сделанному\" в двусторонних отношениях со времени официального визита Владимира Путин в Берлин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "рабочего"
+    },
+    {
+      "correctReplacement": "итоги",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

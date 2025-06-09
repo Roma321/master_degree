@@ -1,0 +1,25 @@
+{
+  "text": "Власти Нижней Саксонии , которые выступают в роли хозяина всемирной выставки , ожидающие миллиардеров убытков , сообщает газеты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "ожидают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "газета"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "хозяев"
+    },
+    {
+      "correctReplacement": "миллиардных",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

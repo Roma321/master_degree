@@ -1,0 +1,40 @@
+{
+  "text": "Они считающие , что злоумышленники , прикрывавшись олимпийских символикой , зарабатывают деньги , обманывают людях и осуществляемые деятельность нелегального характера - все это порочит имя олимпийского движения , к тем же спортсменам от этих операций ничего не достается .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "олимпийской"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 29,
+      "correctReplacement": "тому"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 6,
+      "correctReplacement": "прикрываясь"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "осуществляют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "людей"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "считают"
+    },
+    {
+      "correctReplacement": "этих",
+      "type": "paronym",
+      "wordNumber": 33
+    }
+  ]
+}

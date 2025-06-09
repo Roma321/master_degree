@@ -1,0 +1,20 @@
+{
+  "text": "Увеличение стоимости рыбки экономист связываете с отменой льгот на железнодорожные перевозки .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "экономисты"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "связывают"
+    },
+    {
+      "correctReplacement": "рыбы",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

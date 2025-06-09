@@ -1,0 +1,30 @@
+{
+  "text": "Этого альянс особенно интересен на фоне разгорающегося юридического споров между Napster и гигантами музыкальной индустрии , которая обвиняющие компанию в пособничеству пиратам .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 20,
+      "correctReplacement": "пособничестве"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 17,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Этот"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "спора"
+    },
+    {
+      "correctReplacement": "которые",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

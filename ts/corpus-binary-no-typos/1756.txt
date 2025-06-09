@@ -1,0 +1,20 @@
+{
+  "text": "Неизвестных преступники несколько раз ударившие Домникова хоботком по голове в подъезде его дома .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "ударили"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Неизвестные"
+    },
+    {
+      "correctReplacement": "молотком",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

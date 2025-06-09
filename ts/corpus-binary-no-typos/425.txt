@@ -1,0 +1,20 @@
+{
+  "text": "У следователей есть вопросы и к виновников правительства Москвы , которые отвечали за строительства МКАД .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "строительство"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "чиновникам"
+    },
+    {
+      "correctReplacement": "чиновников",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

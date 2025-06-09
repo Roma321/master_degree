@@ -1,0 +1,25 @@
+{
+  "text": "Отставка Давида Леви вступит в силу спустя 48 часов после подач заявления , то ест на следующий день подле начал переговоров в Кэмп-Дэвиде , стартующих во вторник .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "подачи"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "есть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "начала"
+    },
+    {
+      "correctReplacement": "после",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Carnivore сканировал указываемые во всех проходящих письме адреса отправителей и получателя , а такое темы (поля \"subject\") и при обнаружении заданных ключевых слов копирует сообщения целиком для того , чтобы с их содержанием впоследствии ознакомились оперативные работники .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "письмах"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "сканирует"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "получателей"
+    },
+    {
+      "correctReplacement": "также",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

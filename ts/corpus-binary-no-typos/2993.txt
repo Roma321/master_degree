@@ -1,0 +1,30 @@
+{
+  "text": "Как отметили в аппарате , в бою орошье проявленные себя бойцы чеченской комендатура , которые не позволили боевиках занятые господствующие высоты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "проявили"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "занять"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "боевикам"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "комендатуры"
+    },
+    {
+      "correctReplacement": "хорошо",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

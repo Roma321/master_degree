@@ -1,0 +1,25 @@
+{
+  "text": "Российские спецслужбы проверяют версию о той , вто в период правлений Масхадова оружие и взрывчатые веществ доставлялись в Чечню в большегрузных спиртовозах .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "правления"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "вещества"
+    },
+    {
+      "correctReplacement": "что",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По словам заместителей главы президентского администрации Сергея Приходько , планировался препинание российско-китайского заявления по широкому кругу проблем .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "президентской"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 9,
+      "correctReplacement": "планируется"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "заместителя"
+    },
+    {
+      "correctReplacement": "подписание",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В Сбербанке по требованию МВФ каталось специальный финансовом обследование , которое проводит аудиторская фирма PricewaterhouseCoopers .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "специальное"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "финансовое"
+    },
+    {
+      "correctReplacement": "началось",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

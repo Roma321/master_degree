@@ -1,0 +1,25 @@
+{
+  "text": "В воскресенья в Иокогаме состоялся консервация ICANN (Internet Corporation for Assigned Names and Numbers) - организации , контролирующей распределение доменного имен .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 19,
+      "correctReplacement": "доменных"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "воскресенье"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "состоялась"
+    },
+    {
+      "correctReplacement": "конференция",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

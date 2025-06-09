@@ -1,0 +1,30 @@
+{
+  "text": "В среду наши сборная встречается с олимпийскими чемпионами - голландцем , не одержанными на турнире пока ни одну помехи .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "наша"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "одержавшими"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "одной"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "голландцами"
+    },
+    {
+      "correctReplacement": "победы",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

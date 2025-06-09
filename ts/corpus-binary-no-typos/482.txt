@@ -1,0 +1,20 @@
+{
+  "text": "Помимо торговли наркотиками , его подозревают в убийстве при отягчающих обстоятельствах , похищении людей , попытке вооруженного ограбления , нападении на торговое точке и других злодеянии .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "торговую"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "злодеяниях"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "точку"
+    }
+  ]
+}

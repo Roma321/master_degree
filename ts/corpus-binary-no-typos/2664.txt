@@ -1,0 +1,35 @@
+{
+  "text": "Вирусом , известный под названием Stages , не разрушает файлы , но размножает себя бесконечно , поэтому под влиянием значительно возросшей потоке почтовых сообщений , создающих вирусом для своему переноса с машины на машину , почтовые серверов зараженных компаний могут замедлить свою работу или даже вовсе перестать работать .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 21,
+      "correctReplacement": "потока"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "своего"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Вирус"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 36,
+      "correctReplacement": "сервера"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 25,
+      "correctReplacement": "создаваемых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 20,
+      "correctReplacement": "возросшего"
+    }
+  ]
+}

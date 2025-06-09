@@ -1,0 +1,20 @@
+{
+  "text": "19 процентах пользователей имеют дебетовые карточки , позволяющие снимающие деньги в банкоматах и осуществлять некоторые планеты .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 8,
+      "correctReplacement": "снимать"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "процентов"
+    },
+    {
+      "correctReplacement": "платежи",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

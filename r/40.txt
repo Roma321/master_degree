@@ -1,0 +1,15 @@
+{
+  "text": "Одни говорим , что слыштли разговоры на рынке , другие - в автобусе и так далее .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "говорят"
+    }
+    {
+      "correctReplacement": "слышали",
+      "type": "typo",
+      "wordNumber": 4
+    }
+  ]
+}

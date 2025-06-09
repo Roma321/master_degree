@@ -1,0 +1,20 @@
+{
+  "text": "Министр обороны Игорь Сергеев и начальник Генерального штаб Анатолий Квашнин в воскресающее утром в срочной порядке вылетели в Сочи .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "штаба"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 14,
+      "correctReplacement": "срочном"
+    },
+    {
+      "correctReplacement": "воскресенье",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

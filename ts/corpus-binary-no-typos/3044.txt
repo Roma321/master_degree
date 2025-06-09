@@ -1,0 +1,45 @@
+{
+  "text": "Высокопоставленная американский представитель , пожелаю остаться неназванным , скептически отнёсшийся к слову Владимира Путиных о том , что Северная Корея готова отказаться от своих планов по развитию военную ракетной программы ради мирного освоения космоса , передаю турагентство Reuters .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 27,
+      "correctReplacement": "военной"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "отнесся"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 4,
+      "correctReplacement": "пожелавший"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Высокопоставленный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "Путина"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 35,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "словам"
+    },
+    {
+      "correctReplacement": "агентство",
+      "type": "paronym",
+      "wordNumber": 36
+    }
+  ]
+}

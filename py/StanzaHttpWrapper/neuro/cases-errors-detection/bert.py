@@ -24,10 +24,6 @@ model = BertForTokenClassification.from_pretrained(
     num_labels=len(label_list)
 )
 
-'''
-django.db.utils.OperationalError: connection to server at "172.17.0.1", port 5432 failed: FATAL:  no pg_hba.conf entry for host "172.17.0.3", user "postgres", database "pscprep", SSL encryption
-connection to server at "172.17.0.1", port 5432 failed: FATAL:  no pg_hba.conf entry for host "172.17.0.3", user "postgres", database "pscprep", no encryption
-'''
 
 data_collator = DataCollatorForTokenClassification(tokenizer)
 
@@ -50,3 +46,4 @@ trainer = Trainer(
 )
 
 trainer.train()
+trainer.save_model("./my_bert_classifier")

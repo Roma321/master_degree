@@ -1,0 +1,25 @@
+{
+  "text": "Представители компании уверяете , что собравшие всю нефть в течение 10 дней , но международные экспертами относятся к этим с большим сомнением .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "соберут"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "уверяют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "этому"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 15,
+      "correctReplacement": "эксперты"
+    }
+  ]
+}

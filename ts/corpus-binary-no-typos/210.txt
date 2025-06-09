@@ -1,0 +1,30 @@
+{
+  "text": "На лозинскую сессии ежегодной саммита ABA , которая пройдет 17 июля , ожидаются выступления лидерах индустрии с комментариях к предложениям , которые сделаны в отчета ABA .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "лидеров"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "лондонской"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "комментариями"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "ежегодного"
+    },
+    {
+      "correctReplacement": "лондонскую",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "По оловам источника , доходит дело до тем , что поставщики отказывались отгружающие свой продукцию (в том числе продовольствие) в долг и в массовом порядке обращаются в арбитражные суды .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "отгружать"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 13,
+      "correctReplacement": "свою"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 11,
+      "correctReplacement": "отказываются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "словам",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Главный военная коммерсанты Чечни генерал-лейтенант Иваны Бабичев опроверг сообщения об обстреле колонны федеральных сил в районе Самашкинского леса .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 1,
+      "correctReplacement": "военный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "комендант"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "Иван"
+    },
+    {
+      "correctReplacement": "коменданты",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

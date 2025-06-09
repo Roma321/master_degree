@@ -1,0 +1,20 @@
+{
+  "text": "Эта ракета , способная поражать цели на расстояние до 1300 милями на скоростей 4320 км/ч , поднимающий в воздух боеголовку весом в одну тонну .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "поднимает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "скорости"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "миль"
+    }
+  ]
+}

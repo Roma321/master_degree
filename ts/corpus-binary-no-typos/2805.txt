@@ -1,0 +1,25 @@
+{
+  "text": "Пользователь онлайнового магазина , щёлкнутые по знаку , сможет ознакомиться с тербованией и правилами , которые продавца обязался выполнять , приняв участие в системе TrustUK , и , конечно же , сообщённые в случае нарушений .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "щелкнув"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "тербованиями"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 31,
+      "correctReplacement": "сообщить"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "продавец"
+    }
+  ]
+}

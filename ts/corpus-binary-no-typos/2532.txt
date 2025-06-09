@@ -1,0 +1,25 @@
+{
+  "text": "Генпрокуратуре РФ наложила аресты на имущество Владимира Гусинского , сообщившие адвокаты медиа-магната Павел Астахов и Генри темник .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "арест"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Генпрокуратура"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 9,
+      "correctReplacement": "сообщили"
+    },
+    {
+      "correctReplacement": "Резник",
+      "type": "paronym",
+      "wordNumber": 16
+    }
+  ]
+}

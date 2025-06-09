@@ -1,5 +1,8 @@
 import { countBy, groupBy, uniq } from 'lodash'
 import fs from 'fs/promises';
+import { TextError, TextWithErrors } from '../errorsGenerator/types';
+import { CorpusItem } from '../errorsGenerator/corpusGenerator/generateSentencesWithError';
+import path from 'path';
 
 interface Annotation {
     start: number;
@@ -96,5 +99,123 @@ async function saveOnlyCaseErrors(dir: string) {
         fs.writeFile(`${dir}/correct/${idx}.txt`, sentencePartsButCorrect.join(' '))
     });
 }
-parse()
-// saveOnlyCaseErrors('/home/roman/projects/mag/corpus/rozovskaya-case-errors')
+
+async function binaryClassification(dir: string) {
+    const allSentences = await parse();
+    // const data = allSentences.map(s => ({
+    //     text: s.text,
+    //     label: s.annotations.length ? 'incorrect' : 'correct'
+    // }))
+    const data = [];
+    // fs.writeFile(path.join(dir, 'corpus.json'), JSON.stringify(data, null, 2));
+    const corpusFiles = await fs.readdir('/home/roman/projects/mag/ts/corpus-final')
+    let totalIncorrectCount = 0
+    let totalCorrectCount = 0;
+
+    for (const file of corpusFiles) {
+        const readFile = path.join('/home/roman/projects/mag/ts/corpus-final', file);
+        const text = await fs.readFile(readFile, 'utf-8');
+        const item = JSON.parse(text) as CorpusItem
+        if (item.annotations.length) {
+            totalIncorrectCount++;
+            if (totalIncorrectCount > 1000) {
+                continue
+            }
+        } else {
+            totalCorrectCount++;
+            if (totalCorrectCount > 1000) {
+                continue
+            }
+        }
+        data.push({
+            text: item.text,
+            label: item.annotations.length ? 'incorrect' : 'correct'
+        });
+    }
+
+    // const corpusFiles2 = await fs.readdir('/home/roman/projects/mag/ts/corpus-final-2')
+    // for (const file of corpusFiles2) {
+    //     const readFile = path.join('/home/roman/projects/mag/ts/corpus-final-2', file);
+    //     const text = await fs.readFile(readFile, 'utf-8');
+    //     const item = JSON.parse(text) as CorpusItem
+    //     !item.annotations.length && data.push({
+    //         text: item.text,
+    //         label: 'correct'
+    //     });
+    // }
+
+    console.log(
+        data.filter(it => it.label === 'correct').length,
+        data.filter(it => it.label === 'incorrect').length,
+    )
+
+    fs.writeFile(path.join(dir, 'corpus-3.json'), JSON.stringify(data, null, 2));
+
+
+
+}
+
+async function saveNewFormatErrors(dir: string) {
+    const allSentences = await parse();
+    //"Voice", "paronym", "typo", "Number", "Gender", "Tense", "Case", "Person"
+    const rozovskayaToMeMap: Record<string, string | null> = {
+        'Орфография': 'typo',
+        'Сущ.:Падеж': 'Case',
+        'Прил.:Падеж': 'Case',
+        'Союз': null,
+        'Лексика:морф.': null,
+        'Заменить': 'paronym',
+        'Сущ.:Род': 'Gender',
+        'Сущ.:Число': 'Number',
+        'Вставить': 'ESCAPE',
+        'Глагол:Др.': 'ESCAPE',
+        'Убрать': 'ESCAPE',
+        'Глагол:Вид': null,
+        'Лексика:замена': 'paronym',
+        'Местоимение': null,
+        'Параллель': null,
+        'Глагол:Залог': 'Voice',
+        'Предлог': null,
+        'Обр.параллель': 'ESCAPE',
+        'Глагол:Число/Лицо': 'Person',
+        'Прил.:Число': 'Number',
+        'Глагол:Время': 'Tense',
+        'Прил.:Род': 'Gender',
+        'Прил.:Др.': null,
+        'Калька': null
+    }
+    allSentences.forEach((sentence, idx) => {
+        const sentenceParts = sentence.text.split(' ');
+        const resultAnnotations: TextError[] = []
+        // const sentencePartsButCorrect = [...sentenceParts]
+        if (sentence.annotations.some(ann => rozovskayaToMeMap[ann.errorType] === 'ESCAPE' || ann.end - ann.start !== 1)) return;
+        sentence.annotations.forEach(annotation => {
+            // if (annotation.end - annotation.start !== 1) return //TODO
+            // sentencePartsButCorrect[annotation.start] = annotation.correction
+
+
+            // if (annotation.errorType.toLocaleLowerCase().includes('падеж')) return
+            if (rozovskayaToMeMap[annotation.errorType]) {
+                resultAnnotations.push({
+                    wordNumber: annotation.start,
+                    type: rozovskayaToMeMap[annotation.errorType]!,
+                    correctReplacement: ''
+                })
+            } else {
+                sentenceParts[annotation.start] = annotation.correction
+            }
+
+        });
+
+        const corpusItem: CorpusItem = {
+            annotations: resultAnnotations,
+            text: sentenceParts.join(' ')
+        }
+
+        fs.writeFile(`${dir}/2-file_${idx}.txt`, JSON.stringify(corpusItem, null, 2))
+    });
+}
+
+binaryClassification('/home/roman/projects/mag/ts/corpus-only-binary-classification')
+// parse()
+// saveNewFormatErrors('/home/roman/projects/mag/ts/test-final')

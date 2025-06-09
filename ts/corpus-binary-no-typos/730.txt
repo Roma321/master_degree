@@ -1,0 +1,20 @@
+{
+  "text": "Отсутствие погибших и относительный малое количества пострадавших объясняется тем , что теракт был осуществлён в очень рано - в 6 : 30 утра .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "количество"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 13,
+      "correctReplacement": "осуществлен"
+    },
+    {
+      "correctReplacement": "относительно",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "В результате компания понесли убытки в 500 миллионов докладов , замеченный глава РАО ЕЭС .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "понесла"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "заметил"
+    },
+    {
+      "correctReplacement": "долларов",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Сегодня стало известно , что в столице , в общей сложности , 4 , 1 миллиона номеров уже оборудовавшие истомами повременного учета разговоры .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 22,
+      "correctReplacement": "разговоров"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 18,
+      "correctReplacement": "оборудованы"
+    },
+    {
+      "correctReplacement": "системами",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

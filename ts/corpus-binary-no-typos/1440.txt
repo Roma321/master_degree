@@ -1,0 +1,15 @@
+{
+  "text": "Головной автобус колонны столкнулся с легковому автомобильным .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "легковым"
+    },
+    {
+      "correctReplacement": "автомобилем",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

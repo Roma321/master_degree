@@ -1,0 +1,25 @@
+{
+  "text": "Как сообщающий UA Today , огнем частично повредившие фасад ресторан , тронная рама и витрина .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "ресторана"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "повреждены"
+    },
+    {
+      "correctReplacement": "оконная",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Как передаваемый РИА \"Новости\" , в пятницу парламентарии без долгого дискуссий переголосовали принятый ими 5 июля , а позже отклоненный президентом загон о внесениях поправок в конституцию , превращающий Молдавию в парламентскую республику .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 1,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "долгих"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 23,
+      "correctReplacement": "внесении"
+    },
+    {
+      "correctReplacement": "закон",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

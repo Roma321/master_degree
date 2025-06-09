@@ -1,0 +1,15 @@
+{
+  "text": "Врачами сообщавшие , что сбежавшие пациенты представляют опасность для населения .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Врачи"
+    },
+    {
+      "correctReplacement": "сообщили",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

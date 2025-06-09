@@ -13,7 +13,7 @@ const PARONYM = 'paronym';
 export async function generateDifferentErrors(text: string) {
     const errors = []
     if (Math.random() * 10 > 0) errors.push(MORPH); //сликшом часто не получается ошибки
-    if (Math.random() * 10 > 7) errors.push(TYPO);
+    // if (Math.random() * 10 > 7) errors.push(TYPO);
     if (Math.random() * 10 > 6) errors.push(PARONYM);
     const res: CorpusItem = {
         text: normalizeSpacesAroundPunctuation(text),

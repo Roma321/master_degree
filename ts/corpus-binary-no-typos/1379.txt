@@ -1,0 +1,20 @@
+{
+  "text": "В Амурской области введён чрезвычайная ситуация в связи с длительной заслугой , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "введена"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "засухой",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

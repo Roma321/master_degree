@@ -1,0 +1,25 @@
+{
+  "text": "Тюменское жестяная компания признана победитель конкурса по приобретениям 67 , 41 процента акций Лисичанского НПЗ (ЛИНОС , Украина) , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 0,
+      "correctReplacement": "Тюменская"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "приобретению"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "победителем"
+    },
+    {
+      "correctReplacement": "нефтяная",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "В настоящий момент зарегистрированы четырьмя кандидат : школьного учитель Сафонова , юрист муниципалитета Чеснокова , профессор Воронцовы , а также находящий под стражей депутат городского законодательного собрания Юрий Шутов , который обвиняется в серии громких заказных убийств и дезорганизации банды .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "школьный"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "кандидата"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "четыре"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "Воронцов"
+    },
+    {
+      "correctReplacement": "организации",
+      "type": "paronym",
+      "wordNumber": 38
+    }
+  ]
+}

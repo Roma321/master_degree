@@ -1,0 +1,25 @@
+{
+  "text": "В документе говорящийся о готовности России и США работать вместе рад новому механизмом , дополняющим режим контроля над распространением ракетные технологий .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "говорится"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "новым"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 19,
+      "correctReplacement": "ракетных"
+    },
+    {
+      "correctReplacement": "над",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

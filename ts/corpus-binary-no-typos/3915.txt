@@ -1,0 +1,25 @@
+{
+  "text": "Финальный матч Кубке дэвида пройдет в конце осени в Австралии , что даёт спортсмену Зеленого континента прекрасный шанс второй год подряд завоевать \"Серебряную салатницу\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 2,
+      "correctReplacement": "Кубка"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 12,
+      "correctReplacement": "дает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "спортсменам"
+    },
+    {
+      "correctReplacement": "Дэвиса",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

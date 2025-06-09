@@ -1,0 +1,35 @@
+{
+  "text": "Билл Клинтон на специальных церемонии в Белом домах в четверг объявил о нормализации торговых отношений между США и Вьетнамом , которые были подорвавшие из-за Вьетнамской войну , а также о согласии двух стран зафиксировать эго в специальном торговом соглашении , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 7,
+      "correctReplacement": "доме"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "подорваны"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 25,
+      "correctReplacement": "войны"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 40,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "специальной"
+    },
+    {
+      "correctReplacement": "это",
+      "type": "paronym",
+      "wordNumber": 34
+    }
+  ]
+}

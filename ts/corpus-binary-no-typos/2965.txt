@@ -1,0 +1,30 @@
+{
+  "text": "Премьер-министр Испании Хосе Мария Аcнарах , находящийся с визитом в Мавритании , заявивший , что террористам не удамся поверяющие страх в испанской обществе .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 21,
+      "correctReplacement": "испанском"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 12,
+      "correctReplacement": "заявил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 4,
+      "correctReplacement": "Аcнар"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 17,
+      "correctReplacement": "удастся"
+    },
+    {
+      "correctReplacement": "посеять",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

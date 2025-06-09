@@ -1,0 +1,25 @@
+{
+  "text": "Путин не разделял опасений в той , что \"слишком ретивое исполнение задачек по наведению порядок приведет к \"закручиванию гаек\" .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 2,
+      "correctReplacement": "разделяет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 14,
+      "correctReplacement": "порядка"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "том"
+    },
+    {
+      "correctReplacement": "задач",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "По последним данным мпс , движению поездов на аварийном участках восстановлена , сообщает РБК .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "участке"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "движение"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "восстановлено"
+    },
+    {
+      "correctReplacement": "МЧС",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

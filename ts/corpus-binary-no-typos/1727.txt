@@ -1,0 +1,20 @@
+{
+  "text": "По версии израильского стороны , драму спровоцировал палестинец , который пытался поцеловавшие еврейскую девушку .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 2,
+      "correctReplacement": "израильской"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "поцеловать"
+    },
+    {
+      "correctReplacement": "драку",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

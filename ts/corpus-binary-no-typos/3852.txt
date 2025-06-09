@@ -1,0 +1,25 @@
+{
+  "text": "Водитель автобуса говоришь , что направил машину в кювет , чтобы избежавшие лобового столкновение с грузовиком , который выезжавший на встречную полосу .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 11,
+      "correctReplacement": "избежать"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 2,
+      "correctReplacement": "говорит"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 13,
+      "correctReplacement": "столкновения"
+    },
+    {
+      "correctReplacement": "выехал",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

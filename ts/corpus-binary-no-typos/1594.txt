@@ -1,0 +1,25 @@
+{
+  "text": "В период проведения фестиваля , с 15 по 23 июня , главное зал Дворца спорта превратится в гигантские пивной ресторан , рассчитавший на 900 человек .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 11,
+      "correctReplacement": "главный"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 17,
+      "correctReplacement": "гигантский"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "рассчитанный"
+    },
+    {
+      "correctReplacement": "июля",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

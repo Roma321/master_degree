@@ -1,0 +1,20 @@
+{
+  "text": "Группа видных российских юристов обратилось с открытым письмом к председателю Верховных суда РФ Вячеславу жебелевшему .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "обратилась"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "Верховного"
+    },
+    {
+      "correctReplacement": "Лебедеву",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

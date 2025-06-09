@@ -1,0 +1,20 @@
+{
+  "text": "В московском метро уже в будущем году появлюсь поезд , вагонами которого будут складываться на оворитах гармошкой .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 7,
+      "correctReplacement": "появится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "вагоны"
+    },
+    {
+      "correctReplacement": "поворотах",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

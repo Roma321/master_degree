@@ -1,0 +1,30 @@
+{
+  "text": "Как уже сообщившее , биржи Лондона и Франкфурта также ведёт дело к слияние , которое должны завершиться к концу года .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "должно"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "слиянию"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 9,
+      "correctReplacement": "ведут"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщалось"
+    },
+    {
+      "correctReplacement": "сообщавшееся",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

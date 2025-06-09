@@ -1,0 +1,35 @@
+{
+  "text": "МВД Португалии по этому поводу вынуждена было объяснять , что ситуация с преступностями в больших городах очень тревожная , и что обокравшие в Португалии могут кого угодно , даже претенденту , передаёт \"Эхо Москвы\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 29,
+      "correctReplacement": "президента"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 5,
+      "correctReplacement": "вынуждено"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "обокрасть"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 31,
+      "correctReplacement": "передает"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 12,
+      "correctReplacement": "преступностью"
+    },
+    {
+      "correctReplacement": "президенту",
+      "type": "paronym",
+      "wordNumber": 29
+    }
+  ]
+}

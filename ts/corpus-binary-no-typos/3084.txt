@@ -1,0 +1,25 @@
+{
+  "text": "Президент США Билл Клинтон связалось в среду по телефону с рядом фидеров ближневосточных стран , чтобы поставленные их в известность о ситуации на проходимых в Кемп-Дэвиде переговорах между Эхудом Бараком и Ясиром Арафатом .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "поставить"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 4,
+      "correctReplacement": "связался"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 23,
+      "correctReplacement": "проходящих"
+    },
+    {
+      "correctReplacement": "лидеров",
+      "type": "paronym",
+      "wordNumber": 11
+    }
+  ]
+}

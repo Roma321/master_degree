@@ -1,0 +1,25 @@
+{
+  "text": "Председателю Федеральной резервной системе США Алану Гринспэну в этом году было особенно сложно судить о той , насколько выросла производительность экономики США и насколько переменившие акции технологических компаний .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 24,
+      "correctReplacement": "переоценены"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "том"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "системы"
+    },
+    {
+      "correctReplacement": "переоценившие",
+      "type": "paronym",
+      "wordNumber": 24
+    }
+  ]
+}

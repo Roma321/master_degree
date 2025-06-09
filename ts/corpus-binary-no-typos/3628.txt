@@ -1,0 +1,25 @@
+{
+  "text": "На разобьюсь вертолете находилась часть сборной вкс по парашютной спорту - 16 человека , среди которых шестеро женщин .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "человек"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 1,
+      "correctReplacement": "разбившемся"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "парашютному"
+    },
+    {
+      "correctReplacement": "ВВС",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

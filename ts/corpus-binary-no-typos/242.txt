@@ -1,0 +1,20 @@
+{
+  "text": "А вот вспомогательный рейтинг , учитывающий выступление игроков на прохождении последних 52 недели , возглавляют Андре Агасси .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "недель"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 14,
+      "correctReplacement": "возглавляет"
+    },
+    {
+      "correctReplacement": "протяжении",
+      "type": "paronym",
+      "wordNumber": 9
+    }
+  ]
+}

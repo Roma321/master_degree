@@ -1,0 +1,25 @@
+{
+  "text": "Главной сенсацией минувшего воскресений стало заявление о выходе из правящего коалиции религиозной партии ШАС , представленной в правительздве четырёх министрами .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 9,
+      "correctReplacement": "правящей"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "воскресенья"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "четырьмя"
+    },
+    {
+      "correctReplacement": "правительстве",
+      "type": "typo",
+      "wordNumber": 17
+    }
+  ]
+}

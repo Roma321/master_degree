@@ -1,0 +1,20 @@
+{
+  "text": "Microsoft утверждает , что эта проблема широко распространён в бесплатных бортовые сервисах и что корпорация работает сейчас над ее устранением .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 10,
+      "correctReplacement": "почтовых"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "распространена"
+    },
+    {
+      "correctReplacement": "почтовые",
+      "type": "paronym",
+      "wordNumber": 10
+    }
+  ]
+}

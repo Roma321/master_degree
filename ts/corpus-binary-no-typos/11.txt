@@ -1,0 +1,20 @@
+{
+  "text": "Подследственных пригрозили , что начнут бить скотные стекла , если условия содержания не будут улучшены , сообщаемый РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Подследственные"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "correctReplacement": "оконные",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

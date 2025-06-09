@@ -1,0 +1,25 @@
+{
+  "text": "С четверга указами претендента Таджикистана Эмомали Рахмоновая приостановлена деятельности казино на всей территории республики .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 8,
+      "correctReplacement": "деятельность"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 2,
+      "correctReplacement": "указом"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "Рахмонова"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

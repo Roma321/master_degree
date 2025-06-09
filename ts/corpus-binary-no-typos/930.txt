@@ -1,0 +1,35 @@
+{
+  "text": "Доступ к данным , предоставляемым Carnivore , бак и к самого структуре системы , имеем только сотрудник ФБР - провайдер не могу вмешивающиеся в этот процесс .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "сотрудники"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 21,
+      "correctReplacement": "может"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 14,
+      "correctReplacement": "имеют"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 22,
+      "correctReplacement": "вмешиваться"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 10,
+      "correctReplacement": "самой"
+    },
+    {
+      "correctReplacement": "как",
+      "type": "paronym",
+      "wordNumber": 7
+    }
+  ]
+}

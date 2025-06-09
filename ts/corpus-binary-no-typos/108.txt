@@ -1,0 +1,30 @@
+{
+  "text": "Глава государства поручивший лакомства , ответственным за это , в частности финансовым блоку , \"безусловно выполнить\" указы президента .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "поручил"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "указ"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "ведомствам"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "финансовому"
+    },
+    {
+      "correctReplacement": "ведомства",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

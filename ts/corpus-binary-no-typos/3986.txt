@@ -1,0 +1,20 @@
+{
+  "text": "како сообщаю BBC News , инцидент случилось в Бредфорде .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 1,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 6,
+      "correctReplacement": "случился"
+    },
+    {
+      "correctReplacement": "Как",
+      "type": "paronym",
+      "wordNumber": 0
+    }
+  ]
+}

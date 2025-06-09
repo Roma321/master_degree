@@ -1,0 +1,20 @@
+{
+  "text": "Допроса продолжался боле трех часов , передаёт РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Допрос"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "передает"
+    },
+    {
+      "correctReplacement": "более",
+      "type": "paronym",
+      "wordNumber": 2
+    }
+  ]
+}

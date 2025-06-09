@@ -1,0 +1,15 @@
+{
+  "text": "Сейчас акциям \"Газпрома\" котируются по ценам 7 , 7 рубля .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 1,
+      "correctReplacement": "акции"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 5,
+      "correctReplacement": "цене"
+    }
+  ]
+}

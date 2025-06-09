@@ -1,0 +1,20 @@
+{
+  "text": "По сообщению РИА \"Новости\" , на место происшествия прибыли нарядах милиций , супер и другие службы .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 10,
+      "correctReplacement": "милиции"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "наряды"
+    },
+    {
+      "correctReplacement": "саперы",
+      "type": "paronym",
+      "wordNumber": 12
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "text": "Несмотря на поражение , россияне сохраняют шансы на победу в турнире : по регламенту команды сначала проведут однокруговой турнир , а заем две лучшие сборные сыграли матче за первое место .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 25,
+      "correctReplacement": "сыграют"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 26,
+      "correctReplacement": "матч"
+    },
+    {
+      "correctReplacement": "затем",
+      "type": "paronym",
+      "wordNumber": 21
+    }
+  ]
+}

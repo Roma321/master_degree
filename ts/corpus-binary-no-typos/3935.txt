@@ -1,0 +1,25 @@
+{
+  "text": "Согласно исследованиям Международного телекоммуникационного союза , в Великобритании на каждые 100 человек прихожусь 30 компьютеров , а в таких странах , как , например , Малави , один компьютером приходился , в среднем , на десять тысяч человек .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "исследованию"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 29,
+      "correctReplacement": "приходится"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 12,
+      "correctReplacement": "приходится"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "компьютер"
+    }
+  ]
+}

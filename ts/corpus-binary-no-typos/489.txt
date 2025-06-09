@@ -1,0 +1,25 @@
+{
+  "text": "Однако , если прокуратурой придерживается иной точек зрения , предлагает рассмотренные вопрос в ходе учебного разбирательства в арбитражном процессе .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "прокуратура"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 10,
+      "correctReplacement": "рассмотреть"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "точки"
+    },
+    {
+      "correctReplacement": "судебного",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

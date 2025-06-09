@@ -1,0 +1,25 @@
+{
+  "text": "Согласно документу , руководитель исполнительной власти регионов назначающий представителя в Совет Федерация и в трехдневный срок сообщаю о своем решении в законодательный орган .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "региона"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 7,
+      "correctReplacement": "назначает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 16,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "Федерации"
+    }
+  ]
+}

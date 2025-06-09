@@ -1,0 +1,20 @@
+{
+  "text": "Судном пришло в Брест по приглашению франкских властей для участия в регате по случаю Дня взятий Бастилии .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 15,
+      "correctReplacement": "взятия"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 0,
+      "correctReplacement": "Судно"
+    },
+    {
+      "correctReplacement": "французских",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

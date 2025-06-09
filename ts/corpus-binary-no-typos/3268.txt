@@ -1,0 +1,30 @@
+{
+  "text": "Теперь в четвертьфинале Николай сыгравший с малоизвестными немецкой теннисистом Томасом Бехрендом , который во втором крутом переиграю аргентинца Сержио Ройтмана (7 : 6 , 6 : 2) .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 7,
+      "correctReplacement": "немецким"
+    },
+    {
+      "type": "Tense",
+      "wordNumber": 16,
+      "correctReplacement": "переиграл"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 4,
+      "correctReplacement": "сыграет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "малоизвестным"
+    },
+    {
+      "correctReplacement": "круге",
+      "type": "paronym",
+      "wordNumber": 15
+    }
+  ]
+}

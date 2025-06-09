@@ -1,0 +1,30 @@
+{
+  "text": "Заложников отпустили потому , что совет вождям Фиджи отказалось назначить нового президента и премьерное правительство страны , если организатор переворота Джордж Спейт не отпустит все пленника .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 8,
+      "correctReplacement": "отказался"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 25,
+      "correctReplacement": "пленников"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 6,
+      "correctReplacement": "вождей"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 24,
+      "correctReplacement": "всех"
+    },
+    {
+      "correctReplacement": "временное",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

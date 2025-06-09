@@ -1,0 +1,25 @@
+{
+  "text": "По его словам , лечение для челомеев будет бесплатным , за счёт средств Федерального фонда обязательной медицинских страхования .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "медицинского"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "обязательного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "счет"
+    },
+    {
+      "correctReplacement": "людей",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

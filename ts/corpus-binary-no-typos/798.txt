@@ -1,0 +1,25 @@
+{
+  "text": "В результатах стараниями президентов США , тянувшего Арафата на себе , и премьера Израиля , толкавшего его в спину , участия саммита смогли попасть внутрь павильона .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 9,
+      "correctReplacement": "себя"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 1,
+      "correctReplacement": "результате"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 3,
+      "correctReplacement": "президента"
+    },
+    {
+      "correctReplacement": "участники",
+      "type": "paronym",
+      "wordNumber": 20
+    }
+  ]
+}

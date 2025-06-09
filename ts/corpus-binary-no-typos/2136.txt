@@ -1,0 +1,20 @@
+{
+  "text": "\"В интересах проводимого мною расследования обращаюсь к вам с просьбой сообщить , существует ли или существовал в вашем банковским учреждении счет на имя Ost-West Handelsbank AG или какой-либо иную организации , открытый для осуществления указанных операций .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 18,
+      "correctReplacement": "банковском"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 28,
+      "correctReplacement": "иной"
+    },
+    {
+      "correctReplacement": "иную",
+      "type": "paronym",
+      "wordNumber": 28
+    }
+  ]
+}

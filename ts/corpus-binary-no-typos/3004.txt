@@ -1,0 +1,20 @@
+{
+  "text": "Наряду с плюсами для экологии очевидны и экономические выгоды : сокращаетесь затрат на пенкин и на эксплуатацию транспортных средств .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 10,
+      "correctReplacement": "сокращаются"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 11,
+      "correctReplacement": "затраты"
+    },
+    {
+      "correctReplacement": "бензин",
+      "type": "paronym",
+      "wordNumber": 13
+    }
+  ]
+}

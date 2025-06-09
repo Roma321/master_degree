@@ -1,0 +1,20 @@
+{
+  "text": "В борьбе с огнем было подействовавшее 17 пожарных машины .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 8,
+      "correctReplacement": "машин"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "задействовано"
+    },
+    {
+      "correctReplacement": "задействовавшее",
+      "type": "paronym",
+      "wordNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Сейчас в Интернете , как сообщающий Associated Press , около 700 сайтов , предоставляющих толкователю возможность игравшие в азартные игры , а оборот в этих сфере бизнеса возрастёшь , по мнению аналитиков , от 1 , 1 миллиарда долларов в 1999 году до трех миллиардам долларов в 2002 году .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 16,
+      "correctReplacement": "играть"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 27,
+      "correctReplacement": "возрастет"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "этой"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 5,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 44,
+      "correctReplacement": "миллиардов"
+    },
+    {
+      "correctReplacement": "пользователю",
+      "type": "paronym",
+      "wordNumber": 14
+    }
+  ]
+}

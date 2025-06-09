@@ -1,0 +1,20 @@
+{
+  "text": "Как сообщает BBC News , Шарифа обвиняет в том , что в середине 90-х годов он купила вертолет за миллион долларов , но не отразили этого в налоговой декларации и не заплатил налоги .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "обвиняют"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 24,
+      "correctReplacement": "отразил"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 16,
+      "correctReplacement": "купил"
+    }
+  ]
+}

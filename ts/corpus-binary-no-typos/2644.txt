@@ -1,0 +1,20 @@
+{
+  "text": "Вакансия образовалась после той , как Сергея Степашина , бывшегодепутатом от этого округа , назначенные председателем счетнойпалаты при президенте РФ .",
+  "annotations": [
+    {
+      "type": "Voice",
+      "wordNumber": 14,
+      "correctReplacement": "назначили"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "того"
+    },
+    {
+      "correctReplacement": "той",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

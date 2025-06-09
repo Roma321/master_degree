@@ -1,0 +1,25 @@
+{
+  "text": "124 заключенных корпуса предварительной заключения таллинской тюрьмы в понедельник начали голодовку в знак протеста против жары и духоты в кометах , вызвавших неполадкой в системе вентиляции .",
+  "annotations": [
+    {
+      "type": "Gender",
+      "wordNumber": 3,
+      "correctReplacement": "предварительного"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 22,
+      "correctReplacement": "неполадками"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 21,
+      "correctReplacement": "вызванных"
+    },
+    {
+      "correctReplacement": "камерах",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

@@ -31,7 +31,6 @@ class GrammarDataset(Dataset):
                 "input_ids": tokenized["input_ids"],
                 "attention_mask": tokenized["attention_mask"],
                 "labels": aligned_labels,
-                "text": data["text"]
             })
 
     def __len__(self):

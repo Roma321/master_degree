@@ -1,0 +1,20 @@
+{
+  "text": "Сейчас на территории республики насчитываешься четыре казино : два в Душанбе , по одному в Худжанде и Куляб .",
+  "annotations": [
+    {
+      "type": "Person",
+      "wordNumber": 4,
+      "correctReplacement": "насчитывается"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 17,
+      "correctReplacement": "Кулябе"
+    },
+    {
+      "correctReplacement": "республики",
+      "type": "paronym",
+      "wordNumber": 3
+    }
+  ]
+}

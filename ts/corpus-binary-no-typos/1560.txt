@@ -1,0 +1,20 @@
+{
+  "text": "Министр иностранных дел России Игорь Иванову приплывший в субботу в Пекин для завершения подготовки предстоящего официальной визита президента РФ в Китай , сообщает РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 5,
+      "correctReplacement": "Иванов"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 15,
+      "correctReplacement": "официального"
+    },
+    {
+      "correctReplacement": "прибыл",
+      "type": "paronym",
+      "wordNumber": 6
+    }
+  ]
+}

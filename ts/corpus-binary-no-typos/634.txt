@@ -1,0 +1,25 @@
+{
+  "text": "Чтобы обеспечить безопасность москвичами , сотрудники ГИБДД особенно тщательно досматриваем грузовой и малотоннажный транспорту , сообщающий РИА \"Новости\" .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 13,
+      "correctReplacement": "транспорт"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 15,
+      "correctReplacement": "сообщает"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "досматривают"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 3,
+      "correctReplacement": "москвичей"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "text": "КС ответил на запрос Думы , как соотнести две статьи Конституции : 92-я , где речь идут о достаточных прекращении президентских полномочий в случае его стойкой неспособности по состоянию здоровья их осуществлять , и 91-ю , где говорится о неприкосновенности президента .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 18,
+      "correctReplacement": "досрочном"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 16,
+      "correctReplacement": "идет"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 12,
+      "correctReplacement": "92-ю"
+    },
+    {
+      "correctReplacement": "досрочных",
+      "type": "paronym",
+      "wordNumber": 18
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Один из основных владельцев Scour Майкл Овитц , которому принадлежите 20 процента акций компании , в прошлым занимаю пост претендента компании Disney и был агентом крупнейших звезд Голливуда .",
+  "annotations": [
+    {
+      "type": "Tense",
+      "wordNumber": 17,
+      "correctReplacement": "занимал"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 11,
+      "correctReplacement": "процентов"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 16,
+      "correctReplacement": "прошлом"
+    },
+    {
+      "type": "Person",
+      "wordNumber": 9,
+      "correctReplacement": "принадлежат"
+    },
+    {
+      "correctReplacement": "президента",
+      "type": "paronym",
+      "wordNumber": 19
+    }
+  ]
+}

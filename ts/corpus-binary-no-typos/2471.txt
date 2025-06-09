@@ -1,0 +1,25 @@
+{
+  "text": "Согласно акму большинство азартных игры объявляется вне закон , однако законодателями было сделан несколько исключений : можно , к примеру , держать пари на скачках и собачьих бегах .",
+  "annotations": [
+    {
+      "type": "Case",
+      "wordNumber": 7,
+      "correctReplacement": "закона"
+    },
+    {
+      "type": "Gender",
+      "wordNumber": 12,
+      "correctReplacement": "сделано"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "игр"
+    },
+    {
+      "correctReplacement": "акту",
+      "type": "paronym",
+      "wordNumber": 1
+    }
+  ]
+}

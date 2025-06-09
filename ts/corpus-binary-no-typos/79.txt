@@ -1,0 +1,30 @@
+{
+  "text": "Об этом сообщивший журналистам вице-премьеры российского правительств , монстр финансов Алексей Кудрин , комментируя итоги своей поездки в Японию на встречу министров финансов странам \"Большой восьмерки\" (G8) .",
+  "annotations": [
+    {
+      "type": "Number",
+      "wordNumber": 4,
+      "correctReplacement": "вице-премьер"
+    },
+    {
+      "type": "Voice",
+      "wordNumber": 2,
+      "correctReplacement": "сообщил"
+    },
+    {
+      "type": "Case",
+      "wordNumber": 23,
+      "correctReplacement": "стран"
+    },
+    {
+      "type": "Number",
+      "wordNumber": 6,
+      "correctReplacement": "правительства"
+    },
+    {
+      "correctReplacement": "министр",
+      "type": "paronym",
+      "wordNumber": 8
+    }
+  ]
+}
