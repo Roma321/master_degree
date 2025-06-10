@@ -1,4 +1,6 @@
 import json
+import shutil
+from pathlib import Path
 from typing import List
 
 import numpy as np
@@ -24,9 +26,6 @@ def compute_metrics(p: EvalPrediction):
 
 def main():
 
-    # models = [
-    #     'DeepPavlov/rubert-base-cased'
-    # ]
     data = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus.json')
     data_extension = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus-3.json')
     train_data, eval_data = train_test_split(data, test_size=0.2, random_state=42)
@@ -51,14 +50,13 @@ def main():
             id2label={i: l for i, l in enumerate(label_list)},
             label2id={l: i for i, l in enumerate(label_list)}
         )
-
+        model_dir = f"./{model_name.replace('/', '__')}-rulec-2000"
         training_args = TrainingArguments(
-            output_dir=f"./{model_name.replace('/', '__')}-rulec-3000-no-typos",
+            output_dir=model_dir,
             evaluation_strategy="epoch",
             save_strategy="epoch",
-            save_total_limit=1,
             load_best_model_at_end=True,
-            metric_for_best_model="f1",  # имя метрики, возвращаемой compute_metrics
+            metric_for_best_model="f1",
             greater_is_better=True,
             learning_rate=5e-6,
             per_device_train_batch_size=16,
@@ -75,7 +73,12 @@ def main():
         )
 
         trainer.train()
-    # trainer.save_model("./DeepPavlov-rulec-plus-plus")
+        trainer.save_model(model_dir)
+
+        for path in Path(model_dir).iterdir():
+            if path.is_dir() and 'checkpoint' in path.name:
+                shutil.rmtree(path)
+                print(f"Удалено: {path.name}")
 
 if __name__ == '__main__':
     main()
