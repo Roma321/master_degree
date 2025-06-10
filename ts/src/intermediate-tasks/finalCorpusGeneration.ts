@@ -19,6 +19,7 @@ export async function generateDifferentErrors(text: string) {
         text: normalizeSpacesAroundPunctuation(text),
         annotations: []
     }
+    return res
     if (errors.includes(MORPH)) {
         console.log('1')
         const withMorph = await makeManyErrors(res.text);

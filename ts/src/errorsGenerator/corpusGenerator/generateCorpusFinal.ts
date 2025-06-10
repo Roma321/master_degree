@@ -55,7 +55,7 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
             return results;
         };
 
-        const inputFiles = getAllFiles(inputDir).slice(0,4000);
+        const inputFiles = getAllFiles(inputDir).slice(10000,14000);
 
         const limit = pLimit(2);
 
@@ -74,7 +74,7 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
 }
 
 const inputDirectory = '/home/roman/projects/mag/corpus/splitted-batch-2';
-const outputDirectory = './corpus-binary-no-typos';
+const outputDirectory = './corpus-just-correct-sentences';
 
 writeCorpus(inputDirectory, outputDirectory);
 
