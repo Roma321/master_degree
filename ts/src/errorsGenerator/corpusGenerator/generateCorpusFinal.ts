@@ -55,7 +55,7 @@ async function writeCorpus(inputDir: string, outputDir: string): Promise<void> {
             return results;
         };
 
-        const inputFiles = getAllFiles(inputDir).slice(10000,14000);
+        const inputFiles = getAllFiles(inputDir).slice(20000,40000);
 
         const limit = pLimit(2);
 
