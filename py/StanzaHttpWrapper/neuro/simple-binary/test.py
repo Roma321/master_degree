@@ -60,10 +60,10 @@ def predict(text: str, model, tokenizer):
 
 if __name__ == '__main__':
     # После обучения загружаем модель и делаем предсказание
-    weights = "/home/roman/projects/mag/py/StanzaHttpWrapper/neuro/simple-binary/sergeyzh__rubert-tiny-turbo-rulec-2000"
+    weights = "/home/roman/Downloads/dp"
     data = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus.json')
     # data_rulec_test = data_rulec
-    tokenizer_name = 'sergeyzh/rubert-tiny-turbo'
+    tokenizer_name = 'DeepPavlov/rubert-base-cased'
 
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
     model = BertForSequenceClassification.from_pretrained(weights)
@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
     eval_dataset = TextDataset(eval_data, tokenizer)
     true_labels, predicted_labels = evaluate_model(model, eval_dataset, 16)
-
+    print(predicted_labels)
     # Получаем метки классов
     label_list = model.config.id2label.values()
 
@@ -83,4 +83,4 @@ if __name__ == '__main__':
     print(classification_report(true_labels, predicted_labels))
 
     # Рисуем и сохраняем матрицу ошибок
-    plot_confusion_matrix(true_labels, predicted_labels, labels=label_list, save_path='res/rulec-and-2000/sergey-zh.png')
+    # plot_confusion_matrix(true_labels, predicted_labels, labels=label_list, save_path='res/rulec/deeppavlov.png')

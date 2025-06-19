@@ -30,14 +30,14 @@ def main():
     #     'DeepPavlov/rubert-base-cased'
     # ]
     data = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus.json')
-    data_extension = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus-4.json')
+    data_extension = load_corpus('/home/roman/projects/mag/ts/corpus-only-binary-classification/corpus-5.json')
     train_data, eval_data = train_test_split(data, test_size=0.2, random_state=42)
     train_data.extend(data_extension)
     model_names = [
-        'sergeyzh/rubert-tiny-turbo',
-        'cointegrated/rubert-tiny',
-        'cointegrated/rubert-tiny2',
-        'ai-forever/ruBert-base',
+        # 'sergeyzh/rubert-tiny-turbo',
+        # 'cointegrated/rubert-tiny',
+        # 'cointegrated/rubert-tiny2',
+        # 'ai-forever/ruBert-base',
         'DeepPavlov/rubert-base-cased'
     ]
 
@@ -53,7 +53,7 @@ def main():
             id2label={i: l for i, l in enumerate(label_list)},
             label2id={l: i for i, l in enumerate(label_list)}
         )
-        model_dir = f"./{model_name.replace('/', '__')}-rulec-3000-no-typos"
+        model_dir = f"./{model_name.replace('/', '__')}-rulec-20000"
 
         training_args = TrainingArguments(
             output_dir=model_dir,
