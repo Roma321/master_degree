@@ -1,8 +1,9 @@
 import os
-from typing import List
+from typing import List, Optional
 
 from torch.utils.data import Dataset
-from transformers import AutoTokenizer, BertForTokenClassification, Trainer, DataCollatorForTokenClassification, PreTrainedTokenizerFast
+from transformers import AutoTokenizer, BertForTokenClassification, Trainer, DataCollatorForTokenClassification, \
+    PreTrainedTokenizerFast, BertForSequenceClassification
 import torch
 from fastapi import FastAPI
 from pydantic import BaseModel
@@ -59,6 +60,7 @@ def decode_predictions(predictions, label_list):
 model_dir = "./results-more-classes/checkpoint-15500"
 bert_tokenizer = AutoTokenizer.from_pretrained("DeepPavlov/rubert-base-cased")
 model = BertForTokenClassification.from_pretrained(model_dir)
+classification_model = BertForSequenceClassification.from_pretrained('/home/roman/Downloads/dp')
 
 label_list = ["O", "Voice", "paronym", "typo", "Number", "Gender", "Tense", "Case", "Person"]
 label_map = {label: i for i, label in enumerate(label_list)}
@@ -68,27 +70,31 @@ trainer = Trainer(
     data_collator=DataCollatorForTokenClassification(bert_tokenizer)
 )
 
+def apply(text: str) -> Optional[List[str]]:
+    # Классификация текста — если 0, то возвращаем None
+    inputs = bert_tokenizer(text, return_tensors="pt", truncation=True, padding=True)
+    with torch.no_grad():
+        outputs = classification_model(**inputs)
+    predicted_class = outputs.logits.argmax(dim=-1).item()
+    if predicted_class == 0:
+        return ["0"] * text.split().__len__()
 
-# === Функция apply с обработкой ===
-def apply(text: str) -> List[str]:
+    # Если не 0 — продолжаем с токенной классификацией
     text_as_dataset = TextInferenceDataset(text, bert_tokenizer)
 
-    predictions, _, _ = trainer.predict(text_as_dataset)  # predictions.shape = [1, seq_len, num_labels]
-
-    logits = torch.tensor(predictions[0])  # shape: [seq_len, num_labels]
-
+    predictions, _, _ = trainer.predict(text_as_dataset)
+    logits = torch.tensor(predictions[0])
     input_ids = text_as_dataset[0]["input_ids"]
     valid_length = sum(1 for x in input_ids if x != bert_tokenizer.pad_token_id)
 
     logits = logits[:valid_length]
     word_ids = text_as_dataset.word_ids[:valid_length]
-
     predicted_label_ids = logits.argmax(dim=-1).tolist()
 
     word_predictions = {}
     for word_id, label_id in zip(word_ids, predicted_label_ids):
         if word_id is None:
-            continue  # пропускаем специальные токены
+            continue
         if word_id not in word_predictions:
             word_predictions[word_id] = label_list[label_id]
 
@@ -99,6 +105,37 @@ def apply(text: str) -> List[str]:
         final_predictions.append(label)
 
     return final_predictions
+
+# # === Функция apply с обработкой ===
+# def apply(text: str) -> List[str]:
+#     text_as_dataset = TextInferenceDataset(text, bert_tokenizer)
+#
+#     predictions, _, _ = trainer.predict(text_as_dataset)  # predictions.shape = [1, seq_len, num_labels]
+#
+#     logits = torch.tensor(predictions[0])  # shape: [seq_len, num_labels]
+#
+#     input_ids = text_as_dataset[0]["input_ids"]
+#     valid_length = sum(1 for x in input_ids if x != bert_tokenizer.pad_token_id)
+#
+#     logits = logits[:valid_length]
+#     word_ids = text_as_dataset.word_ids[:valid_length]
+#
+#     predicted_label_ids = logits.argmax(dim=-1).tolist()
+#
+#     word_predictions = {}
+#     for word_id, label_id in zip(word_ids, predicted_label_ids):
+#         if word_id is None:
+#             continue  # пропускаем специальные токены
+#         if word_id not in word_predictions:
+#             word_predictions[word_id] = label_list[label_id]
+#
+#     words = text.split()
+#     final_predictions = []
+#     for i in range(len(words)):
+#         label = word_predictions.get(i, "O")
+#         final_predictions.append(label)
+#
+#     return final_predictions
 
 
 from fastapi import FastAPI

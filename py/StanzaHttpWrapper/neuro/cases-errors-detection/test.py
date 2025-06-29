@@ -105,9 +105,9 @@ disp.plot(cmap=plt.cm.Blues, values_format=".0f", xticks_rotation=45)
 
 plt.title("Confusion Matrix")
 # plt.show()
-# output_file = "confusion_matrix-roz.png"
-# plt.savefig(output_file, bbox_inches="tight", dpi=300)
-# print(f"Confusion matrix saved to {output_file}")
+output_file = "AAAAA.png"
+plt.savefig(output_file, bbox_inches="tight", dpi=300)
+print(f"Confusion matrix saved to {output_file}")
 #
 # output_errors_file = "error_analysis.txt"
 # with open(output_errors_file, "w", encoding="utf-8") as f:
