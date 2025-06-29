@@ -1,11 +1,11 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 type WordLabel = "O" | "Voice" | "paronym" | "typo" | "Number" | "Gender" | "Tense" | "Case" | "Person"
 
 const colorsMap: Record<WordLabel, string> = {
   O: 'white',
   Voice: 'green',
-  paronym: 'blue',
+  paronym: 'pink',
   typo: 'orange',
   Number: 'cyan',
   Gender: 'red',
@@ -26,16 +26,32 @@ export function normalizeSpacesAroundPunctuation(text: string): string {
   );
 }
 
-
 function App() {
   const [inputText, setInputText] = useState<string>('');
   const [highlightedText, setHighlightedText] = useState<React.ReactNode>('');
+  const [isMobile, setIsMobile] = useState<boolean>(false);
+  const [toastMessage, setToastMessage] = useState<string | null>(null);
+
+  // Определяем, мобильное ли устройство
+  useEffect(() => {
+    const mobileCheck = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    setIsMobile(mobileCheck);
+  }, []);
+
+  // Скрываем toast через 3 секунды
+  useEffect(() => {
+    if (toastMessage) {
+      const timer = setTimeout(() => {
+        setToastMessage(null);
+      }, 3000);
+      return () => clearTimeout(timer);
+    }
+  }, [toastMessage]);
 
   const handleSubmit = async (e: React.FormEvent) => {
-
-    const normalizedtext = normalizeSpacesAroundPunctuation(inputText);
-    setInputText(normalizedtext)
     e.preventDefault();
+    const normalizedtext = normalizeSpacesAroundPunctuation(inputText);
+    setInputText(normalizedtext);
 
     console.log('Отправляем:', normalizedtext);
 
@@ -53,7 +69,7 @@ function App() {
       }
 
       const res: WordLabel[] = await response.json();
-      const colors = res.map(it => colorsMap[it])
+      const colors = res.map(it => colorsMap[it]);
       const words = inputText.trim().split(/\s+/);
 
       if (colors.length !== words.length) {
@@ -64,7 +80,9 @@ function App() {
         <span
           key={index}
           style={{ color: colors[index], cursor: 'help' }}
-          title={`Метка: ${res[index]}`}
+          title={!isMobile ? `Метка: ${res[index]}` : undefined}
+          onClick={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
+          onTouchStart={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
         >
           {word}{' '}
         </span>
@@ -97,6 +115,24 @@ function App() {
       <div style={{ marginTop: '20px', fontSize: '1.2rem' }}>
         {highlightedText || 'Здесь будет результат...'}
       </div>
+
+      {/* Toast уведомление */}
+      {toastMessage && (
+        <div style={{
+          position: 'fixed',
+          bottom: '20px',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          backgroundColor: '#333',
+          color: '#fff',
+          padding: '10px 20px',
+          borderRadius: '5px',
+          zIndex: 9999,
+          opacity: 0.9,
+        }}>
+          {toastMessage}
+        </div>
+      )}
     </div>
   );
 }
