@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 
-type WordLabel = "O" | "Voice" | "paronym" | "typo" | "Number" | "Gender" | "Tense" | "Case" | "Person"
+type WordLabel = "0" | "O" |"Voice" | "paronym" | "typo" | "Number" | "Gender" | "Tense" | "Case" | "Person"
 
 const colorsMap: Record<WordLabel, string> = {
-  O: 'white',
+  "0": 'white',
+  "O": 'white',
   Voice: 'green',
   paronym: 'pink',
   typo: 'orange',
@@ -56,7 +57,7 @@ function App() {
     console.log('Отправляем:', normalizedtext);
 
     try {
-      const response = await fetch('http://localhost:8000/predict', {
+      const response = await fetch('http://82.202.139.195:8000/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -71,49 +72,76 @@ function App() {
       const res: WordLabel[] = await response.json();
       const colors = res.map(it => colorsMap[it]);
       const words = inputText.trim().split(/\s+/);
-
+      console.log(res, colors)
       if (colors.length !== words.length) {
         throw new Error('Количество цветов не совпадает с количеством слов');
       }
 
-      const renderedText = words.map((word, index) => (
-        <span
-          key={index}
-          style={{ color: colors[index], cursor: 'help' }}
-          title={!isMobile ? `Метка: ${res[index]}` : undefined}
-          onClick={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
-          onTouchStart={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
-        >
-          {word}{' '}
-        </span>
-      ));
+      const renderedText = words.map((word, index) => {
+        console.log(colors[index])
+        return (
+          <span
+            key={index}
+            style={{ color: colors[index], cursor: 'help' }}
+            title={!isMobile ? `Метка: ${res[index]}` : undefined}
+            onClick={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
+            onTouchStart={() => isMobile && setToastMessage(`Метка: ${res[index]}`)}
+          >
+            {word}{' '}
+          </span>
+        );
+      });
 
       setHighlightedText(renderedText);
     } catch (error) {
       console.error('Ошибка:', error);
-      alert('Произошла ошибка при обработке запроса');
+      setToastMessage('Произошла ошибка при обработке запроса');
     }
   };
 
   return (
-    <div style={{ padding: '2rem' }}>
-      <h1>Определение ошибок</h1>
+    <div style={{ paddingLeft: 30 }}>
+      <h1 style={{ color: '#f3f4f6' }}>Определение ошибок</h1>
       <form onSubmit={handleSubmit}>
-        <textarea          
+        <textarea
           value={inputText}
           rows={6}
           onChange={(e) => setInputText(e.target.value)}
           placeholder="Введите текст..."
-          style={{ width: '300px', padding: '8px' }}
+          style={{
+            width: '300px',
+            padding: '8px',
+            backgroundColor: '#2d2d2d',
+            color: '#f3f4f6',
+            border: '1px solid #444',
+            borderRadius: '4px'
+          }}
         />
-        <br/>
-        <button type="submit" style={{ marginLeft: '10px', padding: '8px 12px' }}>
+        <br />
+        <button
+          type="submit"
+          style={{
+            marginLeft: '10px',
+            padding: '8px 12px',
+            backgroundColor: 'black',
+            color: 'white',
+            border: 'none',
+            borderRadius: '4px',
+            cursor: 'pointer'
+          }}
+        >
           Отправить
         </button>
       </form>
 
-      <div style={{ marginTop: '20px', fontSize: '1.2rem' }}>
-        {highlightedText || 'Здесь будет результат...'}
+      <div style={{
+        marginTop: '20px',
+        fontSize: '1.2rem',
+        backgroundColor: '#2d2d2d',
+        padding: '1rem',
+        borderRadius: '4px'
+      }}>
+        {highlightedText || <span style={{ color: '#9ca3af' }}>Здесь будет результат...</span>}
       </div>
 
       {/* Toast уведомление */}
@@ -123,7 +151,7 @@ function App() {
           bottom: '20px',
           left: '50%',
           transform: 'translateX(-50%)',
-          backgroundColor: '#333',
+          backgroundColor: '#3b82f6',
           color: '#fff',
           padding: '10px 20px',
           borderRadius: '5px',
